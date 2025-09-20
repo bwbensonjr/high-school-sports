@@ -1,7 +1,7 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
-2025-09-11,44413,FINAL,Whittier,4428,44,1,Lawrence,4203,28,0,Commonwealth,Merrimack Valley,6:00 P.M.,,0
-2025-09-11,44517,FINAL,Lexington,4209,42,1,Newton South,4280,27,0,Middlesex,Dual County,6:00 P.M.,,0
-2025-09-11,45124,FINAL,Gardner,4147,6,0,Quabbin,4325,20,1,Mid-Wach,Mid-Wach,7:00 P.M.,,0
+2025-09-11,44413,FINAL,Whittier,4428,44.0,1.0,Lawrence,4203,28.0,0.0,Commonwealth,Merrimack Valley,6:00 P.M.,,0
+2025-09-11,44517,FINAL,Lexington,4209,42.0,1.0,Newton South,4280,27.0,0.0,Middlesex,Dual County,6:00 P.M.,,0
+2025-09-11,45124,FINAL,Gardner,4147,6.0,0.0,Quabbin,4325,20.0,1.0,Mid-Wach,Mid-Wach,7:00 P.M.,,0
 2025-09-12,43913,FINAL,Acton-Boxborough,4003,22,1,Brookline,4059,6,0,Dual County,Bay State,7:00 P.M.,,0
 2025-09-12,43929,FINAL,Needham,4272,0,0,Natick,4270,27,1,Bay State,Bay State,6:30 P.M.,,0
 2025-09-12,43935,FINAL,Newton North,4279,29,1,Waltham,4405,0,0,Bay State,Dual County,6:00 P.M.,,0
@@ -255,9 +255,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-09-20,44375,UPCOMING,Groton,4544,,,Portsmouth Abbey,4320,,,NEPSAC Class C,NEPSAC Class C,3:30 P.M.,,0
 2025-09-20,44387,FINAL,Northeast,4293,14,1,Bay Path,4027,0,0,Commonwealth,CMAC,1:00 P.M.,,0
 2025-09-20,44395,FINAL,Nobles,4282,13,1,Middlesex,4248,10,0,NEPSAC Class C,NEPSAC Class C,2:30 P.M.,,0
-2025-09-20,44416,UPCOMING,St. George’s,4367,,,Rivers,4330,,,NEPSAC Class C,NEPSAC Class C,2:00 P.M.,,0
+2025-09-20,44416,LIVE,St. George’s,4367,13,,Rivers,4330,9,,NEPSAC Class C,NEPSAC Class C,2:00 P.M.,,0
 2025-09-20,44441,UPCOMING,Proctor,4321,,,St. Mark’s,4372,,,NEPSAC Class C,NEPSAC Class C,4:00 P.M.,,0
-2025-09-20,44612,UPCOMING,Austin Prep,4020,,,New Hampton,4275,,,NEPSAC Class C,NEPSAC Class C,3:00 P.M.,,0
+2025-09-20,44612,FINAL,Austin Prep,4020,21,1,New Hampton,4275,14,0,NEPSAC Class C,NEPSAC Class C,3:00 P.M.,,0
 2025-09-20,44637,FINAL,Dexter Southfield,4113,41,1,Hotchkiss,4181,7,0,NEPSAC Class A,NEPSAC Class A,3:30 P.M.,,0
 2025-09-20,44651,UPCOMING,Wilbraham & Monson,4545,,,Hebron (Maine),4168,,,NEPSAC 8-Person,NEPSAC 8-Person,3:30 P.M.,,0
 2025-09-20,44688,FINAL,Kingswood-Oxford,4198,31,1,Greenwich CD (Conn.),5041,12,0,NEPSAC Class C,NEPSAC Class C,12:00 P.M.,,0
@@ -272,10 +272,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-09-20,45065,FINAL,St. Paul,4954,0,0,Littleton,4212,21,1,CMAC,Mid-Wach,12:00 P.M.,,0
 2025-09-20,45113,FINAL,Worcester North,4443,8,0,West Boylston,4414,34,1,CMAC,Mid-Wach,12:00 P.M.,,0
 2025-09-20,45172,UPCOMING,Burncoat,4066,,,Leicester,4207,,,CMAC,CMAC,3:00 P.M.,,0
-2025-09-20,57119,UPCOMING,Avon Old Farms,4021,,,Kent,4193,,,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
-2025-09-20,57133,UPCOMING,Taft,4386,,,Loomis Chaffee (Conn.),4215,,,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
-2025-09-20,57155,UPCOMING,Lawrenceville (N.J.),4205,,,Choate,4090,,,Independent,NEPSAC Class A,3:00 P.M.,,0
-2025-09-20,57161,UPCOMING,Suffield Academy,4382,,,Deerfield,4110,,,NEPSAC Class A,NEPSAC Class A,3:30 P.M.,,0
+2025-09-20,57119,FINAL,Avon Old Farms,4021,43,1,Kent,4193,6,0,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
+2025-09-20,57133,FINAL,Taft,4386,27,1,Loomis Chaffee (Conn.),4215,26,0,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
+2025-09-20,57155,FINAL,Lawrenceville (N.J.),4205,12,0,Choate,4090,21,1,Independent,NEPSAC Class A,3:00 P.M.,,0
+2025-09-20,57161,FINAL,Suffield Academy,4382,45,1,Deerfield,4110,27,0,NEPSAC Class A,NEPSAC Class A,3:30 P.M.,,0
 2025-09-20,57197,UPCOMING,Phillips Exeter,4311,,,Cheshire (Conn.),4793,,,NEPSAC Class A,Independent,3:00 P.M.,,0
 2025-09-25,44154,UPCOMING,Everett,4132,,,BC High,4029,,,Greater Boston,Catholic Conference,6:00 P.M.,,0
 2025-09-25,44392,UPCOMING,Malden,4227,,,Northeast,4293,,,Greater Boston,Commonwealth,6:00 P.M.,,0
@@ -419,3 +419,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-09-27,57136,UPCOMING,Hotchkiss,4181,,,Loomis Chaffee (Conn.),4215,,,NEPSAC Class A,NEPSAC Class A,4:00 P.M.,,0
 2025-09-27,57157,UPCOMING,Choate,4090,,,Kent,4193,,,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
 2025-09-27,57193,UPCOMING,Brunswick,4062,,,Suffield Academy,4382,,,NEPSAC Class A,NEPSAC Class A,6:00 P.M.,,0
+2025-10-02,44593,UPCOMING,Lawrence,4203,,,Haverhill,4167,,,Merrimack Valley,Merrimack Valley,6:00 P.M.,,0
+2025-10-02,44812,UPCOMING,Saugus,4341,,,Winthrop,4437,,,Northeastern,Northeastern,6:30 P.M.,,0
+2025-10-02,44829,UPCOMING,Hanover,4164,,,Pembroke,4308,,,Patriot,Patriot,7:00 P.M.,,0
+2025-10-02,44830,UPCOMING,Medford,4242,,,Somerville,4351,,,Greater Boston,Greater Boston,6:00 P.M.,,0
+2025-10-02,44885,UPCOMING,Whitman-Hanson,4427,,,Hingham,4171,,,Patriot,Patriot,7:00 P.M.,,0
+2025-10-02,44898,UPCOMING,Plymouth North,4315,,,Silver Lake,4349,,,Patriot,Patriot,7:00 P.M.,,0
+2025-10-02,45270,UPCOMING,Pathfinder,4305,,,Smith Vocational,4539,,,Tri-County,Tri-County,6:00 P.M.,,0
