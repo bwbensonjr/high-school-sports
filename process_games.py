@@ -81,8 +81,16 @@ def process_games_json(data):
 def fetch_and_process_games(date_string):
     """Fetch JSON data from Boston Globe API and process games."""
 
+    # Determine the school year from the date
+    date_obj = datetime.strptime(date_string, '%Y-%m-%d')
+    # School year starts in fall, so if month >= 8, it's the start of the school year
+    if date_obj.month >= 8:
+        school_year = f"{date_obj.year}{str(date_obj.year + 1)[2:]}"
+    else:
+        school_year = f"{date_obj.year - 1}{str(date_obj.year)[2:]}"
+
     # Construct URL from README pattern
-    url = f"https://www.bostonglobe.com/partners/data-high-school-sports-services/prd/202526/v2/scoreboard/{date_string}.json"
+    url = f"https://www.bostonglobe.com/partners/data-high-school-sports-services/prd/{school_year}/v2/scoreboard/{date_string}.json"
 
     print(f"Fetching data from: {url}")
 
@@ -303,6 +311,7 @@ if __name__ == "__main__":
         epilog="""
 Examples:
   python process_games.py --date 2025-09-20
+  python process_games.py --today
   python process_games.py --start 2025-09-20 --end 2025-09-25
   python process_games.py --test
         """
@@ -312,6 +321,9 @@ Examples:
     mode_group = parser.add_mutually_exclusive_group(required=True)
     mode_group.add_argument('--date',
                            help='Process games for a single date (YYYY-MM-DD)')
+    mode_group.add_argument('--today',
+                           action='store_true',
+                           help='Process games for today\'s date')
     mode_group.add_argument('--test',
                            action='store_true',
                            help='Run tests to verify game update functionality')
@@ -334,6 +346,10 @@ Examples:
         test_game_updates()
     elif args.date:
         fetch_and_process_games(args.date)
+    elif args.today:
+        today_date = datetime.now().strftime('%Y-%m-%d')
+        print(f"Processing games for today: {today_date}")
+        fetch_and_process_games(today_date)
     elif args.start and args.end:
         # Validate date format
         try:
