@@ -334,37 +334,37 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-09-19,57439,FINAL,Andover,4009,41,1,Chelmsford,4085,3,0,Merrimack Valley,Merrimack Valley,7:00 P.M.,,0
 2025-09-19,57446,FINAL,Joseph Case,4078,17,0,Tri-County,4392,40,1,South Coast,Mayflower,6:30 P.M.,,0
 2025-09-19,57503,FINAL,Quabbin,4325,36,1,Quaboag,4510,8,0,Mid-Wach,CMAC,7:00 P.M.,,0
-2025-09-20,43922,UPCOMING,Milton,4252,,,Framingham,4143,,,Bay State,Bay State,6:00 P.M.,,0
+2025-09-20,43922,FINAL,Milton,4252,42,1,Framingham,4143,6,0,Bay State,Bay State,6:00 P.M.,,0
 2025-09-20,43983,FINAL,Lowell,4216,48,1,New Bedford,4273,0,0,Merrimack Valley,Big Three,1:00 P.M.,,0
 2025-09-20,44043,FINAL,Martha’s Vineyard,4235,38,1,Sharon,4345,12,0,Cape & Islands,Hockomock,1:30 P.M.,,0
 2025-09-20,44056,FINAL,Nantucket,4265,41,1,Blackstone Valley,4046,6,0,Cape & Islands,CMAC,12:30 P.M.,,0
 2025-09-20,44161,FINAL,St. Francis Prep (N.Y.),4752,32,0,Catholic Memorial,4080,56,1,Independent,Catholic Conference,1:00 P.M.,,0
 2025-09-20,44230,FINAL,Belmont Hill,4035,6,0,St. Paul’s,4375,21,1,NEPSAC Class B,NEPSAC Class B,2:00 P.M.,,0
-2025-09-20,44279,UPCOMING,Lynn Tech,4222,,,Monty Tech,4259,,,Commonwealth,CMAC,6:00 P.M.,,0
+2025-09-20,44279,FINAL,Lynn Tech,4222,20,1,Monty Tech,4259,6,0,Commonwealth,CMAC,6:00 P.M.,,0
 2025-09-20,44293,FINAL,Tabor,4384,46,1,Governor’s Academy,4152,6,0,NEPSAC Class B,NEPSAC Class C,1:30 P.M.,,0
 2025-09-20,44310,FINAL,Thayer,4390,6,0,Lawrence Academy,4204,28,1,NEPSAC Class C,NEPSAC Class C,2:00 P.M.,,0
-2025-09-20,44323,UPCOMING,Milton Academy,4253,,,St. Sebastian’s,4378,,,NEPSAC Class B,NEPSAC Class B,6:30 P.M.,,0
-2025-09-20,44352,UPCOMING,Roxbury Latin,4334,,,Brooks,4060,,,NEPSAC Class C,NEPSAC Class C,2:30 P.M.,,0
+2025-09-20,44323,FINAL,Milton Academy,4253,37,1,St. Sebastian’s,4378,14,0,NEPSAC Class B,NEPSAC Class B,6:30 P.M.,,0
+2025-09-20,44352,FINAL,Roxbury Latin,4334,21,1,Brooks,4060,20,0,NEPSAC Class C,NEPSAC Class C,2:30 P.M.,,0
 2025-09-20,44375,FINAL,Groton,4544,7,0,Portsmouth Abbey,4320,34,1,NEPSAC Class C,NEPSAC Class C,3:30 P.M.,,0
 2025-09-20,44387,FINAL,Northeast,4293,14,1,Bay Path,4027,0,0,Commonwealth,CMAC,1:00 P.M.,,0
 2025-09-20,44395,FINAL,Nobles,4282,13,1,Middlesex,4248,10,0,NEPSAC Class C,NEPSAC Class C,2:30 P.M.,,0
-2025-09-20,44416,LIVE,St. George’s,4367,13,,Rivers,4330,9,,NEPSAC Class C,NEPSAC Class C,2:00 P.M.,,0
-2025-09-20,44441,UPCOMING,Proctor,4321,,,St. Mark’s,4372,,,NEPSAC Class C,NEPSAC Class C,4:00 P.M.,,0
+2025-09-20,44416,FINAL,St. George’s,4367,13,0,Rivers,4330,21,1,NEPSAC Class C,NEPSAC Class C,2:00 P.M.,,0
+2025-09-20,44441,FINAL,Proctor,4321,7,0,St. Mark’s,4372,34,1,NEPSAC Class C,NEPSAC Class C,4:00 P.M.,,0
 2025-09-20,44612,FINAL,Austin Prep,4020,21,1,New Hampton,4275,14,0,NEPSAC Class C,NEPSAC Class C,3:00 P.M.,,0
 2025-09-20,44637,FINAL,Dexter Southfield,4113,41,1,Hotchkiss,4181,7,0,NEPSAC Class A,NEPSAC Class A,3:30 P.M.,,0
-2025-09-20,44651,UPCOMING,Wilbraham & Monson,4545,,,Hebron (Maine),4168,,,NEPSAC 8-Person,NEPSAC 8-Person,3:30 P.M.,,0
+2025-09-20,44651,FINAL,Wilbraham & Monson,4545,28,1,Hebron (Maine),4168,14,0,NEPSAC 8-Person,NEPSAC 8-Person,3:30 P.M.,,0
 2025-09-20,44688,FINAL,Kingswood-Oxford,4198,31,1,Greenwich CD (Conn.),5041,12,0,NEPSAC Class C,NEPSAC Class C,12:00 P.M.,,0
 2025-09-20,44706,FINAL,Hamden Hall Country Day,4162,12,0,Pingree,4312,34,1,NEPSAC Class C,NEPSAC Class C,2:00 P.M.,,0
-2025-09-20,44735,UPCOMING,Worcester Academy,4441,,,Berkshire,4036,,,NEPSAC Class C,NEPSAC Class C,3:00 P.M.,,0
-2025-09-20,44747,UPCOMING,Capital Prep Harbor (Conn.),4905,,,Canterbury,4070,,,NEPSAC Class C,NEPSAC Class C,3:00 P.M.,,0
-2025-09-20,44761,UPCOMING,Frederick Gunn (Conn.),4161,,,Holderness,4173,,,NEPSAC 8-Person,NEPSAC 8-Person,4:00 P.M.,,0
-2025-09-20,44866,UPCOMING,Quincy,4326,,,Stoughton,4381,,,Patriot,Hockomock,4:30 P.M.,,0
-2025-09-20,44914,UPCOMING,Phillips Andover,4310,,,Williston Northampton,4431,,,NEPSAC Class A,NEPSAC Class A,5:00 P.M.,,0
-2025-09-20,44923,UPCOMING,Phillips Exeter,4311,,,Cheshire Academy,4087,,,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
+2025-09-20,44735,FINAL,Worcester Academy,4441,21,0,Berkshire,4036,26,1,NEPSAC Class C,NEPSAC Class C,3:00 P.M.,,0
+2025-09-20,44747,FINAL,Capital Prep Harbor (Conn.),4905,6,0,Canterbury,4070,44,1,NEPSAC Class C,NEPSAC Class C,3:00 P.M.,,0
+2025-09-20,44761,FINAL,Frederick Gunn (Conn.),4161,22,0,Holderness,4173,32,1,NEPSAC 8-Person,NEPSAC 8-Person,4:00 P.M.,,0
+2025-09-20,44866,FINAL,Quincy,4326,27,1,Stoughton,4381,19,0,Patriot,Hockomock,4:30 P.M.,,0
+2025-09-20,44914,FINAL,Phillips Andover,4310,0,0,Williston Northampton,4431,27,1,NEPSAC Class A,NEPSAC Class A,5:00 P.M.,,0
+2025-09-20,44923,FINAL,Phillips Exeter,4311,41,1,Cheshire Academy,4087,24,0,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
 2025-09-20,45003,FINAL,Westborough,4418,21,0,Hudson,4182,28,1,Mid-Wach,Mid-Wach,2:00 P.M.,,0
 2025-09-20,45065,FINAL,St. Paul,4954,0,0,Littleton,4212,21,1,CMAC,Mid-Wach,12:00 P.M.,,0
 2025-09-20,45113,FINAL,Worcester North,4443,8,0,West Boylston,4414,34,1,CMAC,Mid-Wach,12:00 P.M.,,0
-2025-09-20,45172,UPCOMING,Burncoat,4066,,,Leicester,4207,,,CMAC,CMAC,3:00 P.M.,,0
+2025-09-20,45172,FINAL,Burncoat,4066,28,0,Leicester,4207,37,1,CMAC,CMAC,3:00 P.M.,,0
 2025-09-20,57119,FINAL,Avon Old Farms,4021,43,1,Kent,4193,6,0,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
 2025-09-20,57133,FINAL,Taft,4386,27,1,Loomis Chaffee (Conn.),4215,26,0,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
 2025-09-20,57155,FINAL,Lawrenceville (N.J.),4205,12,0,Choate,4090,21,1,Independent,NEPSAC Class A,3:00 P.M.,,0

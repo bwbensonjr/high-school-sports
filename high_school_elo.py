@@ -30,9 +30,13 @@ def compute_elo_ratings(sport):
 
     games_df = pd.concat(all_games, ignore_index=True)
 
-    # Filter out games that haven't been played yet (no scores)
-    completed_games = games_df[games_df['status'] == 'FINAL'].copy()
-    print(f"Found {len(completed_games)} completed games")
+    # Filter out games that haven't been played yet (no scores) and games with missing scores
+    completed_games = games_df[
+        (games_df['status'] == 'FINAL') &
+        (games_df['home_score'].notna()) &
+        (games_df['visitor_score'].notna())
+    ].copy()
+    print(f"Found {len(completed_games)} completed games with valid scores")
 
     # Get all teams
     teams = set(
