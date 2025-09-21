@@ -1,0 +1,4 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
+2024-12-11,18172,FINAL,Tri-County,4392,45,0,Bishop Feehan,4042,55,1,Mayflower,Mayflower,,,0
+2024-12-11,40162,FINAL,Diman,4115,77,1,Wareham,4407,22,0,Mayflower,Mayflower,,,0
+2024-12-11,43409,FINAL,Southeastern,4358,78,1,Bishop Stang,4045,21,0,Mayflower,Mayflower,,,0

@@ -1,0 +1,44 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
+2024-11-20,13374,FINAL,Kimball Union,4196,69.0,0.0,Worcester Academy,4441,70.0,1.0,Independent,Independent,,,0
+2024-12-02,18236,UPCOMING,Marie Philip,4560,,,Commonwealth,4095,,,MBIL,MBIL,3:30 P.M.,,0
+2024-12-03,18094,UPCOMING,Austin Prep,4020,,,St. Mark’s,4372,,,Independent,ISL,5:00 P.M.,,0
+2024-12-04,18115,UPCOMING,Holderness,4173,,,Groton,4544,,,Independent,ISL,4:00 P.M.,,0
+2024-12-04,18152,UPCOMING,Rivers,4330,,,Brewster Academy,4052,,,ISL,Independent,4:00 P.M.,,0
+2024-12-04,18197,UPCOMING,Chapel Hill,4082,,,BU Academy,4063,,,MBIL,MBIL,4:00 P.M.,,0
+2024-12-04,18213,UPCOMING,Gann Academy,4541,,,Wheeler (R.I.),4426,,,MBIL,EIL,4:00 P.M.,,0
+2024-12-04,18225,FINAL,Landmark,4200,53,1,Covenant Christian,4629,50,0,MBIL,MBIL,5:15 P.M.,1.0,0
+2024-12-04,18262,FINAL,Newman School,4277,80,1,Commonwealth,4095,41,0,MBIL,MBIL,3:30 P.M.,,0
+2024-12-04,19340,FINAL,Proctor,4321,56,0,Brooks,4060,61,1,Independent,ISL,3:00 P.M.,,0
+2024-12-06,15677,UPCOMING,Walpole,4404,,,Medfield,4241,,,Bay State,Tri-Valley,4:15 P.M.,,0
+2024-12-06,16306,FINAL,Lexington Christian,4210,67,1,Berwick,4037,46,0,EIL,EIL,,,0
+2024-12-06,16310,FINAL,Brimmer & May,4056,73,1,Nobles,4282,63,0,MBIL,ISL,,,0
+2024-12-06,18123,FINAL,Middlesex,4248,67,1,Pingree,4312,64,0,ISL,EIL,5:30 P.M.,,0
+2024-12-06,18226,UPCOMING,Landmark,4200,,,Bancroft,4023,,,MBIL,EIL,5:15 P.M.,,0
+2024-12-06,18265,FINAL,Covenant Christian,4629,52,1,Newman School,4277,49,0,MBIL,MBIL,4:00 P.M.,,0
+2024-12-07,16570,FINAL,Winchendon,4433,68,0,Lawrence Academy,4204,75,1,Independent,ISL,,,0
+2024-12-07,16573,FINAL,Roxbury Latin,4334,53,0,Holderness,4173,70,1,ISL,Independent,,,0
+2024-12-07,16653,FINAL,Newman School,4277,71,1,Beaver Country Day,4030,50,0,MBIL,EIL,,,0
+2024-12-07,18106,UPCOMING,St. Paul’s,4375,,,Belmont Hill,4035,,,Independent,ISL,3:30 P.M.,,0
+2024-12-07,18116,UPCOMING,Pingree,4312,,,Groton,4544,,,EIL,ISL,3:30 P.M.,,0
+2024-12-07,18985,FINAL,Middlesex,4248,85,1,King (Conn.),4199,61,0,ISL,Independent,,,0
+2024-12-08,16650,FINAL,Rivers,4330,47,0,Canterbury,4070,48,1,ISL,Independent,,,0
+2024-12-08,16651,FINAL,MacDuffie,4224,70,0,Lawrence Academy,4204,72,1,Independent,ISL,,1.0,0
+2024-12-08,16654,FINAL,Brewster Academy,4052,83,1,Brooks,4060,53,0,Independent,ISL,,,0
+2024-12-09,16733,FINAL,New Hampton,4275,78,1,Holderness,4173,59,0,Independent,Independent,,,0
+2024-12-09,18214,UPCOMING,Bishop Connolly,4041,,,Gann Academy,4541,,,Independent,MBIL,5:15 P.M.,,0
+2024-12-09,18237,UPCOMING,Marie Philip,4560,,,International School,4717,,,MBIL,Independent,5:30 P.M.,,0
+2024-12-10,18165,UPCOMING,Boston Trinity,4542,,,BU Academy,4063,,,MBIL,MBIL,4:30 P.M.,,0
+2024-12-10,18198,UPCOMING,Portsmouth (N.H.),4649,,,Chapel Hill,4082,,,Independent,MBIL,4:30 P.M.,,0
+2024-12-11,18040,FINAL,Lawrence Academy,4204,59,1,Brooks,4060,52,0,ISL,ISL,3:45 P.M.,,0
+2024-12-11,18066,FINAL,St. Mark’s,4372,69,1,BB&N,4028,64,0,ISL,ISL,,,0
+2024-12-11,18067,FINAL,Worcester Academy,4441,112,1,Master’s Academy,4548,51,0,Independent,Independent,,,0
+2024-12-11,18087,FINAL,Phillips Andover,4310,51,1,Holderness,4173,50,0,Independent,Independent,,,0
+2024-12-11,18107,FINAL,Belmont Hill,4035,53,1,Rivers,4330,49,0,ISL,ISL,5:30 P.M.,1.0,0
+2024-12-11,18109,FINAL,Middlesex,4248,62,0,Governor’s Academy,4152,63,1,ISL,ISL,4:30 P.M.,,0
+2024-12-11,18130,UPCOMING,Groton,4544,,,Milton Academy,4253,,,ISL,ISL,3:45 P.M.,,0
+2024-12-11,18150,FINAL,St. Paul’s,4375,74,1,Nobles,4282,58,0,Independent,ISL,5:00 P.M.,,0
+2024-12-11,18155,UPCOMING,Roxbury Latin,4334,,,Beaver Country Day,4030,,,ISL,EIL,4:30 P.M.,,0
+2024-12-11,18215,UPCOMING,Covenant Christian,4629,,,Gann Academy,4541,,,MBIL,MBIL,4:00 P.M.,,0
+2024-12-11,18238,UPCOMING,Marie Philip,4560,,,Waring,4408,,,MBIL,MBIL,4:00 P.M.,,0
+2024-12-11,18247,FINAL,Bancroft,4023,82,1,Brimmer & May,4056,44,0,EIL,MBIL,4:30 P.M.,,0
+2024-12-11,18253,UPCOMING,Putnam,4362,,,Newman School,4277,,,Independent,MBIL,5:00 P.M.,,0

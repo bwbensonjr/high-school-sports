@@ -1,0 +1,4 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
+2024-09-10,9184,FINAL,North Andover,4283,104,1,Methuen/Tewksbury,4246,81,0,Independent,Independent,,,0
+2024-09-27,10631,FINAL,Melrose,4244,57,0,Methuen/Tewksbury,4246,96,1,Independent,Independent,,,0
+2024-10-18,11748,FINAL,Lowell,4216,81,0,Methuen/Tewksbury,4246,95,1,Independent,Independent,,,0

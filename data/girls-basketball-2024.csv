@@ -1,0 +1,12 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
+2024-12-04,16657,FINAL,Middlesex,4248,58,1,Portsmouth Abbey,4320,34,0,ISL,EIL,,,0
+2024-12-06,16212,FINAL,Winsor,4436,34,0,Phillips Exeter,4311,46,1,EIL,Independent,,,0
+2024-12-06,16331,FINAL,Concord Academy,4096,33,0,Middlesex,4248,54,1,EIL,ISL,,,0
+2024-12-10,23356,FINAL,Mystic Valley,4264,35,1,Lynn Tech,4222,21,0,Commonwealth,Commonwealth,,,0
+2024-12-11,18068,FINAL,Austin Prep,4020,57,0,Mount St. Charles (R.I.),4488,72,1,Independent,Independent,,,0
+2024-12-11,18069,FINAL,Pingree,4312,52,1,Dana Hall,4102,37,0,EIL,EIL,,,0
+2024-12-11,18074,FINAL,Brooks,4060,45,0,Lawrence Academy,4204,58,1,ISL,ISL,,,0
+2024-12-11,18181,FINAL,Holderness,4173,38,0,Cushing,4101,48,1,Independent,Independent,,,0
+2024-12-11,18344,FINAL,Middlesex,4248,59,1,Governor’s Academy,4152,52,0,ISL,ISL,,,0
+2024-12-11,18442,FINAL,Rivers,4330,47,1,Groton,4544,39,0,ISL,ISL,,,0
+2024-12-11,18902,FINAL,Winsor,4436,35,0,Concord Academy,4096,41,1,EIL,EIL,,,0

@@ -1,0 +1,11 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
+2024-12-06,16282,FINAL,Berwick,4037,2,0,Holderness,4173,3,1,EIL,Independent,,,0
+2024-12-07,16568,FINAL,Lawrence Academy,4204,5,1,Choate,4090,3,0,ISL,Founders,,,0
+2024-12-07,16571,FINAL,Hebron (Maine),4168,1,0,Holderness,4173,5,1,Independent,Independent,,,0
+2024-12-11,18070,FINAL,Williston Northampton,4431,5,1,Cushing,4101,2,0,Independent,Independent,,,0
+2024-12-11,18071,FINAL,Tilton,4391,1,0,Groton,4544,3,1,Independent,ISL,,,0
+2024-12-11,18072,FINAL,Deerfield,4110,2,0,Loomis Chaffee (Conn.),4215,3,1,Independent,Founders,,,0
+2024-12-11,18073,FINAL,St. Mark’s,4372,1,0,Nobles,4282,9,1,ISL,ISL,,,0
+2024-12-11,18076,FINAL,Lawrence Academy,4204,2,1,St. Paul’s,4375,1,0,ISL,Independent,,,0
+2024-12-11,18085,FINAL,Worcester Academy,4441,4,1,Austin Prep,4020,3,0,Independent,Independent,,,0
+2024-12-11,18179,FINAL,Holderness,4173,4,1,Brewster Academy,4052,3,0,Independent,Independent,,,0

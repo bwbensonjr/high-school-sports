@@ -1,0 +1,114 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
+2024-09-05,8757,FINAL,Wellesley,4413,85.0,1,Walpole,4404,43.0,0,Bay State,Bay State,,,0
+2024-09-06,8791,FINAL,Chelmsford,4085,89.0,0,Methuen/Tewksbury,4246,97.0,1,Merrimack Valley,Merrimack Valley,,,0
+2024-09-06,8796,FINAL,Needham,4272,99.0,1,Framingham,4143,85.0,0,Bay State,Bay State,,,0
+2024-09-06,40967,FINAL,Weymouth,4425,66.0,0,Brookline,4059,98.0,1,Bay State,Bay State,,,0
+2024-09-10,9185,FINAL,Andover,4009,89.0,1,Central Catholic,4081,73.0,0,Merrimack Valley,Merrimack Valley,,,0
+2024-09-10,9233,FINAL,Wellesley,4413,93.0,1,Natick,4270,79.0,0,Bay State,Bay State,,,0
+2024-09-10,40466,FINAL,Newton North,4279,81.0,0,Acton-Boxborough,4003,102.0,1,Bay State,Independent,,,0
+2024-09-10,40502,FINAL,North Andover,4283,104.0,1,Methuen/Tewksbury,4246,81.0,0,Merrimack Valley,Merrimack Valley,,,0
+2024-09-10,40911,FINAL,Needham,4272,94.0,1,Milton,4252,91.0,0,Bay State,Bay State,,,0
+2024-09-10,40969,FINAL,Brookline,4059,97.0,1,Boston Latin,4049,78.0,0,Bay State,Independent,,,0
+2024-09-10,41651,FINAL,Winchester,4434,91.0,1,Woburn,4438,74.0,0,Middlesex,Middlesex,,,0
+2024-09-10,41669,FINAL,Woburn,4438,74.0,0,Winchester,4434,91.0,1,Middlesex,Middlesex,,,0
+2024-09-10,41770,FINAL,Stoneham,4380,51.0,0,Belmont,4034,89.0,1,Middlesex,Middlesex,,,0
+2024-09-12,40348,FINAL,Arlington/Watertown,4013,43.0,0,Lexington,4209,51.0,1,Middlesex,Middlesex,,,0
+2024-09-13,9378,FINAL,Andover,4009,102.0,1,Methuen/Tewksbury,4246,81.0,0,Merrimack Valley,Merrimack Valley,,,0
+2024-09-13,40467,FINAL,Newton North,4279,85.0,1,Weymouth,4425,74.0,0,Bay State,Bay State,,,0
+2024-09-13,40493,FINAL,Chelmsford,4085,77.0,0,North Andover,4283,107.0,1,Merrimack Valley,Merrimack Valley,,,0
+2024-09-13,40970,FINAL,Brookline,4059,85.0,0,Milton,4252,95.0,1,Bay State,Bay State,,,0
+2024-09-14,40530,FINAL,Natick,4270,97.0,1,Braintree,4051,83.0,0,Bay State,Bay State,,,0
+2024-09-17,9683,FINAL,Needham,4272,103.0,1,Braintree,4051,81.0,0,Bay State,Bay State,,,0
+2024-09-17,9845,FINAL,Notre Dame (Hingham),4449,95.0,1,Malden Catholic,4228,72.0,0,Catholic Conference,Catholic Conference,,,0
+2024-09-17,40404,FINAL,Belmont,4034,82.0,0,Andover,4009,104.0,1,Middlesex,Merrimack Valley,,,0
+2024-09-17,40468,FINAL,Walpole,4404,54.0,0,Newton North,4279,85.0,1,Bay State,Bay State,,,0
+2024-09-17,40972,FINAL,Brookline,4059,81.0,0,Wellesley,4413,99.0,1,Bay State,Bay State,,,0
+2024-09-17,41387,FINAL,Milton,4252,97.0,1,Framingham,4143,87.0,0,Bay State,Bay State,,,0
+2024-09-17,41656,FINAL,Winchester,4434,86.0,1,Reading,4328,79.0,0,Middlesex,Middlesex,,,0
+2024-09-18,9897,FINAL,Ursuline,4448,97.0,1,Boston Latin,4049,83.0,0,Catholic Conference,Independent,,,0
+2024-09-18,40350,FINAL,Lexington,4209,58.0,0,Acton-Boxborough,4003,112.0,1,Middlesex,Independent,,,0
+2024-09-18,40531,FINAL,Natick,4270,90.0,1,Weymouth,4425,85.0,0,Bay State,Bay State,,,0
+2024-09-19,41533,FINAL,Wellesley,4413,89.0,0,Milton,4252,96.0,1,Bay State,Bay State,,,0
+2024-09-19,41702,FINAL,Stoneham,4380,59.0,0,Arlington/Watertown,4013,89.0,1,Middlesex,Middlesex,,,0
+2024-09-19,42460,FINAL,Wakefield/Wakefield,4402,90.0,1,Woburn,4438,80.0,0,Middlesex,Middlesex,,,0
+2024-09-20,40352,FINAL,Belmont,4034,79.0,0,Lexington,4209,91.0,1,Middlesex,Middlesex,,,0
+2024-09-20,40406,FINAL,Haverhill,4167,81.0,0,Andover,4009,105.0,1,Merrimack Valley,Merrimack Valley,,,0
+2024-09-20,40469,FINAL,Braintree,4051,70.0,0,Newton North,4279,91.0,1,Bay State,Bay State,,,0
+2024-09-20,40494,FINAL,Stoneham,4380,56.0,0,Chelmsford,4085,94.0,1,Middlesex,Merrimack Valley,,,0
+2024-09-20,40503,FINAL,Methuen/Tewksbury,4246,101.0,1,Central Catholic,4081,77.0,0,Merrimack Valley,Merrimack Valley,,,0
+2024-09-20,40532,FINAL,Brookline,4059,100.0,1,Natick,4270,78.0,0,Bay State,Bay State,,,0
+2024-09-20,41392,FINAL,Malden Catholic,4228,68.0,0,Boston Latin,4049,89.0,1,Catholic Conference,Independent,,,0
+2024-09-24,40408,FINAL,Lowell,4216,68.0,0,Andover,4009,103.0,1,Merrimack Valley,Merrimack Valley,,,0
+2024-09-24,40470,FINAL,Milton,4252,97.0,1,Newton North,4279,89.0,0,Bay State,Bay State,,,0
+2024-09-24,40510,FINAL,Billerica,4040,78.0,0,Central Catholic,4081,108.0,1,Merrimack Valley,Merrimack Valley,,,0
+2024-09-24,40913,FINAL,Needham,4272,85.0,0,Acton-Boxborough,4003,98.0,1,Bay State,Independent,,,0
+2024-09-24,41347,FINAL,Haverhill,4167,76.0,0,North Andover,4283,110.0,1,Merrimack Valley,Merrimack Valley,,,0
+2024-09-24,41663,FINAL,Winchester,4434,88.0,1,Wakefield/Wakefield,4402,77.0,0,Middlesex,Middlesex,,,0
+2024-09-24,41771,FINAL,Belmont,4034,96.0,1,Reading,4328,74.0,0,Middlesex,Middlesex,,,0
+2024-09-25,10270,FINAL,Ursuline,4448,92.0,1,Malden Catholic,4228,67.0,0,Catholic Conference,Catholic Conference,,,0
+2024-09-25,10397,FINAL,Notre Dame (Hingham),4449,108.0,1,Boston Latin,4049,75.0,0,Catholic Conference,Independent,,,0
+2024-09-25,40355,FINAL,Lexington,4209,87.0,1,Stoneham,4380,66.0,0,Middlesex,Middlesex,,,0
+2024-09-27,10560,FINAL,Malden Catholic,4228,62.0,0,Ursuline,4448,107.0,1,Catholic Conference,Catholic Conference,,,0
+2024-09-27,40356,FINAL,Chelmsford,4085,81.0,0,Lexington,4209,102.0,1,Merrimack Valley,Middlesex,,,0
+2024-09-27,40410,FINAL,Andover,4009,91.0,0,North Andover,4283,94.0,1,Merrimack Valley,Merrimack Valley,,,0
+2024-09-27,40471,FINAL,Newton North,4279,88.0,0,Needham,4272,99.0,1,Bay State,Bay State,,,0
+2024-09-27,40504,FINAL,Stoneham,4380,57.0,0,Methuen/Tewksbury,4246,96.0,1,Middlesex,Merrimack Valley,,,0
+2024-09-27,40533,FINAL,Milton,4252,91.0,1,Natick,4270,81.0,0,Bay State,Bay State,,,0
+2024-09-27,40974,FINAL,Brookline,4059,55.0,1,Walpole,4404,35.0,0,Bay State,Bay State,,,0
+2024-09-28,41146,FINAL,Framingham,4143,92.0,1,Braintree,4051,82.0,0,Bay State,Bay State,,,0
+2024-09-30,10892,FINAL,Notre Dame (T)/Dracut,4540,76.0,0,Andover,4009,102.0,1,Merrimack Valley,Merrimack Valley,,,0
+2024-10-01,11125,FINAL,Methuen/Tewksbury,4246,96.0,1,Haverhill,4167,81.0,0,Merrimack Valley,Merrimack Valley,,,0
+2024-10-01,40472,FINAL,Newton North,4279,96.0,1,Framingham,4143,88.0,0,Bay State,Bay State,,,0
+2024-10-01,40534,FINAL,Walpole,4404,50.0,0,Natick,4270,81.0,1,Bay State,Bay State,,,0
+2024-10-01,40914,FINAL,Needham,4272,89.0,0,Brookline,4059,97.0,1,Bay State,Bay State,,,0
+2024-10-01,41220,FINAL,Wellesley,4413,91.0,1,Weymouth,4425,70.0,0,Bay State,Bay State,,,0
+2024-10-01,41773,FINAL,Belmont,4034,94.0,1,Wakefield/Wakefield,4402,74.0,0,Middlesex,Middlesex,,,0
+2024-10-02,11177,FINAL,Ursuline,4448,96.0,1,Notre Dame (Hingham),4449,87.0,0,Catholic Conference,Catholic Conference,,,0
+2024-10-02,11200,FINAL,North Andover,4283,103.0,1,Central Catholic,4081,78.0,0,Merrimack Valley,Merrimack Valley,,,0
+2024-10-02,41636,FINAL,Woburn,4438,73.0,0,Lexington,4209,95.0,1,Middlesex,Middlesex,,,0
+2024-10-04,41883,FINAL,North Andover,4283,92.0,1,Notre Dame (Hingham),4449,81.0,0,Merrimack Valley,Catholic Conference,,,0
+2024-10-04,42674,FINAL,North Andover,4283,92.0,1,Notre Dame (T)/Dracut,4540,81.0,0,Merrimack Valley,Merrimack Valley,,,0
+2024-10-07,41393,FINAL,Boston Latin,4049,102.0,1,Malden Catholic,4228,65.0,0,Independent,Catholic Conference,,,0
+2024-10-08,11455,FINAL,Framingham,4143,73.0,0,Wellesley,4413,99.0,1,Bay State,Bay State,,,0
+2024-10-08,40414,FINAL,Billerica,4040,82.0,0,Andover,4009,101.0,1,Merrimack Valley,Merrimack Valley,,,0
+2024-10-08,40474,FINAL,Newton North,4279,97.0,1,Natick,4270,81.0,0,Bay State,Bay State,,,0
+2024-10-08,40506,FINAL,Methuen/Tewksbury,4246,92.0,1,Notre Dame (T)/Dracut,4540,83.0,0,Merrimack Valley,Merrimack Valley,,,0
+2024-10-08,40915,FINAL,Walpole,4404,44.0,0,Needham,4272,92.0,1,Bay State,Bay State,,,0
+2024-10-08,40976,FINAL,Braintree,4051,79.0,0,Brookline,4059,89.0,1,Bay State,Bay State,,,0
+2024-10-08,41666,FINAL,Stoneham,4380,65.0,0,Winchester,4434,83.0,1,Middlesex,Middlesex,,,0
+2024-10-08,41703,FINAL,Belmont,4034,89.0,1,Arlington/Watertown,4013,75.0,0,Middlesex,Middlesex,,,0
+2024-10-09,11500,FINAL,Boston Latin,4049,75.0,0,Ursuline,4448,101.0,1,Independent,Catholic Conference,,,0
+2024-10-09,40357,FINAL,Lexington,4209,90.0,1,Wakefield/Wakefield,4402,75.0,0,Middlesex,Middlesex,,,0
+2024-10-10,11552,FINAL,Walpole,4404,22.0,0,Notre Dame (Hingham),4449,77.0,1,Bay State,Catholic Conference,,,0
+2024-10-10,41035,FINAL,Acton-Boxborough,4003,93.0,1,Winchester,4434,85.0,0,Independent,Middlesex,,,0
+2024-10-10,41704,FINAL,Arlington/Watertown,4013,45.5,0,Reading,4328,48.5,1,Middlesex,Middlesex,,,0
+2024-10-10,41774,FINAL,Belmont,4034,92.0,1,Woburn,4438,78.0,0,Middlesex,Middlesex,,,0
+2024-10-11,11575,FINAL,Billerica,4040,79.0,0,Methuen/Tewksbury,4246,98.0,1,Merrimack Valley,Merrimack Valley,,,0
+2024-10-11,41076,FINAL,Lowell,4216,71.0,0,North Andover,4283,97.0,1,Merrimack Valley,Merrimack Valley,,,0
+2024-10-11,41148,FINAL,Notre Dame (Hingham),4449,97.0,1,Braintree,4051,70.0,0,Catholic Conference,Bay State,,,0
+2024-10-11,42675,FINAL,Notre Dame (T)/Dracut,4540,70.0,0,Central Catholic,4081,97.0,1,Merrimack Valley,Merrimack Valley,,,0
+2024-10-15,11635,FINAL,Andover,4009,83.0,0,Acton-Boxborough,4003,97.0,1,Merrimack Valley,Independent,,,0
+2024-10-15,40475,FINAL,Newton North,4279,86.0,0,Wellesley,4413,95.0,1,Bay State,Bay State,,,0
+2024-10-15,40535,FINAL,Needham,4272,93.0,1,Natick,4270,83.0,0,Bay State,Bay State,,,0
+2024-10-15,40977,FINAL,Brookline,4059,91.0,1,Framingham,4143,84.0,0,Bay State,Bay State,,,0
+2024-10-15,41151,FINAL,Weymouth,4425,89.0,1,Braintree,4051,79.0,0,Bay State,Bay State,,,0
+2024-10-15,41705,FINAL,Wakefield/Wakefield,4402,90.0,1,Arlington/Watertown,4013,80.0,0,Middlesex,Middlesex,,,0
+2024-10-16,11649,FINAL,Ursuline,4448,83.0,1,Walpole,4404,30.0,0,Catholic Conference,Bay State,,,0
+2024-10-16,42014,FINAL,Woburn,4438,85.0,1,Stoneham,4380,48.0,0,Middlesex,Middlesex,,,0
+2024-10-17,41394,FINAL,Notre Dame (Hingham),4449,100.0,1,Boston Latin,4049,83.0,0,Catholic Conference,Independent,,,0
+2024-10-17,41667,FINAL,Winchester,4434,91.0,1,Belmont,4034,79.0,0,Middlesex,Middlesex,,,0
+2024-10-18,11765,FINAL,Weymouth,4425,68.0,0,Needham,4272,96.0,1,Bay State,Bay State,,,0
+2024-10-18,40416,FINAL,Andover,4009,100.0,1,Chelmsford,4085,86.0,0,Merrimack Valley,Merrimack Valley,,,0
+2024-10-18,40476,FINAL,Brookline,4059,104.0,1,Newton North,4279,82.0,0,Bay State,Bay State,,,0
+2024-10-18,40507,FINAL,Lowell,4216,81.0,0,Methuen/Tewksbury,4246,95.0,1,Merrimack Valley,Merrimack Valley,,,0
+2024-10-18,40512,FINAL,Billerica,4040,81.0,0,North Andover,4283,102.0,1,Merrimack Valley,Merrimack Valley,,,0
+2024-10-18,41153,FINAL,Wellesley,4413,94.0,1,Braintree,4051,74.0,0,Bay State,Bay State,,,0
+2024-10-19,40536,FINAL,Framingham,4143,94.0,1,Natick,4270,89.0,0,Bay State,Bay State,,,0
+2024-10-21,41668,FINAL,Winchester,4434,89.0,1,Arlington/Watertown,4013,76.0,0,Middlesex,Middlesex,,,0
+2024-10-22,11864,FINAL,Notre Dame (Hingham),4449,91.0,0,Ursuline,4448,94.0,1,Catholic Conference,Catholic Conference,,,0
+2024-10-22,11885,FINAL,Wellesley,4413,96.0,1,Needham,4272,88.0,0,Bay State,Bay State,,,0
+2024-10-22,41156,FINAL,Braintree,4051,76.0,0,Milton,4252,97.0,1,Bay State,Bay State,,,0
+2024-10-22,41222,FINAL,Walpole,4404,78.0,0,Weymouth,4425,86.0,1,Bay State,Bay State,,,0
+2024-10-22,41706,FINAL,Woburn,4438,73.0,0,Arlington/Watertown,4013,95.0,1,Middlesex,Middlesex,,,0
+2024-10-23,40358,FINAL,Lexington,4209,88.0,1,Winchester,4434,82.0,0,Middlesex,Middlesex,,,0
+2024-10-24,11941,FINAL,Braintree,4051,74,0,Ursuline,4448,93,1,Bay State,Catholic Conference,,,0

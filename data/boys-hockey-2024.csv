@@ -1,0 +1,19 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
+2024-11-16,22034,FINAL,North Yarmouth (Maine),4290,2.0,0.0,Phillips Exeter,4311,4.0,1.0,Independent,Independent,,,0
+2024-11-20,13375,FINAL,Cushing,4101,1.0,0.0,Phillips Andover,4310,4.0,1.0,Independent,Independent,,,0
+2024-12-04,15772,FINAL,Dexter Southfield,4113,5,1,Cushing,4101,2,0,Independent,Independent,,,0
+2024-12-04,16700,FINAL,St. George’s,4367,8,1,Thayer,4390,4,0,ISL,ISL,4:30 P.M.,,0
+2024-12-04,16729,FINAL,Northfield Mt. Hermon,4294,3,0,Belmont Hill,4035,7,1,Independent,ISL,,,0
+2024-12-06,16332,FINAL,Dexter Southfield,4113,1,0,St. Mark’s,4372,5,1,Independent,ISL,,,0
+2024-12-07,16569,FINAL,Choate,4090,3,1,Lawrence Academy,4204,2,0,Founders,ISL,,1.0,0
+2024-12-07,16572,FINAL,Holderness,4173,3,1,Pingree,4312,0,0,Independent,Independent,,,0
+2024-12-08,16649,FINAL,Rivers,4330,11,1,Hebron (Maine),4168,0,0,ISL,Independent,,,0
+2024-12-08,16652,FINAL,Tabor,4384,3,1,Lawrence Academy,4204,1,0,ISL,ISL,,,0
+2024-12-08,16701,UPCOMING,Governor’s Academy,4152,,,Thayer,4390,,,ISL,ISL,,,0
+2024-12-08,16730,FINAL,Nobles,4282,4,1,Belmont Hill,4035,0,0,ISL,ISL,,,0
+2024-12-11,16702,FINAL,Phillips Andover,4310,3,1,Thayer,4390,2,0,Independent,ISL,4:00 P.M.,,0
+2024-12-11,16731,FINAL,Governor’s Academy,4152,4,1,Belmont Hill,4035,3,0,ISL,ISL,3:00 P.M.,,0
+2024-12-11,18075,FINAL,Lawrence Academy,4204,5,1,Milton Academy,4253,2,0,ISL,ISL,,,0
+2024-12-11,18086,FINAL,BB&N,4028,5,1,Austin Prep,4020,4,0,ISL,Independent,,1.0,0
+2024-12-11,18108,FINAL,Dexter Southfield,4113,5,1,Phillips Exeter,4311,3,0,Independent,Independent,,,0
+2024-12-11,18171,FINAL,Brewster Academy,4052,0,0,Holderness,4173,10,1,Independent,Independent,,,0

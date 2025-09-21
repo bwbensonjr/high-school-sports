@@ -1,0 +1,9 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
+2024-12-07,16655,FINAL,Brooks,4060,54,1,Deerfield,4110,21,0,ISL,Independent,,,0
+2024-12-07,16656,FINAL,Brooks,4060,48,1,St. Mark’s,4372,27,0,ISL,ISL,,,0
+2024-12-10,17661,UPCOMING,North Reading,4288,,,Wilmington,4432,,,Cape Ann,Middlesex,,,0
+2024-12-11,18088,FINAL,Brooks,4060,21,0,Roxbury Latin,4334,57,1,ISL,ISL,,,0
+2024-12-11,18089,FINAL,Hyde,4186,12,0,Roxbury Latin,4334,68,1,Independent,ISL,,,0
+2024-12-11,18090,FINAL,Phillips Exeter,4311,15,0,Roxbury Latin,4334,63,1,Independent,ISL,,,0
+2024-12-11,18440,FINAL,Phillips Exeter,4311,40,1,Brooks,4060,39,0,Independent,ISL,,,0
+2024-12-11,18441,FINAL,Hyde,4186,35,0,Brooks,4060,42,1,Independent,ISL,,,0
