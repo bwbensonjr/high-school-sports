@@ -1,0 +1,4 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win,season,home_elo_pre,away_elo_pre,home_elo_post,away_elo_post,home_win_prob,away_win_prob,pred_point_spread,actual_point_spread
+2024-12-11,18172,FINAL,Tri-County,4392,45,0,Bishop Feehan,4042,55,1,Mayflower,Mayflower,,,0,2024,1500.0,1500.0,1472.5938258437563,1527.4061741562437,0.5714631174083814,0.4285368825916186,2.0,-10.0
+2024-12-11,40162,FINAL,Diman,4115,77,1,Wareham,4407,22,0,Mayflower,Mayflower,,,0,2024,1500.0,1500.0,1534.5002332976508,1465.4997667023492,0.5714631174083814,0.4285368825916186,2.0,55.0
+2024-12-11,43409,FINAL,Southeastern,4358,78,1,Bishop Stang,4045,21,0,Mayflower,Mayflower,,,0,2024,1500.0,1500.0,1534.8009917936097,1465.1990082063903,0.5714631174083814,0.4285368825916186,2.0,57.0

@@ -5,10 +5,40 @@ import os
 import sys
 
 def main():
-    sport = sys.argv[1]
-    compute_elo_ratings(sport)
+    if len(sys.argv) > 1:
+        sport = sys.argv[1]
+        compute_elo_ratings(sport)
+    else:
+        # No sport specified, process all available sports
+        sports = get_available_sports()
+        if not sports:
+            print("No sports data files found in data/ directory")
+            return
 
-def compute_elo_ratings(sport):    
+        print(f"No sport specified. Processing all {len(sports)} available sports...")
+        for sport in sorted(sports):
+            print(f"\n{'='*60}")
+            compute_elo_ratings(sport)
+            print(f"{'='*60}")
+
+def get_available_sports():
+    """Get list of all available sports from data files."""
+    data_files = glob.glob("data/*.csv")
+    sports = set()
+
+    for file in data_files:
+        filename = os.path.basename(file)
+        # Extract sport name from filename (e.g., "field-hockey-2025.csv" -> "field-hockey")
+        if filename.endswith('.csv') and '-' in filename:
+            # Split by '-' and remove the year part (last element)
+            parts = filename.replace('.csv', '').split('-')
+            if len(parts) >= 2 and parts[-1].isdigit():  # Last part should be year
+                sport = '-'.join(parts[:-1])  # Everything except the year
+                sports.add(sport)
+
+    return list(sports)
+
+def compute_elo_ratings(sport):
     print(f"Processing {sport} Elo ratings...")
 
     # Load all available data files for the sport
@@ -30,31 +60,49 @@ def compute_elo_ratings(sport):
 
     games_df = pd.concat(all_games, ignore_index=True)
 
-    # Filter out games that haven't been played yet (no scores) and games with missing scores
+    # Separate completed and upcoming games
     completed_games = games_df[
         (games_df['status'] == 'FINAL') &
         (games_df['home_score'].notna()) &
         (games_df['visitor_score'].notna())
     ].copy()
-    print(f"Found {len(completed_games)} completed games with valid scores")
 
-    # Get all teams
+    upcoming_games = games_df[
+        (games_df['status'] != 'FINAL') |
+        (games_df['home_score'].isna()) |
+        (games_df['visitor_score'].isna())
+    ].copy()
+
+    print(f"Found {len(completed_games)} completed games with valid scores")
+    print(f"Found {len(upcoming_games)} upcoming games")
+
+    # Get all teams from both completed and upcoming games
     teams = set(
-        list(completed_games["home_team"].unique()) +
-        list(completed_games["visitor_team"].unique())
+        list(games_df["home_team"].unique()) +
+        list(games_df["visitor_team"].unique())
     )
     print(f"Found {len(teams)} teams")
 
     # Initialize Elo system
     elo_system = Elo(teams=teams)
 
-    # Process games and calculate Elo ratings
-    games_with_elo = process_game_elo(elo_system, completed_games, sport)
+    # Process completed games and calculate Elo ratings
+    completed_games_with_elo = process_game_elo(elo_system, completed_games, sport)
+
+    # Process upcoming games with current Elo ratings
+    upcoming_games_with_elo = process_upcoming_games(elo_system, upcoming_games)
+
+    # Combine all games
+    all_games_with_elo = pd.concat([completed_games_with_elo, upcoming_games_with_elo], ignore_index=True)
+
+    # Sort by date for better readability
+    all_games_with_elo['date'] = pd.to_datetime(all_games_with_elo['date'])
+    all_games_with_elo = all_games_with_elo.sort_values('date').reset_index(drop=True)
 
     # Save results
     output_file = f"results/{sport}-elo-ratings.csv"
     os.makedirs("results", exist_ok=True)
-    games_with_elo.to_csv(output_file, index=False)
+    all_games_with_elo.to_csv(output_file, index=False)
     print(f"Results saved to {output_file}")
 
     # Display final ratings
@@ -92,7 +140,10 @@ def process_game_elo(elo, games_input, sport, verbose=False):
             # Calculate predictions before updating
             home_win_prob = elo.home_win_prob(home_team, away_team)
             away_win_prob = 1 - home_win_prob
-            point_spread = elo.point_spread(home_team, away_team)
+            pred_point_spread = elo.point_spread(home_team, away_team)
+
+            # Calculate actual point spread (positive means home team won by more than predicted)
+            actual_point_spread = home_score - away_score
 
             if verbose:
                 print(f"{game['date'].strftime('%Y-%m-%d')}: "
@@ -111,7 +162,8 @@ def process_game_elo(elo, games_input, sport, verbose=False):
             games.at[ix, "away_elo_post"] = post_away
             games.at[ix, "home_win_prob"] = home_win_prob
             games.at[ix, "away_win_prob"] = away_win_prob
-            games.at[ix, "point_spread"] = point_spread
+            games.at[ix, "pred_point_spread"] = pred_point_spread
+            games.at[ix, "actual_point_spread"] = actual_point_spread
 
         print(f"End of {season} season")
 
@@ -119,6 +171,39 @@ def process_game_elo(elo, games_input, sport, verbose=False):
         if season != max(seasons):
             print("Regressing towards the mean between seasons...")
             elo.regress_towards_mean()
+
+    return games
+
+def process_upcoming_games(elo, games_input):
+    """Process upcoming games to add current Elo ratings and predictions."""
+    games = games_input.copy()
+
+    # Sort games by date
+    games['date'] = pd.to_datetime(games['date'])
+    games = games.sort_values(['season', 'date']).reset_index(drop=True)
+
+    for ix, game in games.iterrows():
+        home_team = game["home_team"]
+        away_team = game["visitor_team"]
+
+        # Get current ratings (these will be the final ratings after processing completed games)
+        current_home = elo.team_rating(home_team)
+        current_away = elo.team_rating(away_team)
+
+        # Calculate predictions
+        home_win_prob = elo.home_win_prob(home_team, away_team)
+        away_win_prob = 1 - home_win_prob
+        pred_point_spread = elo.point_spread(home_team, away_team)
+
+        # Store current Elo information (no post-game ratings for upcoming games)
+        games.at[ix, "home_elo_pre"] = current_home
+        games.at[ix, "away_elo_pre"] = current_away
+        games.at[ix, "home_elo_post"] = None  # No post-game rating
+        games.at[ix, "away_elo_post"] = None  # No post-game rating
+        games.at[ix, "home_win_prob"] = home_win_prob
+        games.at[ix, "away_win_prob"] = away_win_prob
+        games.at[ix, "pred_point_spread"] = pred_point_spread
+        games.at[ix, "actual_point_spread"] = None  # No actual result yet
 
     return games
 
