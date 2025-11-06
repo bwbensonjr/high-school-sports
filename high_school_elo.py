@@ -173,6 +173,15 @@ def compute_elo_ratings(sport):
     print(f"Elo ranks saved to {elo_output_file}")
     print(final_ratings.iloc[:30])
 
+    # Generate Markdown report for the current season
+    current_season = max(all_games_with_elo["season"].unique())
+    generate_markdown_report(
+        sport,
+        current_season,
+        upcoming_games_with_elo,
+        final_ratings
+    )
+
 
 def process_game_elo(elo, games_input, sport, verbose=False):
     games = games_input.copy()
@@ -277,6 +286,84 @@ def process_upcoming_games(elo, games_input):
         games.at[ix, "actual_point_spread"] = np.nan  # No actual result yet
 
     return games
+
+
+def generate_markdown_report(sport, season, upcoming_games_df, final_ratings_df):
+    """
+    Generate a Markdown report with upcoming game predictions and current Elo ratings.
+
+    Args:
+        sport (str): Sport name
+        season (int): Season year
+        upcoming_games_df (DataFrame): Upcoming games with Elo predictions
+        final_ratings_df (DataFrame): Current Elo ratings for all teams
+    """
+    # Filter for upcoming games in the current season
+    upcoming = upcoming_games_df[
+        (upcoming_games_df["season"] == season) &
+        (upcoming_games_df["status"] == "UPCOMING")
+    ].copy()
+    upcoming["date"] = pd.to_datetime(upcoming["date"])
+
+    # Only include games in the future (exclude old games that were never updated)
+    today = pd.Timestamp.now().normalize()
+    upcoming = upcoming[upcoming["date"] >= today]
+
+    upcoming = upcoming.sort_values("date")
+
+    # Format sport name for display
+    sport_display = sport.replace("-", " ").title()
+
+    # Build markdown content
+    markdown_lines = []
+    markdown_lines.append(f"# {sport_display} - {season} Season")
+    markdown_lines.append(f"\nGenerated: {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M')}\n")
+
+    # Section 1: Upcoming Games with Predictions
+    markdown_lines.append("## Upcoming Games\n")
+
+    if len(upcoming) == 0:
+        markdown_lines.append("*No upcoming games scheduled*\n")
+    else:
+        markdown_lines.append("| Date | Home Team | Away Team | Home Win % | Predicted Spread |")
+        markdown_lines.append("|------|-----------|-----------|------------|------------------|")
+
+        for _, game in upcoming.iterrows():
+            date_str = game["date"].strftime("%Y-%m-%d")
+            home_team = game["home_team"]
+            away_team = game["visitor_team"]
+            home_win_pct = game["home_win_prob"] * 100
+            pred_spread = game["pred_point_spread"]
+
+            # Format spread with sign
+            if pred_spread > 0:
+                spread_str = f"+{pred_spread:.1f}"
+            else:
+                spread_str = f"{pred_spread:.1f}"
+
+            markdown_lines.append(
+                f"| {date_str} | {home_team} | {away_team} | "
+                f"{home_win_pct:.1f}% | {spread_str} |"
+            )
+
+    # Section 2: Current Elo Ratings
+    markdown_lines.append("\n## Current Elo Ratings\n")
+    markdown_lines.append("| Rank | Team | Elo Rating |")
+    markdown_lines.append("|------|------|------------|")
+
+    for rank, (_, row) in enumerate(final_ratings_df.iterrows(), start=1):
+        team = row["team"]
+        elo = row["elo"]
+        markdown_lines.append(f"| {rank} | {team} | {elo:.1f} |")
+
+    # Write to file
+    markdown_content = "\n".join(markdown_lines)
+    output_file = f"results/{sport}-{season}.md"
+    with open(output_file, "w") as f:
+        f.write(markdown_content)
+
+    print(f"Markdown report saved to {output_file}")
+
 
 def elo_rankings(elo_file):
     elo_games = (pd.read_csv(elo_file, parse_dates=["date"])
