@@ -7,33 +7,47 @@ import sys
 
 # Sport-specific Elo configuration overrides
 # Only specify parameters that differ from Elo class defaults (k=20, home_field=50, spread_factor=25)
-# Adjust spread_factor based on typical scoring levels in each sport
+# Values below were determined via 5-fold cross-validation (see calibrate_elo.py)
 SPORT_CONFIG = {
     "football": {
-        "spread_factor": 15,  # High scoring sport
+        "spread_factor": 10,  # High scoring sport - calibrated MAE: 19.91 ± 0.78
     },
     "boys-basketball": {
-        "spread_factor": 20,  # Medium-high scoring
+        "spread_factor": 20,  # Medium-high scoring - insufficient data for calibration
     },
     "girls-basketball": {
-        "spread_factor": 20,  # Medium-high scoring
+        "spread_factor": 20,  # Medium-high scoring - insufficient data for calibration
     },
     "boys-soccer": {
-        "spread_factor": 40,  # Low scoring sport
+        "spread_factor": 50,  # Low scoring sport - calibrated MAE: 2.29 ± 0.12
     },
     "girls-soccer": {
-        "spread_factor": 40,  # Low scoring sport
+        "spread_factor": 50,  # Low scoring sport - calibrated MAE: 2.79 ± 0.18
     },
     "field-hockey": {
-        "spread_factor": 40,  # Low scoring sport
+        "spread_factor": 40,  # Low scoring sport - calibrated MAE: 3.19 ± 0.23
     },
     "volleyball": {
-        "spread_factor": 35,  # Points but lower differential
+        "spread_factor": 35,  # Points but lower differential - insufficient data
     },
     "girls-volleyball": {
-        "spread_factor": 35,  # Points but lower differential
+        "spread_factor": 35,  # Points but lower differential - calibrated MAE: 2.05 ± 0.07
     },
-    # Sports not listed here (e.g., boys-golf) will use Elo class defaults
+    "boys-golf": {
+        "spread_factor": 10,  # Stroke differential - calibrated MAE: 19.60 ± 0.79
+    },
+    "boys-cross-country": {
+        "spread_factor": 10,  # Place/time differential - calibrated MAE: 18.75 ± 0.42
+    },
+    "girls-cross-country": {
+        "spread_factor": 10,  # Place/time differential - calibrated MAE: 19.43 ± 1.11
+    },
+    "fall-girls-swimming": {
+        "spread_factor": 10,  # Point differential - calibrated MAE: 18.39 ± 1.44
+    },
+    # Sports not listed here will use Elo class defaults (spread_factor=25)
+    # Sports with insufficient data for calibration: boys-hockey, girls-hockey, wrestling,
+    # boys-indoor-track, girls-indoor-track, coed-swimming
 }
 
 def main():

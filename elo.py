@@ -199,3 +199,69 @@ class Elo:
             )
             new_rating = old_rating + rating_adjustment
             self.set_rating(team, new_rating)
+
+    @staticmethod
+    def calculate_mae(predicted, actual):
+        """
+        Calculate Mean Absolute Error between predicted and actual values.
+
+        Args:
+            predicted (array-like): Predicted values
+            actual (array-like): Actual values
+
+        Returns:
+            float: Mean absolute error
+        """
+        errors = [abs(p - a) for p, a in zip(predicted, actual)]
+        return sum(errors) / len(errors) if errors else 0.0
+
+    @staticmethod
+    def calculate_rmse(predicted, actual):
+        """
+        Calculate Root Mean Squared Error between predicted and actual values.
+
+        Args:
+            predicted (array-like): Predicted values
+            actual (array-like): Actual values
+
+        Returns:
+            float: Root mean squared error
+        """
+        squared_errors = [(p - a) ** 2 for p, a in zip(predicted, actual)]
+        mse = sum(squared_errors) / len(squared_errors) if squared_errors else 0.0
+        return math.sqrt(mse)
+
+    def evaluate_predictions(self, games_df):
+        """
+        Evaluate prediction accuracy for completed games.
+
+        Calculates error metrics comparing predicted point spreads to actual
+        outcomes. Only evaluates games with valid prediction and outcome data.
+
+        Args:
+            games_df (DataFrame): DataFrame with columns "pred_point_spread" and
+                "actual_point_spread"
+
+        Returns:
+            dict: Dictionary with error metrics:
+                - "mae": Mean Absolute Error
+                - "rmse": Root Mean Squared Error
+                - "count": Number of games evaluated
+        """
+        # Filter for games with valid predictions and outcomes
+        valid_games = games_df[
+            games_df["pred_point_spread"].notna() &
+            games_df["actual_point_spread"].notna()
+        ]
+
+        if len(valid_games) == 0:
+            return {"mae": 0.0, "rmse": 0.0, "count": 0}
+
+        predicted = valid_games["pred_point_spread"].tolist()
+        actual = valid_games["actual_point_spread"].tolist()
+
+        return {
+            "mae": self.calculate_mae(predicted, actual),
+            "rmse": self.calculate_rmse(predicted, actual),
+            "count": len(valid_games)
+        }
