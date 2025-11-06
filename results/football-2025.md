@@ -1,6 +1,6 @@
 # Football - 2025 Season
 
-Generated: 2025-11-06 12:18
+Generated: 2025-11-06 13:54
 
 ## Upcoming Games
 
@@ -332,8 +332,8 @@ Generated: 2025-11-06 12:18
 | 167 | Cheshire Academy | 1503.9 |
 | 168 | Winthrop | 1503.5 |
 | 169 | Taft | 1503.1 |
-| 170 | Forman | 1501.7 |
-| 171 | Capital Prep (Conn.) | 1501.7 |
+| 170 | Capital Prep (Conn.) | 1501.7 |
+| 171 | Forman | 1501.7 |
 | 172 | Martha’s Vineyard | 1501.0 |
 | 173 | Concord-Carlisle | 1499.6 |
 | 174 | Arlington | 1499.4 |

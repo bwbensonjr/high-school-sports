@@ -1,6 +1,6 @@
 # Boys Soccer - 2025 Season
 
-Generated: 2025-11-06 12:18
+Generated: 2025-11-06 13:54
 
 ## Upcoming Games
 
@@ -13,21 +13,29 @@ Generated: 2025-11-06 12:18
 | 2025-11-06 | Greater New Bedford | Auburn | 62.5% | +1.8 |
 | 2025-11-06 | Maynard | Cohasset | 53.1% | +0.4 |
 | 2025-11-06 | Uxbridge | Littleton | 60.4% | +1.5 |
-| 2025-11-07 | Abington | South Hadley | 63.3% | +1.9 |
 | 2025-11-07 | New Mission/English High | Pioneer Charter I | 64.0% | +2.0 |
 | 2025-11-07 | Keefe Tech | Hampden Charter East | 58.8% | +1.2 |
+| 2025-11-07 | Abington | South Hadley | 63.3% | +1.9 |
+| 2025-11-08 | Pembroke | Nipmuc | 66.1% | +2.3 |
+| 2025-11-08 | Rockport | Turners Falls | 48.2% | -0.3 |
 | 2025-11-08 | Bromfield | Ipswich | 64.0% | +2.0 |
 | 2025-11-08 | Westport | Monument Mtn. | 66.5% | +2.4 |
 | 2025-11-08 | Medfield | Scituate | 68.0% | +2.6 |
 | 2025-11-08 | Norwell | Pope Francis | 75.9% | +4.0 |
-| 2025-11-08 | Duxbury | Stoughton | 65.7% | +2.3 |
-| 2025-11-08 | Framingham | Franklin | 56.4% | +0.9 |
-| 2025-11-08 | Dartmouth | Hingham | 55.3% | +0.7 |
+| 2025-11-08 | Dover-Sherborn | Latin Academy | 69.3% | +2.8 |
+| 2025-11-08 | Chicopee | Hanover | 65.8% | +2.3 |
+| 2025-11-08 | Old Rochester | North Reading | 48.6% | -0.2 |
 | 2025-11-08 | St. John’s Prep | Lowell | 55.4% | +0.8 |
-| 2025-11-08 | Newton South | Arlington | 60.0% | +1.4 |
-| 2025-11-08 | Rockport | Turners Falls | 48.2% | -0.3 |
+| 2025-11-08 | Duxbury | Stoughton | 65.7% | +2.3 |
 | 2025-11-08 | Holliston | Milford | 65.2% | +2.2 |
+| 2025-11-08 | Dartmouth | Hingham | 55.3% | +0.7 |
 | 2025-11-08 | Hopedale | TechBoston | 56.0% | +0.8 |
+| 2025-11-08 | Natick | Attleboro | 66.4% | +2.4 |
+| 2025-11-08 | Newton South | Arlington | 60.0% | +1.4 |
+| 2025-11-08 | Framingham | Franklin | 56.4% | +0.9 |
+| 2025-11-08 | Weymouth | Cambridge | 69.8% | +2.9 |
+| 2025-11-08 | Oliver Ames | Sharon | 71.1% | +3.1 |
+| 2025-11-10 | East Bridgewater | Weston | 58.7% | +1.2 |
 
 ## Current Elo Ratings
 
@@ -41,8 +49,8 @@ Generated: 2025-11-06 12:18
 | 6 | Beverly | 1645.2 |
 | 7 | Westport | 1634.5 |
 | 8 | Medfield | 1634.0 |
-| 9 | Weymouth | 1630.0 |
-| 10 | Oliver Ames | 1627.7 |
+| 9 | Oliver Ames | 1633.3 |
+| 10 | Weymouth | 1630.0 |
 | 11 | Dover-Sherborn | 1627.5 |
 | 12 | Masconomet | 1624.5 |
 | 13 | Hingham | 1618.3 |
@@ -53,12 +61,12 @@ Generated: 2025-11-06 12:18
 | 18 | Sutton | 1605.2 |
 | 19 | Natick | 1604.2 |
 | 20 | Holliston | 1603.7 |
-| 21 | Revere | 1600.8 |
-| 22 | Mansfield | 1599.1 |
-| 23 | Pembroke | 1599.1 |
-| 24 | Keefe Tech | 1597.1 |
-| 25 | Old Rochester | 1596.5 |
-| 26 | Arlington | 1596.4 |
+| 21 | Mansfield | 1599.1 |
+| 22 | Pembroke | 1599.1 |
+| 23 | Keefe Tech | 1597.1 |
+| 24 | Old Rochester | 1596.5 |
+| 25 | Arlington | 1596.4 |
+| 26 | Revere | 1595.2 |
 | 27 | Tyngsborough | 1594.1 |
 | 28 | Cohasset | 1591.6 |
 | 29 | Middlesex | 1591.4 |
@@ -235,13 +243,13 @@ Generated: 2025-11-06 12:18
 | 200 | Darrow | 1503.0 |
 | 201 | Worcester Academy | 1502.9 |
 | 202 | Mashpee | 1502.7 |
-| 203 | Newton Country Day | 1501.7 |
+| 203 | Community Charter | 1501.7 |
 | 204 | St. Mark’s | 1501.7 |
-| 205 | La Salle (R.I.) | 1501.7 |
-| 206 | Community Charter | 1501.7 |
+| 205 | Argosy Collegiate | 1501.7 |
+| 206 | La Salle (R.I.) | 1501.7 |
 | 207 | South Shore Christian | 1501.7 |
-| 208 | Xavier (Conn.) | 1501.7 |
-| 209 | Argosy Collegiate | 1501.7 |
+| 208 | Newton Country Day | 1501.7 |
+| 209 | Xavier (Conn.) | 1501.7 |
 | 210 | Lincoln-Sudbury | 1501.6 |
 | 211 | Phillips Exeter | 1501.3 |
 | 212 | Sturgis West | 1501.1 |

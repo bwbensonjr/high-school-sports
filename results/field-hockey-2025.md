@@ -1,6 +1,6 @@
 # Field Hockey - 2025 Season
 
-Generated: 2025-11-06 12:17
+Generated: 2025-11-06 13:54
 
 ## Upcoming Games
 
@@ -11,14 +11,20 @@ Generated: 2025-11-06 12:17
 | 2025-11-06 | King Philip | Dartmouth | 70.9% | +3.9 |
 | 2025-11-07 | Wellesley | Belmont | 55.7% | +1.0 |
 | 2025-11-07 | Sandwich | Lynnfield | 77.0% | +5.2 |
-| 2025-11-08 | Worcester Academy | Cushing | 36.6% | -2.4 |
-| 2025-11-08 | Tilton | Austin Prep | 73.3% | +4.4 |
-| 2025-11-08 | Wilbraham & Monson | Marianapolis | 61.3% | +2.0 |
-| 2025-11-08 | Westminster | Governor’s Academy | 55.9% | +1.0 |
-| 2025-11-08 | Hotchkiss | Taft | 53.2% | +0.6 |
-| 2025-11-08 | Medfield | Watertown | 36.7% | -2.4 |
+| 2025-11-07 | Uxbridge | Scituate | 82.4% | +6.7 |
+| 2025-11-07 | Cohasset | Hopedale | 70.8% | +3.8 |
+| 2025-11-07 | Monomoy | Manchester Essex | 72.5% | +4.2 |
 | 2025-11-08 | Dover-Sherborn | East Longmeadow | 54.8% | +0.8 |
+| 2025-11-08 | Medfield | Watertown | 36.7% | -2.4 |
+| 2025-11-08 | Hingham | Reading | 70.8% | +3.8 |
+| 2025-11-08 | Walpole | Andover | 63.9% | +2.5 |
+| 2025-11-08 | Lincoln-Sudbury | Winchester | 57.3% | +1.3 |
+| 2025-11-08 | Tilton | Austin Prep | 73.3% | +4.4 |
+| 2025-11-08 | Westminster | Governor’s Academy | 55.9% | +1.0 |
+| 2025-11-08 | Wilbraham & Monson | Marianapolis | 61.3% | +2.0 |
 | 2025-11-08 | Sutton | Frontier | 67.7% | +3.2 |
+| 2025-11-08 | Worcester Academy | Cushing | 33.9% | -2.9 |
+| 2025-11-08 | Hotchkiss | Taft | 53.2% | +0.6 |
 | 2025-11-08 | Dennis-Yarmouth | Quabbin | 71.6% | +4.0 |
 
 ## Current Elo Ratings
@@ -78,20 +84,20 @@ Generated: 2025-11-06 12:17
 | 51 | Rivers | 1589.9 |
 | 52 | Auburn | 1588.6 |
 | 53 | Maynard | 1586.6 |
-| 54 | Hanover | 1583.1 |
-| 55 | Attleboro | 1581.9 |
-| 56 | Algonquin | 1581.6 |
-| 57 | Gloucester | 1580.1 |
-| 58 | Westborough | 1576.2 |
-| 59 | St. John Paul II | 1574.6 |
-| 60 | Taft | 1573.7 |
-| 61 | Blackstone Valley | 1572.7 |
-| 62 | Old Rochester | 1571.0 |
-| 63 | Duxbury | 1569.4 |
-| 64 | Chelmsford | 1566.1 |
-| 65 | North Reading | 1565.5 |
-| 66 | Greenwich Academy (Conn.) | 1565.5 |
-| 67 | Cushing | 1564.7 |
+| 54 | Cushing | 1585.3 |
+| 55 | Hanover | 1583.1 |
+| 56 | Attleboro | 1581.9 |
+| 57 | Algonquin | 1581.6 |
+| 58 | Gloucester | 1580.1 |
+| 59 | Westborough | 1576.2 |
+| 60 | St. John Paul II | 1574.6 |
+| 61 | Taft | 1573.7 |
+| 62 | Blackstone Valley | 1572.7 |
+| 63 | Old Rochester | 1571.0 |
+| 64 | Duxbury | 1569.4 |
+| 65 | Chelmsford | 1566.1 |
+| 66 | North Reading | 1565.5 |
+| 67 | Greenwich Academy (Conn.) | 1565.5 |
 | 68 | Ipswich | 1562.5 |
 | 69 | Foxborough | 1560.4 |
 | 70 | Greenfield | 1560.1 |
@@ -108,31 +114,31 @@ Generated: 2025-11-06 12:17
 | 81 | Westfield | 1537.8 |
 | 82 | Lowell | 1537.5 |
 | 83 | Central Catholic | 1536.2 |
-| 84 | Holderness | 1532.6 |
-| 85 | Pingree | 1531.7 |
-| 86 | Tabor | 1531.6 |
-| 87 | St. Paul | 1530.9 |
-| 88 | Dexter Southfield | 1530.9 |
-| 89 | Rocky Hill Country Day | 1530.3 |
-| 90 | Moses Brown (R.I.) | 1529.6 |
-| 91 | Quaboag | 1527.4 |
-| 92 | Agawam | 1526.7 |
-| 93 | Northbridge | 1526.6 |
-| 94 | North Middlesex | 1526.4 |
-| 95 | Lunenburg | 1525.6 |
-| 96 | Southwick | 1522.8 |
-| 97 | Newton Country Day | 1522.3 |
-| 98 | BB&N | 1521.8 |
-| 99 | Wachusett | 1521.0 |
-| 100 | Milton | 1519.2 |
-| 101 | Westwood | 1518.6 |
-| 102 | St. Mark’s | 1518.1 |
-| 103 | Lawrence Academy | 1517.3 |
-| 104 | Middlesex | 1516.1 |
-| 105 | Glastonbury (Conn.) | 1515.8 |
-| 106 | Kimball Union | 1515.5 |
-| 107 | Brookline | 1514.7 |
-| 108 | Weston | 1512.5 |
+| 84 | Pingree | 1531.7 |
+| 85 | Tabor | 1531.6 |
+| 86 | St. Paul | 1530.9 |
+| 87 | Dexter Southfield | 1530.9 |
+| 88 | Rocky Hill Country Day | 1530.3 |
+| 89 | Moses Brown (R.I.) | 1529.6 |
+| 90 | Quaboag | 1527.4 |
+| 91 | Agawam | 1526.7 |
+| 92 | Northbridge | 1526.6 |
+| 93 | North Middlesex | 1526.4 |
+| 94 | Lunenburg | 1525.6 |
+| 95 | Southwick | 1522.8 |
+| 96 | Newton Country Day | 1522.3 |
+| 97 | BB&N | 1521.8 |
+| 98 | Wachusett | 1521.0 |
+| 99 | Milton | 1519.2 |
+| 100 | Westwood | 1518.6 |
+| 101 | St. Mark’s | 1518.1 |
+| 102 | Lawrence Academy | 1517.3 |
+| 103 | Middlesex | 1516.1 |
+| 104 | Glastonbury (Conn.) | 1515.8 |
+| 105 | Kimball Union | 1515.5 |
+| 106 | Brookline | 1514.7 |
+| 107 | Weston | 1512.5 |
+| 108 | Holderness | 1511.9 |
 | 109 | Phillips Exeter | 1511.7 |
 | 110 | South Hadley | 1511.0 |
 | 111 | Smith Academy | 1510.6 |
@@ -149,11 +155,11 @@ Generated: 2025-11-06 12:17
 | 122 | Franklin County Tech | 1502.3 |
 | 123 | New Hampton | 1501.9 |
 | 124 | Kingswood-Oxford | 1501.7 |
-| 125 | Hopkins (Conn.) | 1501.7 |
-| 126 | St. Luke’s | 1501.7 |
-| 127 | Wheeler (R.I.) | 1501.7 |
+| 125 | St. Luke’s | 1501.7 |
+| 126 | Wheeler (R.I.) | 1501.7 |
+| 127 | Hamden Hall Country Day | 1501.7 |
 | 128 | Kent | 1501.7 |
-| 129 | Hamden Hall Country Day | 1501.7 |
+| 129 | Hopkins (Conn.) | 1501.7 |
 | 130 | Milton Academy | 1500.8 |
 | 131 | Monty Tech | 1499.6 |
 | 132 | Proctor | 1499.6 |

@@ -1,6 +1,6 @@
 # Boys Golf - 2025 Season
 
-Generated: 2025-11-06 12:19
+Generated: 2025-11-06 13:54
 
 ## Upcoming Games
 
@@ -149,8 +149,8 @@ Generated: 2025-11-06 12:19
 | 136 | Ludlow | 1507.4 |
 | 137 | Maynard | 1506.1 |
 | 138 | Lynn Classical | 1506.0 |
-| 139 | Greenfield | 1501.7 |
-| 140 | St. Paul’s | 1501.7 |
+| 139 | St. Paul’s | 1501.7 |
+| 140 | Greenfield | 1501.7 |
 | 141 | Triton | 1501.5 |
 | 142 | Lowell Catholic | 1501.2 |
 | 143 | Sharon | 1494.0 |
