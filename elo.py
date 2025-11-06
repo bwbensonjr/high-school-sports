@@ -19,7 +19,7 @@ class Elo:
     def __init__(
             self,
             teams=None,
-            k=20,
+            k=30,
             home_field=50,
             spread_factor=25,
             rating_mean=1505,

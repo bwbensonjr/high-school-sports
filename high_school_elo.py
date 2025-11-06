@@ -20,9 +20,11 @@ SPORT_CONFIG = {
     },
     "boys-soccer": {
         "spread_factor": 50,  # Low scoring sport - calibrated MAE: 2.29 ± 0.12
+        "k": 20,
     },
     "girls-soccer": {
         "spread_factor": 50,  # Low scoring sport - calibrated MAE: 2.79 ± 0.18
+        "k": 25,
     },
     "field-hockey": {
         "spread_factor": 40,  # Low scoring sport - calibrated MAE: 3.19 ± 0.23
