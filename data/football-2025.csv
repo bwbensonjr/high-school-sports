@@ -698,27 +698,27 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-01,57168,FINAL,Brunswick,4062,42,1,Deerfield,4110,14,0,NEPSAC Class A,NEPSAC Class A,5:00 P.M.,,0
 2025-11-01,57171,FINAL,Hotchkiss,4181,16,0,Kent,4193,21,1,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
 2025-11-01,57184,FINAL,Salisbury (Conn.),4339,7,0,Williston Northampton,4431,34,1,NEPSAC Class A,NEPSAC Class A,7:00 P.M.,,0
-2025-11-06,63431,UPCOMING,Haverhill,4167,,,Arlington,4013,,,Merrimack Valley,Middlesex,6:30 P.M.,,0
-2025-11-06,63436,UPCOMING,Essex Tech,4745,,,Peabody,4306,,,Cape Ann,Northeastern,6:00 P.M.,,0
-2025-11-06,63440,UPCOMING,Whittier,4428,,,Somerville,4351,,,Commonwealth,Greater Boston,6:00 P.M.,,0
-2025-11-06,63445,UPCOMING,Malden,4227,,,Watertown,4409,,,Greater Boston,Middlesex,6:00 P.M.,,0
-2025-11-06,63452,UPCOMING,East Boston,4125,,,Minuteman,4255,,,Boston City,Commonwealth,6:00 P.M.,,0
-2025-11-06,63453,UPCOMING,Lowell Catholic,4217,,,TechBoston,4117,,,Commonwealth,Boston City,6:30 P.M.,,0
-2025-11-06,63455,UPCOMING,Hamilton-Wenham,4163,,,Chelsea,4086,,,Cape Ann,Greater Boston,5:30 P.M.,,0
-2025-11-06,63458,UPCOMING,Greater Lowell,4155,,,Latin Academy,4202,,,Commonwealth,Boston City,5:00 P.M.,,0
-2025-11-06,63459,UPCOMING,Saugus,4341,,,Lynnfield,4223,,,Northeastern,Cape Ann,4:00 P.M.,,0
-2025-11-06,63466,UPCOMING,Cardinal Spellman,4075,,,Monomoy/JP II,4706,,,Catholic Central,Cape & Islands,6:00 P.M.,,0
-2025-11-06,63468,UPCOMING,Sandwich,4340,,,Wareham,4407,,,Cape & Islands,Mayflower,6:00 P.M.,,0
-2025-11-06,63470,UPCOMING,Carver,4077,,,Upper Cape,4457,,,South Shore,Mayflower,6:00 P.M.,,0
-2025-11-06,63476,UPCOMING,Nauset,4271,,,Sharon,4345,,,Cape & Islands,Hockomock,6:00 P.M.,,0
-2025-11-06,63477,UPCOMING,Pembroke,4308,,,Norwood,4297,,,Patriot,Tri-Valley,6:00 P.M.,,0
-2025-11-06,63480,UPCOMING,Dighton-Rehoboth/Bristol Aggie,4114,,,Falmouth,4134,,,South Coast,Cape & Islands,6:00 P.M.,,0
-2025-11-06,63491,UPCOMING,Newton North,4279,,,Stoughton,4381,,,Bay State,Hockomock,5:00 P.M.,,0
-2025-11-06,63492,UPCOMING,Dover-Sherborn,4118,,,Southeastern,4358,,,Tri-Valley,Mayflower,6:00 P.M.,,0
-2025-11-06,63504,UPCOMING,Holyoke,4176,,,Chicopee,4088,,,AA,Suburban,6:00 P.M.,,0
-2025-11-06,63505,UPCOMING,Agawam,4004,,,Longmeadow,4214,,,Suburban,AA,6:00 P.M.,,0
-2025-11-06,63506,UPCOMING,Amherst-Pelham,4008,,,West Springfield,4417,,,Suburban,Suburban,7:00 P.M.,,0
-2025-11-06,63520,UPCOMING,Franklin County Tech,4145,,,Northampton,4291,,,Intercounty,Suburban,7:00 P.M.,,0
+2025-11-06,63431,FINAL,Haverhill,4167,38,0,Arlington,4013,60,1,Merrimack Valley,Middlesex,6:30 P.M.,,0
+2025-11-06,63436,FINAL,Essex Tech,4745,40,1,Peabody,4306,13,0,Cape Ann,Northeastern,6:00 P.M.,,0
+2025-11-06,63440,FINAL,Whittier,4428,30,1,Somerville,4351,12,0,Commonwealth,Greater Boston,6:00 P.M.,,0
+2025-11-06,63445,FINAL,Malden,4227,26,0,Watertown,4409,45,1,Greater Boston,Middlesex,6:00 P.M.,,0
+2025-11-06,63452,FINAL,East Boston,4125,0,0,Minuteman,4255,36,1,Boston City,Commonwealth,6:00 P.M.,,0
+2025-11-06,63453,FINAL,Lowell Catholic,4217,22,0,TechBoston,4117,26,1,Commonwealth,Boston City,6:30 P.M.,,0
+2025-11-06,63455,FINAL,Hamilton-Wenham,4163,13,1,Chelsea,4086,6,0,Cape Ann,Greater Boston,5:30 P.M.,,0
+2025-11-06,63458,FINAL,Greater Lowell,4155,12,1,Latin Academy,4202,8,0,Commonwealth,Boston City,5:00 P.M.,,0
+2025-11-06,63459,FINAL,Saugus,4341,0,0,Lynnfield,4223,28,1,Northeastern,Cape Ann,4:00 P.M.,,0
+2025-11-06,63466,FINAL,Cardinal Spellman,4075,22,1,Monomoy/JP II,4706,18,0,Catholic Central,Cape & Islands,6:30 P.M.,,0
+2025-11-06,63468,FINAL,Sandwich,4340,6,0,Wareham,4407,12,1,Cape & Islands,Mayflower,6:00 P.M.,,0
+2025-11-06,63470,FINAL,Carver,4077,48,1,Upper Cape,4457,18,0,South Shore,Mayflower,6:00 P.M.,,0
+2025-11-06,63476,FINAL,Nauset,4271,36,1,Sharon,4345,0,0,Cape & Islands,Hockomock,6:00 P.M.,,0
+2025-11-06,63477,FINAL,Pembroke,4308,35,1,Norwood,4297,28,0,Patriot,Tri-Valley,6:00 P.M.,,0
+2025-11-06,63480,FINAL,Dighton-Rehoboth/Bristol Aggie,4114,6,0,Falmouth,4134,40,1,South Coast,Cape & Islands,6:00 P.M.,,0
+2025-11-06,63491,FINAL,Newton North,4279,35,1,Stoughton,4381,19,0,Bay State,Hockomock,5:00 P.M.,,0
+2025-11-06,63492,FINAL,Dover-Sherborn,4118,22,1,Southeastern,4358,12,0,Tri-Valley,Mayflower,6:00 P.M.,,0
+2025-11-06,63504,FINAL,Holyoke,4176,35,1,Chicopee,4088,12,0,AA,Suburban,6:00 P.M.,,0
+2025-11-06,63505,FINAL,Agawam,4004,34,0,Longmeadow,4214,48,1,Suburban,AA,6:00 P.M.,,0
+2025-11-06,63506,FINAL,Amherst-Pelham,4008,22,0,West Springfield,4417,34,1,Suburban,Suburban,7:00 P.M.,,0
+2025-11-06,63520,FINAL,Franklin County Tech,4145,33,1,Northampton,4291,8,0,Intercounty,Suburban,7:00 P.M.,,0
 2025-11-07,44289,UPCOMING,BB&N,4028,,,Tabor,4384,,,NEPSAC Class B,NEPSAC Class B,7:00 P.M.,,0
 2025-11-07,44646,UPCOMING,Dexter Southfield,4113,,,St. Paul’s,4375,,,NEPSAC Class A,NEPSAC Class B,6:00 P.M.,,0
 2025-11-07,44791,UPCOMING,Worcester Academy,4441,,,New Hampton,4275,,,NEPSAC Class C,NEPSAC Class C,6:00 P.M.,,0

@@ -1,31 +1,29 @@
 # Girls Volleyball - 2025 Season
 
-Generated: 2025-11-06 13:54
+Generated: 2025-11-07 07:48
 
 ## Upcoming Games
 
 | Date | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|-----------|-----------|------------|------------------|
-| 2025-11-06 | Andover | Bishop Feehan | 54.5% | +0.9 |
-| 2025-11-06 | Reading | King Philip | 56.5% | +1.3 |
-| 2025-11-06 | Nipmuc | Greater Lawrence | 51.0% | +0.2 |
+| 2025-11-07 | Newton North | Winchester | 60.2% | +2.1 |
 | 2025-11-07 | Pioneer Valley Christian | Baystate Academy | 46.5% | -0.7 |
-| 2025-11-07 | Madison Park | Smith Voc. | 65.1% | +3.1 |
 | 2025-11-07 | Lenox | Whitinsville Christian | 43.4% | -1.3 |
-| 2025-11-07 | Carver | Rockland | 73.8% | +5.1 |
 | 2025-11-07 | East Bridgewater | West Bridgewater | 79.0% | +6.6 |
+| 2025-11-07 | Carver | Rockland | 73.8% | +5.1 |
+| 2025-11-07 | Madison Park | Smith Voc. | 65.1% | +3.1 |
 | 2025-11-07 | Longmeadow | Marblehead | 52.2% | +0.4 |
 | 2025-11-07 | Duxbury | Wayland | 67.2% | +3.6 |
 | 2025-11-07 | Brookline | Newton South | 74.2% | +5.2 |
-| 2025-11-07 | Newton North | Winchester | 60.2% | +2.1 |
 | 2025-11-07 | Lynnfield | Old Rochester | 43.5% | -1.3 |
-| 2025-11-08 | Bourne | Ursuline | 70.9% | +4.4 |
+| 2025-11-08 | Hopedale | Renaissance | 52.9% | +0.6 |
 | 2025-11-08 | Central Catholic | Wellesley | 65.3% | +3.1 |
 | 2025-11-08 | Oliver Ames | Canton | 66.8% | +3.5 |
 | 2025-11-08 | Medfield | Pembroke | 76.2% | +5.8 |
 | 2025-11-08 | Joseph Case | Newburyport | 67.1% | +3.5 |
 | 2025-11-08 | Bellingham | Weston | 75.9% | +5.7 |
-| 2025-11-08 | Hopedale | Renaissance | 52.9% | +0.6 |
+| 2025-11-08 | Bourne | Ursuline | 70.9% | +4.4 |
+| 2025-11-09 | Andover | Franklin | 53.8% | +0.8 |
 
 ## Current Elo Ratings
 
@@ -48,7 +46,7 @@ Generated: 2025-11-06 13:54
 | 15 | Canton | 1687.6 |
 | 16 | BB&N | 1676.3 |
 | 17 | Chelmsford | 1673.8 |
-| 18 | Bishop Feehan | 1665.1 |
+| 18 | Andover | 1665.1 |
 | 19 | Westborough | 1664.0 |
 | 20 | Whitinsville Christian | 1663.4 |
 | 21 | Central Catholic | 1660.0 |
@@ -56,7 +54,7 @@ Generated: 2025-11-06 13:54
 | 23 | Lynnfield | 1655.7 |
 | 24 | Wayland | 1651.9 |
 | 25 | Lynn Classical | 1651.8 |
-| 26 | Andover | 1646.2 |
+| 26 | Bishop Feehan | 1646.2 |
 | 27 | Shawsheen | 1640.0 |
 | 28 | Newburyport | 1639.9 |
 | 29 | Lincoln-Sudbury | 1639.6 |
@@ -66,41 +64,41 @@ Generated: 2025-11-06 13:54
 | 33 | Madison Park | 1635.9 |
 | 34 | Hopkinton | 1633.6 |
 | 35 | Barnstable | 1631.0 |
-| 36 | Wareham | 1623.0 |
-| 37 | Westwood | 1616.2 |
-| 38 | Greater Lawrence | 1607.5 |
-| 39 | King Philip | 1606.2 |
-| 40 | Baystate Academy | 1603.9 |
-| 41 | Longmeadow | 1603.0 |
-| 42 | Reading | 1601.4 |
-| 43 | Blackstone Valley | 1601.2 |
-| 44 | Ursuline | 1600.6 |
-| 45 | Wellesley | 1600.2 |
-| 46 | Calvary Chapel | 1599.7 |
-| 47 | Shrewsbury | 1599.7 |
-| 48 | Quincy | 1599.2 |
-| 49 | Hanover | 1590.5 |
-| 50 | Newton South | 1589.4 |
-| 51 | Arlington Catholic | 1588.7 |
-| 52 | South Shore Voc-Tech | 1588.1 |
-| 53 | Charlestown | 1587.4 |
-| 54 | Putnam | 1587.2 |
-| 55 | Brockton | 1586.7 |
-| 56 | Westford | 1585.8 |
-| 57 | Cardinal Spellman | 1585.8 |
-| 58 | Masconomet | 1580.2 |
-| 59 | Dartmouth | 1578.6 |
-| 60 | Smith Voc. | 1577.5 |
-| 61 | Pembroke | 1574.8 |
-| 62 | Methuen | 1570.4 |
-| 63 | Lynn Tech | 1570.1 |
-| 64 | Wakefield | 1569.9 |
-| 65 | Melrose | 1568.7 |
-| 66 | Mt. Greylock | 1568.1 |
-| 67 | Billerica | 1567.8 |
-| 68 | Lenox | 1567.5 |
-| 69 | Acton-Boxborough | 1565.4 |
-| 70 | Nipmuc | 1564.7 |
+| 36 | King Philip | 1623.7 |
+| 37 | Wareham | 1623.0 |
+| 38 | Westwood | 1616.2 |
+| 39 | Baystate Academy | 1603.9 |
+| 40 | Longmeadow | 1603.0 |
+| 41 | Blackstone Valley | 1601.2 |
+| 42 | Ursuline | 1600.6 |
+| 43 | Wellesley | 1600.2 |
+| 44 | Calvary Chapel | 1599.7 |
+| 45 | Shrewsbury | 1599.7 |
+| 46 | Quincy | 1599.2 |
+| 47 | Greater Lawrence | 1591.4 |
+| 48 | Hanover | 1590.5 |
+| 49 | Newton South | 1589.4 |
+| 50 | Arlington Catholic | 1588.7 |
+| 51 | South Shore Voc-Tech | 1588.1 |
+| 52 | Charlestown | 1587.4 |
+| 53 | Putnam | 1587.2 |
+| 54 | Brockton | 1586.7 |
+| 55 | Westford | 1585.8 |
+| 56 | Cardinal Spellman | 1585.8 |
+| 57 | Reading | 1583.9 |
+| 58 | Nipmuc | 1580.8 |
+| 59 | Masconomet | 1580.2 |
+| 60 | Dartmouth | 1578.6 |
+| 61 | Smith Voc. | 1577.5 |
+| 62 | Pembroke | 1574.8 |
+| 63 | Methuen | 1570.4 |
+| 64 | Lynn Tech | 1570.1 |
+| 65 | Wakefield | 1569.9 |
+| 66 | Melrose | 1568.7 |
+| 67 | Mt. Greylock | 1568.1 |
+| 68 | Billerica | 1567.8 |
+| 69 | Lenox | 1567.5 |
+| 70 | Acton-Boxborough | 1565.4 |
 | 71 | Cape Cod Tech | 1564.5 |
 | 72 | Notre Dame (Worcester) | 1564.4 |
 | 73 | Weston | 1563.8 |
@@ -200,11 +198,11 @@ Generated: 2025-11-06 13:54
 | 167 | Lowell | 1502.5 |
 | 168 | Worcester South | 1501.9 |
 | 169 | South Shore Christian | 1501.7 |
-| 170 | Fellowship Christian | 1501.7 |
-| 171 | Argosy Collegiate | 1501.7 |
+| 170 | Dublin | 1501.7 |
+| 171 | Trinity Christian | 1501.7 |
 | 172 | Northfield Mt. Hermon | 1501.7 |
-| 173 | Trinity Christian | 1501.7 |
-| 174 | Dublin | 1501.7 |
+| 173 | Fellowship Christian | 1501.7 |
+| 174 | Argosy Collegiate | 1501.7 |
 | 175 | Milton | 1500.9 |
 | 176 | Choate | 1500.6 |
 | 177 | Mashpee | 1499.5 |
@@ -245,8 +243,8 @@ Generated: 2025-11-06 13:54
 | 212 | Cambridge Weston | 1490.0 |
 | 213 | Woburn | 1489.8 |
 | 214 | Montrose | 1489.7 |
-| 215 | Gann Academy | 1489.7 |
-| 216 | Governor’s Academy | 1489.7 |
+| 215 | Governor’s Academy | 1489.7 |
+| 216 | Gann Academy | 1489.7 |
 | 217 | Hotchkiss | 1489.7 |
 | 218 | Monument Mtn. | 1489.6 |
 | 219 | Newton Country Day | 1489.6 |

@@ -1,31 +1,32 @@
 # Field Hockey - 2025 Season
 
-Generated: 2025-11-06 13:54
+Generated: 2025-11-07 07:48
 
 ## Upcoming Games
 
 | Date | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|-----------|-----------|------------|------------------|
-| 2025-11-06 | Franklin | Waltham | 82.8% | +6.8 |
-| 2025-11-06 | Masconomet | Westwood | 77.6% | +5.4 |
-| 2025-11-06 | King Philip | Dartmouth | 70.9% | +3.9 |
 | 2025-11-07 | Wellesley | Belmont | 55.7% | +1.0 |
 | 2025-11-07 | Sandwich | Lynnfield | 77.0% | +5.2 |
 | 2025-11-07 | Uxbridge | Scituate | 82.4% | +6.7 |
 | 2025-11-07 | Cohasset | Hopedale | 70.8% | +3.8 |
 | 2025-11-07 | Monomoy | Manchester Essex | 72.5% | +4.2 |
+| 2025-11-08 | Dennis-Yarmouth | Quabbin | 71.6% | +4.0 |
+| 2025-11-08 | Sutton | Frontier | 67.7% | +3.2 |
 | 2025-11-08 | Dover-Sherborn | East Longmeadow | 54.8% | +0.8 |
 | 2025-11-08 | Medfield | Watertown | 36.7% | -2.4 |
 | 2025-11-08 | Hingham | Reading | 70.8% | +3.8 |
-| 2025-11-08 | Walpole | Andover | 63.9% | +2.5 |
+| 2025-11-08 | Nashoba | Westwood | 76.0% | +5.0 |
+| 2025-11-08 | Canton | King Philip | 66.4% | +3.0 |
 | 2025-11-08 | Lincoln-Sudbury | Winchester | 57.3% | +1.3 |
-| 2025-11-08 | Tilton | Austin Prep | 73.3% | +4.4 |
+| 2025-11-08 | Hotchkiss | Taft | 53.2% | +0.6 |
 | 2025-11-08 | Westminster | Governor’s Academy | 55.9% | +1.0 |
 | 2025-11-08 | Wilbraham & Monson | Marianapolis | 61.3% | +2.0 |
-| 2025-11-08 | Sutton | Frontier | 67.7% | +3.2 |
+| 2025-11-08 | Tilton | Austin Prep | 73.3% | +4.4 |
 | 2025-11-08 | Worcester Academy | Cushing | 33.9% | -2.9 |
-| 2025-11-08 | Hotchkiss | Taft | 53.2% | +0.6 |
-| 2025-11-08 | Dennis-Yarmouth | Quabbin | 71.6% | +4.0 |
+| 2025-11-08 | Walpole | Andover | 63.9% | +2.5 |
+| 2025-11-09 | Somerset Berkley | Longmeadow | 74.0% | +4.5 |
+| 2025-11-10 | Franklin | Hopkinton | 77.1% | +5.3 |
 
 ## Current Elo Ratings
 
@@ -39,25 +40,25 @@ Generated: 2025-11-06 13:54
 | 6 | Hingham | 1785.0 |
 | 7 | Somerset Berkley | 1781.1 |
 | 8 | Canton | 1780.3 |
-| 9 | Franklin | 1764.6 |
+| 9 | Franklin | 1770.2 |
 | 10 | Andover | 1754.1 |
 | 11 | Sutton | 1731.5 |
 | 12 | Belmont | 1715.7 |
-| 13 | Dennis-Yarmouth | 1706.2 |
-| 14 | Wellesley | 1705.7 |
-| 15 | King Philip | 1698.0 |
+| 13 | King Philip | 1712.0 |
+| 14 | Dennis-Yarmouth | 1706.2 |
+| 15 | Wellesley | 1705.7 |
 | 16 | Newburyport | 1697.7 |
 | 17 | East Longmeadow | 1690.7 |
 | 18 | Nashoba | 1685.0 |
-| 19 | Masconomet | 1684.3 |
-| 20 | Reading | 1681.1 |
-| 21 | Lincoln-Sudbury | 1678.4 |
-| 22 | Winchester | 1677.4 |
-| 23 | Lynnfield | 1677.4 |
-| 24 | Phillips Andover | 1674.7 |
-| 25 | Dover-Sherborn | 1674.1 |
-| 26 | Manchester Essex | 1672.6 |
-| 27 | Norwood | 1668.7 |
+| 19 | Reading | 1681.1 |
+| 20 | Lincoln-Sudbury | 1678.4 |
+| 21 | Winchester | 1677.4 |
+| 22 | Lynnfield | 1677.4 |
+| 23 | Phillips Andover | 1674.7 |
+| 24 | Dover-Sherborn | 1674.1 |
+| 25 | Manchester Essex | 1672.6 |
+| 26 | Norwood | 1668.7 |
+| 27 | Masconomet | 1668.1 |
 | 28 | Doherty | 1667.2 |
 | 29 | Cohasset | 1658.9 |
 | 30 | Malden Catholic | 1653.3 |
@@ -76,19 +77,19 @@ Generated: 2025-11-06 13:54
 | 43 | Belchertown | 1608.4 |
 | 44 | Marlborough | 1596.4 |
 | 45 | Quabbin | 1595.5 |
-| 46 | Dartmouth | 1593.6 |
-| 47 | Notre Dame (Hingham) | 1592.6 |
-| 48 | Natick | 1592.3 |
-| 49 | Durfee | 1592.1 |
-| 50 | Beverly | 1591.2 |
-| 51 | Rivers | 1589.9 |
-| 52 | Auburn | 1588.6 |
-| 53 | Maynard | 1586.6 |
-| 54 | Cushing | 1585.3 |
-| 55 | Hanover | 1583.1 |
-| 56 | Attleboro | 1581.9 |
-| 57 | Algonquin | 1581.6 |
-| 58 | Gloucester | 1580.1 |
+| 46 | Notre Dame (Hingham) | 1592.6 |
+| 47 | Natick | 1592.3 |
+| 48 | Durfee | 1592.1 |
+| 49 | Beverly | 1591.2 |
+| 50 | Rivers | 1589.9 |
+| 51 | Auburn | 1588.6 |
+| 52 | Maynard | 1586.6 |
+| 53 | Cushing | 1585.3 |
+| 54 | Hanover | 1583.1 |
+| 55 | Attleboro | 1581.9 |
+| 56 | Algonquin | 1581.6 |
+| 57 | Gloucester | 1580.1 |
+| 58 | Dartmouth | 1579.5 |
 | 59 | Westborough | 1576.2 |
 | 60 | St. John Paul II | 1574.6 |
 | 61 | Taft | 1573.7 |
@@ -109,28 +110,28 @@ Generated: 2025-11-06 13:54
 | 76 | Hotchkiss | 1546.1 |
 | 77 | Greens Farms | 1543.7 |
 | 78 | Dedham | 1543.6 |
-| 79 | Waltham | 1541.5 |
-| 80 | Narragansett | 1537.8 |
-| 81 | Westfield | 1537.8 |
-| 82 | Lowell | 1537.5 |
-| 83 | Central Catholic | 1536.2 |
-| 84 | Pingree | 1531.7 |
-| 85 | Tabor | 1531.6 |
-| 86 | St. Paul | 1530.9 |
-| 87 | Dexter Southfield | 1530.9 |
-| 88 | Rocky Hill Country Day | 1530.3 |
-| 89 | Moses Brown (R.I.) | 1529.6 |
-| 90 | Quaboag | 1527.4 |
-| 91 | Agawam | 1526.7 |
-| 92 | Northbridge | 1526.6 |
-| 93 | North Middlesex | 1526.4 |
-| 94 | Lunenburg | 1525.6 |
-| 95 | Southwick | 1522.8 |
-| 96 | Newton Country Day | 1522.3 |
-| 97 | BB&N | 1521.8 |
-| 98 | Wachusett | 1521.0 |
-| 99 | Milton | 1519.2 |
-| 100 | Westwood | 1518.6 |
+| 79 | Narragansett | 1537.8 |
+| 80 | Westfield | 1537.8 |
+| 81 | Lowell | 1537.5 |
+| 82 | Central Catholic | 1536.2 |
+| 83 | Waltham | 1535.8 |
+| 84 | Westwood | 1534.7 |
+| 85 | Pingree | 1531.7 |
+| 86 | Tabor | 1531.6 |
+| 87 | St. Paul | 1530.9 |
+| 88 | Dexter Southfield | 1530.9 |
+| 89 | Rocky Hill Country Day | 1530.3 |
+| 90 | Moses Brown (R.I.) | 1529.6 |
+| 91 | Quaboag | 1527.4 |
+| 92 | Agawam | 1526.7 |
+| 93 | Northbridge | 1526.6 |
+| 94 | North Middlesex | 1526.4 |
+| 95 | Lunenburg | 1525.6 |
+| 96 | Southwick | 1522.8 |
+| 97 | Newton Country Day | 1522.3 |
+| 98 | BB&N | 1521.8 |
+| 99 | Wachusett | 1521.0 |
+| 100 | Milton | 1519.2 |
 | 101 | St. Mark’s | 1518.1 |
 | 102 | Lawrence Academy | 1517.3 |
 | 103 | Middlesex | 1516.1 |
@@ -154,12 +155,12 @@ Generated: 2025-11-06 13:54
 | 121 | Groton-Dunstable | 1502.6 |
 | 122 | Franklin County Tech | 1502.3 |
 | 123 | New Hampton | 1501.9 |
-| 124 | Kingswood-Oxford | 1501.7 |
-| 125 | St. Luke’s | 1501.7 |
+| 124 | Hopkins (Conn.) | 1501.7 |
+| 125 | Kingswood-Oxford | 1501.7 |
 | 126 | Wheeler (R.I.) | 1501.7 |
 | 127 | Hamden Hall Country Day | 1501.7 |
-| 128 | Kent | 1501.7 |
-| 129 | Hopkins (Conn.) | 1501.7 |
+| 128 | St. Luke’s | 1501.7 |
+| 129 | Kent | 1501.7 |
 | 130 | Milton Academy | 1500.8 |
 | 131 | Monty Tech | 1499.6 |
 | 132 | Proctor | 1499.6 |
