@@ -1,0 +1,57 @@
+name: Update Scores and Elo Ratings
+
+on:
+  schedule:
+    # Run at 6am Eastern Time (11am UTC during EST, 10am UTC during EDT)
+    # Using 11am UTC to be safe - will be 6am EST / 7am EDT
+    - cron: '0 11 * * *'
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Use a token that can push to protected branches if needed
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Fetch today's game data
+        run: uv run python process_games.py --today
+
+      - name: Compute Elo ratings for all sports
+        run: uv run python high_school_elo.py
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push changes
+        run: |
+          git add data/ results/
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update game data and Elo ratings - $(date -u +'%Y-%m-%d %H:%M UTC')
+
+            Automated update from GitHub Actions:
+            - Fetched latest game scores
+            - Recalculated Elo ratings
+            - Updated predictions for upcoming games"
+            git push
+          fi
