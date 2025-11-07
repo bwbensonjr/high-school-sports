@@ -1,29 +1,29 @@
 # Girls Volleyball - 2025 Season
 
-Generated: 2025-11-07 07:48
+Generated: 2025-11-07 13:38
 
 ## Upcoming Games
 
-| Date | Home Team | Away Team | Home Win % | Predicted Spread |
-|------|-----------|-----------|------------|------------------|
-| 2025-11-07 | Newton North | Winchester | 60.2% | +2.1 |
-| 2025-11-07 | Pioneer Valley Christian | Baystate Academy | 46.5% | -0.7 |
-| 2025-11-07 | Lenox | Whitinsville Christian | 43.4% | -1.3 |
-| 2025-11-07 | East Bridgewater | West Bridgewater | 79.0% | +6.6 |
-| 2025-11-07 | Carver | Rockland | 73.8% | +5.1 |
-| 2025-11-07 | Madison Park | Smith Voc. | 65.1% | +3.1 |
-| 2025-11-07 | Longmeadow | Marblehead | 52.2% | +0.4 |
-| 2025-11-07 | Duxbury | Wayland | 67.2% | +3.6 |
-| 2025-11-07 | Brookline | Newton South | 74.2% | +5.2 |
-| 2025-11-07 | Lynnfield | Old Rochester | 43.5% | -1.3 |
-| 2025-11-08 | Hopedale | Renaissance | 52.9% | +0.6 |
-| 2025-11-08 | Central Catholic | Wellesley | 65.3% | +3.1 |
-| 2025-11-08 | Oliver Ames | Canton | 66.8% | +3.5 |
-| 2025-11-08 | Medfield | Pembroke | 76.2% | +5.8 |
-| 2025-11-08 | Joseph Case | Newburyport | 67.1% | +3.5 |
-| 2025-11-08 | Bellingham | Weston | 75.9% | +5.7 |
-| 2025-11-08 | Bourne | Ursuline | 70.9% | +4.4 |
-| 2025-11-09 | Andover | Franklin | 53.8% | +0.8 |
+| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
+|------|------|-----------|-----------|------------|------------------|
+| 2025-11-07 | 5:00 P.M. | Newton North | Winchester | 60.2% | +2.1 |
+| 2025-11-07 | 5:00 P.M. | Pioneer Valley Christian | Baystate Academy | 46.5% | -0.7 |
+| 2025-11-07 | 6:00 P.M. | Lenox | Whitinsville Christian | 43.4% | -1.3 |
+| 2025-11-07 | 4:00 P.M. | East Bridgewater | West Bridgewater | 79.0% | +6.6 |
+| 2025-11-07 | 5:00 P.M. | Carver | Rockland | 73.8% | +5.1 |
+| 2025-11-07 | 4:00 P.M. | Madison Park | Smith Voc. | 65.1% | +3.1 |
+| 2025-11-07 | 5:00 P.M. | Longmeadow | Marblehead | 52.2% | +0.4 |
+| 2025-11-07 | 5:00 P.M. | Duxbury | Wayland | 67.2% | +3.6 |
+| 2025-11-07 | 5:15 P.M. | Brookline | Newton South | 74.2% | +5.2 |
+| 2025-11-07 | 6:00 P.M. | Lynnfield | Old Rochester | 43.5% | -1.3 |
+| 2025-11-08 | 2:00 P.M. | Hopedale | Renaissance | 52.9% | +0.6 |
+| 2025-11-08 | 6:00 P.M. | Central Catholic | Wellesley | 65.3% | +3.1 |
+| 2025-11-08 | 2:00 P.M. | Oliver Ames | Canton | 66.8% | +3.5 |
+| 2025-11-08 | 2:30 P.M. | Medfield | Pembroke | 76.2% | +5.8 |
+| 2025-11-08 | 11:30 A.M. | Joseph Case | Newburyport | 67.1% | +3.5 |
+| 2025-11-08 | 4:00 P.M. | Bellingham | Weston | 75.9% | +5.7 |
+| 2025-11-08 | 12:00 P.M. | Bourne | Ursuline | 70.9% | +4.4 |
+| 2025-11-09 | 12:00 P.M. | Andover | Franklin | 53.8% | +0.8 |
 
 ## Current Elo Ratings
 
@@ -197,12 +197,12 @@ Generated: 2025-11-07 07:48
 | 166 | KIPP | 1502.6 |
 | 167 | Lowell | 1502.5 |
 | 168 | Worcester South | 1501.9 |
-| 169 | South Shore Christian | 1501.7 |
-| 170 | Dublin | 1501.7 |
-| 171 | Trinity Christian | 1501.7 |
-| 172 | Northfield Mt. Hermon | 1501.7 |
-| 173 | Fellowship Christian | 1501.7 |
-| 174 | Argosy Collegiate | 1501.7 |
+| 169 | Northfield Mt. Hermon | 1501.7 |
+| 170 | Fellowship Christian | 1501.7 |
+| 171 | Dublin | 1501.7 |
+| 172 | South Shore Christian | 1501.7 |
+| 173 | Argosy Collegiate | 1501.7 |
+| 174 | Trinity Christian | 1501.7 |
 | 175 | Milton | 1500.9 |
 | 176 | Choate | 1500.6 |
 | 177 | Mashpee | 1499.5 |
@@ -242,10 +242,10 @@ Generated: 2025-11-07 07:48
 | 211 | Stoneleigh-Burnham | 1490.2 |
 | 212 | Cambridge Weston | 1490.0 |
 | 213 | Woburn | 1489.8 |
-| 214 | Montrose | 1489.7 |
-| 215 | Governor’s Academy | 1489.7 |
-| 216 | Gann Academy | 1489.7 |
-| 217 | Hotchkiss | 1489.7 |
+| 214 | Hotchkiss | 1489.7 |
+| 215 | Montrose | 1489.7 |
+| 216 | Governor’s Academy | 1489.7 |
+| 217 | Gann Academy | 1489.7 |
 | 218 | Monument Mtn. | 1489.6 |
 | 219 | Newton Country Day | 1489.6 |
 | 220 | Ludlow | 1489.6 |

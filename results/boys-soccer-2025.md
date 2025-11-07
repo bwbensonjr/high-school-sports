@@ -1,51 +1,51 @@
 # Boys Soccer - 2025 Season
 
-Generated: 2025-11-07 07:48
+Generated: 2025-11-07 13:38
 
 ## Upcoming Games
 
-| Date | Home Team | Away Team | Home Win % | Predicted Spread |
-|------|-----------|-----------|------------|------------------|
-| 2025-11-07 | BC High | Bridgewater-Raynham | 58.4% | +1.2 |
-| 2025-11-07 | Abington | South Hadley | 63.3% | +1.9 |
-| 2025-11-07 | Ayer Shirley | Mashpee | 67.5% | +2.5 |
-| 2025-11-07 | New Mission/English High | Pioneer Charter I | 64.0% | +2.0 |
-| 2025-11-07 | Keefe Tech | Hampden Charter East | 58.8% | +1.2 |
-| 2025-11-07 | Brighton | Atlantis Charter | 54.4% | +0.6 |
-| 2025-11-07 | St. John Paul II | Hoosac Valley | 67.9% | +2.6 |
-| 2025-11-07 | Boston International | CASH | 61.4% | +1.6 |
-| 2025-11-08 | Dover-Sherborn | Latin Academy | 69.3% | +2.8 |
-| 2025-11-08 | Norwell | Pope Francis | 75.9% | +4.0 |
-| 2025-11-08 | Medfield | Scituate | 68.0% | +2.6 |
-| 2025-11-08 | Northbridge | Tyngsborough | 51.3% | +0.2 |
-| 2025-11-08 | Westport | Monument Mtn. | 66.5% | +2.4 |
-| 2025-11-08 | Dearborn STEM | Monson | 47.1% | -0.4 |
-| 2025-11-08 | Bromfield | Ipswich | 64.0% | +2.0 |
-| 2025-11-08 | Sutton | Cohasset | 58.0% | +1.1 |
-| 2025-11-08 | Chicopee | Hanover | 65.8% | +2.3 |
-| 2025-11-08 | Rockport | Turners Falls | 48.2% | -0.3 |
-| 2025-11-08 | Hopedale | TechBoston | 56.0% | +0.8 |
-| 2025-11-08 | Hamilton-Wenham | Gardner | 65.2% | +2.2 |
-| 2025-11-08 | Pembroke | Nipmuc | 66.1% | +2.3 |
-| 2025-11-08 | Oliver Ames | Sharon | 71.1% | +3.1 |
-| 2025-11-08 | Natick | Attleboro | 66.4% | +2.4 |
-| 2025-11-08 | Northampton | Mansfield | 53.7% | +0.5 |
-| 2025-11-08 | Duxbury | Stoughton | 65.7% | +2.3 |
-| 2025-11-08 | Holliston | Milford | 65.2% | +2.2 |
-| 2025-11-08 | Masconomet | West Springfield | 69.1% | +2.8 |
-| 2025-11-08 | Ashland | Agawam | 65.4% | +2.2 |
-| 2025-11-08 | Dartmouth | Hingham | 55.3% | +0.7 |
-| 2025-11-08 | St. John’s Prep | Lowell | 55.4% | +0.8 |
-| 2025-11-08 | Old Rochester | North Reading | 48.6% | -0.2 |
-| 2025-11-08 | Newton South | Arlington | 60.0% | +1.4 |
-| 2025-11-08 | Framingham | Franklin | 56.4% | +0.9 |
-| 2025-11-08 | Weymouth | Cambridge | 69.8% | +2.9 |
-| 2025-11-09 | Rockland | Uxbridge | 55.1% | +0.7 |
-| 2025-11-10 | Longmeadow | Bedford | 67.7% | +2.6 |
-| 2025-11-10 | East Bridgewater | Weston | 58.7% | +1.2 |
-| 2025-11-10 | Winchester | Brookline | 64.8% | +2.1 |
-| 2025-11-10 | Needham | Concord-Carlisle | 57.3% | +1.0 |
-| 2025-11-10 | Greater New Bedford | Watertown | 57.4% | +1.0 |
+| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
+|------|------|-----------|-----------|------------|------------------|
+| 2025-11-07 | 6:00 P.M. | BC High | Bridgewater-Raynham | 58.4% | +1.2 |
+| 2025-11-07 | 4:00 P.M. | Abington | South Hadley | 63.3% | +1.9 |
+| 2025-11-07 | 4:30 P.M. | Ayer Shirley | Mashpee | 67.5% | +2.5 |
+| 2025-11-07 | 2:00 P.M. | New Mission/English High | Pioneer Charter I | 64.0% | +2.0 |
+| 2025-11-07 | 2:00 P.M. | Keefe Tech | Hampden Charter East | 58.8% | +1.2 |
+| 2025-11-07 | TBD | Brighton | Atlantis Charter | 54.4% | +0.6 |
+| 2025-11-07 | 2:00 P.M. | St. John Paul II | Hoosac Valley | 67.9% | +2.6 |
+| 2025-11-07 | 3:30 P.M. | Boston International | CASH | 61.4% | +1.6 |
+| 2025-11-08 | 2:00 P.M. | Dover-Sherborn | Latin Academy | 69.3% | +2.8 |
+| 2025-11-08 | 3:15 P.M. | Norwell | Pope Francis | 75.9% | +4.0 |
+| 2025-11-08 | 6:45 P.M. | Medfield | Scituate | 68.0% | +2.6 |
+| 2025-11-08 | 12:30 P.M. | Northbridge | Tyngsborough | 51.3% | +0.2 |
+| 2025-11-08 | 12:00 P.M. | Westport | Monument Mtn. | 66.5% | +2.4 |
+| 2025-11-08 | 10:00 A.M. | Dearborn STEM | Monson | 47.1% | -0.4 |
+| 2025-11-08 | 5:00 P.M. | Bromfield | Ipswich | 64.0% | +2.0 |
+| 2025-11-08 | 11:00 A.M. | Sutton | Cohasset | 58.0% | +1.1 |
+| 2025-11-08 | 11:00 A.M. | Chicopee | Hanover | 65.8% | +2.3 |
+| 2025-11-08 | 4:30 P.M. | Rockport | Turners Falls | 48.2% | -0.3 |
+| 2025-11-08 | 6:00 P.M. | Hopedale | TechBoston | 56.0% | +0.8 |
+| 2025-11-08 | 5:00 P.M. | Hamilton-Wenham | Gardner | 65.2% | +2.2 |
+| 2025-11-08 | 12:00 P.M. | Pembroke | Nipmuc | 66.1% | +2.3 |
+| 2025-11-08 | 5:00 P.M. | Oliver Ames | Sharon | 71.1% | +3.1 |
+| 2025-11-08 | 1:30 P.M. | Natick | Attleboro | 66.4% | +2.4 |
+| 2025-11-08 | 5:00 P.M. | Northampton | Mansfield | 53.7% | +0.5 |
+| 2025-11-08 | 3:00 P.M. | Duxbury | Stoughton | 65.7% | +2.3 |
+| 2025-11-08 | 1:00 P.M. | Holliston | Milford | 65.2% | +2.2 |
+| 2025-11-08 | 11:00 A.M. | Masconomet | West Springfield | 69.1% | +2.8 |
+| 2025-11-08 | 5:00 P.M. | Ashland | Agawam | 65.4% | +2.2 |
+| 2025-11-08 | 12:00 P.M. | Dartmouth | Hingham | 55.3% | +0.7 |
+| 2025-11-08 | 11:00 A.M. | St. John’s Prep | Lowell | 55.4% | +0.8 |
+| 2025-11-08 | 5:00 P.M. | Old Rochester | North Reading | 48.6% | -0.2 |
+| 2025-11-08 | 6:00 P.M. | Newton South | Arlington | 60.0% | +1.4 |
+| 2025-11-08 | 12:00 P.M. | Framingham | Franklin | 56.4% | +0.9 |
+| 2025-11-08 | 5:00 P.M. | Weymouth | Cambridge | 69.8% | +2.9 |
+| 2025-11-09 | 6:00 P.M. | Rockland | Uxbridge | 55.1% | +0.7 |
+| 2025-11-10 | 5:30 P.M. | Longmeadow | Bedford | 67.7% | +2.6 |
+| 2025-11-10 | 5:00 P.M. | East Bridgewater | Weston | 58.7% | +1.2 |
+| 2025-11-10 | 3:00 P.M. | Winchester | Brookline | 64.8% | +2.1 |
+| 2025-11-10 | 6:00 P.M. | Needham | Concord-Carlisle | 57.3% | +1.0 |
+| 2025-11-10 | 6:00 P.M. | Greater New Bedford | Watertown | 57.4% | +1.0 |
 
 ## Current Elo Ratings
 
@@ -254,12 +254,12 @@ Generated: 2025-11-07 07:48
 | 201 | Worcester Academy | 1502.9 |
 | 202 | Mashpee | 1502.7 |
 | 203 | Newton Country Day | 1501.7 |
-| 204 | St. Mark’s | 1501.7 |
-| 205 | Community Charter | 1501.7 |
-| 206 | South Shore Christian | 1501.7 |
-| 207 | La Salle (R.I.) | 1501.7 |
-| 208 | Xavier (Conn.) | 1501.7 |
-| 209 | Argosy Collegiate | 1501.7 |
+| 204 | Community Charter | 1501.7 |
+| 205 | Argosy Collegiate | 1501.7 |
+| 206 | Xavier (Conn.) | 1501.7 |
+| 207 | St. Mark’s | 1501.7 |
+| 208 | South Shore Christian | 1501.7 |
+| 209 | La Salle (R.I.) | 1501.7 |
 | 210 | Lincoln-Sudbury | 1501.6 |
 | 211 | Phillips Exeter | 1501.3 |
 | 212 | Sturgis West | 1501.1 |

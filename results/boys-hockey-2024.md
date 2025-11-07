@@ -1,6 +1,6 @@
 # Boys Hockey - 2024 Season
 
-Generated: 2025-11-07 07:48
+Generated: 2025-11-07 13:38
 
 ## Upcoming Games
 
@@ -19,8 +19,8 @@ Generated: 2025-11-07 07:48
 | 6 | St. George’s | 1520.7 |
 | 7 | Tabor | 1513.7 |
 | 8 | Governor’s Academy | 1509.1 |
-| 9 | BB&N | 1508.9 |
-| 10 | Choate | 1508.9 |
+| 9 | Choate | 1508.9 |
+| 10 | BB&N | 1508.9 |
 | 11 | Dexter Southfield | 1503.3 |
 | 12 | Phillips Exeter | 1503.3 |
 | 13 | Lawrence Academy | 1496.5 |

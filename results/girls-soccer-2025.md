@@ -1,54 +1,54 @@
 # Girls Soccer - 2025 Season
 
-Generated: 2025-11-07 07:48
+Generated: 2025-11-07 13:38
 
 ## Upcoming Games
 
-| Date | Home Team | Away Team | Home Win % | Predicted Spread |
-|------|-----------|-----------|------------|------------------|
-| 2025-11-07 | Braintree | Lexington | 60.7% | +1.5 |
-| 2025-11-07 | Lynnfield | Auburn | 68.8% | +2.8 |
-| 2025-11-07 | Hampshire | Southwick | 56.7% | +0.9 |
-| 2025-11-07 | Whitinsville Christian | Norfolk Aggie | 36.0% | -2.0 |
-| 2025-11-07 | Hopkins | Nashoba Valley Tech | 40.8% | -1.3 |
-| 2025-11-08 | Granby | West Boylston | 58.7% | +1.2 |
-| 2025-11-08 | Hopedale | David Prouty | 66.9% | +2.4 |
-| 2025-11-08 | St. John Paul II | Smith Voc. | 53.3% | +0.5 |
-| 2025-11-08 | Rockport | Rising Tide Charter | 33.5% | -2.4 |
-| 2025-11-08 | Sutton | Manchester Essex | 68.2% | +2.7 |
-| 2025-11-08 | Hamilton-Wenham | Mt. Greylock | 70.0% | +2.9 |
-| 2025-11-08 | Cohasset | Sandwich | 74.7% | +3.8 |
-| 2025-11-08 | Medfield | St. Mary’s | 67.1% | +2.5 |
-| 2025-11-08 | Norwell | Medway | 83.0% | +5.5 |
-| 2025-11-08 | Martha’s Vineyard | Tewksbury | 66.1% | +2.3 |
-| 2025-11-08 | Duxbury | Minnechaug | 81.6% | +5.2 |
-| 2025-11-08 | Lunenburg | Northbridge | 67.8% | +2.6 |
-| 2025-11-08 | Mansfield | Northampton | 63.7% | +2.0 |
-| 2025-11-08 | Masconomet | Westwood | 74.5% | +3.7 |
-| 2025-11-08 | Hingham | Notre Dame (Hingham) | 63.1% | +1.9 |
-| 2025-11-08 | East Longmeadow | Newburyport | 39.7% | -1.4 |
-| 2025-11-08 | Wellesley | Hopkinton | 64.5% | +2.1 |
-| 2025-11-08 | Natick | Westford | 65.9% | +2.3 |
-| 2025-11-08 | Winchester | Concord-Carlisle | 72.1% | +3.3 |
-| 2025-11-08 | Deerfield | Choate | 58.5% | +1.2 |
-| 2025-11-08 | Hotchkiss | Taft | 59.8% | +1.4 |
-| 2025-11-08 | Kent | Loomis Chaffee (Conn.) | 44.0% | -0.8 |
-| 2025-11-08 | Phillips Exeter | Phillips Andover | 37.3% | -1.8 |
-| 2025-11-08 | Longmeadow | North Quincy | 60.2% | +1.4 |
-| 2025-11-09 | Nipmuc | Foxborough | 81.1% | +5.1 |
-| 2025-11-09 | Bishop Feehan | Newton North | 84.8% | +6.0 |
-| 2025-11-09 | Oliver Ames | Marblehead | 53.1% | +0.4 |
-| 2025-11-10 | Monson | Holbrook | 55.3% | +0.7 |
-| 2025-11-10 | Belmont | Central Catholic | 48.6% | -0.2 |
-| 2025-11-10 | Franklin | Lincoln-Sudbury | 57.2% | +1.0 |
-| 2025-11-10 | Needham | Newton South | 70.4% | +3.0 |
-| 2025-11-10 | Cardinal Spellman | Dover-Sherborn | 69.2% | +2.8 |
-| 2025-11-10 | Wilmington | East Bridgewater | 60.3% | +1.4 |
-| 2025-11-10 | Pope Francis | Dedham | 67.4% | +2.5 |
-| 2025-11-10 | Littleton | Tahanto | 60.3% | +1.4 |
-| 2025-11-10 | South Hadley | Uxbridge | 67.7% | +2.6 |
-| 2025-11-10 | Douglas | Georgetown | 66.3% | +2.3 |
-| 2025-11-10 | Hull | Boston Collegiate | 73.7% | +3.6 |
+| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
+|------|------|-----------|-----------|------------|------------------|
+| 2025-11-07 | 5:00 P.M. | Braintree | Lexington | 60.7% | +1.5 |
+| 2025-11-07 | 4:00 P.M. | Lynnfield | Auburn | 68.8% | +2.8 |
+| 2025-11-07 | 5:30 P.M. | Hampshire | Southwick | 56.7% | +0.9 |
+| 2025-11-07 | 2:00 P.M. | Whitinsville Christian | Norfolk Aggie | 36.0% | -2.0 |
+| 2025-11-07 | 2:00 P.M. | Hopkins | Nashoba Valley Tech | 40.8% | -1.3 |
+| 2025-11-08 | 11:00 A.M. | Granby | West Boylston | 58.7% | +1.2 |
+| 2025-11-08 | 6:00 P.M. | Hopedale | David Prouty | 66.9% | +2.4 |
+| 2025-11-08 | 5:30 P.M. | St. John Paul II | Smith Voc. | 53.3% | +0.5 |
+| 2025-11-08 | 2:00 P.M. | Rockport | Rising Tide Charter | 33.5% | -2.4 |
+| 2025-11-08 | 1:00 P.M. | Sutton | Manchester Essex | 68.2% | +2.7 |
+| 2025-11-08 | 2:00 P.M. | Hamilton-Wenham | Mt. Greylock | 70.0% | +2.9 |
+| 2025-11-08 | 6:00 P.M. | Cohasset | Sandwich | 74.7% | +3.8 |
+| 2025-11-08 | 4:30 P.M. | Medfield | St. Mary’s | 67.1% | +2.5 |
+| 2025-11-08 | 1:00 P.M. | Norwell | Medway | 83.0% | +5.5 |
+| 2025-11-08 | 11:30 A.M. | Martha’s Vineyard | Tewksbury | 66.1% | +2.3 |
+| 2025-11-08 | 5:30 P.M. | Duxbury | Minnechaug | 81.6% | +5.2 |
+| 2025-11-08 | 4:00 P.M. | Lunenburg | Northbridge | 67.8% | +2.6 |
+| 2025-11-08 | 6:00 P.M. | Mansfield | Northampton | 63.7% | +2.0 |
+| 2025-11-08 | 2:00 P.M. | Masconomet | Westwood | 74.5% | +3.7 |
+| 2025-11-08 | 11:00 A.M. | Hingham | Notre Dame (Hingham) | 63.1% | +1.9 |
+| 2025-11-08 | 5:00 P.M. | East Longmeadow | Newburyport | 39.7% | -1.4 |
+| 2025-11-08 | 2:00 P.M. | Wellesley | Hopkinton | 64.5% | +2.1 |
+| 2025-11-08 | 3:30 P.M. | Natick | Westford | 65.9% | +2.3 |
+| 2025-11-08 | 12:00 P.M. | Winchester | Concord-Carlisle | 72.1% | +3.3 |
+| 2025-11-08 | 11:00 A.M. | Deerfield | Choate | 58.5% | +1.2 |
+| 2025-11-08 | 2:00 P.M. | Hotchkiss | Taft | 59.8% | +1.4 |
+| 2025-11-08 | 2:30 P.M. | Kent | Loomis Chaffee (Conn.) | 44.0% | -0.8 |
+| 2025-11-08 | 2:15 P.M. | Phillips Exeter | Phillips Andover | 37.3% | -1.8 |
+| 2025-11-08 | 1:30 P.M. | Longmeadow | North Quincy | 60.2% | +1.4 |
+| 2025-11-09 | 11:00 A.M. | Nipmuc | Foxborough | 81.1% | +5.1 |
+| 2025-11-09 | 5:00 P.M. | Bishop Feehan | Newton North | 84.8% | +6.0 |
+| 2025-11-09 | 4:00 P.M. | Oliver Ames | Marblehead | 53.1% | +0.4 |
+| 2025-11-10 | 2:00 P.M. | Monson | Holbrook | 55.3% | +0.7 |
+| 2025-11-10 | 6:00 P.M. | Belmont | Central Catholic | 48.6% | -0.2 |
+| 2025-11-10 | 6:00 P.M. | Franklin | Lincoln-Sudbury | 57.2% | +1.0 |
+| 2025-11-10 | 4:00 P.M. | Needham | Newton South | 70.4% | +3.0 |
+| 2025-11-10 | 5:00 P.M. | Cardinal Spellman | Dover-Sherborn | 69.2% | +2.8 |
+| 2025-11-10 | 5:00 P.M. | Wilmington | East Bridgewater | 60.3% | +1.4 |
+| 2025-11-10 | 5:00 P.M. | Pope Francis | Dedham | 67.4% | +2.5 |
+| 2025-11-10 | 6:00 P.M. | Littleton | Tahanto | 60.3% | +1.4 |
+| 2025-11-10 | 5:00 P.M. | South Hadley | Uxbridge | 67.7% | +2.6 |
+| 2025-11-10 | 6:00 P.M. | Douglas | Georgetown | 66.3% | +2.3 |
+| 2025-11-10 | 5:00 P.M. | Hull | Boston Collegiate | 73.7% | +3.6 |
 
 ## Current Elo Ratings
 
@@ -247,15 +247,15 @@ Generated: 2025-11-07 07:48
 | 191 | Madison Park | 1503.4 |
 | 192 | Concord Academy | 1502.9 |
 | 193 | Canton | 1502.2 |
-| 194 | Boston Prep | 1501.7 |
+| 194 | Neighborhood House Charter | 1501.7 |
 | 195 | Kent | 1501.7 |
-| 196 | Kingswood-Oxford | 1501.7 |
+| 196 | Taft | 1501.7 |
 | 197 | Cumberland (R.I.) | 1501.7 |
-| 198 | Taft | 1501.7 |
-| 199 | Bridgton Academy | 1501.7 |
-| 200 | Neighborhood House Charter | 1501.7 |
-| 201 | Poughkeepsie Day (N.Y.) | 1501.7 |
-| 202 | South Shore Christian | 1501.7 |
+| 198 | Kingswood-Oxford | 1501.7 |
+| 199 | South Shore Christian | 1501.7 |
+| 200 | Poughkeepsie Day (N.Y.) | 1501.7 |
+| 201 | Bridgton Academy | 1501.7 |
+| 202 | Boston Prep | 1501.7 |
 | 203 | Lawrence Academy | 1501.6 |
 | 204 | West Boylston | 1500.8 |
 | 205 | Billerica | 1499.6 |
