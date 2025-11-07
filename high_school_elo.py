@@ -325,11 +325,18 @@ def generate_markdown_report(sport, season, upcoming_games_df, final_ratings_df)
     if len(upcoming) == 0:
         markdown_lines.append("*No upcoming games scheduled*\n")
     else:
-        markdown_lines.append("| Date | Home Team | Away Team | Home Win % | Predicted Spread |")
-        markdown_lines.append("|------|-----------|-----------|------------|------------------|")
+        markdown_lines.append("| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |")
+        markdown_lines.append("|------|------|-----------|-----------|------------|------------------|")
 
         for _, game in upcoming.iterrows():
             date_str = game["date"].strftime("%Y-%m-%d")
+
+            # Format time (handle missing times)
+            if pd.notna(game["time"]) and game["time"]:
+                time_str = str(game["time"])
+            else:
+                time_str = "TBD"
+
             home_team = game["home_team"]
             away_team = game["visitor_team"]
             home_win_pct = game["home_win_prob"] * 100
@@ -342,7 +349,7 @@ def generate_markdown_report(sport, season, upcoming_games_df, final_ratings_df)
                 spread_str = f"{pred_spread:.1f}"
 
             markdown_lines.append(
-                f"| {date_str} | {home_team} | {away_team} | "
+                f"| {date_str} | {time_str} | {home_team} | {away_team} | "
                 f"{home_win_pct:.1f}% | {spread_str} |"
             )
 

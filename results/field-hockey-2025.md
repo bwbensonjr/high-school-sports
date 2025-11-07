@@ -1,32 +1,32 @@
 # Field Hockey - 2025 Season
 
-Generated: 2025-11-07 07:48
+Generated: 2025-11-07 07:56
 
 ## Upcoming Games
 
-| Date | Home Team | Away Team | Home Win % | Predicted Spread |
-|------|-----------|-----------|------------|------------------|
-| 2025-11-07 | Wellesley | Belmont | 55.7% | +1.0 |
-| 2025-11-07 | Sandwich | Lynnfield | 77.0% | +5.2 |
-| 2025-11-07 | Uxbridge | Scituate | 82.4% | +6.7 |
-| 2025-11-07 | Cohasset | Hopedale | 70.8% | +3.8 |
-| 2025-11-07 | Monomoy | Manchester Essex | 72.5% | +4.2 |
-| 2025-11-08 | Dennis-Yarmouth | Quabbin | 71.6% | +4.0 |
-| 2025-11-08 | Sutton | Frontier | 67.7% | +3.2 |
-| 2025-11-08 | Dover-Sherborn | East Longmeadow | 54.8% | +0.8 |
-| 2025-11-08 | Medfield | Watertown | 36.7% | -2.4 |
-| 2025-11-08 | Hingham | Reading | 70.8% | +3.8 |
-| 2025-11-08 | Nashoba | Westwood | 76.0% | +5.0 |
-| 2025-11-08 | Canton | King Philip | 66.4% | +3.0 |
-| 2025-11-08 | Lincoln-Sudbury | Winchester | 57.3% | +1.3 |
-| 2025-11-08 | Hotchkiss | Taft | 53.2% | +0.6 |
-| 2025-11-08 | Westminster | Governor’s Academy | 55.9% | +1.0 |
-| 2025-11-08 | Wilbraham & Monson | Marianapolis | 61.3% | +2.0 |
-| 2025-11-08 | Tilton | Austin Prep | 73.3% | +4.4 |
-| 2025-11-08 | Worcester Academy | Cushing | 33.9% | -2.9 |
-| 2025-11-08 | Walpole | Andover | 63.9% | +2.5 |
-| 2025-11-09 | Somerset Berkley | Longmeadow | 74.0% | +4.5 |
-| 2025-11-10 | Franklin | Hopkinton | 77.1% | +5.3 |
+| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
+|------|------|-----------|-----------|------------|------------------|
+| 2025-11-07 | 2:45 P.M. | Wellesley | Belmont | 55.7% | +1.0 |
+| 2025-11-07 | 3:30 P.M. | Sandwich | Lynnfield | 77.0% | +5.2 |
+| 2025-11-07 | 3:45 P.M. | Uxbridge | Scituate | 82.4% | +6.7 |
+| 2025-11-07 | 4:00 P.M. | Cohasset | Hopedale | 70.8% | +3.8 |
+| 2025-11-07 | 4:00 P.M. | Monomoy | Manchester Essex | 72.5% | +4.2 |
+| 2025-11-08 | 12:00 P.M. | Dennis-Yarmouth | Quabbin | 71.6% | +4.0 |
+| 2025-11-08 | 11:00 A.M. | Sutton | Frontier | 67.7% | +3.2 |
+| 2025-11-08 | 12:00 P.M. | Dover-Sherborn | East Longmeadow | 54.8% | +0.8 |
+| 2025-11-08 | 1:00 P.M. | Medfield | Watertown | 36.7% | -2.4 |
+| 2025-11-08 | 2:00 P.M. | Hingham | Reading | 70.8% | +3.8 |
+| 2025-11-08 | 4:00 P.M. | Nashoba | Westwood | 76.0% | +5.0 |
+| 2025-11-08 | 6:00 P.M. | Canton | King Philip | 66.4% | +3.0 |
+| 2025-11-08 | 1:00 P.M. | Lincoln-Sudbury | Winchester | 57.3% | +1.3 |
+| 2025-11-08 | 2:00 P.M. | Hotchkiss | Taft | 53.2% | +0.6 |
+| 2025-11-08 | 2:30 P.M. | Westminster | Governor’s Academy | 55.9% | +1.0 |
+| 2025-11-08 | 2:30 P.M. | Wilbraham & Monson | Marianapolis | 61.3% | +2.0 |
+| 2025-11-08 | 2:00 P.M. | Tilton | Austin Prep | 73.3% | +4.4 |
+| 2025-11-08 | 2:00 P.M. | Worcester Academy | Cushing | 33.9% | -2.9 |
+| 2025-11-08 | 12:00 P.M. | Walpole | Andover | 63.9% | +2.5 |
+| 2025-11-09 | 11:00 A.M. | Somerset Berkley | Longmeadow | 74.0% | +4.5 |
+| 2025-11-10 | 3:45 P.M. | Franklin | Hopkinton | 77.1% | +5.3 |
 
 ## Current Elo Ratings
 
@@ -156,11 +156,11 @@ Generated: 2025-11-07 07:48
 | 122 | Franklin County Tech | 1502.3 |
 | 123 | New Hampton | 1501.9 |
 | 124 | Hopkins (Conn.) | 1501.7 |
-| 125 | Kingswood-Oxford | 1501.7 |
-| 126 | Wheeler (R.I.) | 1501.7 |
-| 127 | Hamden Hall Country Day | 1501.7 |
-| 128 | St. Luke’s | 1501.7 |
-| 129 | Kent | 1501.7 |
+| 125 | Wheeler (R.I.) | 1501.7 |
+| 126 | St. Luke’s | 1501.7 |
+| 127 | Kent | 1501.7 |
+| 128 | Hamden Hall Country Day | 1501.7 |
+| 129 | Kingswood-Oxford | 1501.7 |
 | 130 | Milton Academy | 1500.8 |
 | 131 | Monty Tech | 1499.6 |
 | 132 | Proctor | 1499.6 |
