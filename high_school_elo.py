@@ -179,6 +179,7 @@ def compute_elo_ratings(sport):
         sport,
         current_season,
         upcoming_games_with_elo,
+        completed_games_with_elo,
         final_ratings
     )
 
@@ -288,14 +289,15 @@ def process_upcoming_games(elo, games_input):
     return games
 
 
-def generate_markdown_report(sport, season, upcoming_games_df, final_ratings_df):
+def generate_markdown_report(sport, season, upcoming_games_df, completed_games_df, final_ratings_df):
     """
-    Generate a Markdown report with upcoming game predictions and current Elo ratings.
+    Generate a Markdown report with upcoming game predictions, recent results, and current Elo ratings.
 
     Args:
         sport (str): Sport name
         season (int): Season year
         upcoming_games_df (DataFrame): Upcoming games with Elo predictions
+        completed_games_df (DataFrame): Completed games with Elo ratings
         final_ratings_df (DataFrame): Current Elo ratings for all teams
     """
     # Filter for upcoming games in the current season
@@ -353,7 +355,57 @@ def generate_markdown_report(sport, season, upcoming_games_df, final_ratings_df)
                 f"{home_win_pct:.1f}% | {spread_str} |"
             )
 
-    # Section 2: Current Elo Ratings
+    # Section 2: Recent Games (last 7 days)
+    markdown_lines.append("\n## Recent Games\n")
+
+    # Filter for completed games in the current season
+    recent_completed = completed_games_df[
+        completed_games_df["season"] == season
+    ].copy()
+    recent_completed["date"] = pd.to_datetime(recent_completed["date"])
+
+    # Get games from the last 7 days
+    today = pd.Timestamp.now().normalize()
+    week_ago = today - pd.Timedelta(days=7)
+    recent_completed = recent_completed[
+        (recent_completed["date"] >= week_ago) &
+        (recent_completed["date"] <= today)
+    ]
+    recent_completed = recent_completed.sort_values("date", ascending=False)
+
+    if len(recent_completed) == 0:
+        markdown_lines.append("*No games in the last 7 days*\n")
+    else:
+        markdown_lines.append("| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |")
+        markdown_lines.append("|------|-----------|-------|-----------|-------|------------------|---------------|")
+
+        for _, game in recent_completed.iterrows():
+            date_str = game["date"].strftime("%Y-%m-%d")
+            home_team = game["home_team"]
+            away_team = game["visitor_team"]
+            home_score = int(game["home_score"])
+            away_score = int(game["visitor_score"])
+            pred_spread = game["pred_point_spread"]
+            actual_spread = game["actual_point_spread"]
+
+            # Format predicted spread with sign
+            if pred_spread > 0:
+                pred_spread_str = f"+{pred_spread:.1f}"
+            else:
+                pred_spread_str = f"{pred_spread:.1f}"
+
+            # Format actual spread with sign
+            if actual_spread > 0:
+                actual_spread_str = f"+{actual_spread:.1f}"
+            else:
+                actual_spread_str = f"{actual_spread:.1f}"
+
+            markdown_lines.append(
+                f"| {date_str} | {home_team} | {home_score} | {away_team} | "
+                f"{away_score} | {pred_spread_str} | {actual_spread_str} |"
+            )
+
+    # Section 3: Current Elo Ratings
     markdown_lines.append("\n## Current Elo Ratings\n")
     markdown_lines.append("| Rank | Team | Elo Rating |")
     markdown_lines.append("|------|------|------------|")

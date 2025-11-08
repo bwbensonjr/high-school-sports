@@ -1,10 +1,15 @@
 # Wrestling - 2024 Season
 
-Generated: 2025-11-07 13:38
+Generated: 2025-11-08 16:23
 
 ## Upcoming Games
 
 *No upcoming games scheduled*
+
+
+## Recent Games
+
+*No games in the last 7 days*
 
 
 ## Current Elo Ratings
@@ -13,8 +18,8 @@ Generated: 2025-11-07 13:38
 |------|------|------------|
 | 1 | Roxbury Latin | 1675.2 |
 | 2 | Brooks | 1526.4 |
-| 3 | North Reading | 1500.0 |
-| 4 | Wilmington | 1500.0 |
+| 3 | Wilmington | 1500.0 |
+| 4 | North Reading | 1500.0 |
 | 5 | St. Mark’s | 1466.0 |
 | 6 | Phillips Exeter | 1465.3 |
 | 7 | Deerfield | 1454.7 |
