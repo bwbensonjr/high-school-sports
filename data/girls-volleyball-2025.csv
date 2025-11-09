@@ -1185,16 +1185,16 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-10-27,60651,FINAL,Greater New Bedford,4156,1.0,0.0,Greater Lawrence,4154,3.0,1.0,South Coast,Commonwealth,,,0
 2025-10-27,60652,FINAL,Blackstone Valley,4046,3.0,1.0,Assabet,4016,0.0,0.0,CMAC,CMAC,,,0
 2025-10-27,60655,FINAL,South Shore Voc-Tech,4356,3.0,1.0,Smith Voc.,4539,1.0,0.0,Mayflower,Metro,,,0
-2025-10-29,61247,FINAL,North Quincy,4287,3,1,Essex Tech,4745,0,0,Patriot,Cape Ann,5:30 P.M.,,0
-2025-10-29,61250,FINAL,Norwood,4297,3,1,Putnam,4362,0,0,Tri-Valley,Central,5:00 P.M.,,0
-2025-10-29,61259,FINAL,Woburn,4438,3,1,Shepherd Hill,4347,0,0,Middlesex,Mid-Wach,4:30 P.M.,,0
-2025-10-29,61568,FINAL,Renaissance,4664,3,1,Boston Collegiate,4592,0,0,Metro,Charter School Athletic,4:00 P.M.,,0
-2025-10-29,61607,FINAL,Notre Dame (Tyngsborough),4540,1,0,Hampden Charter West,4985,3,1,Commonwealth,Independent,5:00 P.M.,,0
-2025-10-29,61640,FINAL,Brooks,4060,0,0,BB&N,4028,3,1,ISL,ISL,,,0
-2025-10-29,61654,FINAL,Phillips Exeter,4311,3,1,Austin Prep,4020,0,0,Independent,Independent,,,0
-2025-10-29,61677,FINAL,Rivers,4330,3,1,Lawrence Academy,4204,1,0,ISL,ISL,,,0
-2025-10-29,61689,FINAL,Middlesex,4248,1,0,Nobles,4282,3,1,ISL,ISL,,,0
-2025-10-29,61695,FINAL,Cushing,4101,3,1,Beaver Country Day,4030,2,0,Independent,EIL,,,0
+2025-10-29,61247,FINAL,North Quincy,4287,3.0,1.0,Essex Tech,4745,0.0,0.0,Patriot,Cape Ann,5:30 P.M.,,0
+2025-10-29,61250,FINAL,Norwood,4297,3.0,1.0,Putnam,4362,0.0,0.0,Tri-Valley,Central,5:00 P.M.,,0
+2025-10-29,61259,FINAL,Woburn,4438,3.0,1.0,Shepherd Hill,4347,0.0,0.0,Middlesex,Mid-Wach,4:30 P.M.,,0
+2025-10-29,61568,FINAL,Renaissance,4664,3.0,1.0,Boston Collegiate,4592,0.0,0.0,Metro,Charter School Athletic,4:00 P.M.,,0
+2025-10-29,61607,FINAL,Notre Dame (Tyngsborough),4540,1.0,0.0,Hampden Charter West,4985,3.0,1.0,Commonwealth,Independent,5:00 P.M.,,0
+2025-10-29,61640,FINAL,Brooks,4060,0.0,0.0,BB&N,4028,3.0,1.0,ISL,ISL,,,0
+2025-10-29,61654,FINAL,Phillips Exeter,4311,3.0,1.0,Austin Prep,4020,0.0,0.0,Independent,Independent,,,0
+2025-10-29,61677,FINAL,Rivers,4330,3.0,1.0,Lawrence Academy,4204,1.0,0.0,ISL,ISL,,,0
+2025-10-29,61689,FINAL,Middlesex,4248,1.0,0.0,Nobles,4282,3.0,1.0,ISL,ISL,,,0
+2025-10-29,61695,FINAL,Cushing,4101,3.0,1.0,Beaver Country Day,4030,2.0,0.0,Independent,EIL,,,0
 2025-10-30,61100,FINAL,Newton South,4280,3,1,Methuen,4246,1,0,Dual County,Merrimack Valley,6:30 P.M.,,0
 2025-10-30,61109,FINAL,Bishop Feehan,4042,3,1,Hopkinton,4180,0,0,Catholic Central,Tri-Valley,4:00 P.M.,,0
 2025-10-30,61118,FINAL,Winchester,4434,3,1,North Andover,4283,0,0,Middlesex,Merrimack Valley,5:00 P.M.,,0
@@ -1357,11 +1357,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-07,61511,FINAL,Madison Park,4225,2,0,Smith Voc.,4539,3,1,Boston City,Metro,4:00 P.M.,,0
 2025-11-07,61514,FINAL,Pioneer Valley Christian,4535,3,1,Baystate Academy,4846,2,0,Metro,Independent,5:00 P.M.,,0
 2025-11-07,63557,FINAL,Winsor,4436,3,1,Beaver Country Day,4030,0,0,EIL,EIL,,,0
-2025-11-08,61070,UPCOMING,Central Catholic,4081,,,Wellesley,4413,,,Merrimack Valley,Bay State,6:00 P.M.,,0
+2025-11-08,61070,FINAL,Central Catholic,4081,3,1,Wellesley,4413,0,0,Merrimack Valley,Bay State,6:00 P.M.,,0
 2025-11-08,61169,FINAL,Oliver Ames,4302,3,1,Canton,4071,1,0,Hockomock,Hockomock,2:00 P.M.,,0
 2025-11-08,61283,FINAL,Medfield,4241,3,1,Pembroke,4308,1,0,Tri-Valley,Patriot,2:30 P.M.,,0
 2025-11-08,61286,FINAL,Joseph Case,4078,3,1,Newburyport,4276,0,0,South Coast,Cape Ann,11:30 A.M.,,0
-2025-11-08,61289,UPCOMING,Bellingham,4033,,,Weston,4423,,,Tri-Valley,Dual County,4:00 P.M.,,0
+2025-11-08,61289,FINAL,Bellingham,4033,3,1,Weston,4423,0,0,Tri-Valley,Dual County,4:00 P.M.,,0
 2025-11-08,61409,FINAL,Bourne,4050,3,1,Ursuline,4448,0,0,South Coast,Catholic Conference,12:00 P.M.,,0
-2025-11-08,61517,UPCOMING,Hopedale,4507,,,Renaissance,4664,,,CMAC,Metro,2:00 P.M.,,0
+2025-11-08,61517,FINAL,Hopedale,4507,3,1,Renaissance,4664,1,0,CMAC,Metro,2:00 P.M.,,0
 2025-11-09,61064,UPCOMING,Andover,4009,,,Franklin,4144,,,Merrimack Valley,Hockomock,12:00 P.M.,,0

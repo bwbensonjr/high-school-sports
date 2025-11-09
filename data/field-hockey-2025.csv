@@ -870,23 +870,23 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-10-27,53483,UPCOMING,Suffield Academy,4382,,,Westminster,4422,,,Independent,Independent,4:45 P.M.,,0
 2025-10-28,61614,FINAL,Canton,4071,4.0,1.0,Foxborough,4142,0.0,0.0,Hockomock,Hockomock,,,0
 2025-10-29,53225,UPCOMING,Worcester Academy,4441,,,Newton Country Day,4278,,,Independent,EIL,4:30 P.M.,,0
-2025-10-29,53330,FINAL,Tabor,4384,6,1,Austin Prep,4020,0,0,ISL,Independent,3:30 P.M.,,0
-2025-10-29,53394,FINAL,Marianapolis,4567,1,0,Rocky Hill Country Day,4332,6,1,Independent,Independent,3:00 P.M.,,0
-2025-10-29,53490,FINAL,Taft,4386,3,1,Westminster,4422,1,0,Independent,Independent,3:00 P.M.,,0
-2025-10-29,53626,FINAL,Phillips Andover,4310,4,1,Nobles,4282,0,0,Independent,ISL,3:45 P.M.,,0
-2025-10-29,53709,FINAL,Miss Porter’s,4257,0,0,Hotchkiss,4181,4,1,Independent,Independent,3:00 P.M.,,0
-2025-10-29,60751,FINAL,Central Catholic,4081,1,1,Methuen,4246,0,0,Merrimack Valley,Merrimack Valley,6:00 P.M.,2.0,0
-2025-10-29,60826,FINAL,Westwood,4424,3,1,Ashland,4015,0,0,Tri-Valley,Tri-Valley,2:30 P.M.,,0
-2025-10-29,60847,FINAL,Minnechaug,4254,1,1,Marblehead,4231,0,0,Suburban,Northeastern,5:00 P.M.,,0
-2025-10-29,60850,FINAL,Stoughton,4381,2,1,West Springfield,4417,1,0,Hockomock,Suburban,6:00 P.M.,1.0,0
-2025-10-29,60853,FINAL,Bishop Stang,4045,8,1,Revere,4329,0,0,Catholic Central,Greater Boston,6:00 P.M.,,0
-2025-10-29,60913,FINAL,Watertown,4409,5,1,Swampscott,4383,0,0,Middlesex,Northeastern,5:00 P.M.,,0
-2025-10-29,60949,FINAL,Apponequet,4011,1,1,Saugus,4341,0,0,South Coast,Northeastern,2:30 P.M.,,0
-2025-10-29,60952,FINAL,Blackstone Valley,4046,4,1,St. Bernard’s,4365,2,0,CMAC,CMAC,3:30 P.M.,,0
-2025-10-29,60955,FINAL,Bellingham,4033,4,1,Franklin County Tech,4145,0,0,Tri-Valley,County,6:30 P.M.,,0
-2025-10-29,61051,FINAL,St. Paul,4954,3,1,Gardner,4147,0,0,CMAC,Mid-Wach,4:00 P.M.,,0
-2025-10-29,61054,FINAL,Tyngsborough,4397,4,1,Blackstone-Millville,4486,1,0,Mid-Wach,CMAC,6:00 P.M.,,0
-2025-10-29,61676,FINAL,Lawrence Academy,4204,0,0,Rivers,4330,1,1,ISL,ISL,,,0
+2025-10-29,53330,FINAL,Tabor,4384,6.0,1.0,Austin Prep,4020,0.0,0.0,ISL,Independent,3:30 P.M.,,0
+2025-10-29,53394,FINAL,Marianapolis,4567,1.0,0.0,Rocky Hill Country Day,4332,6.0,1.0,Independent,Independent,3:00 P.M.,,0
+2025-10-29,53490,FINAL,Taft,4386,3.0,1.0,Westminster,4422,1.0,0.0,Independent,Independent,3:00 P.M.,,0
+2025-10-29,53626,FINAL,Phillips Andover,4310,4.0,1.0,Nobles,4282,0.0,0.0,Independent,ISL,3:45 P.M.,,0
+2025-10-29,53709,FINAL,Miss Porter’s,4257,0.0,0.0,Hotchkiss,4181,4.0,1.0,Independent,Independent,3:00 P.M.,,0
+2025-10-29,60751,FINAL,Central Catholic,4081,1.0,1.0,Methuen,4246,0.0,0.0,Merrimack Valley,Merrimack Valley,6:00 P.M.,2.0,0
+2025-10-29,60826,FINAL,Westwood,4424,3.0,1.0,Ashland,4015,0.0,0.0,Tri-Valley,Tri-Valley,2:30 P.M.,,0
+2025-10-29,60847,FINAL,Minnechaug,4254,1.0,1.0,Marblehead,4231,0.0,0.0,Suburban,Northeastern,5:00 P.M.,,0
+2025-10-29,60850,FINAL,Stoughton,4381,2.0,1.0,West Springfield,4417,1.0,0.0,Hockomock,Suburban,6:00 P.M.,1.0,0
+2025-10-29,60853,FINAL,Bishop Stang,4045,8.0,1.0,Revere,4329,0.0,0.0,Catholic Central,Greater Boston,6:00 P.M.,,0
+2025-10-29,60913,FINAL,Watertown,4409,5.0,1.0,Swampscott,4383,0.0,0.0,Middlesex,Northeastern,5:00 P.M.,,0
+2025-10-29,60949,FINAL,Apponequet,4011,1.0,1.0,Saugus,4341,0.0,0.0,South Coast,Northeastern,2:30 P.M.,,0
+2025-10-29,60952,FINAL,Blackstone Valley,4046,4.0,1.0,St. Bernard’s,4365,2.0,0.0,CMAC,CMAC,3:30 P.M.,,0
+2025-10-29,60955,FINAL,Bellingham,4033,4.0,1.0,Franklin County Tech,4145,0.0,0.0,Tri-Valley,County,6:30 P.M.,,0
+2025-10-29,61051,FINAL,St. Paul,4954,3.0,1.0,Gardner,4147,0.0,0.0,CMAC,Mid-Wach,4:00 P.M.,,0
+2025-10-29,61054,FINAL,Tyngsborough,4397,4.0,1.0,Blackstone-Millville,4486,1.0,0.0,Mid-Wach,CMAC,6:00 P.M.,,0
+2025-10-29,61676,FINAL,Lawrence Academy,4204,0.0,0.0,Rivers,4330,1.0,1.0,ISL,ISL,,,0
 2025-10-30,60733,FINAL,Natick,4270,0,0,Wachusett,4400,1,1,Bay State,Mid-Wach,5:00 P.M.,,0
 2025-10-30,60802,FINAL,Notre Dame (Hingham),4449,2,1,Barnstable,4024,0,0,Independent,Southeast,4:30 P.M.,,0
 2025-10-30,60835,FINAL,Canton,4071,8,1,Melrose,4244,1,0,Hockomock,Middlesex,3:45 P.M.,,0
@@ -1009,7 +1009,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-08,53568,FINAL,Hotchkiss,4181,2,1,Taft,4386,1,0,Independent,Independent,2:00 P.M.,,0
 2025-11-08,60667,FINAL,Lincoln-Sudbury,4211,0,0,Winchester,4434,1,1,Dual County,Middlesex,1:00 P.M.,2.0,1
 2025-11-08,60676,FINAL,Walpole,4404,5,1,Andover,4009,0,0,Bay State,Merrimack Valley,12:00 P.M.,,0
-2025-11-08,60763,UPCOMING,Canton,4071,,,King Philip,4197,,,Hockomock,Hockomock,6:00 P.M.,,0
+2025-11-08,60763,FINAL,Canton,4071,2,1,King Philip,4197,1,0,Hockomock,Hockomock,6:00 P.M.,,0
 2025-11-08,60766,FINAL,Nashoba,4267,3,1,Westwood,4424,0,0,Mid-Wach,Tri-Valley,4:00 P.M.,,0
 2025-11-08,60772,FINAL,Hingham,4171,4,1,Reading,4328,1,0,Patriot,Middlesex,2:00 P.M.,,0
 2025-11-08,60865,FINAL,Medfield,4241,1,0,Watertown,4409,2,1,Tri-Valley,Middlesex,1:00 P.M.,,0
@@ -1019,5 +1019,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-09,60769,UPCOMING,Somerset Berkley,4350,,,Longmeadow,4214,,,South Coast,Suburban,11:00 A.M.,,0
 2025-11-10,60670,UPCOMING,Franklin,4144,,,Hopkinton,4180,,,Hockomock,Tri-Valley,3:45 P.M.,,0
 2025-11-12,60859,UPCOMING,Sandwich,4340,,,Dover-Sherborn,4118,,,Cape & Islands,Tri-Valley,5:00 P.M.,,0
+2025-11-12,60862,UPCOMING,Uxbridge,4398,,,Watertown,4409,,,CMAC,Middlesex,7:00 P.M.,,0
 2025-11-13,60961,UPCOMING,Dennis-Yarmouth,4111,,,Cohasset,4094,,,Cape & Islands,South Shore,5:00 P.M.,,0
 2025-11-13,60964,UPCOMING,Monomoy,4706,,,Frontier,4146,,,Cape & Islands,Suburban,5:00 P.M.,,0

@@ -544,9 +544,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-10-25,57138,FINAL,Loomis Chaffee (Conn.),4215,7.0,0.0,Choate,4090,30.0,1.0,NEPSAC Class A,NEPSAC Class A,2:00 P.M.,,0
 2025-10-25,57146,FINAL,Taft,4386,12.0,1.0,Kent,4193,6.0,0.0,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
 2025-10-25,57190,FINAL,Suffield Academy,4382,28.0,0.0,Williston Northampton,4431,58.0,1.0,NEPSAC Class A,NEPSAC Class A,6:00 P.M.,,0
-2025-10-29,44622,FINAL,Chelmsford,4085,33,1,Lawrence,4203,12,0,Merrimack Valley,Merrimack Valley,7:00 P.M.,,0
-2025-10-29,44955,FINAL,Athol,4017,0,0,Greenfield,4157,22,1,Intercounty,Intercounty,6:00 P.M.,,0
-2025-10-29,55097,FINAL,Holderness,4173,48,1,Hebron (Maine),4168,0,0,NEPSAC 8-Person,NEPSAC 8-Person,2:30 P.M.,,0
+2025-10-29,44622,FINAL,Chelmsford,4085,33.0,1.0,Lawrence,4203,12.0,0.0,Merrimack Valley,Merrimack Valley,7:00 P.M.,,0
+2025-10-29,44955,FINAL,Athol,4017,0.0,0.0,Greenfield,4157,22.0,1.0,Intercounty,Intercounty,6:00 P.M.,,0
+2025-10-29,55097,FINAL,Holderness,4173,48.0,1.0,Hebron (Maine),4168,0.0,0.0,NEPSAC 8-Person,NEPSAC 8-Person,2:30 P.M.,,0
 2025-10-30,43926,FINAL,Needham,4272,15,1,Framingham,4143,11,0,Bay State,Bay State,5:30 P.M.,,0
 2025-10-30,43944,FINAL,Weymouth,4425,7,0,Wellesley,4413,21,1,Bay State,Bay State,7:00 P.M.,,0
 2025-10-30,44041,FINAL,Sandwich,4340,42,1,Nauset,4271,32,0,Cape & Islands,Cape & Islands,6:00 P.M.,,0
@@ -835,18 +835,18 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-08,44390,FINAL,St. Mark’s,4372,42,1,Groton,4544,8,0,NEPSAC Class C,NEPSAC Class C,1:30 P.M.,,0
 2025-11-08,44403,FINAL,Middlesex,4248,20,1,St. George’s,4367,0,0,NEPSAC Class C,NEPSAC Class C,1:00 P.M.,,0
 2025-11-08,44423,FINAL,Rivers,4330,28,1,Roxbury Latin,4334,7,0,NEPSAC Class C,NEPSAC Class C,2:00 P.M.,,0
-2025-11-08,44623,UPCOMING,Austin Prep,4020,,,Portsmouth Abbey,4320,,,NEPSAC Class C,NEPSAC Class C,6:30 P.M.,,0
+2025-11-08,44623,FINAL,Austin Prep,4020,20,1,Portsmouth Abbey,4320,7,0,NEPSAC Class C,NEPSAC Class C,6:30 P.M.,,0
 2025-11-08,44663,POSTPONED,Hebron (Maine),4168,,,Forman,4141,,,NEPSAC 8-Person,NEPSAC 8-Person,1:00 P.M.,,0
 2025-11-08,44700,FINAL,Canterbury,4070,21,0,Kingswood-Oxford,4198,44,1,NEPSAC Class C,NEPSAC Class C,4:00 P.M.,,0
 2025-11-08,44745,FINAL,Berkshire,4036,49,1,Proctor,4321,7,0,NEPSAC Class C,NEPSAC Class C,2:30 P.M.,,0
 2025-11-08,44777,FINAL,Holderness,4173,73,1,Harvey (N.Y.),4166,23,0,NEPSAC 8-Person,NEPSAC 8-Person,2:00 P.M.,,0
 2025-11-08,57114,FINAL,Phillips Exeter,4311,48,1,Phillips Andover,4310,16,0,NEPSAC Class A,NEPSAC Class A,4:45 P.M.,,0
 2025-11-08,57128,FINAL,Avon Old Farms,4021,63,1,Salisbury (Conn.),4339,35,0,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
-2025-11-08,57140,UPCOMING,Kent,4193,,,Loomis Chaffee (Conn.),4215,,,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
+2025-11-08,57140,FINAL,Kent,4193,0,0,Loomis Chaffee (Conn.),4215,42,1,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
 2025-11-08,57152,FINAL,Hotchkiss,4181,27,0,Taft,4386,42,1,NEPSAC Class A,NEPSAC Class A,2:00 P.M.,,0
 2025-11-08,57160,FINAL,Choate,4090,51,1,Deerfield,4110,20,0,NEPSAC Class A,NEPSAC Class A,1:00 P.M.,,0
 2025-11-08,57192,FINAL,Williston Northampton,4431,29,1,Brunswick,4062,25,0,NEPSAC Class A,NEPSAC Class A,3:30 P.M.,,0
-2025-11-08,57208,UPCOMING,Greenwich CD (Conn.),5041,,,Hamden Hall Country Day,4162,,,NEPSAC Class C,NEPSAC Class C,5:30 P.M.,,0
+2025-11-08,57208,FINAL,Greenwich CD (Conn.),5041,48,1,Hamden Hall Country Day,4162,30,0,NEPSAC Class C,NEPSAC Class C,5:30 P.M.,,0
 2025-11-08,63387,FINAL,Hoosac Valley,4178,21,1,Blackstone-Millville/Hopedale,4486,12,0,Intercounty,CMAC,12:00 P.M.,,0
 2025-11-08,63428,FINAL,Nipmuc,4281,14,0,Bay Path,4027,20,1,CMAC,CMAC,12:00 P.M.,,0
 2025-11-08,63439,FINAL,Lynn Classical,4220,16,0,Waltham,4405,20,1,Greater Boston,Dual County,1:00 P.M.,,0
@@ -854,9 +854,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-14,63063,UPCOMING,Xaverian,4446,,,Andover,4009,,,Catholic Conference,Merrimack Valley,6:00 P.M.,,0
 2025-11-14,63066,UPCOMING,St. John’s Prep,4369,,,Leominster,4208,,,Catholic Conference,Mid-Wach,6:00 P.M.,,0
 2025-11-14,63102,UPCOMING,Hingham,4171,,,Malden Catholic,4228,,,Patriot,Catholic Conference,7:00 P.M.,,0
+2025-11-14,63105,UPCOMING,Barnstable,4024,,,North Attleborough,4284,,,Southeast,Hockomock,6:30 P.M.,,0
 2025-11-14,63111,UPCOMING,King Philip,4197,,,Mansfield,4230,,,Hockomock,Hockomock,6:00 P.M.,,0
 2025-11-14,63147,UPCOMING,Medfield,4241,,,North Reading,4288,,,Tri-Valley,Cape Ann,6:00 P.M.,,0
 2025-11-14,63150,UPCOMING,Foxborough,4142,,,Gloucester,4150,,,Hockomock,Northeastern,6:00 P.M.,,0
+2025-11-14,63153,UPCOMING,Hanover,4164,,,Archbishop Williams,4012,,,Patriot,Catholic Central,7:00 P.M.,,0
 2025-11-14,63192,UPCOMING,Northbridge,4292,,,Millbury,4250,,,CMAC,CMAC,6:00 P.M.,,0
 2025-11-14,63198,UPCOMING,West Bridgewater,4415,,,Clinton,4093,,,South Coast,Mid-Wach,6:00 P.M.,,0
 2025-11-14,63201,UPCOMING,Cohasset,4094,,,Rockland,4331,,,South Shore,South Shore,6:00 P.M.,,0
