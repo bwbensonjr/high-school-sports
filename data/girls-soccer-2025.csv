@@ -1603,7 +1603,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-08,54780,UPCOMING,Hotchkiss,4181,,,Taft,4386,,,Independent,Independent,2:00 P.M.,,0
 2025-11-08,54971,UPCOMING,Deerfield,4110,,,Choate,4090,,,Independent,Independent,11:00 A.M.,,0
 2025-11-08,62445,FINAL,Winchester,4434,0,0,Concord-Carlisle,4097,1,1,Middlesex,Dual County,12:00 P.M.,,0
-2025-11-08,62454,UPCOMING,Natick,4270,,,Westford,4421,,,Bay State,Dual County,3:30 P.M.,,0
+2025-11-08,62454,FINAL,Natick,4270,2,1,Westford,4421,1,0,Bay State,Dual County,3:30 P.M.,1.0,0
 2025-11-08,62457,FINAL,Wellesley,4413,0,0,Hopkinton,4180,1,1,Bay State,Tri-Valley,2:00 P.M.,2.0,1
 2025-11-08,62556,UPCOMING,East Longmeadow,4127,,,Newburyport,4276,,,Coombs,Cape Ann,5:00 P.M.,,0
 2025-11-08,62565,FINAL,Hingham,4171,3,1,Notre Dame (Hingham),4449,0,0,Patriot,Catholic Conference,11:00 A.M.,,0
@@ -1613,8 +1613,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-08,62577,UPCOMING,Duxbury,4123,,,Minnechaug,4254,,,Patriot,Coombs,5:30 P.M.,,0
 2025-11-08,62679,FINAL,Martha’s Vineyard,4235,0,0,Tewksbury,4389,2,1,Cape & Islands,Merrimack Valley,11:30 A.M.,,0
 2025-11-08,62694,FINAL,Norwell,4296,2,1,Medway,4243,0,0,South Shore,Tri-Valley,1:00 P.M.,,0
-2025-11-08,62700,UPCOMING,Medfield,4241,,,St. Mary’s,4374,,,Tri-Valley,Catholic Central,4:30 P.M.,,0
-2025-11-08,62802,UPCOMING,Lunenburg,4219,,,Northbridge,4292,,,Mid-Wach,CMAC,4:00 P.M.,,0
+2025-11-08,62700,FINAL,Medfield,4241,5,1,St. Mary’s,4374,0,0,Tri-Valley,Catholic Central,4:30 P.M.,,0
+2025-11-08,62802,FINAL,Lunenburg,4219,2,1,Northbridge,4292,1,0,Mid-Wach,CMAC,4:00 P.M.,,0
 2025-11-08,62811,UPCOMING,Cohasset,4094,,,Sandwich,4340,,,South Shore,Cape & Islands,6:00 P.M.,,0
 2025-11-08,62814,FINAL,Hamilton-Wenham,4163,2,1,Mt. Greylock,4262,0,0,Cape Ann,Grieve,2:00 P.M.,,0
 2025-11-08,62823,FINAL,Sutton,4512,5,1,Manchester Essex,4229,0,0,CMAC,Cape Ann,1:00 P.M.,,0

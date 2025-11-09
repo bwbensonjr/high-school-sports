@@ -828,20 +828,20 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-07,63523,FINAL,Smith Vocational,4539,32,0,Greenfield,4157,38,1,Tri-County,Intercounty,6:00 P.M.,,0
 2025-11-07,63524,FINAL,McCann Tech,4240,24,1,Athol,4017,18,0,Tri-County,Intercounty,7:00 P.M.,,0
 2025-11-08,44251,FINAL,Belmont Hill,4035,49,1,Trinity-Pawling,4394,24,0,NEPSAC Class B,NEPSAC Class B,2:00 P.M.,,0
-2025-11-08,44307,UPCOMING,Lawrence Academy,4204,,,Governor’s Academy,4152,,,NEPSAC Class C,NEPSAC Class C,2:30 P.M.,,0
+2025-11-08,44307,FINAL,Lawrence Academy,4204,24,1,Governor’s Academy,4152,15,0,NEPSAC Class C,NEPSAC Class C,2:30 P.M.,,0
 2025-11-08,44335,FINAL,Milton Academy,4253,38,1,Nobles,4282,9,0,NEPSAC Class B,NEPSAC Class C,1:00 P.M.,,0
 2025-11-08,44343,FINAL,St. Sebastian’s,4378,15,1,Thayer,4390,14,0,NEPSAC Class B,NEPSAC Class C,2:00 P.M.,,0
-2025-11-08,44370,LIVE,Brooks,4060,21,,Pingree,4312,14,,NEPSAC Class C,NEPSAC Class C,4:30 P.M.,,0
+2025-11-08,44370,FINAL,Brooks,4060,29,1,Pingree,4312,27,0,NEPSAC Class C,NEPSAC Class C,4:30 P.M.,,0
 2025-11-08,44390,FINAL,St. Mark’s,4372,42,1,Groton,4544,8,0,NEPSAC Class C,NEPSAC Class C,1:30 P.M.,,0
 2025-11-08,44403,FINAL,Middlesex,4248,20,1,St. George’s,4367,0,0,NEPSAC Class C,NEPSAC Class C,1:00 P.M.,,0
-2025-11-08,44423,UPCOMING,Rivers,4330,,,Roxbury Latin,4334,,,NEPSAC Class C,NEPSAC Class C,2:00 P.M.,,0
+2025-11-08,44423,FINAL,Rivers,4330,28,1,Roxbury Latin,4334,7,0,NEPSAC Class C,NEPSAC Class C,2:00 P.M.,,0
 2025-11-08,44623,UPCOMING,Austin Prep,4020,,,Portsmouth Abbey,4320,,,NEPSAC Class C,NEPSAC Class C,6:30 P.M.,,0
 2025-11-08,44663,POSTPONED,Hebron (Maine),4168,,,Forman,4141,,,NEPSAC 8-Person,NEPSAC 8-Person,1:00 P.M.,,0
-2025-11-08,44700,LIVE,Canterbury,4070,7,,Kingswood-Oxford,4198,21,,NEPSAC Class C,NEPSAC Class C,4:00 P.M.,,0
-2025-11-08,44745,UPCOMING,Berkshire,4036,,,Proctor,4321,,,NEPSAC Class C,NEPSAC Class C,2:30 P.M.,,0
-2025-11-08,44777,UPCOMING,Holderness,4173,,,Harvey (N.Y.),4166,,,NEPSAC 8-Person,NEPSAC 8-Person,2:00 P.M.,,0
-2025-11-08,57114,LIVE,Phillips Exeter,4311,27,,Phillips Andover,4310,3,,NEPSAC Class A,NEPSAC Class A,4:45 P.M.,,0
-2025-11-08,57128,UPCOMING,Avon Old Farms,4021,,,Salisbury (Conn.),4339,,,NEPSAC Class A,NEPSAC Class A,6:00 P.M.,,0
+2025-11-08,44700,FINAL,Canterbury,4070,21,0,Kingswood-Oxford,4198,44,1,NEPSAC Class C,NEPSAC Class C,4:00 P.M.,,0
+2025-11-08,44745,FINAL,Berkshire,4036,49,1,Proctor,4321,7,0,NEPSAC Class C,NEPSAC Class C,2:30 P.M.,,0
+2025-11-08,44777,FINAL,Holderness,4173,73,1,Harvey (N.Y.),4166,23,0,NEPSAC 8-Person,NEPSAC 8-Person,2:00 P.M.,,0
+2025-11-08,57114,FINAL,Phillips Exeter,4311,48,1,Phillips Andover,4310,16,0,NEPSAC Class A,NEPSAC Class A,4:45 P.M.,,0
+2025-11-08,57128,FINAL,Avon Old Farms,4021,63,1,Salisbury (Conn.),4339,35,0,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
 2025-11-08,57140,UPCOMING,Kent,4193,,,Loomis Chaffee (Conn.),4215,,,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
 2025-11-08,57152,FINAL,Hotchkiss,4181,27,0,Taft,4386,42,1,NEPSAC Class A,NEPSAC Class A,2:00 P.M.,,0
 2025-11-08,57160,FINAL,Choate,4090,51,1,Deerfield,4110,20,0,NEPSAC Class A,NEPSAC Class A,1:00 P.M.,,0

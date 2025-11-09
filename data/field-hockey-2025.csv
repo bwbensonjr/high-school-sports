@@ -1004,8 +1004,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-07,60976,FINAL,Monomoy,4706,7,1,Manchester Essex,4229,0,0,Cape & Islands,Cape Ann,4:00 P.M.,,0
 2025-11-08,53237,FINAL,Worcester Academy,4441,0,0,Cushing,4101,8,1,Independent,Independent,2:00 P.M.,,0
 2025-11-08,53341,FINAL,Tilton,4391,1,0,Austin Prep,4020,2,1,Independent,Independent,2:00 P.M.,,0
-2025-11-08,53398,UPCOMING,Wilbraham & Monson,4545,,,Marianapolis,4567,,,Independent,Independent,2:30 P.M.,,0
-2025-11-08,53500,UPCOMING,Westminster,4422,,,Governor’s Academy,4152,,,Independent,ISL,2:30 P.M.,,0
+2025-11-08,53398,FINAL,Wilbraham & Monson,4545,4,1,Marianapolis,4567,0,0,Independent,Independent,2:30 P.M.,,0
+2025-11-08,53500,FINAL,St. Paul’s,4375,1,1,Governor’s Academy,4152,0,0,Independent,ISL,2:30 P.M.,,0
 2025-11-08,53568,FINAL,Hotchkiss,4181,2,1,Taft,4386,1,0,Independent,Independent,2:00 P.M.,,0
 2025-11-08,60667,FINAL,Lincoln-Sudbury,4211,0,0,Winchester,4434,1,1,Dual County,Middlesex,1:00 P.M.,2.0,1
 2025-11-08,60676,FINAL,Walpole,4404,5,1,Andover,4009,0,0,Bay State,Merrimack Valley,12:00 P.M.,,0
