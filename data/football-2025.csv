@@ -851,22 +851,40 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-08,63428,FINAL,Nipmuc,4281,14,0,Bay Path,4027,20,1,CMAC,CMAC,12:00 P.M.,,0
 2025-11-08,63439,FINAL,Lynn Classical,4220,16,0,Waltham,4405,20,1,Greater Boston,Dual County,1:00 P.M.,,0
 2025-11-14,63057,UPCOMING,Natick,4270,,,Central Catholic,4081,,,Bay State,Merrimack Valley,6:00 P.M.,,0
+2025-11-14,63060,UPCOMING,Springfield Central,4360,,,Lowell,4216,,,AA,Merrimack Valley,6:00 P.M.,,0
 2025-11-14,63063,UPCOMING,Xaverian,4446,,,Andover,4009,,,Catholic Conference,Merrimack Valley,6:00 P.M.,,0
 2025-11-14,63066,UPCOMING,St. John’s Prep,4369,,,Leominster,4208,,,Catholic Conference,Mid-Wach,6:00 P.M.,,0
 2025-11-14,63102,UPCOMING,Hingham,4171,,,Malden Catholic,4228,,,Patriot,Catholic Conference,7:00 P.M.,,0
 2025-11-14,63105,UPCOMING,Barnstable,4024,,,North Attleborough,4284,,,Southeast,Hockomock,6:30 P.M.,,0
+2025-11-14,63108,UPCOMING,Milton,4252,,,Masconomet,4236,,,Bay State,Northeastern,7:00 P.M.,,0
 2025-11-14,63111,UPCOMING,King Philip,4197,,,Mansfield,4230,,,Hockomock,Hockomock,6:00 P.M.,,0
 2025-11-14,63147,UPCOMING,Medfield,4241,,,North Reading,4288,,,Tri-Valley,Cape Ann,6:00 P.M.,,0
 2025-11-14,63150,UPCOMING,Foxborough,4142,,,Gloucester,4150,,,Hockomock,Northeastern,6:00 P.M.,,0
 2025-11-14,63153,UPCOMING,Hanover,4164,,,Archbishop Williams,4012,,,Patriot,Catholic Central,7:00 P.M.,,0
+2025-11-14,63156,UPCOMING,Shawsheen,4346,,,St. Mary’s,4374,,,Commonwealth,Catholic Central,6:00 P.M.,,0
 2025-11-14,63192,UPCOMING,Northbridge,4292,,,Millbury,4250,,,CMAC,CMAC,6:00 P.M.,,0
+2025-11-14,63195,UPCOMING,Amesbury,4007,,,Uxbridge,4398,,,Cape Ann,CMAC,6:30 P.M.,,0
 2025-11-14,63198,UPCOMING,West Bridgewater,4415,,,Clinton,4093,,,South Coast,Mid-Wach,6:00 P.M.,,0
 2025-11-14,63201,UPCOMING,Cohasset,4094,,,Rockland,4331,,,South Shore,South Shore,6:00 P.M.,,0
 2025-11-14,63237,UPCOMING,Winchester,4434,,,Lincoln-Sudbury,4211,,,Middlesex,Dual County,6:30 P.M.,,0
+2025-11-14,63240,UPCOMING,Bishop Feehan,4042,,,Chelmsford,4085,,,Catholic Central,Merrimack Valley,6:00 P.M.,,0
+2025-11-14,63243,UPCOMING,Bridgewater-Raynham,4053,,,Billerica,4040,,,Southeast,Merrimack Valley,6:00 P.M.,,0
+2025-11-14,63246,UPCOMING,Catholic Memorial,4080,,,Wellesley,4413,,,Catholic Conference,Bay State,6:00 P.M.,,0
 2025-11-14,63276,UPCOMING,Duxbury,4123,,,Burlington,4065,,,Patriot,Middlesex,7:00 P.M.,,0
 2025-11-14,63279,UPCOMING,Tewksbury,4389,,,Ashland,4015,,,Merrimack Valley,Tri-Valley,7:00 P.M.,,0
 2025-11-14,63285,UPCOMING,Scituate,4343,,,Walpole,4404,,,Patriot,Bay State,7:00 P.M.,,0
 2025-11-14,63321,UPCOMING,Hudson,4182,,,Old Rochester,4301,,,Mid-Wach,South Coast,7:00 P.M.,,0
 2025-11-14,63324,UPCOMING,Abington,4002,,,Bishop Fenwick,4043,,,South Shore,Catholic Central,7:00 P.M.,,0
 2025-11-14,63330,UPCOMING,Norwell,4296,,,Pentucket/Georgetown,4309,,,South Shore,Cape Ann,7:00 P.M.,,0
+2025-11-14,63366,UPCOMING,Randolph,4327,,,Hoosac Valley,4178,,,South Shore,Intercounty,6:00 P.M.,,0
+2025-11-14,63369,UPCOMING,Lee,4206,,,Cathedral,4079,,,Intercounty,Catholic Central,5:30 P.M.,,0
+2025-11-14,63372,UPCOMING,West Boylston,4414,,,Bourne,4050,,,Mid-Wach,South Coast,7:00 P.M.,,0
 2025-11-14,63375,UPCOMING,Nashoba Valley Tech,4268,,,KIPP,4703,,,Commonwealth,Commonwealth,7:00 P.M.,,0
+2025-11-15,63565,UPCOMING,Dexter Southfield,4113,,,Cheshire Academy,4087,,,NEPSAC Class A,NEPSAC Class A,1:00 P.M.,,0
+2025-11-15,63567,UPCOMING,Avon Old Farms,4021,,,Williston Northampton,4431,,,NEPSAC Class A,NEPSAC Class A,1:00 P.M.,,0
+2025-11-15,63570,UPCOMING,Nobles,4282,,,Berkshire,4036,,,NEPSAC Class C,NEPSAC Class C,1:00 P.M.,,0
+2025-11-15,63571,UPCOMING,Milton Academy,4253,,,Brunswick,4062,,,NEPSAC Class B,NEPSAC Class A,1:00 P.M.,,0
+2025-11-15,63574,UPCOMING,Tabor,4384,,,BB&N,4028,,,NEPSAC Class B,NEPSAC Class B,1:00 P.M.,,0
+2025-11-15,63576,UPCOMING,St. Mark’s,4372,,,Canterbury,4070,,,NEPSAC Class C,NEPSAC Class C,1:00 P.M.,,0
+2025-11-15,63577,UPCOMING,Phillips Exeter,4311,,,Choate,4090,,,NEPSAC Class A,NEPSAC Class A,1:00 P.M.,,0
+2025-11-15,63578,UPCOMING,Kingswood-Oxford,4198,,,Rivers,4330,,,NEPSAC Class C,NEPSAC Class C,1:00 P.M.,,0

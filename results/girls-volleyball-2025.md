@@ -1,17 +1,18 @@
 # Girls Volleyball - 2025 Season
 
-Generated: 2025-11-09 11:13
+Generated: 2025-11-09 16:12
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2025-11-09 | 12:00 P.M. | Andover | Franklin | 53.8% | +0.8 |
+| 2025-11-12 | TBD | Franklin | Newton South | 70.0% | +4.2 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2025-11-09 | Andover | 0 | Franklin | 3 | +0.8 | -3.0 |
 | 2025-11-08 | Hopedale | 3 | Renaissance | 1 | +0.6 | +2.0 |
 | 2025-11-08 | Bourne | 3 | Ursuline | 0 | +4.4 | +3.0 |
 | 2025-11-08 | Bellingham | 3 | Weston | 0 | +5.7 | +3.0 |
@@ -23,26 +24,26 @@ Generated: 2025-11-09 11:13
 | 2025-11-07 | Newton North | 3 | Winchester | 1 | +2.1 | +2.0 |
 | 2025-11-07 | Brookline | 1 | Newton South | 3 | +5.2 | -2.0 |
 | 2025-11-07 | Duxbury | 1 | Wayland | 3 | +3.6 | -2.0 |
-| 2025-11-07 | Lynnfield | 3 | Old Rochester | 0 | -1.3 | +3.0 |
 | 2025-11-07 | Longmeadow | 3 | Marblehead | 1 | +0.4 | +2.0 |
+| 2025-11-07 | Lynnfield | 3 | Old Rochester | 0 | -1.3 | +3.0 |
 | 2025-11-07 | East Bridgewater | 3 | West Bridgewater | 1 | +6.6 | +2.0 |
+| 2025-11-07 | Lenox | 3 | Whitinsville Christian | 0 | -1.3 | +3.0 |
 | 2025-11-07 | Madison Park | 2 | Smith Voc. | 3 | +3.1 | -1.0 |
 | 2025-11-07 | Pioneer Valley Christian | 3 | Baystate Academy | 2 | -0.7 | +1.0 |
 | 2025-11-07 | Winsor | 3 | Beaver Country Day | 0 | +3.0 | +3.0 |
-| 2025-11-07 | Lenox | 3 | Whitinsville Christian | 0 | -1.3 | +3.0 |
-| 2025-11-06 | Nipmuc | 3 | Greater Lawrence | 1 | +0.2 | +2.0 |
 | 2025-11-06 | King Philip | 3 | Reading | 0 | +1.6 | +3.0 |
 | 2025-11-06 | Andover | 3 | Bishop Feehan | 0 | +0.9 | +3.0 |
-| 2025-11-05 | West Bridgewater | 3 | O’Bryant | 0 | -3.9 | +3.0 |
-| 2025-11-05 | Joseph Case | 3 | East Longmeadow | 0 | +6.1 | +3.0 |
-| 2025-11-05 | Medfield | 3 | Arlington Catholic | 0 | +4.7 | +3.0 |
-| 2025-11-05 | Bellingham | 3 | Notre Dame (Worcester) | 0 | +5.0 | +3.0 |
-| 2025-11-05 | Beaver Country Day | 3 | Berwick | 0 | +0.2 | +3.0 |
-| 2025-11-05 | Smith Voc. | 3 | Norfolk Aggie | 1 | +2.1 | +2.0 |
-| 2025-11-05 | Pioneer Valley Christian | 3 | Avon | 0 | +1.6 | +3.0 |
-| 2025-11-05 | Hopedale | 3 | St. John Paul II | 0 | +0.3 | +3.0 |
-| 2025-11-05 | Wakefield | 0 | Canton | 3 | -0.8 | -3.0 |
+| 2025-11-06 | Nipmuc | 3 | Greater Lawrence | 1 | +0.2 | +2.0 |
 | 2025-11-05 | Pembroke | 3 | Groton-Dunstable | 0 | +1.9 | +3.0 |
+| 2025-11-05 | Beaver Country Day | 3 | Berwick | 0 | +0.2 | +3.0 |
+| 2025-11-05 | Hopedale | 3 | St. John Paul II | 0 | +0.3 | +3.0 |
+| 2025-11-05 | Pioneer Valley Christian | 3 | Avon | 0 | +1.6 | +3.0 |
+| 2025-11-05 | Smith Voc. | 3 | Norfolk Aggie | 1 | +2.1 | +2.0 |
+| 2025-11-05 | West Bridgewater | 3 | O’Bryant | 0 | -3.9 | +3.0 |
+| 2025-11-05 | Bellingham | 3 | Notre Dame (Worcester) | 0 | +5.0 | +3.0 |
+| 2025-11-05 | Medfield | 3 | Arlington Catholic | 0 | +4.7 | +3.0 |
+| 2025-11-05 | Joseph Case | 3 | East Longmeadow | 0 | +6.1 | +3.0 |
+| 2025-11-05 | Wakefield | 0 | Canton | 3 | -0.8 | -3.0 |
 | 2025-11-05 | Franklin | 3 | Lincoln-Sudbury | 0 | +1.9 | +3.0 |
 | 2025-11-04 | North Reading | 0 | Weston | 3 | +2.3 | -3.0 |
 | 2025-11-04 | Old Rochester | 3 | Blackstone Valley | 0 | +5.1 | +3.0 |
@@ -56,7 +57,6 @@ Generated: 2025-11-09 11:13
 | 2025-11-04 | Minnechaug | 2 | Reading | 3 | +0.9 | -1.0 |
 | 2025-11-04 | Duxbury | 3 | Ashland | 0 | +5.8 | +3.0 |
 | 2025-11-04 | Oliver Ames | 3 | Hingham | 0 | +9.4 | +3.0 |
-| 2025-11-04 | Madison Park | 3 | Mahar | 0 | +4.1 | +3.0 |
 | 2025-11-04 | Hanover | 2 | Newburyport | 3 | +0.7 | -1.0 |
 | 2025-11-04 | Lynnfield | 3 | Lynn Classical | 2 | +1.0 | +1.0 |
 | 2025-11-04 | Ursuline | 3 | Wahconah | 1 | +2.9 | +2.0 |
@@ -69,6 +69,7 @@ Generated: 2025-11-09 11:13
 | 2025-11-04 | Pioneer Charter I | 0 | Renaissance | 3 | -1.4 | -3.0 |
 | 2025-11-04 | Baystate Academy | 3 | Lee | 1 | +3.3 | +2.0 |
 | 2025-11-04 | Whitinsville Christian | 3 | Calvary Chapel | 2 | +2.8 | +1.0 |
+| 2025-11-04 | Madison Park | 3 | Mahar | 0 | +4.1 | +3.0 |
 | 2025-11-03 | Brookline | 3 | Attleboro | 2 | +1.9 | +1.0 |
 | 2025-11-03 | Lenox | 3 | Franklin County Tech | 0 | +2.9 | +3.0 |
 | 2025-11-03 | Longmeadow | 3 | Notre Dame (Hingham) | 0 | +1.9 | +3.0 |
@@ -88,11 +89,11 @@ Generated: 2025-11-09 11:13
 | 6 | Winchester | 1723.3 |
 | 7 | Bellingham | 1723.1 |
 | 8 | Bourne | 1717.2 |
-| 9 | Duxbury | 1704.5 |
-| 10 | Brookline | 1698.4 |
-| 11 | East Bridgewater | 1696.7 |
-| 12 | Attleboro | 1689.4 |
-| 13 | Franklin | 1688.3 |
+| 9 | Franklin | 1710.7 |
+| 10 | Duxbury | 1704.5 |
+| 11 | Brookline | 1698.4 |
+| 12 | East Bridgewater | 1696.7 |
+| 13 | Attleboro | 1689.4 |
 | 14 | Lynnfield | 1679.2 |
 | 15 | Carver | 1677.3 |
 | 16 | Canton | 1676.7 |
@@ -100,11 +101,11 @@ Generated: 2025-11-09 11:13
 | 18 | Central Catholic | 1674.5 |
 | 19 | Wayland | 1674.1 |
 | 20 | Chelmsford | 1673.8 |
-| 21 | Andover | 1665.1 |
-| 22 | Westborough | 1664.0 |
-| 23 | Needham | 1658.3 |
-| 24 | Lynn Classical | 1651.8 |
-| 25 | Bishop Feehan | 1646.2 |
+| 21 | Westborough | 1664.0 |
+| 22 | Needham | 1658.3 |
+| 23 | Lynn Classical | 1651.8 |
+| 24 | Bishop Feehan | 1646.2 |
+| 25 | Andover | 1642.7 |
 | 26 | Shawsheen | 1640.0 |
 | 27 | Whitinsville Christian | 1639.8 |
 | 28 | Lincoln-Sudbury | 1639.6 |
@@ -248,11 +249,11 @@ Generated: 2025-11-09 11:13
 | 166 | KIPP | 1502.6 |
 | 167 | Lowell | 1502.5 |
 | 168 | Worcester South | 1501.9 |
-| 169 | Northfield Mt. Hermon | 1501.7 |
+| 169 | Dublin | 1501.7 |
 | 170 | Fellowship Christian | 1501.7 |
-| 171 | Trinity Christian | 1501.7 |
-| 172 | Dublin | 1501.7 |
-| 173 | Argosy Collegiate | 1501.7 |
+| 171 | Argosy Collegiate | 1501.7 |
+| 172 | Northfield Mt. Hermon | 1501.7 |
+| 173 | Trinity Christian | 1501.7 |
 | 174 | South Shore Christian | 1501.7 |
 | 175 | Milton | 1500.9 |
 | 176 | Choate | 1500.6 |
@@ -293,8 +294,8 @@ Generated: 2025-11-09 11:13
 | 211 | Stoneleigh-Burnham | 1490.2 |
 | 212 | Cambridge Weston | 1490.0 |
 | 213 | Woburn | 1489.8 |
-| 214 | Montrose | 1489.7 |
-| 215 | Governor’s Academy | 1489.7 |
+| 214 | Governor’s Academy | 1489.7 |
+| 215 | Montrose | 1489.7 |
 | 216 | Hotchkiss | 1489.7 |
 | 217 | Gann Academy | 1489.7 |
 | 218 | Monument Mtn. | 1489.6 |
