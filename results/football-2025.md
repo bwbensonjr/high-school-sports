@@ -1,6 +1,6 @@
 # Football - 2025 Season
 
-Generated: 2025-11-10 11:15
+Generated: 2025-11-10 06:52
 
 ## Upcoming Games
 
@@ -379,8 +379,8 @@ Generated: 2025-11-10 11:15
 | 170 | Greater Lawrence | 1505.6 |
 | 171 | Carver | 1504.9 |
 | 172 | Cheshire Academy | 1503.9 |
-| 173 | Capital Prep (Conn.) | 1501.7 |
-| 174 | Forman | 1501.7 |
+| 173 | Forman | 1501.7 |
+| 174 | Capital Prep (Conn.) | 1501.7 |
 | 175 | Martha’s Vineyard | 1501.0 |
 | 176 | Westerly (R.I.) | 1495.1 |
 | 177 | Woburn | 1493.5 |

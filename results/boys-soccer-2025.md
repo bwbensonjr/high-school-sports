@@ -1,6 +1,6 @@
 # Boys Soccer - 2025 Season
 
-Generated: 2025-11-10 11:15
+Generated: 2025-11-10 06:52
 
 ## Upcoming Games
 
@@ -409,12 +409,12 @@ Generated: 2025-11-10 11:15
 | 202 | Darrow | 1503.0 |
 | 203 | Worcester Academy | 1502.9 |
 | 204 | Wheeler (R.I.) | 1501.7 |
-| 205 | South Shore Christian | 1501.7 |
-| 206 | Xavier (Conn.) | 1501.7 |
-| 207 | Argosy Collegiate | 1501.7 |
-| 208 | La Salle (R.I.) | 1501.7 |
-| 209 | Newton Country Day | 1501.7 |
-| 210 | Community Charter | 1501.7 |
+| 205 | Newton Country Day | 1501.7 |
+| 206 | Community Charter | 1501.7 |
+| 207 | La Salle (R.I.) | 1501.7 |
+| 208 | Argosy Collegiate | 1501.7 |
+| 209 | Xavier (Conn.) | 1501.7 |
+| 210 | South Shore Christian | 1501.7 |
 | 211 | St. Mark’s | 1501.7 |
 | 212 | Lincoln-Sudbury | 1501.6 |
 | 213 | Phillips Exeter | 1501.3 |
