@@ -1,12 +1,21 @@
 # Girls Volleyball - 2025 Season
 
-Generated: 2025-11-09 16:12
+Generated: 2025-11-10 11:15
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2025-11-12 | TBD | Franklin | Newton South | 70.0% | +4.2 |
+| 2025-11-12 | 6:00 P.M. | Newton North | Central Catholic | 70.0% | +4.2 |
+| 2025-11-12 | 7:15 P.M. | Franklin | Newton South | 70.0% | +4.2 |
+| 2025-11-12 | 6:00 P.M. | Longmeadow | Wayland | 49.2% | -0.2 |
+| 2025-11-12 | 6:00 P.M. | Oliver Ames | King Philip | 75.6% | +5.6 |
+| 2025-11-12 | 7:15 P.M. | Medfield | Joseph Case | 58.3% | +1.7 |
+| 2025-11-12 | 5:00 P.M. | Bellingham | Lynnfield | 63.2% | +2.7 |
+| 2025-11-12 | 6:30 P.M. | East Bridgewater | Nipmuc | 72.2% | +4.7 |
+| 2025-11-12 | 5:00 P.M. | Bourne | Rockland | 74.8% | +5.4 |
+| 2025-11-12 | 5:00 P.M. | Pioneer Valley Christian | Smith Voc. | 49.9% | -0.0 |
+| 2025-11-12 | 7:15 P.M. | Hopedale | Lenox | 51.1% | +0.2 |
 
 ## Recent Games
 
@@ -31,10 +40,10 @@ Generated: 2025-11-09 16:12
 | 2025-11-07 | Madison Park | 2 | Smith Voc. | 3 | +3.1 | -1.0 |
 | 2025-11-07 | Pioneer Valley Christian | 3 | Baystate Academy | 2 | -0.7 | +1.0 |
 | 2025-11-07 | Winsor | 3 | Beaver Country Day | 0 | +3.0 | +3.0 |
+| 2025-11-06 | Nipmuc | 3 | Greater Lawrence | 1 | +0.2 | +2.0 |
 | 2025-11-06 | King Philip | 3 | Reading | 0 | +1.6 | +3.0 |
 | 2025-11-06 | Andover | 3 | Bishop Feehan | 0 | +0.9 | +3.0 |
-| 2025-11-06 | Nipmuc | 3 | Greater Lawrence | 1 | +0.2 | +2.0 |
-| 2025-11-05 | Pembroke | 3 | Groton-Dunstable | 0 | +1.9 | +3.0 |
+| 2025-11-05 | Joseph Case | 3 | East Longmeadow | 0 | +6.1 | +3.0 |
 | 2025-11-05 | Beaver Country Day | 3 | Berwick | 0 | +0.2 | +3.0 |
 | 2025-11-05 | Hopedale | 3 | St. John Paul II | 0 | +0.3 | +3.0 |
 | 2025-11-05 | Pioneer Valley Christian | 3 | Avon | 0 | +1.6 | +3.0 |
@@ -42,12 +51,10 @@ Generated: 2025-11-09 16:12
 | 2025-11-05 | West Bridgewater | 3 | O’Bryant | 0 | -3.9 | +3.0 |
 | 2025-11-05 | Bellingham | 3 | Notre Dame (Worcester) | 0 | +5.0 | +3.0 |
 | 2025-11-05 | Medfield | 3 | Arlington Catholic | 0 | +4.7 | +3.0 |
-| 2025-11-05 | Joseph Case | 3 | East Longmeadow | 0 | +6.1 | +3.0 |
+| 2025-11-05 | Pembroke | 3 | Groton-Dunstable | 0 | +1.9 | +3.0 |
 | 2025-11-05 | Wakefield | 0 | Canton | 3 | -0.8 | -3.0 |
 | 2025-11-05 | Franklin | 3 | Lincoln-Sudbury | 0 | +1.9 | +3.0 |
-| 2025-11-04 | North Reading | 0 | Weston | 3 | +2.3 | -3.0 |
 | 2025-11-04 | Old Rochester | 3 | Blackstone Valley | 0 | +5.1 | +3.0 |
-| 2025-11-04 | Central Catholic | 3 | Westborough | 2 | +0.8 | +1.0 |
 | 2025-11-04 | Shrewsbury | 1 | Wellesley | 3 | +2.6 | -2.0 |
 | 2025-11-04 | Newton North | 3 | Westford | 0 | +5.8 | +3.0 |
 | 2025-11-04 | Chelmsford | 2 | Newton South | 3 | +4.7 | -1.0 |
@@ -57,6 +64,7 @@ Generated: 2025-11-09 16:12
 | 2025-11-04 | Minnechaug | 2 | Reading | 3 | +0.9 | -1.0 |
 | 2025-11-04 | Duxbury | 3 | Ashland | 0 | +5.8 | +3.0 |
 | 2025-11-04 | Oliver Ames | 3 | Hingham | 0 | +9.4 | +3.0 |
+| 2025-11-04 | North Reading | 0 | Weston | 3 | +2.3 | -3.0 |
 | 2025-11-04 | Hanover | 2 | Newburyport | 3 | +0.7 | -1.0 |
 | 2025-11-04 | Lynnfield | 3 | Lynn Classical | 2 | +1.0 | +1.0 |
 | 2025-11-04 | Ursuline | 3 | Wahconah | 1 | +2.9 | +2.0 |
@@ -70,12 +78,11 @@ Generated: 2025-11-09 16:12
 | 2025-11-04 | Baystate Academy | 3 | Lee | 1 | +3.3 | +2.0 |
 | 2025-11-04 | Whitinsville Christian | 3 | Calvary Chapel | 2 | +2.8 | +1.0 |
 | 2025-11-04 | Madison Park | 3 | Mahar | 0 | +4.1 | +3.0 |
-| 2025-11-03 | Brookline | 3 | Attleboro | 2 | +1.9 | +1.0 |
-| 2025-11-03 | Lenox | 3 | Franklin County Tech | 0 | +2.9 | +3.0 |
+| 2025-11-04 | Central Catholic | 3 | Westborough | 2 | +0.8 | +1.0 |
 | 2025-11-03 | Longmeadow | 3 | Notre Dame (Hingham) | 0 | +1.9 | +3.0 |
 | 2025-11-03 | Winchester | 3 | Needham | 0 | +2.8 | +3.0 |
-| 2025-11-02 | Medfield | 3 | Dennis-Yarmouth | 0 | +6.0 | +3.0 |
-| 2025-11-02 | Oliver Ames | 3 | Archbishop Williams | 0 | +6.9 | +3.0 |
+| 2025-11-03 | Lenox | 3 | Franklin County Tech | 0 | +2.9 | +3.0 |
+| 2025-11-03 | Brookline | 3 | Attleboro | 2 | +1.9 | +1.0 |
 
 ## Current Elo Ratings
 
@@ -249,12 +256,12 @@ Generated: 2025-11-09 16:12
 | 166 | KIPP | 1502.6 |
 | 167 | Lowell | 1502.5 |
 | 168 | Worcester South | 1501.9 |
-| 169 | Dublin | 1501.7 |
-| 170 | Fellowship Christian | 1501.7 |
-| 171 | Argosy Collegiate | 1501.7 |
-| 172 | Northfield Mt. Hermon | 1501.7 |
-| 173 | Trinity Christian | 1501.7 |
-| 174 | South Shore Christian | 1501.7 |
+| 169 | Fellowship Christian | 1501.7 |
+| 170 | South Shore Christian | 1501.7 |
+| 171 | Northfield Mt. Hermon | 1501.7 |
+| 172 | Argosy Collegiate | 1501.7 |
+| 173 | Dublin | 1501.7 |
+| 174 | Trinity Christian | 1501.7 |
 | 175 | Milton | 1500.9 |
 | 176 | Choate | 1500.6 |
 | 177 | Mashpee | 1499.5 |
@@ -294,9 +301,9 @@ Generated: 2025-11-09 16:12
 | 211 | Stoneleigh-Burnham | 1490.2 |
 | 212 | Cambridge Weston | 1490.0 |
 | 213 | Woburn | 1489.8 |
-| 214 | Governor’s Academy | 1489.7 |
-| 215 | Montrose | 1489.7 |
-| 216 | Hotchkiss | 1489.7 |
+| 214 | Montrose | 1489.7 |
+| 215 | Hotchkiss | 1489.7 |
+| 216 | Governor’s Academy | 1489.7 |
 | 217 | Gann Academy | 1489.7 |
 | 218 | Monument Mtn. | 1489.6 |
 | 219 | Newton Country Day | 1489.6 |

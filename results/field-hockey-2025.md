@@ -1,14 +1,17 @@
 # Field Hockey - 2025 Season
 
-Generated: 2025-11-09 16:12
+Generated: 2025-11-10 11:15
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
 | 2025-11-10 | 3:45 P.M. | Franklin | Hopkinton | 77.1% | +5.3 |
+| 2025-11-12 | 5:00 P.M. | Walpole | Winchester | 74.2% | +4.6 |
 | 2025-11-12 | 5:00 P.M. | Sandwich | Dover-Sherborn | 77.2% | +5.3 |
 | 2025-11-12 | 7:00 P.M. | Uxbridge | Watertown | 66.7% | +3.0 |
+| 2025-11-13 | 6:00 P.M. | Nashoba | Somerset Berkley | 43.0% | -1.2 |
+| 2025-11-13 | 7:00 P.M. | Hingham | Canton | 58.5% | +1.5 |
 | 2025-11-13 | 5:00 P.M. | Dennis-Yarmouth | Cohasset | 63.2% | +2.3 |
 | 2025-11-13 | 5:00 P.M. | Monomoy | Frontier | 75.0% | +4.8 |
 
@@ -34,12 +37,12 @@ Generated: 2025-11-09 16:12
 | 2025-11-07 | Uxbridge | 9 | Scituate | 0 | +6.7 | +9.0 |
 | 2025-11-07 | Wellesley | 3 | Belmont | 2 | +1.0 | +1.0 |
 | 2025-11-07 | Sandwich | 6 | Lynnfield | 0 | +5.2 | +6.0 |
-| 2025-11-07 | Cohasset | 2 | Hopedale | 0 | +3.8 | +2.0 |
 | 2025-11-07 | Monomoy | 7 | Manchester Essex | 0 | +4.2 | +7.0 |
+| 2025-11-07 | Cohasset | 2 | Hopedale | 0 | +3.8 | +2.0 |
 | 2025-11-06 | King Philip | 6 | Dartmouth | 2 | +3.9 | +4.0 |
 | 2025-11-06 | Masconomet | 0 | Westwood | 1 | +5.4 | -1.0 |
 | 2025-11-06 | Franklin | 2 | Waltham | 0 | +6.8 | +2.0 |
-| 2025-11-05 | Canton | 7 | Norwood | 0 | +3.0 | +7.0 |
+| 2025-11-05 | Nashoba | 7 | Notre Dame (Hingham) | 0 | +2.4 | +7.0 |
 | 2025-11-05 | Cushing | 5 | Holderness | 0 | +2.1 | +5.0 |
 | 2025-11-05 | Rivers | 3 | Nobles | 1 | +3.2 | +2.0 |
 | 2025-11-05 | Monomoy | 8 | Lunenburg | 0 | +7.4 | +8.0 |
@@ -49,44 +52,41 @@ Generated: 2025-11-09 16:12
 | 2025-11-05 | Uxbridge | 9 | Marlborough | 0 | +7.1 | +9.0 |
 | 2025-11-05 | Medfield | 2 | Nauset | 1 | +5.0 | +1.0 |
 | 2025-11-05 | Hingham | 2 | Milton | 0 | +7.7 | +2.0 |
-| 2025-11-05 | Nashoba | 7 | Notre Dame (Hingham) | 0 | +2.4 | +7.0 |
 | 2025-11-05 | Somerset Berkley | 9 | Doherty | 0 | +2.9 | +9.0 |
+| 2025-11-05 | Taft | 2 | Suffield Academy | 1 | +3.2 | +1.0 |
 | 2025-11-05 | Newburyport | 2 | Reading | 3 | +2.3 | -1.0 |
+| 2025-11-05 | Walpole | 5 | Algonquin | 0 | +6.3 | +5.0 |
 | 2025-11-05 | Lincoln-Sudbury | 3 | Attleboro | 0 | +3.0 | +3.0 |
 | 2025-11-05 | Concord-Carlisle | 3 | Hopkinton | 4 | +2.1 | -1.0 |
 | 2025-11-05 | Andover | 1 | Acton-Boxborough | 0 | +5.9 | +1.0 |
 | 2025-11-05 | Loomis Chaffee (Conn.) | 1 | Hotchkiss | 2 | -0.2 | -1.0 |
-| 2025-11-05 | Taft | 2 | Suffield Academy | 1 | +3.2 | +1.0 |
+| 2025-11-05 | Canton | 7 | Norwood | 0 | +3.0 | +7.0 |
 | 2025-11-05 | Austin Prep | 2 | Northfield Mt. Hermon | 3 | -2.6 | -1.0 |
 | 2025-11-05 | Worcester Academy | 1 | St. Mark’s | 7 | +0.3 | -6.0 |
-| 2025-11-05 | Walpole | 5 | Algonquin | 0 | +6.3 | +5.0 |
-| 2025-11-04 | Hanover | 0 | Lynnfield | 2 | -0.3 | -2.0 |
-| 2025-11-04 | Watertown | 2 | Gloucester | 0 | +6.1 | +2.0 |
-| 2025-11-04 | Belmont | 4 | Wachusett | 0 | +5.6 | +4.0 |
-| 2025-11-04 | Winchester | 2 | Bishop Feehan | 1 | +2.5 | +1.0 |
 | 2025-11-04 | Wellesley | 3 | Westborough | 1 | +4.0 | +2.0 |
+| 2025-11-04 | Hanover | 0 | Lynnfield | 2 | -0.3 | -2.0 |
 | 2025-11-04 | Longmeadow | 3 | Duxbury | 1 | +2.7 | +2.0 |
+| 2025-11-04 | Watertown | 2 | Gloucester | 0 | +6.1 | +2.0 |
+| 2025-11-04 | Winchester | 2 | Bishop Feehan | 1 | +2.5 | +1.0 |
+| 2025-11-04 | Belmont | 4 | Wachusett | 0 | +5.6 | +4.0 |
 | 2025-11-04 | Medway | 0 | East Longmeadow | 1 | -1.6 | -1.0 |
+| 2025-11-04 | Quabbin | 2 | St. John Paul II | 0 | +1.0 | +2.0 |
 | 2025-11-04 | Dover-Sherborn | 2 | Foxborough | 1 | +3.8 | +1.0 |
 | 2025-11-04 | Sandwich | 7 | Dedham | 0 | +8.2 | +7.0 |
-| 2025-11-04 | Quabbin | 2 | St. John Paul II | 0 | +1.0 | +2.0 |
 | 2025-11-04 | Sutton | 5 | Westport | 1 | +5.2 | +4.0 |
 | 2025-11-04 | Cohasset | 3 | Nipmuc | 1 | +5.4 | +2.0 |
 | 2025-11-04 | Dennis-Yarmouth | 4 | Ipswich | 0 | +4.2 | +4.0 |
-| 2025-11-03 | Masconomet | 4 | North Attleborough | 3 | +6.0 | +1.0 |
-| 2025-11-03 | Lexington | 1 | Waltham | 3 | +1.4 | -2.0 |
+| 2025-11-03 | Scituate | 3 | St. Mary’s | 0 | +0.0 | +3.0 |
 | 2025-11-03 | Franklin | 4 | Woburn | 0 | +12.1 | +4.0 |
 | 2025-11-03 | Doherty | 3 | Bedford | 0 | +2.1 | +3.0 |
 | 2025-11-03 | King Philip | 6 | Leominster | 0 | +7.8 | +6.0 |
-| 2025-11-03 | Manchester Essex | 6 | Triton | 0 | +4.7 | +6.0 |
-| 2025-11-03 | Scituate | 3 | St. Mary’s | 0 | +0.0 | +3.0 |
+| 2025-11-03 | Masconomet | 4 | North Attleborough | 3 | +6.0 | +1.0 |
+| 2025-11-03 | Lexington | 1 | Waltham | 3 | +1.4 | -2.0 |
 | 2025-11-03 | Marlborough | 5 | Weston | 1 | +2.8 | +4.0 |
+| 2025-11-03 | Manchester Essex | 6 | Triton | 0 | +4.7 | +6.0 |
 | 2025-11-03 | West Bridgewater | 5 | Narragansett | 2 | +3.1 | +3.0 |
 | 2025-11-03 | Monomoy | 10 | St. Paul | 0 | +6.9 | +10.0 |
 | 2025-11-03 | Malden Catholic | 0 | Algonquin | 1 | +3.5 | -1.0 |
-| 2025-11-02 | Medfield | 6 | Wilmington | 0 | +8.4 | +6.0 |
-| 2025-11-02 | Nantucket | 1 | Nauset | 2 | +5.6 | -1.0 |
-| 2025-11-02 | Hingham | 6 | Minnechaug | 0 | +8.1 | +6.0 |
 
 ## Current Elo Ratings
 
@@ -215,11 +215,11 @@ Generated: 2025-11-09 16:12
 | 121 | Groton-Dunstable | 1502.6 |
 | 122 | Franklin County Tech | 1502.3 |
 | 123 | New Hampton | 1501.9 |
-| 124 | Hopkins (Conn.) | 1501.7 |
-| 125 | Kingswood-Oxford | 1501.7 |
-| 126 | Hamden Hall Country Day | 1501.7 |
-| 127 | Kent | 1501.7 |
-| 128 | Wheeler (R.I.) | 1501.7 |
+| 124 | Kent | 1501.7 |
+| 125 | Hopkins (Conn.) | 1501.7 |
+| 126 | Wheeler (R.I.) | 1501.7 |
+| 127 | Hamden Hall Country Day | 1501.7 |
+| 128 | Kingswood-Oxford | 1501.7 |
 | 129 | St. Luke’s | 1501.7 |
 | 130 | Milton Academy | 1500.8 |
 | 131 | Monty Tech | 1499.6 |
