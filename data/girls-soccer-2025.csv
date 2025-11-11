@@ -1641,27 +1641,35 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-12,62553,UPCOMING,Duxbury,4123,,,East Longmeadow,4127,,,Patriot,Coombs,6:30 P.M.,,0
 2025-11-12,62673,UPCOMING,Norwell,4296,,,Auburn,4019,,,South Shore,CMAC,4:00 P.M.,,0
 2025-11-12,62790,UPCOMING,Hamilton-Wenham,4163,,,Cohasset,4094,,,Cape Ann,South Shore,5:30 P.M.,,0
+2025-11-12,62793,UPCOMING,Southwick,4519,,,Georgetown,4148,,,Central,Cape Ann,6:00 P.M.,,0
 2025-11-12,62799,UPCOMING,Sutton,4512,,,Lunenburg,4219,,,CMAC,Mid-Wach,6:00 P.M.,,0
+2025-11-12,62937,UPCOMING,Hull,4184,,,Nashoba Valley Tech,4268,,,South Shore,Commonwealth,5:30 P.M.,,0
 2025-11-12,62940,UPCOMING,Granby,4520,,,Rising Tide Charter,4746,,,Central,Cape & Islands,5:00 P.M.,,0
 2025-11-12,63640,UPCOMING,Loomis Chaffee (Conn.),4215,,,BB&N,4028,,,Independent,ISL,3:00 P.M.,,0
 2025-11-12,63642,UPCOMING,Westminster,4422,,,Milton Academy,4253,,,Founders,ISL,2:00 P.M.,,0
-2025-11-12,63644,UPCOMING,Choate,4090,,,Worcester Academy,4441,,,Independent,Independent,,,0
+2025-11-12,63644,UPCOMING,Choate,4090,,,Worcester Academy,4441,,,Independent,Independent,2:00 P.M.,,0
 2025-11-12,63647,UPCOMING,Miss Porter’s,4257,,,Austin Prep,4020,,,Independent,Independent,2:00 P.M.,,0
 2025-11-12,63648,UPCOMING,Dexter Southfield,4113,,,Berkshire,4036,,,Independent,Independent,2:30 P.M.,,0
 2025-11-12,63650,UPCOMING,Pingree,4312,,,Williston Northampton,4431,,,EIL,Independent,3:45 P.M.,,0
 2025-11-12,63652,UPCOMING,Lawrence Academy,4204,,,St. George’s,4367,,,ISL,ISL,2:00 P.M.,,0
-2025-11-12,63655,UPCOMING,Ethel Walker,4131,,,Brooks,4060,,,Independent,ISL,,,0
-2025-11-12,63658,UPCOMING,Greens Farms,4158,,,Berwick,4037,,,Independent,EIL,,,0
-2025-11-12,63660,UPCOMING,New Hampton,4275,,,Newton Country Day,4278,,,Independent,EIL,,,0
-2025-11-12,63663,UPCOMING,Portsmouth Abbey,4320,,,Masters (N.Y.),4768,,,EIL,Independent,,,0
+2025-11-12,63655,UPCOMING,Ethel Walker,4131,,,Brooks,4060,,,Independent,ISL,2:00 P.M.,,0
+2025-11-12,63658,UPCOMING,Greens Farms,4158,,,Berwick,4037,,,Independent,EIL,2:00 P.M.,,0
+2025-11-12,63660,UPCOMING,New Hampton,4275,,,Newton Country Day,4278,,,Independent,EIL,4:00 P.M.,,0
+2025-11-12,63663,UPCOMING,Portsmouth Abbey,4320,,,Masters (N.Y.),4768,,,EIL,Independent,2:00 P.M.,,0
 2025-11-12,63664,UPCOMING,Brewster Academy,4052,,,Holderness,4173,,,Independent,Independent,2:00 P.M.,,0
 2025-11-12,63665,UPCOMING,St. Thomas More,4379,,,Christian Heritage,4641,,,Independent,Independent,,,0
-2025-11-12,63666,UPCOMING,Vermont Academy,4399,,,Darrow,4104,,,Independent,Independent,,,0
-2025-11-12,63669,UPCOMING,Bancroft,4023,,,Kents Hill,4194,,,EIL,Independent,,,0
-2025-11-12,63671,UPCOMING,Tilton,4391,,,Landmark,4200,,,Independent,IGC,,,0
+2025-11-12,63666,UPCOMING,Vermont Academy,4399,,,Darrow,4104,,,Independent,Independent,2:05 P.M.,,0
+2025-11-12,63669,UPCOMING,Bancroft,4023,,,Kents Hill,4194,,,EIL,Independent,2:00 P.M.,,0
+2025-11-12,63671,UPCOMING,Tilton,4391,,,Landmark,4200,,,Independent,IGC,2:00 P.M.,,0
 2025-11-13,62430,UPCOMING,Natick,4270,,,Braintree,4051,,,Bay State,Bay State,5:00 P.M.,,0
+2025-11-13,62433,UPCOMING,Bishop Feehan,4042,,,Concord-Carlisle,4097,,,Catholic Central,Dual County,6:00 P.M.,,0
 2025-11-13,62436,UPCOMING,Franklin,4144,,,Hopkinton,4180,,,Hockomock,Tri-Valley,6:00 P.M.,,0
 2025-11-13,62439,UPCOMING,Needham,4272,,,Belmont,4034,,,Bay State,Middlesex,5:00 P.M.,,0
+2025-11-13,62547,UPCOMING,Longmeadow,4214,,,Marblehead,4231,,,Kurty-Fielding,Northeastern,5:00 P.M.,,0
+2025-11-13,62550,UPCOMING,King Philip,4197,,,Northampton,4291,,,Hockomock,Central,5:00 P.M.,,0
+2025-11-13,62667,UPCOMING,Pope Francis,4796,,,Wilmington,4432,,,Bi-County,Middlesex,5:00 P.M.,,0
 2025-11-13,62670,UPCOMING,Nipmuc,4281,,,Dover-Sherborn,4118,,,CMAC,Tri-Valley,6:00 P.M.,,0
 2025-11-13,62676,UPCOMING,Medfield,4241,,,Tewksbury,4389,,,Tri-Valley,Merrimack Valley,6:00 P.M.,,0
+2025-11-13,62796,UPCOMING,South Hadley,4353,,,Littleton,4212,,,Kurty-Fielding,Mid-Wach,5:00 P.M.,,0
 2025-11-13,62931,UPCOMING,Monson,4429,,,St. John Paul II,4689,,,Central,Cape & Islands,2:00 P.M.,,0
+2025-11-14,62934,UPCOMING,Hopedale,4507,,,Norfolk Aggie,4458,,,CMAC,Mayflower,6:00 P.M.,,0

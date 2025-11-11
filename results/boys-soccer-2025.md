@@ -1,34 +1,35 @@
 # Boys Soccer - 2025 Season
 
-Generated: 2025-11-11 02:26
+Generated: 2025-11-11 11:15
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
 | 2025-11-12 | 6:00 P.M. | St. John’s Prep | Cambridge | 71.6% | +3.2 |
-| 2025-11-12 | TBD | Hyde | Landmark | 64.2% | +2.0 |
-| 2025-11-12 | TBD | Brimmer & May | MacDuffie | 57.1% | +1.0 |
+| 2025-11-12 | 2:00 P.M. | Hyde | Landmark | 64.2% | +2.0 |
+| 2025-11-12 | 3:15 P.M. | Brimmer & May | MacDuffie | 57.1% | +1.0 |
 | 2025-11-12 | 2:30 P.M. | Lexington Christian | Newman School | 53.5% | +0.5 |
-| 2025-11-12 | TBD | Gann Academy | Christian Heritage | 60.1% | +1.4 |
+| 2025-11-12 | 2:00 P.M. | Gann Academy | Christian Heritage | 60.1% | +1.4 |
 | 2025-11-12 | 4:30 P.M. | Wheeler (R.I.) | St. Andrew’s | 55.5% | +0.8 |
-| 2025-11-12 | TBD | Berwick | Portsmouth Abbey | 56.6% | +0.9 |
-| 2025-11-12 | TBD | Greens Farms | Harvey (N.Y.) | 59.0% | +1.3 |
+| 2025-11-12 | 2:00 P.M. | Berwick | Portsmouth Abbey | 56.6% | +0.9 |
+| 2025-11-12 | 1:30 P.M. | Greens Farms | Harvey (N.Y.) | 59.0% | +1.3 |
 | 2025-11-12 | 2:00 P.M. | Brooks | Vermont Academy | 51.6% | +0.2 |
-| 2025-11-12 | TBD | Williston Northampton | Middlesex | 44.5% | -0.8 |
+| 2025-11-12 | 2:00 P.M. | Williston Northampton | Middlesex | 44.5% | -0.8 |
 | 2025-11-12 | 2:00 P.M. | St. George’s | Suffield Academy | 56.1% | +0.9 |
-| 2025-11-12 | TBD | Millbrook (N.Y.) | Concord Academy | 47.2% | -0.4 |
-| 2025-11-12 | TBD | Nobles | Belmont Hill | 67.4% | +2.5 |
-| 2025-11-12 | TBD | Mount St. Charles (R.I.) | Kimball Union | 58.0% | +1.1 |
+| 2025-11-12 | TBD | Mount St. Charles (R.I.) | Rivers | 57.8% | +1.1 |
+| 2025-11-12 | 2:00 P.M. | Millbrook (N.Y.) | Concord Academy | 47.2% | -0.4 |
+| 2025-11-12 | 2:00 P.M. | Northfield Mt. Hermon | Loomis Chaffee (Conn.) | 53.6% | +0.5 |
+| 2025-11-12 | 2:00 P.M. | Nobles | Belmont Hill | 67.4% | +2.5 |
 | 2025-11-12 | 6:15 P.M. | Norwell | Old Rochester | 69.7% | +2.9 |
 | 2025-11-12 | 6:30 P.M. | Ayer Shirley | Rockland | 59.8% | +1.4 |
 | 2025-11-12 | 4:00 P.M. | Bromfield | Abington | 56.6% | +0.9 |
-| 2025-11-12 | 7:00 P.M. | Northbridge | Cohasset | 50.4% | +0.1 |
+| 2025-11-12 | 2:00 P.M. | Westport | Gardner | 67.6% | +2.6 |
 | 2025-11-12 | 4:00 P.M. | Duxbury | Holliston | 54.1% | +0.6 |
-| 2025-11-12 | TBD | Taft | Milton Academy | 55.2% | +0.7 |
-| 2025-11-12 | 2:00 P.M. | Avon Old Farms | Choate | 57.5% | +1.0 |
-| 2025-11-12 | TBD | Northfield Mt. Hermon | Loomis Chaffee (Conn.) | 53.6% | +0.5 |
 | 2025-11-12 | 4:00 P.M. | Boston International | Pioneer Charter I | 71.6% | +3.2 |
+| 2025-11-12 | 2:30 P.M. | Taft | Milton Academy | 55.2% | +0.7 |
+| 2025-11-12 | 2:00 P.M. | Avon Old Farms | Choate | 57.5% | +1.0 |
+| 2025-11-12 | 7:00 P.M. | Northbridge | Cohasset | 50.4% | +0.1 |
 | 2025-11-13 | 2:00 P.M. | St. John Paul II | Keefe Tech | 52.8% | +0.4 |
 | 2025-11-13 | 7:00 P.M. | Natick | BC High | 61.5% | +1.6 |
 | 2025-11-13 | 7:00 P.M. | Northampton | Agawam | 65.2% | +2.2 |
@@ -38,6 +39,7 @@ Generated: 2025-11-11 02:26
 | 2025-11-13 | 5:30 P.M. | Dover-Sherborn | Pembroke | 61.6% | +1.6 |
 | 2025-11-13 | 5:30 P.M. | East Bridgewater | Scituate | 53.9% | +0.5 |
 | 2025-11-13 | 3:00 P.M. | Brighton | Rockport | 61.2% | +1.6 |
+| 2025-11-13 | 6:00 P.M. | Hopedale | Dearborn STEM | 58.9% | +1.3 |
 | 2025-11-14 | 6:00 P.M. | Newton South | Framingham | 63.9% | +2.0 |
 
 ## Recent Games
@@ -379,19 +381,19 @@ Generated: 2025-11-11 02:26
 | 202 | Darrow | 1503.0 |
 | 203 | Worcester Academy | 1502.9 |
 | 204 | Wheeler (R.I.) | 1501.7 |
-| 205 | Avon Old Farms | 1501.7 |
-| 206 | Argosy Collegiate | 1501.7 |
-| 207 | Xavier (Conn.) | 1501.7 |
-| 208 | MacDuffie | 1501.7 |
-| 209 | Community Charter | 1501.7 |
-| 210 | Brimmer & May | 1501.7 |
-| 211 | St. Mark’s | 1501.7 |
-| 212 | Newton Country Day | 1501.7 |
-| 213 | South Shore Christian | 1501.7 |
-| 214 | La Salle (R.I.) | 1501.7 |
-| 215 | Belmont Hill | 1501.7 |
-| 216 | Millbrook (N.Y.) | 1501.7 |
-| 217 | Newman School | 1501.7 |
+| 205 | Argosy Collegiate | 1501.7 |
+| 206 | Brimmer & May | 1501.7 |
+| 207 | Millbrook (N.Y.) | 1501.7 |
+| 208 | Community Charter | 1501.7 |
+| 209 | St. Mark’s | 1501.7 |
+| 210 | Newman School | 1501.7 |
+| 211 | MacDuffie | 1501.7 |
+| 212 | Xavier (Conn.) | 1501.7 |
+| 213 | La Salle (R.I.) | 1501.7 |
+| 214 | Newton Country Day | 1501.7 |
+| 215 | South Shore Christian | 1501.7 |
+| 216 | Avon Old Farms | 1501.7 |
+| 217 | Belmont Hill | 1501.7 |
 | 218 | Lincoln-Sudbury | 1501.6 |
 | 219 | Phillips Exeter | 1501.3 |
 | 220 | Brookline | 1501.1 |

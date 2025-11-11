@@ -1,39 +1,47 @@
 # Girls Soccer - 2025 Season
 
-Generated: 2025-11-11 02:26
+Generated: 2025-11-11 11:16
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
 | 2025-11-12 | 6:30 P.M. | Masconomet | Hingham | 73.3% | +3.5 |
-| 2025-11-12 | TBD | Tilton | Landmark | 54.2% | +0.6 |
-| 2025-11-12 | TBD | Bancroft | Kents Hill | 58.1% | +1.1 |
-| 2025-11-12 | TBD | Vermont Academy | Darrow | 58.5% | +1.2 |
+| 2025-11-12 | 2:00 P.M. | Tilton | Landmark | 54.2% | +0.6 |
+| 2025-11-12 | 2:00 P.M. | Bancroft | Kents Hill | 58.1% | +1.1 |
+| 2025-11-12 | 2:05 P.M. | Vermont Academy | Darrow | 58.5% | +1.2 |
 | 2025-11-12 | TBD | St. Thomas More | Christian Heritage | 57.1% | +1.0 |
 | 2025-11-12 | 2:00 P.M. | Brewster Academy | Holderness | 47.9% | -0.3 |
-| 2025-11-12 | TBD | Portsmouth Abbey | Masters (N.Y.) | 54.5% | +0.6 |
-| 2025-11-12 | TBD | New Hampton | Newton Country Day | 44.6% | -0.8 |
-| 2025-11-12 | TBD | Greens Farms | Berwick | 46.2% | -0.5 |
+| 2025-11-12 | 2:00 P.M. | Portsmouth Abbey | Masters (N.Y.) | 54.5% | +0.6 |
+| 2025-11-12 | 2:00 P.M. | Greens Farms | Berwick | 46.2% | -0.5 |
+| 2025-11-12 | 2:00 P.M. | Ethel Walker | Brooks | 53.9% | +0.5 |
 | 2025-11-12 | 2:00 P.M. | Lawrence Academy | St. George’s | 56.2% | +0.9 |
 | 2025-11-12 | 3:45 P.M. | Pingree | Williston Northampton | 74.0% | +3.6 |
-| 2025-11-12 | TBD | Ethel Walker | Brooks | 53.9% | +0.5 |
-| 2025-11-12 | 2:00 P.M. | Miss Porter’s | Austin Prep | 45.6% | -0.6 |
-| 2025-11-12 | TBD | Choate | Worcester Academy | 47.7% | -0.3 |
+| 2025-11-12 | 2:30 P.M. | Dexter Southfield | Berkshire | 75.9% | +4.0 |
+| 2025-11-12 | 4:00 P.M. | New Hampton | Newton Country Day | 44.6% | -0.8 |
+| 2025-11-12 | 2:00 P.M. | Choate | Worcester Academy | 47.7% | -0.3 |
 | 2025-11-12 | 2:00 P.M. | Westminster | Milton Academy | 61.2% | +1.6 |
 | 2025-11-12 | 3:00 P.M. | Loomis Chaffee (Conn.) | BB&N | 64.4% | +2.1 |
 | 2025-11-12 | 5:00 P.M. | Granby | Rising Tide Charter | 51.3% | +0.2 |
+| 2025-11-12 | 5:30 P.M. | Hull | Nashoba Valley Tech | 54.1% | +0.6 |
 | 2025-11-12 | 6:00 P.M. | Sutton | Lunenburg | 56.2% | +0.9 |
+| 2025-11-12 | 6:00 P.M. | Southwick | Georgetown | 51.7% | +0.2 |
 | 2025-11-12 | 5:30 P.M. | Hamilton-Wenham | Cohasset | 60.2% | +1.4 |
 | 2025-11-12 | 4:00 P.M. | Norwell | Auburn | 76.9% | +4.2 |
 | 2025-11-12 | 6:30 P.M. | Duxbury | East Longmeadow | 75.1% | +3.8 |
-| 2025-11-12 | 2:30 P.M. | Dexter Southfield | Berkshire | 75.9% | +4.0 |
+| 2025-11-12 | 2:00 P.M. | Miss Porter’s | Austin Prep | 45.6% | -0.6 |
+| 2025-11-13 | 5:00 P.M. | South Hadley | Littleton | 57.1% | +1.0 |
 | 2025-11-13 | 6:00 P.M. | Medfield | Tewksbury | 75.5% | +3.9 |
-| 2025-11-13 | 5:00 P.M. | Natick | Braintree | 64.0% | +2.0 |
-| 2025-11-13 | 6:00 P.M. | Franklin | Hopkinton | 51.8% | +0.2 |
-| 2025-11-13 | 5:00 P.M. | Needham | Belmont | 60.5% | +1.5 |
 | 2025-11-13 | 6:00 P.M. | Nipmuc | Dover-Sherborn | 72.4% | +3.4 |
+| 2025-11-13 | 5:00 P.M. | Pope Francis | Wilmington | 62.4% | +1.8 |
+| 2025-11-13 | 5:00 P.M. | King Philip | Northampton | 55.9% | +0.8 |
+| 2025-11-13 | 5:00 P.M. | Natick | Braintree | 64.0% | +2.0 |
+| 2025-11-13 | 5:00 P.M. | Needham | Belmont | 60.5% | +1.5 |
+| 2025-11-13 | 6:00 P.M. | Franklin | Hopkinton | 51.8% | +0.2 |
+| 2025-11-13 | 6:00 P.M. | Bishop Feehan | Concord-Carlisle | 77.0% | +4.2 |
 | 2025-11-13 | 2:00 P.M. | Monson | St. John Paul II | 38.5% | -1.6 |
+| 2025-11-13 | 5:00 P.M. | Longmeadow | Marblehead | 51.5% | +0.2 |
+| 2025-11-14 | 6:00 P.M. | Hopedale | Norfolk Aggie | 42.8% | -1.0 |
 
 ## Recent Games
 
@@ -364,20 +372,20 @@ Generated: 2025-11-11 02:26
 | 190 | Madison Park | 1503.4 |
 | 191 | Concord Academy | 1502.9 |
 | 192 | Canton | 1502.2 |
-| 193 | Cumberland (R.I.) | 1501.7 |
-| 194 | Darrow | 1501.7 |
-| 195 | St. Thomas More | 1501.7 |
-| 196 | Landmark | 1501.7 |
+| 193 | South Shore Christian | 1501.7 |
+| 194 | Bridgton Academy | 1501.7 |
+| 195 | Taft | 1501.7 |
+| 196 | Masters (N.Y.) | 1501.7 |
 | 197 | Kingswood-Oxford | 1501.7 |
-| 198 | Bridgton Academy | 1501.7 |
-| 199 | Poughkeepsie Day (N.Y.) | 1501.7 |
-| 200 | Kent | 1501.7 |
-| 201 | South Shore Christian | 1501.7 |
-| 202 | Boston Prep | 1501.7 |
-| 203 | Masters (N.Y.) | 1501.7 |
-| 204 | Neighborhood House Charter | 1501.7 |
-| 205 | Christian Heritage | 1501.7 |
-| 206 | Taft | 1501.7 |
+| 198 | Darrow | 1501.7 |
+| 199 | Christian Heritage | 1501.7 |
+| 200 | Boston Prep | 1501.7 |
+| 201 | St. Thomas More | 1501.7 |
+| 202 | Poughkeepsie Day (N.Y.) | 1501.7 |
+| 203 | Neighborhood House Charter | 1501.7 |
+| 204 | Cumberland (R.I.) | 1501.7 |
+| 205 | Landmark | 1501.7 |
+| 206 | Kent | 1501.7 |
 | 207 | Lawrence Academy | 1501.6 |
 | 208 | Monson | 1501.2 |
 | 209 | Billerica | 1499.6 |

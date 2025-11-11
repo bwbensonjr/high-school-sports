@@ -1603,24 +1603,25 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-12,62055,UPCOMING,Norwell,4296,,,Old Rochester,4301,,,South Shore,South Coast,6:15 P.M.,,0
 2025-11-12,62169,UPCOMING,Ayer Shirley,4022,,,Rockland,4331,,,Mid-Wach,South Shore,6:30 P.M.,,0
 2025-11-12,62172,UPCOMING,Bromfield,4505,,,Abington,4002,,,Mid-Wach,South Shore,4:00 P.M.,,0
+2025-11-12,62175,UPCOMING,Westport,4461,,,Gardner,4147,,,Mayflower,Mid-Wach,2:00 P.M.,,0
 2025-11-12,62178,UPCOMING,Northbridge,4292,,,Cohasset,4094,,,CMAC,South Shore,7:00 P.M.,,0
 2025-11-12,62322,UPCOMING,Boston International,4547,,,Pioneer Charter I,4701,,,Boston City,Charter School Athletic,4:00 P.M.,,0
-2025-11-12,63608,UPCOMING,Taft,4386,,,Milton Academy,4253,,,Independent,ISL,,,0
+2025-11-12,63608,UPCOMING,Taft,4386,,,Milton Academy,4253,,,Independent,ISL,2:30 P.M.,,0
 2025-11-12,63610,UPCOMING,Avon Old Farms,4021,,,Choate,4090,,,Founders,Independent,2:00 P.M.,,0
-2025-11-12,63612,UPCOMING,Northfield Mt. Hermon,4294,,,Loomis Chaffee (Conn.),4215,,,Independent,Independent,,,0
-2025-11-12,63613,UPCOMING,Nobles,4282,,,Belmont Hill,4035,,,ISL,ISL,,,0
-2025-11-12,63615,UPCOMING,Mount St. Charles (R.I.),4488,,,Kimball Union,4196,,,Independent,Independent,,,0
+2025-11-12,63612,UPCOMING,Northfield Mt. Hermon,4294,,,Loomis Chaffee (Conn.),4215,,,Independent,Independent,2:00 P.M.,,0
+2025-11-12,63613,UPCOMING,Nobles,4282,,,Belmont Hill,4035,,,ISL,ISL,2:00 P.M.,,0
+2025-11-12,63615,UPCOMING,Mount St. Charles (R.I.),4488,,,Rivers,4330,,,Independent,ISL,,,0
 2025-11-12,63618,UPCOMING,St. George’s,4367,,,Suffield Academy,4382,,,ISL,Independent,2:00 P.M.,,0
-2025-11-12,63620,UPCOMING,Williston Northampton,4431,,,Middlesex,4248,,,Independent,ISL,,,0
+2025-11-12,63620,UPCOMING,Williston Northampton,4431,,,Middlesex,4248,,,Independent,ISL,2:00 P.M.,,0
 2025-11-12,63621,UPCOMING,Brooks,4060,,,Vermont Academy,4399,,,ISL,Independent,2:00 P.M.,,0
-2025-11-12,63622,UPCOMING,Greens Farms,4158,,,Harvey (N.Y.),4166,,,Independent,Independent,,,0
-2025-11-12,63625,UPCOMING,Millbrook (N.Y.),4616,,,Concord Academy,4096,,,Independent,EIL,,,0
-2025-11-12,63627,UPCOMING,Berwick,4037,,,Portsmouth Abbey,4320,,,EIL,EIL,,,0
+2025-11-12,63622,UPCOMING,Greens Farms,4158,,,Harvey (N.Y.),4166,,,Independent,Independent,1:30 P.M.,,0
+2025-11-12,63625,UPCOMING,Millbrook (N.Y.),4616,,,Concord Academy,4096,,,Independent,EIL,2:00 P.M.,,0
+2025-11-12,63627,UPCOMING,Berwick,4037,,,Portsmouth Abbey,4320,,,EIL,EIL,2:00 P.M.,,0
 2025-11-12,63630,UPCOMING,Wheeler (R.I.),4426,,,St. Andrew’s,4364,,,EIL,Independent,4:30 P.M.,,0
-2025-11-12,63632,UPCOMING,Gann Academy,4541,,,Christian Heritage,4641,,,MBIL,Independent,,,0
+2025-11-12,63632,UPCOMING,Gann Academy,4541,,,Christian Heritage,4641,,,MBIL,Independent,2:00 P.M.,,0
 2025-11-12,63634,UPCOMING,Lexington Christian,4210,,,Newman School,4277,,,EIL,MBIL,2:30 P.M.,,0
-2025-11-12,63637,UPCOMING,Brimmer & May,4056,,,MacDuffie,4224,,,MBIL,Independent,,,0
-2025-11-12,63639,UPCOMING,Hyde,4186,,,Landmark,4200,,,Independent,MBIL,,,0
+2025-11-12,63637,UPCOMING,Brimmer & May,4056,,,MacDuffie,4224,,,MBIL,Independent,3:15 P.M.,,0
+2025-11-12,63639,UPCOMING,Hyde,4186,,,Landmark,4200,,,Independent,MBIL,2:00 P.M.,,0
 2025-11-13,61818,UPCOMING,Natick,4270,,,BC High,4029,,,Bay State,Catholic Conference,7:00 P.M.,,0
 2025-11-13,61941,UPCOMING,Northampton,4291,,,Agawam,4004,,,Churchill,Churchill,7:00 P.M.,,0
 2025-11-13,61944,UPCOMING,Longmeadow,4214,,,West Springfield,4417,,,Smith,Smith,7:00 P.M.,,0
@@ -1629,5 +1630,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-13,62058,UPCOMING,Dover-Sherborn,4118,,,Pembroke,4308,,,Tri-Valley,Patriot,5:30 P.M.,,0
 2025-11-13,62061,UPCOMING,East Bridgewater,4126,,,Scituate,4343,,,South Shore,Patriot,5:30 P.M.,,0
 2025-11-13,62313,UPCOMING,Brighton,4055,,,Rockport,4490,,,Boston City,Cape Ann,3:00 P.M.,,0
+2025-11-13,62316,UPCOMING,Hopedale,4507,,,Dearborn STEM,5016,,,CMAC,Boston City,6:00 P.M.,,0
 2025-11-13,62319,UPCOMING,St. John Paul II,4689,,,Keefe Tech,4191,,,Cape & Islands,CMAC,2:00 P.M.,,0
 2025-11-14,61821,UPCOMING,Newton South,4280,,,Framingham,4143,,,Dual County,Bay State,6:00 P.M.,,0

@@ -1,6 +1,6 @@
 # Field Hockey - 2025 Season
 
-Generated: 2025-11-11 02:26
+Generated: 2025-11-11 11:15
 
 ## Upcoming Games
 
@@ -9,19 +9,19 @@ Generated: 2025-11-11 02:26
 | 2025-11-12 | 7:00 P.M. | Franklin | Wellesley | 65.3% | +2.8 |
 | 2025-11-12 | 2:00 P.M. | Williston Northampton | Dexter Southfield | 60.3% | +1.8 |
 | 2025-11-12 | 2:00 P.M. | Middlesex | Berkshire | 63.4% | +2.4 |
-| 2025-11-12 | TBD | Cushing | Suffield Academy | 73.1% | +4.3 |
-| 2025-11-12 | TBD | Rivers | Governor’s Academy | 70.7% | +3.8 |
-| 2025-11-12 | 3:00 P.M. | Phillips Andover | Taft | 71.6% | +4.0 |
+| 2025-11-12 | 3:00 P.M. | Cushing | Suffield Academy | 73.1% | +4.3 |
+| 2025-11-12 | 2:00 P.M. | Rivers | Governor’s Academy | 70.7% | +3.8 |
+| 2025-11-12 | 2:30 P.M. | Phillips Andover | Taft | 71.6% | +4.0 |
 | 2025-11-12 | 2:00 P.M. | Nobles | Hotchkiss | 47.7% | -0.4 |
-| 2025-11-12 | TBD | Greenwich Academy (Conn.) | Tabor | 61.8% | +2.1 |
-| 2025-11-12 | TBD | Deerfield | Sacred Heart (Conn.) | 53.8% | +0.7 |
-| 2025-11-12 | TBD | King (Conn.) | Wheeler (R.I.) | 56.1% | +1.1 |
+| 2025-11-12 | 2:00 P.M. | Greenwich Academy (Conn.) | Tabor | 61.8% | +2.1 |
+| 2025-11-12 | 2:00 P.M. | Deerfield | Sacred Heart (Conn.) | 53.8% | +0.7 |
+| 2025-11-12 | 2:00 P.M. | King (Conn.) | Wheeler (R.I.) | 56.1% | +1.1 |
 | 2025-11-12 | 2:00 P.M. | Portsmouth Abbey | Kents Hill | 57.1% | +1.2 |
 | 2025-11-12 | 2:00 P.M. | New Hampton | Proctor | 57.5% | +1.3 |
 | 2025-11-12 | 7:00 P.M. | Uxbridge | Watertown | 66.7% | +3.0 |
 | 2025-11-12 | 5:00 P.M. | Sandwich | Dover-Sherborn | 77.2% | +5.3 |
 | 2025-11-12 | 5:00 P.M. | Walpole | Winchester | 74.2% | +4.6 |
-| 2025-11-12 | TBD | Frederick Gunn (Conn.) | Pomfret | 54.5% | +0.8 |
+| 2025-11-12 | 2:00 P.M. | Frederick Gunn (Conn.) | Pomfret | 54.5% | +0.8 |
 | 2025-11-13 | 5:00 P.M. | Dennis-Yarmouth | Cohasset | 63.2% | +2.3 |
 | 2025-11-13 | 6:00 P.M. | Nashoba | Somerset Berkley | 43.0% | -1.2 |
 | 2025-11-13 | 7:00 P.M. | Hingham | Canton | 58.5% | +1.5 |
@@ -217,14 +217,14 @@ Generated: 2025-11-11 02:26
 | 121 | Groton-Dunstable | 1502.6 |
 | 122 | Franklin County Tech | 1502.3 |
 | 123 | New Hampton | 1501.9 |
-| 124 | St. Luke’s | 1501.7 |
-| 125 | Kent | 1501.7 |
-| 126 | Wheeler (R.I.) | 1501.7 |
-| 127 | Kents Hill | 1501.7 |
-| 128 | Portsmouth Abbey | 1501.7 |
+| 124 | Hopkins (Conn.) | 1501.7 |
+| 125 | Portsmouth Abbey | 1501.7 |
+| 126 | Kingswood-Oxford | 1501.7 |
+| 127 | St. Luke’s | 1501.7 |
+| 128 | Kent | 1501.7 |
 | 129 | Hamden Hall Country Day | 1501.7 |
-| 130 | Hopkins (Conn.) | 1501.7 |
-| 131 | Kingswood-Oxford | 1501.7 |
+| 130 | Kents Hill | 1501.7 |
+| 131 | Wheeler (R.I.) | 1501.7 |
 | 132 | Milton Academy | 1500.8 |
 | 133 | Monty Tech | 1499.6 |
 | 134 | Proctor | 1499.6 |

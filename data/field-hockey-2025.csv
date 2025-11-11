@@ -1024,14 +1024,14 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-12,60862,UPCOMING,Uxbridge,4398,,,Watertown,4409,,,CMAC,Middlesex,7:00 P.M.,,0
 2025-11-12,63579,UPCOMING,New Hampton,4275,,,Proctor,4321,,,Independent,Independent,2:00 P.M.,,0
 2025-11-12,63582,UPCOMING,Portsmouth Abbey,4320,,,Kents Hill,4194,,,EIL,Independent,2:00 P.M.,,0
-2025-11-12,63585,UPCOMING,King (Conn.),4199,,,Wheeler (R.I.),4426,,,Independent,EIL,,,0
-2025-11-12,63587,UPCOMING,Frederick Gunn (Conn.),4161,,,Pomfret,4317,,,Independent,Independent,,,0
-2025-11-12,63590,UPCOMING,Greenwich Academy (Conn.),4159,,,Tabor,4384,,,Independent,ISL,,,0
-2025-11-12,63593,UPCOMING,Deerfield,4110,,,Sacred Heart (Conn.),4586,,,Independent,Independent,,,0
+2025-11-12,63585,UPCOMING,King (Conn.),4199,,,Wheeler (R.I.),4426,,,Independent,EIL,2:00 P.M.,,0
+2025-11-12,63587,UPCOMING,Frederick Gunn (Conn.),4161,,,Pomfret,4317,,,Independent,Independent,2:00 P.M.,,0
+2025-11-12,63590,UPCOMING,Greenwich Academy (Conn.),4159,,,Tabor,4384,,,Independent,ISL,2:00 P.M.,,0
+2025-11-12,63593,UPCOMING,Deerfield,4110,,,Sacred Heart (Conn.),4586,,,Independent,Independent,2:00 P.M.,,0
 2025-11-12,63594,UPCOMING,Nobles,4282,,,Hotchkiss,4181,,,ISL,Independent,2:00 P.M.,,0
-2025-11-12,63597,UPCOMING,Phillips Andover,4310,,,Taft,4386,,,Independent,Independent,3:00 P.M.,,0
-2025-11-12,63598,UPCOMING,Rivers,4330,,,Governor’s Academy,4152,,,ISL,ISL,,,0
-2025-11-12,63600,UPCOMING,Cushing,4101,,,Suffield Academy,4382,,,Independent,Independent,,,0
+2025-11-12,63597,UPCOMING,Phillips Andover,4310,,,Taft,4386,,,Independent,Independent,2:30 P.M.,,0
+2025-11-12,63598,UPCOMING,Rivers,4330,,,Governor’s Academy,4152,,,ISL,ISL,2:00 P.M.,,0
+2025-11-12,63600,UPCOMING,Cushing,4101,,,Suffield Academy,4382,,,Independent,Independent,3:00 P.M.,,0
 2025-11-12,63603,UPCOMING,Middlesex,4248,,,Berkshire,4036,,,ISL,Independent,2:00 P.M.,,0
 2025-11-12,63606,UPCOMING,Williston Northampton,4431,,,Dexter Southfield,4113,,,Independent,Independent,2:00 P.M.,,0
 2025-11-13,60757,UPCOMING,Nashoba,4267,,,Somerset Berkley,4350,,,Mid-Wach,South Coast,6:00 P.M.,,0
