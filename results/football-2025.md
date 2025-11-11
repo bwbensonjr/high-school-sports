@@ -1,6 +1,6 @@
 # Football - 2025 Season
 
-Generated: 2025-11-10 06:52
+Generated: 2025-11-11 02:26
 
 ## Upcoming Games
 
@@ -87,7 +87,7 @@ Generated: 2025-11-10 06:52
 | 2025-11-07 | Littleton | 14 | Monty Tech | 41 | +4.7 | -27.0 |
 | 2025-11-07 | Frontier | 6 | KIPP | 46 | +13.2 | -40.0 |
 | 2025-11-07 | Worcester Tech | 21 | Burncoat | 48 | -5.9 | -27.0 |
-| 2025-11-07 | Fitchburg | 6 | Maynard/AMSA | 28 | -15.5 | -22.0 |
+| 2025-11-07 | Fitchburg | 6 | Maynard/AMSA | 28 | -6.1 | -22.0 |
 | 2025-11-07 | Oakmont | 0 | Worcester South | 33 | +26.3 | -33.0 |
 | 2025-11-07 | Grafton | 40 | Nashoba | 28 | +16.8 | +12.0 |
 | 2025-11-07 | Nashoba Valley Tech | 44 | Springfield International | 12 | +33.0 | +32.0 |
@@ -192,7 +192,7 @@ Generated: 2025-11-10 06:52
 | 2025-11-06 | Cardinal Spellman | 22 | Monomoy/JP II | 18 | -2.2 | +4.0 |
 | 2025-11-06 | Sandwich | 6 | Wareham | 12 | +25.0 | -6.0 |
 | 2025-11-06 | Essex Tech | 40 | Peabody | 13 | +8.4 | +27.0 |
-| 2025-11-06 | Nauset | 36 | Sharon | 0 | +16.3 | +36.0 |
+| 2025-11-06 | Nauset | 36 | Sharon | 0 | +25.7 | +36.0 |
 | 2025-11-06 | Pembroke | 35 | Norwood | 28 | +1.5 | +7.0 |
 | 2025-11-06 | Dighton-Rehoboth/Bristol Aggie | 6 | Falmouth | 40 | +11.9 | -34.0 |
 | 2025-11-06 | Newton North | 35 | Stoughton | 19 | +17.9 | +16.0 |
@@ -412,25 +412,25 @@ Generated: 2025-11-10 06:52
 | 203 | Loomis Chaffee (Conn.) | 1475.4 |
 | 204 | Latin Academy | 1475.3 |
 | 205 | Wayland | 1473.4 |
-| 206 | Bishop Stang | 1473.1 |
-| 207 | Monomoy | 1472.2 |
-| 208 | Bedford (Mich.) | 1471.6 |
-| 209 | Bishop Brady (N.H.) | 1471.0 |
-| 210 | Merrimack (N.H.) | 1470.5 |
-| 211 | Millbrook (N.Y.) | 1470.5 |
-| 212 | Johnston (R.I.) | 1470.5 |
-| 213 | Shepherd Hill | 1470.0 |
-| 214 | Blue Hills | 1469.4 |
-| 215 | Roxbury Latin | 1468.7 |
-| 216 | Keefe Tech | 1467.4 |
-| 217 | Cambridge | 1467.3 |
-| 218 | Pembroke | 1466.4 |
-| 219 | Oxford | 1466.3 |
-| 220 | Groton-Dunstable/NM | 1465.4 |
-| 221 | Wareham | 1463.9 |
-| 222 | Melrose | 1463.6 |
-| 223 | St. John’s (Shrewsbury) | 1462.6 |
-| 224 | Maynard/AMSA | 1461.8 |
+| 206 | Maynard/AMSA | 1473.2 |
+| 207 | Bishop Stang | 1473.1 |
+| 208 | Monomoy | 1472.2 |
+| 209 | Bedford (Mich.) | 1471.6 |
+| 210 | Bishop Brady (N.H.) | 1471.0 |
+| 211 | Merrimack (N.H.) | 1470.5 |
+| 212 | Millbrook (N.Y.) | 1470.5 |
+| 213 | Johnston (R.I.) | 1470.5 |
+| 214 | Shepherd Hill | 1470.0 |
+| 215 | Blue Hills | 1469.4 |
+| 216 | Roxbury Latin | 1468.7 |
+| 217 | Keefe Tech | 1467.4 |
+| 218 | Cambridge | 1467.3 |
+| 219 | Pembroke | 1466.4 |
+| 220 | Oxford | 1466.3 |
+| 221 | Groton-Dunstable/NM | 1465.4 |
+| 222 | Wareham | 1463.9 |
+| 223 | Melrose | 1463.6 |
+| 224 | St. John’s (Shrewsbury) | 1462.6 |
 | 225 | Greenwich CD (Conn.) | 1461.3 |
 | 226 | Watertown | 1459.3 |
 | 227 | Frederick Gunn (Conn.) | 1458.4 |
@@ -443,18 +443,18 @@ Generated: 2025-11-10 06:52
 | 234 | Norton | 1453.9 |
 | 235 | Plymouth North | 1453.5 |
 | 236 | English High | 1452.3 |
-| 237 | Nauset | 1451.9 |
-| 238 | Leicester | 1451.6 |
-| 239 | Manchester Essex | 1451.5 |
-| 240 | Marlborough | 1450.3 |
-| 241 | Salisbury (Conn.) | 1449.1 |
-| 242 | Dennis-Yarmouth | 1448.0 |
-| 243 | Central High (R.I.) | 1447.8 |
-| 244 | Lawrenceville (N.J.) | 1447.7 |
-| 245 | Algonquin | 1447.2 |
-| 246 | Upper Cape | 1445.9 |
-| 247 | Smithfield (R.I.) | 1444.9 |
-| 248 | David Prouty | 1442.8 |
+| 237 | Leicester | 1451.6 |
+| 238 | Manchester Essex | 1451.5 |
+| 239 | Marlborough | 1450.3 |
+| 240 | Salisbury (Conn.) | 1449.1 |
+| 241 | Dennis-Yarmouth | 1448.0 |
+| 242 | Central High (R.I.) | 1447.8 |
+| 243 | Lawrenceville (N.J.) | 1447.7 |
+| 244 | Algonquin | 1447.2 |
+| 245 | Upper Cape | 1445.9 |
+| 246 | Smithfield (R.I.) | 1444.9 |
+| 247 | David Prouty | 1442.8 |
+| 248 | Nauset | 1441.6 |
 | 249 | Norwood | 1441.5 |
 | 250 | Wahconah | 1441.0 |
 | 251 | Hamilton-Wenham | 1439.8 |
@@ -546,11 +546,11 @@ Generated: 2025-11-10 06:52
 | 337 | Hopkinton | 1293.4 |
 | 338 | McCann Tech | 1291.7 |
 | 339 | Southeastern | 1285.7 |
-| 340 | Brighton | 1281.9 |
-| 341 | Monomoy/JP II | 1281.6 |
-| 342 | Assabet | 1280.9 |
-| 343 | Mahar | 1280.3 |
-| 344 | Sharon | 1277.9 |
+| 340 | Fitchburg | 1284.2 |
+| 341 | Brighton | 1281.9 |
+| 342 | Monomoy/JP II | 1281.6 |
+| 343 | Assabet | 1280.9 |
+| 344 | Mahar | 1280.3 |
 | 345 | Phillips Andover | 1271.9 |
 | 346 | Taconic | 1270.1 |
 | 347 | Northampton | 1267.1 |
@@ -565,4 +565,4 @@ Generated: 2025-11-10 06:52
 | 356 | Belmont | 1228.1 |
 | 357 | Quaboag | 1216.5 |
 | 358 | East Boston | 1207.3 |
-| 359 | Fitchburg | 1202.1 |
+| 359 | Sharon | 1194.6 |

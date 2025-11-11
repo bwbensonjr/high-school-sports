@@ -1256,15 +1256,15 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-10-30,61598,FINAL,Georgetown,4148,3.0,1.0,English High,4048,2.0,0.0,Cape Ann,Boston City,5:00 P.M.,,0
 2025-10-30,61601,FINAL,KIPP,4703,3.0,1.0,University Park,4514,0.0,0.0,Commonwealth,CMAC,5:00 P.M.,,0
 2025-10-30,61604,FINAL,Charlestown,4084,3.0,1.0,Granby,4520,2.0,0.0,Boston City,Metro,4:00 P.M.,,0
-2025-10-31,61196,FINAL,Hingham,4171,3,1,Melrose,4244,1,0,Patriot,Middlesex,5:00 P.M.,,0
-2025-10-31,61208,FINAL,King Philip,4197,3,1,Nashoba,4267,0,0,Hockomock,Mid-Wach,5:00 P.M.,,0
-2025-10-31,61238,FINAL,Duxbury,4123,3,1,North Quincy,4287,1,0,Patriot,Patriot,5:00 P.M.,,0
-2025-10-31,61319,FINAL,Arlington Catholic,4014,3,1,Fairhaven,4133,0,0,Catholic Central,South Coast,6:00 P.M.,,0
-2025-10-31,61436,FINAL,South Shore Voc-Tech,4356,1,0,Hamilton-Wenham,4163,3,1,Mayflower,Cape Ann,3:30 P.M.,,0
-2025-10-31,61559,FINAL,Baystate Academy,4846,3,1,Hampden Charter West,4985,0,0,Independent,Independent,6:00 P.M.,,0
-2025-10-31,61580,FINAL,Lenox,4532,3,1,KIPP,4703,0,0,Southern,Commonwealth,5:00 P.M.,,0
-2025-10-31,61793,FINAL,Thayer,4390,0,0,BB&N,4028,3,1,ISL,ISL,,,0
-2025-10-31,61795,FINAL,Concord Academy,4096,2,0,Beaver Country Day,4030,3,1,EIL,EIL,,,0
+2025-10-31,61196,FINAL,Hingham,4171,3.0,1.0,Melrose,4244,1.0,0.0,Patriot,Middlesex,5:00 P.M.,,0
+2025-10-31,61208,FINAL,King Philip,4197,3.0,1.0,Nashoba,4267,0.0,0.0,Hockomock,Mid-Wach,5:00 P.M.,,0
+2025-10-31,61238,FINAL,Duxbury,4123,3.0,1.0,North Quincy,4287,1.0,0.0,Patriot,Patriot,5:00 P.M.,,0
+2025-10-31,61319,FINAL,Arlington Catholic,4014,3.0,1.0,Fairhaven,4133,0.0,0.0,Catholic Central,South Coast,6:00 P.M.,,0
+2025-10-31,61436,FINAL,South Shore Voc-Tech,4356,1.0,0.0,Hamilton-Wenham,4163,3.0,1.0,Mayflower,Cape Ann,3:30 P.M.,,0
+2025-10-31,61559,FINAL,Baystate Academy,4846,3.0,1.0,Hampden Charter West,4985,0.0,0.0,Independent,Independent,6:00 P.M.,,0
+2025-10-31,61580,FINAL,Lenox,4532,3.0,1.0,KIPP,4703,0.0,0.0,Southern,Commonwealth,5:00 P.M.,,0
+2025-10-31,61793,FINAL,Thayer,4390,0.0,0.0,BB&N,4028,3.0,1.0,ISL,ISL,,,0
+2025-10-31,61795,FINAL,Concord Academy,4096,2.0,0.0,Beaver Country Day,4030,3.0,1.0,EIL,EIL,,,0
 2025-11-01,61103,FINAL,Westford,4421,3,1,Natick,4270,0,0,Dual County,Bay State,12:00 P.M.,,0
 2025-11-01,61106,FINAL,Wellesley,4413,3,1,Wachusett,4400,1,0,Bay State,Mid-Wach,3:00 P.M.,,0
 2025-11-01,61112,FINAL,Franklin,4144,3,1,Braintree,4051,0,0,Hockomock,Bay State,1:30 P.M.,,0
@@ -1375,3 +1375,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-12,61397,UPCOMING,Bourne,4050,,,Rockland,4331,,,South Coast,South Shore,5:00 P.M.,,0
 2025-11-12,61502,UPCOMING,Pioneer Valley Christian,4535,,,Smith Voc.,4539,,,Metro,Metro,5:00 P.M.,,0
 2025-11-12,61505,UPCOMING,Hopedale,4507,,,Lenox,4532,,,CMAC,Southern,7:15 P.M.,,0
+2025-11-12,63672,UPCOMING,King (Conn.),4199,,,Winsor,4436,,,Independent,EIL,,,0
+2025-11-12,63675,UPCOMING,Loomis Chaffee (Conn.),4215,,,Deerfield,4110,,,Independent,Independent,4:00 P.M.,,0
+2025-11-12,63678,UPCOMING,Dana Hall,4102,,,Choate,4090,,,EIL,Independent,,,0
+2025-11-12,63680,UPCOMING,BB&N,4028,,,Greenwich Academy (Conn.),4159,,,ISL,Independent,,,0
+2025-11-12,63683,UPCOMING,Groton,4544,,,Worcester Academy,4441,,,ISL,Independent,,,0
+2025-11-12,63684,UPCOMING,Kingswood-Oxford,4198,,,Suffield Academy,4382,,,Independent,Independent,,,0
+2025-11-12,63687,UPCOMING,Greens Farms,4158,,,Rivers,4330,,,Independent,ISL,,,0
+2025-11-12,63689,UPCOMING,Greenwich CD (Conn.),5041,,,Dexter Southfield,4113,,,Independent,Independent,,,0
+2025-11-12,63690,UPCOMING,Wilbraham & Monson,4545,,,Marianapolis,4567,,,Independent,Independent,3:30 P.M.,,0
+2025-11-12,63691,UPCOMING,Mount St. Charles (R.I.),4488,,,Hamden Hall Country Day,4162,,,Independent,Independent,,,0
+2025-11-12,63694,UPCOMING,Montrose,4561,,,Cambridge Weston,4069,,,IGC,IGC,,,0
+2025-11-12,63695,UPCOMING,Harvey (N.Y.),4166,,,Beaver Country Day,4030,,,Independent,EIL,,,0
+2025-11-12,63697,UPCOMING,Christian Heritage,4641,,,Stoneleigh-Burnham,4585,,,Independent,Independent,,,0
+2025-11-12,63700,UPCOMING,Bancroft,4023,,,Newman School,4277,,,EIL,IGC,4:00 P.M.,,0
+2025-11-12,63701,UPCOMING,Covenant Christian,4629,,,Boston Trinity,4542,,,IGC,Independent,4:30 P.M.,,0
+2025-11-12,63702,UPCOMING,Hoosac School,4688,,,Marvelwood,4608,,,Independent,Independent,,,0

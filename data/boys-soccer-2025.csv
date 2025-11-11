@@ -1418,9 +1418,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-10-30,61784,FINAL,Advanced Math and Science,4595,1.0,2.0,Northbridge,4292,1.0,2.0,CMAC,CMAC,,,0
 2025-10-30,61787,FINAL,Charlestown,4084,9.0,1.0,Cristo Rey/Cathedral,4453,2.0,0.0,Boston City,Catholic Central,,,0
 2025-10-30,61789,FINAL,Madison Park,4225,6.0,1.0,Brooke Charter,5071,2.0,0.0,Boston City,Charter School Athletic,,,0
-2025-10-31,61800,FINAL,Cushing,4101,0,2,Newton Country Day,4278,0,2,Independent,Independent,,,0
-2025-10-31,61801,FINAL,Landmark,4200,0,0,Concord Academy,4096,2,1,MBIL,EIL,,,0
-2025-10-31,63534,FINAL,Hopkinton,4180,3,1,Milford,4249,0,0,Tri-Valley,Hockomock,3:30 P.M.,,0
+2025-10-31,61800,FINAL,Cushing,4101,0.0,2.0,Newton Country Day,4278,0.0,2.0,Independent,Independent,,,0
+2025-10-31,61801,FINAL,Landmark,4200,0.0,0.0,Concord Academy,4096,2.0,1.0,MBIL,EIL,,,0
+2025-10-31,63534,FINAL,Hopkinton,4180,3.0,1.0,Milford,4249,0.0,0.0,Tri-Valley,Hockomock,3:30 P.M.,,0
 2025-11-01,63529,FINAL,Greater New Bedford,4156,3,1,Greater Lowell,4155,0,0,South Coast,Commonwealth,,,0
 2025-11-03,61899,FINAL,Lincoln-Sudbury,4211,1,0,Algonquin,4005,2,1,Dual County,Mid-Wach,2:30 P.M.,,0
 2025-11-03,61902,FINAL,Leominster,4208,2,1,Wachusett,4400,0,0,Mid-Wach,Mid-Wach,7:00 P.M.,,0
@@ -1592,12 +1592,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-08,62343,FINAL,Hopedale,4507,4,1,TechBoston,4117,2,0,CMAC,Boston City,6:00 P.M.,,0
 2025-11-08,63562,FINAL,St. Sebastian’s,4378,3,1,Thayer,4390,2,0,ISL,ISL,,,0
 2025-11-09,62190,FINAL,Rockland,4331,2,1,Uxbridge,4398,0,0,South Shore,CMAC,6:00 P.M.,,0
-2025-11-10,61836,UPCOMING,Brookline,4059,,,Winchester,4434,,,Bay State,Middlesex,3:00 P.M.,,0
-2025-11-10,61839,UPCOMING,Needham,4272,,,Concord-Carlisle,4097,,,Bay State,Dual County,6:00 P.M.,,0
-2025-11-10,61965,UPCOMING,Longmeadow,4214,,,Bedford,4031,,,Smith,Dual County,5:30 P.M.,,0
-2025-11-10,61968,UPCOMING,Northampton,4291,,,Mansfield,4230,,,Churchill,Hockomock,5:00 P.M.,,0
-2025-11-10,62064,UPCOMING,East Bridgewater,4126,,,Weston,4423,,,South Shore,Dual County,5:00 P.M.,,0
-2025-11-10,62076,UPCOMING,Greater New Bedford,4156,,,Watertown,4409,,,South Coast,Middlesex,6:00 P.M.,,0
+2025-11-10,61836,FINAL,Brookline,4059,3,1,Winchester,4434,2,0,Bay State,Middlesex,3:00 P.M.,,0
+2025-11-10,61839,FINAL,Needham,4272,1,0,Concord-Carlisle,4097,2,1,Bay State,Dual County,6:00 P.M.,2.0,0
+2025-11-10,61965,FINAL,Longmeadow,4214,4,1,Bedford,4031,0,0,Smith,Dual County,5:30 P.M.,,0
+2025-11-10,61968,FINAL,Northampton,4291,4,1,Mansfield,4230,2,0,Churchill,Hockomock,5:00 P.M.,,0
+2025-11-10,62064,FINAL,East Bridgewater,4126,2,1,Weston,4423,1,0,South Shore,Dual County,5:00 P.M.,1.0,0
+2025-11-10,62076,FINAL,Greater New Bedford,4156,4,1,Watertown,4409,2,0,South Coast,Middlesex,6:00 P.M.,,0
 2025-11-12,61824,UPCOMING,St. John’s Prep,4369,,,Cambridge,4067,,,Catholic Conference,Dual County,6:00 P.M.,,0
 2025-11-12,61938,UPCOMING,Duxbury,4123,,,Holliston,4174,,,Patriot,Tri-Valley,4:00 P.M.,,0
 2025-11-12,62055,UPCOMING,Norwell,4296,,,Old Rochester,4301,,,South Shore,South Coast,6:15 P.M.,,0
@@ -1605,9 +1605,29 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-12,62172,UPCOMING,Bromfield,4505,,,Abington,4002,,,Mid-Wach,South Shore,4:00 P.M.,,0
 2025-11-12,62178,UPCOMING,Northbridge,4292,,,Cohasset,4094,,,CMAC,South Shore,7:00 P.M.,,0
 2025-11-12,62322,UPCOMING,Boston International,4547,,,Pioneer Charter I,4701,,,Boston City,Charter School Athletic,4:00 P.M.,,0
+2025-11-12,63608,UPCOMING,Taft,4386,,,Milton Academy,4253,,,Independent,ISL,,,0
+2025-11-12,63610,UPCOMING,Avon Old Farms,4021,,,Choate,4090,,,Founders,Independent,2:00 P.M.,,0
+2025-11-12,63612,UPCOMING,Northfield Mt. Hermon,4294,,,Loomis Chaffee (Conn.),4215,,,Independent,Independent,,,0
+2025-11-12,63613,UPCOMING,Nobles,4282,,,Belmont Hill,4035,,,ISL,ISL,,,0
+2025-11-12,63615,UPCOMING,Mount St. Charles (R.I.),4488,,,Kimball Union,4196,,,Independent,Independent,,,0
+2025-11-12,63618,UPCOMING,St. George’s,4367,,,Suffield Academy,4382,,,ISL,Independent,2:00 P.M.,,0
+2025-11-12,63620,UPCOMING,Williston Northampton,4431,,,Middlesex,4248,,,Independent,ISL,,,0
+2025-11-12,63621,UPCOMING,Brooks,4060,,,Vermont Academy,4399,,,ISL,Independent,2:00 P.M.,,0
+2025-11-12,63622,UPCOMING,Greens Farms,4158,,,Harvey (N.Y.),4166,,,Independent,Independent,,,0
+2025-11-12,63625,UPCOMING,Millbrook (N.Y.),4616,,,Concord Academy,4096,,,Independent,EIL,,,0
+2025-11-12,63627,UPCOMING,Berwick,4037,,,Portsmouth Abbey,4320,,,EIL,EIL,,,0
+2025-11-12,63630,UPCOMING,Wheeler (R.I.),4426,,,St. Andrew’s,4364,,,EIL,Independent,4:30 P.M.,,0
+2025-11-12,63632,UPCOMING,Gann Academy,4541,,,Christian Heritage,4641,,,MBIL,Independent,,,0
+2025-11-12,63634,UPCOMING,Lexington Christian,4210,,,Newman School,4277,,,EIL,MBIL,2:30 P.M.,,0
+2025-11-12,63637,UPCOMING,Brimmer & May,4056,,,MacDuffie,4224,,,MBIL,Independent,,,0
+2025-11-12,63639,UPCOMING,Hyde,4186,,,Landmark,4200,,,Independent,MBIL,,,0
 2025-11-13,61818,UPCOMING,Natick,4270,,,BC High,4029,,,Bay State,Catholic Conference,7:00 P.M.,,0
+2025-11-13,61941,UPCOMING,Northampton,4291,,,Agawam,4004,,,Churchill,Churchill,7:00 P.M.,,0
+2025-11-13,61944,UPCOMING,Longmeadow,4214,,,West Springfield,4417,,,Smith,Smith,7:00 P.M.,,0
 2025-11-13,61947,UPCOMING,Dartmouth,4105,,,Sharon,4345,,,Southeast,Hockomock,6:00 P.M.,,0
+2025-11-13,62052,UPCOMING,Greater New Bedford,4156,,,Chicopee,4088,,,South Coast,Holley,6:00 P.M.,,0
 2025-11-13,62058,UPCOMING,Dover-Sherborn,4118,,,Pembroke,4308,,,Tri-Valley,Patriot,5:30 P.M.,,0
+2025-11-13,62061,UPCOMING,East Bridgewater,4126,,,Scituate,4343,,,South Shore,Patriot,5:30 P.M.,,0
 2025-11-13,62313,UPCOMING,Brighton,4055,,,Rockport,4490,,,Boston City,Cape Ann,3:00 P.M.,,0
 2025-11-13,62319,UPCOMING,St. John Paul II,4689,,,Keefe Tech,4191,,,Cape & Islands,CMAC,2:00 P.M.,,0
 2025-11-14,61821,UPCOMING,Newton South,4280,,,Framingham,4143,,,Dual County,Bay State,6:00 P.M.,,0
