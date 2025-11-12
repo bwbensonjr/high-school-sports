@@ -1,6 +1,6 @@
 # Boys Basketball - 2024 Season
 
-Generated: 2025-11-11 11:15
+Generated: 2025-11-12 11:15
 
 ## Upcoming Games
 
@@ -32,22 +32,22 @@ Generated: 2025-11-11 11:15
 | 14 | Canterbury | 1511.9 |
 | 15 | Phillips Andover | 1509.0 |
 | 16 | Covenant Christian | 1503.9 |
-| 17 | Austin Prep | 1500.0 |
-| 18 | BU Academy | 1500.0 |
+| 17 | Putnam | 1500.0 |
+| 18 | Gann Academy | 1500.0 |
 | 19 | Milton Academy | 1500.0 |
-| 20 | Portsmouth (N.H.) | 1500.0 |
-| 21 | International School | 1500.0 |
-| 22 | Marie Philip | 1500.0 |
-| 23 | Walpole | 1500.0 |
+| 20 | Marie Philip | 1500.0 |
+| 21 | Portsmouth (N.H.) | 1500.0 |
+| 22 | Chapel Hill | 1500.0 |
+| 23 | Bishop Connolly | 1500.0 |
 | 24 | Wheeler (R.I.) | 1500.0 |
-| 25 | Chapel Hill | 1500.0 |
-| 26 | Putnam | 1500.0 |
-| 27 | Groton | 1500.0 |
-| 28 | Bishop Connolly | 1500.0 |
-| 29 | Gann Academy | 1500.0 |
-| 30 | Boston Trinity | 1500.0 |
-| 31 | Waring | 1500.0 |
-| 32 | Medfield | 1500.0 |
+| 25 | Boston Trinity | 1500.0 |
+| 26 | Austin Prep | 1500.0 |
+| 27 | BU Academy | 1500.0 |
+| 28 | Medfield | 1500.0 |
+| 29 | International School | 1500.0 |
+| 30 | Groton | 1500.0 |
+| 31 | Walpole | 1500.0 |
+| 32 | Waring | 1500.0 |
 | 33 | Holderness | 1495.6 |
 | 34 | Kimball Union | 1488.1 |
 | 35 | MacDuffie | 1482.8 |
