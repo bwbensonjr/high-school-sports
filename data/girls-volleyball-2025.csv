@@ -1301,8 +1301,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-01,61586,FINAL,Madison Park,4225,3.0,1.0,Pioneer Valley,4536,0.0,0.0,Boston City,Northern,2:00 P.M.,,0
 2025-11-01,61589,FINAL,Hopedale,4507,3.0,1.0,Brighton,4055,0.0,0.0,CMAC,Boston City,2:00 P.M.,,0
 2025-11-01,63046,FINAL,Brooks,4060,0.0,0.0,Nobles,4282,3.0,1.0,ISL,ISL,,,0
-2025-11-02,61241,FINAL,Oliver Ames,4302,3,1,Archbishop Williams,4012,0,0,Hockomock,Catholic Central,12:00 P.M.,,0
-2025-11-02,61358,FINAL,Medfield,4241,3,1,Dennis-Yarmouth,4111,0,0,Tri-Valley,Cape & Islands,5:30 P.M.,,0
+2025-11-02,61241,FINAL,Oliver Ames,4302,3.0,1.0,Archbishop Williams,4012,0.0,0.0,Hockomock,Catholic Central,12:00 P.M.,,0
+2025-11-02,61358,FINAL,Medfield,4241,3.0,1.0,Dennis-Yarmouth,4111,0.0,0.0,Tri-Valley,Cape & Islands,5:30 P.M.,,0
 2025-11-03,61076,FINAL,Brookline,4059,3,1,Attleboro,4018,2,0,Bay State,Hockomock,5:30 P.M.,,0
 2025-11-03,61079,FINAL,Winchester,4434,3,1,Needham,4272,0,0,Middlesex,Bay State,5:00 P.M.,,0
 2025-11-03,61187,FINAL,Longmeadow,4214,3,1,Notre Dame (Hingham),4449,0,0,Eastern,Catholic Conference,,,0
@@ -1365,29 +1365,34 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-08,61409,FINAL,Bourne,4050,3,1,Ursuline,4448,0,0,South Coast,Catholic Conference,12:00 P.M.,,0
 2025-11-08,61517,FINAL,Hopedale,4507,3,1,Renaissance,4664,1,0,CMAC,Metro,2:00 P.M.,,0
 2025-11-09,61064,FINAL,Andover,4009,0,0,Franklin,4144,3,1,Merrimack Valley,Hockomock,12:00 P.M.,,0
-2025-11-12,61058,UPCOMING,Newton North,4279,,,Central Catholic,4081,,,Bay State,Merrimack Valley,6:00 P.M.,,0
-2025-11-12,61061,UPCOMING,Franklin,4144,,,Newton South,4280,,,Hockomock,Dual County,7:15 P.M.,,0
-2025-11-12,61154,UPCOMING,Longmeadow,4214,,,Wayland,4411,,,Eastern,Dual County,6:00 P.M.,,0
-2025-11-12,61157,UPCOMING,Oliver Ames,4302,,,King Philip,4197,,,Hockomock,Hockomock,6:00 P.M.,,0
-2025-11-12,61274,UPCOMING,Medfield,4241,,,Joseph Case,4078,,,Tri-Valley,South Coast,7:15 P.M.,,0
-2025-11-12,61277,UPCOMING,Bellingham,4033,,,Lynnfield,4223,,,Tri-Valley,Cape Ann,5:00 P.M.,,0
-2025-11-12,61394,UPCOMING,East Bridgewater,4126,,,Nipmuc,4281,,,South Shore,CMAC,6:30 P.M.,,0
-2025-11-12,61397,UPCOMING,Bourne,4050,,,Rockland,4331,,,South Coast,South Shore,5:00 P.M.,,0
-2025-11-12,61502,UPCOMING,Pioneer Valley Christian,4535,,,Smith Voc.,4539,,,Metro,Metro,5:00 P.M.,,0
-2025-11-12,61505,UPCOMING,Hopedale,4507,,,Lenox,4532,,,CMAC,Southern,7:15 P.M.,,0
-2025-11-12,63672,UPCOMING,King (Conn.),4199,,,Winsor,4436,,,Independent,EIL,5:30 P.M.,,0
-2025-11-12,63675,UPCOMING,Loomis Chaffee (Conn.),4215,,,Deerfield,4110,,,Independent,Independent,4:00 P.M.,,0
-2025-11-12,63678,UPCOMING,Dana Hall,4102,,,Choate,4090,,,EIL,Independent,3:00 P.M.,,0
-2025-11-12,63680,UPCOMING,BB&N,4028,,,Greenwich Academy (Conn.),4159,,,ISL,Independent,4:00 P.M.,,0
-2025-11-12,63683,UPCOMING,Groton,4544,,,Worcester Academy,4441,,,ISL,Independent,4:00 P.M.,,0
-2025-11-12,63684,UPCOMING,Kingswood-Oxford,4198,,,Suffield Academy,4382,,,Independent,Independent,4:00 P.M.,,0
-2025-11-12,63687,UPCOMING,Greens Farms,4158,,,Rivers,4330,,,Independent,ISL,4:00 P.M.,,0
-2025-11-12,63689,UPCOMING,Greenwich CD (Conn.),5041,,,Dexter Southfield,4113,,,Independent,Independent,4:00 P.M.,,0
-2025-11-12,63690,UPCOMING,Wilbraham & Monson,4545,,,Marianapolis,4567,,,Independent,Independent,3:30 P.M.,,0
-2025-11-12,63691,UPCOMING,Mount St. Charles (R.I.),4488,,,Hamden Hall Country Day,4162,,,Independent,Independent,4:30 P.M.,,0
-2025-11-12,63694,UPCOMING,Montrose,4561,,,Cambridge Weston,4069,,,IGC,IGC,5:15 P.M.,,0
-2025-11-12,63695,UPCOMING,Harvey (N.Y.),4166,,,Beaver Country Day,4030,,,Independent,EIL,2:30 P.M.,,0
-2025-11-12,63697,UPCOMING,Christian Heritage,4641,,,Stoneleigh-Burnham,4585,,,Independent,Independent,4:30 P.M.,,0
-2025-11-12,63700,UPCOMING,Bancroft,4023,,,Newman School,4277,,,EIL,IGC,4:00 P.M.,,0
-2025-11-12,63701,UPCOMING,Covenant Christian,4629,,,Boston Trinity,4542,,,IGC,Independent,4:30 P.M.,,0
-2025-11-12,63702,UPCOMING,Hoosac School,4688,,,Marvelwood,4608,,,Independent,Independent,3:30 P.M.,,0
+2025-11-12,61058,FINAL,Newton North,4279,3,1,Central Catholic,4081,0,0,Bay State,Merrimack Valley,6:00 P.M.,,0
+2025-11-12,61061,FINAL,Franklin,4144,3,1,Newton South,4280,0,0,Hockomock,Dual County,7:15 P.M.,,0
+2025-11-12,61154,FINAL,Longmeadow,4214,0,0,Wayland,4411,3,1,Eastern,Dual County,6:00 P.M.,,0
+2025-11-12,61157,FINAL,Oliver Ames,4302,3,1,King Philip,4197,0,0,Hockomock,Hockomock,6:00 P.M.,,0
+2025-11-12,61274,FINAL,Medfield,4241,1,0,Joseph Case,4078,3,1,Tri-Valley,South Coast,7:15 P.M.,,0
+2025-11-12,61277,FINAL,Bellingham,4033,3,1,Lynnfield,4223,0,0,Tri-Valley,Cape Ann,5:00 P.M.,,0
+2025-11-12,61394,FINAL,East Bridgewater,4126,3,1,Nipmuc,4281,0,0,South Shore,CMAC,6:30 P.M.,,0
+2025-11-12,61397,FINAL,Bourne,4050,3,1,Rockland,4331,1,0,South Coast,South Shore,5:00 P.M.,,0
+2025-11-12,61502,FINAL,Pioneer Valley Christian,4535,1,0,Smith Voc.,4539,3,1,Metro,Metro,5:00 P.M.,,0
+2025-11-12,61505,FINAL,Hopedale,4507,3,1,Lenox,4532,1,0,CMAC,Southern,7:15 P.M.,,0
+2025-11-12,63672,FINAL,King (Conn.),4199,3,1,Winsor,4436,0,0,Independent,EIL,5:30 P.M.,,0
+2025-11-12,63675,FINAL,Loomis Chaffee (Conn.),4215,3,1,Deerfield,4110,1,0,Independent,Independent,4:00 P.M.,,0
+2025-11-12,63678,FINAL,Dana Hall,4102,2,0,Choate,4090,3,1,EIL,Independent,3:00 P.M.,,0
+2025-11-12,63680,FINAL,BB&N,4028,3,1,Greenwich Academy (Conn.),4159,0,0,ISL,Independent,4:00 P.M.,,0
+2025-11-12,63683,FINAL,Groton,4544,3,1,Worcester Academy,4441,1,0,ISL,Independent,4:00 P.M.,,0
+2025-11-12,63684,FINAL,Kingswood-Oxford,4198,3,1,Suffield Academy,4382,0,0,Independent,Independent,4:00 P.M.,,0
+2025-11-12,63687,FINAL,Greens Farms,4158,3,1,Rivers,4330,0,0,Independent,ISL,4:00 P.M.,,0
+2025-11-12,63689,FINAL,Greenwich CD (Conn.),5041,3,1,Dexter Southfield,4113,0,0,Independent,Independent,4:00 P.M.,,0
+2025-11-12,63690,FINAL,Wilbraham & Monson,4545,3,1,Marianapolis,4567,1,0,Independent,Independent,3:30 P.M.,,0
+2025-11-12,63691,FINAL,Mount St. Charles (R.I.),4488,0,0,Hamden Hall Country Day,4162,3,1,Independent,Independent,4:30 P.M.,,0
+2025-11-12,63694,FINAL,Montrose,4561,2,0,Cambridge Weston,4069,3,1,IGC,IGC,5:15 P.M.,,0
+2025-11-12,63695,FINAL,Harvey (N.Y.),4166,3,1,Beaver Country Day,4030,0,0,Independent,EIL,2:30 P.M.,,0
+2025-11-12,63697,FINAL,Christian Heritage,4641,3,1,Stoneleigh-Burnham,4585,0,0,Independent,Independent,4:30 P.M.,,0
+2025-11-12,63700,FINAL,Bancroft,4023,3,1,Newman School,4277,0,0,EIL,IGC,4:00 P.M.,,0
+2025-11-12,63701,FINAL,Covenant Christian,4629,3,1,Boston Trinity,4542,1,0,IGC,Independent,4:30 P.M.,,0
+2025-11-12,63702,FINAL,Hoosac School,4688,3,1,Marvelwood,4608,0,0,Independent,Independent,3:30 P.M.,,0
+2025-11-15,61055,UPCOMING,Newton North,4279,,,Franklin,4144,,,Bay State,Hockomock,8:00 P.M.,,0
+2025-11-15,61151,UPCOMING,Oliver Ames,4302,,,Wayland,4411,,,Hockomock,Dual County,10:00 A.M.,,0
+2025-11-15,61271,UPCOMING,Bellingham,4033,,,Joseph Case,4078,,,Tri-Valley,South Coast,3:00 P.M.,,0
+2025-11-15,61391,UPCOMING,Bourne,4050,,,East Bridgewater,4126,,,South Coast,South Shore,12:30 P.M.,,0
+2025-11-15,61499,UPCOMING,Hopedale,4507,,,Smith Voc.,4539,,,CMAC,Metro,5:30 P.M.,,0

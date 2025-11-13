@@ -1,52 +1,54 @@
 # Field Hockey - 2025 Season
 
-Generated: 2025-11-12 11:15
+Generated: 2025-11-13 11:16
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2025-11-12 | 7:00 P.M. | Franklin | Wellesley | 65.3% | +2.8 |
-| 2025-11-12 | 2:00 P.M. | Williston Northampton | Dexter Southfield | 60.3% | +1.8 |
-| 2025-11-12 | 2:00 P.M. | Middlesex | Berkshire | 63.4% | +2.4 |
-| 2025-11-12 | 3:00 P.M. | Cushing | Suffield Academy | 73.1% | +4.3 |
-| 2025-11-12 | 2:00 P.M. | Rivers | Governor’s Academy | 70.7% | +3.8 |
-| 2025-11-12 | 2:30 P.M. | Phillips Andover | Taft | 71.6% | +4.0 |
-| 2025-11-12 | 2:00 P.M. | Nobles | Hotchkiss | 47.7% | -0.4 |
-| 2025-11-12 | 2:00 P.M. | Greenwich Academy (Conn.) | Tabor | 61.8% | +2.1 |
-| 2025-11-12 | 2:00 P.M. | Deerfield | Sacred Heart (Conn.) | 53.8% | +0.7 |
-| 2025-11-12 | 2:00 P.M. | King (Conn.) | Wheeler (R.I.) | 56.1% | +1.1 |
-| 2025-11-12 | 2:00 P.M. | Portsmouth Abbey | Kents Hill | 57.1% | +1.2 |
-| 2025-11-12 | 2:00 P.M. | New Hampton | Proctor | 57.5% | +1.3 |
-| 2025-11-12 | 7:00 P.M. | Uxbridge | Watertown | 66.7% | +3.0 |
-| 2025-11-12 | 5:00 P.M. | Sandwich | Dover-Sherborn | 77.2% | +5.3 |
-| 2025-11-12 | 5:00 P.M. | Walpole | Winchester | 74.2% | +4.6 |
-| 2025-11-12 | 2:00 P.M. | Frederick Gunn (Conn.) | Pomfret | 54.5% | +0.8 |
-| 2025-11-13 | 5:00 P.M. | Dennis-Yarmouth | Cohasset | 63.2% | +2.3 |
 | 2025-11-13 | 6:00 P.M. | Nashoba | Somerset Berkley | 43.0% | -1.2 |
 | 2025-11-13 | 7:00 P.M. | Hingham | Canton | 58.5% | +1.5 |
+| 2025-11-13 | 5:00 P.M. | Dennis-Yarmouth | Cohasset | 63.2% | +2.3 |
 | 2025-11-13 | 5:00 P.M. | Monomoy | Frontier | 75.0% | +4.8 |
+| 2025-11-15 | TBD | Walpole | Franklin | 64.1% | +2.5 |
+| 2025-11-15 | TBD | Uxbridge | Sandwich | 60.5% | +1.9 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2025-11-12 | Williston Northampton | 2 | Dexter Southfield | 1 | +1.8 | +1.0 |
+| 2025-11-12 | King (Conn.) | 4 | Wheeler (R.I.) | 0 | +1.1 | +4.0 |
+| 2025-11-12 | Franklin | 2 | Wellesley | 0 | +2.8 | +2.0 |
+| 2025-11-12 | Walpole | 6 | Winchester | 1 | +4.6 | +5.0 |
+| 2025-11-12 | Sandwich | 3 | Dover-Sherborn | 0 | +5.3 | +3.0 |
+| 2025-11-12 | Uxbridge | 7 | Watertown | 0 | +3.0 | +7.0 |
+| 2025-11-12 | New Hampton | 2 | Proctor | 0 | +1.3 | +2.0 |
+| 2025-11-12 | Portsmouth Abbey | 9 | Kents Hill | 1 | +1.2 | +8.0 |
+| 2025-11-12 | Frederick Gunn (Conn.) | 3 | Pomfret | 1 | +0.8 | +2.0 |
+| 2025-11-12 | Greenwich Academy (Conn.) | 6 | Tabor | 0 | +2.1 | +6.0 |
+| 2025-11-12 | Deerfield | 0 | Sacred Heart (Conn.) | 2 | +0.7 | -2.0 |
+| 2025-11-12 | Nobles | 2 | Hotchkiss | 0 | -0.4 | +2.0 |
+| 2025-11-12 | Phillips Andover | 4 | Taft | 0 | +4.0 | +4.0 |
+| 2025-11-12 | Rivers | 2 | Governor’s Academy | 1 | +3.8 | +1.0 |
+| 2025-11-12 | Cushing | 2 | Suffield Academy | 1 | +4.3 | +1.0 |
+| 2025-11-12 | Middlesex | 3 | Berkshire | 2 | +2.4 | +1.0 |
 | 2025-11-10 | Franklin | 2 | Hopkinton | 1 | +5.3 | +1.0 |
 | 2025-11-09 | Somerset Berkley | 4 | Longmeadow | 0 | +4.5 | +4.0 |
-| 2025-11-08 | Canton | 2 | King Philip | 1 | +3.0 | +1.0 |
+| 2025-11-08 | Dennis-Yarmouth | 1 | Quabbin | 0 | +4.0 | +1.0 |
+| 2025-11-08 | Sutton | 1 | Frontier | 2 | +3.2 | -1.0 |
+| 2025-11-08 | Wilbraham & Monson | 4 | Marianapolis | 0 | +2.0 | +4.0 |
+| 2025-11-08 | Lincoln-Sudbury | 0 | Winchester | 1 | +1.3 | -1.0 |
 | 2025-11-08 | Worcester Academy | 0 | Cushing | 8 | -2.9 | -8.0 |
 | 2025-11-08 | Tilton | 1 | Austin Prep | 2 | +4.4 | -1.0 |
-| 2025-11-08 | Wilbraham & Monson | 4 | Marianapolis | 0 | +2.0 | +4.0 |
-| 2025-11-08 | St. Paul’s | 1 | Governor’s Academy | 0 | +1.6 | +1.0 |
+| 2025-11-08 | Dover-Sherborn | 3 | East Longmeadow | 1 | +0.8 | +2.0 |
 | 2025-11-08 | Hotchkiss | 2 | Taft | 1 | +0.6 | +1.0 |
+| 2025-11-08 | St. Paul’s | 1 | Governor’s Academy | 0 | +1.6 | +1.0 |
 | 2025-11-08 | Walpole | 5 | Andover | 0 | +2.5 | +5.0 |
-| 2025-11-08 | Lincoln-Sudbury | 0 | Winchester | 1 | +1.3 | -1.0 |
+| 2025-11-08 | Canton | 2 | King Philip | 1 | +3.0 | +1.0 |
 | 2025-11-08 | Nashoba | 3 | Westwood | 0 | +5.0 | +3.0 |
 | 2025-11-08 | Hingham | 4 | Reading | 1 | +3.8 | +3.0 |
 | 2025-11-08 | Medfield | 1 | Watertown | 2 | -2.4 | -1.0 |
-| 2025-11-08 | Dover-Sherborn | 3 | East Longmeadow | 1 | +0.8 | +2.0 |
-| 2025-11-08 | Sutton | 1 | Frontier | 2 | +3.2 | -1.0 |
-| 2025-11-08 | Dennis-Yarmouth | 1 | Quabbin | 0 | +4.0 | +1.0 |
 | 2025-11-07 | Monomoy | 7 | Manchester Essex | 0 | +4.2 | +7.0 |
 | 2025-11-07 | Cohasset | 2 | Hopedale | 0 | +3.8 | +2.0 |
 | 2025-11-07 | Uxbridge | 9 | Scituate | 0 | +6.7 | +9.0 |
@@ -55,53 +57,32 @@ Generated: 2025-11-12 11:15
 | 2025-11-06 | King Philip | 6 | Dartmouth | 2 | +3.9 | +4.0 |
 | 2025-11-06 | Masconomet | 0 | Westwood | 1 | +5.4 | -1.0 |
 | 2025-11-06 | Franklin | 2 | Waltham | 0 | +6.8 | +2.0 |
-| 2025-11-05 | Austin Prep | 2 | Northfield Mt. Hermon | 3 | -2.6 | -1.0 |
-| 2025-11-05 | Taft | 2 | Suffield Academy | 1 | +3.2 | +1.0 |
-| 2025-11-05 | Loomis Chaffee (Conn.) | 1 | Hotchkiss | 2 | -0.2 | -1.0 |
-| 2025-11-05 | Andover | 1 | Acton-Boxborough | 0 | +5.9 | +1.0 |
-| 2025-11-05 | Concord-Carlisle | 3 | Hopkinton | 4 | +2.1 | -1.0 |
-| 2025-11-05 | Lincoln-Sudbury | 3 | Attleboro | 0 | +3.0 | +3.0 |
-| 2025-11-05 | Walpole | 5 | Algonquin | 0 | +6.3 | +5.0 |
-| 2025-11-05 | Newburyport | 2 | Reading | 3 | +2.3 | -1.0 |
-| 2025-11-05 | Canton | 7 | Norwood | 0 | +3.0 | +7.0 |
-| 2025-11-05 | Somerset Berkley | 9 | Doherty | 0 | +2.9 | +9.0 |
-| 2025-11-05 | Nashoba | 7 | Notre Dame (Hingham) | 0 | +2.4 | +7.0 |
-| 2025-11-05 | Hingham | 2 | Milton | 0 | +7.7 | +2.0 |
-| 2025-11-05 | Medfield | 2 | Nauset | 1 | +5.0 | +1.0 |
-| 2025-11-05 | Uxbridge | 9 | Marlborough | 0 | +7.1 | +9.0 |
-| 2025-11-05 | Manchester Essex | 4 | West Bridgewater | 1 | +1.7 | +3.0 |
-| 2025-11-05 | Hopedale | 2 | East Bridgewater | 1 | +2.5 | +1.0 |
-| 2025-11-05 | Frontier | 4 | Seekonk | 0 | +4.8 | +4.0 |
-| 2025-11-05 | Monomoy | 8 | Lunenburg | 0 | +7.4 | +8.0 |
-| 2025-11-05 | Rivers | 3 | Nobles | 1 | +3.2 | +2.0 |
-| 2025-11-05 | Cushing | 5 | Holderness | 0 | +2.1 | +5.0 |
-| 2025-11-05 | Worcester Academy | 1 | St. Mark’s | 7 | +0.3 | -6.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Uxbridge | 1863.7 |
-| 2 | Sandwich | 1850.7 |
-| 3 | Walpole | 1823.0 |
+| 1 | Uxbridge | 1884.5 |
+| 2 | Sandwich | 1860.2 |
+| 3 | Walpole | 1836.9 |
 | 4 | Monomoy | 1808.0 |
 | 5 | Hingham | 1797.2 |
 | 6 | Somerset Berkley | 1793.6 |
-| 7 | Watertown | 1793.0 |
-| 8 | Canton | 1787.3 |
-| 9 | Franklin | 1775.0 |
+| 7 | Canton | 1787.3 |
+| 8 | Franklin | 1786.4 |
+| 9 | Watertown | 1772.3 |
 | 10 | Andover | 1734.7 |
 | 11 | Sutton | 1717.4 |
-| 12 | Wellesley | 1714.9 |
-| 13 | Dennis-Yarmouth | 1712.1 |
-| 14 | Belmont | 1706.5 |
-| 15 | King Philip | 1705.0 |
+| 12 | Dennis-Yarmouth | 1712.1 |
+| 13 | Belmont | 1706.5 |
+| 14 | King Philip | 1705.0 |
+| 15 | Wellesley | 1703.5 |
 | 16 | Newburyport | 1697.7 |
 | 17 | Nashoba | 1694.9 |
-| 18 | Winchester | 1689.4 |
-| 19 | Dover-Sherborn | 1689.0 |
+| 18 | Phillips Andover | 1688.4 |
+| 19 | Dover-Sherborn | 1679.5 |
 | 20 | East Longmeadow | 1675.8 |
-| 21 | Phillips Andover | 1674.7 |
+| 21 | Winchester | 1675.5 |
 | 22 | Reading | 1669.0 |
 | 23 | Norwood | 1668.7 |
 | 24 | Cohasset | 1668.5 |
@@ -122,160 +103,160 @@ Generated: 2025-11-12 11:15
 | 39 | Concord-Carlisle | 1618.3 |
 | 40 | Clinton | 1614.2 |
 | 41 | Bishop Feehan | 1613.7 |
-| 42 | Belchertown | 1608.4 |
-| 43 | Cushing | 1607.7 |
+| 42 | Cushing | 1613.3 |
+| 43 | Belchertown | 1608.4 |
 | 44 | Hopkinton | 1604.3 |
 | 45 | Marlborough | 1596.4 |
-| 46 | Notre Dame (Hingham) | 1592.6 |
-| 47 | Natick | 1592.3 |
-| 48 | Durfee | 1592.1 |
-| 49 | Beverly | 1591.2 |
-| 50 | Rivers | 1589.9 |
+| 46 | Rivers | 1596.0 |
+| 47 | Notre Dame (Hingham) | 1592.6 |
+| 48 | Natick | 1592.3 |
+| 49 | Durfee | 1592.1 |
+| 50 | Beverly | 1591.2 |
 | 51 | Quabbin | 1589.6 |
 | 52 | Auburn | 1588.6 |
-| 53 | Maynard | 1586.6 |
-| 54 | Hanover | 1583.1 |
-| 55 | Attleboro | 1581.9 |
-| 56 | Algonquin | 1581.6 |
-| 57 | Gloucester | 1580.1 |
-| 58 | Dartmouth | 1579.5 |
-| 59 | Westborough | 1576.2 |
-| 60 | St. John Paul II | 1574.6 |
-| 61 | Blackstone Valley | 1572.7 |
-| 62 | Old Rochester | 1571.0 |
-| 63 | Duxbury | 1569.4 |
-| 64 | Chelmsford | 1566.1 |
-| 65 | North Reading | 1565.5 |
-| 66 | Greenwich Academy (Conn.) | 1565.5 |
-| 67 | Taft | 1564.0 |
-| 68 | Ipswich | 1562.5 |
+| 53 | Greenwich Academy (Conn.) | 1587.7 |
+| 54 | Maynard | 1586.6 |
+| 55 | Hanover | 1583.1 |
+| 56 | Attleboro | 1581.9 |
+| 57 | Algonquin | 1581.6 |
+| 58 | Gloucester | 1580.1 |
+| 59 | Dartmouth | 1579.5 |
+| 60 | Westborough | 1576.2 |
+| 61 | St. John Paul II | 1574.6 |
+| 62 | Blackstone Valley | 1572.7 |
+| 63 | Old Rochester | 1571.0 |
+| 64 | Duxbury | 1569.4 |
+| 65 | Chelmsford | 1566.1 |
+| 66 | North Reading | 1565.5 |
+| 67 | Ipswich | 1562.5 |
+| 68 | Williston Northampton | 1561.5 |
 | 69 | Foxborough | 1560.4 |
 | 70 | Greenfield | 1560.1 |
 | 71 | Acton-Boxborough | 1559.2 |
 | 72 | Medway | 1558.4 |
-| 73 | Hotchkiss | 1555.8 |
-| 74 | Williston Northampton | 1553.3 |
-| 75 | Westport | 1549.6 |
-| 76 | Hopedale | 1545.3 |
-| 77 | Greens Farms | 1543.7 |
-| 78 | Dedham | 1543.6 |
+| 73 | Taft | 1550.3 |
+| 74 | Westport | 1549.6 |
+| 75 | Hopedale | 1545.3 |
+| 76 | Greens Farms | 1543.7 |
+| 77 | Dedham | 1543.6 |
+| 78 | Hotchkiss | 1538.5 |
 | 79 | Narragansett | 1537.8 |
 | 80 | Westfield | 1537.8 |
 | 81 | Lowell | 1537.5 |
 | 82 | Central Catholic | 1536.2 |
 | 83 | Waltham | 1535.8 |
 | 84 | Pingree | 1531.7 |
-| 85 | Tabor | 1531.6 |
-| 86 | St. Paul | 1530.9 |
-| 87 | Dexter Southfield | 1530.9 |
-| 88 | Rocky Hill Country Day | 1530.3 |
-| 89 | Moses Brown (R.I.) | 1529.6 |
-| 90 | Quaboag | 1527.4 |
-| 91 | Agawam | 1526.7 |
-| 92 | Northbridge | 1526.6 |
-| 93 | North Middlesex | 1526.4 |
-| 94 | Lunenburg | 1525.6 |
-| 95 | Westwood | 1524.7 |
+| 85 | St. Paul | 1530.9 |
+| 86 | Rocky Hill Country Day | 1530.3 |
+| 87 | Portsmouth Abbey | 1529.9 |
+| 88 | Moses Brown (R.I.) | 1529.6 |
+| 89 | Quaboag | 1527.4 |
+| 90 | Agawam | 1526.7 |
+| 91 | Northbridge | 1526.6 |
+| 92 | North Middlesex | 1526.4 |
+| 93 | Lunenburg | 1525.6 |
+| 94 | Westwood | 1524.7 |
+| 95 | Middlesex | 1523.7 |
 | 96 | Southwick | 1522.8 |
-| 97 | Newton Country Day | 1522.3 |
-| 98 | BB&N | 1521.8 |
-| 99 | Wachusett | 1521.0 |
-| 100 | Milton | 1519.2 |
-| 101 | St. Mark’s | 1518.1 |
-| 102 | Lawrence Academy | 1517.3 |
-| 103 | St. Paul’s | 1516.5 |
-| 104 | Middlesex | 1516.1 |
-| 105 | Glastonbury (Conn.) | 1515.8 |
-| 106 | Kimball Union | 1515.5 |
-| 107 | Brookline | 1514.7 |
-| 108 | Weston | 1512.5 |
-| 109 | Holderness | 1511.9 |
-| 110 | Phillips Exeter | 1511.7 |
-| 111 | South Hadley | 1511.0 |
-| 112 | Smith Academy | 1510.6 |
-| 113 | Lexington | 1509.5 |
-| 114 | Pomfret | 1509.1 |
-| 115 | Concord Academy | 1508.3 |
-| 116 | Tyngsborough | 1507.2 |
-| 117 | Tyngsborough/Dracut | 1507.1 |
-| 118 | Amherst-Pelham | 1504.0 |
-| 119 | Methuen | 1503.7 |
-| 120 | Lawrence | 1503.2 |
-| 121 | Groton-Dunstable | 1502.6 |
-| 122 | Franklin County Tech | 1502.3 |
-| 123 | New Hampton | 1501.9 |
-| 124 | Hamden Hall Country Day | 1501.7 |
-| 125 | Kent | 1501.7 |
-| 126 | St. Luke’s | 1501.7 |
-| 127 | Hopkins (Conn.) | 1501.7 |
-| 128 | Portsmouth Abbey | 1501.7 |
-| 129 | Kingswood-Oxford | 1501.7 |
-| 130 | Kents Hill | 1501.7 |
-| 131 | Wheeler (R.I.) | 1501.7 |
-| 132 | Milton Academy | 1500.8 |
-| 133 | Monty Tech | 1499.6 |
-| 134 | Proctor | 1499.6 |
+| 97 | Dexter Southfield | 1522.7 |
+| 98 | Newton Country Day | 1522.3 |
+| 99 | BB&N | 1521.8 |
+| 100 | Wachusett | 1521.0 |
+| 101 | Milton | 1519.2 |
+| 102 | St. Mark’s | 1518.1 |
+| 103 | Lawrence Academy | 1517.3 |
+| 104 | St. Paul’s | 1516.5 |
+| 105 | New Hampton | 1515.9 |
+| 106 | Glastonbury (Conn.) | 1515.8 |
+| 107 | Kimball Union | 1515.5 |
+| 108 | King (Conn.) | 1515.1 |
+| 109 | Brookline | 1514.7 |
+| 110 | Sacred Heart (Conn.) | 1513.4 |
+| 111 | Weston | 1512.5 |
+| 112 | Holderness | 1511.9 |
+| 113 | Phillips Exeter | 1511.7 |
+| 114 | South Hadley | 1511.0 |
+| 115 | Smith Academy | 1510.6 |
+| 116 | Lexington | 1509.5 |
+| 117 | Tabor | 1509.3 |
+| 118 | Concord Academy | 1508.3 |
+| 119 | Tyngsborough | 1507.2 |
+| 120 | Tyngsborough/Dracut | 1507.1 |
+| 121 | Nobles | 1506.8 |
+| 122 | Frederick Gunn (Conn.) | 1505.4 |
+| 123 | Amherst-Pelham | 1504.0 |
+| 124 | Methuen | 1503.7 |
+| 125 | Lawrence | 1503.2 |
+| 126 | Groton-Dunstable | 1502.6 |
+| 127 | Franklin County Tech | 1502.3 |
+| 128 | Kingswood-Oxford | 1501.7 |
+| 129 | St. Luke’s | 1501.7 |
+| 130 | Hamden Hall Country Day | 1501.7 |
+| 131 | Hopkins (Conn.) | 1501.7 |
+| 132 | Kent | 1501.7 |
+| 133 | Milton Academy | 1500.8 |
+| 134 | Monty Tech | 1499.6 |
 | 135 | Oliver Ames | 1498.2 |
 | 136 | Beaver Country Day | 1497.1 |
-| 137 | Sacred Heart (Conn.) | 1495.7 |
-| 138 | Bromfield | 1495.2 |
-| 139 | Wilbraham & Monson | 1495.0 |
-| 140 | North Andover | 1494.9 |
-| 141 | Notre Dame (Worcester) | 1494.2 |
+| 137 | Bromfield | 1495.2 |
+| 138 | Wilbraham & Monson | 1495.0 |
+| 139 | North Andover | 1494.9 |
+| 140 | Notre Dame (Worcester) | 1494.2 |
+| 141 | Pomfret | 1494.1 |
 | 142 | Northfield Mt. Hermon | 1494.0 |
-| 143 | King (Conn.) | 1493.9 |
-| 144 | Newman School | 1491.3 |
-| 145 | Minnechaug | 1490.7 |
-| 146 | Frederick Gunn (Conn.) | 1490.5 |
-| 147 | Berwick | 1489.9 |
-| 148 | Ethel Walker | 1489.8 |
-| 149 | Nobles | 1489.5 |
-| 150 | East Bridgewater | 1488.6 |
-| 151 | Seekonk | 1488.4 |
-| 152 | Hall (Conn.) | 1488.2 |
-| 153 | Oakmont | 1487.8 |
-| 154 | Triton | 1487.5 |
-| 155 | Simsbury (Conn.) | 1487.4 |
-| 156 | Winsor | 1487.3 |
-| 157 | Governor’s Academy | 1487.2 |
-| 158 | Pentucket | 1487.1 |
-| 159 | Westminster | 1487.0 |
-| 160 | North Attleborough | 1486.0 |
-| 161 | Dana Hall | 1485.7 |
-| 162 | Hudson | 1485.7 |
-| 163 | New Bedford | 1485.5 |
-| 164 | St. Bernard’s | 1484.8 |
-| 165 | Essex Tech | 1484.0 |
-| 166 | Suffield Academy | 1484.0 |
-| 167 | Norwell | 1482.7 |
-| 168 | Greenwich CD (Conn.) | 1481.9 |
-| 169 | Nauset | 1481.9 |
-| 170 | Silver Lake | 1480.9 |
-| 171 | Brooks | 1480.0 |
-| 172 | Shepherd Hill | 1479.8 |
-| 173 | Swampscott | 1479.1 |
-| 174 | Joseph Case | 1479.1 |
-| 175 | St. George’s | 1478.6 |
-| 176 | Nipmuc | 1478.5 |
-| 177 | Tahanto | 1475.3 |
-| 178 | Groton | 1474.8 |
-| 179 | Choate | 1474.1 |
+| 143 | Newman School | 1491.3 |
+| 144 | Minnechaug | 1490.7 |
+| 145 | Berwick | 1489.9 |
+| 146 | Ethel Walker | 1489.8 |
+| 147 | East Bridgewater | 1488.6 |
+| 148 | Seekonk | 1488.4 |
+| 149 | Hall (Conn.) | 1488.2 |
+| 150 | Oakmont | 1487.8 |
+| 151 | Triton | 1487.5 |
+| 152 | Simsbury (Conn.) | 1487.4 |
+| 153 | Winsor | 1487.3 |
+| 154 | Pentucket | 1487.1 |
+| 155 | Westminster | 1487.0 |
+| 156 | North Attleborough | 1486.0 |
+| 157 | Dana Hall | 1485.7 |
+| 158 | Hudson | 1485.7 |
+| 159 | Proctor | 1485.6 |
+| 160 | New Bedford | 1485.5 |
+| 161 | St. Bernard’s | 1484.8 |
+| 162 | Essex Tech | 1484.0 |
+| 163 | Norwell | 1482.7 |
+| 164 | Greenwich CD (Conn.) | 1481.9 |
+| 165 | Nauset | 1481.9 |
+| 166 | Governor’s Academy | 1481.1 |
+| 167 | Silver Lake | 1480.9 |
+| 168 | Wheeler (R.I.) | 1480.4 |
+| 169 | Brooks | 1480.0 |
+| 170 | Shepherd Hill | 1479.8 |
+| 171 | Swampscott | 1479.1 |
+| 172 | Joseph Case | 1479.1 |
+| 173 | St. George’s | 1478.6 |
+| 174 | Nipmuc | 1478.5 |
+| 175 | Suffield Academy | 1478.4 |
+| 176 | Tahanto | 1475.3 |
+| 177 | Groton | 1474.8 |
+| 178 | Choate | 1474.1 |
+| 179 | Kents Hill | 1473.4 |
 | 180 | Miss Porter’s | 1473.1 |
 | 181 | Turners Falls | 1472.6 |
-| 182 | Deerfield | 1471.9 |
-| 183 | Berkshire | 1470.9 |
-| 184 | Plymouth South | 1469.8 |
-| 185 | Thayer | 1469.2 |
-| 186 | Loomis Chaffee (Conn.) | 1467.5 |
-| 187 | Arlington | 1465.7 |
-| 188 | Marshfield | 1464.3 |
-| 189 | Hamilton-Wenham | 1463.7 |
-| 190 | Canterbury | 1463.2 |
-| 191 | Brewster Academy | 1460.1 |
-| 192 | Bishop Stang | 1458.0 |
-| 193 | Grafton | 1457.6 |
-| 194 | Newton North | 1456.4 |
-| 195 | Worcester South | 1455.8 |
+| 182 | Plymouth South | 1469.8 |
+| 183 | Thayer | 1469.2 |
+| 184 | Loomis Chaffee (Conn.) | 1467.5 |
+| 185 | Arlington | 1465.7 |
+| 186 | Marshfield | 1464.3 |
+| 187 | Hamilton-Wenham | 1463.7 |
+| 188 | Berkshire | 1463.3 |
+| 189 | Canterbury | 1463.2 |
+| 190 | Brewster Academy | 1460.1 |
+| 191 | Bishop Stang | 1458.0 |
+| 192 | Grafton | 1457.6 |
+| 193 | Newton North | 1456.4 |
+| 194 | Worcester South | 1455.8 |
+| 195 | Deerfield | 1454.1 |
 | 196 | North Brookfield | 1453.4 |
 | 197 | Ursuline | 1453.2 |
 | 198 | Everett | 1449.8 |

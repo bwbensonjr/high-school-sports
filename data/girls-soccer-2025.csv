@@ -1637,30 +1637,30 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-10,62820,FINAL,Douglas,4506,0,0,Georgetown,4148,1,1,CMAC,Cape Ann,6:00 P.M.,,0
 2025-11-10,62955,FINAL,Monson,4429,7,1,Holbrook,4172,0,0,Central,Mayflower,2:00 P.M.,,0
 2025-11-10,62958,FINAL,Hull,4184,6,1,Boston Collegiate,4592,0,0,South Shore,Charter School Athletic,5:00 P.M.,,0
-2025-11-12,62544,UPCOMING,Masconomet,4236,,,Hingham,4171,,,Northeastern,Patriot,6:30 P.M.,,0
-2025-11-12,62553,UPCOMING,Duxbury,4123,,,East Longmeadow,4127,,,Patriot,Coombs,6:30 P.M.,,0
-2025-11-12,62673,UPCOMING,Norwell,4296,,,Auburn,4019,,,South Shore,CMAC,4:00 P.M.,,0
-2025-11-12,62790,UPCOMING,Hamilton-Wenham,4163,,,Cohasset,4094,,,Cape Ann,South Shore,5:30 P.M.,,0
-2025-11-12,62793,UPCOMING,Southwick,4519,,,Georgetown,4148,,,Central,Cape Ann,6:00 P.M.,,0
-2025-11-12,62799,UPCOMING,Sutton,4512,,,Lunenburg,4219,,,CMAC,Mid-Wach,6:00 P.M.,,0
-2025-11-12,62937,UPCOMING,Hull,4184,,,Nashoba Valley Tech,4268,,,South Shore,Commonwealth,5:30 P.M.,,0
-2025-11-12,62940,UPCOMING,Granby,4520,,,Rising Tide Charter,4746,,,Central,Cape & Islands,5:00 P.M.,,0
-2025-11-12,63640,UPCOMING,Loomis Chaffee (Conn.),4215,,,BB&N,4028,,,Independent,ISL,3:00 P.M.,,0
-2025-11-12,63642,UPCOMING,Westminster,4422,,,Milton Academy,4253,,,Founders,ISL,2:00 P.M.,,0
-2025-11-12,63644,UPCOMING,Choate,4090,,,Worcester Academy,4441,,,Independent,Independent,2:00 P.M.,,0
-2025-11-12,63647,UPCOMING,Miss Porter’s,4257,,,Austin Prep,4020,,,Independent,Independent,2:00 P.M.,,0
-2025-11-12,63648,UPCOMING,Dexter Southfield,4113,,,Berkshire,4036,,,Independent,Independent,2:30 P.M.,,0
-2025-11-12,63650,UPCOMING,Pingree,4312,,,Williston Northampton,4431,,,EIL,Independent,3:45 P.M.,,0
-2025-11-12,63652,UPCOMING,Lawrence Academy,4204,,,St. George’s,4367,,,ISL,ISL,2:00 P.M.,,0
-2025-11-12,63655,UPCOMING,Ethel Walker,4131,,,Brooks,4060,,,Independent,ISL,2:00 P.M.,,0
-2025-11-12,63658,UPCOMING,Greens Farms,4158,,,Berwick,4037,,,Independent,EIL,2:00 P.M.,,0
-2025-11-12,63660,UPCOMING,New Hampton,4275,,,Newton Country Day,4278,,,Independent,EIL,4:00 P.M.,,0
-2025-11-12,63663,UPCOMING,Portsmouth Abbey,4320,,,Masters (N.Y.),4768,,,EIL,Independent,2:00 P.M.,,0
-2025-11-12,63664,UPCOMING,Brewster Academy,4052,,,Holderness,4173,,,Independent,Independent,2:00 P.M.,,0
-2025-11-12,63665,UPCOMING,St. Thomas More,4379,,,Christian Heritage,4641,,,Independent,Independent,2:00 P.M.,,0
-2025-11-12,63666,UPCOMING,Vermont Academy,4399,,,Darrow,4104,,,Independent,Independent,2:05 P.M.,,0
-2025-11-12,63669,UPCOMING,Bancroft,4023,,,Kents Hill,4194,,,EIL,Independent,2:00 P.M.,,0
-2025-11-12,63671,UPCOMING,Tilton,4391,,,Landmark,4200,,,Independent,IGC,2:00 P.M.,,0
+2025-11-12,62544,FINAL,Masconomet,4236,1,1,Hingham,4171,0,0,Northeastern,Patriot,6:30 P.M.,,0
+2025-11-12,62553,FINAL,Duxbury,4123,6,1,East Longmeadow,4127,0,0,Patriot,Coombs,6:30 P.M.,,0
+2025-11-12,62673,FINAL,Norwell,4296,8,1,Auburn,4019,0,0,South Shore,CMAC,4:00 P.M.,,0
+2025-11-12,62790,FINAL,Hamilton-Wenham,4163,0,0,Cohasset,4094,2,1,Cape Ann,South Shore,5:30 P.M.,,0
+2025-11-12,62793,FINAL,Southwick,4519,4,1,Georgetown,4148,0,0,Central,Cape Ann,7:30 P.M.,,0
+2025-11-12,62799,FINAL,Sutton,4512,4,1,Lunenburg,4219,0,0,CMAC,Mid-Wach,6:00 P.M.,,0
+2025-11-12,62937,FINAL,Hull,4184,6,1,Nashoba Valley Tech,4268,2,0,South Shore,Commonwealth,5:30 P.M.,,0
+2025-11-12,62940,FINAL,Granby,4520,3,1,Rising Tide Charter,4746,0,0,Central,Cape & Islands,5:00 P.M.,,0
+2025-11-12,63640,FINAL,Loomis Chaffee (Conn.),4215,2,0,BB&N,4028,3,1,Independent,ISL,3:00 P.M.,1.0,0
+2025-11-12,63642,FINAL,Westminster,4422,1,1,Milton Academy,4253,0,0,Founders,ISL,2:00 P.M.,1.0,0
+2025-11-12,63644,FINAL,Choate,4090,0,0,Worcester Academy,4441,1,1,Independent,Independent,2:00 P.M.,,0
+2025-11-12,63647,FINAL,Miss Porter’s,4257,4,1,Austin Prep,4020,0,0,Independent,Independent,2:00 P.M.,,0
+2025-11-12,63648,FINAL,Dexter Southfield,4113,6,1,Berkshire,4036,1,0,Independent,Independent,2:30 P.M.,,0
+2025-11-12,63650,FINAL,Pingree,4312,2,0,Williston Northampton,4431,3,1,EIL,Independent,3:45 P.M.,,0
+2025-11-12,63652,FINAL,Lawrence Academy,4204,1,0,St. George’s,4367,2,1,ISL,ISL,2:00 P.M.,,1
+2025-11-12,63655,FINAL,Ethel Walker,4131,0,0,Brooks,4060,6,1,Independent,ISL,2:00 P.M.,,0
+2025-11-12,63658,FINAL,Greens Farms,4158,4,1,Berwick,4037,1,0,Independent,EIL,2:00 P.M.,,0
+2025-11-12,63660,FINAL,New Hampton,4275,1,1,Newton Country Day,4278,0,0,Independent,EIL,4:00 P.M.,1.0,0
+2025-11-12,63663,FINAL,Portsmouth Abbey,4320,2,1,Masters (N.Y.),4768,1,0,EIL,Independent,2:00 P.M.,1.0,0
+2025-11-12,63664,FINAL,Brewster Academy,4052,1,1,Holderness,4173,0,0,Independent,Independent,2:00 P.M.,,1
+2025-11-12,63665,FINAL,St. Thomas More,4379,6,1,Christian Heritage,4641,0,0,Independent,Independent,2:00 P.M.,,0
+2025-11-12,63666,FINAL,Vermont Academy,4399,3,1,Darrow,4104,0,0,Independent,Independent,2:05 P.M.,,0
+2025-11-12,63669,FINAL,Bancroft,4023,3,0,Kents Hill,4194,4,1,EIL,Independent,2:00 P.M.,1.0,0
+2025-11-12,63671,FINAL,Tilton,4391,2,1,Landmark,4200,0,0,Independent,IGC,2:00 P.M.,,0
 2025-11-13,62430,UPCOMING,Natick,4270,,,Braintree,4051,,,Bay State,Bay State,5:00 P.M.,,0
 2025-11-13,62433,UPCOMING,Bishop Feehan,4042,,,Concord-Carlisle,4097,,,Catholic Central,Dual County,6:00 P.M.,,0
 2025-11-13,62436,UPCOMING,Franklin,4144,,,Hopkinton,4180,,,Hockomock,Tri-Valley,6:00 P.M.,,0

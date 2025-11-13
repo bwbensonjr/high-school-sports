@@ -1598,30 +1598,30 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-10,61968,FINAL,Northampton,4291,4,1,Mansfield,4230,2,0,Churchill,Hockomock,5:00 P.M.,,0
 2025-11-10,62064,FINAL,East Bridgewater,4126,2,1,Weston,4423,1,0,South Shore,Dual County,5:00 P.M.,1.0,0
 2025-11-10,62076,FINAL,Greater New Bedford,4156,4,1,Watertown,4409,2,0,South Coast,Middlesex,6:00 P.M.,,0
-2025-11-12,61824,UPCOMING,St. John’s Prep,4369,,,Cambridge,4067,,,Catholic Conference,Dual County,6:00 P.M.,,0
-2025-11-12,61938,UPCOMING,Duxbury,4123,,,Holliston,4174,,,Patriot,Tri-Valley,4:00 P.M.,,0
-2025-11-12,62055,UPCOMING,Norwell,4296,,,Old Rochester,4301,,,South Shore,South Coast,6:15 P.M.,,0
-2025-11-12,62169,UPCOMING,Ayer Shirley,4022,,,Rockland,4331,,,Mid-Wach,South Shore,6:30 P.M.,,0
-2025-11-12,62172,UPCOMING,Bromfield,4505,,,Abington,4002,,,Mid-Wach,South Shore,4:00 P.M.,,0
-2025-11-12,62175,UPCOMING,Westport,4461,,,Gardner,4147,,,Mayflower,Mid-Wach,2:00 P.M.,,0
-2025-11-12,62178,UPCOMING,Northbridge,4292,,,Cohasset,4094,,,CMAC,South Shore,7:00 P.M.,,0
-2025-11-12,62322,UPCOMING,Boston International,4547,,,Pioneer Charter I,4701,,,Boston City,Charter School Athletic,4:00 P.M.,,0
-2025-11-12,63608,UPCOMING,Taft,4386,,,Milton Academy,4253,,,Independent,ISL,2:30 P.M.,,0
-2025-11-12,63610,UPCOMING,Avon Old Farms,4021,,,Choate,4090,,,Founders,Independent,2:00 P.M.,,0
-2025-11-12,63612,UPCOMING,Northfield Mt. Hermon,4294,,,Loomis Chaffee (Conn.),4215,,,Independent,Independent,2:00 P.M.,,0
-2025-11-12,63613,UPCOMING,Nobles,4282,,,Belmont Hill,4035,,,ISL,ISL,2:00 P.M.,,0
-2025-11-12,63615,UPCOMING,Mount St. Charles (R.I.),4488,,,Rivers,4330,,,Independent,ISL,5:00 P.M.,,0
-2025-11-12,63618,UPCOMING,St. George’s,4367,,,Suffield Academy,4382,,,ISL,Independent,2:00 P.M.,,0
-2025-11-12,63620,UPCOMING,Williston Northampton,4431,,,Middlesex,4248,,,Independent,ISL,2:00 P.M.,,0
-2025-11-12,63621,UPCOMING,Brooks,4060,,,Vermont Academy,4399,,,ISL,Independent,2:00 P.M.,,0
-2025-11-12,63622,UPCOMING,Greens Farms,4158,,,Harvey (N.Y.),4166,,,Independent,Independent,1:30 P.M.,,0
-2025-11-12,63625,UPCOMING,Millbrook (N.Y.),4616,,,Concord Academy,4096,,,Independent,EIL,2:00 P.M.,,0
-2025-11-12,63627,UPCOMING,Berwick,4037,,,Portsmouth Abbey,4320,,,EIL,EIL,2:00 P.M.,,0
-2025-11-12,63630,UPCOMING,Wheeler (R.I.),4426,,,St. Andrew’s,4364,,,EIL,Independent,4:30 P.M.,,0
-2025-11-12,63632,UPCOMING,Gann Academy,4541,,,Christian Heritage,4641,,,MBIL,Independent,2:00 P.M.,,0
-2025-11-12,63634,UPCOMING,Lexington Christian,4210,,,Newman School,4277,,,EIL,MBIL,2:30 P.M.,,0
-2025-11-12,63637,UPCOMING,Brimmer & May,4056,,,MacDuffie,4224,,,MBIL,Independent,3:15 P.M.,,0
-2025-11-12,63639,UPCOMING,Hyde,4186,,,Landmark,4200,,,Independent,MBIL,2:00 P.M.,,0
+2025-11-12,61824,FINAL,St. John’s Prep,4369,4,1,Cambridge,4067,1,0,Catholic Conference,Dual County,6:00 P.M.,,0
+2025-11-12,61938,FINAL,Duxbury,4123,4,1,Holliston,4174,0,0,Patriot,Tri-Valley,4:00 P.M.,,0
+2025-11-12,62055,FINAL,Norwell,4296,2,1,Old Rochester,4301,1,0,South Shore,South Coast,6:15 P.M.,1.0,0
+2025-11-12,62169,FINAL,Ayer Shirley,4022,1,0,Rockland,4331,2,1,Mid-Wach,South Shore,6:30 P.M.,2.0,0
+2025-11-12,62172,FINAL,Bromfield,4505,1,1,Abington,4002,0,0,Mid-Wach,South Shore,4:00 P.M.,,0
+2025-11-12,62175,FINAL,Westport,4461,2,1,Gardner,4147,1,0,Mayflower,Mid-Wach,2:00 P.M.,,0
+2025-11-12,62178,FINAL,Northbridge,4292,3,1,Cohasset,4094,1,0,CMAC,South Shore,7:00 P.M.,,0
+2025-11-12,62322,FINAL,Boston International,4547,6,1,Pioneer Charter I,4701,1,0,Boston City,Charter School Athletic,4:00 P.M.,,0
+2025-11-12,63608,FINAL,Taft,4386,3,1,Milton Academy,4253,2,0,Independent,ISL,2:30 P.M.,,0
+2025-11-12,63610,FINAL,Avon Old Farms,4021,0,0,Choate,4090,1,1,Founders,Independent,2:00 P.M.,,0
+2025-11-12,63612,FINAL,Northfield Mt. Hermon,4294,1,1,Loomis Chaffee (Conn.),4215,0,0,Independent,Independent,2:00 P.M.,,0
+2025-11-12,63613,FINAL,Nobles,4282,3,1,Belmont Hill,4035,2,0,ISL,ISL,2:00 P.M.,,0
+2025-11-12,63615,FINAL,Mount St. Charles (R.I.),4488,4,1,Rivers,4330,0,0,Independent,ISL,5:00 P.M.,,0
+2025-11-12,63618,FINAL,St. George’s,4367,0,0,Suffield Academy,4382,1,1,ISL,Independent,2:00 P.M.,,0
+2025-11-12,63620,FINAL,Williston Northampton,4431,2,1,Middlesex,4248,1,0,Independent,ISL,2:00 P.M.,,0
+2025-11-12,63621,FINAL,Brooks,4060,2,0,Vermont Academy,4399,3,1,ISL,Independent,2:00 P.M.,2.0,0
+2025-11-12,63622,FINAL,Greens Farms,4158,5,1,Harvey (N.Y.),4166,0,0,Independent,Independent,1:30 P.M.,,0
+2025-11-12,63625,FINAL,Millbrook (N.Y.),4616,3,1,Concord Academy,4096,0,0,Independent,EIL,2:00 P.M.,,0
+2025-11-12,63627,FINAL,Berwick,4037,3,1,Portsmouth Abbey,4320,2,0,EIL,EIL,2:00 P.M.,,1
+2025-11-12,63630,FINAL,Wheeler (R.I.),4426,6,1,St. Andrew’s,4364,2,0,EIL,Independent,4:30 P.M.,,0
+2025-11-12,63632,FINAL,Gann Academy,4541,3,1,Christian Heritage,4641,0,0,MBIL,Independent,2:00 P.M.,,0
+2025-11-12,63634,FINAL,Lexington Christian,4210,3,1,Newman School,4277,2,0,EIL,MBIL,2:30 P.M.,,0
+2025-11-12,63637,FINAL,Brimmer & May,4056,0,0,MacDuffie,4224,1,1,MBIL,Independent,3:15 P.M.,,0
+2025-11-12,63639,FINAL,Hyde,4186,6,1,Landmark,4200,0,0,Independent,MBIL,2:00 P.M.,,0
 2025-11-13,61818,UPCOMING,Natick,4270,,,BC High,4029,,,Bay State,Catholic Conference,7:00 P.M.,,0
 2025-11-13,61941,UPCOMING,Northampton,4291,,,Agawam,4004,,,Churchill,Churchill,7:00 P.M.,,0
 2025-11-13,61944,UPCOMING,Longmeadow,4214,,,West Springfield,4417,,,Smith,Smith,7:00 P.M.,,0
