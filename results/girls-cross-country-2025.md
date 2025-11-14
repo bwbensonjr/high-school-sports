@@ -1,6 +1,6 @@
 # Girls Cross Country - 2025 Season
 
-Generated: 2025-11-13 11:16
+Generated: 2025-11-13 19:00
 
 ## Upcoming Games
 
@@ -95,8 +95,8 @@ Generated: 2025-11-13 11:16
 | 77 | Douglas | 1542.8 |
 | 78 | Sizer | 1541.5 |
 | 79 | North Attleborough | 1540.6 |
-| 80 | South Lancaster | 1540.3 |
-| 81 | Maynard | 1540.3 |
+| 80 | Maynard | 1540.3 |
+| 81 | South Lancaster | 1540.3 |
 | 82 | Shawsheen | 1539.2 |
 | 83 | Tahanto | 1539.1 |
 | 84 | Millis | 1538.7 |
@@ -104,8 +104,8 @@ Generated: 2025-11-13 11:16
 | 86 | Agawam | 1535.7 |
 | 87 | Masconomet | 1534.9 |
 | 88 | Norfolk Aggie | 1533.3 |
-| 89 | Hudson | 1532.5 |
-| 90 | Renaissance | 1532.5 |
+| 89 | Renaissance | 1532.5 |
+| 90 | Hudson | 1532.5 |
 | 91 | Sturgis West | 1531.6 |
 | 92 | North Reading | 1531.2 |
 | 93 | Natick | 1531.0 |
@@ -117,8 +117,8 @@ Generated: 2025-11-13 11:16
 | 99 | Blackstone-Millville | 1526.5 |
 | 100 | Abington | 1523.7 |
 | 101 | Southeastern | 1521.9 |
-| 102 | Brooks | 1521.5 |
-| 103 | Groton-Dunstable | 1521.5 |
+| 102 | Groton-Dunstable | 1521.5 |
+| 103 | Brooks | 1521.5 |
 | 104 | West Bridgewater | 1521.4 |
 | 105 | Rivers | 1519.6 |
 | 106 | Chicopee Comprehensive | 1519.6 |
@@ -136,21 +136,21 @@ Generated: 2025-11-13 11:16
 | 118 | East Longmeadow | 1507.1 |
 | 119 | Holbrook/Avon | 1506.7 |
 | 120 | Westfield Tech | 1503.8 |
-| 121 | Amherst-Pelham | 1501.7 |
-| 122 | Wachusett | 1501.7 |
-| 123 | Minnechaug | 1501.7 |
-| 124 | Longmeadow | 1501.7 |
-| 125 | Greater Lowell | 1501.7 |
-| 126 | Greater Lawrence | 1501.7 |
-| 127 | Bedford | 1501.7 |
-| 128 | Notre Dame (Worcester) | 1501.7 |
-| 129 | Notre Dame (Tyngsborough) | 1501.7 |
-| 130 | Saugus | 1501.7 |
-| 131 | Cape Cod Tech | 1501.7 |
-| 132 | Boston Latin | 1501.7 |
-| 133 | Westfield | 1501.7 |
-| 134 | Waltham | 1501.7 |
-| 135 | Bridgewater-Raynham | 1501.7 |
+| 121 | Saugus | 1501.7 |
+| 122 | Minnechaug | 1501.7 |
+| 123 | Greater Lawrence | 1501.7 |
+| 124 | Cape Cod Tech | 1501.7 |
+| 125 | Wachusett | 1501.7 |
+| 126 | Amherst-Pelham | 1501.7 |
+| 127 | Longmeadow | 1501.7 |
+| 128 | Boston Latin | 1501.7 |
+| 129 | Bedford | 1501.7 |
+| 130 | Notre Dame (Tyngsborough) | 1501.7 |
+| 131 | Westfield | 1501.7 |
+| 132 | Greater Lowell | 1501.7 |
+| 133 | Notre Dame (Worcester) | 1501.7 |
+| 134 | Bridgewater-Raynham | 1501.7 |
+| 135 | Waltham | 1501.7 |
 | 136 | Concord-Carlisle | 1499.6 |
 | 137 | Lexington Christian | 1498.2 |
 | 138 | Winthrop | 1497.4 |
@@ -191,8 +191,8 @@ Generated: 2025-11-13 11:16
 | 173 | Sutton | 1465.4 |
 | 174 | South Shore Voc-Tech | 1464.2 |
 | 175 | Amesbury | 1463.2 |
-| 176 | Ayer Shirley | 1463.0 |
-| 177 | Clinton | 1463.0 |
+| 176 | Clinton | 1463.0 |
+| 177 | Ayer Shirley | 1463.0 |
 | 178 | Blackstone Valley | 1462.7 |
 | 179 | Hampshire | 1460.5 |
 | 180 | Pope Francis | 1460.0 |

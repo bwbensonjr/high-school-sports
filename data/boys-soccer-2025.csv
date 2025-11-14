@@ -1623,14 +1623,22 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-12,63637,FINAL,Brimmer & May,4056,0,0,MacDuffie,4224,1,1,MBIL,Independent,3:15 P.M.,,0
 2025-11-12,63639,FINAL,Hyde,4186,6,1,Landmark,4200,0,0,Independent,MBIL,2:00 P.M.,,0
 2025-11-13,61818,UPCOMING,Natick,4270,,,BC High,4029,,,Bay State,Catholic Conference,7:00 P.M.,,0
+2025-11-13,61821,UPCOMING,Newton South,4280,,,Framingham,4143,,,Dual County,Bay State,5:30 P.M.,,0
 2025-11-13,61941,UPCOMING,Northampton,4291,,,Agawam,4004,,,Churchill,Churchill,7:00 P.M.,,0
 2025-11-13,61944,UPCOMING,Longmeadow,4214,,,West Springfield,4417,,,Smith,Smith,7:00 P.M.,,0
-2025-11-13,61947,UPCOMING,Dartmouth,4105,,,Sharon,4345,,,Southeast,Hockomock,6:00 P.M.,,0
+2025-11-13,61947,LIVE,Dartmouth,4105,1,,Sharon,4345,0,,Southeast,Hockomock,6:00 P.M.,,0
 2025-11-13,62052,UPCOMING,Greater New Bedford,4156,,,Chicopee,4088,,,South Coast,Holley,6:00 P.M.,,0
-2025-11-13,62058,UPCOMING,Dover-Sherborn,4118,,,Pembroke,4308,,,Tri-Valley,Patriot,5:30 P.M.,,0
-2025-11-13,62061,UPCOMING,East Bridgewater,4126,,,Scituate,4343,,,South Shore,Patriot,5:30 P.M.,,0
-2025-11-13,62313,UPCOMING,Brighton,4055,,,Rockport,4490,,,Boston City,Cape Ann,3:00 P.M.,,0
+2025-11-13,62058,LIVE,Dover-Sherborn,4118,1,,Pembroke,4308,0,,Tri-Valley,Patriot,5:30 P.M.,,0
+2025-11-13,62061,LIVE,East Bridgewater,4126,0,,Scituate,4343,1,,South Shore,Patriot,5:30 P.M.,,0
+2025-11-13,62313,FINAL,Brighton,4055,3,1,Rockport,4490,2,0,Boston City,Cape Ann,3:00 P.M.,,0
 2025-11-13,62316,UPCOMING,Hopedale,4507,,,Dearborn STEM,5016,,,CMAC,Boston City,6:00 P.M.,,0
-2025-11-13,62319,UPCOMING,St. John Paul II,4689,,,Keefe Tech,4191,,,Cape & Islands,CMAC,2:00 P.M.,,0
+2025-11-13,62319,FINAL,St. John Paul II,4689,0,0,Keefe Tech,4191,2,1,Cape & Islands,CMAC,2:00 P.M.,,0
+2025-11-13,63897,FINAL,Gann Academy,4541,3,1,Lexington Christian,4210,1,0,MBIL,EIL,2:00 P.M.,,0
 2025-11-14,61815,UPCOMING,Concord-Carlisle,4097,,,Brookline,4059,,,Dual County,Bay State,4:00 P.M.,,0
-2025-11-14,61821,UPCOMING,Newton South,4280,,,Framingham,4143,,,Dual County,Bay State,6:00 P.M.,,0
+2025-11-15,63883,UPCOMING,Taft,4386,,,Choate,4090,,,Independent,Independent,2:30 P.M.,,0
+2025-11-15,63885,UPCOMING,Northfield Mt. Hermon,4294,,,Nobles,4282,,,Independent,ISL,,,0
+2025-11-15,63888,UPCOMING,Mount St. Charles (R.I.),4488,,,Suffield Academy,4382,,,Independent,Independent,2:00 P.M.,,0
+2025-11-15,63889,UPCOMING,Williston Northampton,4431,,,Vermont Academy,4399,,,Independent,Independent,2:00 P.M.,,0
+2025-11-15,63891,UPCOMING,Greens Farms,4158,,,Millbrook (N.Y.),4616,,,Independent,Independent,1:00 P.M.,,0
+2025-11-15,63894,UPCOMING,Wheeler (R.I.),4426,,,Berwick,4037,,,EIL,EIL,1:00 P.M.,,0
+2025-11-15,63898,UPCOMING,Hyde,4186,,,MacDuffie,4224,,,Independent,Independent,,,0

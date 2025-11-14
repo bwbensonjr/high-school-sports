@@ -1,6 +1,6 @@
 # Field Hockey - 2025 Season
 
-Generated: 2025-11-13 11:16
+Generated: 2025-11-13 19:00
 
 ## Upcoming Games
 
@@ -9,30 +9,30 @@ Generated: 2025-11-13 11:16
 | 2025-11-13 | 6:00 P.M. | Nashoba | Somerset Berkley | 43.0% | -1.2 |
 | 2025-11-13 | 7:00 P.M. | Hingham | Canton | 58.5% | +1.5 |
 | 2025-11-13 | 5:00 P.M. | Dennis-Yarmouth | Cohasset | 63.2% | +2.3 |
-| 2025-11-13 | 5:00 P.M. | Monomoy | Frontier | 75.0% | +4.8 |
-| 2025-11-15 | TBD | Walpole | Franklin | 64.1% | +2.5 |
-| 2025-11-15 | TBD | Uxbridge | Sandwich | 60.5% | +1.9 |
+| 2025-11-15 | 9:30 A.M. | Walpole | Franklin | 64.1% | +2.5 |
+| 2025-11-15 | 5:00 P.M. | Uxbridge | Sandwich | 60.5% | +1.9 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2025-11-12 | Williston Northampton | 2 | Dexter Southfield | 1 | +1.8 | +1.0 |
-| 2025-11-12 | King (Conn.) | 4 | Wheeler (R.I.) | 0 | +1.1 | +4.0 |
+| 2025-11-13 | Monomoy | 1 | Frontier | 3 | +4.8 | -2.0 |
+| 2025-11-12 | Greenwich Academy (Conn.) | 6 | Tabor | 0 | +2.1 | +6.0 |
 | 2025-11-12 | Franklin | 2 | Wellesley | 0 | +2.8 | +2.0 |
 | 2025-11-12 | Walpole | 6 | Winchester | 1 | +4.6 | +5.0 |
 | 2025-11-12 | Sandwich | 3 | Dover-Sherborn | 0 | +5.3 | +3.0 |
 | 2025-11-12 | Uxbridge | 7 | Watertown | 0 | +3.0 | +7.0 |
 | 2025-11-12 | New Hampton | 2 | Proctor | 0 | +1.3 | +2.0 |
 | 2025-11-12 | Portsmouth Abbey | 9 | Kents Hill | 1 | +1.2 | +8.0 |
+| 2025-11-12 | King (Conn.) | 4 | Wheeler (R.I.) | 0 | +1.1 | +4.0 |
 | 2025-11-12 | Frederick Gunn (Conn.) | 3 | Pomfret | 1 | +0.8 | +2.0 |
-| 2025-11-12 | Greenwich Academy (Conn.) | 6 | Tabor | 0 | +2.1 | +6.0 |
 | 2025-11-12 | Deerfield | 0 | Sacred Heart (Conn.) | 2 | +0.7 | -2.0 |
 | 2025-11-12 | Nobles | 2 | Hotchkiss | 0 | -0.4 | +2.0 |
 | 2025-11-12 | Phillips Andover | 4 | Taft | 0 | +4.0 | +4.0 |
 | 2025-11-12 | Rivers | 2 | Governor’s Academy | 1 | +3.8 | +1.0 |
 | 2025-11-12 | Cushing | 2 | Suffield Academy | 1 | +4.3 | +1.0 |
 | 2025-11-12 | Middlesex | 3 | Berkshire | 2 | +2.4 | +1.0 |
+| 2025-11-12 | Williston Northampton | 2 | Dexter Southfield | 1 | +1.8 | +1.0 |
 | 2025-11-10 | Franklin | 2 | Hopkinton | 1 | +5.3 | +1.0 |
 | 2025-11-09 | Somerset Berkley | 4 | Longmeadow | 0 | +4.5 | +4.0 |
 | 2025-11-08 | Dennis-Yarmouth | 1 | Quabbin | 0 | +4.0 | +1.0 |
@@ -65,11 +65,11 @@ Generated: 2025-11-13 11:16
 | 1 | Uxbridge | 1884.5 |
 | 2 | Sandwich | 1860.2 |
 | 3 | Walpole | 1836.9 |
-| 4 | Monomoy | 1808.0 |
-| 5 | Hingham | 1797.2 |
-| 6 | Somerset Berkley | 1793.6 |
-| 7 | Canton | 1787.3 |
-| 8 | Franklin | 1786.4 |
+| 4 | Hingham | 1797.2 |
+| 5 | Somerset Berkley | 1793.6 |
+| 6 | Canton | 1787.3 |
+| 7 | Franklin | 1786.4 |
+| 8 | Monomoy | 1783.3 |
 | 9 | Watertown | 1772.3 |
 | 10 | Andover | 1734.7 |
 | 11 | Sutton | 1717.4 |
@@ -79,16 +79,16 @@ Generated: 2025-11-13 11:16
 | 15 | Wellesley | 1703.5 |
 | 16 | Newburyport | 1697.7 |
 | 17 | Nashoba | 1694.9 |
-| 18 | Phillips Andover | 1688.4 |
-| 19 | Dover-Sherborn | 1679.5 |
-| 20 | East Longmeadow | 1675.8 |
-| 21 | Winchester | 1675.5 |
-| 22 | Reading | 1669.0 |
-| 23 | Norwood | 1668.7 |
-| 24 | Cohasset | 1668.5 |
-| 25 | Masconomet | 1668.1 |
-| 26 | Doherty | 1667.2 |
-| 27 | Frontier | 1667.1 |
+| 18 | Frontier | 1691.8 |
+| 19 | Phillips Andover | 1688.4 |
+| 20 | Dover-Sherborn | 1679.5 |
+| 21 | East Longmeadow | 1675.8 |
+| 22 | Winchester | 1675.5 |
+| 23 | Reading | 1669.0 |
+| 24 | Norwood | 1668.7 |
+| 25 | Cohasset | 1668.5 |
+| 26 | Masconomet | 1668.1 |
+| 27 | Doherty | 1667.2 |
 | 28 | Lincoln-Sudbury | 1666.5 |
 | 29 | Lynnfield | 1664.0 |
 | 30 | Manchester Essex | 1655.4 |
@@ -190,10 +190,10 @@ Generated: 2025-11-13 11:16
 | 126 | Groton-Dunstable | 1502.6 |
 | 127 | Franklin County Tech | 1502.3 |
 | 128 | Kingswood-Oxford | 1501.7 |
-| 129 | St. Luke’s | 1501.7 |
-| 130 | Hamden Hall Country Day | 1501.7 |
-| 131 | Hopkins (Conn.) | 1501.7 |
-| 132 | Kent | 1501.7 |
+| 129 | Hamden Hall Country Day | 1501.7 |
+| 130 | St. Luke’s | 1501.7 |
+| 131 | Kent | 1501.7 |
+| 132 | Hopkins (Conn.) | 1501.7 |
 | 133 | Milton Academy | 1500.8 |
 | 134 | Monty Tech | 1499.6 |
 | 135 | Oliver Ames | 1498.2 |
