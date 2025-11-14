@@ -853,7 +853,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-13,63719,FINAL,Blue Hills,4047,60,1,Lynn Tech,4222,36,0,Mayflower,Commonwealth,6:00 P.M.,,0
 2025-11-13,63767,FINAL,Everett,4132,19,1,Lawrence,4203,14,0,Independent,Merrimack Valley,6:00 P.M.,,0
 2025-11-13,63770,FINAL,Malden,4227,28,1,Lexington,4209,26,0,Greater Boston,Middlesex,6:00 P.M.,,0
-2025-11-13,63775,UPCOMING,Woburn,4438,,,Concord-Carlisle,4097,,,Middlesex,Dual County,6:00 P.M.,,0
+2025-11-13,63775,FINAL,Woburn,4438,20,1,Concord-Carlisle,4097,0,0,Middlesex,Dual County,6:00 P.M.,,0
 2025-11-13,63777,FINAL,Waltham,4405,14,0,Peabody,4306,19,1,Dual County,Northeastern,6:00 P.M.,,0
 2025-11-13,63779,FINAL,Westford,4421,6,0,North Andover,4283,40,1,Dual County,Merrimack Valley,6:00 P.M.,,0
 2025-11-13,63793,FINAL,Triton,4395,34,1,Salem,4336,18,0,Cape Ann,Northeastern,6:00 P.M.,,0

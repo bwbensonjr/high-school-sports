@@ -1303,10 +1303,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-01,63046,FINAL,Brooks,4060,0.0,0.0,Nobles,4282,3.0,1.0,ISL,ISL,,,0
 2025-11-02,61241,FINAL,Oliver Ames,4302,3.0,1.0,Archbishop Williams,4012,0.0,0.0,Hockomock,Catholic Central,12:00 P.M.,,0
 2025-11-02,61358,FINAL,Medfield,4241,3.0,1.0,Dennis-Yarmouth,4111,0.0,0.0,Tri-Valley,Cape & Islands,5:30 P.M.,,0
-2025-11-03,61076,FINAL,Brookline,4059,3,1,Attleboro,4018,2,0,Bay State,Hockomock,5:30 P.M.,,0
-2025-11-03,61079,FINAL,Winchester,4434,3,1,Needham,4272,0,0,Middlesex,Bay State,5:00 P.M.,,0
-2025-11-03,61187,FINAL,Longmeadow,4214,3,1,Notre Dame (Hingham),4449,0,0,Eastern,Catholic Conference,,,0
-2025-11-03,61532,FINAL,Lenox,4532,3,1,Franklin County Tech,4145,0,0,Southern,Northern,6:00 P.M.,,0
+2025-11-03,61076,FINAL,Brookline,4059,3.0,1.0,Attleboro,4018,2.0,0.0,Bay State,Hockomock,5:30 P.M.,,0
+2025-11-03,61079,FINAL,Winchester,4434,3.0,1.0,Needham,4272,0.0,0.0,Middlesex,Bay State,5:00 P.M.,,0
+2025-11-03,61187,FINAL,Longmeadow,4214,3.0,1.0,Notre Dame (Hingham),4449,0.0,0.0,Eastern,Catholic Conference,,,0
+2025-11-03,61532,FINAL,Lenox,4532,3.0,1.0,Franklin County Tech,4145,0.0,0.0,Southern,Northern,6:00 P.M.,,0
 2025-11-04,61082,FINAL,Central Catholic,4081,3,1,Westborough,4418,2,0,Merrimack Valley,Mid-Wach,6:00 P.M.,,0
 2025-11-04,61091,FINAL,Shrewsbury,4348,1,0,Wellesley,4413,3,1,Mid-Wach,Bay State,6:00 P.M.,,0
 2025-11-04,61094,FINAL,Newton North,4279,3,1,Westford,4421,0,0,Bay State,Dual County,5:00 P.M.,,0

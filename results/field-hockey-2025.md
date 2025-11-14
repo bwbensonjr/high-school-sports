@@ -1,6 +1,6 @@
 # Field Hockey - 2025 Season
 
-Generated: 2025-11-13 21:35
+Generated: 2025-11-14 11:15
 
 ## Upcoming Games
 
@@ -26,7 +26,6 @@ Generated: 2025-11-13 21:35
 | 2025-11-13 | Hingham | 4 | Canton | 1 | +1.5 | +3.0 |
 | 2025-11-13 | Nashoba | 1 | Somerset Berkley | 3 | -1.2 | -2.0 |
 | 2025-11-12 | Greenwich Academy (Conn.) | 6 | Tabor | 0 | +2.1 | +6.0 |
-| 2025-11-12 | Walpole | 6 | Winchester | 1 | +4.6 | +5.0 |
 | 2025-11-12 | Sandwich | 3 | Dover-Sherborn | 0 | +5.3 | +3.0 |
 | 2025-11-12 | Uxbridge | 7 | Watertown | 0 | +3.0 | +7.0 |
 | 2025-11-12 | New Hampton | 2 | Proctor | 0 | +1.3 | +2.0 |
@@ -35,21 +34,21 @@ Generated: 2025-11-13 21:35
 | 2025-11-12 | Frederick Gunn (Conn.) | 3 | Pomfret | 1 | +0.8 | +2.0 |
 | 2025-11-12 | Nobles | 2 | Hotchkiss | 0 | -0.4 | +2.0 |
 | 2025-11-12 | Deerfield | 0 | Sacred Heart (Conn.) | 2 | +0.7 | -2.0 |
+| 2025-11-12 | Franklin | 2 | Wellesley | 0 | +2.8 | +2.0 |
 | 2025-11-12 | Phillips Andover | 4 | Taft | 0 | +4.0 | +4.0 |
 | 2025-11-12 | Rivers | 2 | Governor’s Academy | 1 | +3.8 | +1.0 |
 | 2025-11-12 | Cushing | 2 | Suffield Academy | 1 | +4.3 | +1.0 |
 | 2025-11-12 | Middlesex | 3 | Berkshire | 2 | +2.4 | +1.0 |
 | 2025-11-12 | Williston Northampton | 2 | Dexter Southfield | 1 | +1.8 | +1.0 |
-| 2025-11-12 | Franklin | 2 | Wellesley | 0 | +2.8 | +2.0 |
+| 2025-11-12 | Walpole | 6 | Winchester | 1 | +4.6 | +5.0 |
 | 2025-11-10 | Franklin | 2 | Hopkinton | 1 | +5.3 | +1.0 |
 | 2025-11-09 | Somerset Berkley | 4 | Longmeadow | 0 | +4.5 | +4.0 |
-| 2025-11-08 | St. Paul’s | 1 | Governor’s Academy | 0 | +1.6 | +1.0 |
+| 2025-11-08 | Lincoln-Sudbury | 0 | Winchester | 1 | +1.3 | -1.0 |
 | 2025-11-08 | Walpole | 5 | Andover | 0 | +2.5 | +5.0 |
 | 2025-11-08 | Worcester Academy | 0 | Cushing | 8 | -2.9 | -8.0 |
 | 2025-11-08 | Tilton | 1 | Austin Prep | 2 | +4.4 | -1.0 |
 | 2025-11-08 | Wilbraham & Monson | 4 | Marianapolis | 0 | +2.0 | +4.0 |
-| 2025-11-08 | Dennis-Yarmouth | 1 | Quabbin | 0 | +4.0 | +1.0 |
-| 2025-11-08 | Lincoln-Sudbury | 0 | Winchester | 1 | +1.3 | -1.0 |
+| 2025-11-08 | St. Paul’s | 1 | Governor’s Academy | 0 | +1.6 | +1.0 |
 | 2025-11-08 | Hotchkiss | 2 | Taft | 1 | +0.6 | +1.0 |
 | 2025-11-08 | Canton | 2 | King Philip | 1 | +3.0 | +1.0 |
 | 2025-11-08 | Nashoba | 3 | Westwood | 0 | +5.0 | +3.0 |
@@ -57,14 +56,12 @@ Generated: 2025-11-13 21:35
 | 2025-11-08 | Medfield | 1 | Watertown | 2 | -2.4 | -1.0 |
 | 2025-11-08 | Dover-Sherborn | 3 | East Longmeadow | 1 | +0.8 | +2.0 |
 | 2025-11-08 | Sutton | 1 | Frontier | 2 | +3.2 | -1.0 |
-| 2025-11-07 | Monomoy | 7 | Manchester Essex | 0 | +4.2 | +7.0 |
+| 2025-11-08 | Dennis-Yarmouth | 1 | Quabbin | 0 | +4.0 | +1.0 |
 | 2025-11-07 | Cohasset | 2 | Hopedale | 0 | +3.8 | +2.0 |
 | 2025-11-07 | Uxbridge | 9 | Scituate | 0 | +6.7 | +9.0 |
 | 2025-11-07 | Sandwich | 6 | Lynnfield | 0 | +5.2 | +6.0 |
+| 2025-11-07 | Monomoy | 7 | Manchester Essex | 0 | +4.2 | +7.0 |
 | 2025-11-07 | Wellesley | 3 | Belmont | 2 | +1.0 | +1.0 |
-| 2025-11-06 | King Philip | 6 | Dartmouth | 2 | +3.9 | +4.0 |
-| 2025-11-06 | Masconomet | 0 | Westwood | 1 | +5.4 | -1.0 |
-| 2025-11-06 | Franklin | 2 | Waltham | 0 | +6.8 | +2.0 |
 
 ## Current Elo Ratings
 
@@ -198,10 +195,10 @@ Generated: 2025-11-13 21:35
 | 126 | Groton-Dunstable | 1502.6 |
 | 127 | Franklin County Tech | 1502.3 |
 | 128 | Hopkins (Conn.) | 1501.7 |
-| 129 | Kingswood-Oxford | 1501.7 |
-| 130 | St. Luke’s | 1501.7 |
-| 131 | Hamden Hall Country Day | 1501.7 |
-| 132 | Kent | 1501.7 |
+| 129 | Kent | 1501.7 |
+| 130 | Hamden Hall Country Day | 1501.7 |
+| 131 | St. Luke’s | 1501.7 |
+| 132 | Kingswood-Oxford | 1501.7 |
 | 133 | Milton Academy | 1500.8 |
 | 134 | Monty Tech | 1499.6 |
 | 135 | Oliver Ames | 1498.2 |

@@ -1,6 +1,6 @@
 # Girls Volleyball - 2025 Season
 
-Generated: 2025-11-13 21:35
+Generated: 2025-11-14 11:15
 
 ## Upcoming Games
 
@@ -24,9 +24,8 @@ Generated: 2025-11-13 21:35
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2025-11-12 | Longmeadow | 0 | Wayland | 3 | -0.2 | -3.0 |
-| 2025-11-12 | Groton | 3 | Worcester Academy | 1 | +1.2 | +2.0 |
-| 2025-11-12 | Bellingham | 3 | Lynnfield | 0 | +2.7 | +3.0 |
+| 2025-11-12 | Oliver Ames | 3 | King Philip | 0 | +5.6 | +3.0 |
+| 2025-11-12 | Medfield | 1 | Joseph Case | 3 | +1.7 | -2.0 |
 | 2025-11-12 | East Bridgewater | 3 | Nipmuc | 0 | +4.7 | +3.0 |
 | 2025-11-12 | Bourne | 3 | Rockland | 1 | +5.4 | +2.0 |
 | 2025-11-12 | Pioneer Valley Christian | 1 | Smith Voc. | 3 | -0.0 | -2.0 |
@@ -35,8 +34,8 @@ Generated: 2025-11-13 21:35
 | 2025-11-12 | Loomis Chaffee (Conn.) | 3 | Deerfield | 1 | +1.9 | +2.0 |
 | 2025-11-12 | Dana Hall | 2 | Choate | 3 | +1.4 | -1.0 |
 | 2025-11-12 | BB&N | 3 | Greenwich Academy (Conn.) | 0 | +6.7 | +3.0 |
+| 2025-11-12 | Groton | 3 | Worcester Academy | 1 | +1.2 | +2.0 |
 | 2025-11-12 | Kingswood-Oxford | 3 | Suffield Academy | 0 | +1.0 | +3.0 |
-| 2025-11-12 | Oliver Ames | 3 | King Philip | 0 | +5.6 | +3.0 |
 | 2025-11-12 | Greens Farms | 3 | Rivers | 0 | -0.1 | +3.0 |
 | 2025-11-12 | Greenwich CD (Conn.) | 3 | Dexter Southfield | 0 | +2.5 | +3.0 |
 | 2025-11-12 | Wilbraham & Monson | 3 | Marianapolis | 1 | +2.9 | +2.0 |
@@ -46,32 +45,30 @@ Generated: 2025-11-13 21:35
 | 2025-11-12 | Christian Heritage | 3 | Stoneleigh-Burnham | 0 | +2.4 | +3.0 |
 | 2025-11-12 | Bancroft | 3 | Newman School | 0 | +1.7 | +3.0 |
 | 2025-11-12 | Covenant Christian | 3 | Boston Trinity | 1 | +1.1 | +2.0 |
-| 2025-11-12 | Medfield | 1 | Joseph Case | 3 | +1.7 | -2.0 |
+| 2025-11-12 | Bellingham | 3 | Lynnfield | 0 | +2.7 | +3.0 |
 | 2025-11-12 | Hoosac School | 3 | Marvelwood | 0 | +1.4 | +3.0 |
-| 2025-11-12 | Newton North | 3 | Central Catholic | 0 | +4.2 | +3.0 |
 | 2025-11-12 | Franklin | 3 | Newton South | 0 | +4.2 | +3.0 |
+| 2025-11-12 | Newton North | 3 | Central Catholic | 0 | +4.2 | +3.0 |
+| 2025-11-12 | Longmeadow | 0 | Wayland | 3 | -0.2 | -3.0 |
 | 2025-11-09 | Andover | 0 | Franklin | 3 | +0.8 | -3.0 |
+| 2025-11-08 | Central Catholic | 3 | Wellesley | 0 | +3.1 | +3.0 |
 | 2025-11-08 | Hopedale | 3 | Renaissance | 1 | +0.6 | +2.0 |
 | 2025-11-08 | Bourne | 3 | Ursuline | 0 | +4.4 | +3.0 |
 | 2025-11-08 | Bellingham | 3 | Weston | 0 | +5.7 | +3.0 |
 | 2025-11-08 | Joseph Case | 3 | Newburyport | 0 | +3.5 | +3.0 |
 | 2025-11-08 | Medfield | 3 | Pembroke | 1 | +5.8 | +2.0 |
 | 2025-11-08 | Oliver Ames | 3 | Canton | 1 | +3.5 | +2.0 |
-| 2025-11-08 | Central Catholic | 3 | Wellesley | 0 | +3.1 | +3.0 |
-| 2025-11-07 | Pioneer Valley Christian | 3 | Baystate Academy | 2 | -0.7 | +1.0 |
-| 2025-11-07 | Carver | 2 | Rockland | 3 | +5.1 | -1.0 |
-| 2025-11-07 | Brookline | 1 | Newton South | 3 | +5.2 | -2.0 |
+| 2025-11-07 | East Bridgewater | 3 | West Bridgewater | 1 | +6.6 | +2.0 |
 | 2025-11-07 | Duxbury | 1 | Wayland | 3 | +3.6 | -2.0 |
 | 2025-11-07 | Longmeadow | 3 | Marblehead | 1 | +0.4 | +2.0 |
 | 2025-11-07 | Lynnfield | 3 | Old Rochester | 0 | -1.3 | +3.0 |
-| 2025-11-07 | Winsor | 3 | Beaver Country Day | 0 | +3.0 | +3.0 |
-| 2025-11-07 | East Bridgewater | 3 | West Bridgewater | 1 | +6.6 | +2.0 |
+| 2025-11-07 | Carver | 2 | Rockland | 3 | +5.1 | -1.0 |
+| 2025-11-07 | Brookline | 1 | Newton South | 3 | +5.2 | -2.0 |
 | 2025-11-07 | Lenox | 3 | Whitinsville Christian | 0 | -1.3 | +3.0 |
 | 2025-11-07 | Madison Park | 2 | Smith Voc. | 3 | +3.1 | -1.0 |
+| 2025-11-07 | Pioneer Valley Christian | 3 | Baystate Academy | 2 | -0.7 | +1.0 |
+| 2025-11-07 | Winsor | 3 | Beaver Country Day | 0 | +3.0 | +3.0 |
 | 2025-11-07 | Newton North | 3 | Winchester | 1 | +2.1 | +2.0 |
-| 2025-11-06 | Nipmuc | 3 | Greater Lawrence | 1 | +0.2 | +2.0 |
-| 2025-11-06 | King Philip | 3 | Reading | 0 | +1.6 | +3.0 |
-| 2025-11-06 | Andover | 3 | Bishop Feehan | 0 | +0.9 | +3.0 |
 
 ## Current Elo Ratings
 
@@ -248,11 +245,11 @@ Generated: 2025-11-13 21:35
 | 169 | Worcester South | 1501.9 |
 | 170 | Cambridge Weston | 1501.8 |
 | 171 | Trinity Christian | 1501.7 |
-| 172 | Argosy Collegiate | 1501.7 |
+| 172 | Fellowship Christian | 1501.7 |
 | 173 | Northfield Mt. Hermon | 1501.7 |
 | 174 | South Shore Christian | 1501.7 |
 | 175 | Dublin | 1501.7 |
-| 176 | Fellowship Christian | 1501.7 |
+| 176 | Argosy Collegiate | 1501.7 |
 | 177 | Milton | 1500.9 |
 | 178 | Mashpee | 1499.5 |
 | 179 | Sturgis West | 1499.4 |
@@ -285,8 +282,8 @@ Generated: 2025-11-13 21:35
 | 206 | Malden | 1491.3 |
 | 207 | Cheshire Academy | 1491.2 |
 | 208 | Woburn | 1489.8 |
-| 209 | Governor’s Academy | 1489.7 |
-| 210 | Gann Academy | 1489.7 |
+| 209 | Gann Academy | 1489.7 |
+| 210 | Governor’s Academy | 1489.7 |
 | 211 | Hotchkiss | 1489.7 |
 | 212 | Monument Mtn. | 1489.6 |
 | 213 | Newton Country Day | 1489.6 |
@@ -308,8 +305,8 @@ Generated: 2025-11-13 21:35
 | 229 | Boston Prep | 1485.9 |
 | 230 | South Shore Charter | 1484.9 |
 | 231 | Tantasqua | 1484.9 |
-| 232 | Marvelwood | 1483.8 |
-| 233 | University Park | 1483.8 |
+| 232 | University Park | 1483.8 |
+| 233 | Marvelwood | 1483.8 |
 | 234 | Holyoke | 1483.6 |
 | 235 | Leominster | 1483.3 |
 | 236 | Community Charter | 1483.1 |
