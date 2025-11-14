@@ -1035,10 +1035,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-12,63603,FINAL,Middlesex,4248,3,1,Berkshire,4036,2,0,ISL,Independent,2:00 P.M.,,0
 2025-11-12,63606,FINAL,Williston Northampton,4431,2,1,Dexter Southfield,4113,1,0,Independent,Independent,2:00 P.M.,,0
 2025-11-13,60757,FINAL,Nashoba,4267,1,0,Somerset Berkley,4350,3,1,Mid-Wach,South Coast,6:00 P.M.,,0
-2025-11-13,60760,UPCOMING,Hingham,4171,,,Canton,4071,,,Patriot,Hockomock,7:00 P.M.,,0
+2025-11-13,60760,FINAL,Hingham,4171,4,1,Canton,4071,1,0,Patriot,Hockomock,7:00 P.M.,,0
 2025-11-13,60961,FINAL,Dennis-Yarmouth,4111,4,1,Cohasset,4094,3,0,Cape & Islands,South Shore,5:00 P.M.,1.0,0
 2025-11-13,60964,FINAL,Monomoy,4706,1,0,Frontier,4146,3,1,Cape & Islands,Suburban,5:00 P.M.,,0
 2025-11-15,60658,UPCOMING,Walpole,4404,,,Franklin,4144,,,Bay State,Hockomock,9:30 A.M.,,0
+2025-11-15,60754,UPCOMING,Hingham,4171,,,Somerset Berkley,4350,,,Patriot,South Coast,2:30 P.M.,,0
 2025-11-15,60856,UPCOMING,Uxbridge,4398,,,Sandwich,4340,,,CMAC,Cape & Islands,5:00 P.M.,,0
 2025-11-15,60958,UPCOMING,Dennis-Yarmouth,4111,,,Frontier,4146,,,Cape & Islands,Suburban,12:00 P.M.,,0
 2025-11-15,63914,UPCOMING,Greenwich Academy (Conn.),4159,,,Sacred Heart (Conn.),4586,,,Independent,Independent,1:00 P.M.,,0

@@ -851,19 +851,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-08,63428,FINAL,Nipmuc,4281,14,0,Bay Path,4027,20,1,CMAC,CMAC,12:00 P.M.,,0
 2025-11-08,63439,FINAL,Lynn Classical,4220,16,0,Waltham,4405,20,1,Greater Boston,Dual County,1:00 P.M.,,0
 2025-11-13,63719,FINAL,Blue Hills,4047,60,1,Lynn Tech,4222,36,0,Mayflower,Commonwealth,6:00 P.M.,,0
-2025-11-13,63767,UPCOMING,Everett,4132,,,Lawrence,4203,,,Independent,Merrimack Valley,6:00 P.M.,,0
-2025-11-13,63770,UPCOMING,Malden,4227,,,Lexington,4209,,,Greater Boston,Middlesex,6:00 P.M.,,0
+2025-11-13,63767,FINAL,Everett,4132,19,1,Lawrence,4203,14,0,Independent,Merrimack Valley,6:00 P.M.,,0
+2025-11-13,63770,FINAL,Malden,4227,28,1,Lexington,4209,26,0,Greater Boston,Middlesex,6:00 P.M.,,0
 2025-11-13,63775,UPCOMING,Woburn,4438,,,Concord-Carlisle,4097,,,Middlesex,Dual County,6:00 P.M.,,0
 2025-11-13,63777,FINAL,Waltham,4405,14,0,Peabody,4306,19,1,Dual County,Northeastern,6:00 P.M.,,0
 2025-11-13,63779,FINAL,Westford,4421,6,0,North Andover,4283,40,1,Dual County,Merrimack Valley,6:00 P.M.,,0
-2025-11-13,63793,UPCOMING,Triton,4395,,,Salem,4336,,,Cape Ann,Northeastern,6:00 P.M.,,0
+2025-11-13,63793,FINAL,Triton,4395,34,1,Salem,4336,18,0,Cape Ann,Northeastern,6:00 P.M.,,0
 2025-11-13,63796,FINAL,Winthrop,4437,34,1,Wilmington,4432,14,0,Northeastern,Middlesex,6:30 P.M.,,0
 2025-11-13,63797,FINAL,Latin Academy,4202,22,0,Manchester Essex,4229,36,1,Boston City,Cape Ann,5:00 P.M.,,0
 2025-11-13,63802,FINAL,Ipswich,4190,29,1,English High,4048,12,0,Cape Ann,Boston City,6:00 P.M.,,0
-2025-11-13,63804,LIVE,Medford,4242,30,,Arlington Catholic,4014,20,,Greater Boston,Catholic Central,6:00 P.M.,,0
-2025-11-13,63831,UPCOMING,Joseph Case,4078,,,Apponequet,4011,,,South Coast,South Coast,6:30 P.M.,,0
+2025-11-13,63804,FINAL,Medford,4242,54,1,Arlington Catholic,4014,34,0,Greater Boston,Catholic Central,6:00 P.M.,,0
+2025-11-13,63831,FINAL,Joseph Case,4078,7,0,Apponequet,4011,21,1,South Coast,South Coast,6:30 P.M.,,0
 2025-11-13,63840,FINAL,Dennis-Yarmouth,4111,26,1,Dighton-Rehoboth/Bristol Aggie,4114,19,0,Cape & Islands,South Coast,6:00 P.M.,,0
-2025-11-13,63841,UPCOMING,Bishop Stang,4045,,,Nauset,4271,,,Catholic Central,Cape & Islands,6:00 P.M.,,0
+2025-11-13,63841,FINAL,Bishop Stang,4045,38,1,Nauset,4271,18,0,Catholic Central,Cape & Islands,6:00 P.M.,,0
 2025-11-14,63057,UPCOMING,Natick,4270,,,Central Catholic,4081,,,Bay State,Merrimack Valley,6:00 P.M.,,0
 2025-11-14,63060,UPCOMING,Springfield Central,4360,,,Lowell,4216,,,AA,Merrimack Valley,6:00 P.M.,,0
 2025-11-14,63063,UPCOMING,Xaverian,4446,,,Andover,4009,,,Catholic Conference,Merrimack Valley,6:00 P.M.,,0
