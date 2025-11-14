@@ -1661,15 +1661,23 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-12,63666,FINAL,Vermont Academy,4399,3,1,Darrow,4104,0,0,Independent,Independent,2:05 P.M.,,0
 2025-11-12,63669,FINAL,Bancroft,4023,3,0,Kents Hill,4194,4,1,EIL,Independent,2:00 P.M.,1.0,0
 2025-11-12,63671,FINAL,Tilton,4391,2,1,Landmark,4200,0,0,Independent,IGC,2:00 P.M.,,0
-2025-11-13,62430,UPCOMING,Natick,4270,,,Braintree,4051,,,Bay State,Bay State,5:00 P.M.,,0
-2025-11-13,62433,UPCOMING,Bishop Feehan,4042,,,Concord-Carlisle,4097,,,Catholic Central,Dual County,6:00 P.M.,,0
-2025-11-13,62436,UPCOMING,Franklin,4144,,,Hopkinton,4180,,,Hockomock,Tri-Valley,6:00 P.M.,,0
-2025-11-13,62439,UPCOMING,Needham,4272,,,Belmont,4034,,,Bay State,Middlesex,5:00 P.M.,,0
-2025-11-13,62547,LIVE,Longmeadow,4214,2,,Marblehead,4231,0,,Kurty-Fielding,Northeastern,5:00 P.M.,,0
+2025-11-13,62430,FINAL,Natick,4270,3,1,Braintree,4051,0,0,Bay State,Bay State,5:00 P.M.,,0
+2025-11-13,62433,FINAL,Bishop Feehan,4042,0,0,Concord-Carlisle,4097,1,1,Catholic Central,Dual County,6:00 P.M.,,0
+2025-11-13,62436,FINAL,Franklin,4144,4,1,Hopkinton,4180,3,0,Hockomock,Tri-Valley,6:00 P.M.,,0
+2025-11-13,62439,FINAL,Needham,4272,2,0,Belmont,4034,4,1,Bay State,Middlesex,5:00 P.M.,,0
+2025-11-13,62547,FINAL,Longmeadow,4214,2,1,Marblehead,4231,1,0,Kurty-Fielding,Northeastern,5:00 P.M.,,0
 2025-11-13,62550,FINAL,King Philip,4197,2,1,Northampton,4291,0,0,Hockomock,Central,5:00 P.M.,,0
-2025-11-13,62667,UPCOMING,Pope Francis,4796,,,Wilmington,4432,,,Bi-County,Middlesex,5:00 P.M.,,0
-2025-11-13,62670,UPCOMING,Nipmuc,4281,,,Dover-Sherborn,4118,,,CMAC,Tri-Valley,6:00 P.M.,,0
-2025-11-13,62676,LIVE,Medfield,4241,5,,Tewksbury,4389,0,,Tri-Valley,Merrimack Valley,6:00 P.M.,,0
-2025-11-13,62796,UPCOMING,South Hadley,4353,,,Littleton,4212,,,Kurty-Fielding,Mid-Wach,5:00 P.M.,,0
+2025-11-13,62667,FINAL,Pope Francis,4796,4,1,Wilmington,4432,1,0,Bi-County,Middlesex,5:00 P.M.,,0
+2025-11-13,62670,LIVE,Nipmuc,4281,3,,Dover-Sherborn,4118,1,,CMAC,Tri-Valley,6:00 P.M.,,0
+2025-11-13,62676,FINAL,Medfield,4241,10,1,Tewksbury,4389,1,0,Tri-Valley,Merrimack Valley,6:00 P.M.,,0
+2025-11-13,62796,FINAL,South Hadley,4353,1,0,Littleton,4212,2,1,Kurty-Fielding,Mid-Wach,5:00 P.M.,1.0,0
 2025-11-13,62931,FINAL,Monson,4429,5,1,St. John Paul II,4689,3,0,Central,Cape & Islands,2:00 P.M.,,0
 2025-11-14,62934,UPCOMING,Hopedale,4507,,,Norfolk Aggie,4458,,,CMAC,Mayflower,6:00 P.M.,,0
+2025-11-15,63899,UPCOMING,Westminster,4422,,,BB&N,4028,,,Founders,ISL,2:00 P.M.,,0
+2025-11-15,63900,UPCOMING,Miss Porter’s,4257,,,Worcester Academy,4441,,,Independent,Independent,1:00 P.M.,,0
+2025-11-15,63902,UPCOMING,Dexter Southfield,4113,,,Williston Northampton,4431,,,Independent,Independent,12:00 P.M.,,0
+2025-11-15,63905,UPCOMING,St. George’s,4367,,,Brooks,4060,,,ISL,ISL,2:00 P.M.,,0
+2025-11-15,63908,UPCOMING,Greens Farms,4158,,,New Hampton,4275,,,Independent,Independent,2:00 P.M.,,0
+2025-11-15,63909,UPCOMING,Brewster Academy,4052,,,Portsmouth Abbey,4320,,,Independent,EIL,1:30 P.M.,,0
+2025-11-15,63910,UPCOMING,St. Thomas More,4379,,,Vermont Academy,4399,,,Independent,Independent,2:00 P.M.,,0
+2025-11-15,63912,UPCOMING,Tilton,4391,,,Kents Hill,4194,,,Independent,Independent,12:00 P.M.,,0
