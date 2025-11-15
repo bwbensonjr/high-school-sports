@@ -1307,31 +1307,31 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-03,61079,FINAL,Winchester,4434,3.0,1.0,Needham,4272,0.0,0.0,Middlesex,Bay State,5:00 P.M.,,0
 2025-11-03,61187,FINAL,Longmeadow,4214,3.0,1.0,Notre Dame (Hingham),4449,0.0,0.0,Eastern,Catholic Conference,,,0
 2025-11-03,61532,FINAL,Lenox,4532,3.0,1.0,Franklin County Tech,4145,0.0,0.0,Southern,Northern,6:00 P.M.,,0
-2025-11-04,61082,FINAL,Central Catholic,4081,3,1,Westborough,4418,2,0,Merrimack Valley,Mid-Wach,6:00 P.M.,,0
-2025-11-04,61091,FINAL,Shrewsbury,4348,1,0,Wellesley,4413,3,1,Mid-Wach,Bay State,6:00 P.M.,,0
-2025-11-04,61094,FINAL,Newton North,4279,3,1,Westford,4421,0,0,Bay State,Dual County,5:00 P.M.,,0
-2025-11-04,61097,FINAL,Chelmsford,4085,2,0,Newton South,4280,3,1,Merrimack Valley,Dual County,6:00 P.M.,,0
-2025-11-04,61175,FINAL,Wayland,4411,3,1,Billerica,4040,0,0,Dual County,Merrimack Valley,5:00 P.M.,,0
-2025-11-04,61178,FINAL,Marblehead,4231,3,1,Burlington,4065,0,0,Northeastern,Middlesex,5:00 P.M.,,0
-2025-11-04,61181,FINAL,King Philip,4197,3,1,Barnstable,4024,2,0,Hockomock,Southeast,5:00 P.M.,,0
-2025-11-04,61184,FINAL,Minnechaug,4254,2,0,Reading,4328,3,1,Eastern,Middlesex,6:00 P.M.,,0
-2025-11-04,61190,FINAL,Duxbury,4123,3,1,Ashland,4015,0,0,Patriot,Tri-Valley,5:00 P.M.,,0
-2025-11-04,61193,FINAL,Oliver Ames,4302,3,1,Hingham,4171,0,0,Hockomock,Patriot,6:00 P.M.,,0
-2025-11-04,61292,FINAL,North Reading,4288,0,0,Weston,4423,3,1,Cape Ann,Dual County,5:00 P.M.,,0
-2025-11-04,61298,FINAL,Hanover,4164,2,0,Newburyport,4276,3,1,Patriot,Cape Ann,5:30 P.M.,,0
-2025-11-04,61301,FINAL,Old Rochester,4301,3,1,Blackstone Valley,4046,0,0,South Coast,CMAC,6:00 P.M.,,0
-2025-11-04,61304,FINAL,Lynnfield,4223,3,1,Lynn Classical,4220,2,0,Cape Ann,Greater Boston,4:00 P.M.,,0
-2025-11-04,61412,FINAL,Ursuline,4448,3,1,Wahconah,4401,1,0,Catholic Conference,Northern,5:30 P.M.,,0
-2025-11-04,61418,FINAL,Greater Lawrence,4154,3,1,Cohasset,4094,1,0,Commonwealth,South Shore,5:30 P.M.,,0
-2025-11-04,61421,FINAL,Rockland,4331,3,1,Mt. Greylock,4262,0,0,South Shore,Southern,5:30 P.M.,,0
-2025-11-04,61424,FINAL,Carver,4077,3,1,Lynn Tech,4222,1,0,South Shore,Commonwealth,4:30 P.M.,,0
-2025-11-04,61427,FINAL,Nipmuc,4281,3,1,Millbury,4250,0,0,CMAC,CMAC,6:00 P.M.,,0
-2025-11-04,61430,FINAL,East Bridgewater,4126,3,1,Advanced Math and Science,4595,0,0,South Shore,CMAC,5:00 P.M.,,0
-2025-11-04,61433,FINAL,Bourne,4050,3,1,Hamilton-Wenham,4163,0,0,South Coast,Cape Ann,6:00 P.M.,,0
-2025-11-04,61520,FINAL,Pioneer Charter I,4701,0,0,Renaissance,4664,3,1,Charter School Athletic,Metro,4:15 P.M.,,0
-2025-11-04,61526,FINAL,Baystate Academy,4846,3,1,Lee,4206,1,0,Independent,Western,6:00 P.M.,,0
-2025-11-04,61529,FINAL,Whitinsville Christian,4487,3,1,Calvary Chapel,4828,2,0,CMAC,Independent,6:00 P.M.,,0
-2025-11-04,61538,FINAL,Madison Park,4225,3,1,Mahar,4226,0,0,Boston City,Northern,4:00 P.M.,,0
+2025-11-04,61082,FINAL,Central Catholic,4081,3.0,1.0,Westborough,4418,2.0,0.0,Merrimack Valley,Mid-Wach,6:00 P.M.,,0
+2025-11-04,61091,FINAL,Shrewsbury,4348,1.0,0.0,Wellesley,4413,3.0,1.0,Mid-Wach,Bay State,6:00 P.M.,,0
+2025-11-04,61094,FINAL,Newton North,4279,3.0,1.0,Westford,4421,0.0,0.0,Bay State,Dual County,5:00 P.M.,,0
+2025-11-04,61097,FINAL,Chelmsford,4085,2.0,0.0,Newton South,4280,3.0,1.0,Merrimack Valley,Dual County,6:00 P.M.,,0
+2025-11-04,61175,FINAL,Wayland,4411,3.0,1.0,Billerica,4040,0.0,0.0,Dual County,Merrimack Valley,5:00 P.M.,,0
+2025-11-04,61178,FINAL,Marblehead,4231,3.0,1.0,Burlington,4065,0.0,0.0,Northeastern,Middlesex,5:00 P.M.,,0
+2025-11-04,61181,FINAL,King Philip,4197,3.0,1.0,Barnstable,4024,2.0,0.0,Hockomock,Southeast,5:00 P.M.,,0
+2025-11-04,61184,FINAL,Minnechaug,4254,2.0,0.0,Reading,4328,3.0,1.0,Eastern,Middlesex,6:00 P.M.,,0
+2025-11-04,61190,FINAL,Duxbury,4123,3.0,1.0,Ashland,4015,0.0,0.0,Patriot,Tri-Valley,5:00 P.M.,,0
+2025-11-04,61193,FINAL,Oliver Ames,4302,3.0,1.0,Hingham,4171,0.0,0.0,Hockomock,Patriot,6:00 P.M.,,0
+2025-11-04,61292,FINAL,North Reading,4288,0.0,0.0,Weston,4423,3.0,1.0,Cape Ann,Dual County,5:00 P.M.,,0
+2025-11-04,61298,FINAL,Hanover,4164,2.0,0.0,Newburyport,4276,3.0,1.0,Patriot,Cape Ann,5:30 P.M.,,0
+2025-11-04,61301,FINAL,Old Rochester,4301,3.0,1.0,Blackstone Valley,4046,0.0,0.0,South Coast,CMAC,6:00 P.M.,,0
+2025-11-04,61304,FINAL,Lynnfield,4223,3.0,1.0,Lynn Classical,4220,2.0,0.0,Cape Ann,Greater Boston,4:00 P.M.,,0
+2025-11-04,61412,FINAL,Ursuline,4448,3.0,1.0,Wahconah,4401,1.0,0.0,Catholic Conference,Northern,5:30 P.M.,,0
+2025-11-04,61418,FINAL,Greater Lawrence,4154,3.0,1.0,Cohasset,4094,1.0,0.0,Commonwealth,South Shore,5:30 P.M.,,0
+2025-11-04,61421,FINAL,Rockland,4331,3.0,1.0,Mt. Greylock,4262,0.0,0.0,South Shore,Southern,5:30 P.M.,,0
+2025-11-04,61424,FINAL,Carver,4077,3.0,1.0,Lynn Tech,4222,1.0,0.0,South Shore,Commonwealth,4:30 P.M.,,0
+2025-11-04,61427,FINAL,Nipmuc,4281,3.0,1.0,Millbury,4250,0.0,0.0,CMAC,CMAC,6:00 P.M.,,0
+2025-11-04,61430,FINAL,East Bridgewater,4126,3.0,1.0,Advanced Math and Science,4595,0.0,0.0,South Shore,CMAC,5:00 P.M.,,0
+2025-11-04,61433,FINAL,Bourne,4050,3.0,1.0,Hamilton-Wenham,4163,0.0,0.0,South Coast,Cape Ann,6:00 P.M.,,0
+2025-11-04,61520,FINAL,Pioneer Charter I,4701,0.0,0.0,Renaissance,4664,3.0,1.0,Charter School Athletic,Metro,4:15 P.M.,,0
+2025-11-04,61526,FINAL,Baystate Academy,4846,3.0,1.0,Lee,4206,1.0,0.0,Independent,Western,6:00 P.M.,,0
+2025-11-04,61529,FINAL,Whitinsville Christian,4487,3.0,1.0,Calvary Chapel,4828,2.0,0.0,CMAC,Independent,6:00 P.M.,,0
+2025-11-04,61538,FINAL,Madison Park,4225,3.0,1.0,Mahar,4226,0.0,0.0,Boston City,Northern,4:00 P.M.,,0
 2025-11-05,61085,FINAL,Franklin,4144,3,1,Lincoln-Sudbury,4211,0,0,Hockomock,Dual County,5:00 P.M.,,0
 2025-11-05,61172,FINAL,Wakefield,4402,0,0,Canton,4071,3,1,Middlesex,Hockomock,6:00 P.M.,,0
 2025-11-05,61295,FINAL,Pembroke,4308,3,1,Groton-Dunstable,4160,0,0,Patriot,Mid-Wach,5:00 P.M.,,0
@@ -1401,6 +1401,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-15,63927,UPCOMING,Groton,4544,,,Kingswood-Oxford,4198,,,ISL,Independent,2:30 P.M.,,0
 2025-11-15,63929,UPCOMING,Greens Farms,4158,,,Greenwich CD (Conn.),5041,,,Independent,Independent,2:00 P.M.,,0
 2025-11-15,63930,UPCOMING,Wilbraham & Monson,4545,,,Hamden Hall Country Day,4162,,,Independent,Independent,2:30 P.M.,,0
-2025-11-15,63932,UPCOMING,Harvey (N.Y.),4166,,,Cambridge,4067,,,Independent,Dual County,,,0
+2025-11-15,63932,UPCOMING,Harvey (N.Y.),4166,,,Cambridge,4067,,,Independent,Dual County,1:30 P.M.,,0
 2025-11-15,63934,UPCOMING,Christian Heritage,4641,,,Bancroft,4023,,,Independent,EIL,1:00 P.M.,,0
-2025-11-15,63936,UPCOMING,Hoosac School,4688,,,Covenant Christian,4629,,,Independent,IGC,,,0
+2025-11-15,63936,UPCOMING,Hoosac School,4688,,,Covenant Christian,4629,,,Independent,IGC,1:00 P.M.,,0

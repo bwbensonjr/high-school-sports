@@ -1505,20 +1505,20 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-03,63036,FINAL,Lee,4206,6.0,1.0,New Mission/English High,4494,0.0,0.0,Independent,Boston City,2:30 P.M.,,0
 2025-11-03,63039,FINAL,Greenfield,4157,4.0,1.0,Renaissance,4664,0.0,0.0,Bi-County,Pioneer,2:00 P.M.,,0
 2025-11-03,63403,FINAL,Beaver Country Day,4030,2.0,1.0,Bancroft,4023,1.0,0.0,EIL,EIL,,,0
-2025-11-04,62469,FINAL,Newton North,4279,3,1,Wachusett,4400,2,0,Bay State,Mid-Wach,5:00 P.M.,,0
-2025-11-04,62472,FINAL,Hopkinton,4180,4,1,Weymouth,4425,1,0,Tri-Valley,Bay State,4:00 P.M.,,0
-2025-11-04,62475,FINAL,Brookline,4059,1,0,Westford,4421,2,1,Bay State,Dual County,1:00 P.M.,2.0,1
-2025-11-04,62481,FINAL,Lincoln-Sudbury,4211,4,1,Acton-Boxborough,4003,2,0,Dual County,Dual County,6:30 P.M.,,0
-2025-11-04,62580,FINAL,Minnechaug,4254,6,1,Melrose,4244,4,0,Coombs,Middlesex,6:00 P.M.,,0
-2025-11-04,62583,FINAL,Canton,4071,0,0,North Quincy,4287,1,1,Hockomock,Patriot,7:00 P.M.,,0
-2025-11-04,62613,FINAL,Notre Dame (Hingham),4449,2,1,Sharon,4345,1,0,Catholic Conference,Hockomock,5:00 P.M.,,0
-2025-11-04,62706,FINAL,Ludlow,4218,3,0,Foxborough,4142,4,1,Coombs,Hockomock,6:00 P.M.,,0
-2025-11-04,62712,FINAL,Apponequet,4011,2,0,Dedham,4108,3,1,South Coast,Tri-Valley,5:00 P.M.,,0
-2025-11-04,62748,FINAL,Medfield,4241,8,1,Ursuline,4448,0,0,Tri-Valley,Catholic Conference,6:45 P.M.,,0
-2025-11-04,62916,FINAL,Advanced Math and Science,4595,7,1,Westfield Tech,4420,0,0,CMAC,Tri-County,3:30 P.M.,,0
-2025-11-04,62970,FINAL,Drury,4120,0,0,David Prouty,4106,1,1,Pioneer,CMAC,2:00 P.M.,,0
-2025-11-04,62973,FINAL,St. Mary (Westfield),4537,0,0,Boston Collegiate,4592,2,1,Bi-County,Charter School Athletic,3:00 P.M.,,0
-2025-11-04,62976,FINAL,Holbrook,4172,6,1,Lenox,4532,2,0,Mayflower,Central,4:30 P.M.,,0
+2025-11-04,62469,FINAL,Newton North,4279,3.0,1.0,Wachusett,4400,2.0,0.0,Bay State,Mid-Wach,5:00 P.M.,,0
+2025-11-04,62472,FINAL,Hopkinton,4180,4.0,1.0,Weymouth,4425,1.0,0.0,Tri-Valley,Bay State,4:00 P.M.,,0
+2025-11-04,62475,FINAL,Brookline,4059,1.0,0.0,Westford,4421,2.0,1.0,Bay State,Dual County,1:00 P.M.,2.0,1
+2025-11-04,62481,FINAL,Lincoln-Sudbury,4211,4.0,1.0,Acton-Boxborough,4003,2.0,0.0,Dual County,Dual County,6:30 P.M.,,0
+2025-11-04,62580,FINAL,Minnechaug,4254,6.0,1.0,Melrose,4244,4.0,0.0,Coombs,Middlesex,6:00 P.M.,,0
+2025-11-04,62583,FINAL,Canton,4071,0.0,0.0,North Quincy,4287,1.0,1.0,Hockomock,Patriot,7:00 P.M.,,0
+2025-11-04,62613,FINAL,Notre Dame (Hingham),4449,2.0,1.0,Sharon,4345,1.0,0.0,Catholic Conference,Hockomock,5:00 P.M.,,0
+2025-11-04,62706,FINAL,Ludlow,4218,3.0,0.0,Foxborough,4142,4.0,1.0,Coombs,Hockomock,6:00 P.M.,,0
+2025-11-04,62712,FINAL,Apponequet,4011,2.0,0.0,Dedham,4108,3.0,1.0,South Coast,Tri-Valley,5:00 P.M.,,0
+2025-11-04,62748,FINAL,Medfield,4241,8.0,1.0,Ursuline,4448,0.0,0.0,Tri-Valley,Catholic Conference,6:45 P.M.,,0
+2025-11-04,62916,FINAL,Advanced Math and Science,4595,7.0,1.0,Westfield Tech,4420,0.0,0.0,CMAC,Tri-County,3:30 P.M.,,0
+2025-11-04,62970,FINAL,Drury,4120,0.0,0.0,David Prouty,4106,1.0,1.0,Pioneer,CMAC,2:00 P.M.,,0
+2025-11-04,62973,FINAL,St. Mary (Westfield),4537,0.0,0.0,Boston Collegiate,4592,2.0,1.0,Bi-County,Charter School Athletic,3:00 P.M.,,0
+2025-11-04,62976,FINAL,Holbrook,4172,6.0,1.0,Lenox,4532,2.0,0.0,Mayflower,Central,4:30 P.M.,,0
 2025-11-05,62466,FINAL,Arlington,4013,0,0,Newton South,4280,1,1,Middlesex,Dual County,6:00 P.M.,,0
 2025-11-05,62478,FINAL,Braintree,4051,5,1,Bridgewater-Raynham,4053,0,0,Bay State,Southeast,5:00 P.M.,,0
 2025-11-05,62490,FINAL,Central Catholic,4081,6,1,Attleboro,4018,0,0,Merrimack Valley,Hockomock,6:00 P.M.,,0
@@ -1681,3 +1681,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-15,63909,UPCOMING,Brewster Academy,4052,,,Portsmouth Abbey,4320,,,Independent,EIL,1:30 P.M.,,0
 2025-11-15,63910,UPCOMING,St. Thomas More,4379,,,Vermont Academy,4399,,,Independent,Independent,2:00 P.M.,,0
 2025-11-15,63912,UPCOMING,Tilton,4391,,,Kents Hill,4194,,,Independent,Independent,12:00 P.M.,,0
+2025-11-17,62538,UPCOMING,Longmeadow,4214,,,King Philip,4197,,,Kurty-Fielding,Hockomock,4:45 P.M.,,0
+2025-11-17,62541,UPCOMING,Duxbury,4123,,,Masconomet,4236,,,Patriot,Northeastern,4:45 P.M.,,0
+2025-11-17,62661,UPCOMING,Nipmuc,4281,,,Norwell,4296,,,CMAC,South Shore,4:45 P.M.,,0
+2025-11-17,62664,UPCOMING,Medfield,4241,,,Pope Francis,4796,,,Tri-Valley,Bi-County,7:00 P.M.,,0
+2025-11-17,62787,UPCOMING,Sutton,4512,,,Cohasset,4094,,,CMAC,South Shore,7:00 P.M.,,0
+2025-11-17,62928,UPCOMING,Granby,4520,,,Monson,4429,,,Central,Central,6:00 P.M.,,0
+2025-11-18,62424,UPCOMING,Franklin,4144,,,Concord-Carlisle,4097,,,Hockomock,Dual County,7:00 P.M.,,0
+2025-11-18,62427,UPCOMING,Natick,4270,,,Belmont,4034,,,Bay State,Middlesex,4:45 P.M.,,0
+2025-11-18,62784,UPCOMING,Littleton,4212,,,Southwick,4519,,,Mid-Wach,Central,4:45 P.M.,,0

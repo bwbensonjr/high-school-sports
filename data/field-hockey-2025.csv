@@ -960,19 +960,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-03,61024,FINAL,Manchester Essex,4229,6.0,1.0,Triton,4395,0.0,0.0,Cape Ann,Cape Ann,4:00 P.M.,,0
 2025-11-03,61027,FINAL,West Bridgewater,4415,5.0,1.0,Narragansett,4266,2.0,0.0,South Coast,Mid-Wach,5:30 P.M.,,0
 2025-11-03,61048,FINAL,Monomoy,4706,10.0,1.0,St. Paul,4954,0.0,0.0,Cape & Islands,CMAC,4:00 P.M.,,0
-2025-11-04,60685,FINAL,Belmont,4034,4,1,Wachusett,4400,0,0,Middlesex,Mid-Wach,4:00 P.M.,,0
-2025-11-04,60688,FINAL,Winchester,4434,2,1,Bishop Feehan,4042,1,0,Middlesex,Catholic Central,4:30 P.M.,,0
-2025-11-04,60694,FINAL,Wellesley,4413,3,1,Westborough,4418,1,0,Bay State,Mid-Wach,4:00 P.M.,,0
-2025-11-04,60781,FINAL,Longmeadow,4214,3,1,Duxbury,4123,1,0,Suburban,Patriot,7:00 P.M.,,0
-2025-11-04,60880,FINAL,Hanover,4164,0,0,Lynnfield,4223,2,1,Patriot,Cape Ann,4:00 P.M.,,0
-2025-11-04,60883,FINAL,Medway,4243,0,0,East Longmeadow,4127,1,1,Tri-Valley,Valley,5:00 P.M.,,0
-2025-11-04,60886,FINAL,Watertown,4409,2,1,Gloucester,4150,0,0,Middlesex,Northeastern,3:00 P.M.,,0
-2025-11-04,60892,FINAL,Dover-Sherborn,4118,2,1,Foxborough,4142,1,0,Tri-Valley,Hockomock,5:30 P.M.,,0
-2025-11-04,60895,FINAL,Sandwich,4340,7,1,Dedham,4108,0,0,Cape & Islands,Tri-Valley,4:00 P.M.,,0
-2025-11-04,60982,FINAL,Quabbin,4325,2,1,St. John Paul II,4689,0,0,Mid-Wach,Cape & Islands,2:30 P.M.,,0
-2025-11-04,60991,FINAL,Sutton,4512,5,1,Westport,4461,1,0,CMAC,Mayflower,5:30 P.M.,,0
-2025-11-04,60994,FINAL,Cohasset,4094,3,1,Nipmuc,4281,1,0,South Shore,CMAC,4:30 P.M.,,0
-2025-11-04,60997,FINAL,Dennis-Yarmouth,4111,4,1,Ipswich,4190,0,0,Cape & Islands,Cape Ann,2:30 P.M.,,0
+2025-11-04,60685,FINAL,Belmont,4034,4.0,1.0,Wachusett,4400,0.0,0.0,Middlesex,Mid-Wach,4:00 P.M.,,0
+2025-11-04,60688,FINAL,Winchester,4434,2.0,1.0,Bishop Feehan,4042,1.0,0.0,Middlesex,Catholic Central,4:30 P.M.,,0
+2025-11-04,60694,FINAL,Wellesley,4413,3.0,1.0,Westborough,4418,1.0,0.0,Bay State,Mid-Wach,4:00 P.M.,,0
+2025-11-04,60781,FINAL,Longmeadow,4214,3.0,1.0,Duxbury,4123,1.0,0.0,Suburban,Patriot,7:00 P.M.,,0
+2025-11-04,60880,FINAL,Hanover,4164,0.0,0.0,Lynnfield,4223,2.0,1.0,Patriot,Cape Ann,4:00 P.M.,,0
+2025-11-04,60883,FINAL,Medway,4243,0.0,0.0,East Longmeadow,4127,1.0,1.0,Tri-Valley,Valley,5:00 P.M.,,0
+2025-11-04,60886,FINAL,Watertown,4409,2.0,1.0,Gloucester,4150,0.0,0.0,Middlesex,Northeastern,3:00 P.M.,,0
+2025-11-04,60892,FINAL,Dover-Sherborn,4118,2.0,1.0,Foxborough,4142,1.0,0.0,Tri-Valley,Hockomock,5:30 P.M.,,0
+2025-11-04,60895,FINAL,Sandwich,4340,7.0,1.0,Dedham,4108,0.0,0.0,Cape & Islands,Tri-Valley,4:00 P.M.,,0
+2025-11-04,60982,FINAL,Quabbin,4325,2.0,1.0,St. John Paul II,4689,0.0,0.0,Mid-Wach,Cape & Islands,2:30 P.M.,,0
+2025-11-04,60991,FINAL,Sutton,4512,5.0,1.0,Westport,4461,1.0,0.0,CMAC,Mayflower,5:30 P.M.,,0
+2025-11-04,60994,FINAL,Cohasset,4094,3.0,1.0,Nipmuc,4281,1.0,0.0,South Shore,CMAC,4:30 P.M.,,0
+2025-11-04,60997,FINAL,Dennis-Yarmouth,4111,4.0,1.0,Ipswich,4190,0.0,0.0,Cape & Islands,Cape Ann,2:30 P.M.,,0
 2025-11-05,53236,FINAL,Worcester Academy,4441,1,0,St. Mark’s,4372,7,1,Independent,ISL,3:00 P.M.,,0
 2025-11-05,53336,FINAL,Austin Prep,4020,2,0,Northfield Mt. Hermon,4294,3,1,Independent,Independent,3:30 P.M.,,0
 2025-11-05,53565,FINAL,Taft,4386,2,1,Suffield Academy,4382,1,0,Independent,Independent,3:00 P.M.,,0
