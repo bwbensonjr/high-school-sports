@@ -973,27 +973,27 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-04,60991,FINAL,Sutton,4512,5.0,1.0,Westport,4461,1.0,0.0,CMAC,Mayflower,5:30 P.M.,,0
 2025-11-04,60994,FINAL,Cohasset,4094,3.0,1.0,Nipmuc,4281,1.0,0.0,South Shore,CMAC,4:30 P.M.,,0
 2025-11-04,60997,FINAL,Dennis-Yarmouth,4111,4.0,1.0,Ipswich,4190,0.0,0.0,Cape & Islands,Cape Ann,2:30 P.M.,,0
-2025-11-05,53236,FINAL,Worcester Academy,4441,1,0,St. Mark’s,4372,7,1,Independent,ISL,3:00 P.M.,,0
-2025-11-05,53336,FINAL,Austin Prep,4020,2,0,Northfield Mt. Hermon,4294,3,1,Independent,Independent,3:30 P.M.,,0
-2025-11-05,53565,FINAL,Taft,4386,2,1,Suffield Academy,4382,1,0,Independent,Independent,3:00 P.M.,,0
-2025-11-05,53711,FINAL,Loomis Chaffee (Conn.),4215,1,0,Hotchkiss,4181,2,1,Founders,Independent,3:00 P.M.,,0
-2025-11-05,60679,FINAL,Andover,4009,1,1,Acton-Boxborough,4003,0,0,Merrimack Valley,Dual County,6:00 P.M.,,0
-2025-11-05,60682,FINAL,Concord-Carlisle,4097,3,0,Hopkinton,4180,4,1,Dual County,Tri-Valley,4:30 P.M.,,1
-2025-11-05,60691,FINAL,Lincoln-Sudbury,4211,3,1,Attleboro,4018,0,0,Dual County,Hockomock,2:30 P.M.,,0
-2025-11-05,60700,FINAL,Walpole,4404,5,1,Algonquin,4005,0,0,Bay State,Mid-Wach,6:30 P.M.,,0
-2025-11-05,60775,FINAL,Newburyport,4276,2,0,Reading,4328,3,1,Cape Ann,Middlesex,4:00 P.M.,,0
-2025-11-05,60787,FINAL,Canton,4071,7,1,Norwood,4297,0,0,Hockomock,Tri-Valley,5:30 P.M.,,0
-2025-11-05,60790,FINAL,Somerset Berkley,4350,9,1,Doherty,4116,0,0,South Coast,CMAC,3:30 P.M.,,0
-2025-11-05,60793,FINAL,Nashoba,4267,7,1,Notre Dame (Hingham),4449,0,0,Mid-Wach,Independent,5:00 P.M.,,0
-2025-11-05,60796,FINAL,Hingham,4171,2,1,Milton,4252,0,0,Patriot,Bay State,4:00 P.M.,,0
-2025-11-05,60889,FINAL,Medfield,4241,2,1,Nauset,4271,1,0,Tri-Valley,Cape & Islands,4:30 P.M.,,0
-2025-11-05,60898,FINAL,Uxbridge,4398,9,1,Marlborough,4233,0,0,CMAC,Mid-Wach,7:00 P.M.,,0
-2025-11-05,60979,FINAL,Manchester Essex,4229,4,1,West Bridgewater,4415,1,0,Cape Ann,South Coast,5:00 P.M.,,0
-2025-11-05,60985,FINAL,Hopedale,4507,2,1,East Bridgewater,4126,1,0,CMAC,South Shore,4:30 P.M.,1.0,0
-2025-11-05,60988,FINAL,Frontier,4146,4,1,Seekonk,4344,0,0,Suburban,South Coast,2:30 P.M.,,0
-2025-11-05,61000,FINAL,Monomoy,4706,8,1,Lunenburg,4219,0,0,Cape & Islands,Mid-Wach,4:00 P.M.,,0
-2025-11-05,63540,FINAL,Rivers,4330,3,1,Nobles,4282,1,0,ISL,ISL,,,0
-2025-11-05,63554,FINAL,Cushing,4101,5,1,Holderness,4173,0,0,Independent,Independent,,,0
+2025-11-05,53236,FINAL,Worcester Academy,4441,1.0,0.0,St. Mark’s,4372,7.0,1.0,Independent,ISL,3:00 P.M.,,0
+2025-11-05,53336,FINAL,Austin Prep,4020,2.0,0.0,Northfield Mt. Hermon,4294,3.0,1.0,Independent,Independent,3:30 P.M.,,0
+2025-11-05,53565,FINAL,Taft,4386,2.0,1.0,Suffield Academy,4382,1.0,0.0,Independent,Independent,3:00 P.M.,,0
+2025-11-05,53711,FINAL,Loomis Chaffee (Conn.),4215,1.0,0.0,Hotchkiss,4181,2.0,1.0,Founders,Independent,3:00 P.M.,,0
+2025-11-05,60679,FINAL,Andover,4009,1.0,1.0,Acton-Boxborough,4003,0.0,0.0,Merrimack Valley,Dual County,6:00 P.M.,,0
+2025-11-05,60682,FINAL,Concord-Carlisle,4097,3.0,0.0,Hopkinton,4180,4.0,1.0,Dual County,Tri-Valley,4:30 P.M.,,1
+2025-11-05,60691,FINAL,Lincoln-Sudbury,4211,3.0,1.0,Attleboro,4018,0.0,0.0,Dual County,Hockomock,2:30 P.M.,,0
+2025-11-05,60700,FINAL,Walpole,4404,5.0,1.0,Algonquin,4005,0.0,0.0,Bay State,Mid-Wach,6:30 P.M.,,0
+2025-11-05,60775,FINAL,Newburyport,4276,2.0,0.0,Reading,4328,3.0,1.0,Cape Ann,Middlesex,4:00 P.M.,,0
+2025-11-05,60787,FINAL,Canton,4071,7.0,1.0,Norwood,4297,0.0,0.0,Hockomock,Tri-Valley,5:30 P.M.,,0
+2025-11-05,60790,FINAL,Somerset Berkley,4350,9.0,1.0,Doherty,4116,0.0,0.0,South Coast,CMAC,3:30 P.M.,,0
+2025-11-05,60793,FINAL,Nashoba,4267,7.0,1.0,Notre Dame (Hingham),4449,0.0,0.0,Mid-Wach,Independent,5:00 P.M.,,0
+2025-11-05,60796,FINAL,Hingham,4171,2.0,1.0,Milton,4252,0.0,0.0,Patriot,Bay State,4:00 P.M.,,0
+2025-11-05,60889,FINAL,Medfield,4241,2.0,1.0,Nauset,4271,1.0,0.0,Tri-Valley,Cape & Islands,4:30 P.M.,,0
+2025-11-05,60898,FINAL,Uxbridge,4398,9.0,1.0,Marlborough,4233,0.0,0.0,CMAC,Mid-Wach,7:00 P.M.,,0
+2025-11-05,60979,FINAL,Manchester Essex,4229,4.0,1.0,West Bridgewater,4415,1.0,0.0,Cape Ann,South Coast,5:00 P.M.,,0
+2025-11-05,60985,FINAL,Hopedale,4507,2.0,1.0,East Bridgewater,4126,1.0,0.0,CMAC,South Shore,4:30 P.M.,1.0,0
+2025-11-05,60988,FINAL,Frontier,4146,4.0,1.0,Seekonk,4344,0.0,0.0,Suburban,South Coast,2:30 P.M.,,0
+2025-11-05,61000,FINAL,Monomoy,4706,8.0,1.0,Lunenburg,4219,0.0,0.0,Cape & Islands,Mid-Wach,4:00 P.M.,,0
+2025-11-05,63540,FINAL,Rivers,4330,3.0,1.0,Nobles,4282,1.0,0.0,ISL,ISL,,,0
+2025-11-05,63554,FINAL,Cushing,4101,5.0,1.0,Holderness,4173,0.0,0.0,Independent,Independent,,,0
 2025-11-06,60697,FINAL,Franklin,4144,2,1,Waltham,4405,0,0,Hockomock,Dual County,3:45 P.M.,,0
 2025-11-06,60778,FINAL,Masconomet,4236,0,0,Westwood,4424,1,1,Northeastern,Tri-Valley,6:30 P.M.,,0
 2025-11-06,60784,FINAL,King Philip,4197,6,1,Dartmouth,4105,2,0,Hockomock,Southeast,3:35 P.M.,,0
@@ -1038,13 +1038,16 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-13,60760,FINAL,Hingham,4171,4,1,Canton,4071,1,0,Patriot,Hockomock,7:00 P.M.,,0
 2025-11-13,60961,FINAL,Dennis-Yarmouth,4111,4,1,Cohasset,4094,3,0,Cape & Islands,South Shore,5:00 P.M.,1.0,0
 2025-11-13,60964,FINAL,Monomoy,4706,1,0,Frontier,4146,3,1,Cape & Islands,Suburban,5:00 P.M.,,0
-2025-11-15,60658,UPCOMING,Walpole,4404,,,Franklin,4144,,,Bay State,Hockomock,9:30 A.M.,,0
-2025-11-15,60754,UPCOMING,Hingham,4171,,,Somerset Berkley,4350,,,Patriot,South Coast,2:30 P.M.,,0
-2025-11-15,60856,UPCOMING,Uxbridge,4398,,,Sandwich,4340,,,CMAC,Cape & Islands,5:00 P.M.,,0
-2025-11-15,60958,UPCOMING,Dennis-Yarmouth,4111,,,Frontier,4146,,,Cape & Islands,Suburban,12:00 P.M.,,0
-2025-11-15,63914,UPCOMING,Greenwich Academy (Conn.),4159,,,Sacred Heart (Conn.),4586,,,Independent,Independent,1:00 P.M.,,0
-2025-11-15,63916,UPCOMING,Phillips Andover,4310,,,Nobles,4282,,,Independent,ISL,1:00 P.M.,,0
-2025-11-15,63917,UPCOMING,Rivers,4330,,,Cushing,4101,,,ISL,Independent,2:00 P.M.,,0
-2025-11-15,63918,UPCOMING,Williston Northampton,4431,,,Middlesex,4248,,,Independent,ISL,1:00 P.M.,,0
-2025-11-15,63919,UPCOMING,New Hampton,4275,,,Portsmouth Abbey,4320,,,Independent,EIL,2:00 P.M.,,0
-2025-11-15,63920,UPCOMING,King (Conn.),4199,,,Frederick Gunn (Conn.),4161,,,Independent,Independent,1:00 P.M.,,0
+2025-11-15,60658,FINAL,Walpole,4404,1,1,Franklin,4144,0,0,Bay State,Hockomock,9:30 A.M.,,0
+2025-11-15,60754,FINAL,Hingham,4171,0,0,Somerset Berkley,4350,3,1,Patriot,South Coast,2:30 P.M.,,0
+2025-11-15,60856,FINAL,Uxbridge,4398,3,1,Sandwich,4340,0,0,CMAC,Cape & Islands,5:00 P.M.,,0
+2025-11-15,60958,FINAL,Dennis-Yarmouth,4111,2,1,Frontier,4146,1,0,Cape & Islands,Suburban,12:00 P.M.,,0
+2025-11-15,63914,FINAL,Greenwich Academy (Conn.),4159,2,1,Sacred Heart (Conn.),4586,1,0,Independent,Independent,1:00 P.M.,,0
+2025-11-15,63916,FINAL,Phillips Andover,4310,4,1,Nobles,4282,1,0,Independent,ISL,1:00 P.M.,,0
+2025-11-15,63917,FINAL,Rivers,4330,1,0,Cushing,4101,2,1,ISL,Independent,2:00 P.M.,,0
+2025-11-15,63918,FINAL,Williston Northampton,4431,2,0,Middlesex,4248,3,1,Independent,ISL,1:00 P.M.,,0
+2025-11-15,63919,FINAL,New Hampton,4275,3,1,Portsmouth Abbey,4320,0,0,Independent,EIL,2:00 P.M.,,0
+2025-11-15,63920,FINAL,King (Conn.),4199,2,1,Frederick Gunn (Conn.),4161,1,0,Independent,Independent,1:00 P.M.,,0
+2025-11-16,63937,UPCOMING,Greenwich Academy (Conn.),4159,,,Phillips Andover,4310,,,Independent,Independent,12:30 P.M.,,0
+2025-11-16,63938,UPCOMING,Middlesex,4248,,,Cushing,4101,,,ISL,Independent,2:00 P.M.,,0
+2025-11-16,63939,UPCOMING,New Hampton,4275,,,King (Conn.),4199,,,Independent,Independent,11:00 A.M.,,0

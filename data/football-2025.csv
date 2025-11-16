@@ -907,7 +907,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-14,63737,FINAL,Auburn,4019,45,1,Shepherd Hill,4347,14,0,CMAC,Mid-Wach,5:00 P.M.,,0
 2025-11-14,63739,FINAL,Westborough,4418,45,1,Groton-Dunstable/NM,4160,28,0,Mid-Wach,Mid-Wach,6:30 P.M.,,0
 2025-11-14,63740,FINAL,Monty Tech,4259,6,0,Quabbin,4325,20,1,CMAC,Mid-Wach,5:00 P.M.,,0
-2025-11-14,63741,UPCOMING,Marlborough,4233,,,Grafton,4153,,,Mid-Wach,Mid-Wach,7:00 P.M.,,0
+2025-11-14,63741,FINAL,Marlborough,4233,27,1,Grafton,4153,14,0,Mid-Wach,Mid-Wach,7:00 P.M.,,0
 2025-11-14,63742,FINAL,Algonquin,4005,12,0,Doherty,4116,32,1,Mid-Wach,CMAC,6:00 P.M.,,0
 2025-11-14,63745,FINAL,Gardner,4147,22,0,Oakmont,4299,42,1,Mid-Wach,Mid-Wach,7:00 P.M.,,0
 2025-11-14,63746,FINAL,Burncoat,4066,20,0,Worcester North,4443,36,1,CMAC,CMAC,5:30 P.M.,,0
@@ -966,21 +966,41 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-14,63880,FINAL,Mahar,4226,0,0,Ludlow,4218,34,1,Intercounty,Suburban,6:00 P.M.,,0
 2025-11-14,63881,FINAL,Athol,4017,18,0,Belchertown,4032,30,1,Intercounty,Intercounty,6:00 P.M.,,0
 2025-11-14,63882,FINAL,Northampton,4291,16,0,McCann Tech,4240,24,1,Suburban,Tri-County,7:00 P.M.,,0
-2025-11-15,63369,UPCOMING,Lee,4206,,,Cathedral,4079,,,Intercounty,Catholic Central,4:30 P.M.,,0
-2025-11-15,63565,UPCOMING,Dexter Southfield,4113,,,Cheshire Academy,4087,,,NEPSAC Class A,NEPSAC Class A,1:00 P.M.,,0
-2025-11-15,63567,UPCOMING,Avon Old Farms,4021,,,Williston Northampton,4431,,,NEPSAC Class A,NEPSAC Class A,1:00 P.M.,,0
-2025-11-15,63570,UPCOMING,Nobles,4282,,,Berkshire,4036,,,NEPSAC Class C,NEPSAC Class C,1:00 P.M.,,0
-2025-11-15,63571,UPCOMING,Milton Academy,4253,,,Brunswick,4062,,,NEPSAC Class B,NEPSAC Class A,1:00 P.M.,,0
-2025-11-15,63574,UPCOMING,Tabor,4384,,,BB&N,4028,,,NEPSAC Class B,NEPSAC Class B,1:00 P.M.,,0
-2025-11-15,63576,UPCOMING,St. Mark’s,4372,,,Canterbury,4070,,,NEPSAC Class C,NEPSAC Class C,1:00 P.M.,,0
-2025-11-15,63577,UPCOMING,Phillips Exeter,4311,,,Choate,4090,,,NEPSAC Class A,NEPSAC Class A,1:00 P.M.,,0
-2025-11-15,63578,UPCOMING,Kingswood-Oxford,4198,,,Rivers,4330,,,NEPSAC Class C,NEPSAC Class C,1:00 P.M.,,0
+2025-11-15,63369,FINAL,Lee,4206,48,1,Cathedral,4079,36,0,Intercounty,Catholic Central,4:30 P.M.,,0
+2025-11-15,63565,FINAL,Dexter Southfield,4113,20,0,Cheshire Academy,4087,31,1,NEPSAC Class A,NEPSAC Class A,4:30 P.M.,,0
+2025-11-15,63567,FINAL,Avon Old Farms,4021,35,1,Williston Northampton,4431,21,0,NEPSAC Class A,NEPSAC Class A,1:00 P.M.,,0
+2025-11-15,63570,FINAL,Nobles,4282,13,0,Berkshire,4036,14,1,NEPSAC Class C,NEPSAC Class C,1:00 P.M.,,0
+2025-11-15,63571,FINAL,Milton Academy,4253,35,1,Brunswick,4062,14,0,NEPSAC Class B,NEPSAC Class A,1:00 P.M.,,0
+2025-11-15,63574,FINAL,Tabor,4384,42,1,BB&N,4028,21,0,NEPSAC Class B,NEPSAC Class B,1:00 P.M.,,0
+2025-11-15,63576,FINAL,St. Mark’s,4372,13,0,Canterbury,4070,20,1,NEPSAC Class C,NEPSAC Class C,1:00 P.M.,,0
+2025-11-15,63577,FINAL,Phillips Exeter,4311,42,0,Choate,4090,44,1,NEPSAC Class A,NEPSAC Class A,1:00 P.M.,,0
+2025-11-15,63578,FINAL,Kingswood-Oxford,4198,11,0,Rivers,4330,14,1,NEPSAC Class C,NEPSAC Class C,1:00 P.M.,,0
 2025-11-15,63715,UPCOMING,Tri-County,4392,,,Worcester Tech,4445,,,Mayflower,CMAC,6:00 P.M.,,0
-2025-11-15,63718,UPCOMING,Northeast,4293,,,Upper Cape,4457,,,Commonwealth,Mayflower,12:00 P.M.,,0
-2025-11-15,63722,UPCOMING,Blackstone Valley,4046,,,Bay Path,4027,,,CMAC,CMAC,1:00 P.M.,,0
+2025-11-15,63718,FINAL,Northeast,4293,51,1,Upper Cape,4457,6,0,Commonwealth,Mayflower,12:00 P.M.,,0
+2025-11-15,63722,FINAL,Blackstone Valley,4046,21,1,Bay Path,4027,16,0,CMAC,CMAC,1:00 P.M.,,0
 2025-11-15,63725,UPCOMING,Franklin County Tech,4145,,,Cape Cod Tech,4073,,,Intercounty,Mayflower,3:00 P.M.,,0
 2025-11-15,63749,UPCOMING,Southbridge,4357,,,St. Paul,4954,,,CMAC,CMAC,12:00 P.M.,,0
-2025-11-15,63758,UPCOMING,Blackstone-Millville/Hopedale,4486,,,Nipmuc,4281,,,CMAC,CMAC,12:00 P.M.,,0
-2025-11-15,63850,UPCOMING,Brockton,4058,,,Attleboro,4018,,,Big Three,Hockomock,12:00 P.M.,,0
+2025-11-15,63758,FINAL,Blackstone-Millville/Hopedale,4486,20,0,Nipmuc,4281,44,1,CMAC,CMAC,12:00 P.M.,,0
+2025-11-15,63850,FINAL,Brockton,4058,21,0,Attleboro,4018,32,1,Big Three,Hockomock,12:00 P.M.,,0
 2025-11-25,43920,UPCOMING,Brookline,4059,,,Newton North,4279,,,Bay State,Bay State,7:30 P.M.,,0
 2025-11-25,44673,UPCOMING,Wakefield,4402,,,Melrose,4244,,,Middlesex,Middlesex,5:00 P.M.,,0
+2025-11-26,43993,UPCOMING,Brighton,4055,,,TechBoston,4117,,,Boston City,Boston City,1:00 P.M.,,0
+2025-11-26,44114,UPCOMING,Cardinal Spellman,4075,,,Archbishop Williams,4012,,,Catholic Central,Catholic Central,6:00 P.M.,,0
+2025-11-26,44128,UPCOMING,Bishop Stang,4045,,,Bishop Feehan,4042,,,Catholic Central,Catholic Central,5:00 P.M.,,0
+2025-11-26,44182,UPCOMING,St. John’s (Shrewsbury),4368,,,Malden Catholic,4228,,,Catholic Conference,Catholic Conference,6:00 P.M.,,0
+2025-11-26,44227,UPCOMING,Whittier,4428,,,Greater Lawrence,4154,,,Commonwealth,Commonwealth,6:00 P.M.,,0
+2025-11-26,44248,UPCOMING,Greater Lowell,4155,,,Lowell Catholic,4217,,,Commonwealth,Commonwealth,6:00 P.M.,,0
+2025-11-26,44266,UPCOMING,KIPP,4703,,,Lynn Tech,4222,,,Commonwealth,Commonwealth,6:00 P.M.,,0
+2025-11-26,44286,UPCOMING,Somerset Berkley,4350,,,Central High (R.I.),5075,,,South Coast,Independent,5:00 P.M.,,0
+2025-11-26,44477,UPCOMING,Concord-Carlisle,4097,,,Lexington,4209,,,Dual County,Middlesex,6:00 P.M.,,0
+2025-11-26,44479,UPCOMING,Bristol-Plymouth,4057,,,Blue Hills,4047,,,Mayflower,Mayflower,5:00 P.M.,,0
+2025-11-26,44497,UPCOMING,South Shore Voc-Tech,4356,,,Southeastern,4358,,,Mayflower,Mayflower,5:00 P.M.,,0
+2025-11-26,44507,UPCOMING,Old Colony,4300,,,Tri-County,4392,,,Mayflower,Mayflower,6:00 P.M.,,0
+2025-11-26,44864,UPCOMING,Plymouth North,4315,,,Plymouth South,4316,,,Patriot,Patriot,4:00 P.M.,,0
+2025-11-26,44901,UPCOMING,Milford,4249,,,Taunton,4388,,,Hockomock,Hockomock,6:00 P.M.,,0
+2025-11-26,45085,UPCOMING,Worcester Tech,4445,,,Abby Kelley Foster,4503,,,CMAC,CMAC,3:00 P.M.,,0
+2025-11-26,45127,UPCOMING,Quabbin,4325,,,Gardner,4147,,,Mid-Wach,Mid-Wach,6:00 P.M.,,0
+2025-11-26,45193,UPCOMING,Worcester South,4444,,,Worcester North,4443,,,CMAC,CMAC,12:00 P.M.,,0
+2025-11-26,45243,UPCOMING,Quaboag,4510,,,Ware,4406,,,CMAC,Intercounty,6:00 P.M.,,0
+2025-11-26,45244,UPCOMING,St. Bernard’s,4365,,,St. Paul,4954,,,CMAC,CMAC,6:00 P.M.,,0
+2025-11-26,53120,UPCOMING,Nashoba Valley Tech,4268,,,Monty Tech,4259,,,Commonwealth,CMAC,6:00 P.M.,,0
