@@ -1002,20 +1002,20 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-07,60874,FINAL,Uxbridge,4398,9.0,1.0,Scituate,4343,0.0,0.0,CMAC,Patriot,3:45 P.M.,,0
 2025-11-07,60973,FINAL,Cohasset,4094,2.0,1.0,Hopedale,4507,0.0,0.0,South Shore,CMAC,4:00 P.M.,,0
 2025-11-07,60976,FINAL,Monomoy,4706,7.0,1.0,Manchester Essex,4229,0.0,0.0,Cape & Islands,Cape Ann,4:00 P.M.,,0
-2025-11-08,53237,FINAL,Worcester Academy,4441,0,0,Cushing,4101,8,1,Independent,Independent,2:00 P.M.,,0
-2025-11-08,53341,FINAL,Tilton,4391,1,0,Austin Prep,4020,2,1,Independent,Independent,2:00 P.M.,,0
-2025-11-08,53398,FINAL,Wilbraham & Monson,4545,4,1,Marianapolis,4567,0,0,Independent,Independent,2:30 P.M.,,0
-2025-11-08,53500,FINAL,St. Paul’s,4375,1,1,Governor’s Academy,4152,0,0,Independent,ISL,2:30 P.M.,,0
-2025-11-08,53568,FINAL,Hotchkiss,4181,2,1,Taft,4386,1,0,Independent,Independent,2:00 P.M.,,0
-2025-11-08,60667,FINAL,Lincoln-Sudbury,4211,0,0,Winchester,4434,1,1,Dual County,Middlesex,1:00 P.M.,2.0,1
-2025-11-08,60676,FINAL,Walpole,4404,5,1,Andover,4009,0,0,Bay State,Merrimack Valley,12:00 P.M.,,0
-2025-11-08,60763,FINAL,Canton,4071,2,1,King Philip,4197,1,0,Hockomock,Hockomock,6:00 P.M.,,0
-2025-11-08,60766,FINAL,Nashoba,4267,3,1,Westwood,4424,0,0,Mid-Wach,Tri-Valley,4:00 P.M.,,0
-2025-11-08,60772,FINAL,Hingham,4171,4,1,Reading,4328,1,0,Patriot,Middlesex,2:00 P.M.,,0
-2025-11-08,60865,FINAL,Medfield,4241,1,0,Watertown,4409,2,1,Tri-Valley,Middlesex,1:00 P.M.,,0
-2025-11-08,60871,FINAL,Dover-Sherborn,4118,3,1,East Longmeadow,4127,1,0,Tri-Valley,Valley,12:00 P.M.,,0
-2025-11-08,60967,FINAL,Sutton,4512,1,0,Frontier,4146,2,1,CMAC,Suburban,11:00 A.M.,,0
-2025-11-08,60970,FINAL,Dennis-Yarmouth,4111,1,1,Quabbin,4325,0,0,Cape & Islands,Mid-Wach,12:00 P.M.,,0
+2025-11-08,53237,FINAL,Worcester Academy,4441,0.0,0.0,Cushing,4101,8.0,1.0,Independent,Independent,2:00 P.M.,,0
+2025-11-08,53341,FINAL,Tilton,4391,1.0,0.0,Austin Prep,4020,2.0,1.0,Independent,Independent,2:00 P.M.,,0
+2025-11-08,53398,FINAL,Wilbraham & Monson,4545,4.0,1.0,Marianapolis,4567,0.0,0.0,Independent,Independent,2:30 P.M.,,0
+2025-11-08,53500,FINAL,St. Paul’s,4375,1.0,1.0,Governor’s Academy,4152,0.0,0.0,Independent,ISL,2:30 P.M.,,0
+2025-11-08,53568,FINAL,Hotchkiss,4181,2.0,1.0,Taft,4386,1.0,0.0,Independent,Independent,2:00 P.M.,,0
+2025-11-08,60667,FINAL,Lincoln-Sudbury,4211,0.0,0.0,Winchester,4434,1.0,1.0,Dual County,Middlesex,1:00 P.M.,2.0,1
+2025-11-08,60676,FINAL,Walpole,4404,5.0,1.0,Andover,4009,0.0,0.0,Bay State,Merrimack Valley,12:00 P.M.,,0
+2025-11-08,60763,FINAL,Canton,4071,2.0,1.0,King Philip,4197,1.0,0.0,Hockomock,Hockomock,6:00 P.M.,,0
+2025-11-08,60766,FINAL,Nashoba,4267,3.0,1.0,Westwood,4424,0.0,0.0,Mid-Wach,Tri-Valley,4:00 P.M.,,0
+2025-11-08,60772,FINAL,Hingham,4171,4.0,1.0,Reading,4328,1.0,0.0,Patriot,Middlesex,2:00 P.M.,,0
+2025-11-08,60865,FINAL,Medfield,4241,1.0,0.0,Watertown,4409,2.0,1.0,Tri-Valley,Middlesex,1:00 P.M.,,0
+2025-11-08,60871,FINAL,Dover-Sherborn,4118,3.0,1.0,East Longmeadow,4127,1.0,0.0,Tri-Valley,Valley,12:00 P.M.,,0
+2025-11-08,60967,FINAL,Sutton,4512,1.0,0.0,Frontier,4146,2.0,1.0,CMAC,Suburban,11:00 A.M.,,0
+2025-11-08,60970,FINAL,Dennis-Yarmouth,4111,1.0,1.0,Quabbin,4325,0.0,0.0,Cape & Islands,Mid-Wach,12:00 P.M.,,0
 2025-11-09,60769,FINAL,Somerset Berkley,4350,4,1,Longmeadow,4214,0,0,South Coast,Suburban,11:00 A.M.,,0
 2025-11-10,60670,FINAL,Franklin,4144,2,1,Hopkinton,4180,1,0,Hockomock,Tri-Valley,3:45 P.M.,2.0,0
 2025-11-12,60661,FINAL,Franklin,4144,2,1,Wellesley,4413,0,0,Hockomock,Bay State,7:00 P.M.,,0

@@ -1,67 +1,70 @@
 # Girls Soccer - 2025 Season
 
-Generated: 2025-11-18 11:16
+Generated: 2025-11-19 11:15
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2025-11-18 | 7:00 P.M. | Franklin | Concord-Carlisle | 64.5% | +2.1 |
-| 2025-11-18 | 4:45 P.M. | Natick | Belmont | 62.7% | +1.8 |
-| 2025-11-18 | 4:45 P.M. | Littleton | Southwick | 60.1% | +1.4 |
-| 2025-11-18 | 6:30 P.M. | Hopedale | Hull | 41.6% | -1.2 |
+| 2025-11-21 | 7:00 P.M. | Sutton | Littleton | 68.5% | +2.7 |
+| 2025-11-22 | 10:00 A.M. | Natick | Franklin | 63.4% | +1.9 |
 | 2025-11-22 | 2:30 P.M. | Duxbury | Longmeadow | 68.9% | +2.8 |
 | 2025-11-22 | 2:30 P.M. | Medfield | Nipmuc | 58.7% | +1.2 |
+| 2025-11-22 | 12:15 P.M. | Hull | Monson | 76.7% | +4.1 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2025-11-18 | Hopedale | 0 | Hull | 1 | -1.2 | -1.0 |
+| 2025-11-18 | Littleton | 3 | Southwick | 1 | +1.4 | +2.0 |
+| 2025-11-18 | Natick | 5 | Belmont | 0 | +1.8 | +5.0 |
+| 2025-11-18 | Franklin | 2 | Concord-Carlisle | 0 | +2.1 | +2.0 |
 | 2025-11-17 | Granby | 1 | Monson | 2 | +1.6 | -1.0 |
 | 2025-11-17 | Sutton | 1 | Cohasset | 0 | +0.7 | +1.0 |
 | 2025-11-17 | Medfield | 5 | Pope Francis | 1 | +3.1 | +4.0 |
 | 2025-11-17 | Nipmuc | 1 | Norwell | 0 | +0.3 | +1.0 |
 | 2025-11-17 | Duxbury | 2 | Masconomet | 1 | +0.4 | +1.0 |
 | 2025-11-17 | Longmeadow | 4 | King Philip | 2 | +1.3 | +2.0 |
-| 2025-11-16 | Tilton | 0 | Vermont Academy | 3 | +0.3 | -3.0 |
 | 2025-11-16 | Brewster Academy | 1 | Greens Farms | 4 | +0.9 | -3.0 |
 | 2025-11-16 | St. George’s | 1 | Williston Northampton | 0 | +1.1 | +1.0 |
 | 2025-11-16 | Miss Porter’s | 2 | Westminster | 0 | +1.4 | +2.0 |
-| 2025-11-15 | St. George’s | 1 | Brooks | 1 | +0.9 | 0.0 |
-| 2025-11-15 | Westminster | 2 | BB&N | 1 | +0.3 | +1.0 |
-| 2025-11-15 | Miss Porter’s | 3 | Worcester Academy | 0 | -0.3 | +3.0 |
-| 2025-11-15 | Dexter Southfield | 0 | Williston Northampton | 1 | +3.8 | -1.0 |
+| 2025-11-16 | Tilton | 0 | Vermont Academy | 3 | +0.3 | -3.0 |
+| 2025-11-15 | Tilton | 2 | Kents Hill | 1 | +1.9 | +1.0 |
+| 2025-11-15 | St. Thomas More | 0 | Vermont Academy | 1 | +0.9 | -1.0 |
 | 2025-11-15 | Brewster Academy | 5 | Portsmouth Abbey | 2 | +1.6 | +3.0 |
 | 2025-11-15 | Greens Farms | 3 | New Hampton | 0 | +1.5 | +3.0 |
-| 2025-11-15 | St. Thomas More | 0 | Vermont Academy | 1 | +0.9 | -1.0 |
-| 2025-11-15 | Tilton | 2 | Kents Hill | 1 | +1.9 | +1.0 |
+| 2025-11-15 | St. George’s | 1 | Brooks | 1 | +0.9 | 0.0 |
+| 2025-11-15 | Dexter Southfield | 0 | Williston Northampton | 1 | +3.8 | -1.0 |
+| 2025-11-15 | Miss Porter’s | 3 | Worcester Academy | 0 | -0.3 | +3.0 |
+| 2025-11-15 | Westminster | 2 | BB&N | 1 | +0.3 | +1.0 |
 | 2025-11-14 | Hopedale | 3 | Norfolk Aggie | 0 | -1.0 | +3.0 |
-| 2025-11-13 | Longmeadow | 3 | Marblehead | 1 | +0.2 | +2.0 |
+| 2025-11-13 | Pope Francis | 4 | Wilmington | 1 | +1.8 | +3.0 |
 | 2025-11-13 | Monson | 5 | St. John Paul II | 3 | -1.6 | +2.0 |
 | 2025-11-13 | South Hadley | 1 | Littleton | 2 | +1.0 | -1.0 |
 | 2025-11-13 | Medfield | 10 | Tewksbury | 1 | +3.9 | +9.0 |
 | 2025-11-13 | Nipmuc | 3 | Dover-Sherborn | 1 | +3.4 | +2.0 |
-| 2025-11-13 | Pope Francis | 4 | Wilmington | 1 | +1.8 | +3.0 |
 | 2025-11-13 | King Philip | 2 | Northampton | 0 | +0.8 | +2.0 |
 | 2025-11-13 | Needham | 2 | Belmont | 4 | +1.5 | -2.0 |
+| 2025-11-13 | Franklin | 4 | Hopkinton | 3 | +0.2 | +1.0 |
 | 2025-11-13 | Bishop Feehan | 0 | Concord-Carlisle | 1 | +4.2 | -1.0 |
 | 2025-11-13 | Natick | 3 | Braintree | 0 | +2.0 | +3.0 |
-| 2025-11-13 | Franklin | 4 | Hopkinton | 3 | +0.2 | +1.0 |
+| 2025-11-13 | Longmeadow | 3 | Marblehead | 1 | +0.2 | +2.0 |
 | 2025-11-12 | Duxbury | 6 | East Longmeadow | 0 | +3.8 | +6.0 |
-| 2025-11-12 | Dexter Southfield | 6 | Berkshire | 1 | +4.0 | +5.0 |
-| 2025-11-12 | Norwell | 8 | Auburn | 0 | +4.2 | +8.0 |
-| 2025-11-12 | Hamilton-Wenham | 0 | Cohasset | 2 | +1.4 | -2.0 |
-| 2025-11-12 | Southwick | 4 | Georgetown | 0 | +0.2 | +4.0 |
-| 2025-11-12 | Sutton | 4 | Lunenburg | 0 | +0.9 | +4.0 |
-| 2025-11-12 | Hull | 6 | Nashoba Valley Tech | 2 | +0.6 | +4.0 |
 | 2025-11-12 | Granby | 3 | Rising Tide Charter | 0 | +0.2 | +3.0 |
-| 2025-11-12 | Loomis Chaffee (Conn.) | 2 | BB&N | 3 | +2.1 | -1.0 |
-| 2025-11-12 | Westminster | 1 | Milton Academy | 0 | +1.6 | +1.0 |
 | 2025-11-12 | Choate | 0 | Worcester Academy | 1 | -0.3 | -1.0 |
+| 2025-11-12 | Westminster | 1 | Milton Academy | 0 | +1.6 | +1.0 |
+| 2025-11-12 | Loomis Chaffee (Conn.) | 2 | BB&N | 3 | +2.1 | -1.0 |
+| 2025-11-12 | Southwick | 4 | Georgetown | 0 | +0.2 | +4.0 |
+| 2025-11-12 | Hull | 6 | Nashoba Valley Tech | 2 | +0.6 | +4.0 |
+| 2025-11-12 | Sutton | 4 | Lunenburg | 0 | +0.9 | +4.0 |
+| 2025-11-12 | Dexter Southfield | 6 | Berkshire | 1 | +4.0 | +5.0 |
+| 2025-11-12 | Hamilton-Wenham | 0 | Cohasset | 2 | +1.4 | -2.0 |
+| 2025-11-12 | Norwell | 8 | Auburn | 0 | +4.2 | +8.0 |
 | 2025-11-12 | Miss Porter’s | 4 | Austin Prep | 0 | -0.6 | +4.0 |
-| 2025-11-12 | Lawrence Academy | 1 | St. George’s | 2 | +0.9 | -1.0 |
-| 2025-11-12 | Pingree | 2 | Williston Northampton | 3 | +3.6 | -1.0 |
 | 2025-11-12 | Ethel Walker | 0 | Brooks | 6 | +0.5 | -6.0 |
+| 2025-11-12 | Pingree | 2 | Williston Northampton | 3 | +3.6 | -1.0 |
+| 2025-11-12 | Lawrence Academy | 1 | St. George’s | 2 | +0.9 | -1.0 |
 | 2025-11-12 | Greens Farms | 4 | Berwick | 1 | -0.5 | +3.0 |
 | 2025-11-12 | New Hampton | 1 | Newton Country Day | 0 | -0.8 | +1.0 |
 | 2025-11-12 | Portsmouth Abbey | 2 | Masters (N.Y.) | 1 | +0.6 | +1.0 |
@@ -84,11 +87,11 @@ Generated: 2025-11-18 11:16
 | 6 | Duxbury | 1713.0 |
 | 7 | Wellesley | 1700.5 |
 | 8 | Somerset Berkley | 1698.6 |
-| 9 | Sutton | 1690.1 |
-| 10 | Cohasset | 1688.7 |
-| 11 | Hamilton-Wenham | 1685.2 |
-| 12 | Hull | 1678.9 |
-| 13 | Natick | 1678.2 |
+| 9 | Natick | 1694.8 |
+| 10 | Sutton | 1690.1 |
+| 11 | Cohasset | 1688.7 |
+| 12 | Hull | 1686.1 |
+| 13 | Hamilton-Wenham | 1685.2 |
 | 14 | Nashoba Valley Tech | 1663.3 |
 | 15 | Winchester | 1662.2 |
 | 16 | Hopkinton | 1660.6 |
@@ -97,33 +100,33 @@ Generated: 2025-11-18 11:16
 | 19 | Newburyport | 1652.1 |
 | 20 | Cardinal Spellman | 1651.9 |
 | 21 | Lynnfield | 1649.7 |
-| 22 | Blue Hills | 1643.6 |
-| 23 | Franklin | 1639.5 |
-| 24 | Belmont | 1637.8 |
-| 25 | Apponequet | 1636.6 |
-| 26 | Douglas | 1636.0 |
-| 27 | Norfolk Aggie | 1630.6 |
-| 28 | Needham | 1628.3 |
-| 29 | Marblehead | 1626.7 |
-| 30 | Longmeadow | 1625.1 |
-| 31 | Dexter Southfield | 1624.8 |
-| 32 | North Reading | 1623.9 |
-| 33 | Mansfield | 1622.8 |
-| 34 | Smith Voc. | 1621.8 |
+| 22 | Franklin | 1649.3 |
+| 23 | Blue Hills | 1643.6 |
+| 24 | Apponequet | 1636.6 |
+| 25 | Douglas | 1636.0 |
+| 26 | Norfolk Aggie | 1630.6 |
+| 27 | Needham | 1628.3 |
+| 28 | Marblehead | 1626.7 |
+| 29 | Longmeadow | 1625.1 |
+| 30 | Dexter Southfield | 1624.8 |
+| 31 | North Reading | 1623.9 |
+| 32 | Mansfield | 1622.8 |
+| 33 | Smith Voc. | 1621.8 |
+| 34 | Belmont | 1621.1 |
 | 35 | Bristol-Plymouth | 1620.4 |
 | 36 | Pope Francis | 1616.7 |
 | 37 | Lincoln-Sudbury | 1616.0 |
 | 38 | St. John Paul II | 1615.7 |
 | 39 | St. Mary’s | 1614.5 |
 | 40 | Advanced Math and Science | 1609.2 |
-| 41 | Pingree | 1604.7 |
-| 42 | Braintree | 1603.3 |
-| 43 | Martha’s Vineyard | 1602.0 |
-| 44 | Hingham | 1600.9 |
-| 45 | Beverly | 1597.5 |
-| 46 | Danvers | 1596.9 |
-| 47 | Arlington | 1595.8 |
-| 48 | Littleton | 1594.0 |
+| 41 | Littleton | 1604.9 |
+| 42 | Pingree | 1604.7 |
+| 43 | Braintree | 1603.3 |
+| 44 | Martha’s Vineyard | 1602.0 |
+| 45 | Hingham | 1600.9 |
+| 46 | Beverly | 1597.5 |
+| 47 | Danvers | 1596.9 |
+| 48 | Arlington | 1595.8 |
 | 49 | Oliver Ames | 1593.4 |
 | 50 | Dover-Sherborn | 1591.6 |
 | 51 | McCann Tech | 1591.6 |
@@ -133,30 +136,30 @@ Generated: 2025-11-18 11:16
 | 55 | Mt. Greylock | 1588.3 |
 | 56 | Acton-Boxborough | 1587.1 |
 | 57 | Old Rochester | 1586.0 |
-| 58 | Concord-Carlisle | 1585.6 |
-| 59 | Northampton | 1585.1 |
-| 60 | Phillips Andover | 1584.5 |
-| 61 | Loomis Chaffee (Conn.) | 1582.1 |
-| 62 | Frontier | 1581.8 |
-| 63 | Northbridge | 1581.1 |
-| 64 | Athol | 1576.8 |
-| 65 | Worcester Academy | 1576.4 |
+| 58 | Northampton | 1585.1 |
+| 59 | Phillips Andover | 1584.5 |
+| 60 | Loomis Chaffee (Conn.) | 1582.1 |
+| 61 | Frontier | 1581.8 |
+| 62 | Northbridge | 1581.1 |
+| 63 | Athol | 1576.8 |
+| 64 | Worcester Academy | 1576.4 |
+| 65 | Concord-Carlisle | 1575.8 |
 | 66 | Dighton-Rehoboth | 1573.8 |
 | 67 | South Hadley | 1573.8 |
 | 68 | Westwood | 1573.5 |
 | 69 | Auburn | 1573.4 |
-| 70 | Southwick | 1572.9 |
-| 71 | Georgetown | 1572.1 |
-| 72 | Bay Path | 1571.9 |
-| 73 | Quaboag | 1570.8 |
-| 74 | Hopedale | 1570.1 |
-| 75 | Easthampton | 1568.0 |
-| 76 | Austin Prep | 1566.7 |
-| 77 | Holderness | 1566.6 |
-| 78 | Newton Country Day | 1566.3 |
-| 79 | Saugus | 1565.3 |
-| 80 | Wilmington | 1564.5 |
-| 81 | Berwick | 1562.4 |
+| 70 | Georgetown | 1572.1 |
+| 71 | Bay Path | 1571.9 |
+| 72 | Quaboag | 1570.8 |
+| 73 | Easthampton | 1568.0 |
+| 74 | Austin Prep | 1566.7 |
+| 75 | Holderness | 1566.6 |
+| 76 | Newton Country Day | 1566.3 |
+| 77 | Saugus | 1565.3 |
+| 78 | Wilmington | 1564.5 |
+| 79 | Hopedale | 1562.9 |
+| 80 | Berwick | 1562.4 |
+| 81 | Southwick | 1561.9 |
 | 82 | Miss Porter’s | 1558.6 |
 | 83 | Tewksbury | 1558.0 |
 | 84 | Tyngsborough | 1557.3 |
@@ -272,15 +275,15 @@ Generated: 2025-11-18 11:16
 | 194 | Madison Park | 1503.4 |
 | 195 | Concord Academy | 1502.9 |
 | 196 | Canton | 1502.2 |
-| 197 | Taft | 1501.7 |
-| 198 | South Shore Christian | 1501.7 |
-| 199 | Boston Prep | 1501.7 |
-| 200 | Poughkeepsie Day (N.Y.) | 1501.7 |
-| 201 | Neighborhood House Charter | 1501.7 |
-| 202 | Bridgton Academy | 1501.7 |
-| 203 | Kingswood-Oxford | 1501.7 |
-| 204 | Cumberland (R.I.) | 1501.7 |
-| 205 | Kent | 1501.7 |
+| 197 | South Shore Christian | 1501.7 |
+| 198 | Taft | 1501.7 |
+| 199 | Neighborhood House Charter | 1501.7 |
+| 200 | Kent | 1501.7 |
+| 201 | Boston Prep | 1501.7 |
+| 202 | Kingswood-Oxford | 1501.7 |
+| 203 | Poughkeepsie Day (N.Y.) | 1501.7 |
+| 204 | Bridgton Academy | 1501.7 |
+| 205 | Cumberland (R.I.) | 1501.7 |
 | 206 | Billerica | 1499.6 |
 | 207 | Melrose | 1498.6 |
 | 208 | Rivers | 1497.5 |

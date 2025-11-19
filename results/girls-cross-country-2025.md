@@ -1,6 +1,6 @@
 # Girls Cross Country - 2025 Season
 
-Generated: 2025-11-18 11:16
+Generated: 2025-11-19 11:15
 
 ## Upcoming Games
 
@@ -136,21 +136,21 @@ Generated: 2025-11-18 11:16
 | 118 | East Longmeadow | 1507.1 |
 | 119 | Holbrook/Avon | 1506.7 |
 | 120 | Westfield Tech | 1503.8 |
-| 121 | Waltham | 1501.7 |
-| 122 | Wachusett | 1501.7 |
-| 123 | Greater Lowell | 1501.7 |
-| 124 | Longmeadow | 1501.7 |
-| 125 | Saugus | 1501.7 |
-| 126 | Boston Latin | 1501.7 |
-| 127 | Westfield | 1501.7 |
-| 128 | Notre Dame (Tyngsborough) | 1501.7 |
-| 129 | Cape Cod Tech | 1501.7 |
-| 130 | Amherst-Pelham | 1501.7 |
-| 131 | Bedford | 1501.7 |
-| 132 | Bridgewater-Raynham | 1501.7 |
-| 133 | Minnechaug | 1501.7 |
-| 134 | Greater Lawrence | 1501.7 |
-| 135 | Notre Dame (Worcester) | 1501.7 |
+| 121 | Saugus | 1501.7 |
+| 122 | Westfield | 1501.7 |
+| 123 | Boston Latin | 1501.7 |
+| 124 | Notre Dame (Worcester) | 1501.7 |
+| 125 | Minnechaug | 1501.7 |
+| 126 | Greater Lawrence | 1501.7 |
+| 127 | Greater Lowell | 1501.7 |
+| 128 | Wachusett | 1501.7 |
+| 129 | Notre Dame (Tyngsborough) | 1501.7 |
+| 130 | Bedford | 1501.7 |
+| 131 | Longmeadow | 1501.7 |
+| 132 | Cape Cod Tech | 1501.7 |
+| 133 | Bridgewater-Raynham | 1501.7 |
+| 134 | Amherst-Pelham | 1501.7 |
+| 135 | Waltham | 1501.7 |
 | 136 | Concord-Carlisle | 1499.6 |
 | 137 | Lexington Christian | 1498.2 |
 | 138 | Winthrop | 1497.4 |
