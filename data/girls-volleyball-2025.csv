@@ -1364,7 +1364,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-08,61289,FINAL,Bellingham,4033,3.0,1.0,Weston,4423,0.0,0.0,Tri-Valley,Dual County,4:00 P.M.,,0
 2025-11-08,61409,FINAL,Bourne,4050,3.0,1.0,Ursuline,4448,0.0,0.0,South Coast,Catholic Conference,12:00 P.M.,,0
 2025-11-08,61517,FINAL,Hopedale,4507,3.0,1.0,Renaissance,4664,1.0,0.0,CMAC,Metro,2:00 P.M.,,0
-2025-11-09,61064,FINAL,Andover,4009,0,0,Franklin,4144,3,1,Merrimack Valley,Hockomock,12:00 P.M.,,0
+2025-11-09,61064,FINAL,Andover,4009,0.0,0.0,Franklin,4144,3.0,1.0,Merrimack Valley,Hockomock,12:00 P.M.,,0
 2025-11-12,61058,FINAL,Newton North,4279,3,1,Central Catholic,4081,0,0,Bay State,Merrimack Valley,6:00 P.M.,,0
 2025-11-12,61061,FINAL,Franklin,4144,3,1,Newton South,4280,0,0,Hockomock,Dual County,7:15 P.M.,,0
 2025-11-12,61154,FINAL,Longmeadow,4214,0,0,Wayland,4411,3,1,Eastern,Dual County,6:00 P.M.,,0

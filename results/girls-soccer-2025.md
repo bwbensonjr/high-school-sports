@@ -1,6 +1,6 @@
 # Girls Soccer - 2025 Season
 
-Generated: 2025-11-19 11:15
+Generated: 2025-11-20 11:16
 
 ## Upcoming Games
 
@@ -26,54 +26,30 @@ Generated: 2025-11-19 11:15
 | 2025-11-17 | Nipmuc | 1 | Norwell | 0 | +0.3 | +1.0 |
 | 2025-11-17 | Duxbury | 2 | Masconomet | 1 | +0.4 | +1.0 |
 | 2025-11-17 | Longmeadow | 4 | King Philip | 2 | +1.3 | +2.0 |
+| 2025-11-16 | Tilton | 0 | Vermont Academy | 3 | +0.3 | -3.0 |
 | 2025-11-16 | Brewster Academy | 1 | Greens Farms | 4 | +0.9 | -3.0 |
 | 2025-11-16 | St. George’s | 1 | Williston Northampton | 0 | +1.1 | +1.0 |
 | 2025-11-16 | Miss Porter’s | 2 | Westminster | 0 | +1.4 | +2.0 |
-| 2025-11-16 | Tilton | 0 | Vermont Academy | 3 | +0.3 | -3.0 |
-| 2025-11-15 | Tilton | 2 | Kents Hill | 1 | +1.9 | +1.0 |
 | 2025-11-15 | St. Thomas More | 0 | Vermont Academy | 1 | +0.9 | -1.0 |
+| 2025-11-15 | Tilton | 2 | Kents Hill | 1 | +1.9 | +1.0 |
 | 2025-11-15 | Brewster Academy | 5 | Portsmouth Abbey | 2 | +1.6 | +3.0 |
-| 2025-11-15 | Greens Farms | 3 | New Hampton | 0 | +1.5 | +3.0 |
 | 2025-11-15 | St. George’s | 1 | Brooks | 1 | +0.9 | 0.0 |
 | 2025-11-15 | Dexter Southfield | 0 | Williston Northampton | 1 | +3.8 | -1.0 |
 | 2025-11-15 | Miss Porter’s | 3 | Worcester Academy | 0 | -0.3 | +3.0 |
 | 2025-11-15 | Westminster | 2 | BB&N | 1 | +0.3 | +1.0 |
+| 2025-11-15 | Greens Farms | 3 | New Hampton | 0 | +1.5 | +3.0 |
 | 2025-11-14 | Hopedale | 3 | Norfolk Aggie | 0 | -1.0 | +3.0 |
-| 2025-11-13 | Pope Francis | 4 | Wilmington | 1 | +1.8 | +3.0 |
-| 2025-11-13 | Monson | 5 | St. John Paul II | 3 | -1.6 | +2.0 |
-| 2025-11-13 | South Hadley | 1 | Littleton | 2 | +1.0 | -1.0 |
-| 2025-11-13 | Medfield | 10 | Tewksbury | 1 | +3.9 | +9.0 |
-| 2025-11-13 | Nipmuc | 3 | Dover-Sherborn | 1 | +3.4 | +2.0 |
-| 2025-11-13 | King Philip | 2 | Northampton | 0 | +0.8 | +2.0 |
-| 2025-11-13 | Needham | 2 | Belmont | 4 | +1.5 | -2.0 |
-| 2025-11-13 | Franklin | 4 | Hopkinton | 3 | +0.2 | +1.0 |
 | 2025-11-13 | Bishop Feehan | 0 | Concord-Carlisle | 1 | +4.2 | -1.0 |
-| 2025-11-13 | Natick | 3 | Braintree | 0 | +2.0 | +3.0 |
+| 2025-11-13 | King Philip | 2 | Northampton | 0 | +0.8 | +2.0 |
+| 2025-11-13 | Franklin | 4 | Hopkinton | 3 | +0.2 | +1.0 |
+| 2025-11-13 | Needham | 2 | Belmont | 4 | +1.5 | -2.0 |
 | 2025-11-13 | Longmeadow | 3 | Marblehead | 1 | +0.2 | +2.0 |
-| 2025-11-12 | Duxbury | 6 | East Longmeadow | 0 | +3.8 | +6.0 |
-| 2025-11-12 | Granby | 3 | Rising Tide Charter | 0 | +0.2 | +3.0 |
-| 2025-11-12 | Choate | 0 | Worcester Academy | 1 | -0.3 | -1.0 |
-| 2025-11-12 | Westminster | 1 | Milton Academy | 0 | +1.6 | +1.0 |
-| 2025-11-12 | Loomis Chaffee (Conn.) | 2 | BB&N | 3 | +2.1 | -1.0 |
-| 2025-11-12 | Southwick | 4 | Georgetown | 0 | +0.2 | +4.0 |
-| 2025-11-12 | Hull | 6 | Nashoba Valley Tech | 2 | +0.6 | +4.0 |
-| 2025-11-12 | Sutton | 4 | Lunenburg | 0 | +0.9 | +4.0 |
-| 2025-11-12 | Dexter Southfield | 6 | Berkshire | 1 | +4.0 | +5.0 |
-| 2025-11-12 | Hamilton-Wenham | 0 | Cohasset | 2 | +1.4 | -2.0 |
-| 2025-11-12 | Norwell | 8 | Auburn | 0 | +4.2 | +8.0 |
-| 2025-11-12 | Miss Porter’s | 4 | Austin Prep | 0 | -0.6 | +4.0 |
-| 2025-11-12 | Ethel Walker | 0 | Brooks | 6 | +0.5 | -6.0 |
-| 2025-11-12 | Pingree | 2 | Williston Northampton | 3 | +3.6 | -1.0 |
-| 2025-11-12 | Lawrence Academy | 1 | St. George’s | 2 | +0.9 | -1.0 |
-| 2025-11-12 | Greens Farms | 4 | Berwick | 1 | -0.5 | +3.0 |
-| 2025-11-12 | New Hampton | 1 | Newton Country Day | 0 | -0.8 | +1.0 |
-| 2025-11-12 | Portsmouth Abbey | 2 | Masters (N.Y.) | 1 | +0.6 | +1.0 |
-| 2025-11-12 | Brewster Academy | 1 | Holderness | 0 | -0.3 | +1.0 |
-| 2025-11-12 | St. Thomas More | 6 | Christian Heritage | 0 | +1.0 | +6.0 |
-| 2025-11-12 | Vermont Academy | 3 | Darrow | 0 | +1.2 | +3.0 |
-| 2025-11-12 | Bancroft | 3 | Kents Hill | 4 | +1.1 | -1.0 |
-| 2025-11-12 | Tilton | 2 | Landmark | 0 | +0.6 | +2.0 |
-| 2025-11-12 | Masconomet | 1 | Hingham | 0 | +3.5 | +1.0 |
+| 2025-11-13 | South Hadley | 1 | Littleton | 2 | +1.0 | -1.0 |
+| 2025-11-13 | Pope Francis | 4 | Wilmington | 1 | +1.8 | +3.0 |
+| 2025-11-13 | Nipmuc | 3 | Dover-Sherborn | 1 | +3.4 | +2.0 |
+| 2025-11-13 | Medfield | 10 | Tewksbury | 1 | +3.9 | +9.0 |
+| 2025-11-13 | Monson | 5 | St. John Paul II | 3 | -1.6 | +2.0 |
+| 2025-11-13 | Natick | 3 | Braintree | 0 | +2.0 | +3.0 |
 
 ## Current Elo Ratings
 
@@ -275,15 +251,15 @@ Generated: 2025-11-19 11:15
 | 194 | Madison Park | 1503.4 |
 | 195 | Concord Academy | 1502.9 |
 | 196 | Canton | 1502.2 |
-| 197 | South Shore Christian | 1501.7 |
-| 198 | Taft | 1501.7 |
+| 197 | Poughkeepsie Day (N.Y.) | 1501.7 |
+| 198 | Bridgton Academy | 1501.7 |
 | 199 | Neighborhood House Charter | 1501.7 |
-| 200 | Kent | 1501.7 |
-| 201 | Boston Prep | 1501.7 |
+| 200 | Boston Prep | 1501.7 |
+| 201 | South Shore Christian | 1501.7 |
 | 202 | Kingswood-Oxford | 1501.7 |
-| 203 | Poughkeepsie Day (N.Y.) | 1501.7 |
-| 204 | Bridgton Academy | 1501.7 |
-| 205 | Cumberland (R.I.) | 1501.7 |
+| 203 | Taft | 1501.7 |
+| 204 | Cumberland (R.I.) | 1501.7 |
+| 205 | Kent | 1501.7 |
 | 206 | Billerica | 1499.6 |
 | 207 | Melrose | 1498.6 |
 | 208 | Rivers | 1497.5 |

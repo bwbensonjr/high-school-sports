@@ -1,6 +1,6 @@
 # Girls Volleyball - 2025 Season
 
-Generated: 2025-11-19 11:15
+Generated: 2025-11-20 11:16
 
 ## Upcoming Games
 
@@ -15,45 +15,19 @@ Generated: 2025-11-19 11:15
 | 2025-11-16 | Harvey (N.Y.) | 0 | Hamden Hall Country Day | 3 | +0.6 | -3.0 |
 | 2025-11-16 | Groton | 3 | Greenwich CD (Conn.) | 0 | +0.6 | +3.0 |
 | 2025-11-16 | King (Conn.) | 3 | BB&N | 0 | -2.0 | +3.0 |
-| 2025-11-15 | BB&N | 3 | Choate | 0 | +6.4 | +3.0 |
+| 2025-11-15 | Wilbraham & Monson | 0 | Hamden Hall Country Day | 3 | +1.8 | -3.0 |
+| 2025-11-15 | Hoosac School | 2 | Covenant Christian | 3 | +1.8 | -1.0 |
+| 2025-11-15 | Christian Heritage | 3 | Bancroft | 0 | +1.9 | +3.0 |
+| 2025-11-15 | Harvey (N.Y.) | 3 | Cambridge | 1 | +4.5 | +2.0 |
 | 2025-11-15 | Newton North | 2 | Franklin | 3 | +3.2 | -1.0 |
 | 2025-11-15 | Oliver Ames | 3 | Wayland | 2 | +3.9 | +1.0 |
-| 2025-11-15 | Bellingham | 3 | Joseph Case | 1 | +1.2 | +2.0 |
-| 2025-11-15 | Bourne | 1 | East Bridgewater | 3 | +1.9 | -2.0 |
-| 2025-11-15 | Hopedale | 3 | Smith Voc. | 0 | +0.2 | +3.0 |
-| 2025-11-15 | King (Conn.) | 3 | Loomis Chaffee (Conn.) | 0 | +1.9 | +3.0 |
 | 2025-11-15 | Groton | 3 | Kingswood-Oxford | 1 | +1.9 | +2.0 |
+| 2025-11-15 | BB&N | 3 | Choate | 0 | +6.4 | +3.0 |
+| 2025-11-15 | King (Conn.) | 3 | Loomis Chaffee (Conn.) | 0 | +1.9 | +3.0 |
+| 2025-11-15 | Hopedale | 3 | Smith Voc. | 0 | +0.2 | +3.0 |
+| 2025-11-15 | Bourne | 1 | East Bridgewater | 3 | +1.9 | -2.0 |
+| 2025-11-15 | Bellingham | 3 | Joseph Case | 1 | +1.2 | +2.0 |
 | 2025-11-15 | Greens Farms | 1 | Greenwich CD (Conn.) | 3 | +0.6 | -2.0 |
-| 2025-11-15 | Wilbraham & Monson | 0 | Hamden Hall Country Day | 3 | +1.8 | -3.0 |
-| 2025-11-15 | Harvey (N.Y.) | 3 | Cambridge | 1 | +4.5 | +2.0 |
-| 2025-11-15 | Christian Heritage | 3 | Bancroft | 0 | +1.9 | +3.0 |
-| 2025-11-15 | Hoosac School | 2 | Covenant Christian | 3 | +1.8 | -1.0 |
-| 2025-11-12 | Christian Heritage | 3 | Stoneleigh-Burnham | 0 | +2.4 | +3.0 |
-| 2025-11-12 | Hoosac School | 3 | Marvelwood | 0 | +1.4 | +3.0 |
-| 2025-11-12 | Covenant Christian | 3 | Boston Trinity | 1 | +1.1 | +2.0 |
-| 2025-11-12 | Bancroft | 3 | Newman School | 0 | +1.7 | +3.0 |
-| 2025-11-12 | Newton North | 3 | Central Catholic | 0 | +4.2 | +3.0 |
-| 2025-11-12 | Franklin | 3 | Newton South | 0 | +4.2 | +3.0 |
-| 2025-11-12 | King (Conn.) | 3 | Winsor | 0 | +1.4 | +3.0 |
-| 2025-11-12 | Longmeadow | 0 | Wayland | 3 | -0.2 | -3.0 |
-| 2025-11-12 | Oliver Ames | 3 | King Philip | 0 | +5.6 | +3.0 |
-| 2025-11-12 | Medfield | 1 | Joseph Case | 3 | +1.7 | -2.0 |
-| 2025-11-12 | Bellingham | 3 | Lynnfield | 0 | +2.7 | +3.0 |
-| 2025-11-12 | East Bridgewater | 3 | Nipmuc | 0 | +4.7 | +3.0 |
-| 2025-11-12 | Bourne | 3 | Rockland | 1 | +5.4 | +2.0 |
-| 2025-11-12 | Pioneer Valley Christian | 1 | Smith Voc. | 3 | -0.0 | -2.0 |
-| 2025-11-12 | Hopedale | 3 | Lenox | 1 | +0.2 | +2.0 |
-| 2025-11-12 | Loomis Chaffee (Conn.) | 3 | Deerfield | 1 | +1.9 | +2.0 |
-| 2025-11-12 | Montrose | 2 | Cambridge Weston | 3 | +1.4 | -1.0 |
-| 2025-11-12 | Dana Hall | 2 | Choate | 3 | +1.4 | -1.0 |
-| 2025-11-12 | BB&N | 3 | Greenwich Academy (Conn.) | 0 | +6.7 | +3.0 |
-| 2025-11-12 | Groton | 3 | Worcester Academy | 1 | +1.2 | +2.0 |
-| 2025-11-12 | Kingswood-Oxford | 3 | Suffield Academy | 0 | +1.0 | +3.0 |
-| 2025-11-12 | Greens Farms | 3 | Rivers | 0 | -0.1 | +3.0 |
-| 2025-11-12 | Greenwich CD (Conn.) | 3 | Dexter Southfield | 0 | +2.5 | +3.0 |
-| 2025-11-12 | Wilbraham & Monson | 3 | Marianapolis | 1 | +2.9 | +2.0 |
-| 2025-11-12 | Mount St. Charles (R.I.) | 0 | Hamden Hall Country Day | 3 | +1.4 | -3.0 |
-| 2025-11-12 | Harvey (N.Y.) | 3 | Beaver Country Day | 0 | +2.8 | +3.0 |
 
 ## Current Elo Ratings
 
@@ -228,11 +202,11 @@ Generated: 2025-11-19 11:15
 | 167 | Lowell | 1502.5 |
 | 168 | Worcester South | 1501.9 |
 | 169 | Cambridge Weston | 1501.8 |
-| 170 | Trinity Christian | 1501.7 |
-| 171 | Northfield Mt. Hermon | 1501.7 |
+| 170 | Northfield Mt. Hermon | 1501.7 |
+| 171 | Fellowship Christian | 1501.7 |
 | 172 | South Shore Christian | 1501.7 |
 | 173 | Argosy Collegiate | 1501.7 |
-| 174 | Fellowship Christian | 1501.7 |
+| 174 | Trinity Christian | 1501.7 |
 | 175 | Dublin | 1501.7 |
 | 176 | Milton | 1500.9 |
 | 177 | Mashpee | 1499.5 |
@@ -267,9 +241,9 @@ Generated: 2025-11-19 11:15
 | 206 | Malden | 1491.3 |
 | 207 | Cheshire Academy | 1491.2 |
 | 208 | Woburn | 1489.8 |
-| 209 | Hotchkiss | 1489.7 |
-| 210 | Gann Academy | 1489.7 |
-| 211 | Governor’s Academy | 1489.7 |
+| 209 | Governor’s Academy | 1489.7 |
+| 210 | Hotchkiss | 1489.7 |
+| 211 | Gann Academy | 1489.7 |
 | 212 | Monument Mtn. | 1489.6 |
 | 213 | Newton Country Day | 1489.6 |
 | 214 | Ludlow | 1489.6 |

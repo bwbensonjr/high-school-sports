@@ -1,6 +1,6 @@
 # Football - 2025 Season
 
-Generated: 2025-11-19 11:15
+Generated: 2025-11-20 11:16
 
 ## Upcoming Games
 

@@ -1,6 +1,6 @@
 # Field Hockey - 2025 Season
 
-Generated: 2025-11-19 11:15
+Generated: 2025-11-20 11:16
 
 ## Upcoming Games
 
@@ -14,11 +14,11 @@ Generated: 2025-11-19 11:15
 | 2025-11-16 | New Hampton | 2 | King (Conn.) | 1 | +1.5 | +1.0 |
 | 2025-11-16 | Middlesex | 2 | Cushing | 1 | -0.9 | +1.0 |
 | 2025-11-16 | Greenwich Academy (Conn.) | 0 | Phillips Andover | 3 | -1.3 | -3.0 |
+| 2025-11-15 | Phillips Andover | 4 | Nobles | 1 | +5.8 | +3.0 |
 | 2025-11-15 | King (Conn.) | 2 | Frederick Gunn (Conn.) | 1 | +1.5 | +1.0 |
 | 2025-11-15 | New Hampton | 3 | Portsmouth Abbey | 0 | +0.9 | +3.0 |
 | 2025-11-15 | Williston Northampton | 2 | Middlesex | 3 | +2.2 | -1.0 |
 | 2025-11-15 | Rivers | 1 | Cushing | 2 | +0.8 | -1.0 |
-| 2025-11-15 | Phillips Andover | 4 | Nobles | 1 | +5.8 | +3.0 |
 | 2025-11-15 | Greenwich Academy (Conn.) | 2 | Sacred Heart (Conn.) | 1 | +3.1 | +1.0 |
 | 2025-11-15 | Dennis-Yarmouth | 2 | Frontier | 1 | +1.9 | +1.0 |
 | 2025-11-15 | Uxbridge | 3 | Sandwich | 0 | +1.9 | +3.0 |
@@ -28,22 +28,6 @@ Generated: 2025-11-19 11:15
 | 2025-11-13 | Monomoy | 1 | Frontier | 3 | +4.8 | -2.0 |
 | 2025-11-13 | Dennis-Yarmouth | 4 | Cohasset | 3 | +2.3 | +1.0 |
 | 2025-11-13 | Nashoba | 1 | Somerset Berkley | 3 | -1.2 | -2.0 |
-| 2025-11-12 | Walpole | 6 | Winchester | 1 | +4.6 | +5.0 |
-| 2025-11-12 | Williston Northampton | 2 | Dexter Southfield | 1 | +1.8 | +1.0 |
-| 2025-11-12 | Middlesex | 3 | Berkshire | 2 | +2.4 | +1.0 |
-| 2025-11-12 | Cushing | 2 | Suffield Academy | 1 | +4.3 | +1.0 |
-| 2025-11-12 | Rivers | 2 | Governor’s Academy | 1 | +3.8 | +1.0 |
-| 2025-11-12 | Phillips Andover | 4 | Taft | 0 | +4.0 | +4.0 |
-| 2025-11-12 | Nobles | 2 | Hotchkiss | 0 | -0.4 | +2.0 |
-| 2025-11-12 | Deerfield | 0 | Sacred Heart (Conn.) | 2 | +0.7 | -2.0 |
-| 2025-11-12 | Greenwich Academy (Conn.) | 6 | Tabor | 0 | +2.1 | +6.0 |
-| 2025-11-12 | Frederick Gunn (Conn.) | 3 | Pomfret | 1 | +0.8 | +2.0 |
-| 2025-11-12 | King (Conn.) | 4 | Wheeler (R.I.) | 0 | +1.1 | +4.0 |
-| 2025-11-12 | Portsmouth Abbey | 9 | Kents Hill | 1 | +1.2 | +8.0 |
-| 2025-11-12 | New Hampton | 2 | Proctor | 0 | +1.3 | +2.0 |
-| 2025-11-12 | Uxbridge | 7 | Watertown | 0 | +3.0 | +7.0 |
-| 2025-11-12 | Sandwich | 3 | Dover-Sherborn | 0 | +5.3 | +3.0 |
-| 2025-11-12 | Franklin | 2 | Wellesley | 0 | +2.8 | +2.0 |
 
 ## Current Elo Ratings
 
@@ -174,11 +158,11 @@ Generated: 2025-11-19 11:15
 | 123 | Lawrence | 1503.2 |
 | 124 | Groton-Dunstable | 1502.6 |
 | 125 | Franklin County Tech | 1502.3 |
-| 126 | Hamden Hall Country Day | 1501.7 |
-| 127 | St. Luke’s | 1501.7 |
+| 126 | Kent | 1501.7 |
+| 127 | Kingswood-Oxford | 1501.7 |
 | 128 | Hopkins (Conn.) | 1501.7 |
-| 129 | Kent | 1501.7 |
-| 130 | Kingswood-Oxford | 1501.7 |
+| 129 | Hamden Hall Country Day | 1501.7 |
+| 130 | St. Luke’s | 1501.7 |
 | 131 | Milton Academy | 1500.8 |
 | 132 | Monty Tech | 1499.6 |
 | 133 | Oliver Ames | 1498.2 |
