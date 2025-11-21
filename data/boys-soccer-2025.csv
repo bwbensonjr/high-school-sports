@@ -1592,12 +1592,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-08,62343,FINAL,Hopedale,4507,4.0,1.0,TechBoston,4117,2.0,0.0,CMAC,Boston City,6:00 P.M.,,0
 2025-11-08,63562,FINAL,St. Sebastian’s,4378,3.0,1.0,Thayer,4390,2.0,0.0,ISL,ISL,,,0
 2025-11-09,62190,FINAL,Rockland,4331,2.0,1.0,Uxbridge,4398,0.0,0.0,South Shore,CMAC,6:00 P.M.,,0
-2025-11-10,61836,FINAL,Brookline,4059,3,1,Winchester,4434,2,0,Bay State,Middlesex,3:00 P.M.,,0
-2025-11-10,61839,FINAL,Needham,4272,1,0,Concord-Carlisle,4097,2,1,Bay State,Dual County,6:00 P.M.,2.0,0
-2025-11-10,61965,FINAL,Longmeadow,4214,4,1,Bedford,4031,0,0,Smith,Dual County,5:30 P.M.,,0
-2025-11-10,61968,FINAL,Northampton,4291,4,1,Mansfield,4230,2,0,Churchill,Hockomock,5:00 P.M.,,0
-2025-11-10,62064,FINAL,East Bridgewater,4126,2,1,Weston,4423,1,0,South Shore,Dual County,5:00 P.M.,1.0,0
-2025-11-10,62076,FINAL,Greater New Bedford,4156,4,1,Watertown,4409,2,0,South Coast,Middlesex,6:00 P.M.,,0
+2025-11-10,61836,FINAL,Brookline,4059,3.0,1.0,Winchester,4434,2.0,0.0,Bay State,Middlesex,3:00 P.M.,,0
+2025-11-10,61839,FINAL,Needham,4272,1.0,0.0,Concord-Carlisle,4097,2.0,1.0,Bay State,Dual County,6:00 P.M.,2.0,0
+2025-11-10,61965,FINAL,Longmeadow,4214,4.0,1.0,Bedford,4031,0.0,0.0,Smith,Dual County,5:30 P.M.,,0
+2025-11-10,61968,FINAL,Northampton,4291,4.0,1.0,Mansfield,4230,2.0,0.0,Churchill,Hockomock,5:00 P.M.,,0
+2025-11-10,62064,FINAL,East Bridgewater,4126,2.0,1.0,Weston,4423,1.0,0.0,South Shore,Dual County,5:00 P.M.,1.0,0
+2025-11-10,62076,FINAL,Greater New Bedford,4156,4.0,1.0,Watertown,4409,2.0,0.0,South Coast,Middlesex,6:00 P.M.,,0
 2025-11-12,61824,FINAL,St. John’s Prep,4369,4,1,Cambridge,4067,1,0,Catholic Conference,Dual County,6:00 P.M.,,0
 2025-11-12,61938,FINAL,Duxbury,4123,4,1,Holliston,4174,0,0,Patriot,Tri-Valley,4:00 P.M.,,0
 2025-11-12,62055,FINAL,Norwell,4296,2,1,Old Rochester,4301,1,0,South Shore,South Coast,6:15 P.M.,1.0,0

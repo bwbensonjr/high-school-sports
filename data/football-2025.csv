@@ -982,9 +982,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-15,63749,UPCOMING,Southbridge,4357,,,St. Paul,4954,,,CMAC,CMAC,12:00 P.M.,,0
 2025-11-15,63758,FINAL,Blackstone-Millville/Hopedale,4486,20,0,Nipmuc,4281,44,1,CMAC,CMAC,12:00 P.M.,,0
 2025-11-15,63850,FINAL,Brockton,4058,21,0,Attleboro,4018,32,1,Big Three,Hockomock,12:00 P.M.,,0
-2025-11-20,63973,UPCOMING,Greater Lawrence,4154,,,Diman,4115,,,Commonwealth,Mayflower,6:00 P.M.,,0
-2025-11-20,63974,UPCOMING,Essex Tech,4745,,,Whittier,4428,,,Cape Ann,Commonwealth,6:00 P.M.,,0
-2025-11-20,63980,UPCOMING,South Shore Voc-Tech,4356,,,Keefe Tech,4191,,,Mayflower,CMAC,6:00 P.M.,,0
+2025-11-20,63973,FINAL,Greater Lawrence,4154,20,0,Diman,4115,21,1,Commonwealth,Mayflower,6:00 P.M.,,0
+2025-11-20,63980,FINAL,South Shore Voc-Tech,4356,36,1,Keefe Tech,4191,20,0,Mayflower,CMAC,6:00 P.M.,,0
 2025-11-21,63054,UPCOMING,St. John’s Prep,4369,,,Central Catholic,4081,,,Catholic Conference,Merrimack Valley,6:00 P.M.,,0
 2025-11-21,63144,UPCOMING,Shawsheen,4346,,,North Reading,4288,,,Commonwealth,Cape Ann,6:00 P.M.,,0
 2025-11-21,63231,UPCOMING,Bishop Feehan,4042,,,Bridgewater-Raynham,4053,,,Catholic Central,Southeast,6:00 P.M.,,0
@@ -993,6 +992,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-21,63273,UPCOMING,Scituate,4343,,,Duxbury,4123,,,Patriot,Patriot,7:00 P.M.,,0
 2025-11-21,63315,UPCOMING,Fairhaven,4133,,,Bishop Fenwick,4043,,,South Coast,Catholic Central,7:00 P.M.,,0
 2025-11-21,63360,UPCOMING,Lee,4206,,,West Boylston,4414,,,Intercounty,Mid-Wach,6:00 P.M.,,0
+2025-11-21,63974,UPCOMING,Essex Tech,4745,,,Whittier,4428,,,Cape Ann,Commonwealth,6:00 P.M.,,0
 2025-11-21,63976,UPCOMING,Tri-County,4392,,,Blackstone Valley,4046,,,Mayflower,CMAC,6:00 P.M.,,0
 2025-11-21,63978,UPCOMING,Northeast,4293,,,Blue Hills,4047,,,Commonwealth,Mayflower,6:30 P.M.,,0
 2025-11-21,63981,UPCOMING,Pathfinder,4305,,,Cape Cod Tech,4073,,,Tri-County,Mayflower,6:00 P.M.,,0

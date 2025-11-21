@@ -1,6 +1,6 @@
 # Boys Cross Country - 2025 Season
 
-Generated: 2025-11-20 11:16
+Generated: 2025-11-21 11:15
 
 ## Upcoming Games
 
@@ -113,8 +113,8 @@ Generated: 2025-11-20 11:16
 | 95 | Plymouth North | 1528.3 |
 | 96 | Whittier | 1527.5 |
 | 97 | Sandwich | 1527.0 |
-| 98 | Westborough | 1526.5 |
-| 99 | Minuteman | 1526.5 |
+| 98 | Minuteman | 1526.5 |
+| 99 | Westborough | 1526.5 |
 | 100 | Maynard | 1525.5 |
 | 101 | Essex Tech | 1525.5 |
 | 102 | Brooks | 1522.3 |
@@ -143,17 +143,17 @@ Generated: 2025-11-20 11:16
 | 125 | Hampshire | 1503.8 |
 | 126 | Rising Tide Charter | 1502.3 |
 | 127 | Bellingham | 1501.9 |
-| 128 | Notre Dame (Tyngsborough) | 1501.7 |
-| 129 | Minnechaug | 1501.7 |
-| 130 | Watkinson | 1501.7 |
-| 131 | Tabor | 1501.7 |
-| 132 | Bridgewater-Raynham | 1501.7 |
-| 133 | Greater Lawrence | 1501.7 |
-| 134 | Westfield | 1501.7 |
-| 135 | Longmeadow | 1501.7 |
-| 136 | Wachusett | 1501.7 |
-| 137 | Amherst-Pelham | 1501.7 |
-| 138 | Greater Lowell | 1501.7 |
+| 128 | Bridgewater-Raynham | 1501.7 |
+| 129 | Amherst-Pelham | 1501.7 |
+| 130 | Greater Lawrence | 1501.7 |
+| 131 | Longmeadow | 1501.7 |
+| 132 | Greater Lowell | 1501.7 |
+| 133 | Minnechaug | 1501.7 |
+| 134 | Wachusett | 1501.7 |
+| 135 | Watkinson | 1501.7 |
+| 136 | Notre Dame (Tyngsborough) | 1501.7 |
+| 137 | Westfield | 1501.7 |
+| 138 | Tabor | 1501.7 |
 | 139 | St. Sebastian’s | 1501.7 |
 | 140 | Riverview School | 1501.7 |
 | 141 | East Bridgewater | 1500.4 |
@@ -185,8 +185,8 @@ Generated: 2025-11-20 11:16
 | 167 | Landmark | 1477.8 |
 | 168 | Ayer Shirley | 1477.8 |
 | 169 | Lincoln-Sudbury | 1477.2 |
-| 170 | Algonquin | 1476.8 |
-| 171 | Mystic Valley | 1476.8 |
+| 170 | Mystic Valley | 1476.8 |
+| 171 | Algonquin | 1476.8 |
 | 172 | Tantasqua | 1475.1 |
 | 173 | Oakmont | 1474.9 |
 | 174 | Franklin | 1474.2 |

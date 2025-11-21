@@ -1,6 +1,6 @@
 # Boys Soccer - 2025 Season
 
-Generated: 2025-11-20 11:16
+Generated: 2025-11-21 11:15
 
 ## Upcoming Games
 
@@ -21,37 +21,26 @@ Generated: 2025-11-20 11:16
 | 2025-11-18 | Boston International | 3 | Brighton | 2 | +3.6 | +1.0 |
 | 2025-11-18 | Northampton | 0 | West Springfield | 1 | +2.0 | -1.0 |
 | 2025-11-18 | Natick | 2 | Newton South | 0 | +0.7 | +2.0 |
-| 2025-11-17 | Greater New Bedford | 3 | Scituate | 1 | +1.1 | +2.0 |
 | 2025-11-17 | St. John’s Prep | 4 | Concord-Carlisle | 2 | +2.4 | +2.0 |
-| 2025-11-17 | Duxbury | 3 | Dartmouth | 0 | +0.6 | +3.0 |
-| 2025-11-17 | Norwell | 2 | Dover-Sherborn | 1 | +2.1 | +1.0 |
-| 2025-11-17 | Bromfield | 3 | Westport | 0 | -0.1 | +3.0 |
-| 2025-11-17 | Rockland | 3 | Northbridge | 2 | +1.1 | +1.0 |
 | 2025-11-17 | Hopedale | 3 | Keefe Tech | 2 | -0.9 | +1.0 |
+| 2025-11-17 | Rockland | 3 | Northbridge | 2 | +1.1 | +1.0 |
+| 2025-11-17 | Bromfield | 3 | Westport | 0 | -0.1 | +3.0 |
+| 2025-11-17 | Greater New Bedford | 3 | Scituate | 1 | +1.1 | +2.0 |
+| 2025-11-17 | Norwell | 2 | Dover-Sherborn | 1 | +2.1 | +1.0 |
+| 2025-11-17 | Duxbury | 3 | Dartmouth | 0 | +0.6 | +3.0 |
 | 2025-11-16 | Gann Academy | 1 | Hyde | 4 | +0.4 | -3.0 |
 | 2025-11-16 | Wheeler (R.I.) | 0 | Millbrook (N.Y.) | 5 | +1.0 | -5.0 |
 | 2025-11-16 | Mount St. Charles (R.I.) | 3 | Williston Northampton | 2 | +0.9 | +1.0 |
 | 2025-11-16 | Taft | 4 | Nobles | 1 | -0.3 | +3.0 |
 | 2025-11-15 | Hyde | 1 | MacDuffie | 0 | +1.8 | +1.0 |
 | 2025-11-15 | Wheeler (R.I.) | 1 | Berwick | 0 | +0.9 | +1.0 |
+| 2025-11-15 | Greens Farms | 2 | Millbrook (N.Y.) | 3 | +1.0 | -1.0 |
 | 2025-11-15 | Williston Northampton | 6 | Vermont Academy | 0 | +0.4 | +6.0 |
 | 2025-11-15 | Mount St. Charles (R.I.) | 2 | Suffield Academy | 1 | +0.9 | +1.0 |
 | 2025-11-15 | Northfield Mt. Hermon | 0 | Nobles | 4 | -0.6 | -4.0 |
 | 2025-11-15 | Taft | 3 | Choate | 1 | +1.3 | +2.0 |
-| 2025-11-15 | Greens Farms | 2 | Millbrook (N.Y.) | 3 | +1.0 | -1.0 |
 | 2025-11-14 | Northampton | 2 | Agawam | 0 | +2.2 | +2.0 |
 | 2025-11-14 | Concord-Carlisle | 2 | Brookline | 1 | +2.8 | +1.0 |
-| 2025-11-13 | Newton South | 1 | Framingham | 0 | +2.0 | +1.0 |
-| 2025-11-13 | Dover-Sherborn | 3 | Pembroke | 0 | +1.6 | +3.0 |
-| 2025-11-13 | Longmeadow | 0 | West Springfield | 1 | +1.5 | -1.0 |
-| 2025-11-13 | Dartmouth | 3 | Sharon | 0 | +2.5 | +3.0 |
-| 2025-11-13 | Greater New Bedford | 3 | Chicopee | 1 | +0.6 | +2.0 |
-| 2025-11-13 | St. John Paul II | 0 | Keefe Tech | 2 | +0.4 | -2.0 |
-| 2025-11-13 | East Bridgewater | 0 | Scituate | 1 | +0.5 | -1.0 |
-| 2025-11-13 | Brighton | 3 | Rockport | 2 | +1.6 | +1.0 |
-| 2025-11-13 | Hopedale | 2 | Dearborn STEM | 0 | +1.3 | +2.0 |
-| 2025-11-13 | Gann Academy | 3 | Lexington Christian | 1 | +1.7 | +2.0 |
-| 2025-11-13 | Natick | 2 | BC High | 1 | +1.6 | +1.0 |
 
 ## Current Elo Ratings
 
@@ -259,13 +248,13 @@ Generated: 2025-11-20 11:16
 | 200 | Worcester Academy | 1502.9 |
 | 201 | Wheeler (R.I.) | 1501.7 |
 | 202 | Worcester South | 1501.7 |
-| 203 | Newton Country Day | 1501.7 |
-| 204 | Argosy Collegiate | 1501.7 |
-| 205 | Community Charter | 1501.7 |
+| 203 | Community Charter | 1501.7 |
+| 204 | Newton Country Day | 1501.7 |
+| 205 | Argosy Collegiate | 1501.7 |
 | 206 | Xavier (Conn.) | 1501.7 |
 | 207 | St. Mark’s | 1501.7 |
-| 208 | La Salle (R.I.) | 1501.7 |
-| 209 | South Shore Christian | 1501.7 |
+| 208 | South Shore Christian | 1501.7 |
+| 209 | La Salle (R.I.) | 1501.7 |
 | 210 | Lincoln-Sudbury | 1501.6 |
 | 211 | Phillips Exeter | 1501.3 |
 | 212 | Sturgis West | 1501.1 |
