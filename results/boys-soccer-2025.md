@@ -1,12 +1,11 @@
 # Boys Soccer - 2025 Season
 
-Generated: 2025-11-21 11:15
+Generated: 2025-11-22 11:13
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2025-11-21 | 4:45 P.M. | Bromfield | Rockland | 59.7% | +1.4 |
 | 2025-11-22 | 12:15 P.M. | St. John’s Prep | Natick | 63.5% | +1.9 |
 | 2025-11-22 | 4:45 P.M. | Duxbury | West Springfield | 65.5% | +2.2 |
 | 2025-11-22 | 4:45 P.M. | Norwell | Greater New Bedford | 73.0% | +3.5 |
@@ -16,31 +15,30 @@ Generated: 2025-11-21 11:15
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2025-11-21 | Bromfield | 1 | Rockland | 0 | +1.4 | +1.0 |
 | 2025-11-19 | Groton-Dunstable | 2 | Shepherd Hill | 2 | +2.2 | 0.0 |
 | 2025-11-19 | Worcester South | 0 | Sutton | 2 | -0.7 | -2.0 |
 | 2025-11-18 | Boston International | 3 | Brighton | 2 | +3.6 | +1.0 |
 | 2025-11-18 | Northampton | 0 | West Springfield | 1 | +2.0 | -1.0 |
 | 2025-11-18 | Natick | 2 | Newton South | 0 | +0.7 | +2.0 |
-| 2025-11-17 | St. John’s Prep | 4 | Concord-Carlisle | 2 | +2.4 | +2.0 |
+| 2025-11-17 | Norwell | 2 | Dover-Sherborn | 1 | +2.1 | +1.0 |
 | 2025-11-17 | Hopedale | 3 | Keefe Tech | 2 | -0.9 | +1.0 |
 | 2025-11-17 | Rockland | 3 | Northbridge | 2 | +1.1 | +1.0 |
 | 2025-11-17 | Bromfield | 3 | Westport | 0 | -0.1 | +3.0 |
 | 2025-11-17 | Greater New Bedford | 3 | Scituate | 1 | +1.1 | +2.0 |
-| 2025-11-17 | Norwell | 2 | Dover-Sherborn | 1 | +2.1 | +1.0 |
 | 2025-11-17 | Duxbury | 3 | Dartmouth | 0 | +0.6 | +3.0 |
+| 2025-11-17 | St. John’s Prep | 4 | Concord-Carlisle | 2 | +2.4 | +2.0 |
 | 2025-11-16 | Gann Academy | 1 | Hyde | 4 | +0.4 | -3.0 |
 | 2025-11-16 | Wheeler (R.I.) | 0 | Millbrook (N.Y.) | 5 | +1.0 | -5.0 |
 | 2025-11-16 | Mount St. Charles (R.I.) | 3 | Williston Northampton | 2 | +0.9 | +1.0 |
 | 2025-11-16 | Taft | 4 | Nobles | 1 | -0.3 | +3.0 |
+| 2025-11-15 | Northfield Mt. Hermon | 0 | Nobles | 4 | -0.6 | -4.0 |
 | 2025-11-15 | Hyde | 1 | MacDuffie | 0 | +1.8 | +1.0 |
 | 2025-11-15 | Wheeler (R.I.) | 1 | Berwick | 0 | +0.9 | +1.0 |
 | 2025-11-15 | Greens Farms | 2 | Millbrook (N.Y.) | 3 | +1.0 | -1.0 |
 | 2025-11-15 | Williston Northampton | 6 | Vermont Academy | 0 | +0.4 | +6.0 |
 | 2025-11-15 | Mount St. Charles (R.I.) | 2 | Suffield Academy | 1 | +0.9 | +1.0 |
-| 2025-11-15 | Northfield Mt. Hermon | 0 | Nobles | 4 | -0.6 | -4.0 |
 | 2025-11-15 | Taft | 3 | Choate | 1 | +1.3 | +2.0 |
-| 2025-11-14 | Northampton | 2 | Agawam | 0 | +2.2 | +2.0 |
-| 2025-11-14 | Concord-Carlisle | 2 | Brookline | 1 | +2.8 | +1.0 |
 
 ## Current Elo Ratings
 
@@ -66,8 +64,8 @@ Generated: 2025-11-21 11:15
 | 18 | CASH | 1609.6 |
 | 19 | Dartmouth | 1608.0 |
 | 20 | Sutton | 1607.1 |
-| 21 | Hamilton-Wenham | 1602.2 |
-| 22 | Bromfield | 1600.5 |
+| 21 | Bromfield | 1606.1 |
+| 22 | Hamilton-Wenham | 1602.2 |
 | 23 | Old Rochester | 1599.4 |
 | 24 | Cohasset | 1596.2 |
 | 25 | Revere | 1595.2 |
@@ -88,14 +86,14 @@ Generated: 2025-11-21 11:15
 | 40 | Northampton | 1584.1 |
 | 41 | Middlesex | 1583.8 |
 | 42 | Nobles | 1582.7 |
-| 43 | Rockland | 1581.9 |
-| 44 | Lexington | 1580.6 |
-| 45 | Westfield Tech | 1579.6 |
-| 46 | Ayer Shirley | 1578.6 |
-| 47 | Abington | 1578.5 |
-| 48 | New Mission/English High | 1578.0 |
-| 49 | Chicopee | 1577.6 |
-| 50 | Southeastern | 1577.4 |
+| 43 | Lexington | 1580.6 |
+| 44 | Westfield Tech | 1579.6 |
+| 45 | Ayer Shirley | 1578.6 |
+| 46 | Abington | 1578.5 |
+| 47 | New Mission/English High | 1578.0 |
+| 48 | Chicopee | 1577.6 |
+| 49 | Southeastern | 1577.4 |
+| 50 | Rockland | 1576.3 |
 | 51 | Wakefield | 1575.8 |
 | 52 | Needham | 1574.9 |
 | 53 | BC High | 1572.2 |
@@ -248,10 +246,10 @@ Generated: 2025-11-21 11:15
 | 200 | Worcester Academy | 1502.9 |
 | 201 | Wheeler (R.I.) | 1501.7 |
 | 202 | Worcester South | 1501.7 |
-| 203 | Community Charter | 1501.7 |
-| 204 | Newton Country Day | 1501.7 |
-| 205 | Argosy Collegiate | 1501.7 |
-| 206 | Xavier (Conn.) | 1501.7 |
+| 203 | Newton Country Day | 1501.7 |
+| 204 | Community Charter | 1501.7 |
+| 205 | Xavier (Conn.) | 1501.7 |
+| 206 | Argosy Collegiate | 1501.7 |
 | 207 | St. Mark’s | 1501.7 |
 | 208 | South Shore Christian | 1501.7 |
 | 209 | La Salle (R.I.) | 1501.7 |

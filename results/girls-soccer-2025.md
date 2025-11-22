@@ -1,12 +1,11 @@
 # Girls Soccer - 2025 Season
 
-Generated: 2025-11-21 11:15
+Generated: 2025-11-22 11:13
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2025-11-21 | 7:00 P.M. | Sutton | Littleton | 68.5% | +2.7 |
 | 2025-11-22 | 10:00 A.M. | Natick | Franklin | 63.4% | +1.9 |
 | 2025-11-22 | 2:30 P.M. | Duxbury | Longmeadow | 68.9% | +2.8 |
 | 2025-11-22 | 2:30 P.M. | Medfield | Nipmuc | 58.7% | +1.2 |
@@ -16,29 +15,29 @@ Generated: 2025-11-21 11:15
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2025-11-21 | Sutton | 1 | Littleton | 0 | +2.7 | +1.0 |
 | 2025-11-18 | Hopedale | 0 | Hull | 1 | -1.2 | -1.0 |
 | 2025-11-18 | Littleton | 3 | Southwick | 1 | +1.4 | +2.0 |
 | 2025-11-18 | Natick | 5 | Belmont | 0 | +1.8 | +5.0 |
 | 2025-11-18 | Franklin | 2 | Concord-Carlisle | 0 | +2.1 | +2.0 |
+| 2025-11-17 | Longmeadow | 4 | King Philip | 2 | +1.3 | +2.0 |
 | 2025-11-17 | Granby | 1 | Monson | 2 | +1.6 | -1.0 |
 | 2025-11-17 | Sutton | 1 | Cohasset | 0 | +0.7 | +1.0 |
 | 2025-11-17 | Medfield | 5 | Pope Francis | 1 | +3.1 | +4.0 |
 | 2025-11-17 | Nipmuc | 1 | Norwell | 0 | +0.3 | +1.0 |
 | 2025-11-17 | Duxbury | 2 | Masconomet | 1 | +0.4 | +1.0 |
-| 2025-11-17 | Longmeadow | 4 | King Philip | 2 | +1.3 | +2.0 |
 | 2025-11-16 | Tilton | 0 | Vermont Academy | 3 | +0.3 | -3.0 |
 | 2025-11-16 | Brewster Academy | 1 | Greens Farms | 4 | +0.9 | -3.0 |
 | 2025-11-16 | St. George’s | 1 | Williston Northampton | 0 | +1.1 | +1.0 |
 | 2025-11-16 | Miss Porter’s | 2 | Westminster | 0 | +1.4 | +2.0 |
-| 2025-11-15 | Westminster | 2 | BB&N | 1 | +0.3 | +1.0 |
+| 2025-11-15 | Miss Porter’s | 3 | Worcester Academy | 0 | -0.3 | +3.0 |
 | 2025-11-15 | Tilton | 2 | Kents Hill | 1 | +1.9 | +1.0 |
 | 2025-11-15 | St. Thomas More | 0 | Vermont Academy | 1 | +0.9 | -1.0 |
 | 2025-11-15 | Brewster Academy | 5 | Portsmouth Abbey | 2 | +1.6 | +3.0 |
 | 2025-11-15 | Greens Farms | 3 | New Hampton | 0 | +1.5 | +3.0 |
 | 2025-11-15 | St. George’s | 1 | Brooks | 1 | +0.9 | 0.0 |
 | 2025-11-15 | Dexter Southfield | 0 | Williston Northampton | 1 | +3.8 | -1.0 |
-| 2025-11-15 | Miss Porter’s | 3 | Worcester Academy | 0 | -0.3 | +3.0 |
-| 2025-11-14 | Hopedale | 3 | Norfolk Aggie | 0 | -1.0 | +3.0 |
+| 2025-11-15 | Westminster | 2 | BB&N | 1 | +0.3 | +1.0 |
 
 ## Current Elo Ratings
 
@@ -52,8 +51,8 @@ Generated: 2025-11-21 11:15
 | 6 | Duxbury | 1713.0 |
 | 7 | Wellesley | 1700.5 |
 | 8 | Somerset Berkley | 1698.6 |
-| 9 | Natick | 1694.8 |
-| 10 | Sutton | 1690.1 |
+| 9 | Sutton | 1695.6 |
+| 10 | Natick | 1694.8 |
 | 11 | Cohasset | 1688.7 |
 | 12 | Hull | 1686.1 |
 | 13 | Hamilton-Wenham | 1685.2 |
@@ -84,11 +83,11 @@ Generated: 2025-11-21 11:15
 | 38 | St. John Paul II | 1615.7 |
 | 39 | St. Mary’s | 1614.5 |
 | 40 | Advanced Math and Science | 1609.2 |
-| 41 | Littleton | 1604.9 |
-| 42 | Pingree | 1604.7 |
-| 43 | Braintree | 1603.3 |
-| 44 | Martha’s Vineyard | 1602.0 |
-| 45 | Hingham | 1600.9 |
+| 41 | Pingree | 1604.7 |
+| 42 | Braintree | 1603.3 |
+| 43 | Martha’s Vineyard | 1602.0 |
+| 44 | Hingham | 1600.9 |
+| 45 | Littleton | 1599.5 |
 | 46 | Beverly | 1597.5 |
 | 47 | Danvers | 1596.9 |
 | 48 | Arlington | 1595.8 |
@@ -240,15 +239,15 @@ Generated: 2025-11-21 11:15
 | 194 | Madison Park | 1503.4 |
 | 195 | Concord Academy | 1502.9 |
 | 196 | Canton | 1502.2 |
-| 197 | South Shore Christian | 1501.7 |
-| 198 | Boston Prep | 1501.7 |
-| 199 | Bridgton Academy | 1501.7 |
-| 200 | Taft | 1501.7 |
-| 201 | Cumberland (R.I.) | 1501.7 |
-| 202 | Kent | 1501.7 |
-| 203 | Kingswood-Oxford | 1501.7 |
-| 204 | Neighborhood House Charter | 1501.7 |
-| 205 | Poughkeepsie Day (N.Y.) | 1501.7 |
+| 197 | Neighborhood House Charter | 1501.7 |
+| 198 | Taft | 1501.7 |
+| 199 | Poughkeepsie Day (N.Y.) | 1501.7 |
+| 200 | Kingswood-Oxford | 1501.7 |
+| 201 | South Shore Christian | 1501.7 |
+| 202 | Cumberland (R.I.) | 1501.7 |
+| 203 | Bridgton Academy | 1501.7 |
+| 204 | Kent | 1501.7 |
+| 205 | Boston Prep | 1501.7 |
 | 206 | Billerica | 1499.6 |
 | 207 | Melrose | 1498.6 |
 | 208 | Rivers | 1497.5 |
