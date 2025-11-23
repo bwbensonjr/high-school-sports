@@ -1,6 +1,6 @@
 # Girls Volleyball - 2025 Season
 
-Generated: 2025-11-22 11:13
+Generated: 2025-11-23 11:24
 
 ## Upcoming Games
 
@@ -11,23 +11,10 @@ Generated: 2025-11-22 11:13
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2025-11-16 | Christian Heritage | 2 | Covenant Christian | 3 | +2.6 | -1.0 |
-| 2025-11-16 | Harvey (N.Y.) | 0 | Hamden Hall Country Day | 3 | +0.6 | -3.0 |
-| 2025-11-16 | Groton | 3 | Greenwich CD (Conn.) | 0 | +0.6 | +3.0 |
 | 2025-11-16 | King (Conn.) | 3 | BB&N | 0 | -2.0 | +3.0 |
-| 2025-11-15 | Wilbraham & Monson | 0 | Hamden Hall Country Day | 3 | +1.8 | -3.0 |
-| 2025-11-15 | Hoosac School | 2 | Covenant Christian | 3 | +1.8 | -1.0 |
-| 2025-11-15 | Christian Heritage | 3 | Bancroft | 0 | +1.9 | +3.0 |
-| 2025-11-15 | Harvey (N.Y.) | 3 | Cambridge | 1 | +4.5 | +2.0 |
-| 2025-11-15 | Newton North | 2 | Franklin | 3 | +3.2 | -1.0 |
-| 2025-11-15 | Oliver Ames | 3 | Wayland | 2 | +3.9 | +1.0 |
-| 2025-11-15 | Groton | 3 | Kingswood-Oxford | 1 | +1.9 | +2.0 |
-| 2025-11-15 | BB&N | 3 | Choate | 0 | +6.4 | +3.0 |
-| 2025-11-15 | King (Conn.) | 3 | Loomis Chaffee (Conn.) | 0 | +1.9 | +3.0 |
-| 2025-11-15 | Hopedale | 3 | Smith Voc. | 0 | +0.2 | +3.0 |
-| 2025-11-15 | Bourne | 1 | East Bridgewater | 3 | +1.9 | -2.0 |
-| 2025-11-15 | Bellingham | 3 | Joseph Case | 1 | +1.2 | +2.0 |
-| 2025-11-15 | Greens Farms | 1 | Greenwich CD (Conn.) | 3 | +0.6 | -2.0 |
+| 2025-11-16 | Groton | 3 | Greenwich CD (Conn.) | 0 | +0.6 | +3.0 |
+| 2025-11-16 | Harvey (N.Y.) | 0 | Hamden Hall Country Day | 3 | +0.6 | -3.0 |
+| 2025-11-16 | Christian Heritage | 2 | Covenant Christian | 3 | +2.6 | -1.0 |
 
 ## Current Elo Ratings
 
@@ -202,12 +189,12 @@ Generated: 2025-11-22 11:13
 | 167 | Lowell | 1502.5 |
 | 168 | Worcester South | 1501.9 |
 | 169 | Cambridge Weston | 1501.8 |
-| 170 | Trinity Christian | 1501.7 |
-| 171 | Dublin | 1501.7 |
+| 170 | Dublin | 1501.7 |
+| 171 | Fellowship Christian | 1501.7 |
 | 172 | Argosy Collegiate | 1501.7 |
-| 173 | Fellowship Christian | 1501.7 |
-| 174 | South Shore Christian | 1501.7 |
-| 175 | Northfield Mt. Hermon | 1501.7 |
+| 173 | Trinity Christian | 1501.7 |
+| 174 | Northfield Mt. Hermon | 1501.7 |
+| 175 | South Shore Christian | 1501.7 |
 | 176 | Milton | 1500.9 |
 | 177 | Mashpee | 1499.5 |
 | 178 | Sturgis West | 1499.4 |
@@ -241,8 +228,8 @@ Generated: 2025-11-22 11:13
 | 206 | Malden | 1491.3 |
 | 207 | Cheshire Academy | 1491.2 |
 | 208 | Woburn | 1489.8 |
-| 209 | Hotchkiss | 1489.7 |
-| 210 | Governor’s Academy | 1489.7 |
+| 209 | Governor’s Academy | 1489.7 |
+| 210 | Hotchkiss | 1489.7 |
 | 211 | Gann Academy | 1489.7 |
 | 212 | Monument Mtn. | 1489.6 |
 | 213 | Newton Country Day | 1489.6 |
@@ -264,8 +251,8 @@ Generated: 2025-11-22 11:13
 | 229 | Boston Prep | 1485.9 |
 | 230 | South Shore Charter | 1484.9 |
 | 231 | Tantasqua | 1484.9 |
-| 232 | Marvelwood | 1483.8 |
-| 233 | University Park | 1483.8 |
+| 232 | University Park | 1483.8 |
+| 233 | Marvelwood | 1483.8 |
 | 234 | Holyoke | 1483.6 |
 | 235 | Leominster | 1483.3 |
 | 236 | Community Charter | 1483.1 |

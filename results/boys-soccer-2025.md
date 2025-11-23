@@ -1,72 +1,65 @@
 # Boys Soccer - 2025 Season
 
-Generated: 2025-11-22 11:13
+Generated: 2025-11-23 11:24
 
 ## Upcoming Games
 
-| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
-|------|------|-----------|-----------|------------|------------------|
-| 2025-11-22 | 12:15 P.M. | St. John’s Prep | Natick | 63.5% | +1.9 |
-| 2025-11-22 | 4:45 P.M. | Duxbury | West Springfield | 65.5% | +2.2 |
-| 2025-11-22 | 4:45 P.M. | Norwell | Greater New Bedford | 73.0% | +3.5 |
-| 2025-11-22 | 10:00 A.M. | Boston International | Hopedale | 74.3% | +3.7 |
+*No upcoming games scheduled*
+
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2025-11-22 | Boston International | 2 | Hopedale | 0 | +3.7 | +2.0 |
+| 2025-11-22 | Norwell | 1 | Greater New Bedford | 0 | +3.5 | +1.0 |
+| 2025-11-22 | Duxbury | 0 | West Springfield | 3 | +2.2 | -3.0 |
+| 2025-11-22 | St. John’s Prep | 2 | Natick | 3 | +1.9 | -1.0 |
 | 2025-11-21 | Bromfield | 1 | Rockland | 0 | +1.4 | +1.0 |
 | 2025-11-19 | Groton-Dunstable | 2 | Shepherd Hill | 2 | +2.2 | 0.0 |
 | 2025-11-19 | Worcester South | 0 | Sutton | 2 | -0.7 | -2.0 |
+| 2025-11-18 | Natick | 2 | Newton South | 0 | +0.7 | +2.0 |
 | 2025-11-18 | Boston International | 3 | Brighton | 2 | +3.6 | +1.0 |
 | 2025-11-18 | Northampton | 0 | West Springfield | 1 | +2.0 | -1.0 |
-| 2025-11-18 | Natick | 2 | Newton South | 0 | +0.7 | +2.0 |
-| 2025-11-17 | Norwell | 2 | Dover-Sherborn | 1 | +2.1 | +1.0 |
 | 2025-11-17 | Hopedale | 3 | Keefe Tech | 2 | -0.9 | +1.0 |
 | 2025-11-17 | Rockland | 3 | Northbridge | 2 | +1.1 | +1.0 |
 | 2025-11-17 | Bromfield | 3 | Westport | 0 | -0.1 | +3.0 |
 | 2025-11-17 | Greater New Bedford | 3 | Scituate | 1 | +1.1 | +2.0 |
+| 2025-11-17 | Norwell | 2 | Dover-Sherborn | 1 | +2.1 | +1.0 |
 | 2025-11-17 | Duxbury | 3 | Dartmouth | 0 | +0.6 | +3.0 |
 | 2025-11-17 | St. John’s Prep | 4 | Concord-Carlisle | 2 | +2.4 | +2.0 |
+| 2025-11-16 | Mount St. Charles (R.I.) | 3 | Williston Northampton | 2 | +0.9 | +1.0 |
 | 2025-11-16 | Gann Academy | 1 | Hyde | 4 | +0.4 | -3.0 |
 | 2025-11-16 | Wheeler (R.I.) | 0 | Millbrook (N.Y.) | 5 | +1.0 | -5.0 |
-| 2025-11-16 | Mount St. Charles (R.I.) | 3 | Williston Northampton | 2 | +0.9 | +1.0 |
 | 2025-11-16 | Taft | 4 | Nobles | 1 | -0.3 | +3.0 |
-| 2025-11-15 | Northfield Mt. Hermon | 0 | Nobles | 4 | -0.6 | -4.0 |
-| 2025-11-15 | Hyde | 1 | MacDuffie | 0 | +1.8 | +1.0 |
-| 2025-11-15 | Wheeler (R.I.) | 1 | Berwick | 0 | +0.9 | +1.0 |
-| 2025-11-15 | Greens Farms | 2 | Millbrook (N.Y.) | 3 | +1.0 | -1.0 |
-| 2025-11-15 | Williston Northampton | 6 | Vermont Academy | 0 | +0.4 | +6.0 |
-| 2025-11-15 | Mount St. Charles (R.I.) | 2 | Suffield Academy | 1 | +0.9 | +1.0 |
-| 2025-11-15 | Taft | 3 | Choate | 1 | +1.3 | +2.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Norwell | 1707.6 |
-| 2 | Boston International | 1671.0 |
-| 3 | St. John’s Prep | 1670.5 |
+| 1 | Norwell | 1711.3 |
+| 2 | Boston International | 1676.6 |
+| 3 | St. John’s Prep | 1661.7 |
 | 4 | Lowell | 1654.9 |
 | 5 | North Reading | 1649.1 |
 | 6 | Beverly | 1645.2 |
 | 7 | Dover-Sherborn | 1641.8 |
-| 8 | Westport | 1629.4 |
-| 9 | Medfield | 1624.6 |
-| 10 | Natick | 1624.0 |
+| 8 | Natick | 1632.8 |
+| 9 | Westport | 1629.4 |
+| 10 | Medfield | 1624.6 |
 | 11 | Oliver Ames | 1623.4 |
 | 12 | Weymouth | 1620.4 |
 | 13 | Newton South | 1617.6 |
 | 14 | Masconomet | 1614.8 |
-| 15 | Duxbury | 1614.6 |
-| 16 | Keefe Tech | 1614.2 |
-| 17 | Hingham | 1612.1 |
-| 18 | CASH | 1609.6 |
-| 19 | Dartmouth | 1608.0 |
-| 20 | Sutton | 1607.1 |
-| 21 | Bromfield | 1606.1 |
-| 22 | Hamilton-Wenham | 1602.2 |
-| 23 | Old Rochester | 1599.4 |
+| 15 | Keefe Tech | 1614.2 |
+| 16 | Hingham | 1612.1 |
+| 17 | CASH | 1609.6 |
+| 18 | Dartmouth | 1608.0 |
+| 19 | Sutton | 1607.1 |
+| 20 | Bromfield | 1606.1 |
+| 21 | Hamilton-Wenham | 1602.2 |
+| 22 | Old Rochester | 1599.4 |
+| 23 | Duxbury | 1596.4 |
 | 24 | Cohasset | 1596.2 |
 | 25 | Revere | 1595.2 |
 | 26 | Holliston | 1593.8 |
@@ -81,11 +74,11 @@ Generated: 2025-11-22 11:13
 | 35 | Concord-Carlisle | 1586.4 |
 | 36 | Marblehead | 1586.1 |
 | 37 | St. Mary’s | 1585.2 |
-| 38 | Greater New Bedford | 1584.7 |
-| 39 | Northeast | 1584.6 |
-| 40 | Northampton | 1584.1 |
-| 41 | Middlesex | 1583.8 |
-| 42 | Nobles | 1582.7 |
+| 38 | Northeast | 1584.6 |
+| 39 | Northampton | 1584.1 |
+| 40 | Middlesex | 1583.8 |
+| 41 | Nobles | 1582.7 |
+| 42 | Greater New Bedford | 1581.0 |
 | 43 | Lexington | 1580.6 |
 | 44 | Westfield Tech | 1579.6 |
 | 45 | Ayer Shirley | 1578.6 |
@@ -98,33 +91,33 @@ Generated: 2025-11-22 11:13
 | 52 | Needham | 1574.9 |
 | 53 | BC High | 1572.2 |
 | 54 | Hampden Charter East | 1572.1 |
-| 55 | Ashland | 1569.0 |
-| 56 | Smith Voc. | 1568.8 |
-| 57 | St. John Paul II | 1568.5 |
-| 58 | Framingham | 1568.0 |
-| 59 | Hyde | 1567.8 |
-| 60 | Franklin | 1566.1 |
-| 61 | Northbridge | 1565.1 |
-| 62 | East Boston | 1564.9 |
-| 63 | Greater Lowell | 1564.3 |
-| 64 | Uxbridge | 1562.6 |
-| 65 | Central Catholic | 1561.6 |
-| 66 | Greater Lawrence | 1561.2 |
-| 67 | Monument Mtn. | 1561.1 |
-| 68 | Bishop Feehan | 1561.1 |
-| 69 | Scituate | 1561.0 |
-| 70 | Methuen | 1560.0 |
-| 71 | Nantucket | 1559.4 |
-| 72 | New Bedford | 1558.1 |
-| 73 | Frontier | 1557.7 |
-| 74 | Monomoy | 1557.1 |
-| 75 | Concord Academy | 1556.7 |
-| 76 | Gardner | 1556.5 |
-| 77 | Maynard | 1555.9 |
-| 78 | Madison Park | 1554.6 |
-| 79 | Marshfield | 1554.4 |
-| 80 | Monson | 1554.2 |
-| 81 | West Springfield | 1553.2 |
+| 55 | West Springfield | 1571.4 |
+| 56 | Ashland | 1569.0 |
+| 57 | Smith Voc. | 1568.8 |
+| 58 | St. John Paul II | 1568.5 |
+| 59 | Framingham | 1568.0 |
+| 60 | Hyde | 1567.8 |
+| 61 | Franklin | 1566.1 |
+| 62 | Northbridge | 1565.1 |
+| 63 | East Boston | 1564.9 |
+| 64 | Greater Lowell | 1564.3 |
+| 65 | Uxbridge | 1562.6 |
+| 66 | Central Catholic | 1561.6 |
+| 67 | Greater Lawrence | 1561.2 |
+| 68 | Monument Mtn. | 1561.1 |
+| 69 | Bishop Feehan | 1561.1 |
+| 70 | Scituate | 1561.0 |
+| 71 | Methuen | 1560.0 |
+| 72 | Nantucket | 1559.4 |
+| 73 | New Bedford | 1558.1 |
+| 74 | Frontier | 1557.7 |
+| 75 | Monomoy | 1557.1 |
+| 76 | Concord Academy | 1556.7 |
+| 77 | Gardner | 1556.5 |
+| 78 | Maynard | 1555.9 |
+| 79 | Madison Park | 1554.6 |
+| 80 | Marshfield | 1554.4 |
+| 81 | Monson | 1554.2 |
 | 82 | Martha’s Vineyard | 1552.3 |
 | 83 | Longmeadow | 1552.2 |
 | 84 | Turners Falls | 1552.1 |
@@ -144,21 +137,21 @@ Generated: 2025-11-22 11:13
 | 98 | North Andover | 1539.0 |
 | 99 | Advanced Math and Science | 1538.7 |
 | 100 | Reading | 1536.6 |
-| 101 | Hopedale | 1536.5 |
-| 102 | Cambridge | 1536.4 |
-| 103 | Pioneer Charter I | 1536.0 |
-| 104 | Granby | 1535.6 |
-| 105 | Minuteman | 1535.5 |
-| 106 | Brighton | 1535.0 |
-| 107 | Manchester Essex | 1534.8 |
-| 108 | O’Bryant | 1534.4 |
-| 109 | Cape Cod Tech | 1533.7 |
-| 110 | Oxford | 1533.7 |
-| 111 | Tantasqua | 1533.7 |
-| 112 | East Bridgewater | 1532.2 |
-| 113 | Holbrook | 1531.8 |
-| 114 | Attleboro | 1531.3 |
-| 115 | Algonquin | 1531.3 |
+| 101 | Cambridge | 1536.4 |
+| 102 | Pioneer Charter I | 1536.0 |
+| 103 | Granby | 1535.6 |
+| 104 | Minuteman | 1535.5 |
+| 105 | Brighton | 1535.0 |
+| 106 | Manchester Essex | 1534.8 |
+| 107 | O’Bryant | 1534.4 |
+| 108 | Cape Cod Tech | 1533.7 |
+| 109 | Oxford | 1533.7 |
+| 110 | Tantasqua | 1533.7 |
+| 111 | East Bridgewater | 1532.2 |
+| 112 | Holbrook | 1531.8 |
+| 113 | Attleboro | 1531.3 |
+| 114 | Algonquin | 1531.3 |
+| 115 | Hopedale | 1530.9 |
 | 116 | South Hadley | 1530.0 |
 | 117 | Durfee | 1529.8 |
 | 118 | Mount St. Charles (R.I.) | 1529.1 |
@@ -246,13 +239,13 @@ Generated: 2025-11-22 11:13
 | 200 | Worcester Academy | 1502.9 |
 | 201 | Wheeler (R.I.) | 1501.7 |
 | 202 | Worcester South | 1501.7 |
-| 203 | Newton Country Day | 1501.7 |
-| 204 | Community Charter | 1501.7 |
+| 203 | La Salle (R.I.) | 1501.7 |
+| 204 | South Shore Christian | 1501.7 |
 | 205 | Xavier (Conn.) | 1501.7 |
-| 206 | Argosy Collegiate | 1501.7 |
+| 206 | Newton Country Day | 1501.7 |
 | 207 | St. Mark’s | 1501.7 |
-| 208 | South Shore Christian | 1501.7 |
-| 209 | La Salle (R.I.) | 1501.7 |
+| 208 | Community Charter | 1501.7 |
+| 209 | Argosy Collegiate | 1501.7 |
 | 210 | Lincoln-Sudbury | 1501.6 |
 | 211 | Phillips Exeter | 1501.3 |
 | 212 | Sturgis West | 1501.1 |

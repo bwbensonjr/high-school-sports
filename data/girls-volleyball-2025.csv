@@ -1365,32 +1365,32 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-08,61409,FINAL,Bourne,4050,3.0,1.0,Ursuline,4448,0.0,0.0,South Coast,Catholic Conference,12:00 P.M.,,0
 2025-11-08,61517,FINAL,Hopedale,4507,3.0,1.0,Renaissance,4664,1.0,0.0,CMAC,Metro,2:00 P.M.,,0
 2025-11-09,61064,FINAL,Andover,4009,0.0,0.0,Franklin,4144,3.0,1.0,Merrimack Valley,Hockomock,12:00 P.M.,,0
-2025-11-12,61058,FINAL,Newton North,4279,3,1,Central Catholic,4081,0,0,Bay State,Merrimack Valley,6:00 P.M.,,0
-2025-11-12,61061,FINAL,Franklin,4144,3,1,Newton South,4280,0,0,Hockomock,Dual County,7:15 P.M.,,0
-2025-11-12,61154,FINAL,Longmeadow,4214,0,0,Wayland,4411,3,1,Eastern,Dual County,6:00 P.M.,,0
-2025-11-12,61157,FINAL,Oliver Ames,4302,3,1,King Philip,4197,0,0,Hockomock,Hockomock,6:00 P.M.,,0
-2025-11-12,61274,FINAL,Medfield,4241,1,0,Joseph Case,4078,3,1,Tri-Valley,South Coast,7:15 P.M.,,0
-2025-11-12,61277,FINAL,Bellingham,4033,3,1,Lynnfield,4223,0,0,Tri-Valley,Cape Ann,5:00 P.M.,,0
-2025-11-12,61394,FINAL,East Bridgewater,4126,3,1,Nipmuc,4281,0,0,South Shore,CMAC,6:30 P.M.,,0
-2025-11-12,61397,FINAL,Bourne,4050,3,1,Rockland,4331,1,0,South Coast,South Shore,5:00 P.M.,,0
-2025-11-12,61502,FINAL,Pioneer Valley Christian,4535,1,0,Smith Voc.,4539,3,1,Metro,Metro,5:00 P.M.,,0
-2025-11-12,61505,FINAL,Hopedale,4507,3,1,Lenox,4532,1,0,CMAC,Southern,7:15 P.M.,,0
-2025-11-12,63672,FINAL,King (Conn.),4199,3,1,Winsor,4436,0,0,Independent,EIL,5:30 P.M.,,0
-2025-11-12,63675,FINAL,Loomis Chaffee (Conn.),4215,3,1,Deerfield,4110,1,0,Independent,Independent,4:00 P.M.,,0
-2025-11-12,63678,FINAL,Dana Hall,4102,2,0,Choate,4090,3,1,EIL,Independent,3:00 P.M.,,0
-2025-11-12,63680,FINAL,BB&N,4028,3,1,Greenwich Academy (Conn.),4159,0,0,ISL,Independent,4:00 P.M.,,0
-2025-11-12,63683,FINAL,Groton,4544,3,1,Worcester Academy,4441,1,0,ISL,Independent,4:00 P.M.,,0
-2025-11-12,63684,FINAL,Kingswood-Oxford,4198,3,1,Suffield Academy,4382,0,0,Independent,Independent,4:00 P.M.,,0
-2025-11-12,63687,FINAL,Greens Farms,4158,3,1,Rivers,4330,0,0,Independent,ISL,4:00 P.M.,,0
-2025-11-12,63689,FINAL,Greenwich CD (Conn.),5041,3,1,Dexter Southfield,4113,0,0,Independent,Independent,4:00 P.M.,,0
-2025-11-12,63690,FINAL,Wilbraham & Monson,4545,3,1,Marianapolis,4567,1,0,Independent,Independent,3:30 P.M.,,0
-2025-11-12,63691,FINAL,Mount St. Charles (R.I.),4488,0,0,Hamden Hall Country Day,4162,3,1,Independent,Independent,4:30 P.M.,,0
-2025-11-12,63694,FINAL,Montrose,4561,2,0,Cambridge Weston,4069,3,1,IGC,IGC,5:15 P.M.,,0
-2025-11-12,63695,FINAL,Harvey (N.Y.),4166,3,1,Beaver Country Day,4030,0,0,Independent,EIL,2:30 P.M.,,0
-2025-11-12,63697,FINAL,Christian Heritage,4641,3,1,Stoneleigh-Burnham,4585,0,0,Independent,Independent,4:30 P.M.,,0
-2025-11-12,63700,FINAL,Bancroft,4023,3,1,Newman School,4277,0,0,EIL,IGC,4:00 P.M.,,0
-2025-11-12,63701,FINAL,Covenant Christian,4629,3,1,Boston Trinity,4542,1,0,IGC,Independent,4:30 P.M.,,0
-2025-11-12,63702,FINAL,Hoosac School,4688,3,1,Marvelwood,4608,0,0,Independent,Independent,3:30 P.M.,,0
+2025-11-12,61058,FINAL,Newton North,4279,3.0,1.0,Central Catholic,4081,0.0,0.0,Bay State,Merrimack Valley,6:00 P.M.,,0
+2025-11-12,61061,FINAL,Franklin,4144,3.0,1.0,Newton South,4280,0.0,0.0,Hockomock,Dual County,7:15 P.M.,,0
+2025-11-12,61154,FINAL,Longmeadow,4214,0.0,0.0,Wayland,4411,3.0,1.0,Eastern,Dual County,6:00 P.M.,,0
+2025-11-12,61157,FINAL,Oliver Ames,4302,3.0,1.0,King Philip,4197,0.0,0.0,Hockomock,Hockomock,6:00 P.M.,,0
+2025-11-12,61274,FINAL,Medfield,4241,1.0,0.0,Joseph Case,4078,3.0,1.0,Tri-Valley,South Coast,7:15 P.M.,,0
+2025-11-12,61277,FINAL,Bellingham,4033,3.0,1.0,Lynnfield,4223,0.0,0.0,Tri-Valley,Cape Ann,5:00 P.M.,,0
+2025-11-12,61394,FINAL,East Bridgewater,4126,3.0,1.0,Nipmuc,4281,0.0,0.0,South Shore,CMAC,6:30 P.M.,,0
+2025-11-12,61397,FINAL,Bourne,4050,3.0,1.0,Rockland,4331,1.0,0.0,South Coast,South Shore,5:00 P.M.,,0
+2025-11-12,61502,FINAL,Pioneer Valley Christian,4535,1.0,0.0,Smith Voc.,4539,3.0,1.0,Metro,Metro,5:00 P.M.,,0
+2025-11-12,61505,FINAL,Hopedale,4507,3.0,1.0,Lenox,4532,1.0,0.0,CMAC,Southern,7:15 P.M.,,0
+2025-11-12,63672,FINAL,King (Conn.),4199,3.0,1.0,Winsor,4436,0.0,0.0,Independent,EIL,5:30 P.M.,,0
+2025-11-12,63675,FINAL,Loomis Chaffee (Conn.),4215,3.0,1.0,Deerfield,4110,1.0,0.0,Independent,Independent,4:00 P.M.,,0
+2025-11-12,63678,FINAL,Dana Hall,4102,2.0,0.0,Choate,4090,3.0,1.0,EIL,Independent,3:00 P.M.,,0
+2025-11-12,63680,FINAL,BB&N,4028,3.0,1.0,Greenwich Academy (Conn.),4159,0.0,0.0,ISL,Independent,4:00 P.M.,,0
+2025-11-12,63683,FINAL,Groton,4544,3.0,1.0,Worcester Academy,4441,1.0,0.0,ISL,Independent,4:00 P.M.,,0
+2025-11-12,63684,FINAL,Kingswood-Oxford,4198,3.0,1.0,Suffield Academy,4382,0.0,0.0,Independent,Independent,4:00 P.M.,,0
+2025-11-12,63687,FINAL,Greens Farms,4158,3.0,1.0,Rivers,4330,0.0,0.0,Independent,ISL,4:00 P.M.,,0
+2025-11-12,63689,FINAL,Greenwich CD (Conn.),5041,3.0,1.0,Dexter Southfield,4113,0.0,0.0,Independent,Independent,4:00 P.M.,,0
+2025-11-12,63690,FINAL,Wilbraham & Monson,4545,3.0,1.0,Marianapolis,4567,1.0,0.0,Independent,Independent,3:30 P.M.,,0
+2025-11-12,63691,FINAL,Mount St. Charles (R.I.),4488,0.0,0.0,Hamden Hall Country Day,4162,3.0,1.0,Independent,Independent,4:30 P.M.,,0
+2025-11-12,63694,FINAL,Montrose,4561,2.0,0.0,Cambridge Weston,4069,3.0,1.0,IGC,IGC,5:15 P.M.,,0
+2025-11-12,63695,FINAL,Harvey (N.Y.),4166,3.0,1.0,Beaver Country Day,4030,0.0,0.0,Independent,EIL,2:30 P.M.,,0
+2025-11-12,63697,FINAL,Christian Heritage,4641,3.0,1.0,Stoneleigh-Burnham,4585,0.0,0.0,Independent,Independent,4:30 P.M.,,0
+2025-11-12,63700,FINAL,Bancroft,4023,3.0,1.0,Newman School,4277,0.0,0.0,EIL,IGC,4:00 P.M.,,0
+2025-11-12,63701,FINAL,Covenant Christian,4629,3.0,1.0,Boston Trinity,4542,1.0,0.0,IGC,Independent,4:30 P.M.,,0
+2025-11-12,63702,FINAL,Hoosac School,4688,3.0,1.0,Marvelwood,4608,0.0,0.0,Independent,Independent,3:30 P.M.,,0
 2025-11-15,61055,FINAL,Newton North,4279,2,0,Franklin,4144,3,1,Bay State,Hockomock,8:00 P.M.,,0
 2025-11-15,61151,FINAL,Oliver Ames,4302,3,1,Wayland,4411,2,0,Hockomock,Dual County,10:00 A.M.,,0
 2025-11-15,61271,FINAL,Bellingham,4033,3,1,Joseph Case,4078,1,0,Tri-Valley,South Coast,3:00 P.M.,,0

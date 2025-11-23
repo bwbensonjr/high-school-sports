@@ -1,53 +1,46 @@
 # Football - 2025 Season
 
-Generated: 2025-11-22 11:13
+Generated: 2025-11-23 11:24
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2025-11-22 | 12:00 P.M. | Springfield Central | Xaverian | 43.1% | -4.8 |
-| 2025-11-22 | 3:00 P.M. | Milton | North Attleborough | 47.5% | -1.8 |
-| 2025-11-22 | 3:00 P.M. | King Philip | Malden Catholic | 82.9% | +27.4 |
-| 2025-11-22 | 12:00 P.M. | Foxborough | Archbishop Williams | 75.6% | +19.6 |
-| 2025-11-22 | 1:00 P.M. | Amesbury | Clinton | 64.0% | +10.0 |
-| 2025-11-22 | 1:30 P.M. | Cohasset | Northbridge | 42.1% | -5.5 |
-| 2025-11-22 | 12:00 P.M. | Norwell | Hudson | 49.3% | -0.5 |
-| 2025-11-22 | 12:00 P.M. | Nashoba Valley Tech | Randolph | 50.6% | +0.4 |
-| 2025-11-25 | 5:00 P.M. | Wakefield | Melrose | 70.4% | +15.1 |
 | 2025-11-25 | 7:30 P.M. | Brookline | Newton North | 35.6% | -10.3 |
-| 2025-11-26 | 6:00 P.M. | Old Colony | Tri-County | 19.0% | -25.2 |
-| 2025-11-26 | 6:00 P.M. | Nashoba Valley Tech | Monty Tech | 89.5% | +37.1 |
+| 2025-11-25 | 5:00 P.M. | Wakefield | Melrose | 70.4% | +15.1 |
 | 2025-11-26 | 6:00 P.M. | St. Bernard’s | St. Paul | 70.3% | +15.0 |
 | 2025-11-26 | 6:00 P.M. | Quaboag | Ware | 18.9% | -25.3 |
+| 2025-11-26 | 12:00 P.M. | Worcester South | Worcester North | 30.3% | -14.4 |
 | 2025-11-26 | 6:00 P.M. | Quabbin | Gardner | 72.6% | +16.9 |
-| 2025-11-26 | 3:00 P.M. | Worcester Tech | Abby Kelley Foster | 53.0% | +2.1 |
+| 2025-11-26 | 12:00 P.M. | Worcester Tech | Abby Kelley Foster | 53.0% | +2.1 |
 | 2025-11-26 | 6:00 P.M. | Milford | Taunton | 61.9% | +8.5 |
 | 2025-11-26 | 4:00 P.M. | Plymouth North | Plymouth South | 42.7% | -5.1 |
+| 2025-11-26 | 6:00 P.M. | Old Colony | Tri-County | 19.0% | -25.2 |
 | 2025-11-26 | 5:00 P.M. | South Shore Voc-Tech | Southeastern | 83.8% | +28.5 |
-| 2025-11-26 | 12:00 P.M. | Worcester South | Worcester North | 30.3% | -14.4 |
-| 2025-11-26 | 6:00 P.M. | Concord-Carlisle | Lexington | 79.7% | +23.8 |
 | 2025-11-26 | 5:00 P.M. | Bristol-Plymouth | Blue Hills | 52.5% | +1.7 |
-| 2025-11-26 | 6:00 P.M. | Cardinal Spellman | Archbishop Williams | 14.2% | -31.2 |
-| 2025-11-26 | 5:00 P.M. | Bishop Stang | Bishop Feehan | 28.1% | -16.3 |
-| 2025-11-26 | 6:00 P.M. | St. John’s (Shrewsbury) | Malden Catholic | 37.4% | -9.0 |
-| 2025-11-26 | 1:00 P.M. | Brighton | TechBoston | 34.7% | -11.0 |
-| 2025-11-26 | 6:00 P.M. | Greater Lowell | Lowell Catholic | 83.5% | +28.2 |
-| 2025-11-26 | 6:00 P.M. | KIPP | Lynn Tech | 78.8% | +22.8 |
+| 2025-11-26 | 6:00 P.M. | Nashoba Valley Tech | Monty Tech | 87.5% | +33.8 |
+| 2025-11-26 | 5:00 P.M. | Minuteman | Keefe Tech | 53.9% | +2.7 |
 | 2025-11-26 | 5:00 P.M. | Somerset Berkley | Central High (R.I.) | 46.4% | -2.5 |
+| 2025-11-26 | 4:00 P.M. | KIPP | Lynn Tech | 78.8% | +22.8 |
+| 2025-11-26 | 6:00 P.M. | Greater Lowell | Lowell Catholic | 83.5% | +28.2 |
 | 2025-11-26 | 6:00 P.M. | Whittier | Greater Lawrence | 81.5% | +25.7 |
-| 2025-11-27 | 10:00 A.M. | Wachusett | Shrewsbury | 64.8% | +10.6 |
-| 2025-11-27 | 10:00 A.M. | Hingham | Scituate | 18.0% | -26.3 |
-| 2025-11-27 | 10:00 A.M. | Athol | Mahar | 67.5% | +12.7 |
-| 2025-11-27 | 10:00 A.M. | Tantasqua | Shepherd Hill | 71.7% | +16.2 |
-| 2025-11-27 | 10:00 A.M. | Fitchburg | Leominster | 16.2% | -28.5 |
-| 2025-11-27 | 10:00 A.M. | Westborough | Algonquin | 69.1% | +14.0 |
-| 2025-11-27 | 10:00 A.M. | Oliver Ames | Sharon | 83.6% | +28.3 |
+| 2025-11-26 | 6:00 P.M. | St. John’s (Shrewsbury) | Malden Catholic | 38.9% | -7.8 |
+| 2025-11-26 | 5:00 P.M. | Bishop Stang | Bishop Feehan | 28.1% | -16.3 |
+| 2025-11-26 | 6:00 P.M. | Cardinal Spellman | Archbishop Williams | 16.1% | -28.6 |
+| 2025-11-26 | 1:00 P.M. | Brighton | TechBoston | 34.7% | -11.0 |
+| 2025-11-26 | 6:00 P.M. | Concord-Carlisle | Lexington | 79.7% | +23.8 |
+| 2025-11-27 | 10:00 A.M. | Mansfield | Foxborough | 33.8% | -11.7 |
 | 2025-11-27 | 10:00 A.M. | Duxbury | Marshfield | 72.7% | +17.1 |
-| 2025-11-27 | 10:00 A.M. | Mansfield | Foxborough | 37.2% | -9.1 |
+| 2025-11-27 | 10:00 A.M. | Oliver Ames | Sharon | 83.6% | +28.3 |
+| 2025-11-27 | 10:00 A.M. | Wachusett | Shrewsbury | 64.8% | +10.6 |
+| 2025-11-27 | 10:00 A.M. | Fitchburg | Leominster | 16.2% | -28.5 |
+| 2025-11-27 | 10:00 A.M. | Tantasqua | Shepherd Hill | 71.7% | +16.2 |
+| 2025-11-27 | 10:00 A.M. | Athol | Mahar | 67.5% | +12.7 |
+| 2025-11-27 | 10:00 A.M. | Hingham | Scituate | 18.0% | -26.3 |
+| 2025-11-27 | 10:00 A.M. | Westborough | Algonquin | 69.1% | +14.0 |
 | 2025-11-27 | 10:00 A.M. | Stoughton | Canton | 9.4% | -39.4 |
 | 2025-11-27 | 10:00 A.M. | Revere | Winthrop | 34.7% | -11.0 |
-| 2025-11-27 | 10:00 A.M. | Attleboro | North Attleborough | 15.3% | -29.7 |
+| 2025-11-27 | 10:00 A.M. | Attleboro | North Attleborough | 12.6% | -33.6 |
 | 2025-11-27 | 10:00 A.M. | North Quincy | Quincy | 49.6% | -0.3 |
 | 2025-11-27 | 10:00 A.M. | Medford | Malden | 81.5% | +25.8 |
 | 2025-11-27 | 10:00 A.M. | Peabody | Saugus | 60.9% | +7.7 |
@@ -58,8 +51,8 @@ Generated: 2025-11-22 11:13
 | 2025-11-27 | 10:15 A.M. | Woburn | Winchester | 34.3% | -11.3 |
 | 2025-11-27 | 10:00 A.M. | Franklin County Tech | Smith Vocational | 54.0% | +2.8 |
 | 2025-11-27 | 10:00 A.M. | Silver Lake | Pembroke | 53.5% | +2.5 |
-| 2025-11-27 | 10:00 A.M. | Hudson | Marlborough | 87.0% | +33.0 |
-| 2025-11-27 | 10:15 A.M. | Leicester | David Prouty | 65.2% | +10.9 |
+| 2025-11-27 | 10:00 A.M. | Hudson | Marlborough | 84.0% | +28.8 |
+| 2025-11-27 | 10:00 A.M. | Assabet | Bay Path | 14.0% | -31.5 |
 | 2025-11-27 | 10:00 A.M. | Palmer | Ludlow | 80.1% | +24.2 |
 | 2025-11-27 | 10:15 A.M. | Shawsheen | Arlington Catholic | 97.6% | +64.6 |
 | 2025-11-27 | 10:00 A.M. | Whitman-Hanson | Abington | 17.7% | -26.7 |
@@ -67,35 +60,35 @@ Generated: 2025-11-22 11:13
 | 2025-11-27 | 10:00 A.M. | Rockland | Blackstone-Millville/Hopedale | 71.4% | +15.9 |
 | 2025-11-27 | 10:00 A.M. | Methuen | Dracut | 85.6% | +31.0 |
 | 2025-11-27 | 10:00 A.M. | East Longmeadow | Longmeadow | 48.1% | -1.4 |
-| 2025-11-27 | 10:00 A.M. | Northbridge | Uxbridge | 65.8% | +11.4 |
+| 2025-11-27 | 10:00 A.M. | Northbridge | Uxbridge | 58.6% | +6.1 |
 | 2025-11-27 | 10:00 A.M. | Holyoke | South Hadley | 35.9% | -10.1 |
-| 2025-11-27 | 10:00 A.M. | Wayland | Weston | 70.1% | +14.8 |
+| 2025-11-27 | 10:15 A.M. | Leicester | David Prouty | 65.2% | +10.9 |
 | 2025-11-27 | 10:00 A.M. | Burncoat | Doherty | 45.1% | -3.4 |
 | 2025-11-27 | 10:00 A.M. | Blackstone Valley | Nipmuc | 67.5% | +12.7 |
 | 2025-11-27 | 10:00 A.M. | West Springfield | Agawam | 92.1% | +42.6 |
-| 2025-11-27 | 10:00 A.M. | Assabet | Bay Path | 14.0% | -31.5 |
+| 2025-11-27 | 10:00 A.M. | Wayland | Weston | 70.1% | +14.8 |
 | 2025-11-27 | 10:15 A.M. | Bartlett | Southbridge | 77.8% | +21.8 |
 | 2025-11-27 | 10:00 A.M. | Grafton | Auburn | 39.5% | -7.4 |
-| 2025-11-27 | 10:00 P.M. | Murdock | Narragansett | 27.3% | -17.0 |
+| 2025-11-27 | 10:00 A.M. | Murdock | Narragansett | 27.3% | -17.0 |
 | 2025-11-27 | 10:00 A.M. | Littleton | Ayer Shirley | 53.5% | +2.4 |
 | 2025-11-27 | 10:00 A.M. | Easthampton | Northampton | 85.1% | +30.3 |
 | 2025-11-27 | 9:00 A.M. | Belchertown | Pathfinder | 70.3% | +15.0 |
 | 2025-11-27 | 10:00 A.M. | West Boylston | Maynard/AMSA | 93.1% | +45.2 |
-| 2025-11-27 | TBD | Groton-Dunstable/NM | Tyngsborough | 34.5% | -11.1 |
-| 2025-11-27 | 10:00 A.M. | Nashoba | Clinton | 19.7% | -24.4 |
+| 2025-11-27 | 10:00 A.M. | Groton-Dunstable/NM | Tyngsborough | 34.5% | -11.1 |
+| 2025-11-27 | 10:00 A.M. | Nashoba | Clinton | 21.7% | -22.3 |
 | 2025-11-27 | 10:00 A.M. | Arlington | Waltham | 71.7% | +16.2 |
-| 2025-11-27 | 10:00 A.M. | Ashland | Hopkinton | 94.6% | +49.6 |
+| 2025-11-27 | 10:00 A.M. | Bellingham | Norton | 70.3% | +15.0 |
 | 2025-11-27 | 10:15 A.M. | Stoneham | Reading | 69.8% | +14.5 |
 | 2025-11-27 | 10:00 A.M. | Apponequet | Old Rochester | 43.5% | -4.6 |
-| 2025-11-27 | 10:00 A.M. | Franklin | King Philip | 14.4% | -31.0 |
-| 2025-11-27 | 10:00 A.M. | Xaverian | St. John’s Prep | 47.9% | -1.4 |
+| 2025-11-27 | 10:00 A.M. | Franklin | King Philip | 13.6% | -32.1 |
+| 2025-11-27 | 10:00 A.M. | Xaverian | St. John’s Prep | 53.0% | +2.1 |
 | 2025-11-27 | 10:00 A.M. | BC High | Catholic Memorial | 18.8% | -25.4 |
 | 2025-11-27 | 10:00 A.M. | Bishop Fenwick | St. Mary’s | 52.0% | +1.4 |
 | 2025-11-27 | 10:00 A.M. | Pentucket/Georgetown | Triton | 66.6% | +12.0 |
 | 2025-11-27 | 10:00 A.M. | Lynnfield | North Reading | 38.9% | -7.8 |
 | 2025-11-27 | 10:00 A.M. | Hamilton-Wenham | Ipswich | 64.2% | +10.1 |
 | 2025-11-27 | 10:00 A.M. | Manchester Essex | Essex Tech | 65.9% | +11.5 |
-| 2025-11-27 | 10:00 A.M. | Amesbury | Newburyport | 89.9% | +38.0 |
+| 2025-11-27 | 10:00 A.M. | Amesbury | Newburyport | 90.9% | +40.1 |
 | 2025-11-27 | 10:00 A.M. | Falmouth | Barnstable | 33.8% | -11.7 |
 | 2025-11-27 | 10:00 A.M. | Nauset | Dennis-Yarmouth | 48.4% | -1.1 |
 | 2025-11-27 | 10:00 A.M. | O'Bryant | Latin Academy | 50.0% | +0.0 |
@@ -104,12 +97,12 @@ Generated: 2025-11-22 11:13
 | 2025-11-27 | 10:15 A.M. | Durfee | New Bedford | 77.1% | +21.0 |
 | 2025-11-27 | 10:00 A.M. | Bridgewater-Raynham | Brockton | 79.6% | +23.7 |
 | 2025-11-27 | 10:00 A.M. | Weymouth | Walpole | 62.1% | +8.6 |
-| 2025-11-27 | 10:00 A.M. | Braintree | Milton | 7.3% | -44.1 |
+| 2025-11-27 | 10:00 A.M. | Braintree | Milton | 9.0% | -40.2 |
 | 2025-11-27 | 10:00 A.M. | Wellesley | Needham | 60.6% | +7.5 |
 | 2025-11-27 | 10:00 A.M. | Framingham | Natick | 18.7% | -25.5 |
 | 2025-11-27 | 10:00 A.M. | Dighton-Rehoboth/Bristol Aggie | Seekonk | 36.1% | -9.9 |
+| 2025-11-27 | 10:15 A.M. | Watertown | Belmont | 80.1% | +24.2 |
 | 2025-11-27 | 10:00 A.M. | Greater New Bedford | Diman | 11.6% | -35.3 |
-| 2025-11-27 | 10:00 A.M. | Wareham | Bourne | 18.7% | -25.5 |
 | 2025-11-27 | 10:30 A.M. | Dartmouth | Fairhaven | 23.8% | -20.2 |
 | 2025-11-27 | 10:00 A.M. | Burlington | Bedford | 69.4% | +14.3 |
 | 2025-11-27 | 10:00 A.M. | Wilmington | Tewksbury | 11.4% | -35.7 |
@@ -119,29 +112,36 @@ Generated: 2025-11-22 11:13
 | 2025-11-27 | 10:00 A.M. | Lawrence | Central Catholic | 15.8% | -29.0 |
 | 2025-11-27 | 10:00 A.M. | Andover | North Andover | 67.5% | +12.7 |
 | 2025-11-27 | 10:00 A.M. | Dover-Sherborn | Medfield | 25.7% | -18.4 |
-| 2025-11-27 | 10:00 A.M. | Bellingham | Norton | 70.3% | +15.0 |
-| 2025-11-27 | 10:00 A.M. | Westwood | Holliston | 76.8% | +20.8 |
-| 2025-11-27 | 10:00 A.M. | Watertown | Belmont | 80.1% | +24.2 |
-| 2025-11-27 | 10:00 A.M. | Upper Cape | Cape Cod Tech | 32.3% | -12.8 |
 | 2025-11-27 | 10:00 A.M. | Cambridge | Somerville | 64.6% | +10.5 |
+| 2025-11-27 | 10:00 A.M. | Westwood | Holliston | 76.8% | +20.8 |
+| 2025-11-27 | 10:00 A.M. | Upper Cape | Cape Cod Tech | 32.3% | -12.8 |
+| 2025-11-27 | 10:00 A.M. | Norwood | Dedham | 61.4% | +8.0 |
+| 2025-11-27 | 10:00 A.M. | Ashland | Hopkinton | 94.6% | +49.6 |
 | 2025-11-27 | 10:00 A.M. | Lincoln-Sudbury | Newton South | 88.8% | +35.9 |
 | 2025-11-27 | 10:00 A.M. | Acton-Boxborough | Westford | 62.1% | +8.6 |
 | 2025-11-27 | 10:00 A.M. | Mashpee | Sandwich | 65.7% | +11.3 |
 | 2025-11-27 | 10:00 A.M. | Masconomet | Northeast | 78.3% | +22.3 |
-| 2025-11-27 | 10:00 A.M. | Norwell | Hanover | 75.9% | +19.9 |
+| 2025-11-27 | 10:00 A.M. | Norwell | Hanover | 80.0% | +24.1 |
 | 2025-11-27 | 10:00 A.M. | Carver | Middleborough | 63.7% | +9.8 |
-| 2025-11-27 | 10:00 A.M. | Minuteman | Keefe Tech | 53.9% | +2.7 |
 | 2025-11-27 | 10:00 A.M. | West Bridgewater | East Bridgewater | 66.7% | +12.1 |
 | 2025-11-27 | 10:00 A.M. | Joseph Case | Atlantis | 73.1% | +17.3 |
-| 2025-11-27 | 10:00 A.M. | Norwood | Dedham | 61.4% | +8.0 |
-| 2025-11-27 | 10:00 A.M. | Cohasset | Hull | 85.3% | +30.5 |
+| 2025-11-27 | 10:00 A.M. | Wareham | Bourne | 18.7% | -25.5 |
+| 2025-11-27 | 10:00 A.M. | Hull | Cohasset | 18.5% | -25.8 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2025-11-21 | Pathfinder | 16 | Cape Cod Tech | 18 | -16.5 | -2.0 |
+| 2025-11-22 | Nashoba Valley Tech | 12 | Randolph | 20 | +0.4 | -8.0 |
+| 2025-11-22 | Norwell | 21 | Hudson | 7 | -0.5 | +14.0 |
+| 2025-11-22 | Cohasset | 35 | Northbridge | 15 | -5.5 | +20.0 |
+| 2025-11-22 | Amesbury | 20 | Clinton | 14 | +10.0 | +6.0 |
+| 2025-11-22 | Foxborough | 31 | Archbishop Williams | 0 | +19.6 | +31.0 |
+| 2025-11-22 | King Philip | 21 | Malden Catholic | 13 | +27.4 | +8.0 |
+| 2025-11-22 | Milton | 29 | North Attleborough | 43 | -1.8 | -14.0 |
+| 2025-11-22 | Springfield Central | 22 | Xaverian | 36 | -4.8 | -14.0 |
 | 2025-11-21 | Northeast | 21 | Blue Hills | 24 | +6.3 | -3.0 |
+| 2025-11-21 | Pathfinder | 16 | Cape Cod Tech | 18 | -16.5 | -2.0 |
 | 2025-11-21 | Tri-County | 35 | Blackstone Valley | 25 | +14.3 | +10.0 |
 | 2025-11-21 | Essex Tech | 8 | Whittier | 16 | -20.9 | -8.0 |
 | 2025-11-21 | Lee | 22 | West Boylston | 42 | -1.4 | -20.0 |
@@ -152,23 +152,8 @@ Generated: 2025-11-22 11:13
 | 2025-11-21 | Bishop Feehan | 31 | Bridgewater-Raynham | 27 | +14.7 | +4.0 |
 | 2025-11-21 | Shawsheen | 22 | North Reading | 14 | +19.9 | +8.0 |
 | 2025-11-21 | St. John’s Prep | 48 | Central Catholic | 7 | +21.2 | +41.0 |
-| 2025-11-20 | Greater Lawrence | 20 | Diman | 21 | -13.8 | -1.0 |
 | 2025-11-20 | South Shore Voc-Tech | 36 | Keefe Tech | 20 | +0.7 | +16.0 |
-| 2025-11-15 | Lee | 48 | Cathedral | 36 | +32.3 | +12.0 |
-| 2025-11-15 | Dexter Southfield | 20 | Cheshire Academy | 31 | +12.3 | -11.0 |
-| 2025-11-15 | Blackstone-Millville/Hopedale | 20 | Nipmuc | 44 | +6.9 | -24.0 |
-| 2025-11-15 | Franklin County Tech | 16 | Cape Cod Tech | 30 | +12.9 | -14.0 |
-| 2025-11-15 | Blackstone Valley | 21 | Bay Path | 16 | -9.3 | +5.0 |
-| 2025-11-15 | Northeast | 51 | Upper Cape | 6 | +8.2 | +45.0 |
-| 2025-11-15 | Tri-County | 42 | Worcester Tech | 7 | +35.0 | +35.0 |
-| 2025-11-15 | Kingswood-Oxford | 11 | Rivers | 14 | +19.9 | -3.0 |
-| 2025-11-15 | Phillips Exeter | 42 | Choate | 44 | +0.2 | -2.0 |
-| 2025-11-15 | St. Mark’s | 13 | Canterbury | 20 | +6.2 | -7.0 |
-| 2025-11-15 | Tabor | 42 | BB&N | 21 | +20.8 | +21.0 |
-| 2025-11-15 | Milton Academy | 35 | Brunswick | 14 | +13.6 | +21.0 |
-| 2025-11-15 | Nobles | 13 | Berkshire | 14 | +5.6 | -1.0 |
-| 2025-11-15 | Avon Old Farms | 35 | Williston Northampton | 21 | -0.2 | +14.0 |
-| 2025-11-15 | Brockton | 21 | Attleboro | 32 | +10.5 | -11.0 |
+| 2025-11-20 | Greater Lawrence | 20 | Diman | 21 | -13.8 | -1.0 |
 
 ## Current Elo Ratings
 
@@ -179,45 +164,45 @@ Generated: 2025-11-22 11:13
 | 3 | Scituate | 1878.5 |
 | 4 | St. John’s Prep | 1862.9 |
 | 5 | Tewksbury | 1854.4 |
-| 6 | Fairhaven | 1845.1 |
-| 7 | Tabor | 1842.4 |
-| 8 | King Philip | 1839.4 |
-| 9 | Catholic Memorial | 1830.2 |
-| 10 | Randolph | 1807.6 |
-| 11 | Xaverian | 1798.6 |
-| 12 | North Attleborough | 1798.2 |
-| 13 | Northbridge | 1789.0 |
-| 14 | Hudson | 1775.6 |
-| 15 | Amesbury | 1772.1 |
-| 16 | Nashoba Valley Tech | 1761.7 |
-| 17 | West Springfield | 1745.5 |
-| 18 | Duxbury | 1732.3 |
-| 19 | Lee | 1732.0 |
-| 20 | Canton | 1730.9 |
-| 21 | Milton | 1730.6 |
-| 22 | Foxborough | 1729.9 |
-| 23 | Uxbridge | 1725.4 |
-| 24 | Whittier | 1725.0 |
-| 25 | Clinton | 1721.9 |
+| 6 | King Philip | 1850.7 |
+| 7 | Fairhaven | 1845.1 |
+| 8 | Tabor | 1842.4 |
+| 9 | Randolph | 1841.0 |
+| 10 | North Attleborough | 1836.8 |
+| 11 | Xaverian | 1833.6 |
+| 12 | Catholic Memorial | 1830.2 |
+| 13 | Amesbury | 1793.1 |
+| 14 | Norwell | 1761.8 |
+| 15 | Foxborough | 1755.3 |
+| 16 | West Springfield | 1745.5 |
+| 17 | Cohasset | 1736.5 |
+| 18 | Northbridge | 1736.1 |
+| 19 | Hudson | 1734.4 |
+| 20 | Duxbury | 1732.3 |
+| 21 | Lee | 1732.0 |
+| 22 | Canton | 1730.9 |
+| 23 | Nashoba Valley Tech | 1728.3 |
+| 24 | Uxbridge | 1725.4 |
+| 25 | Whittier | 1725.0 |
 | 26 | Bishop Feehan | 1721.7 |
-| 27 | Norwell | 1720.6 |
-| 28 | Stoneham | 1720.5 |
-| 29 | Diman | 1718.5 |
-| 30 | Milton Academy | 1709.0 |
-| 31 | Bourne | 1701.4 |
-| 32 | North Reading | 1701.3 |
-| 33 | Springfield Central | 1700.3 |
-| 34 | Natick | 1697.1 |
-| 35 | Winchester | 1694.1 |
+| 27 | Stoneham | 1720.5 |
+| 28 | Diman | 1718.5 |
+| 29 | Milton Academy | 1709.0 |
+| 30 | Bourne | 1701.4 |
+| 31 | North Reading | 1701.3 |
+| 32 | Clinton | 1700.9 |
+| 33 | Natick | 1697.1 |
+| 34 | Winchester | 1694.1 |
+| 35 | Milton | 1692.1 |
 | 36 | Ashland | 1689.5 |
 | 37 | Burlington | 1688.8 |
 | 38 | Kingswood-Oxford | 1688.5 |
-| 39 | Cohasset | 1683.7 |
-| 40 | St. Mary’s | 1674.0 |
-| 41 | Choate | 1673.3 |
-| 42 | Masconomet | 1670.6 |
-| 43 | Tri-County | 1669.1 |
-| 44 | Marblehead | 1669.0 |
+| 39 | St. Mary’s | 1674.0 |
+| 40 | Choate | 1673.3 |
+| 41 | Masconomet | 1670.6 |
+| 42 | Tri-County | 1669.1 |
+| 43 | Marblehead | 1669.0 |
+| 44 | Springfield Central | 1665.3 |
 | 45 | Lincoln-Sudbury | 1662.4 |
 | 46 | Central Catholic | 1650.2 |
 | 47 | Hoosac Valley | 1645.7 |
@@ -237,13 +222,13 @@ Generated: 2025-11-22 11:13
 | 61 | Bay Path | 1628.5 |
 | 62 | Barnstable | 1625.7 |
 | 63 | Reading | 1625.1 |
-| 64 | Malden Catholic | 1615.5 |
-| 65 | Williston Northampton | 1615.5 |
-| 66 | Worcester North | 1614.6 |
-| 67 | Marshfield | 1611.7 |
-| 68 | Middlesex | 1606.6 |
-| 69 | Millbury | 1605.8 |
-| 70 | Medfield | 1605.7 |
+| 64 | Williston Northampton | 1615.5 |
+| 65 | Worcester North | 1614.6 |
+| 66 | Marshfield | 1611.7 |
+| 67 | Middlesex | 1606.6 |
+| 68 | Millbury | 1605.8 |
+| 69 | Medfield | 1605.7 |
+| 70 | Malden Catholic | 1604.2 |
 | 71 | Bellingham | 1602.9 |
 | 72 | Rivers | 1602.3 |
 | 73 | Cheshire Academy | 1598.2 |
@@ -263,35 +248,35 @@ Generated: 2025-11-22 11:13
 | 87 | Tyngsborough | 1588.2 |
 | 88 | Lowell | 1586.8 |
 | 89 | Gloucester | 1584.7 |
-| 90 | Archbishop Williams | 1583.9 |
-| 91 | Minnechaug | 1583.1 |
-| 92 | Cape Cod Tech | 1580.1 |
-| 93 | Frontier | 1576.7 |
-| 94 | Quabbin | 1576.6 |
-| 95 | Pentucket/Georgetown | 1575.5 |
-| 96 | Nobles | 1575.1 |
-| 97 | Lynnfield | 1573.0 |
-| 98 | Milford | 1572.5 |
-| 99 | Dexter Southfield | 1571.7 |
-| 100 | Weymouth | 1571.5 |
-| 101 | Hanover | 1571.2 |
-| 102 | Sandwich | 1569.1 |
-| 103 | Medway | 1568.8 |
-| 104 | Putnam | 1567.9 |
-| 105 | Doherty | 1566.9 |
-| 106 | Danvers | 1566.7 |
-| 107 | Andover | 1566.1 |
-| 108 | South Hadley | 1565.6 |
-| 109 | Brunswick | 1565.1 |
-| 110 | Hingham | 1565.1 |
-| 111 | Pingree | 1564.7 |
-| 112 | Westfield | 1564.5 |
-| 113 | Wakefield | 1564.4 |
-| 114 | Needham | 1564.3 |
-| 115 | Nashua South (N.H.) | 1563.7 |
-| 116 | Palmer | 1563.3 |
-| 117 | Narragansett | 1562.3 |
-| 118 | Smith Vocational | 1561.9 |
+| 90 | Minnechaug | 1583.1 |
+| 91 | Cape Cod Tech | 1580.1 |
+| 92 | Frontier | 1576.7 |
+| 93 | Quabbin | 1576.6 |
+| 94 | Pentucket/Georgetown | 1575.5 |
+| 95 | Nobles | 1575.1 |
+| 96 | Lynnfield | 1573.0 |
+| 97 | Milford | 1572.5 |
+| 98 | Dexter Southfield | 1571.7 |
+| 99 | Weymouth | 1571.5 |
+| 100 | Hanover | 1571.2 |
+| 101 | Sandwich | 1569.1 |
+| 102 | Medway | 1568.8 |
+| 103 | Putnam | 1567.9 |
+| 104 | Doherty | 1566.9 |
+| 105 | Danvers | 1566.7 |
+| 106 | Andover | 1566.1 |
+| 107 | South Hadley | 1565.6 |
+| 108 | Brunswick | 1565.1 |
+| 109 | Hingham | 1565.1 |
+| 110 | Pingree | 1564.7 |
+| 111 | Westfield | 1564.5 |
+| 112 | Wakefield | 1564.4 |
+| 113 | Needham | 1564.3 |
+| 114 | Nashua South (N.H.) | 1563.7 |
+| 115 | Palmer | 1563.3 |
+| 116 | Narragansett | 1562.3 |
+| 117 | Smith Vocational | 1561.9 |
+| 118 | Archbishop Williams | 1558.4 |
 | 119 | West Bridgewater | 1556.4 |
 | 120 | Wilbraham & Monson | 1556.2 |
 | 121 | Tantasqua | 1555.2 |
@@ -341,8 +326,8 @@ Generated: 2025-11-22 11:13
 | 165 | Triton | 1505.6 |
 | 166 | Norton | 1503.0 |
 | 167 | South Shore Voc-Tech | 1502.0 |
-| 168 | Capital Prep (Conn.) | 1501.7 |
-| 169 | Forman | 1501.7 |
+| 168 | Forman | 1501.7 |
+| 169 | Capital Prep (Conn.) | 1501.7 |
 | 170 | Leicester | 1501.5 |
 | 171 | Martha’s Vineyard | 1501.0 |
 | 172 | Chelmsford | 1501.0 |
