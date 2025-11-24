@@ -1034,10 +1034,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-12,63600,FINAL,Cushing,4101,2.0,1.0,Suffield Academy,4382,1.0,0.0,Independent,Independent,3:00 P.M.,,0
 2025-11-12,63603,FINAL,Middlesex,4248,3.0,1.0,Berkshire,4036,2.0,0.0,ISL,Independent,2:00 P.M.,,0
 2025-11-12,63606,FINAL,Williston Northampton,4431,2.0,1.0,Dexter Southfield,4113,1.0,0.0,Independent,Independent,2:00 P.M.,,0
-2025-11-13,60757,FINAL,Nashoba,4267,1,0,Somerset Berkley,4350,3,1,Mid-Wach,South Coast,6:00 P.M.,,0
-2025-11-13,60760,FINAL,Hingham,4171,4,1,Canton,4071,1,0,Patriot,Hockomock,7:00 P.M.,,0
-2025-11-13,60961,FINAL,Dennis-Yarmouth,4111,4,1,Cohasset,4094,3,0,Cape & Islands,South Shore,5:00 P.M.,1.0,0
-2025-11-13,60964,FINAL,Monomoy,4706,1,0,Frontier,4146,3,1,Cape & Islands,Suburban,5:00 P.M.,,0
+2025-11-13,60757,FINAL,Nashoba,4267,1.0,0.0,Somerset Berkley,4350,3.0,1.0,Mid-Wach,South Coast,6:00 P.M.,,0
+2025-11-13,60760,FINAL,Hingham,4171,4.0,1.0,Canton,4071,1.0,0.0,Patriot,Hockomock,7:00 P.M.,,0
+2025-11-13,60961,FINAL,Dennis-Yarmouth,4111,4.0,1.0,Cohasset,4094,3.0,0.0,Cape & Islands,South Shore,5:00 P.M.,1.0,0
+2025-11-13,60964,FINAL,Monomoy,4706,1.0,0.0,Frontier,4146,3.0,1.0,Cape & Islands,Suburban,5:00 P.M.,,0
 2025-11-15,60658,FINAL,Walpole,4404,1,1,Franklin,4144,0,0,Bay State,Hockomock,9:30 A.M.,,0
 2025-11-15,60754,FINAL,Hingham,4171,0,0,Somerset Berkley,4350,3,1,Patriot,South Coast,2:30 P.M.,,0
 2025-11-15,60856,FINAL,Uxbridge,4398,3,1,Sandwich,4340,0,0,CMAC,Cape & Islands,5:00 P.M.,,0

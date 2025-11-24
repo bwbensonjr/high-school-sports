@@ -1,6 +1,6 @@
 # Football - 2025 Season
 
-Generated: 2025-11-23 11:24
+Generated: 2025-11-24 11:16
 
 ## Upcoming Games
 
@@ -326,8 +326,8 @@ Generated: 2025-11-23 11:24
 | 165 | Triton | 1505.6 |
 | 166 | Norton | 1503.0 |
 | 167 | South Shore Voc-Tech | 1502.0 |
-| 168 | Forman | 1501.7 |
-| 169 | Capital Prep (Conn.) | 1501.7 |
+| 168 | Capital Prep (Conn.) | 1501.7 |
+| 169 | Forman | 1501.7 |
 | 170 | Leicester | 1501.5 |
 | 171 | Martha’s Vineyard | 1501.0 |
 | 172 | Chelmsford | 1501.0 |

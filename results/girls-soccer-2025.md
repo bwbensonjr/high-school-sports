@@ -1,6 +1,6 @@
 # Girls Soccer - 2025 Season
 
-Generated: 2025-11-23 11:24
+Generated: 2025-11-24 11:16
 
 ## Upcoming Games
 
@@ -11,25 +11,21 @@ Generated: 2025-11-23 11:24
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2025-11-22 | Hull | 3 | Monson | 1 | +4.1 | +2.0 |
-| 2025-11-22 | Medfield | 1 | Nipmuc | 0 | +1.2 | +1.0 |
-| 2025-11-22 | Duxbury | 3 | Longmeadow | 1 | +2.8 | +2.0 |
 | 2025-11-22 | Natick | 4 | Franklin | 2 | +1.9 | +2.0 |
+| 2025-11-22 | Duxbury | 3 | Longmeadow | 1 | +2.8 | +2.0 |
+| 2025-11-22 | Medfield | 1 | Nipmuc | 0 | +1.2 | +1.0 |
+| 2025-11-22 | Hull | 3 | Monson | 1 | +4.1 | +2.0 |
 | 2025-11-21 | Sutton | 1 | Littleton | 0 | +2.7 | +1.0 |
 | 2025-11-18 | Franklin | 2 | Concord-Carlisle | 0 | +2.1 | +2.0 |
-| 2025-11-18 | Hopedale | 0 | Hull | 1 | -1.2 | -1.0 |
-| 2025-11-18 | Littleton | 3 | Southwick | 1 | +1.4 | +2.0 |
 | 2025-11-18 | Natick | 5 | Belmont | 0 | +1.8 | +5.0 |
-| 2025-11-17 | Granby | 1 | Monson | 2 | +1.6 | -1.0 |
-| 2025-11-17 | Sutton | 1 | Cohasset | 0 | +0.7 | +1.0 |
-| 2025-11-17 | Medfield | 5 | Pope Francis | 1 | +3.1 | +4.0 |
-| 2025-11-17 | Nipmuc | 1 | Norwell | 0 | +0.3 | +1.0 |
-| 2025-11-17 | Duxbury | 2 | Masconomet | 1 | +0.4 | +1.0 |
+| 2025-11-18 | Littleton | 3 | Southwick | 1 | +1.4 | +2.0 |
+| 2025-11-18 | Hopedale | 0 | Hull | 1 | -1.2 | -1.0 |
 | 2025-11-17 | Longmeadow | 4 | King Philip | 2 | +1.3 | +2.0 |
-| 2025-11-16 | St. George’s | 1 | Williston Northampton | 0 | +1.1 | +1.0 |
-| 2025-11-16 | Tilton | 0 | Vermont Academy | 3 | +0.3 | -3.0 |
-| 2025-11-16 | Brewster Academy | 1 | Greens Farms | 4 | +0.9 | -3.0 |
-| 2025-11-16 | Miss Porter’s | 2 | Westminster | 0 | +1.4 | +2.0 |
+| 2025-11-17 | Duxbury | 2 | Masconomet | 1 | +0.4 | +1.0 |
+| 2025-11-17 | Nipmuc | 1 | Norwell | 0 | +0.3 | +1.0 |
+| 2025-11-17 | Medfield | 5 | Pope Francis | 1 | +3.1 | +4.0 |
+| 2025-11-17 | Sutton | 1 | Cohasset | 0 | +0.7 | +1.0 |
+| 2025-11-17 | Granby | 1 | Monson | 2 | +1.6 | -1.0 |
 
 ## Current Elo Ratings
 
@@ -231,15 +227,15 @@ Generated: 2025-11-23 11:24
 | 194 | Madison Park | 1503.4 |
 | 195 | Concord Academy | 1502.9 |
 | 196 | Canton | 1502.2 |
-| 197 | Kingswood-Oxford | 1501.7 |
-| 198 | Neighborhood House Charter | 1501.7 |
-| 199 | Boston Prep | 1501.7 |
-| 200 | South Shore Christian | 1501.7 |
-| 201 | Cumberland (R.I.) | 1501.7 |
-| 202 | Bridgton Academy | 1501.7 |
-| 203 | Poughkeepsie Day (N.Y.) | 1501.7 |
-| 204 | Kent | 1501.7 |
-| 205 | Taft | 1501.7 |
+| 197 | Poughkeepsie Day (N.Y.) | 1501.7 |
+| 198 | Kingswood-Oxford | 1501.7 |
+| 199 | Kent | 1501.7 |
+| 200 | Bridgton Academy | 1501.7 |
+| 201 | Taft | 1501.7 |
+| 202 | Boston Prep | 1501.7 |
+| 203 | South Shore Christian | 1501.7 |
+| 204 | Cumberland (R.I.) | 1501.7 |
+| 205 | Neighborhood House Charter | 1501.7 |
 | 206 | Billerica | 1499.6 |
 | 207 | Melrose | 1498.6 |
 | 208 | Rivers | 1497.5 |

@@ -1661,17 +1661,17 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-12,63666,FINAL,Vermont Academy,4399,3.0,1.0,Darrow,4104,0.0,0.0,Independent,Independent,2:05 P.M.,,0
 2025-11-12,63669,FINAL,Bancroft,4023,3.0,0.0,Kents Hill,4194,4.0,1.0,EIL,Independent,2:00 P.M.,1.0,0
 2025-11-12,63671,FINAL,Tilton,4391,2.0,1.0,Landmark,4200,0.0,0.0,Independent,IGC,2:00 P.M.,,0
-2025-11-13,62430,FINAL,Natick,4270,3,1,Braintree,4051,0,0,Bay State,Bay State,5:00 P.M.,,0
-2025-11-13,62433,FINAL,Bishop Feehan,4042,0,0,Concord-Carlisle,4097,1,1,Catholic Central,Dual County,6:00 P.M.,,0
-2025-11-13,62436,FINAL,Franklin,4144,4,1,Hopkinton,4180,3,0,Hockomock,Tri-Valley,6:00 P.M.,,0
-2025-11-13,62439,FINAL,Needham,4272,2,0,Belmont,4034,4,1,Bay State,Middlesex,5:00 P.M.,,0
-2025-11-13,62547,FINAL,Longmeadow,4214,3,1,Marblehead,4231,1,0,Kurty-Fielding,Northeastern,5:00 P.M.,,0
-2025-11-13,62550,FINAL,King Philip,4197,2,1,Northampton,4291,0,0,Hockomock,Central,5:00 P.M.,,0
-2025-11-13,62667,FINAL,Pope Francis,4796,4,1,Wilmington,4432,1,0,Bi-County,Middlesex,5:00 P.M.,,0
-2025-11-13,62670,FINAL,Nipmuc,4281,3,1,Dover-Sherborn,4118,1,0,CMAC,Tri-Valley,6:00 P.M.,,0
-2025-11-13,62676,FINAL,Medfield,4241,10,1,Tewksbury,4389,1,0,Tri-Valley,Merrimack Valley,6:00 P.M.,,0
-2025-11-13,62796,FINAL,South Hadley,4353,1,0,Littleton,4212,2,1,Kurty-Fielding,Mid-Wach,5:00 P.M.,1.0,0
-2025-11-13,62931,FINAL,Monson,4429,5,1,St. John Paul II,4689,3,0,Central,Cape & Islands,2:00 P.M.,,0
+2025-11-13,62430,FINAL,Natick,4270,3.0,1.0,Braintree,4051,0.0,0.0,Bay State,Bay State,5:00 P.M.,,0
+2025-11-13,62433,FINAL,Bishop Feehan,4042,0.0,0.0,Concord-Carlisle,4097,1.0,1.0,Catholic Central,Dual County,6:00 P.M.,,0
+2025-11-13,62436,FINAL,Franklin,4144,4.0,1.0,Hopkinton,4180,3.0,0.0,Hockomock,Tri-Valley,6:00 P.M.,,0
+2025-11-13,62439,FINAL,Needham,4272,2.0,0.0,Belmont,4034,4.0,1.0,Bay State,Middlesex,5:00 P.M.,,0
+2025-11-13,62547,FINAL,Longmeadow,4214,3.0,1.0,Marblehead,4231,1.0,0.0,Kurty-Fielding,Northeastern,5:00 P.M.,,0
+2025-11-13,62550,FINAL,King Philip,4197,2.0,1.0,Northampton,4291,0.0,0.0,Hockomock,Central,5:00 P.M.,,0
+2025-11-13,62667,FINAL,Pope Francis,4796,4.0,1.0,Wilmington,4432,1.0,0.0,Bi-County,Middlesex,5:00 P.M.,,0
+2025-11-13,62670,FINAL,Nipmuc,4281,3.0,1.0,Dover-Sherborn,4118,1.0,0.0,CMAC,Tri-Valley,6:00 P.M.,,0
+2025-11-13,62676,FINAL,Medfield,4241,10.0,1.0,Tewksbury,4389,1.0,0.0,Tri-Valley,Merrimack Valley,6:00 P.M.,,0
+2025-11-13,62796,FINAL,South Hadley,4353,1.0,0.0,Littleton,4212,2.0,1.0,Kurty-Fielding,Mid-Wach,5:00 P.M.,1.0,0
+2025-11-13,62931,FINAL,Monson,4429,5.0,1.0,St. John Paul II,4689,3.0,0.0,Central,Cape & Islands,2:00 P.M.,,0
 2025-11-14,62934,FINAL,Hopedale,4507,3,1,Norfolk Aggie,4458,0,0,CMAC,Mayflower,6:00 P.M.,,0
 2025-11-15,63899,FINAL,Westminster,4422,2,1,BB&N,4028,1,0,Founders,ISL,2:00 P.M.,2.0,0
 2025-11-15,63900,FINAL,Miss Porter’s,4257,3,1,Worcester Academy,4441,0,0,Independent,Independent,1:00 P.M.,,0

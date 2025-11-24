@@ -1622,17 +1622,17 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-12,63634,FINAL,Lexington Christian,4210,3.0,1.0,Newman School,4277,2.0,0.0,EIL,MBIL,2:30 P.M.,,0
 2025-11-12,63637,FINAL,Brimmer & May,4056,0.0,0.0,MacDuffie,4224,1.0,1.0,MBIL,Independent,3:15 P.M.,,0
 2025-11-12,63639,FINAL,Hyde,4186,6.0,1.0,Landmark,4200,0.0,0.0,Independent,MBIL,2:00 P.M.,,0
-2025-11-13,61818,FINAL,Natick,4270,2,1,BC High,4029,1,0,Bay State,Catholic Conference,7:00 P.M.,1.0,0
-2025-11-13,61821,FINAL,Newton South,4280,1,1,Framingham,4143,0,0,Dual County,Bay State,5:30 P.M.,,0
-2025-11-13,61944,FINAL,Longmeadow,4214,0,0,West Springfield,4417,1,1,Smith,Smith,7:00 P.M.,,1
-2025-11-13,61947,FINAL,Dartmouth,4105,3,1,Sharon,4345,0,0,Southeast,Hockomock,6:00 P.M.,,0
-2025-11-13,62052,FINAL,Greater New Bedford,4156,3,1,Chicopee,4088,1,0,South Coast,Holley,6:00 P.M.,,0
-2025-11-13,62058,FINAL,Dover-Sherborn,4118,3,1,Pembroke,4308,0,0,Tri-Valley,Patriot,5:30 P.M.,,0
-2025-11-13,62061,FINAL,East Bridgewater,4126,0,0,Scituate,4343,1,1,South Shore,Patriot,5:30 P.M.,,0
-2025-11-13,62313,FINAL,Brighton,4055,3,1,Rockport,4490,2,0,Boston City,Cape Ann,3:00 P.M.,,0
-2025-11-13,62316,FINAL,Hopedale,4507,2,1,Dearborn STEM,5016,0,0,CMAC,Boston City,6:00 P.M.,,0
-2025-11-13,62319,FINAL,St. John Paul II,4689,0,0,Keefe Tech,4191,2,1,Cape & Islands,CMAC,2:00 P.M.,,0
-2025-11-13,63897,FINAL,Gann Academy,4541,3,1,Lexington Christian,4210,1,0,MBIL,EIL,2:00 P.M.,,0
+2025-11-13,61818,FINAL,Natick,4270,2.0,1.0,BC High,4029,1.0,0.0,Bay State,Catholic Conference,7:00 P.M.,1.0,0
+2025-11-13,61821,FINAL,Newton South,4280,1.0,1.0,Framingham,4143,0.0,0.0,Dual County,Bay State,5:30 P.M.,,0
+2025-11-13,61944,FINAL,Longmeadow,4214,0.0,0.0,West Springfield,4417,1.0,1.0,Smith,Smith,7:00 P.M.,,1
+2025-11-13,61947,FINAL,Dartmouth,4105,3.0,1.0,Sharon,4345,0.0,0.0,Southeast,Hockomock,6:00 P.M.,,0
+2025-11-13,62052,FINAL,Greater New Bedford,4156,3.0,1.0,Chicopee,4088,1.0,0.0,South Coast,Holley,6:00 P.M.,,0
+2025-11-13,62058,FINAL,Dover-Sherborn,4118,3.0,1.0,Pembroke,4308,0.0,0.0,Tri-Valley,Patriot,5:30 P.M.,,0
+2025-11-13,62061,FINAL,East Bridgewater,4126,0.0,0.0,Scituate,4343,1.0,1.0,South Shore,Patriot,5:30 P.M.,,0
+2025-11-13,62313,FINAL,Brighton,4055,3.0,1.0,Rockport,4490,2.0,0.0,Boston City,Cape Ann,3:00 P.M.,,0
+2025-11-13,62316,FINAL,Hopedale,4507,2.0,1.0,Dearborn STEM,5016,0.0,0.0,CMAC,Boston City,6:00 P.M.,,0
+2025-11-13,62319,FINAL,St. John Paul II,4689,0.0,0.0,Keefe Tech,4191,2.0,1.0,Cape & Islands,CMAC,2:00 P.M.,,0
+2025-11-13,63897,FINAL,Gann Academy,4541,3.0,1.0,Lexington Christian,4210,1.0,0.0,MBIL,EIL,2:00 P.M.,,0
 2025-11-14,61815,FINAL,Concord-Carlisle,4097,2,1,Brookline,4059,1,0,Dual County,Bay State,4:00 P.M.,1.0,0
 2025-11-14,61941,FINAL,Northampton,4291,2,1,Agawam,4004,0,0,Churchill,Churchill,5:00 P.M.,,0
 2025-11-15,63883,FINAL,Taft,4386,3,1,Choate,4090,1,0,Independent,Independent,2:30 P.M.,,0
