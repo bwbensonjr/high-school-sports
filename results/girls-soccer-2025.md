@@ -1,6 +1,6 @@
 # Girls Soccer - 2025 Season
 
-Generated: 2025-11-24 11:16
+Generated: 2025-11-25 11:16
 
 ## Upcoming Games
 
@@ -20,12 +20,6 @@ Generated: 2025-11-24 11:16
 | 2025-11-18 | Natick | 5 | Belmont | 0 | +1.8 | +5.0 |
 | 2025-11-18 | Littleton | 3 | Southwick | 1 | +1.4 | +2.0 |
 | 2025-11-18 | Hopedale | 0 | Hull | 1 | -1.2 | -1.0 |
-| 2025-11-17 | Longmeadow | 4 | King Philip | 2 | +1.3 | +2.0 |
-| 2025-11-17 | Duxbury | 2 | Masconomet | 1 | +0.4 | +1.0 |
-| 2025-11-17 | Nipmuc | 1 | Norwell | 0 | +0.3 | +1.0 |
-| 2025-11-17 | Medfield | 5 | Pope Francis | 1 | +3.1 | +4.0 |
-| 2025-11-17 | Sutton | 1 | Cohasset | 0 | +0.7 | +1.0 |
-| 2025-11-17 | Granby | 1 | Monson | 2 | +1.6 | -1.0 |
 
 ## Current Elo Ratings
 
@@ -227,15 +221,15 @@ Generated: 2025-11-24 11:16
 | 194 | Madison Park | 1503.4 |
 | 195 | Concord Academy | 1502.9 |
 | 196 | Canton | 1502.2 |
-| 197 | Poughkeepsie Day (N.Y.) | 1501.7 |
-| 198 | Kingswood-Oxford | 1501.7 |
-| 199 | Kent | 1501.7 |
-| 200 | Bridgton Academy | 1501.7 |
+| 197 | Bridgton Academy | 1501.7 |
+| 198 | South Shore Christian | 1501.7 |
+| 199 | Poughkeepsie Day (N.Y.) | 1501.7 |
+| 200 | Boston Prep | 1501.7 |
 | 201 | Taft | 1501.7 |
-| 202 | Boston Prep | 1501.7 |
-| 203 | South Shore Christian | 1501.7 |
-| 204 | Cumberland (R.I.) | 1501.7 |
-| 205 | Neighborhood House Charter | 1501.7 |
+| 202 | Cumberland (R.I.) | 1501.7 |
+| 203 | Neighborhood House Charter | 1501.7 |
+| 204 | Kent | 1501.7 |
+| 205 | Kingswood-Oxford | 1501.7 |
 | 206 | Billerica | 1499.6 |
 | 207 | Melrose | 1498.6 |
 | 208 | Rivers | 1497.5 |

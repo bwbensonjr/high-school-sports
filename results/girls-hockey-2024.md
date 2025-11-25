@@ -1,6 +1,6 @@
 # Girls Hockey - 2024 Season
 
-Generated: 2025-11-24 11:16
+Generated: 2025-11-25 11:16
 
 ## Upcoming Games
 
@@ -26,8 +26,8 @@ Generated: 2025-11-24 11:16
 | 8 | Brewster Academy | 1492.2 |
 | 9 | St. Paul’s | 1491.5 |
 | 10 | Austin Prep | 1491.1 |
-| 11 | Berwick | 1488.1 |
-| 12 | Deerfield | 1488.1 |
+| 11 | Deerfield | 1488.1 |
+| 12 | Berwick | 1488.1 |
 | 13 | Choate | 1485.9 |
 | 14 | Cushing | 1482.2 |
 | 15 | Tilton | 1481.2 |

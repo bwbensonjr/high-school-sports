@@ -1,6 +1,6 @@
 # Boys Soccer - 2025 Season
 
-Generated: 2025-11-24 11:16
+Generated: 2025-11-25 11:16
 
 ## Upcoming Games
 
@@ -11,23 +11,16 @@ Generated: 2025-11-24 11:16
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2025-11-22 | Boston International | 2 | Hopedale | 0 | +3.7 | +2.0 |
-| 2025-11-22 | Norwell | 1 | Greater New Bedford | 0 | +3.5 | +1.0 |
-| 2025-11-22 | Duxbury | 0 | West Springfield | 3 | +2.2 | -3.0 |
 | 2025-11-22 | St. John’s Prep | 2 | Natick | 3 | +1.9 | -1.0 |
+| 2025-11-22 | Duxbury | 0 | West Springfield | 3 | +2.2 | -3.0 |
+| 2025-11-22 | Norwell | 1 | Greater New Bedford | 0 | +3.5 | +1.0 |
+| 2025-11-22 | Boston International | 2 | Hopedale | 0 | +3.7 | +2.0 |
 | 2025-11-21 | Bromfield | 1 | Rockland | 0 | +1.4 | +1.0 |
-| 2025-11-19 | Groton-Dunstable | 2 | Shepherd Hill | 2 | +2.2 | 0.0 |
 | 2025-11-19 | Worcester South | 0 | Sutton | 2 | -0.7 | -2.0 |
-| 2025-11-18 | Boston International | 3 | Brighton | 2 | +3.6 | +1.0 |
-| 2025-11-18 | Northampton | 0 | West Springfield | 1 | +2.0 | -1.0 |
+| 2025-11-19 | Groton-Dunstable | 2 | Shepherd Hill | 2 | +2.2 | 0.0 |
 | 2025-11-18 | Natick | 2 | Newton South | 0 | +0.7 | +2.0 |
-| 2025-11-17 | Duxbury | 3 | Dartmouth | 0 | +0.6 | +3.0 |
-| 2025-11-17 | Hopedale | 3 | Keefe Tech | 2 | -0.9 | +1.0 |
-| 2025-11-17 | Rockland | 3 | Northbridge | 2 | +1.1 | +1.0 |
-| 2025-11-17 | Bromfield | 3 | Westport | 0 | -0.1 | +3.0 |
-| 2025-11-17 | Greater New Bedford | 3 | Scituate | 1 | +1.1 | +2.0 |
-| 2025-11-17 | Norwell | 2 | Dover-Sherborn | 1 | +2.1 | +1.0 |
-| 2025-11-17 | St. John’s Prep | 4 | Concord-Carlisle | 2 | +2.4 | +2.0 |
+| 2025-11-18 | Northampton | 0 | West Springfield | 1 | +2.0 | -1.0 |
+| 2025-11-18 | Boston International | 3 | Brighton | 2 | +3.6 | +1.0 |
 
 ## Current Elo Ratings
 
@@ -235,13 +228,13 @@ Generated: 2025-11-24 11:16
 | 200 | Worcester Academy | 1502.9 |
 | 201 | Wheeler (R.I.) | 1501.7 |
 | 202 | Worcester South | 1501.7 |
-| 203 | Argosy Collegiate | 1501.7 |
-| 204 | South Shore Christian | 1501.7 |
-| 205 | St. Mark’s | 1501.7 |
-| 206 | Community Charter | 1501.7 |
+| 203 | South Shore Christian | 1501.7 |
+| 204 | St. Mark’s | 1501.7 |
+| 205 | Xavier (Conn.) | 1501.7 |
+| 206 | Argosy Collegiate | 1501.7 |
 | 207 | Newton Country Day | 1501.7 |
-| 208 | La Salle (R.I.) | 1501.7 |
-| 209 | Xavier (Conn.) | 1501.7 |
+| 208 | Community Charter | 1501.7 |
+| 209 | La Salle (R.I.) | 1501.7 |
 | 210 | Lincoln-Sudbury | 1501.6 |
 | 211 | Phillips Exeter | 1501.3 |
 | 212 | Sturgis West | 1501.1 |

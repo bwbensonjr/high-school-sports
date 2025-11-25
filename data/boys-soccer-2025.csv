@@ -1633,8 +1633,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-13,62316,FINAL,Hopedale,4507,2.0,1.0,Dearborn STEM,5016,0.0,0.0,CMAC,Boston City,6:00 P.M.,,0
 2025-11-13,62319,FINAL,St. John Paul II,4689,0.0,0.0,Keefe Tech,4191,2.0,1.0,Cape & Islands,CMAC,2:00 P.M.,,0
 2025-11-13,63897,FINAL,Gann Academy,4541,3.0,1.0,Lexington Christian,4210,1.0,0.0,MBIL,EIL,2:00 P.M.,,0
-2025-11-14,61815,FINAL,Concord-Carlisle,4097,2,1,Brookline,4059,1,0,Dual County,Bay State,4:00 P.M.,1.0,0
-2025-11-14,61941,FINAL,Northampton,4291,2,1,Agawam,4004,0,0,Churchill,Churchill,5:00 P.M.,,0
+2025-11-14,61815,FINAL,Concord-Carlisle,4097,2.0,1.0,Brookline,4059,1.0,0.0,Dual County,Bay State,4:00 P.M.,1.0,0
+2025-11-14,61941,FINAL,Northampton,4291,2.0,1.0,Agawam,4004,0.0,0.0,Churchill,Churchill,5:00 P.M.,,0
 2025-11-15,63883,FINAL,Taft,4386,3,1,Choate,4090,1,0,Independent,Independent,2:30 P.M.,,0
 2025-11-15,63885,FINAL,Northfield Mt. Hermon,4294,0,0,Nobles,4282,4,1,Independent,ISL,,,0
 2025-11-15,63888,FINAL,Mount St. Charles (R.I.),4488,2,1,Suffield Academy,4382,1,0,Independent,Independent,2:00 P.M.,,0
