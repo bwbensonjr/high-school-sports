@@ -1038,16 +1038,16 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-13,60760,FINAL,Hingham,4171,4.0,1.0,Canton,4071,1.0,0.0,Patriot,Hockomock,7:00 P.M.,,0
 2025-11-13,60961,FINAL,Dennis-Yarmouth,4111,4.0,1.0,Cohasset,4094,3.0,0.0,Cape & Islands,South Shore,5:00 P.M.,1.0,0
 2025-11-13,60964,FINAL,Monomoy,4706,1.0,0.0,Frontier,4146,3.0,1.0,Cape & Islands,Suburban,5:00 P.M.,,0
-2025-11-15,60658,FINAL,Walpole,4404,1,1,Franklin,4144,0,0,Bay State,Hockomock,9:30 A.M.,,0
-2025-11-15,60754,FINAL,Hingham,4171,0,0,Somerset Berkley,4350,3,1,Patriot,South Coast,2:30 P.M.,,0
-2025-11-15,60856,FINAL,Uxbridge,4398,3,1,Sandwich,4340,0,0,CMAC,Cape & Islands,5:00 P.M.,,0
-2025-11-15,60958,FINAL,Dennis-Yarmouth,4111,2,1,Frontier,4146,1,0,Cape & Islands,Suburban,12:00 P.M.,,0
-2025-11-15,63914,FINAL,Greenwich Academy (Conn.),4159,2,1,Sacred Heart (Conn.),4586,1,0,Independent,Independent,1:00 P.M.,,0
-2025-11-15,63916,FINAL,Phillips Andover,4310,4,1,Nobles,4282,1,0,Independent,ISL,1:00 P.M.,,0
-2025-11-15,63917,FINAL,Rivers,4330,1,0,Cushing,4101,2,1,ISL,Independent,2:00 P.M.,,0
-2025-11-15,63918,FINAL,Williston Northampton,4431,2,0,Middlesex,4248,3,1,Independent,ISL,1:00 P.M.,,0
-2025-11-15,63919,FINAL,New Hampton,4275,3,1,Portsmouth Abbey,4320,0,0,Independent,EIL,2:00 P.M.,,0
-2025-11-15,63920,FINAL,King (Conn.),4199,2,1,Frederick Gunn (Conn.),4161,1,0,Independent,Independent,1:00 P.M.,,0
+2025-11-15,60658,FINAL,Walpole,4404,1.0,1.0,Franklin,4144,0.0,0.0,Bay State,Hockomock,9:30 A.M.,,0
+2025-11-15,60754,FINAL,Hingham,4171,0.0,0.0,Somerset Berkley,4350,3.0,1.0,Patriot,South Coast,2:30 P.M.,,0
+2025-11-15,60856,FINAL,Uxbridge,4398,3.0,1.0,Sandwich,4340,0.0,0.0,CMAC,Cape & Islands,5:00 P.M.,,0
+2025-11-15,60958,FINAL,Dennis-Yarmouth,4111,2.0,1.0,Frontier,4146,1.0,0.0,Cape & Islands,Suburban,12:00 P.M.,,0
+2025-11-15,63914,FINAL,Greenwich Academy (Conn.),4159,2.0,1.0,Sacred Heart (Conn.),4586,1.0,0.0,Independent,Independent,1:00 P.M.,,0
+2025-11-15,63916,FINAL,Phillips Andover,4310,4.0,1.0,Nobles,4282,1.0,0.0,Independent,ISL,1:00 P.M.,,0
+2025-11-15,63917,FINAL,Rivers,4330,1.0,0.0,Cushing,4101,2.0,1.0,ISL,Independent,2:00 P.M.,,0
+2025-11-15,63918,FINAL,Williston Northampton,4431,2.0,0.0,Middlesex,4248,3.0,1.0,Independent,ISL,1:00 P.M.,,0
+2025-11-15,63919,FINAL,New Hampton,4275,3.0,1.0,Portsmouth Abbey,4320,0.0,0.0,Independent,EIL,2:00 P.M.,,0
+2025-11-15,63920,FINAL,King (Conn.),4199,2.0,1.0,Frederick Gunn (Conn.),4161,1.0,0.0,Independent,Independent,1:00 P.M.,,0
 2025-11-16,63937,FINAL,Greenwich Academy (Conn.),4159,0,0,Phillips Andover,4310,3,1,Independent,Independent,12:30 P.M.,,0
 2025-11-16,63938,FINAL,Middlesex,4248,2,1,Cushing,4101,1,0,ISL,Independent,2:00 P.M.,,0
 2025-11-16,63939,FINAL,New Hampton,4275,2,1,King (Conn.),4199,1,0,Independent,Independent,11:00 A.M.,,0

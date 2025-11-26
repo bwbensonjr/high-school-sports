@@ -1391,19 +1391,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-12,63700,FINAL,Bancroft,4023,3.0,1.0,Newman School,4277,0.0,0.0,EIL,IGC,4:00 P.M.,,0
 2025-11-12,63701,FINAL,Covenant Christian,4629,3.0,1.0,Boston Trinity,4542,1.0,0.0,IGC,Independent,4:30 P.M.,,0
 2025-11-12,63702,FINAL,Hoosac School,4688,3.0,1.0,Marvelwood,4608,0.0,0.0,Independent,Independent,3:30 P.M.,,0
-2025-11-15,61055,FINAL,Newton North,4279,2,0,Franklin,4144,3,1,Bay State,Hockomock,8:00 P.M.,,0
-2025-11-15,61151,FINAL,Oliver Ames,4302,3,1,Wayland,4411,2,0,Hockomock,Dual County,10:00 A.M.,,0
-2025-11-15,61271,FINAL,Bellingham,4033,3,1,Joseph Case,4078,1,0,Tri-Valley,South Coast,3:00 P.M.,,0
-2025-11-15,61391,FINAL,Bourne,4050,1,0,East Bridgewater,4126,3,1,South Coast,South Shore,12:30 P.M.,,0
-2025-11-15,61499,FINAL,Hopedale,4507,3,1,Smith Voc.,4539,0,0,CMAC,Metro,5:30 P.M.,,0
-2025-11-15,63923,FINAL,King (Conn.),4199,3,1,Loomis Chaffee (Conn.),4215,0,0,Independent,Independent,3:00 P.M.,,0
-2025-11-15,63924,FINAL,BB&N,4028,3,1,Choate,4090,0,0,ISL,Independent,2:00 P.M.,,0
-2025-11-15,63927,FINAL,Groton,4544,3,1,Kingswood-Oxford,4198,1,0,ISL,Independent,2:30 P.M.,,0
-2025-11-15,63929,FINAL,Greens Farms,4158,1,0,Greenwich CD (Conn.),5041,3,1,Independent,Independent,2:00 P.M.,,0
-2025-11-15,63930,FINAL,Wilbraham & Monson,4545,0,0,Hamden Hall Country Day,4162,3,1,Independent,Independent,2:30 P.M.,,0
-2025-11-15,63932,FINAL,Harvey (N.Y.),4166,3,1,Cambridge,4067,1,0,Independent,Dual County,1:30 P.M.,,0
-2025-11-15,63934,FINAL,Christian Heritage,4641,3,1,Bancroft,4023,0,0,Independent,EIL,1:00 P.M.,,0
-2025-11-15,63936,FINAL,Hoosac School,4688,2,0,Covenant Christian,4629,3,1,Independent,IGC,1:00 P.M.,,0
+2025-11-15,61055,FINAL,Newton North,4279,2.0,0.0,Franklin,4144,3.0,1.0,Bay State,Hockomock,8:00 P.M.,,0
+2025-11-15,61151,FINAL,Oliver Ames,4302,3.0,1.0,Wayland,4411,2.0,0.0,Hockomock,Dual County,10:00 A.M.,,0
+2025-11-15,61271,FINAL,Bellingham,4033,3.0,1.0,Joseph Case,4078,1.0,0.0,Tri-Valley,South Coast,3:00 P.M.,,0
+2025-11-15,61391,FINAL,Bourne,4050,1.0,0.0,East Bridgewater,4126,3.0,1.0,South Coast,South Shore,12:30 P.M.,,0
+2025-11-15,61499,FINAL,Hopedale,4507,3.0,1.0,Smith Voc.,4539,0.0,0.0,CMAC,Metro,5:30 P.M.,,0
+2025-11-15,63923,FINAL,King (Conn.),4199,3.0,1.0,Loomis Chaffee (Conn.),4215,0.0,0.0,Independent,Independent,3:00 P.M.,,0
+2025-11-15,63924,FINAL,BB&N,4028,3.0,1.0,Choate,4090,0.0,0.0,ISL,Independent,2:00 P.M.,,0
+2025-11-15,63927,FINAL,Groton,4544,3.0,1.0,Kingswood-Oxford,4198,1.0,0.0,ISL,Independent,2:30 P.M.,,0
+2025-11-15,63929,FINAL,Greens Farms,4158,1.0,0.0,Greenwich CD (Conn.),5041,3.0,1.0,Independent,Independent,2:00 P.M.,,0
+2025-11-15,63930,FINAL,Wilbraham & Monson,4545,0.0,0.0,Hamden Hall Country Day,4162,3.0,1.0,Independent,Independent,2:30 P.M.,,0
+2025-11-15,63932,FINAL,Harvey (N.Y.),4166,3.0,1.0,Cambridge,4067,1.0,0.0,Independent,Dual County,1:30 P.M.,,0
+2025-11-15,63934,FINAL,Christian Heritage,4641,3.0,1.0,Bancroft,4023,0.0,0.0,Independent,EIL,1:00 P.M.,,0
+2025-11-15,63936,FINAL,Hoosac School,4688,2.0,0.0,Covenant Christian,4629,3.0,1.0,Independent,IGC,1:00 P.M.,,0
 2025-11-16,63957,FINAL,King (Conn.),4199,3,1,BB&N,4028,0,0,Independent,ISL,1:30 P.M.,,0
 2025-11-16,63960,FINAL,Groton,4544,3,1,Greenwich CD (Conn.),5041,0,0,ISL,Independent,11:00 A.M.,,0
 2025-11-16,63961,FINAL,Harvey (N.Y.),4166,0,0,Hamden Hall Country Day,4162,3,1,Independent,Independent,12:30 P.M.,,0

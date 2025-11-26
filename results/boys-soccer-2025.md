@@ -1,6 +1,6 @@
 # Boys Soccer - 2025 Season
 
-Generated: 2025-11-25 11:16
+Generated: 2025-11-26 11:16
 
 ## Upcoming Games
 
@@ -18,9 +18,6 @@ Generated: 2025-11-25 11:16
 | 2025-11-21 | Bromfield | 1 | Rockland | 0 | +1.4 | +1.0 |
 | 2025-11-19 | Worcester South | 0 | Sutton | 2 | -0.7 | -2.0 |
 | 2025-11-19 | Groton-Dunstable | 2 | Shepherd Hill | 2 | +2.2 | 0.0 |
-| 2025-11-18 | Natick | 2 | Newton South | 0 | +0.7 | +2.0 |
-| 2025-11-18 | Northampton | 0 | West Springfield | 1 | +2.0 | -1.0 |
-| 2025-11-18 | Boston International | 3 | Brighton | 2 | +3.6 | +1.0 |
 
 ## Current Elo Ratings
 
@@ -228,13 +225,13 @@ Generated: 2025-11-25 11:16
 | 200 | Worcester Academy | 1502.9 |
 | 201 | Wheeler (R.I.) | 1501.7 |
 | 202 | Worcester South | 1501.7 |
-| 203 | South Shore Christian | 1501.7 |
-| 204 | St. Mark’s | 1501.7 |
-| 205 | Xavier (Conn.) | 1501.7 |
-| 206 | Argosy Collegiate | 1501.7 |
-| 207 | Newton Country Day | 1501.7 |
-| 208 | Community Charter | 1501.7 |
-| 209 | La Salle (R.I.) | 1501.7 |
+| 203 | Argosy Collegiate | 1501.7 |
+| 204 | Newton Country Day | 1501.7 |
+| 205 | Community Charter | 1501.7 |
+| 206 | La Salle (R.I.) | 1501.7 |
+| 207 | South Shore Christian | 1501.7 |
+| 208 | Xavier (Conn.) | 1501.7 |
+| 209 | St. Mark’s | 1501.7 |
 | 210 | Lincoln-Sudbury | 1501.6 |
 | 211 | Phillips Exeter | 1501.3 |
 | 212 | Sturgis West | 1501.1 |
