@@ -1006,28 +1006,28 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-22,63363,FINAL,Nashoba Valley Tech,4268,12,0,Randolph,4327,20,1,Commonwealth,South Shore,12:00 P.M.,,0
 2025-11-22,65035,FINAL,Cumberland (R.I.),4714,6,0,Central High (R.I.),5075,21,1,Independent,Independent,,,0
 2025-11-25,44673,UPCOMING,Wakefield,4402,,,Melrose,4244,,,Middlesex,Middlesex,4:00 P.M.,,0
-2025-11-26,43920,UPCOMING,Brookline,4059,,,Newton North,4279,,,Bay State,Bay State,1:30 P.M.,,0
-2025-11-26,43993,UPCOMING,Brighton,4055,,,TechBoston,4117,,,Boston City,Boston City,1:00 P.M.,,0
-2025-11-26,44114,UPCOMING,Cardinal Spellman,4075,,,Archbishop Williams,4012,,,Catholic Central,Catholic Central,6:00 P.M.,,0
-2025-11-26,44128,UPCOMING,Bishop Stang,4045,,,Bishop Feehan,4042,,,Catholic Central,Catholic Central,5:00 P.M.,,0
-2025-11-26,44182,UPCOMING,St. John’s (Shrewsbury),4368,,,Malden Catholic,4228,,,Catholic Conference,Catholic Conference,6:00 P.M.,,0
-2025-11-26,44227,UPCOMING,Whittier,4428,,,Greater Lawrence,4154,,,Commonwealth,Commonwealth,6:00 P.M.,,0
-2025-11-26,44248,UPCOMING,Greater Lowell,4155,,,Lowell Catholic,4217,,,Commonwealth,Commonwealth,6:00 P.M.,,0
-2025-11-26,44266,UPCOMING,KIPP,4703,,,Lynn Tech,4222,,,Commonwealth,Commonwealth,4:00 P.M.,,0
-2025-11-26,44286,UPCOMING,Somerset Berkley,4350,,,Central High (R.I.),5075,,,South Coast,Independent,5:00 P.M.,,0
-2025-11-26,44358,UPCOMING,Minuteman,4255,,,Keefe Tech,4191,,,Commonwealth,CMAC,5:00 P.M.,,0
-2025-11-26,44477,UPCOMING,Concord-Carlisle,4097,,,Lexington,4209,,,Dual County,Middlesex,6:30 P.M.,,0
-2025-11-26,44479,UPCOMING,Bristol-Plymouth,4057,,,Blue Hills,4047,,,Mayflower,Mayflower,5:00 P.M.,,0
-2025-11-26,44497,UPCOMING,South Shore Voc-Tech,4356,,,Southeastern,4358,,,Mayflower,Mayflower,5:00 P.M.,,0
-2025-11-26,44507,UPCOMING,Old Colony,4300,,,Tri-County,4392,,,Mayflower,Mayflower,6:00 P.M.,,0
-2025-11-26,44864,UPCOMING,Plymouth North,4315,,,Plymouth South,4316,,,Patriot,Patriot,4:00 P.M.,,0
-2025-11-26,44901,UPCOMING,Milford,4249,,,Taunton,4388,,,Hockomock,Hockomock,6:00 P.M.,,0
-2025-11-26,45085,UPCOMING,Worcester Tech,4445,,,Abby Kelley Foster,4503,,,CMAC,CMAC,12:00 P.M.,,0
-2025-11-26,45127,UPCOMING,Quabbin,4325,,,Gardner,4147,,,Mid-Wach,Mid-Wach,6:00 P.M.,,0
-2025-11-26,45193,UPCOMING,Worcester South,4444,,,Worcester North,4443,,,CMAC,CMAC,12:00 P.M.,,0
-2025-11-26,45243,UPCOMING,Quaboag,4510,,,Ware,4406,,,CMAC,Intercounty,6:00 P.M.,,0
-2025-11-26,45244,UPCOMING,St. Bernard’s,4365,,,St. Paul,4954,,,CMAC,CMAC,6:00 P.M.,,0
-2025-11-26,53120,UPCOMING,Nashoba Valley Tech,4268,,,Monty Tech,4259,,,Commonwealth,CMAC,6:00 P.M.,,0
+2025-11-26,43920,FINAL,Brookline,4059,13,0,Newton North,4279,14,1,Bay State,Bay State,1:30 P.M.,,0
+2025-11-26,43993,FINAL,Brighton,4055,0,0,TechBoston,4117,8,1,Boston City,Boston City,1:00 P.M.,,0
+2025-11-26,44114,FINAL,Cardinal Spellman,4075,0,0,Archbishop Williams,4012,52,1,Catholic Central,Catholic Central,6:00 P.M.,,0
+2025-11-26,44128,FINAL,Bishop Stang,4045,13,0,Bishop Feehan,4042,34,1,Catholic Central,Catholic Central,5:00 P.M.,,0
+2025-11-26,44182,FINAL,St. John’s (Shrewsbury),4368,31,1,Malden Catholic,4228,14,0,Catholic Conference,Catholic Conference,6:00 P.M.,,0
+2025-11-26,44227,FINAL,Whittier,4428,40,0,Greater Lawrence,4154,45,1,Commonwealth,Commonwealth,6:00 P.M.,,0
+2025-11-26,44248,FINAL,Greater Lowell,4155,30,1,Lowell Catholic,4217,0,0,Commonwealth,Commonwealth,6:00 P.M.,,0
+2025-11-26,44266,FINAL,KIPP,4703,34,1,Lynn Tech,4222,12,0,Commonwealth,Commonwealth,4:00 P.M.,,0
+2025-11-26,44286,FINAL,Somerset Berkley,4350,14,0,Central High (R.I.),5075,28,1,South Coast,Independent,5:00 P.M.,,0
+2025-11-26,44358,FINAL,Minuteman,4255,12,1,Keefe Tech,4191,6,0,Commonwealth,CMAC,5:00 P.M.,,0
+2025-11-26,44477,FINAL,Concord-Carlisle,4097,32,1,Lexington,4209,0,0,Dual County,Middlesex,6:30 P.M.,,0
+2025-11-26,44479,FINAL,Bristol-Plymouth,4057,16,0,Blue Hills,4047,30,1,Mayflower,Mayflower,5:00 P.M.,,0
+2025-11-26,44497,FINAL,South Shore Voc-Tech,4356,22,1,Southeastern,4358,6,0,Mayflower,Mayflower,5:00 P.M.,,0
+2025-11-26,44507,FINAL,Old Colony,4300,14,0,Tri-County,4392,51,1,Mayflower,Mayflower,6:00 P.M.,,0
+2025-11-26,44864,FINAL,Plymouth North,4315,21,0,Plymouth South,4316,27,1,Patriot,Patriot,4:00 P.M.,1.0,0
+2025-11-26,44901,FINAL,Milford,4249,53,1,Taunton,4388,29,0,Hockomock,Hockomock,6:00 P.M.,,0
+2025-11-26,45085,FINAL,Worcester Tech,4445,26,1,Abby Kelley Foster,4503,6,0,CMAC,CMAC,12:00 P.M.,,0
+2025-11-26,45127,FINAL,Quabbin,4325,35,1,Gardner,4147,14,0,Mid-Wach,Mid-Wach,6:00 P.M.,,0
+2025-11-26,45193,FINAL,Worcester South,4444,14,0,Worcester North,4443,17,1,CMAC,CMAC,12:00 P.M.,,0
+2025-11-26,45243,FINAL,Quaboag,4510,7,0,Ware,4406,34,1,CMAC,Intercounty,6:00 P.M.,,0
+2025-11-26,45244,FINAL,St. Bernard’s,4365,42,1,St. Paul,4954,7,0,CMAC,CMAC,6:00 P.M.,,0
+2025-11-26,53120,FINAL,Nashoba Valley Tech,4268,37,1,Monty Tech,4259,8,0,Commonwealth,CMAC,6:00 P.M.,,0
 2025-11-27,43927,UPCOMING,Framingham,4143,,,Natick,4270,,,Bay State,Bay State,10:00 A.M.,,0
 2025-11-27,43945,UPCOMING,Wellesley,4413,,,Needham,4272,,,Bay State,Bay State,10:00 A.M.,,0
 2025-11-27,43952,UPCOMING,Braintree,4051,,,Milton,4252,,,Bay State,Bay State,10:00 A.M.,,0
