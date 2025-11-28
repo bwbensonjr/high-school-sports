@@ -1646,13 +1646,13 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-16,63941,FINAL,Mount St. Charles (R.I.),4488,3.0,1.0,Williston Northampton,4431,2.0,0.0,Independent,Independent,12:30 P.M.,,0
 2025-11-16,63944,FINAL,Wheeler (R.I.),4426,0.0,0.0,Millbrook (N.Y.),4616,5.0,1.0,EIL,Independent,10:00 A.M.,,0
 2025-11-16,63947,FINAL,Gann Academy,4541,1.0,0.0,Hyde,4186,4.0,1.0,MBIL,Independent,10:30 A.M.,,0
-2025-11-17,61812,FINAL,St. John’s Prep,4369,4,1,Concord-Carlisle,4097,2,0,Catholic Conference,Dual County,4:45 P.M.,,0
-2025-11-17,61935,FINAL,Duxbury,4123,3,1,Dartmouth,4105,0,0,Patriot,Southeast,6:45 P.M.,,0
-2025-11-17,62046,FINAL,Norwell,4296,2,1,Dover-Sherborn,4118,1,0,South Shore,Tri-Valley,7:00 P.M.,,0
-2025-11-17,62049,FINAL,Greater New Bedford,4156,3,1,Scituate,4343,1,0,South Coast,Patriot,6:30 P.M.,,0
-2025-11-17,62163,FINAL,Bromfield,4505,3,1,Westport,4461,0,0,Mid-Wach,Mayflower,7:00 P.M.,,0
-2025-11-17,62166,FINAL,Rockland,4331,3,1,Northbridge,4292,2,0,South Shore,CMAC,4:45 P.M.,2.0,1
-2025-11-17,62307,FINAL,Hopedale,4507,3,1,Keefe Tech,4191,2,0,CMAC,CMAC,6:00 P.M.,,0
+2025-11-17,61812,FINAL,St. John’s Prep,4369,4.0,1.0,Concord-Carlisle,4097,2.0,0.0,Catholic Conference,Dual County,4:45 P.M.,,0
+2025-11-17,61935,FINAL,Duxbury,4123,3.0,1.0,Dartmouth,4105,0.0,0.0,Patriot,Southeast,6:45 P.M.,,0
+2025-11-17,62046,FINAL,Norwell,4296,2.0,1.0,Dover-Sherborn,4118,1.0,0.0,South Shore,Tri-Valley,7:00 P.M.,,0
+2025-11-17,62049,FINAL,Greater New Bedford,4156,3.0,1.0,Scituate,4343,1.0,0.0,South Coast,Patriot,6:30 P.M.,,0
+2025-11-17,62163,FINAL,Bromfield,4505,3.0,1.0,Westport,4461,0.0,0.0,Mid-Wach,Mayflower,7:00 P.M.,,0
+2025-11-17,62166,FINAL,Rockland,4331,3.0,1.0,Northbridge,4292,2.0,0.0,South Shore,CMAC,4:45 P.M.,2.0,1
+2025-11-17,62307,FINAL,Hopedale,4507,3.0,1.0,Keefe Tech,4191,2.0,0.0,CMAC,CMAC,6:00 P.M.,,0
 2025-11-18,61809,FINAL,Natick,4270,2,1,Newton South,4280,0,0,Bay State,Dual County,7:00 P.M.,,0
 2025-11-18,61932,FINAL,Northampton,4291,0,0,West Springfield,4417,1,1,Churchill,Smith,6:00 P.M.,,0
 2025-11-18,62310,FINAL,Boston International,4547,3,1,Brighton,4055,2,0,Boston City,Boston City,5:00 P.M.,,0
