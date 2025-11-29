@@ -1,6 +1,6 @@
 # Boys Soccer - 2025 Season
 
-Generated: 2025-11-28 11:16
+Generated: 2025-11-29 11:14
 
 ## Upcoming Games
 
@@ -15,7 +15,6 @@ Generated: 2025-11-28 11:16
 | 2025-11-22 | Duxbury | 0 | West Springfield | 3 | +2.2 | -3.0 |
 | 2025-11-22 | Norwell | 1 | Greater New Bedford | 0 | +3.5 | +1.0 |
 | 2025-11-22 | Boston International | 2 | Hopedale | 0 | +3.7 | +2.0 |
-| 2025-11-21 | Bromfield | 1 | Rockland | 0 | +1.4 | +1.0 |
 
 ## Current Elo Ratings
 
@@ -223,13 +222,13 @@ Generated: 2025-11-28 11:16
 | 200 | Worcester Academy | 1502.9 |
 | 201 | Wheeler (R.I.) | 1501.7 |
 | 202 | Worcester South | 1501.7 |
-| 203 | Xavier (Conn.) | 1501.7 |
-| 204 | Newton Country Day | 1501.7 |
-| 205 | Community Charter | 1501.7 |
-| 206 | St. Mark’s | 1501.7 |
-| 207 | La Salle (R.I.) | 1501.7 |
-| 208 | Argosy Collegiate | 1501.7 |
-| 209 | South Shore Christian | 1501.7 |
+| 203 | Community Charter | 1501.7 |
+| 204 | St. Mark’s | 1501.7 |
+| 205 | Xavier (Conn.) | 1501.7 |
+| 206 | South Shore Christian | 1501.7 |
+| 207 | Newton Country Day | 1501.7 |
+| 208 | La Salle (R.I.) | 1501.7 |
+| 209 | Argosy Collegiate | 1501.7 |
 | 210 | Lincoln-Sudbury | 1501.6 |
 | 211 | Phillips Exeter | 1501.3 |
 | 212 | Sturgis West | 1501.1 |

@@ -1653,9 +1653,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-17,62163,FINAL,Bromfield,4505,3.0,1.0,Westport,4461,0.0,0.0,Mid-Wach,Mayflower,7:00 P.M.,,0
 2025-11-17,62166,FINAL,Rockland,4331,3.0,1.0,Northbridge,4292,2.0,0.0,South Shore,CMAC,4:45 P.M.,2.0,1
 2025-11-17,62307,FINAL,Hopedale,4507,3.0,1.0,Keefe Tech,4191,2.0,0.0,CMAC,CMAC,6:00 P.M.,,0
-2025-11-18,61809,FINAL,Natick,4270,2,1,Newton South,4280,0,0,Bay State,Dual County,7:00 P.M.,,0
-2025-11-18,61932,FINAL,Northampton,4291,0,0,West Springfield,4417,1,1,Churchill,Smith,6:00 P.M.,,0
-2025-11-18,62310,FINAL,Boston International,4547,3,1,Brighton,4055,2,0,Boston City,Boston City,5:00 P.M.,,0
+2025-11-18,61809,FINAL,Natick,4270,2.0,1.0,Newton South,4280,0.0,0.0,Bay State,Dual County,7:00 P.M.,,0
+2025-11-18,61932,FINAL,Northampton,4291,0.0,0.0,West Springfield,4417,1.0,1.0,Churchill,Smith,6:00 P.M.,,0
+2025-11-18,62310,FINAL,Boston International,4547,3.0,1.0,Brighton,4055,2.0,0.0,Boston City,Boston City,5:00 P.M.,,0
 2025-11-19,64216,FINAL,Worcester South,4444,0,0,Sutton,4512,2,1,CMAC,CMAC,,,0
 2025-11-19,64251,FINAL,Groton-Dunstable,4160,2,2,Shepherd Hill,4347,2,2,Mid-Wach,Mid-Wach,,,0
 2025-11-21,62160,FINAL,Bromfield,4505,1,1,Rockland,4331,0,0,Mid-Wach,South Shore,4:45 P.M.,,0

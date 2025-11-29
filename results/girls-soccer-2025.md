@@ -1,6 +1,6 @@
 # Girls Soccer - 2025 Season
 
-Generated: 2025-11-28 11:16
+Generated: 2025-11-29 11:14
 
 ## Upcoming Games
 
@@ -15,7 +15,6 @@ Generated: 2025-11-28 11:16
 | 2025-11-22 | Duxbury | 3 | Longmeadow | 1 | +2.8 | +2.0 |
 | 2025-11-22 | Medfield | 1 | Nipmuc | 0 | +1.2 | +1.0 |
 | 2025-11-22 | Hull | 3 | Monson | 1 | +4.1 | +2.0 |
-| 2025-11-21 | Sutton | 1 | Littleton | 0 | +2.7 | +1.0 |
 
 ## Current Elo Ratings
 
@@ -217,15 +216,15 @@ Generated: 2025-11-28 11:16
 | 194 | Madison Park | 1503.4 |
 | 195 | Concord Academy | 1502.9 |
 | 196 | Canton | 1502.2 |
-| 197 | South Shore Christian | 1501.7 |
-| 198 | Cumberland (R.I.) | 1501.7 |
+| 197 | Bridgton Academy | 1501.7 |
+| 198 | South Shore Christian | 1501.7 |
 | 199 | Poughkeepsie Day (N.Y.) | 1501.7 |
-| 200 | Bridgton Academy | 1501.7 |
+| 200 | Neighborhood House Charter | 1501.7 |
 | 201 | Boston Prep | 1501.7 |
-| 202 | Kent | 1501.7 |
-| 203 | Kingswood-Oxford | 1501.7 |
-| 204 | Neighborhood House Charter | 1501.7 |
-| 205 | Taft | 1501.7 |
+| 202 | Taft | 1501.7 |
+| 203 | Cumberland (R.I.) | 1501.7 |
+| 204 | Kent | 1501.7 |
+| 205 | Kingswood-Oxford | 1501.7 |
 | 206 | Billerica | 1499.6 |
 | 207 | Melrose | 1498.6 |
 | 208 | Rivers | 1497.5 |
