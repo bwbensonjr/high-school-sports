@@ -1,6 +1,6 @@
 # Football - 2025 Season
 
-Generated: 2025-11-29 11:14
+Generated: 2025-11-30 11:14
 
 ## Upcoming Games
 
@@ -22,8 +22,10 @@ Generated: 2025-11-29 11:14
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2025-11-27 | Ashland | 48 | Hopkinton | 0 | +49.6 | +48.0 |
-| 2025-11-27 | Norwood | 42 | Dedham | 0 | +8.0 | +42.0 |
+| 2025-11-27 | Dover-Sherborn | 8 | Medfield | 48 | -18.4 | -40.0 |
+| 2025-11-27 | Lynn Classical | 6 | Lynn English | 36 | -35.3 | -30.0 |
+| 2025-11-27 | Westborough | 13 | Algonquin | 34 | +14.0 | -21.0 |
+| 2025-11-27 | Oliver Ames | 36 | Sharon | 22 | +28.3 | +14.0 |
 | 2025-11-27 | Duxbury | 6 | Marshfield | 16 | +17.1 | -10.0 |
 | 2025-11-27 | Mansfield | 13 | Foxborough | 10 | -11.7 | +3.0 |
 | 2025-11-27 | Hingham | 50 | Scituate | 0 | -26.3 | +50.0 |
@@ -34,8 +36,8 @@ Generated: 2025-11-29 11:14
 | 2025-11-27 | Medford | 8 | Malden | 20 | +25.8 | -12.0 |
 | 2025-11-27 | Revere | 12 | Winthrop | 29 | -11.0 | -17.0 |
 | 2025-11-27 | Peabody | 28 | Saugus | 26 | +7.7 | +2.0 |
-| 2025-11-27 | Lynn Classical | 6 | Lynn English | 36 | -35.3 | -30.0 |
 | 2025-11-27 | Marblehead | 29 | Swampscott | 22 | +8.5 | +7.0 |
+| 2025-11-27 | Tantasqua | 39 | Shepherd Hill | 36 | +16.2 | +3.0 |
 | 2025-11-27 | Danvers | 7 | Gloucester | 27 | +3.2 | -20.0 |
 | 2025-11-27 | Beverly | 34 | Salem | 8 | +15.0 | +26.0 |
 | 2025-11-27 | Woburn | 14 | Winchester | 28 | -11.3 | -14.0 |
@@ -48,15 +50,10 @@ Generated: 2025-11-29 11:14
 | 2025-11-27 | Billerica | 12 | Chelmsford | 19 | +9.7 | -7.0 |
 | 2025-11-27 | Lowell | 49 | Haverhill | 0 | +36.7 | +49.0 |
 | 2025-11-27 | Medway | 48 | Millis | 6 | +20.0 | +42.0 |
-| 2025-11-27 | Lawrence | 8 | Central Catholic | 56 | -29.0 | -48.0 |
-| 2025-11-27 | Andover | 21 | North Andover | 6 | +12.7 | +15.0 |
-| 2025-11-27 | Dover-Sherborn | 8 | Medfield | 48 | -18.4 | -40.0 |
-| 2025-11-27 | Bellingham | 0 | Norton | 3 | +15.0 | -3.0 |
-| 2025-11-27 | Westwood | 22 | Holliston | 19 | +20.8 | +3.0 |
-| 2025-11-27 | Oliver Ames | 36 | Sharon | 22 | +28.3 | +14.0 |
-| 2025-11-27 | Westborough | 13 | Algonquin | 34 | +14.0 | -21.0 |
 | 2025-11-27 | Fitchburg | 6 | Leominster | 59 | -28.5 | -53.0 |
-| 2025-11-27 | Assabet | 0 | Bay Path | 41 | -31.5 | -41.0 |
+| 2025-11-27 | Athol | 28 | Mahar | 14 | +12.7 | +14.0 |
+| 2025-11-27 | Andover | 21 | North Andover | 6 | +12.7 | +15.0 |
+| 2025-11-27 | West Springfield | 41 | Agawam | 40 | +42.6 | +1.0 |
 | 2025-11-27 | Cambridge | 20 | Somerville | 38 | +10.5 | -18.0 |
 | 2025-11-27 | Shawsheen | 49 | Arlington Catholic | 16 | +64.6 | +33.0 |
 | 2025-11-27 | Whitman-Hanson | 7 | Abington | 43 | -26.7 | -36.0 |
@@ -69,9 +66,9 @@ Generated: 2025-11-29 11:14
 | 2025-11-27 | Leicester | 34 | David Prouty | 0 | +10.9 | +34.0 |
 | 2025-11-27 | Burncoat | 6 | Doherty | 44 | -3.4 | -38.0 |
 | 2025-11-27 | Blackstone Valley | 28 | Nipmuc | 0 | +12.7 | +28.0 |
-| 2025-11-27 | West Springfield | 41 | Agawam | 40 | +42.6 | +1.0 |
+| 2025-11-27 | Assabet | 0 | Bay Path | 41 | -31.5 | -41.0 |
+| 2025-11-27 | Wachusett | 14 | Shrewsbury | 21 | +10.6 | -7.0 |
 | 2025-11-27 | Bartlett | 50 | Southbridge | 6 | +21.8 | +44.0 |
-| 2025-11-27 | Tantasqua | 39 | Shepherd Hill | 36 | +16.2 | +3.0 |
 | 2025-11-27 | Grafton | 29 | Auburn | 31 | -7.4 | -2.0 |
 | 2025-11-27 | Murdock | 6 | Narragansett | 44 | -17.0 | -38.0 |
 | 2025-11-27 | Littleton | 20 | Ayer Shirley | 26 | +2.4 | -6.0 |
@@ -83,43 +80,47 @@ Generated: 2025-11-29 11:14
 | 2025-11-27 | Nashoba | 21 | Clinton | 52 | -22.3 | -31.0 |
 | 2025-11-27 | Hudson | 25 | Marlborough | 6 | +28.8 | +19.0 |
 | 2025-11-27 | Franklin County Tech | 45 | Smith Vocational | 0 | +2.8 | +45.0 |
-| 2025-11-27 | Wachusett | 14 | Shrewsbury | 21 | +10.6 | -7.0 |
-| 2025-11-27 | Athol | 28 | Mahar | 14 | +12.7 | +14.0 |
-| 2025-11-27 | Upper Cape | 6 | Cape Cod Tech | 14 | -12.8 | -8.0 |
+| 2025-11-27 | Lawrence | 8 | Central Catholic | 56 | -29.0 | -48.0 |
 | 2025-11-27 | Hull | 7 | Cohasset | 28 | -25.8 | -21.0 |
-| 2025-11-27 | Framingham | 6 | Natick | 33 | -25.5 | -27.0 |
-| 2025-11-27 | Pentucket/Georgetown | 26 | Triton | 0 | +12.0 | +26.0 |
-| 2025-11-27 | Lincoln-Sudbury | 45 | Newton South | 20 | +35.9 | +25.0 |
-| 2025-11-27 | Wellesley | 20 | Needham | 6 | +7.5 | +14.0 |
-| 2025-11-27 | Braintree | 0 | Milton | 31 | -40.2 | -31.0 |
-| 2025-11-27 | Bridgewater-Raynham | 40 | Brockton | 12 | +23.7 | +28.0 |
-| 2025-11-27 | Durfee | 36 | New Bedford | 0 | +21.0 | +36.0 |
-| 2025-11-27 | East Boston | 6 | Chelsea | 38 | -13.5 | -32.0 |
 | 2025-11-27 | English High | 40 | Boston Latin | 30 | +16.0 | +10.0 |
 | 2025-11-27 | O'Bryant | 0 | Latin Academy | 30 | +0.0 | -30.0 |
-| 2025-11-27 | Nauset | 50 | Dennis-Yarmouth | 24 | -1.1 | +26.0 |
-| 2025-11-27 | Falmouth | 6 | Barnstable | 49 | -11.7 | -43.0 |
-| 2025-11-27 | Amesbury | 29 | Newburyport | 8 | +40.1 | +21.0 |
-| 2025-11-27 | Manchester Essex | 21 | Essex Tech | 28 | +11.5 | -7.0 |
-| 2025-11-27 | Hamilton-Wenham | 42 | Ipswich | 26 | +10.1 | +16.0 |
-| 2025-11-27 | Lynnfield | 0 | North Reading | 49 | -7.8 | -49.0 |
-| 2025-11-27 | Weymouth | 28 | Walpole | 19 | +8.6 | +9.0 |
 | 2025-11-27 | Bishop Fenwick | 6 | St. Mary’s | 38 | +1.4 | -32.0 |
-| 2025-11-27 | Dartmouth | 14 | Fairhaven | 21 | -20.2 | -7.0 |
+| 2025-11-27 | Pentucket/Georgetown | 26 | Triton | 0 | +12.0 | +26.0 |
+| 2025-11-27 | Lynnfield | 0 | North Reading | 49 | -7.8 | -49.0 |
+| 2025-11-27 | Manchester Essex | 21 | Essex Tech | 28 | +11.5 | -7.0 |
+| 2025-11-27 | Amesbury | 29 | Newburyport | 8 | +40.1 | +21.0 |
+| 2025-11-27 | Falmouth | 6 | Barnstable | 49 | -11.7 | -43.0 |
+| 2025-11-27 | Nauset | 50 | Dennis-Yarmouth | 24 | -1.1 | +26.0 |
+| 2025-11-27 | Bellingham | 0 | Norton | 3 | +15.0 | -3.0 |
+| 2025-11-27 | Xaverian | 21 | St. John’s Prep | 18 | +2.1 | +3.0 |
+| 2025-11-27 | East Boston | 6 | Chelsea | 38 | -13.5 | -32.0 |
+| 2025-11-27 | Durfee | 36 | New Bedford | 0 | +21.0 | +36.0 |
+| 2025-11-27 | Bridgewater-Raynham | 40 | Brockton | 12 | +23.7 | +28.0 |
+| 2025-11-27 | Weymouth | 28 | Walpole | 19 | +8.6 | +9.0 |
+| 2025-11-27 | Braintree | 0 | Milton | 31 | -40.2 | -31.0 |
+| 2025-11-27 | Wellesley | 20 | Needham | 6 | +7.5 | +14.0 |
+| 2025-11-27 | Framingham | 6 | Natick | 33 | -25.5 | -27.0 |
 | 2025-11-27 | BC High | 27 | Catholic Memorial | 48 | -25.4 | -21.0 |
+| 2025-11-27 | Hamilton-Wenham | 42 | Ipswich | 26 | +10.1 | +16.0 |
+| 2025-11-27 | Franklin | 19 | King Philip | 49 | -32.1 | -30.0 |
+| 2025-11-27 | Masconomet | 42 | Northeast | 20 | +22.3 | +22.0 |
+| 2025-11-27 | Westwood | 22 | Holliston | 19 | +20.8 | +3.0 |
+| 2025-11-27 | Upper Cape | 6 | Cape Cod Tech | 14 | -12.8 | -8.0 |
+| 2025-11-27 | Norwood | 42 | Dedham | 0 | +8.0 | +42.0 |
+| 2025-11-27 | Apponequet | 8 | Old Rochester | 47 | -4.6 | -39.0 |
+| 2025-11-27 | Lincoln-Sudbury | 45 | Newton South | 20 | +35.9 | +25.0 |
 | 2025-11-27 | Acton-Boxborough | 10 | Westford | 28 | +8.6 | -18.0 |
 | 2025-11-27 | Mashpee | 36 | Sandwich | 22 | +11.3 | +14.0 |
+| 2025-11-27 | Ashland | 48 | Hopkinton | 0 | +49.6 | +48.0 |
 | 2025-11-27 | Norwell | 8 | Hanover | 49 | +24.1 | -41.0 |
-| 2025-11-27 | Carver | 22 | Middleborough | 21 | +9.8 | +1.0 |
 | 2025-11-27 | West Bridgewater | 35 | East Bridgewater | 0 | +12.1 | +35.0 |
-| 2025-11-27 | Masconomet | 42 | Northeast | 20 | +22.3 | +22.0 |
+| 2025-11-27 | Dartmouth | 14 | Fairhaven | 21 | -20.2 | -7.0 |
 | 2025-11-27 | Wareham | 14 | Bourne | 40 | -25.5 | -26.0 |
-| 2025-11-27 | Dighton-Rehoboth/Bristol Aggie | 14 | Seekonk | 18 | -9.9 | -4.0 |
-| 2025-11-27 | Apponequet | 8 | Old Rochester | 47 | -4.6 | -39.0 |
-| 2025-11-27 | Franklin | 19 | King Philip | 49 | -32.1 | -30.0 |
 | 2025-11-27 | Greater New Bedford | 13 | Diman | 15 | -35.3 | -2.0 |
-| 2025-11-27 | Xaverian | 21 | St. John’s Prep | 18 | +2.1 | +3.0 |
+| 2025-11-27 | Dighton-Rehoboth/Bristol Aggie | 14 | Seekonk | 18 | -9.9 | -4.0 |
+| 2025-11-27 | Carver | 22 | Middleborough | 21 | +9.8 | +1.0 |
 | 2025-11-26 | Whittier | 40 | Greater Lawrence | 45 | +25.7 | -5.0 |
+| 2025-11-26 | Minuteman | 12 | Keefe Tech | 6 | +2.7 | +6.0 |
 | 2025-11-26 | Somerset Berkley | 14 | Central High (R.I.) | 28 | -7.7 | -14.0 |
 | 2025-11-26 | KIPP | 34 | Lynn Tech | 12 | +22.8 | +22.0 |
 | 2025-11-26 | Greater Lowell | 30 | Lowell Catholic | 0 | +28.2 | +30.0 |
@@ -127,30 +128,20 @@ Generated: 2025-11-29 11:14
 | 2025-11-26 | St. John’s (Shrewsbury) | 31 | Malden Catholic | 14 | -7.8 | +17.0 |
 | 2025-11-26 | Bishop Stang | 13 | Bishop Feehan | 34 | -16.3 | -21.0 |
 | 2025-11-26 | Brighton | 0 | TechBoston | 8 | -11.0 | -8.0 |
+| 2025-11-26 | Bristol-Plymouth | 16 | Blue Hills | 30 | +1.7 | -14.0 |
 | 2025-11-26 | Concord-Carlisle | 32 | Lexington | 0 | +23.8 | +32.0 |
 | 2025-11-26 | Brookline | 13 | Newton North | 14 | -10.3 | -1.0 |
-| 2025-11-26 | Minuteman | 12 | Keefe Tech | 6 | +2.7 | +6.0 |
-| 2025-11-26 | Worcester Tech | 26 | Abby Kelley Foster | 6 | +2.1 | +20.0 |
-| 2025-11-26 | Bristol-Plymouth | 16 | Blue Hills | 30 | +1.7 | -14.0 |
 | 2025-11-26 | South Shore Voc-Tech | 22 | Southeastern | 6 | +28.5 | +16.0 |
 | 2025-11-26 | Old Colony | 14 | Tri-County | 51 | -25.2 | -37.0 |
 | 2025-11-26 | Plymouth North | 21 | Plymouth South | 27 | -5.1 | -6.0 |
 | 2025-11-26 | Milford | 53 | Taunton | 29 | +8.5 | +24.0 |
+| 2025-11-26 | Worcester Tech | 26 | Abby Kelley Foster | 6 | +2.1 | +20.0 |
 | 2025-11-26 | Quabbin | 35 | Gardner | 14 | +16.9 | +21.0 |
 | 2025-11-26 | Worcester South | 14 | Worcester North | 17 | -14.4 | -3.0 |
 | 2025-11-26 | Quaboag | 7 | Ware | 34 | -25.3 | -27.0 |
 | 2025-11-26 | St. Bernard’s | 42 | St. Paul | 7 | +15.0 | +35.0 |
 | 2025-11-26 | Nashoba Valley Tech | 37 | Monty Tech | 8 | +33.8 | +29.0 |
 | 2025-11-25 | Wakefield | 20 | Melrose | 9 | +15.1 | +11.0 |
-| 2025-11-22 | Cohasset | 35 | Northbridge | 15 | -5.5 | +20.0 |
-| 2025-11-22 | King Philip | 21 | Malden Catholic | 13 | +27.4 | +8.0 |
-| 2025-11-22 | Foxborough | 31 | Archbishop Williams | 0 | +19.6 | +31.0 |
-| 2025-11-22 | Amesbury | 20 | Clinton | 14 | +10.0 | +6.0 |
-| 2025-11-22 | Milton | 29 | North Attleborough | 43 | -1.8 | -14.0 |
-| 2025-11-22 | Norwell | 21 | Hudson | 7 | -0.5 | +14.0 |
-| 2025-11-22 | Nashoba Valley Tech | 12 | Randolph | 20 | +0.4 | -8.0 |
-| 2025-11-22 | Cumberland (R.I.) | 6 | Central High (R.I.) | 21 | +9.1 | -15.0 |
-| 2025-11-22 | Springfield Central | 22 | Xaverian | 36 | -4.8 | -14.0 |
 
 ## Current Elo Ratings
 
