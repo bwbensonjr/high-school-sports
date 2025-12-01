@@ -1,12 +1,12 @@
 # Football - 2025 Season
 
-Generated: 2025-11-30 11:14
+Generated: 2025-12-01 11:16
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2025-12-03 | 5:00 P.M. | Whittier | Diman | 51.3% | +0.9 |
+| 2025-12-03 | 6:00 P.M. | Whittier | Diman | 51.3% | +0.9 |
 | 2025-12-03 | 7:30 P.M. | Tri-County | Blue Hills | 71.9% | +16.4 |
 | 2025-12-03 | 5:00 P.M. | South Shore Voc-Tech | Cape Cod Tech | 44.9% | -3.6 |
 | 2025-12-04 | 5:00 P.M. | Cohasset | Amesbury | 50.3% | +0.2 |
