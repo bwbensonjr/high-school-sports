@@ -1,6 +1,6 @@
 # Field Hockey - 2025 Season
 
-Generated: 2025-12-01 11:16
+Generated: 2025-12-02 11:18
 
 ## Upcoming Games
 
@@ -143,9 +143,9 @@ Generated: 2025-12-01 11:16
 | 125 | Franklin County Tech | 1502.3 |
 | 126 | St. Luke’s | 1501.7 |
 | 127 | Kingswood-Oxford | 1501.7 |
-| 128 | Hopkins (Conn.) | 1501.7 |
+| 128 | Kent | 1501.7 |
 | 129 | Hamden Hall Country Day | 1501.7 |
-| 130 | Kent | 1501.7 |
+| 130 | Hopkins (Conn.) | 1501.7 |
 | 131 | Milton Academy | 1500.8 |
 | 132 | Monty Tech | 1499.6 |
 | 133 | Oliver Ames | 1498.2 |

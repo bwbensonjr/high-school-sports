@@ -1,6 +1,6 @@
 # Football - 2025 Season
 
-Generated: 2025-12-01 11:16
+Generated: 2025-12-02 11:18
 
 ## Upcoming Games
 
@@ -54,7 +54,7 @@ Generated: 2025-12-01 11:16
 | 2025-11-27 | Athol | 28 | Mahar | 14 | +12.7 | +14.0 |
 | 2025-11-27 | Andover | 21 | North Andover | 6 | +12.7 | +15.0 |
 | 2025-11-27 | West Springfield | 41 | Agawam | 40 | +42.6 | +1.0 |
-| 2025-11-27 | Cambridge | 20 | Somerville | 38 | +10.5 | -18.0 |
+| 2025-11-27 | Cambridge | 14 | Somerville | 36 | +10.5 | -22.0 |
 | 2025-11-27 | Shawsheen | 49 | Arlington Catholic | 16 | +64.6 | +33.0 |
 | 2025-11-27 | Whitman-Hanson | 7 | Abington | 43 | -26.7 | -36.0 |
 | 2025-11-27 | Millbury | 40 | Oxford | 22 | +19.8 | +18.0 |
@@ -349,14 +349,14 @@ Generated: 2025-12-01 11:16
 | 200 | Londonderry (N.H.) | 1476.4 |
 | 201 | Albany Academy | 1476.0 |
 | 202 | Loomis Chaffee (Conn.) | 1475.4 |
-| 203 | Triton | 1472.5 |
-| 204 | Monomoy | 1472.2 |
-| 205 | Bedford (Mich.) | 1471.6 |
-| 206 | Bishop Brady (N.H.) | 1471.0 |
-| 207 | Merrimack (N.H.) | 1470.5 |
-| 208 | Millbrook (N.Y.) | 1470.5 |
-| 209 | Johnston (R.I.) | 1470.5 |
-| 210 | Somerville | 1469.7 |
+| 203 | Somerville | 1473.4 |
+| 204 | Triton | 1472.5 |
+| 205 | Monomoy | 1472.2 |
+| 206 | Bedford (Mich.) | 1471.6 |
+| 207 | Bishop Brady (N.H.) | 1471.0 |
+| 208 | Merrimack (N.H.) | 1470.5 |
+| 209 | Millbrook (N.Y.) | 1470.5 |
+| 210 | Johnston (R.I.) | 1470.5 |
 | 211 | Holliston | 1469.6 |
 | 212 | Algonquin | 1469.2 |
 | 213 | Plymouth North | 1468.9 |
@@ -413,10 +413,10 @@ Generated: 2025-12-01 11:16
 | 264 | Thayer | 1416.6 |
 | 265 | Dennis-Yarmouth | 1416.5 |
 | 266 | Hull | 1411.5 |
-| 267 | Cambridge | 1410.2 |
-| 268 | Trinity-Pawling | 1410.2 |
-| 269 | Hotchkiss | 1410.1 |
-| 270 | Worcester South | 1407.7 |
+| 267 | Trinity-Pawling | 1410.2 |
+| 268 | Hotchkiss | 1410.1 |
+| 269 | Worcester South | 1407.7 |
+| 270 | Cambridge | 1406.5 |
 | 271 | Capital Prep Harbor (Conn.) | 1406.4 |
 | 272 | Nashoba | 1405.7 |
 | 273 | David Prouty | 1405.6 |

@@ -1,6 +1,6 @@
 # Girls Hockey - 2025 Season
 
-Generated: 2025-12-01 11:16
+Generated: 2025-12-02 11:18
 
 ## Upcoming Games
 
@@ -29,8 +29,8 @@ Generated: 2025-12-01 11:16
 | 10 | Brewster Academy | 1492.2 |
 | 11 | St. Paul’s | 1491.5 |
 | 12 | Austin Prep | 1491.1 |
-| 13 | Berwick | 1488.1 |
-| 14 | Deerfield | 1488.1 |
+| 13 | Deerfield | 1488.1 |
+| 14 | Berwick | 1488.1 |
 | 15 | Choate | 1485.9 |
 | 16 | Cushing | 1482.2 |
 | 17 | Tilton | 1481.2 |
