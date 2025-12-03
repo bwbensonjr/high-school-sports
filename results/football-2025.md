@@ -1,6 +1,6 @@
 # Football - 2025 Season
 
-Generated: 2025-12-02 11:18
+Generated: 2025-12-03 11:17
 
 ## Upcoming Games
 
@@ -82,16 +82,16 @@ Generated: 2025-12-02 11:18
 | 2025-11-27 | Franklin County Tech | 45 | Smith Vocational | 0 | +2.8 | +45.0 |
 | 2025-11-27 | Lawrence | 8 | Central Catholic | 56 | -29.0 | -48.0 |
 | 2025-11-27 | Hull | 7 | Cohasset | 28 | -25.8 | -21.0 |
-| 2025-11-27 | English High | 40 | Boston Latin | 30 | +16.0 | +10.0 |
 | 2025-11-27 | O'Bryant | 0 | Latin Academy | 30 | +0.0 | -30.0 |
+| 2025-11-27 | Bellingham | 0 | Norton | 3 | +15.0 | -3.0 |
 | 2025-11-27 | Bishop Fenwick | 6 | St. Mary’s | 38 | +1.4 | -32.0 |
 | 2025-11-27 | Pentucket/Georgetown | 26 | Triton | 0 | +12.0 | +26.0 |
-| 2025-11-27 | Lynnfield | 0 | North Reading | 49 | -7.8 | -49.0 |
+| 2025-11-27 | Hamilton-Wenham | 42 | Ipswich | 26 | +10.1 | +16.0 |
 | 2025-11-27 | Manchester Essex | 21 | Essex Tech | 28 | +11.5 | -7.0 |
 | 2025-11-27 | Amesbury | 29 | Newburyport | 8 | +40.1 | +21.0 |
 | 2025-11-27 | Falmouth | 6 | Barnstable | 49 | -11.7 | -43.0 |
 | 2025-11-27 | Nauset | 50 | Dennis-Yarmouth | 24 | -1.1 | +26.0 |
-| 2025-11-27 | Bellingham | 0 | Norton | 3 | +15.0 | -3.0 |
+| 2025-11-27 | English High | 40 | Boston Latin | 30 | +16.0 | +10.0 |
 | 2025-11-27 | Xaverian | 21 | St. John’s Prep | 18 | +2.1 | +3.0 |
 | 2025-11-27 | East Boston | 6 | Chelsea | 38 | -13.5 | -32.0 |
 | 2025-11-27 | Durfee | 36 | New Bedford | 0 | +21.0 | +36.0 |
@@ -101,17 +101,17 @@ Generated: 2025-12-02 11:18
 | 2025-11-27 | Wellesley | 20 | Needham | 6 | +7.5 | +14.0 |
 | 2025-11-27 | Framingham | 6 | Natick | 33 | -25.5 | -27.0 |
 | 2025-11-27 | BC High | 27 | Catholic Memorial | 48 | -25.4 | -21.0 |
-| 2025-11-27 | Hamilton-Wenham | 42 | Ipswich | 26 | +10.1 | +16.0 |
+| 2025-11-27 | Lynnfield | 0 | North Reading | 49 | -7.8 | -49.0 |
 | 2025-11-27 | Franklin | 19 | King Philip | 49 | -32.1 | -30.0 |
 | 2025-11-27 | Masconomet | 42 | Northeast | 20 | +22.3 | +22.0 |
 | 2025-11-27 | Westwood | 22 | Holliston | 19 | +20.8 | +3.0 |
 | 2025-11-27 | Upper Cape | 6 | Cape Cod Tech | 14 | -12.8 | -8.0 |
 | 2025-11-27 | Norwood | 42 | Dedham | 0 | +8.0 | +42.0 |
+| 2025-11-27 | Ashland | 48 | Hopkinton | 0 | +49.6 | +48.0 |
 | 2025-11-27 | Apponequet | 8 | Old Rochester | 47 | -4.6 | -39.0 |
-| 2025-11-27 | Lincoln-Sudbury | 45 | Newton South | 20 | +35.9 | +25.0 |
 | 2025-11-27 | Acton-Boxborough | 10 | Westford | 28 | +8.6 | -18.0 |
 | 2025-11-27 | Mashpee | 36 | Sandwich | 22 | +11.3 | +14.0 |
-| 2025-11-27 | Ashland | 48 | Hopkinton | 0 | +49.6 | +48.0 |
+| 2025-11-27 | Lincoln-Sudbury | 45 | Newton South | 20 | +35.9 | +25.0 |
 | 2025-11-27 | Norwell | 8 | Hanover | 49 | +24.1 | -41.0 |
 | 2025-11-27 | West Bridgewater | 35 | East Bridgewater | 0 | +12.1 | +35.0 |
 | 2025-11-27 | Dartmouth | 14 | Fairhaven | 21 | -20.2 | -7.0 |
@@ -119,18 +119,17 @@ Generated: 2025-12-02 11:18
 | 2025-11-27 | Greater New Bedford | 13 | Diman | 15 | -35.3 | -2.0 |
 | 2025-11-27 | Dighton-Rehoboth/Bristol Aggie | 14 | Seekonk | 18 | -9.9 | -4.0 |
 | 2025-11-27 | Carver | 22 | Middleborough | 21 | +9.8 | +1.0 |
-| 2025-11-26 | Whittier | 40 | Greater Lawrence | 45 | +25.7 | -5.0 |
+| 2025-11-26 | Greater Lowell | 30 | Lowell Catholic | 0 | +28.2 | +30.0 |
 | 2025-11-26 | Minuteman | 12 | Keefe Tech | 6 | +2.7 | +6.0 |
 | 2025-11-26 | Somerset Berkley | 14 | Central High (R.I.) | 28 | -7.7 | -14.0 |
 | 2025-11-26 | KIPP | 34 | Lynn Tech | 12 | +22.8 | +22.0 |
-| 2025-11-26 | Greater Lowell | 30 | Lowell Catholic | 0 | +28.2 | +30.0 |
 | 2025-11-26 | Cardinal Spellman | 0 | Archbishop Williams | 52 | -28.6 | -52.0 |
+| 2025-11-26 | Whittier | 40 | Greater Lawrence | 45 | +25.7 | -5.0 |
 | 2025-11-26 | St. John’s (Shrewsbury) | 31 | Malden Catholic | 14 | -7.8 | +17.0 |
 | 2025-11-26 | Bishop Stang | 13 | Bishop Feehan | 34 | -16.3 | -21.0 |
-| 2025-11-26 | Brighton | 0 | TechBoston | 8 | -11.0 | -8.0 |
 | 2025-11-26 | Bristol-Plymouth | 16 | Blue Hills | 30 | +1.7 | -14.0 |
 | 2025-11-26 | Concord-Carlisle | 32 | Lexington | 0 | +23.8 | +32.0 |
-| 2025-11-26 | Brookline | 13 | Newton North | 14 | -10.3 | -1.0 |
+| 2025-11-26 | Brighton | 0 | TechBoston | 8 | -11.0 | -8.0 |
 | 2025-11-26 | South Shore Voc-Tech | 22 | Southeastern | 6 | +28.5 | +16.0 |
 | 2025-11-26 | Old Colony | 14 | Tri-County | 51 | -25.2 | -37.0 |
 | 2025-11-26 | Plymouth North | 21 | Plymouth South | 27 | -5.1 | -6.0 |
@@ -141,7 +140,7 @@ Generated: 2025-12-02 11:18
 | 2025-11-26 | Quaboag | 7 | Ware | 34 | -25.3 | -27.0 |
 | 2025-11-26 | St. Bernard’s | 42 | St. Paul | 7 | +15.0 | +35.0 |
 | 2025-11-26 | Nashoba Valley Tech | 37 | Monty Tech | 8 | +33.8 | +29.0 |
-| 2025-11-25 | Wakefield | 20 | Melrose | 9 | +15.1 | +11.0 |
+| 2025-11-26 | Brookline | 13 | Newton North | 14 | -10.3 | -1.0 |
 
 ## Current Elo Ratings
 

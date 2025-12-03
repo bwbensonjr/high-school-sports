@@ -1,6 +1,6 @@
 # Wrestling - 2024 Season
 
-Generated: 2025-12-02 11:18
+Generated: 2025-12-03 11:17
 
 ## Upcoming Games
 
@@ -18,8 +18,8 @@ Generated: 2025-12-02 11:18
 |------|------|------------|
 | 1 | Roxbury Latin | 1675.2 |
 | 2 | Brooks | 1526.4 |
-| 3 | North Reading | 1500.0 |
-| 4 | Wilmington | 1500.0 |
+| 3 | Wilmington | 1500.0 |
+| 4 | North Reading | 1500.0 |
 | 5 | St. Mark’s | 1466.0 |
 | 6 | Phillips Exeter | 1465.3 |
 | 7 | Deerfield | 1454.7 |

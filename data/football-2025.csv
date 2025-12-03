@@ -996,15 +996,15 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-21,63976,FINAL,Tri-County,4392,35.0,1.0,Blackstone Valley,4046,25.0,0.0,Mayflower,CMAC,6:00 P.M.,,0
 2025-11-21,63978,FINAL,Northeast,4293,21.0,0.0,Blue Hills,4047,24.0,1.0,Commonwealth,Mayflower,6:30 P.M.,,0
 2025-11-21,63981,FINAL,Pathfinder,4305,16.0,0.0,Cape Cod Tech,4073,18.0,1.0,Tri-County,Mayflower,6:00 P.M.,,0
-2025-11-22,63051,FINAL,Springfield Central,4360,22,0,Xaverian,4446,36,1,AA,Catholic Conference,12:00 P.M.,,0
-2025-11-22,63096,FINAL,Milton,4252,29,0,North Attleborough,4284,43,1,Bay State,Hockomock,3:00 P.M.,,0
-2025-11-22,63099,FINAL,King Philip,4197,21,1,Malden Catholic,4228,13,0,Hockomock,Catholic Conference,3:00 P.M.,,0
-2025-11-22,63141,FINAL,Foxborough,4142,31,1,Archbishop Williams,4012,0,0,Hockomock,Catholic Central,12:00 P.M.,,0
-2025-11-22,63186,FINAL,Amesbury,4007,20,1,Clinton,4093,14,0,Cape Ann,Mid-Wach,1:00 P.M.,,0
-2025-11-22,63189,FINAL,Cohasset,4094,35,1,Northbridge,4292,15,0,South Shore,CMAC,1:30 P.M.,,0
-2025-11-22,63318,FINAL,Norwell,4296,21,1,Hudson,4182,7,0,South Shore,Mid-Wach,12:00 P.M.,,0
-2025-11-22,63363,FINAL,Nashoba Valley Tech,4268,12,0,Randolph,4327,20,1,Commonwealth,South Shore,12:00 P.M.,,0
-2025-11-22,65035,FINAL,Cumberland (R.I.),4714,6,0,Central High (R.I.),5075,21,1,Independent,Independent,,,0
+2025-11-22,63051,FINAL,Springfield Central,4360,22.0,0.0,Xaverian,4446,36.0,1.0,AA,Catholic Conference,12:00 P.M.,,0
+2025-11-22,63096,FINAL,Milton,4252,29.0,0.0,North Attleborough,4284,43.0,1.0,Bay State,Hockomock,3:00 P.M.,,0
+2025-11-22,63099,FINAL,King Philip,4197,21.0,1.0,Malden Catholic,4228,13.0,0.0,Hockomock,Catholic Conference,3:00 P.M.,,0
+2025-11-22,63141,FINAL,Foxborough,4142,31.0,1.0,Archbishop Williams,4012,0.0,0.0,Hockomock,Catholic Central,12:00 P.M.,,0
+2025-11-22,63186,FINAL,Amesbury,4007,20.0,1.0,Clinton,4093,14.0,0.0,Cape Ann,Mid-Wach,1:00 P.M.,,0
+2025-11-22,63189,FINAL,Cohasset,4094,35.0,1.0,Northbridge,4292,15.0,0.0,South Shore,CMAC,1:30 P.M.,,0
+2025-11-22,63318,FINAL,Norwell,4296,21.0,1.0,Hudson,4182,7.0,0.0,South Shore,Mid-Wach,12:00 P.M.,,0
+2025-11-22,63363,FINAL,Nashoba Valley Tech,4268,12.0,0.0,Randolph,4327,20.0,1.0,Commonwealth,South Shore,12:00 P.M.,,0
+2025-11-22,65035,FINAL,Cumberland (R.I.),4714,6.0,0.0,Central High (R.I.),5075,21.0,1.0,Independent,Independent,,,0
 2025-11-25,44673,FINAL,Wakefield,4402,20,1,Melrose,4244,9,0,Middlesex,Middlesex,4:00 P.M.,,0
 2025-11-26,43920,FINAL,Brookline,4059,13,0,Newton North,4279,14,1,Bay State,Bay State,1:30 P.M.,,0
 2025-11-26,43993,FINAL,Brighton,4055,0,0,TechBoston,4117,8,1,Boston City,Boston City,1:00 P.M.,,0
