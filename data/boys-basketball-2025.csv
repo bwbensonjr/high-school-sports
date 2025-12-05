@@ -1,9 +1,24 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
 2025-12-08,65472,UPCOMING,Saugus,4341,,,Medford,4242,,,Northeastern,Greater Boston,6:30 P.M.,,0
 2025-12-10,65071,UPCOMING,English High,4048,,,Framingham,4143,,,Boston City,Bay State,4:30 P.M.,,0
+2025-12-10,66357,UPCOMING,Carver,4077,,,Blue Hills,4047,,,South Shore,Mayflower,6:00 P.M.,,0
 2025-12-11,65135,UPCOMING,Weymouth,4425,,,Needham,4272,,,Bay State,Bay State,5:00 P.M.,,0
 2025-12-11,65456,UPCOMING,Lynn English,4221,,,Somerville,4351,,,Greater Boston,Greater Boston,7:00 P.M.,,0
 2025-12-11,65604,UPCOMING,Boston Latin,4049,,,Roxbury Prep,4847,,,Dual County,Charter School Athletic,6:30 P.M.,,0
+2025-12-11,65943,UPCOMING,Notre Dame (Tyngsborough),4540,,,Northeast,4293,,,Commonwealth,Commonwealth,6:30 P.M.,,0
+2025-12-11,65960,UPCOMING,Innovation Academy,4690,,,Parker Charter,4483,,,Commonwealth,Independent,4:00 P.M.,,0
+2025-12-11,65972,UPCOMING,KIPP,4703,,,Shawsheen,4346,,,Commonwealth,Commonwealth,6:30 P.M.,,0
+2025-12-11,66113,UPCOMING,BC High,4029,,,Plymouth South,4316,,,Catholic Conference,Patriot,4:15 P.M.,,0
+2025-12-11,66132,UPCOMING,Cristo Rey,4453,,,Maimonides,4473,,,Catholic Central,Independent,6:00 P.M.,,0
+2025-12-11,66143,UPCOMING,Pacific Rim Charter,4478,,,Neighborhood House Charter,5035,,,Charter School Athletic,Charter School Athletic,5:00 P.M.,,0
+2025-12-11,66149,UPCOMING,South Shore Charter,4589,,,Argosy Collegiate,5032,,,Charter School Athletic,Charter School Athletic,3:15 P.M.,,0
+2025-12-11,66161,UPCOMING,Boston Prep,4655,,,Prospect Hill,4593,,,Charter School Athletic,Charter School Athletic,4:30 P.M.,,0
+2025-12-11,66171,UPCOMING,Collegiate Charter,4986,,,Excel Academy,4969,,,Charter School Athletic,Charter School Athletic,5:00 P.M.,,0
+2025-12-11,66190,UPCOMING,Pioneer Charter I,4701,,,Notre Dame Cristo Rey,5127,,,Charter School Athletic,Commonwealth,6:00 P.M.,,0
+2025-12-11,66194,UPCOMING,Boston United,4798,,,Pioneer Charter II,4964,,,Boston City,Charter School Athletic,5:30 P.M.,,0
+2025-12-11,66347,UPCOMING,Avon,4460,,,Atlantis Charter,4818,,,Mayflower,Independent,5:00 P.M.,,0
+2025-12-11,66387,UPCOMING,Tri-County,4392,,,Old Colony,4300,,,Mayflower,Mayflower,6:30 P.M.,,0
+2025-12-11,66428,UPCOMING,Bourne,4050,,,Nantucket,4265,,,South Coast,Cape & Islands,3:00 P.M.,,0
 2025-12-12,65062,UPCOMING,Brookline,4059,,,Natick,4270,,,Bay State,Bay State,6:30 P.M.,,0
 2025-12-12,65072,UPCOMING,Newton North,4279,,,Framingham,4143,,,Bay State,Bay State,6:30 P.M.,,0
 2025-12-12,65103,UPCOMING,Milton,4252,,,Wellesley,4413,,,Bay State,Bay State,6:30 P.M.,,0
@@ -25,5 +40,64 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-12,65639,UPCOMING,Holland (Burke),4064,,,Newton South,4280,,,Boston City,Dual County,6:30 P.M.,,0
 2025-12-12,65654,UPCOMING,Wayland,4411,,,Norwood,4297,,,Dual County,Tri-Valley,6:30 P.M.,,0
 2025-12-12,65663,UPCOMING,St. John’s Prep,4369,,,Westford,4421,,,Catholic Conference,Dual County,5:15 P.M.,,0
+2025-12-12,65888,UPCOMING,Sizer,4509,,,Essex Tech,4745,,,Worcester County,Cape Ann,5:30 P.M.,,0
+2025-12-12,65893,UPCOMING,Ipswich,4190,,,Georgetown,4148,,,Cape Ann,Cape Ann,6:30 P.M.,,0
+2025-12-12,65905,UPCOMING,Hamilton-Wenham,4163,,,Amesbury,4007,,,Cape Ann,Cape Ann,6:30 P.M.,,0
+2025-12-12,65916,UPCOMING,Newburyport,4276,,,Lynnfield,4223,,,Cape Ann,Cape Ann,6:30 P.M.,,0
+2025-12-12,65922,UPCOMING,Rockport,4490,,,Manchester Essex,4229,,,Cape Ann,Cape Ann,6:00 P.M.,,0
+2025-12-12,65928,UPCOMING,North Reading,4288,,,Pentucket,4309,,,Cape Ann,Cape Ann,7:00 P.M.,,0
+2025-12-12,65963,UPCOMING,Innovation Academy,4690,,,Northeast,4293,,,Commonwealth,Commonwealth,6:30 P.M.,,0
+2025-12-12,65978,UPCOMING,Whittier,4428,,,Lowell Catholic,4217,,,Commonwealth,Commonwealth,5:30 P.M.,,0
+2025-12-12,66005,UPCOMING,O’Bryant,4298,,,Kennedy Academy,4590,,,Boston City,Boston City,5:30 P.M.,,0
+2025-12-12,66044,UPCOMING,Snowden,4452,,,Madison Park,4225,,,Boston City,Boston City,5:30 P.M.,,0
+2025-12-12,66068,UPCOMING,Barnstable,4024,,,New Mission,4494,,,Southeast,Boston City,6:30 P.M.,,0
+2025-12-12,66074,UPCOMING,Quincy,4326,,,TechBoston,4117,,,Patriot,Boston City,6:30 P.M.,,0
+2025-12-12,66089,UPCOMING,Salem Academy,4604,,,Bishop Fenwick,4043,,,Charter School Athletic,Catholic Central,6:30 P.M.,,0
+2025-12-12,66091,UPCOMING,Dennis-Yarmouth,4111,,,Bishop Stang,4045,,,Cape & Islands,Catholic Central,6:30 P.M.,,0
+2025-12-12,66102,UPCOMING,Cristo Rey,4453,,,MATCH Charter,4594,,,Catholic Central,Charter School Athletic,6:00 P.M.,,0
+2025-12-12,66110,UPCOMING,St. Mary’s,4374,,,Pope Francis,4796,,,Catholic Central,Independent,6:45 P.M.,,0
+2025-12-12,66116,UPCOMING,Wachusett,4400,,,Catholic Memorial,4080,,,Mid-Wach,Catholic Conference,6:30 P.M.,,0
+2025-12-12,66121,UPCOMING,Burncoat,4066,,,Malden Catholic,4228,,,Independent,Catholic Conference,6:30 P.M.,,0
+2025-12-12,66125,UPCOMING,St. John’s (Shrewsbury),4368,,,Leominster,4208,,,Catholic Conference,Mid-Wach,6:30 P.M.,,0
+2025-12-12,66135,UPCOMING,Neighborhood House Charter,5035,,,Foxborough Charter,4588,,,Charter School Athletic,Charter School Athletic,6:00 P.M.,,0
+2025-12-12,66144,UPCOMING,Codman Charter,4482,,,Pacific Rim Charter,4478,,,Charter School Athletic,Charter School Athletic,5:30 P.M.,,0
+2025-12-12,66156,UPCOMING,Collegiate Charter,4986,,,Boston Collegiate,4592,,,Charter School Athletic,Charter School Athletic,4:45 P.M.,,0
+2025-12-12,66164,UPCOMING,Chelsea,4086,,,Brooke Charter,5071,,,Greater Boston,Charter School Athletic,5:30 P.M.,,0
+2025-12-12,66187,UPCOMING,New Heights Charter,5088,,,Southeastern,4358,,,Charter School Athletic,Independent,5:30 P.M.,,0
+2025-12-12,66311,UPCOMING,Dover-Sherborn,4118,,,Nipmuc,4281,,,Tri-Valley,Independent,5:00 P.M.,,0
+2025-12-12,66326,UPCOMING,Northbridge,4292,,,Millis,4251,,,Independent,Tri-Valley,6:30 P.M.,,0
+2025-12-12,66331,UPCOMING,Norton,4295,,,Seekonk,4344,,,Tri-Valley,South Coast,6:30 P.M.,,0
+2025-12-12,66332,UPCOMING,Bridgewater-Raynham,4053,,,Durfee,4122,,,Southeast,Big Three,6:30 P.M.,,0
+2025-12-12,66337,UPCOMING,Abington,4002,,,New Bedford,4273,,,South Shore,Big Three,6:30 P.M.,,0
+2025-12-12,66355,UPCOMING,Blue Hills,4047,,,Westport,4461,,,Mayflower,Mayflower,6:30 P.M.,,0
+2025-12-12,66388,UPCOMING,South Shore Voc-Tech,4356,,,Upper Cape,4457,,,Mayflower,Mayflower,6:30 P.M.,,0
+2025-12-12,66404,UPCOMING,Wareham,4407,,,Old Rochester,4301,,,Independent,South Coast,6:30 P.M.,,0
 2025-12-13,65533,UPCOMING,Dartmouth,4105,,,Sharon,4345,,,Southeast,Hockomock,1:00 P.M.,,0
 2025-12-13,65607,UPCOMING,Boston Latin,4049,,,TechBoston,4117,,,Dual County,Boston City,1:00 P.M.,,0
+2025-12-13,65944,UPCOMING,Notre Dame (Tyngsborough),4540,,,Bristol Aggie,4463,,,Commonwealth,Mayflower,4:30 P.M.,,0
+2025-12-13,65988,UPCOMING,Bristol-Plymouth,4057,,,Mystic Valley,4264,,,Mayflower,Commonwealth,3:30 P.M.,,0
+2025-12-13,66010,UPCOMING,Fenway,4492,,,Cathedral,4079,,,Boston City,Catholic Central,5:00 P.M.,,0
+2025-12-13,66017,UPCOMING,English High,4048,,,Latin Academy,4202,,,Boston City,Boston City,3:00 P.M.,,0
+2025-12-13,66053,UPCOMING,Ruth Batson Academy,4795,,,Randolph,4327,,,Independent,South Shore,2:00 P.M.,,0
+2025-12-13,66178,UPCOMING,Excel Academy,4969,,,Pioneer Charter I,4701,,,Charter School Athletic,Charter School Athletic,2:00 P.M.,,0
+2025-12-13,66196,UPCOMING,Excel Academy,4969,,,Pioneer Charter II,4964,,,Charter School Athletic,Charter School Athletic,2:00 P.M.,,0
+2025-12-14,66076,UPCOMING,Scituate,4343,,,Archbishop Williams,4012,,,Patriot,Catholic Central,3:00 P.M.,,0
+2025-12-15,65571,UPCOMING,Pentucket,4309,,,Melrose,4244,,,Cape Ann,Middlesex,6:30 P.M.,,0
+2025-12-15,65593,UPCOMING,Acton-Boxborough,4003,,,Andover,4009,,,Dual County,Merrimack Valley,6:30 P.M.,,0
+2025-12-15,65890,UPCOMING,Essex Tech,4745,,,Northeast,4293,,,Cape Ann,Commonwealth,6:30 P.M.,,0
+2025-12-15,65910,UPCOMING,Ipswich,4190,,,Rockport,4490,,,Cape Ann,Cape Ann,6:00 P.M.,,0
+2025-12-15,66013,UPCOMING,Muniz,5018,,,Notre Dame Cristo Rey,5127,,,Boston City,Commonwealth,6:30 P.M.,,0
+2025-12-15,66025,UPCOMING,MATCH Charter,4594,,,Brighton,4055,,,Charter School Athletic,Boston City,6:00 P.M.,,0
+2025-12-15,66037,UPCOMING,O’Bryant,4298,,,English High,4048,,,Boston City,Boston City,5:30 P.M.,,0
+2025-12-15,66041,UPCOMING,Kennedy Academy,4590,,,South Boston,4352,,,Boston City,Boston City,4:00 P.M.,,0
+2025-12-15,66067,UPCOMING,CASH,4187,,,Saugus,4341,,,Boston City,Northeastern,5:00 P.M.,,0
+2025-12-15,66098,UPCOMING,Cardinal Spellman,4075,,,Wareham,4407,,,Catholic Central,Independent,6:30 P.M.,,0
+2025-12-15,66123,UPCOMING,Doherty,4116,,,Malden Catholic,4228,,,Independent,Catholic Conference,6:30 P.M.,,0
+2025-12-15,66158,UPCOMING,Excel Academy,4969,,,Boston Collegiate,4592,,,Charter School Athletic,Charter School Athletic,6:30 P.M.,,0
+2025-12-15,66181,UPCOMING,Holbrook,4172,,,Neighborhood House Charter,5035,,,Mayflower,Charter School Athletic,6:00 P.M.,,0
+2025-12-15,66197,UPCOMING,Pioneer Charter II,4964,,,Prospect Hill,4593,,,Charter School Athletic,Charter School Athletic,5:45 P.M.,,0
+2025-12-15,66348,UPCOMING,Atlantis Charter,4818,,,Rising Tide Charter,4746,,,Independent,Cape & Islands,5:30 P.M.,,0
+2025-12-15,66350,UPCOMING,Avon,4460,,,South Shore Voc-Tech,4356,,,Mayflower,Mayflower,5:00 P.M.,,0
+2025-12-15,66360,UPCOMING,East Bridgewater,4126,,,Blue Hills,4047,,,South Shore,Mayflower,6:30 P.M.,,0
+2025-12-15,66374,UPCOMING,Carver,4077,,,Diman,4115,,,South Shore,Mayflower,6:30 P.M.,,0
+2025-12-15,66410,UPCOMING,Fairhaven,4133,,,Westport,4461,,,South Coast,Mayflower,6:30 P.M.,,0

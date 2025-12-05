@@ -1,2 +1,54 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
+2025-12-05,66665,UPCOMING,Muniz,5018,,,Boston Collegiate,4592,,,Boston City,Charter School Athletic,4:00 P.M.,,0
+2025-12-06,65832,UPCOMING,Archbishop Williams,4012,,,Newton North,4279,,,Catholic Central,Bay State,10:15 A.M.,,0
+2025-12-06,65854,UPCOMING,Archbishop Williams,4012,,,Milton,4252,,,Catholic Central,Bay State,10:15 A.M.,,0
+2025-12-06,66670,UPCOMING,Excel Academy,4969,,,Boston Prep,4655,,,Charter School Athletic,Charter School Athletic,10:00 A.M.,,0
+2025-12-08,65868,UPCOMING,Abington,4002,,,Weymouth,4425,,,South Shore,Bay State,5:15 P.M.,,0
+2025-12-08,66224,UPCOMING,Mystic Valley,4264,,,Chelsea,4086,,,Commonwealth,Greater Boston,4:30 P.M.,,0
+2025-12-08,66625,UPCOMING,Mansfield,4230,,,Norton,4295,,,Hockomock,Tri-Valley,3:15 P.M.,,0
+2025-12-09,65781,UPCOMING,Framingham,4143,,,Waltham,4405,,,Bay State,Dual County,6:00 P.M.,,0
+2025-12-09,65825,UPCOMING,Natick,4270,,,Medfield,4241,,,Bay State,Tri-Valley,5:00 P.M.,,0
+2025-12-09,65835,UPCOMING,Newton North,4279,,,Arlington,4013,,,Bay State,Middlesex,4:15 P.M.,,0
+2025-12-09,65856,UPCOMING,Dedham,4108,,,Milton,4252,,,Tri-Valley,Bay State,5:30 P.M.,,0
+2025-12-09,66525,UPCOMING,Westwood,4424,,,Fontbonne,4447,,,Tri-Valley,Catholic Conference,5:30 P.M.,,0
+2025-12-09,66540,UPCOMING,Bellingham,4033,,,Attleboro,4018,,,Tri-Valley,Hockomock,6:00 P.M.,,0
+2025-12-09,66617,UPCOMING,Millis,4251,,,Westborough,4418,,,Tri-Valley,Mid-Wach,6:00 P.M.,,0
+2025-12-10,66219,UPCOMING,Greater Lawrence,4154,,,Winthrop,4437,,,Commonwealth,Northeastern,5:30 P.M.,,0
+2025-12-10,66593,UPCOMING,Bishop Feehan,4042,,,Medfield,4241,,,Catholic Central,Tri-Valley,4:45 P.M.,,0
+2025-12-11,65865,UPCOMING,Weymouth,4425,,,Needham,4272,,,Bay State,Bay State,6:45 P.M.,,0
+2025-12-11,65955,UPCOMING,Central Catholic,4081,,,Masconomet,4236,,,Merrimack Valley,Northeastern,7:00 P.M.,,0
+2025-12-11,66657,UPCOMING,South Shore Charter,4589,,,Argosy Collegiate,5032,,,Charter School Athletic,Charter School Athletic,3:15 P.M.,,0
+2025-12-11,66680,UPCOMING,Excel Academy,4969,,,Collegiate Charter,4986,,,Charter School Athletic,Charter School Athletic,3:30 P.M.,,0
 2025-12-12,65645,UPCOMING,Natick,4270,,,Brookline,4059,,,Bay State,Bay State,6:30 P.M.,,0
+2025-12-12,65783,UPCOMING,Framingham,4143,,,Newton North,4279,,,Bay State,Bay State,6:30 P.M.,,0
+2025-12-12,65841,UPCOMING,Wellesley,4413,,,Milton,4252,,,Bay State,Bay State,6:30 P.M.,,0
+2025-12-12,65843,UPCOMING,Norwood,4297,,,Braintree,4051,,,Tri-Valley,Bay State,4:00 P.M.,,0
+2025-12-12,65869,UPCOMING,Peabody,4306,,,Beverly,4038,,,Northeastern,Northeastern,7:00 P.M.,,0
+2025-12-12,65876,UPCOMING,Danvers,4103,,,Marblehead,4231,,,Northeastern,Northeastern,6:30 P.M.,,0
+2025-12-12,66207,UPCOMING,Salem,4336,,,Saugus,4341,,,Northeastern,Northeastern,6:00 P.M.,,0
+2025-12-12,66211,UPCOMING,Swampscott,4383,,,Gloucester,4150,,,Northeastern,Northeastern,6:30 P.M.,,0
+2025-12-12,66251,UPCOMING,Somerville,4351,,,Lynn English,4221,,,Greater Boston,Greater Boston,6:00 P.M.,,0
+2025-12-12,66254,UPCOMING,Durfee,4122,,,Attleboro,4018,,,Big Three,Hockomock,6:30 P.M.,,0
+2025-12-12,66261,UPCOMING,Franklin,4144,,,Wachusett,4400,,,Hockomock,Mid-Wach,6:30 P.M.,,0
+2025-12-12,66286,UPCOMING,Canton,4071,,,Millis,4251,,,Hockomock,Tri-Valley,6:00 P.M.,,0
+2025-12-12,66294,UPCOMING,Mansfield,4230,,,Medway,4243,,,Hockomock,Tri-Valley,6:00 P.M.,,0
+2025-12-12,66439,UPCOMING,Blackstone Valley,4046,,,Ashland,4015,,,Independent,Tri-Valley,6:30 P.M.,,0
+2025-12-12,66450,UPCOMING,Holliston,4174,,,Waltham,4405,,,Tri-Valley,Dual County,6:00 P.M.,,0
+2025-12-12,66464,UPCOMING,Hopedale,4507,,,Dedham,4108,,,Independent,Tri-Valley,6:30 P.M.,,0
+2025-12-12,66472,UPCOMING,Arlington,4013,,,Cambridge,4067,,,Middlesex,Dual County,7:00 P.M.,,0
+2025-12-12,66503,UPCOMING,Watertown,4409,,,Belmont,4034,,,Middlesex,Middlesex,7:00 P.M.,,0
+2025-12-12,66524,UPCOMING,Burlington,4065,,,Lexington,4209,,,Middlesex,Middlesex,6:00 P.M.,,0
+2025-12-12,66542,UPCOMING,Bellingham,4033,,,Dracut,4119,,,Tri-Valley,Merrimack Valley,7:00 P.M.,,0
+2025-12-12,66544,UPCOMING,Melrose,4244,,,Reading,4328,,,Middlesex,Middlesex,6:00 P.M.,,0
+2025-12-12,66558,UPCOMING,Dover-Sherborn,4118,,,Northbridge,4292,,,Tri-Valley,Independent,6:30 P.M.,,0
+2025-12-12,66564,UPCOMING,Stoneham,4380,,,Winchester,4434,,,Middlesex,Middlesex,6:00 P.M.,,0
+2025-12-12,66589,UPCOMING,Wakefield,4402,,,Woburn,4438,,,Middlesex,Middlesex,6:30 P.M.,,0
+2025-12-12,66630,UPCOMING,Apponequet,4011,,,Norton,4295,,,South Coast,Tri-Valley,6:30 P.M.,,0
+2025-12-12,66678,UPCOMING,Codman Charter,4482,,,Pacific Rim Charter,4478,,,Charter School Athletic,Charter School Athletic,4:00 P.M.,,0
+2025-12-13,66209,UPCOMING,Saugus,4341,,,Southeastern,4358,,,Northeastern,Mayflower,2:20 P.M.,,0
+2025-12-13,66246,UPCOMING,Concord-Carlisle,4097,,,Medford,4242,,,Dual County,Greater Boston,1:00 P.M.,,0
+2025-12-13,66529,UPCOMING,Bridgewater-Raynham,4053,,,Westwood,4424,,,Southeast,Tri-Valley,1:00 P.M.,,0
+2025-12-15,66226,UPCOMING,Chelsea,4086,,,Excel Academy,4969,,,Greater Boston,Charter School Athletic,4:00 P.M.,,0
+2025-12-15,66308,UPCOMING,Stoughton,4381,,,Brockton,4058,,,Hockomock,Big Three,6:00 P.M.,,0
+2025-12-15,66460,UPCOMING,Arlington,4013,,,Notre Dame (Hingham),4449,,,Middlesex,Catholic Conference,7:00 P.M.,,0
+2025-12-15,66681,UPCOMING,Collegiate Charter,4986,,,Cristo Rey,4453,,,Charter School Athletic,Independent,4:45 P.M.,,0
