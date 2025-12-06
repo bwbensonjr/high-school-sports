@@ -1,6 +1,6 @@
 # Girls Hockey - 2025 Season
 
-Generated: 2025-12-05 11:17
+Generated: 2025-12-06 11:14
 
 ## Upcoming Games
 
@@ -71,81 +71,81 @@ Generated: 2025-12-05 11:17
 | 6 | Williston Northampton | 1513.6 |
 | 7 | Loomis Chaffee (Conn.) | 1509.6 |
 | 8 | Worcester Academy | 1507.6 |
-| 9 | Auburn | 1501.7 |
-| 10 | Westwood | 1501.7 |
-| 11 | Walpole | 1501.7 |
-| 12 | Barnstable | 1501.7 |
-| 13 | Wayland/Weston | 1501.7 |
-| 14 | Canton | 1501.7 |
-| 15 | East/West Bridgewater | 1501.7 |
-| 16 | Bishop Feehan | 1501.7 |
-| 17 | Duxbury | 1501.7 |
-| 18 | Beverly/Danvers | 1501.7 |
-| 19 | Reading | 1501.7 |
-| 20 | Winchester | 1501.7 |
-| 21 | Grafton | 1501.7 |
-| 22 | Braintree | 1501.7 |
-| 23 | Nauset/Monomoy | 1501.7 |
-| 24 | Falmouth | 1501.7 |
-| 25 | Algonquin | 1501.7 |
-| 26 | Weymouth | 1501.7 |
-| 27 | Arlington | 1501.7 |
-| 28 | Ursuline | 1501.7 |
-| 29 | Methuen/Tewksbury | 1501.7 |
-| 30 | Milton | 1501.7 |
-| 31 | Pope Francis | 1501.7 |
-| 32 | Concord-Carlisle | 1501.7 |
-| 33 | Framingham | 1501.7 |
-| 34 | Arlington Catholic | 1501.7 |
-| 35 | Needham | 1501.7 |
-| 36 | Archbishop Williams | 1501.7 |
-| 37 | Waltham | 1501.7 |
-| 38 | Winthrop | 1501.7 |
-| 39 | Stoughton | 1501.7 |
-| 40 | Medfield | 1501.7 |
-| 41 | HPNA | 1501.7 |
-| 42 | Norwell | 1501.7 |
-| 43 | Newburyport | 1501.7 |
-| 44 | Hopkinton/Dover-Sherborn | 1501.7 |
-| 45 | Andover | 1501.7 |
-| 46 | Stoneham/Wilmington | 1501.7 |
-| 47 | Billerica/Chelmsford | 1501.7 |
+| 9 | Algonquin | 1501.7 |
+| 10 | Pope Francis | 1501.7 |
+| 11 | Framingham | 1501.7 |
+| 12 | Pembroke | 1501.7 |
+| 13 | Whitman-Hanson/Silver Lake | 1501.7 |
+| 14 | Hanover | 1501.7 |
+| 15 | Winchester | 1501.7 |
+| 16 | Plymouth | 1501.7 |
+| 17 | Grafton | 1501.7 |
+| 18 | Malden Catholic | 1501.7 |
+| 19 | Archbishop Williams | 1501.7 |
+| 20 | Waltham | 1501.7 |
+| 21 | Brookline | 1501.7 |
+| 22 | Burlington | 1501.7 |
+| 23 | Arlington | 1501.7 |
+| 24 | Weymouth | 1501.7 |
+| 25 | Concord-Carlisle | 1501.7 |
+| 26 | Stoneham/Wilmington | 1501.7 |
+| 27 | Stoughton | 1501.7 |
+| 28 | Milton | 1501.7 |
+| 29 | Hopkinton/Dover-Sherborn | 1501.7 |
+| 30 | Auburn | 1501.7 |
+| 31 | Westford | 1501.7 |
+| 32 | Shrewsbury | 1501.7 |
+| 33 | Billerica/Chelmsford | 1501.7 |
+| 34 | Wayland/Weston | 1501.7 |
+| 35 | Marblehead | 1501.7 |
+| 36 | Martha’s Vineyard | 1501.7 |
+| 37 | Natick | 1501.7 |
+| 38 | Bishop Stang | 1501.7 |
+| 39 | Nauset/Monomoy | 1501.7 |
+| 40 | Quincy/North Quincy | 1501.7 |
+| 41 | King Philip | 1501.7 |
+| 42 | Needham | 1501.7 |
+| 43 | Reading | 1501.7 |
+| 44 | Dedham | 1501.7 |
+| 45 | Duxbury | 1501.7 |
+| 46 | Lexington | 1501.7 |
+| 47 | Sandwich | 1501.7 |
 | 48 | Franklin | 1501.7 |
-| 49 | Woburn | 1501.7 |
-| 50 | Burlington | 1501.7 |
-| 51 | Bishop Stang | 1501.7 |
-| 52 | Brookline | 1501.7 |
-| 53 | Natick | 1501.7 |
-| 54 | Shrewsbury | 1501.7 |
-| 55 | Quincy/North Quincy | 1501.7 |
-| 56 | Newton North/South | 1501.7 |
-| 57 | Plymouth | 1501.7 |
-| 58 | Marshfield | 1501.7 |
-| 59 | Sandwich | 1501.7 |
-| 60 | Belmont | 1501.7 |
-| 61 | Whitman-Hanson/Silver Lake | 1501.7 |
-| 62 | Medford | 1501.7 |
-| 63 | Marblehead | 1501.7 |
-| 64 | Dedham | 1501.7 |
-| 65 | Notre Dame (Hingham) | 1501.7 |
-| 66 | Martha’s Vineyard | 1501.7 |
-| 67 | Pembroke | 1501.7 |
-| 68 | Leominster | 1501.7 |
-| 69 | Melrose | 1501.7 |
-| 70 | Hanover | 1501.7 |
-| 71 | Lexington | 1501.7 |
-| 72 | Medway/Ashland | 1501.7 |
-| 73 | Malden Catholic | 1501.7 |
-| 74 | King Philip | 1501.7 |
-| 75 | Gloucester | 1501.7 |
-| 76 | Dennis-Yarmouth | 1501.7 |
-| 77 | Boston Latin | 1501.7 |
-| 78 | Latin Academy/Fontbonne | 1501.7 |
-| 79 | Wakefield | 1501.7 |
-| 80 | Longmeadow | 1501.7 |
-| 81 | Westford | 1501.7 |
-| 82 | Masconomet | 1501.7 |
-| 83 | Norwood | 1501.7 |
+| 49 | East/West Bridgewater | 1501.7 |
+| 50 | Walpole | 1501.7 |
+| 51 | Leominster | 1501.7 |
+| 52 | Gloucester | 1501.7 |
+| 53 | Belmont | 1501.7 |
+| 54 | Masconomet | 1501.7 |
+| 55 | Norwood | 1501.7 |
+| 56 | Marshfield | 1501.7 |
+| 57 | Westwood | 1501.7 |
+| 58 | Boston Latin | 1501.7 |
+| 59 | Latin Academy/Fontbonne | 1501.7 |
+| 60 | Notre Dame (Hingham) | 1501.7 |
+| 61 | Winthrop | 1501.7 |
+| 62 | Braintree | 1501.7 |
+| 63 | Canton | 1501.7 |
+| 64 | Dennis-Yarmouth | 1501.7 |
+| 65 | Wakefield | 1501.7 |
+| 66 | Norwell | 1501.7 |
+| 67 | Arlington Catholic | 1501.7 |
+| 68 | Medfield | 1501.7 |
+| 69 | Bishop Feehan | 1501.7 |
+| 70 | HPNA | 1501.7 |
+| 71 | Falmouth | 1501.7 |
+| 72 | Longmeadow | 1501.7 |
+| 73 | Medford | 1501.7 |
+| 74 | Medway/Ashland | 1501.7 |
+| 75 | Melrose | 1501.7 |
+| 76 | Methuen/Tewksbury | 1501.7 |
+| 77 | Newton North/South | 1501.7 |
+| 78 | Andover | 1501.7 |
+| 79 | Newburyport | 1501.7 |
+| 80 | Barnstable | 1501.7 |
+| 81 | Woburn | 1501.7 |
+| 82 | Beverly/Danvers | 1501.7 |
+| 83 | Ursuline | 1501.7 |
 | 84 | Brewster Academy | 1496.4 |
 | 85 | St. Paul’s | 1496.0 |
 | 86 | Austin Prep | 1495.7 |

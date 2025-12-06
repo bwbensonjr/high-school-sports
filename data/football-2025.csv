@@ -1005,7 +1005,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-11-22,63318,FINAL,Norwell,4296,21.0,1.0,Hudson,4182,7.0,0.0,South Shore,Mid-Wach,12:00 P.M.,,0
 2025-11-22,63363,FINAL,Nashoba Valley Tech,4268,12.0,0.0,Randolph,4327,20.0,1.0,Commonwealth,South Shore,12:00 P.M.,,0
 2025-11-22,65035,FINAL,Cumberland (R.I.),4714,6.0,0.0,Central High (R.I.),5075,21.0,1.0,Independent,Independent,,,0
-2025-11-25,44673,FINAL,Wakefield,4402,20,1,Melrose,4244,9,0,Middlesex,Middlesex,4:00 P.M.,,0
+2025-11-25,44673,FINAL,Wakefield,4402,20.0,1.0,Melrose,4244,9.0,0.0,Middlesex,Middlesex,4:00 P.M.,,0
 2025-11-26,43920,FINAL,Brookline,4059,13,0,Newton North,4279,14,1,Bay State,Bay State,1:30 P.M.,,0
 2025-11-26,43993,FINAL,Brighton,4055,0,0,TechBoston,4117,8,1,Boston City,Boston City,1:00 P.M.,,0
 2025-11-26,44114,FINAL,Cardinal Spellman,4075,0,0,Archbishop Williams,4012,52,1,Catholic Central,Catholic Central,6:00 P.M.,,0
@@ -1131,8 +1131,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-03,64977,FINAL,South Shore Voc-Tech,4356,24,0,Cape Cod Tech,4073,30,1,Mayflower,Mayflower,5:00 P.M.,,0
 2025-12-04,63183,FINAL,Cohasset,4094,22,1,Amesbury,4007,14,0,South Shore,Cape Ann,5:00 P.M.,,0
 2025-12-04,63312,FINAL,Norwell,4296,14,0,Fairhaven,4133,28,1,South Shore,South Coast,7:45 P.M.,,0
-2025-12-05,63093,UPCOMING,King Philip,4197,,,North Attleborough,4284,,,Hockomock,Hockomock,7:45 P.M.,,0
-2025-12-05,63138,UPCOMING,Shawsheen,4346,,,Foxborough,4142,,,Commonwealth,Hockomock,5:00 P.M.,,0
+2025-12-05,63093,FINAL,King Philip,4197,21,1,North Attleborough,4284,10,0,Hockomock,Hockomock,7:45 P.M.,,0
+2025-12-05,63138,FINAL,Shawsheen,4346,14,1,Foxborough,4142,7,0,Commonwealth,Hockomock,5:00 P.M.,,0
 2025-12-06,63048,UPCOMING,St. John’s Prep,4369,,,Xaverian,4446,,,Catholic Conference,Catholic Conference,6:15 P.M.,,0
 2025-12-06,63228,UPCOMING,Catholic Memorial,4080,,,Bishop Feehan,4042,,,Catholic Conference,Catholic Central,3:30 P.M.,,0
 2025-12-06,63267,UPCOMING,Scituate,4343,,,Tewksbury,4389,,,Patriot,Merrimack Valley,12:45 P.M.,,0

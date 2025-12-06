@@ -1,13 +1,11 @@
 # Football - 2025 Season
 
-Generated: 2025-12-05 11:17
+Generated: 2025-12-06 11:14
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2025-12-05 | 7:45 P.M. | King Philip | North Attleborough | 59.6% | +6.7 |
-| 2025-12-05 | 5:00 P.M. | Shawsheen | Foxborough | 76.7% | +20.7 |
 | 2025-12-06 | 6:15 P.M. | St. John’s Prep | Xaverian | 55.8% | +4.0 |
 | 2025-12-06 | 3:30 P.M. | Catholic Memorial | Bishop Feehan | 70.3% | +15.0 |
 | 2025-12-06 | 12:45 P.M. | Scituate | Tewksbury | 45.4% | -3.2 |
@@ -17,6 +15,8 @@ Generated: 2025-12-05 11:17
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2025-12-05 | King Philip | 21 | North Attleborough | 10 | +6.7 | +11.0 |
+| 2025-12-05 | Shawsheen | 14 | Foxborough | 7 | +20.7 | +7.0 |
 | 2025-12-04 | Cohasset | 22 | Amesbury | 14 | +0.2 | +8.0 |
 | 2025-12-04 | Norwell | 14 | Fairhaven | 28 | -13.8 | -14.0 |
 | 2025-12-03 | Whittier | 6 | Diman | 31 | +0.9 | -25.0 |
@@ -27,16 +27,16 @@ Generated: 2025-12-05 11:17
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Fairhaven | 1885.2 |
-| 2 | Shawsheen | 1884.9 |
-| 3 | King Philip | 1864.7 |
+| 1 | Shawsheen | 1899.5 |
+| 2 | King Philip | 1894.8 |
+| 3 | Fairhaven | 1885.2 |
 | 4 | Tewksbury | 1864.1 |
 | 5 | Xaverian | 1853.1 |
 | 6 | Catholic Memorial | 1847.6 |
-| 7 | North Attleborough | 1847.3 |
-| 8 | St. John’s Prep | 1843.4 |
-| 9 | Tabor | 1842.4 |
-| 10 | Randolph | 1841.0 |
+| 7 | St. John’s Prep | 1843.4 |
+| 8 | Tabor | 1842.4 |
+| 9 | Randolph | 1841.0 |
+| 10 | North Attleborough | 1817.2 |
 | 11 | Cohasset | 1786.4 |
 | 12 | West Boylston | 1782.7 |
 | 13 | Scituate | 1781.8 |
@@ -51,12 +51,12 @@ Generated: 2025-12-05 11:17
 | 22 | Canton | 1737.1 |
 | 23 | Lee | 1732.0 |
 | 24 | St. Mary’s | 1728.5 |
-| 25 | Foxborough | 1727.8 |
-| 26 | Clinton | 1723.5 |
-| 27 | Winchester | 1722.0 |
-| 28 | Bourne | 1720.0 |
-| 29 | Tri-County | 1716.2 |
-| 30 | Natick | 1715.9 |
+| 25 | Clinton | 1723.5 |
+| 26 | Winchester | 1722.0 |
+| 27 | Bourne | 1720.0 |
+| 28 | Tri-County | 1716.2 |
+| 29 | Natick | 1715.9 |
+| 30 | Foxborough | 1713.3 |
 | 31 | Milton Academy | 1709.0 |
 | 32 | Milton | 1701.4 |
 | 33 | Ashland | 1695.9 |
