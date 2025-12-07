@@ -1,20 +1,20 @@
 # Football - 2025 Season
 
-Generated: 2025-12-06 11:14
+Generated: 2025-12-07 11:14
 
 ## Upcoming Games
 
-| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
-|------|------|-----------|-----------|------------|------------------|
-| 2025-12-06 | 6:15 P.M. | St. John’s Prep | Xaverian | 55.8% | +4.0 |
-| 2025-12-06 | 3:30 P.M. | Catholic Memorial | Bishop Feehan | 70.3% | +15.0 |
-| 2025-12-06 | 12:45 P.M. | Scituate | Tewksbury | 45.4% | -3.2 |
-| 2025-12-06 | 10:00 A.M. | West Boylston | Randolph | 48.8% | -0.8 |
+*No upcoming games scheduled*
+
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2025-12-06 | St. John’s Prep | 35 | Xaverian | 41 | +4.0 | -6.0 |
+| 2025-12-06 | Catholic Memorial | 41 | Bishop Feehan | 14 | +15.0 | +27.0 |
+| 2025-12-06 | Scituate | 42 | Tewksbury | 41 | -3.2 | +1.0 |
+| 2025-12-06 | West Boylston | 0 | Randolph | 21 | -0.8 | -21.0 |
 | 2025-12-05 | King Philip | 21 | North Attleborough | 10 | +6.7 | +11.0 |
 | 2025-12-05 | Shawsheen | 14 | Foxborough | 7 | +20.7 | +7.0 |
 | 2025-12-04 | Cohasset | 22 | Amesbury | 14 | +0.2 | +8.0 |
@@ -29,31 +29,31 @@ Generated: 2025-12-06 11:14
 |------|------|------------|
 | 1 | Shawsheen | 1899.5 |
 | 2 | King Philip | 1894.8 |
-| 3 | Fairhaven | 1885.2 |
-| 4 | Tewksbury | 1864.1 |
-| 5 | Xaverian | 1853.1 |
-| 6 | Catholic Memorial | 1847.6 |
-| 7 | St. John’s Prep | 1843.4 |
+| 3 | Randolph | 1886.2 |
+| 4 | Xaverian | 1885.7 |
+| 5 | Fairhaven | 1885.2 |
+| 6 | Catholic Memorial | 1877.3 |
+| 7 | Tewksbury | 1852.7 |
 | 8 | Tabor | 1842.4 |
-| 9 | Randolph | 1841.0 |
-| 10 | North Attleborough | 1817.2 |
-| 11 | Cohasset | 1786.4 |
-| 12 | West Boylston | 1782.7 |
-| 13 | Scituate | 1781.8 |
-| 14 | Northbridge | 1780.6 |
-| 15 | Diman | 1772.5 |
-| 16 | Amesbury | 1768.8 |
-| 17 | Hudson | 1748.7 |
-| 18 | Bishop Feehan | 1747.7 |
-| 19 | West Springfield | 1747.1 |
-| 20 | North Reading | 1747.0 |
-| 21 | Nashoba Valley Tech | 1741.1 |
-| 22 | Canton | 1737.1 |
-| 23 | Lee | 1732.0 |
-| 24 | St. Mary’s | 1728.5 |
-| 25 | Clinton | 1723.5 |
-| 26 | Winchester | 1722.0 |
-| 27 | Bourne | 1720.0 |
+| 9 | North Attleborough | 1817.2 |
+| 10 | St. John’s Prep | 1810.8 |
+| 11 | Scituate | 1793.2 |
+| 12 | Cohasset | 1786.4 |
+| 13 | Northbridge | 1780.6 |
+| 14 | Diman | 1772.5 |
+| 15 | Amesbury | 1768.8 |
+| 16 | Hudson | 1748.7 |
+| 17 | West Springfield | 1747.1 |
+| 18 | North Reading | 1747.0 |
+| 19 | Nashoba Valley Tech | 1741.1 |
+| 20 | West Boylston | 1737.5 |
+| 21 | Canton | 1737.1 |
+| 22 | Lee | 1732.0 |
+| 23 | St. Mary’s | 1728.5 |
+| 24 | Clinton | 1723.5 |
+| 25 | Winchester | 1722.0 |
+| 26 | Bourne | 1720.0 |
+| 27 | Bishop Feehan | 1718.0 |
 | 28 | Tri-County | 1716.2 |
 | 29 | Natick | 1715.9 |
 | 30 | Foxborough | 1713.3 |

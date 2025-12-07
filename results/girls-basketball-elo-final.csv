@@ -1,117 +1,231 @@
 team,elo
-Middlesex,1608.2439448676482
-Mount St. Charles (R.I.),1547.532965835074
-Lawrence Academy,1545.2437178580412
-Phillips Exeter,1543.9732186742879
-Cushing,1541.1092612343652
-Pingree,1535.6446958321194
-Mystic Valley,1534.8149817324584
-Rivers,1528.2477531217605
-Cambridge,1500.0
-Chelsea,1500.0
-Framingham,1500.0
-Westborough,1500.0
-Bridgewater-Raynham,1500.0
-Stoneham,1500.0
-Danvers,1500.0
-Abington,1500.0
-Milton,1500.0
-Codman Charter,1500.0
-Stoughton,1500.0
-Concord-Carlisle,1500.0
-North Attleborough,1500.0
-Revere,1500.0
-Holliston,1500.0
-Archbishop Williams,1500.0
-Muniz,1500.0
-Burlington,1500.0
-Newton North,1500.0
-South Shore Charter,1500.0
-Weymouth,1500.0
-Winchester,1500.0
-Arlington,1500.0
-Wellesley,1500.0
-Boston Prep,1500.0
-Wachusett,1500.0
-Durfee,1500.0
-Blackstone Valley,1500.0
-Excel Academy,1500.0
-Natick,1500.0
-Saugus,1500.0
-Milford,1500.0
-Cristo Rey,1500.0
-Lexington,1500.0
-Fontbonne,1500.0
-Braintree,1500.0
-Apponequet,1500.0
-King Philip,1500.0
-Bellingham,1500.0
-Needham,1500.0
-Malden Catholic,1500.0
-Brookline,1500.0
-Waltham,1500.0
-Swampscott,1500.0
-Attleboro,1500.0
-Taunton,1500.0
-Norwood,1500.0
-Notre Dame (Hingham),1500.0
-Medfield,1500.0
-Northbridge,1500.0
-Ashland,1500.0
-Norton,1500.0
-Mansfield,1500.0
-Dedham,1500.0
-Winthrop,1500.0
-Walpole,1500.0
-Foxborough,1500.0
-Argosy Collegiate,1500.0
-Beverly,1500.0
-Reading,1500.0
-Everett,1500.0
-Gloucester,1500.0
-Lynn English,1500.0
-Belmont,1500.0
-Franklin,1500.0
-Masconomet,1500.0
-Westwood,1500.0
-Medway,1500.0
-Salem,1500.0
-Greater Lawrence,1500.0
-Sharon,1500.0
-Dracut,1500.0
-Hopkinton,1500.0
-Prospect Hill,1500.0
-Pacific Rim Charter,1500.0
-Somerville,1500.0
-Canton,1500.0
-Peabody,1500.0
-Oliver Ames,1500.0
-Brockton,1500.0
-Malden,1500.0
-Dover-Sherborn,1500.0
-Wilmington,1500.0
-Bishop Feehan,1500.0
-Medford,1500.0
-Hopedale,1500.0
-Lowell Catholic,1500.0
-Central Catholic,1500.0
-Southeastern,1500.0
-Melrose,1500.0
-Marblehead,1500.0
-Boston Collegiate,1500.0
-Millis,1500.0
-Wakefield,1500.0
-Lynn Classical,1500.0
-Woburn,1500.0
-Watertown,1500.0
-Collegiate Charter,1500.0
-Concord Academy,1486.1360983084262
-Governor’s Academy,1480.6537193891718
-Groton,1471.7522468782395
-Lynn Tech,1465.1850182675416
-Dana Hall,1464.3553041678806
-Holderness,1458.8907387656348
-Portsmouth Abbey,1458.6177896568438
-Brooks,1454.7562821419588
-Austin Prep,1452.467034164926
-Winsor,1422.3752291036221
+Middlesex,1594.969194540268
+Pingree,1551.766377928287
+Concord Academy,1548.3155110075768
+Mount St. Charles (R.I.),1533.4970871094997
+Phillips Exeter,1531.1120565117728
+Tilton,1529.242032201445
+Cushing,1529.1932050270248
+Brewster Academy,1527.0051253855563
+Mystic Valley,1524.9760377607472
+Holderness,1521.1147633726384
+Rivers,1520.5759945915795
+Lawrence Academy,1506.6081655793314
+Amesbury,1501.65
+Ashland,1501.65
+St. Mary (Westfield),1501.65
+Arlington Catholic,1501.65
+Melrose,1501.65
+New Mission,1501.65
+Oakmont,1501.65
+Bedford,1501.65
+Holbrook,1501.65
+Newton South,1501.65
+Fenway,1501.65
+Cape Cod Academy,1501.65
+Lawrence,1501.65
+Dartmouth,1501.65
+Lynn Classical,1501.65
+Diman,1501.65
+Notre Dame Cristo Rey,1501.65
+Old Colony,1501.65
+Franklin,1501.65
+Greater New Bedford,1501.65
+Newburyport,1501.65
+Hamilton-Wenham,1501.65
+Atlantis Charter,1501.65
+Norfolk Aggie,1501.65
+MATCH Charter,1501.65
+Randolph,1501.65
+North Andover,1501.65
+CASH,1501.65
+Winthrop,1501.65
+Revere,1501.65
+Georgetown,1501.65
+Brighton,1501.65
+Medford,1501.65
+Rising Tide Charter,1501.65
+Fontbonne,1501.65
+Lynn English,1501.65
+Boston Collegiate,1501.65
+Everett,1501.65
+Pope Francis,1501.65
+Methuen,1501.65
+Bishop Fenwick,1501.65
+Medway,1501.65
+Hopedale,1501.65
+Northeast,1501.65
+Pentucket,1501.65
+Boston Latin,1501.65
+Southeastern,1501.65
+Hampden Charter East,1501.65
+Peabody,1501.65
+Millis,1501.65
+Tri-County,1501.65
+Hopkinton,1501.65
+Prospect Hill,1501.65
+Chelmsford,1501.65
+Medfield,1501.65
+Wellesley,1501.65
+Cape Cod Tech,1501.65
+Whittier,1501.65
+Bellingham,1501.65
+Charlestown,1501.65
+Ipswich,1501.65
+Norton,1501.65
+Winchester,1501.65
+Notre Dame (Tyngsborough),1501.65
+Bridgewater-Raynham,1501.65
+Norwood,1501.65
+Wilmington,1501.65
+McCann Tech,1501.65
+Foxborough Charter,1501.65
+Brooke Charter,1501.65
+Brockton,1501.65
+Arlington,1501.65
+Parker Charter,1501.65
+Shawsheen,1501.65
+Ruth Batson Academy,1501.65
+Lowell,1501.65
+Old Rochester,1501.65
+Walpole,1501.65
+Oliver Ames,1501.65
+Hudson,1501.65
+Haverhill,1501.65
+Holliston,1501.65
+Snowden,1501.65
+King Philip,1501.65
+Muniz,1501.65
+New Heights Charter,1501.65
+Billerica,1501.65
+East Boston,1501.65
+Attleboro,1501.65
+Boston United,1501.65
+Pacific Rim Charter,1501.65
+Lowell Catholic,1501.65
+Madison Park,1501.65
+Lincoln-Sudbury,1501.65
+Argosy Collegiate,1501.65
+Milford,1501.65
+Tewksbury,1501.65
+O’Bryant,1501.65
+Durfee,1501.65
+Minuteman,1501.65
+Reading,1501.65
+Innovation Academy,1501.65
+Salem,1501.65
+Hull,1501.65
+Stoughton,1501.65
+Fairhaven,1501.65
+Braintree,1501.65
+Wachusett,1501.65
+Newton North,1501.65
+Dedham,1501.65
+South Shore Charter,1501.65
+Westford,1501.65
+Woburn,1501.65
+Beverly,1501.65
+Essex Tech,1501.65
+Cardinal Spellman,1501.65
+Abington,1501.65
+Bristol Aggie,1501.65
+Weymouth,1501.65
+Cristo Rey,1501.65
+Rockport,1501.65
+Chelsea,1501.65
+Weston,1501.65
+Excel Academy,1501.65
+Swampscott,1501.65
+Gloucester,1501.65
+Cambridge,1501.65
+Brookline,1501.65
+Barnstable,1501.65
+Greater Lowell,1501.65
+Salem Academy,1501.65
+Ursuline,1501.65
+Stoneham,1501.65
+Maimonides,1501.65
+Lynnfield,1501.65
+Andover,1501.65
+Sharon,1501.65
+Westborough,1501.65
+Apponequet,1501.65
+Blackstone Valley,1501.65
+Boston Prep,1501.65
+TechBoston/Henderson Inclusion School,1501.65
+Tyngsborough,1501.65
+North Attleborough,1501.65
+Carver,1501.65
+Central Catholic,1501.65
+Manchester Essex,1501.65
+Lexington,1501.65
+Calvary Chapel,1501.65
+West Bridgewater,1501.65
+Shrewsbury,1501.65
+Saugus,1501.65
+Danvers,1501.65
+Concord-Carlisle,1501.65
+Foxborough,1501.65
+Somerville,1501.65
+Collegiate Charter,1501.65
+Canton,1501.65
+Mansfield,1501.65
+Needham,1501.65
+Wareham,1501.65
+Nashoba Valley Tech,1501.65
+South Shore Voc-Tech,1501.65
+Roxbury Prep,1501.65
+Malden Catholic,1501.65
+Pioneer Charter II,1501.65
+Burlington,1501.65
+Wayland,1501.65
+Taunton,1501.65
+Notre Dame (Hingham),1501.65
+Greater Lawrence,1501.65
+Bristol-Plymouth,1501.65
+Dover-Sherborn,1501.65
+Pioneer Charter I,1501.65
+Westport,1501.65
+Natick,1501.65
+Bishop Stang,1501.65
+Belmont,1501.65
+La Salle (R.I.),1501.65
+Upper Cape,1501.65
+Northbridge,1501.65
+Acton-Boxborough,1501.65
+Framingham,1501.65
+Dighton-Rehoboth,1501.65
+Neighborhood House Charter,1501.65
+Wakefield,1501.65
+Community Charter,1501.65
+Milton,1501.65
+New Bedford,1501.65
+North Reading,1501.65
+St. Mary’s,1501.65
+Blue Hills,1501.65
+Watertown,1501.65
+Rockland,1501.65
+Sturgis East,1501.65
+Masconomet,1501.65
+Nauset,1501.65
+Waltham,1501.65
+Avon,1501.65
+Marblehead,1501.65
+Westwood,1501.65
+Archbishop Williams,1501.65
+Kennedy Academy,1501.65
+Triton,1501.65
+Codman Charter,1501.65
+Dracut,1501.65
+Malden,1501.65
+Bishop Feehan,1501.65
+Governor’s Academy,1488.687991990745
+Lynn Tech,1478.323962239253
+Dana Hall,1477.76805379248
+Nobles,1474.0579677985552
+Brooks,1471.3367090351123
+Austin Prep,1469.8029128905005
+Deerfield,1463.3817665024696
+Winsor,1449.6414034994268
+Groton,1435.7160370087572
+Portsmouth Abbey,1409.2076442269738

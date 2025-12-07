@@ -1,0 +1,7 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
+2025-12-06,67108,FINAL,Phillips Exeter,4311,23,0,Roxbury Latin,4334,52,1,Independent,ISL,3:30 P.M.,,0
+2025-12-06,67110,FINAL,Hyde,4186,14,0,Roxbury Latin,4334,59,1,Independent,ISL,3:30 P.M.,,0
+2025-12-06,67111,FINAL,Lexington Christian,4210,6,0,Roxbury Latin,4334,68,1,EIL,ISL,3:30 P.M.,,0
+2025-12-06,67126,FINAL,Eagle Hill,4733,69,1,Nobles,4282,12,0,Independent,ISL,3:00 P.M.,,0
+2025-12-06,67129,FINAL,Landmark,4200,18,0,Nobles,4282,53,1,EIL,ISL,3:00 P.M.,,0
+2025-12-06,67138,FINAL,Greens Farms,4158,34,1,Nobles,4282,27,0,Independent,ISL,3:00 P.M.,,0

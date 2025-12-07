@@ -1,5 +1,11 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
 2025-12-03,65411,FINAL,Dexter Southfield,4113,4,1,Cushing,4101,1,0,Independent,Independent,5:30 P.M.,,0
+2025-12-03,66694,FINAL,Holderness,4173,6,1,Proctor,4321,3,0,Independent,Independent,4:00 P.M.,,0
+2025-12-03,66708,FINAL,Austin Prep,4020,6,1,Kents Hill,4194,2,0,Independent,Independent,2:30 P.M.,,0
+2025-12-05,66693,FINAL,Hebron (Maine),4168,0,0,Holderness,4173,4,1,Independent,Independent,5:00 P.M.,,0
+2025-12-05,66710,FINAL,Austin Prep,4020,8,1,Academie Saint-Louis (Que.),5066,2,0,Independent,Independent,2:45 P.M.,,0
+2025-12-06,66713,FINAL,Hoosac School,4688,3,0,Austin Prep,4020,5,1,Independent,Independent,2:00 P.M.,,0
+2025-12-06,67208,FINAL,Lawrence Academy,4204,3,0,Choate,4090,5,1,ISL,Founders,,,0
 2025-12-11,65408,UPCOMING,Martha’s Vineyard,4235,,,Monomoy/Mashpee,4237,,,Cape & Islands,Cape & Islands,4:20 P.M.,,0
 2025-12-11,65409,UPCOMING,Norwood,4297,,,Holliston/Ashland,4174,,,Tri-Valley,Tri-Valley,4:30 P.M.,,0
 2025-12-11,65412,UPCOMING,Auburn,4019,,,Mansfield,4230,,,Independent,Hockomock,6:00 P.M.,,0
@@ -86,3 +92,5 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-15,65777,UPCOMING,Leominster,4208,,,Gardner,4147,,,Roy,Coughlin,6:30 P.M.,,0
 2025-12-15,65778,UPCOMING,Lowell,4216,,,Worcester,4066,,,Merrimack Valley/Dual County,Russell,7:30 P.M.,,0
 2025-12-15,65780,UPCOMING,Holliston/Ashland,4174,,,Bellingham,4033,,,Tri-Valley,Tri-Valley,8:30 P.M.,,0
+2025-12-17,64978,UPCOMING,St. John’s Prep,4369,,,Hingham,4171,,,Catholic Conference,Independent,6:40 P.M.,,0
+2025-12-17,65041,UPCOMING,Walpole,4404,,,Milton,4252,,,Bay State,Bay State,8:00 P.M.,,0
