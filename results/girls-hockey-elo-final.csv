@@ -1,6 +1,7 @@
 team,elo
 Nobles,1526.8882194128785
 Middlesex,1526.6668280723868
+Hoosac School,1522.771058220928
 Berwick,1514.3028734342154
 Groton,1514.2691097064392
 Williston Northampton,1513.59097310376
@@ -10,93 +11,93 @@ Holderness,1512.1654556678786
 Choate,1511.4651420578907
 Loomis Chaffee (Conn.),1509.6117717773748
 Worcester Academy,1507.62048655188
-Medway/Ashland,1501.65
-Sandwich,1501.65
-Beverly/Danvers,1501.65
-King Philip,1501.65
-Medford,1501.65
-Hanover,1501.65
-Wayland/Weston,1501.65
-Winthrop,1501.65
-Wellesley,1501.65
-Shawsheen/Bedford/Lowell,1501.65
-Whitman-Hanson/Silver Lake,1501.65
-Boston Latin,1501.65
-Peabody,1501.65
-Algonquin,1501.65
-Bishop Fenwick,1501.65
-Pope Francis,1501.65
-Reading,1501.65
-Medfield,1501.65
-Norwood,1501.65
-Winchester,1501.65
-Arlington,1501.65
-Walpole,1501.65
-Mansfield/OA/Foxboro,1501.65
-Newton North/South,1501.65
-Weymouth,1501.65
-Arlington Catholic,1501.65
-Nantucket,1501.65
-Melrose,1501.65
-East/West Bridgewater,1501.65
-Newburyport,1501.65
-Franklin,1501.65
-Methuen/Tewksbury,1501.65
-St. Mary’s,1501.65
-Archbishop Williams,1501.65
-Billerica/Chelmsford,1501.65
-Pembroke,1501.65
-Nauset/Monomoy,1501.65
-Concord-Carlisle,1501.65
-Stoughton,1501.65
-Westford,1501.65
-Shrewsbury,1501.65
-Braintree,1501.65
-Acton-Boxborough/Bromfield,1501.65
-Martha’s Vineyard,1501.65
-Gloucester,1501.65
-Quincy/North Quincy,1501.65
-Marshfield,1501.65
-Dedham,1501.65
-Barnstable,1501.65
-Brookline,1501.65
-Auburn,1501.65
-Ursuline,1501.65
-Central Catholic,1501.65
-Plymouth,1501.65
-Lexington,1501.65
-Andover,1501.65
-HPNA,1501.65
-Hingham,1501.65
-Stoneham/Wilmington,1501.65
-Notre Dame (Hingham),1501.65
-Norwell,1501.65
-Cambridge,1501.65
-Woburn,1501.65
-Duxbury,1501.65
-Grafton,1501.65
 Longmeadow,1501.65
-Milton,1501.65
-Masconomet,1501.65
-Burlington,1501.65
-Leominster,1501.65
-Malden Catholic,1501.65
-Wakefield,1501.65
-Natick,1501.65
-Bishop Stang,1501.65
-Framingham,1501.65
-La Salle (R.I.),1501.65
-Needham,1501.65
-Canton,1501.65
-Belmont,1501.65
 Falmouth,1501.65
-Dennis-Yarmouth,1501.65
+Stoughton,1501.65
+Whitman-Hanson/Silver Lake,1501.65
+La Salle (R.I.),1501.65
+Martha’s Vineyard,1501.65
+HPNA,1501.65
+Hanover,1501.65
+Dedham,1501.65
+Braintree,1501.65
+Duxbury,1501.65
+King Philip,1501.65
+Algonquin,1501.65
+Archbishop Williams,1501.65
+Belmont,1501.65
+Canton,1501.65
+Franklin,1501.65
+Plymouth,1501.65
+Grafton,1501.65
+Malden Catholic,1501.65
+Reading,1501.65
+Brookline,1501.65
+Gloucester,1501.65
+Concord-Carlisle,1501.65
+Milton,1501.65
+Wayland/Weston,1501.65
+Norwell,1501.65
+Newburyport,1501.65
+Notre Dame (Hingham),1501.65
+Walpole,1501.65
+Stoneham/Wilmington,1501.65
+Billerica/Chelmsford,1501.65
+Natick,1501.65
+Boston Latin,1501.65
+Winthrop,1501.65
+Arlington,1501.65
+Pope Francis,1501.65
+Bishop Stang,1501.65
+Winchester,1501.65
 Latin Academy/Fontbonne,1501.65
+Andover,1501.65
 Bishop Feehan,1501.65
-Hopkinton/Dover-Sherborn,1501.65
-Marblehead,1501.65
-Westwood,1501.65
+Ursuline,1501.65
+Melrose,1501.65
+Cambridge,1501.65
 Waltham,1501.65
+Woburn,1501.65
+Shawsheen/Bedford/Lowell,1501.65
+Masconomet,1501.65
+East/West Bridgewater,1501.65
+Leominster,1501.65
+Burlington,1501.65
+Marshfield,1501.65
+Nauset/Monomoy,1501.65
+Nantucket,1501.65
+Wakefield,1501.65
+Arlington Catholic,1501.65
+Sandwich,1501.65
+Newton North/South,1501.65
+Lexington,1501.65
+Methuen/Tewksbury,1501.65
+Framingham,1501.65
+Central Catholic,1501.65
+Pembroke,1501.65
+Dennis-Yarmouth,1501.65
+Medford,1501.65
+Norwood,1501.65
+Auburn,1501.65
+Beverly/Danvers,1501.65
+Weymouth,1501.65
+Mansfield/OA/Foxboro,1501.65
+Bishop Fenwick,1501.65
+St. Mary’s,1501.65
+Medfield,1501.65
+Wellesley,1501.65
+Westford,1501.65
+Barnstable,1501.65
+Hingham,1501.65
+Quincy/North Quincy,1501.65
+Marblehead,1501.65
+Medway/Ashland,1501.65
+Hopkinton/Dover-Sherborn,1501.65
+Needham,1501.65
+Peabody,1501.65
+Acton-Boxborough/Bromfield,1501.65
+Shrewsbury,1501.65
+Westwood,1501.65
 Lawrence Academy,1497.529697194297
 Brewster Academy,1496.4239609217034
 St. Paul’s,1495.9551607478124
@@ -105,4 +106,4 @@ Hebron (Maine),1492.089288407114
 Cushing,1489.70902689624
 St. Mark’s,1476.4117805871215
 Tilton,1471.5972306777342
-Pingree,1457.1080360762876
+Pingree,1435.9869778553598

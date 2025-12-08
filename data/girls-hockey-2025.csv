@@ -6,6 +6,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-06,67095,FINAL,Austin Prep,4020,4,1,Tilton,4391,1,0,Independent,Independent,4:10 P.M.,,0
 2025-12-06,67201,FINAL,Hebron (Maine),4168,2,1,Pingree,4312,1,0,Independent,EIL,,,0
 2025-12-06,67207,FINAL,Choate,4090,4,1,Lawrence Academy,4204,1,0,Founders,ISL,,,0
+2025-12-07,67472,FINAL,Pingree,4312,1,0,Hoosac School,4688,4,1,EIL,Independent,,,0
 2025-12-10,65046,UPCOMING,Waltham,4405,,,Milton,4252,,,Merrimack Valley/Dual County,Bay State,5:00 P.M.,,0
 2025-12-11,65052,UPCOMING,Hanover,4164,,,Latin Academy/Fontbonne,4202,,,Patriot,Independent,4:00 P.M.,,0
 2025-12-11,65054,UPCOMING,Framingham,4143,,,Wayland/Weston,4411,,,Bay State,Merrimack Valley/Dual County,4:50 P.M.,,0
@@ -86,3 +87,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-17,65270,UPCOMING,Whitman-Hanson/Silver Lake,4427,,,Hingham,4171,,,Patriot,Patriot,7:50 P.M.,,0
 2025-12-17,65272,UPCOMING,Dennis-Yarmouth,4111,,,Nauset/Monomoy,4271,,,Cape & Islands,Cape & Islands,8:00 P.M.,,0
 2025-12-17,65273,UPCOMING,Franklin,4144,,,King Philip,4197,,,Hockomock,Hockomock,8:00 P.M.,,0
+2025-12-18,65274,UPCOMING,Westford,4421,,,Waltham,4405,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,5:45 P.M.,,0
+2025-12-18,65277,UPCOMING,Quincy/North Quincy,4287,,,Marshfield,4234,,,Patriot,Patriot,6:00 P.M.,,0
+2025-12-18,65279,UPCOMING,Wayland/Weston,4411,,,Concord-Carlisle,4097,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,8:00 P.M.,,0

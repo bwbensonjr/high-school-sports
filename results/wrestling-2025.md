@@ -1,6 +1,6 @@
 # Wrestling - 2025 Season
 
-Generated: 2025-12-07 11:14
+Generated: 2025-12-08 11:17
 
 ## Upcoming Games
 
@@ -17,6 +17,8 @@ Generated: 2025-12-07 11:14
 | 2025-12-06 | Eagle Hill | 69 | Nobles | 12 | +2.0 | +57.0 |
 | 2025-12-06 | Landmark | 18 | Nobles | 53 | +4.1 | -35.0 |
 | 2025-12-06 | Greens Farms | 34 | Nobles | 27 | +1.3 | +7.0 |
+| 2025-12-06 | Brooks | 28 | St. Mark’s | 54 | +3.6 | -26.0 |
+| 2025-12-06 | Brooks | 30 | Deerfield | 24 | +1.4 | +6.0 |
 
 ## Current Elo Ratings
 
@@ -24,14 +26,14 @@ Generated: 2025-12-07 11:14
 |------|------|------------|
 | 1 | Roxbury Latin | 1727.9 |
 | 2 | Eagle Hill | 1553.9 |
-| 3 | Greens Farms | 1529.9 |
-| 4 | Brooks | 1519.4 |
-| 5 | Wilmington | 1501.7 |
-| 6 | North Reading | 1501.7 |
+| 3 | St. Mark’s | 1540.9 |
+| 4 | Greens Farms | 1529.9 |
+| 5 | North Reading | 1501.7 |
+| 6 | Wilmington | 1501.7 |
 | 7 | Nobles | 1490.3 |
-| 8 | St. Mark’s | 1478.9 |
-| 9 | Deerfield | 1471.3 |
-| 10 | Lexington Christian | 1462.9 |
+| 8 | Brooks | 1483.5 |
+| 9 | Lexington Christian | 1462.9 |
+| 10 | Deerfield | 1445.1 |
 | 11 | Phillips Exeter | 1440.4 |
 | 12 | Landmark | 1432.5 |
 | 13 | Hyde | 1410.8 |

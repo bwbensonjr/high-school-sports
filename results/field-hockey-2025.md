@@ -1,6 +1,6 @@
 # Field Hockey - 2025 Season
 
-Generated: 2025-12-07 11:14
+Generated: 2025-12-08 11:17
 
 ## Upcoming Games
 
@@ -141,11 +141,11 @@ Generated: 2025-12-07 11:14
 | 123 | Lawrence | 1503.2 |
 | 124 | Groton-Dunstable | 1502.6 |
 | 125 | Franklin County Tech | 1502.3 |
-| 126 | Kingswood-Oxford | 1501.7 |
-| 127 | St. Luke’s | 1501.7 |
+| 126 | Hamden Hall Country Day | 1501.7 |
+| 127 | Kingswood-Oxford | 1501.7 |
 | 128 | Kent | 1501.7 |
-| 129 | Hamden Hall Country Day | 1501.7 |
-| 130 | Hopkins (Conn.) | 1501.7 |
+| 129 | Hopkins (Conn.) | 1501.7 |
+| 130 | St. Luke’s | 1501.7 |
 | 131 | Milton Academy | 1500.8 |
 | 132 | Monty Tech | 1499.6 |
 | 133 | Oliver Ames | 1498.2 |

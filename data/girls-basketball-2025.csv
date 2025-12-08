@@ -11,6 +11,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-06,67107,FINAL,Pingree,4312,38,1,Portsmouth Abbey,4320,22,0,EIL,EIL,3:30 P.M.,,0
 2025-12-06,67206,FINAL,Brewster Academy,4052,50,1,Lawrence Academy,4204,45,0,Independent,ISL,,,0
 2025-12-06,67293,UPCOMING,Muniz,5018,,,Charlestown,4084,,,Boston City,Boston City,5:00 P.M.,,0
+2025-12-07,67475,FINAL,Tabor,4384,73,1,St. George’s,4367,51,0,ISL,ISL,,,0
+2025-12-07,67482,FINAL,Greenwich CD (Conn.),5041,37,0,Lawrence Academy,4204,46,1,Independent,ISL,,,0
 2025-12-08,65868,UPCOMING,Abington,4002,,,Weymouth,4425,,,South Shore,Bay State,5:15 P.M.,,0
 2025-12-08,66224,UPCOMING,Mystic Valley,4264,,,Chelsea,4086,,,Commonwealth,Greater Boston,4:30 P.M.,,0
 2025-12-08,66625,UPCOMING,Mansfield,4230,,,Norton,4295,,,Hockomock,Tri-Valley,3:15 P.M.,,0
@@ -209,3 +211,33 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-17,67429,UPCOMING,Blue Hills,4047,,,West Bridgewater,4415,,,Mayflower,South Coast,5:00 P.M.,,0
 2025-12-17,67433,UPCOMING,Bristol-Plymouth,4057,,,Norfolk Aggie,4458,,,Mayflower,Mayflower,5:00 P.M.,,0
 2025-12-17,67458,UPCOMING,Bristol Aggie,4463,,,Rising Tide Charter,4746,,,Mayflower,Cape & Islands,5:00 P.M.,,0
+2025-12-18,65657,UPCOMING,Wellesley,4413,,,Brookline,4059,,,Bay State,Bay State,6:30 P.M.,,0
+2025-12-18,65823,UPCOMING,Framingham,4143,,,Walpole,4404,,,Bay State,Bay State,6:30 P.M.,,0
+2025-12-18,65827,UPCOMING,Newton North,4279,,,Natick,4270,,,Bay State,Bay State,6:30 P.M.,,0
+2025-12-18,65846,UPCOMING,Braintree,4051,,,Needham,4272,,,Bay State,Bay State,6:30 P.M.,,0
+2025-12-18,65861,UPCOMING,Weymouth,4425,,,Milton,4252,,,Bay State,Bay State,6:30 P.M.,,0
+2025-12-18,65878,UPCOMING,Saugus,4341,,,Marblehead,4231,,,Northeastern,Northeastern,6:00 P.M.,,0
+2025-12-18,66202,UPCOMING,Manchester Essex,4229,,,Danvers,4103,,,Cape Ann,Northeastern,6:30 P.M.,,0
+2025-12-18,66229,UPCOMING,Everett,4132,,,Chelsea,4086,,,Greater Boston,Greater Boston,6:00 P.M.,,0
+2025-12-18,66234,UPCOMING,Lynn Classical,4220,,,Medford,4242,,,Greater Boston,Greater Boston,6:00 P.M.,,0
+2025-12-18,66239,UPCOMING,Revere,4329,,,Lynn English,4221,,,Greater Boston,Greater Boston,6:00 P.M.,,0
+2025-12-18,66242,UPCOMING,Malden,4227,,,Somerville,4351,,,Greater Boston,Greater Boston,6:00 P.M.,,0
+2025-12-18,66552,UPCOMING,Medway,4243,,,Bellingham,4033,,,Tri-Valley,Tri-Valley,5:30 P.M.,,0
+2025-12-18,66660,UPCOMING,Pacific Rim Charter,4478,,,Argosy Collegiate,5032,,,Charter School Athletic,Charter School Athletic,5:00 P.M.,,0
+2025-12-18,66676,UPCOMING,Prospect Hill,4593,,,Boston Prep,4655,,,Charter School Athletic,Charter School Athletic,6:00 P.M.,,0
+2025-12-18,67004,UPCOMING,Lowell,4216,,,Methuen,4246,,,Merrimack Valley,Merrimack Valley,6:30 P.M.,,0
+2025-12-18,67116,UPCOMING,Salem Academy,4604,,,Excel Academy,4969,,,Charter School Athletic,Charter School Athletic,4:30 P.M.,,0
+2025-12-18,67121,UPCOMING,Foxborough Charter,4588,,,Brooke Charter,5071,,,Charter School Athletic,Charter School Athletic,4:00 P.M.,,0
+2025-12-18,67140,UPCOMING,Mohawk Trail,4258,,,Hampden Charter East,4712,,,Independent,Charter School Athletic,6:30 P.M.,,0
+2025-12-18,67169,UPCOMING,Pioneer Charter II,4964,,,Pioneer Charter I,4701,,,Charter School Athletic,Charter School Athletic,4:15 P.M.,,0
+2025-12-18,67184,UPCOMING,Roxbury Prep,4847,,,Weston,4423,,,Charter School Athletic,Dual County,4:30 P.M.,,0
+2025-12-18,67277,UPCOMING,Cathedral,4079,,,Leominster,4208,,,Catholic Central,Mid-Wach,6:30 P.M.,,0
+2025-12-18,67299,UPCOMING,Latin Academy,4202,,,Brighton,4055,,,Boston City,Boston City,4:00 P.M.,,0
+2025-12-18,67327,UPCOMING,Kennedy Academy,4590,,,CASH,4187,,,Boston City,Boston City,6:00 P.M.,,0
+2025-12-18,67336,UPCOMING,Muniz,5018,,,Charlestown,4084,,,Boston City,Boston City,5:00 P.M.,,0
+2025-12-18,67346,UPCOMING,Whittier,4428,,,Hamilton-Wenham,4163,,,Commonwealth,Cape Ann,5:30 P.M.,,0
+2025-12-18,67376,UPCOMING,Stoughton,4381,,,Brockton,4058,,,Hockomock,Big Three,6:30 P.M.,,0
+2025-12-18,67383,UPCOMING,Silver Lake,4349,,,Durfee,4122,,,Patriot,Big Three,6:30 P.M.,,0
+2025-12-18,67439,UPCOMING,Old Colony,4300,,,Diman,4115,,,Mayflower,Mayflower,5:00 P.M.,,0
+2025-12-18,67443,UPCOMING,Southeastern,4358,,,Dighton-Rehoboth,4114,,,Mayflower,South Coast,5:00 P.M.,,0
+2025-12-18,67445,UPCOMING,Lynn Tech,4222,,,Notre Dame (Tyngsborough),4540,,,Commonwealth,Commonwealth,6:00 P.M.,,0
