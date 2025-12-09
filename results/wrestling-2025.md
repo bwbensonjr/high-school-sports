@@ -1,6 +1,6 @@
 # Wrestling - 2025 Season
 
-Generated: 2025-12-08 11:17
+Generated: 2025-12-09 11:17
 
 ## Upcoming Games
 
@@ -28,8 +28,8 @@ Generated: 2025-12-08 11:17
 | 2 | Eagle Hill | 1553.9 |
 | 3 | St. Mark’s | 1540.9 |
 | 4 | Greens Farms | 1529.9 |
-| 5 | North Reading | 1501.7 |
-| 6 | Wilmington | 1501.7 |
+| 5 | Wilmington | 1501.7 |
+| 6 | North Reading | 1501.7 |
 | 7 | Nobles | 1490.3 |
 | 8 | Brooks | 1483.5 |
 | 9 | Lexington Christian | 1462.9 |
