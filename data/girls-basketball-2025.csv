@@ -44,6 +44,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-11,67226,UPCOMING,Rockland,4331,,,Calvary Chapel,4828,,,South Shore,Independent,4:00 P.M.,,0
 2025-12-11,67237,UPCOMING,King Philip,4197,,,Fontbonne,4447,,,Hockomock,Catholic Conference,6:00 P.M.,,0
 2025-12-11,67448,UPCOMING,Old Colony,4300,,,Tri-County,4392,,,Mayflower,Mayflower,5:00 P.M.,,0
+2025-12-11,68453,UPCOMING,Bourne,4050,,,Carver,4077,,,South Coast,South Shore,5:30 P.M.,,0
 2025-12-12,65645,UPCOMING,Natick,4270,,,Brookline,4059,,,Bay State,Bay State,6:30 P.M.,,0
 2025-12-12,65783,UPCOMING,Framingham,4143,,,Newton North,4279,,,Bay State,Bay State,6:30 P.M.,,0
 2025-12-12,65841,UPCOMING,Wellesley,4413,,,Milton,4252,,,Bay State,Bay State,6:30 P.M.,,0
@@ -99,6 +100,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-12,67437,UPCOMING,Innovation Academy,4690,,,Parker Charter,4483,,,Commonwealth,Independent,4:00 P.M.,,0
 2025-12-12,67450,UPCOMING,Tri-County,4392,,,South Shore Voc-Tech,4356,,,Mayflower,Mayflower,5:00 P.M.,,0
 2025-12-12,67462,UPCOMING,Cape Cod Academy,4072,,,Cape Cod Tech,4073,,,Cape & Islands,Mayflower,5:00 P.M.,,0
+2025-12-12,68400,UPCOMING,Barnstable,4024,,,Bourne,4050,,,Southeast,South Coast,5:00 P.M.,,0
+2025-12-12,68469,UPCOMING,Southeastern,4358,,,Seekonk,4344,,,Mayflower,South Coast,5:00 P.M.,,0
 2025-12-13,66209,UPCOMING,Saugus,4341,,,Southeastern,4358,,,Northeastern,Mayflower,2:20 P.M.,,0
 2025-12-13,66246,UPCOMING,Concord-Carlisle,4097,,,Medford,4242,,,Dual County,Greater Boston,1:00 P.M.,,0
 2025-12-13,66529,UPCOMING,Bridgewater-Raynham,4053,,,Westwood,4424,,,Southeast,Tri-Valley,1:00 P.M.,,0
@@ -129,6 +132,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-15,67427,UPCOMING,Blue Hills,4047,,,Upper Cape,4457,,,Mayflower,Mayflower,5:00 P.M.,,0
 2025-12-15,67453,UPCOMING,Minuteman,4255,,,Weston,4423,,,Commonwealth,Dual County,5:30 P.M.,,0
 2025-12-15,67469,UPCOMING,South Shore Voc-Tech,4356,,,Rising Tide Charter,4746,,,Mayflower,Cape & Islands,5:00 P.M.,,0
+2025-12-15,68456,UPCOMING,Bourne,4050,,,East Bridgewater,4126,,,South Coast,South Shore,6:30 P.M.,,0
 2025-12-16,65649,UPCOMING,Brookline,4059,,,Needham,4272,,,Bay State,Bay State,4:30 P.M.,,0
 2025-12-16,65786,UPCOMING,Natick,4270,,,Framingham,4143,,,Bay State,Bay State,6:30 P.M.,,0
 2025-12-16,65837,UPCOMING,Newton North,4279,,,Wellesley,4413,,,Bay State,Bay State,6:30 P.M.,,0
@@ -191,6 +195,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-16,67381,UPCOMING,Dartmouth,4105,,,Durfee,4122,,,Southeast,Big Three,6:30 P.M.,,0
 2025-12-16,67388,UPCOMING,Barnstable,4024,,,New Bedford,4273,,,Southeast,Big Three,6:30 P.M.,,0
 2025-12-16,67454,UPCOMING,Tri-County,4392,,,Norfolk Aggie,4458,,,Mayflower,Mayflower,5:00 P.M.,,0
+2025-12-16,68419,UPCOMING,Old Rochester,4301,,,Apponequet,4011,,,South Coast,South Coast,6:30 P.M.,,0
+2025-12-16,68427,UPCOMING,Dighton-Rehoboth,4114,,,Joseph Case,4078,,,South Coast,South Coast,5:00 P.M.,,0
+2025-12-16,68436,UPCOMING,Greater New Bedford,4156,,,Somerset Berkley,4350,,,South Coast,South Coast,6:30 P.M.,,0
+2025-12-16,68444,UPCOMING,Seekonk,4344,,,West Bridgewater,4415,,,South Coast,South Coast,6:30 P.M.,,0
 2025-12-17,66280,UPCOMING,Sharon,4345,,,Abington,4002,,,Hockomock,South Shore,6:30 P.M.,,0
 2025-12-17,66476,UPCOMING,Dedham,4108,,,Boston Latin,4049,,,Tri-Valley,Dual County,5:30 P.M.,,0
 2025-12-17,66579,UPCOMING,Shawsheen,4346,,,Winchester,4434,,,Commonwealth,Middlesex,5:30 P.M.,,0
@@ -302,3 +310,15 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-19,67457,UPCOMING,Nashoba Valley Tech,4268,,,Lynn Tech,4222,,,Commonwealth,Commonwealth,5:00 P.M.,,0
 2025-12-19,67460,UPCOMING,Notre Dame (Tyngsborough),4540,,,Randolph,4327,,,Commonwealth,South Shore,5:30 P.M.,,0
 2025-12-19,67465,UPCOMING,Upper Cape,4457,,,Cape Cod Tech,4073,,,Mayflower,Mayflower,5:00 P.M.,,0
+2025-12-19,68406,UPCOMING,Dracut,4119,,,Bridgewater-Raynham,4053,,,Merrimack Valley,Southeast,7:00 P.M.,,0
+2025-12-19,68422,UPCOMING,Somerset Berkley,4350,,,Apponequet,4011,,,South Coast,South Coast,6:30 P.M.,,0
+2025-12-19,68433,UPCOMING,Greater New Bedford,4156,,,Dighton-Rehoboth,4114,,,South Coast,South Coast,6:30 P.M.,,0
+2025-12-19,68439,UPCOMING,Old Rochester,4301,,,Seekonk,4344,,,South Coast,South Coast,6:30 P.M.,,0
+2025-12-19,68448,UPCOMING,Bourne,4050,,,West Bridgewater,4415,,,South Coast,South Coast,6:30 P.M.,,0
+2025-12-19,68462,UPCOMING,Fairhaven,4133,,,Joseph Case,4078,,,South Coast,South Coast,6:30 P.M.,,0
+2025-12-20,65842,UPCOMING,Wellesley,4413,,,Foxborough,4142,,,Bay State,Hockomock,3:30 P.M.,,0
+2025-12-20,65875,UPCOMING,Beverly,4038,,,Lowell,4216,,,Northeastern,Merrimack Valley,11:30 A.M.,,0
+2025-12-20,67172,UPCOMING,Prospect Hill,4593,,,Pioneer Charter I,4701,,,Charter School Athletic,Charter School Athletic,12:00 P.M.,,0
+2025-12-20,67239,UPCOMING,Fontbonne,4447,,,Oakmont,4299,,,Catholic Conference,Mid-Wach,1:30 P.M.,,0
+2025-12-20,67250,UPCOMING,Ursuline,4448,,,New Mission,4494,,,Catholic Conference,Boston City,1:30 P.M.,,0
+2025-12-20,67390,UPCOMING,Dartmouth,4105,,,New Bedford,4273,,,Southeast,Big Three,3:00 P.M.,,0

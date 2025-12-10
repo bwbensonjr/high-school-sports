@@ -91,3 +91,40 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-18,65277,UPCOMING,Quincy/North Quincy,4287,,,Marshfield,4234,,,Patriot,Patriot,6:00 P.M.,,0
 2025-12-18,65279,UPCOMING,Wayland/Weston,4411,,,Concord-Carlisle,4097,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,8:00 P.M.,,0
 2025-12-19,65280,UPCOMING,Hingham,4171,,,Hanover,4164,,,Patriot,Patriot,7:00 P.M.,,0
+2025-12-20,65283,UPCOMING,Weymouth,4425,,,Milton,4252,,,Bay State,Bay State,12:00 P.M.,,0
+2025-12-20,65286,UPCOMING,Plymouth,4315,,,Duxbury,4123,,,Patriot,Patriot,10:00 A.M.,,0
+2025-12-20,65288,UPCOMING,Longmeadow,4214,,,Auburn,4019,,,Central/West,Independent,12:00 P.M.,,0
+2025-12-20,65291,UPCOMING,Lexington,4209,,,Melrose,4244,,,Middlesex,Middlesex,12:00 P.M.,,0
+2025-12-20,65294,UPCOMING,Newton North/South,4279,,,Natick,4270,,,Bay State,Bay State,12:20 P.M.,,0
+2025-12-20,65297,UPCOMING,Arlington,4013,,,Stoneham/Wilmington,4380,,,Middlesex,Middlesex,12:40 P.M.,,0
+2025-12-20,65299,UPCOMING,Belmont,4034,,,Burlington,4065,,,Middlesex,Middlesex,1:00 P.M.,,0
+2025-12-20,65300,UPCOMING,Winthrop,4437,,,Newburyport,4276,,,Northeast,Northeast,1:00 P.M.,,0
+2025-12-20,65302,UPCOMING,Dennis-Yarmouth,4111,,,Nantucket,4265,,,Cape & Islands,Cape & Islands,1:30 P.M.,,0
+2025-12-20,65304,UPCOMING,Boston Latin,4049,,,Latin Academy/Fontbonne,4202,,,Merrimack Valley/Dual County,Independent,2:00 P.M.,,0
+2025-12-20,65306,UPCOMING,Pope Francis,4796,,,Marblehead,4231,,,Central/West,Northeast,2:00 P.M.,,0
+2025-12-20,65308,UPCOMING,Hopkinton/Dover-Sherborn,4118,,,Westwood,4424,,,Tri-Valley,Tri-Valley,2:00 P.M.,,0
+2025-12-20,65309,UPCOMING,Beverly/Danvers,4038,,,Peabody,4306,,,Northeast,Northeast,2:00 P.M.,,0
+2025-12-20,65312,UPCOMING,Wayland/Weston,4411,,,Westford,4421,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,2:20 P.M.,,0
+2025-12-20,65314,UPCOMING,Braintree,4051,,,Needham,4272,,,Bay State,Bay State,2:30 P.M.,,0
+2025-12-20,65315,UPCOMING,Central Catholic,4081,,,Cambridge,4067,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,2:40 P.M.,,0
+2025-12-20,65317,UPCOMING,Framingham,4143,,,Walpole,4404,,,Bay State,Bay State,2:45 P.M.,,0
+2025-12-20,65319,UPCOMING,Bishop Feehan,4042,,,Archbishop Williams,4012,,,Catholic Central,Catholic Central,3:00 P.M.,,0
+2025-12-20,65321,UPCOMING,Medway/Ashland,4243,,,Norwood,4297,,,Tri-Valley,Tri-Valley,3:00 P.M.,,0
+2025-12-20,65324,UPCOMING,Methuen/Tewksbury,4246,,,Andover,4009,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,5:00 P.M.,,0
+2025-12-20,65326,UPCOMING,Waltham,4405,,,Acton-Boxborough/Bromfield,4003,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,5:00 P.M.,,0
+2025-12-20,65329,UPCOMING,Mansfield/OA/Foxboro,4230,,,Canton,4071,,,Hockomock,Hockomock,5:00 P.M.,,0
+2025-12-20,65331,UPCOMING,Whitman-Hanson/Silver Lake,4427,,,Norwell,4296,,,Patriot,Independent,5:00 P.M.,,0
+2025-12-20,65336,UPCOMING,Nauset/Monomoy,4271,,,Smithfield (R.I.),4657,,,Cape & Islands,Independent,5:10 P.M.,,0
+2025-12-20,65339,UPCOMING,Wakefield,4402,,,Winchester,4434,,,Middlesex,Middlesex,6:00 P.M.,,0
+2025-12-20,65341,UPCOMING,Quincy/North Quincy,4287,,,Barnstable,4024,,,Patriot,Cape & Islands,6:00 P.M.,,0
+2025-12-20,65344,UPCOMING,Stoughton,4381,,,King Philip,4197,,,Independent,Hockomock,6:00 P.M.,,0
+2025-12-20,65345,UPCOMING,Leominster,4208,,,Franklin,4144,,,Central/West,Hockomock,6:00 P.M.,,0
+2025-12-20,65346,UPCOMING,Marshfield,4234,,,Pembroke,4308,,,Patriot,Patriot,6:20 P.M.,,0
+2025-12-20,65349,UPCOMING,Wellesley,4413,,,Brookline,4059,,,Bay State,Bay State,6:20 P.M.,,0
+2025-12-20,65352,UPCOMING,Gloucester,4150,,,Medford,4242,,,Northeast,Northeast,6:30 P.M.,,0
+2025-12-20,65354,UPCOMING,Billerica/Chelmsford,4040,,,Shrewsbury,4348,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,6:30 P.M.,,0
+2025-12-20,65356,UPCOMING,Bishop Feehan,4042,,,Bishop Stang,4045,,,Catholic Central,Catholic Central,6:40 P.M.,,0
+2025-12-20,65358,UPCOMING,Concord-Carlisle,4097,,,Shawsheen/Bedford/Lowell,4346,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,6:40 P.M.,,0
+2025-12-20,65359,UPCOMING,Grafton,4153,,,Algonquin,4005,,,Independent,Central/West,6:40 P.M.,,0
+2025-12-20,65360,UPCOMING,East/West Bridgewater,4126,,,Ursuline,4448,,,Independent,Independent,8:00 P.M.,,0
+2025-12-20,65363,UPCOMING,Arlington Catholic,4014,,,St. Mary’s,4374,,,Catholic Central,Catholic Central,8:00 P.M.,,0
