@@ -1,6 +1,6 @@
 # Wrestling - 2025 Season
 
-Generated: 2025-12-10 11:17
+Generated: 2025-12-11 11:17
 
 ## Upcoming Games
 
@@ -11,6 +11,8 @@ Generated: 2025-12-10 11:17
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2025-12-10 | Brooks | 23 | Roxbury Latin | 54 | -7.8 | -31.0 |
+| 2025-12-10 | Pomfret | 12 | St. Mark’s | 72 | +0.4 | -60.0 |
 | 2025-12-06 | Phillips Exeter | 23 | Roxbury Latin | 52 | -3.6 | -29.0 |
 | 2025-12-06 | Hyde | 14 | Roxbury Latin | 59 | -6.6 | -45.0 |
 | 2025-12-06 | Lexington Christian | 6 | Roxbury Latin | 68 | -5.5 | -62.0 |
@@ -24,16 +26,17 @@ Generated: 2025-12-10 11:17
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Roxbury Latin | 1727.9 |
-| 2 | Eagle Hill | 1553.9 |
-| 3 | St. Mark’s | 1540.9 |
+| 1 | Roxbury Latin | 1753.5 |
+| 2 | St. Mark’s | 1604.5 |
+| 3 | Eagle Hill | 1553.9 |
 | 4 | Greens Farms | 1529.9 |
-| 5 | Wilmington | 1501.7 |
-| 6 | North Reading | 1501.7 |
+| 5 | North Reading | 1501.7 |
+| 6 | Wilmington | 1501.7 |
 | 7 | Nobles | 1490.3 |
-| 8 | Brooks | 1483.5 |
-| 9 | Lexington Christian | 1462.9 |
+| 8 | Lexington Christian | 1462.9 |
+| 9 | Brooks | 1457.9 |
 | 10 | Deerfield | 1445.1 |
 | 11 | Phillips Exeter | 1440.4 |
-| 12 | Landmark | 1432.5 |
-| 13 | Hyde | 1410.8 |
+| 12 | Pomfret | 1438.1 |
+| 13 | Landmark | 1432.5 |
+| 14 | Hyde | 1410.8 |

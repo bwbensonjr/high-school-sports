@@ -1,6 +1,6 @@
 # Football - 2025 Season
 
-Generated: 2025-12-10 11:17
+Generated: 2025-12-11 11:17
 
 ## Upcoming Games
 
@@ -19,9 +19,6 @@ Generated: 2025-12-10 11:17
 | 2025-12-05 | Shawsheen | 14 | Foxborough | 7 | +20.7 | +7.0 |
 | 2025-12-04 | Cohasset | 22 | Amesbury | 14 | +0.2 | +8.0 |
 | 2025-12-04 | Norwell | 14 | Fairhaven | 28 | -13.8 | -14.0 |
-| 2025-12-03 | Whittier | 6 | Diman | 31 | +0.9 | -25.0 |
-| 2025-12-03 | Tri-County | 28 | Blue Hills | 6 | +16.4 | +22.0 |
-| 2025-12-03 | South Shore Voc-Tech | 24 | Cape Cod Tech | 30 | -3.6 | -6.0 |
 
 ## Current Elo Ratings
 
@@ -199,8 +196,8 @@ Generated: 2025-12-10 11:17
 | 170 | Newton North | 1504.2 |
 | 171 | Bartlett | 1503.7 |
 | 172 | Woburn | 1503.2 |
-| 173 | Capital Prep (Conn.) | 1501.7 |
-| 174 | Forman | 1501.7 |
+| 173 | Forman | 1501.7 |
+| 174 | Capital Prep (Conn.) | 1501.7 |
 | 175 | Taunton | 1501.0 |
 | 176 | Martha’s Vineyard | 1501.0 |
 | 177 | Silver Lake | 1499.0 |
