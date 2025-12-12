@@ -1,0 +1,5 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win,season,home_elo_pre,away_elo_pre,home_elo_post,away_elo_post,home_win_prob,away_win_prob,pred_point_spread,actual_point_spread
+2025-12-11,69452,FINAL,Duxbury,4123,103,1,Marshfield/Hanover,4234,74,0,Patriot,Patriot,,,0,2025,1500.0,1500.0,1543.7261556904882,1456.2738443095118,0.5714631174083814,0.4285368825916186,2.0,29.0
+2025-12-11,69485,FINAL,Plymouth North/South,4315,55,0,Quincy/North Quincy,4326,99,1,Patriot,Patriot,,,0,2025,1500.0,1500.0,1434.738983600229,1565.261016399771,0.5714631174083814,0.4285368825916186,2.0,-44.0
+2025-12-11,69491,FINAL,Canton,4071,85,1,Norwell,4296,48,0,Hockomock,South Shore,,,0,2025,1500.0,1500.0,1546.7651949914268,1453.2348050085732,0.5714631174083814,0.4285368825916186,2.0,37.0
+2025-12-11,69504,FINAL,Latin Academy,4202,82,0,Malden Catholic,4228,84,1,Boston City,Catholic Conference,,,0,2025,1500.0,1500.0,1481.165507900837,1518.834492099163,0.5714631174083814,0.4285368825916186,2.0,-2.0

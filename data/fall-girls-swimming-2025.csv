@@ -2,10 +2,13 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-09-05,56116,FINAL,Malden Catholic,4228,64.0,0.0,Ursuline,4448,89.0,1.0,Catholic Conference,Catholic Conference,,,0
 2025-09-09,56389,FINAL,Andover,4009,93.0,1.0,Lowell,4216,69.0,0.0,Merrimack Valley,Merrimack Valley,,,0
 2025-09-09,56404,FINAL,Wakefield,4402,76.0,0.0,Reading,4328,90.0,1.0,Middlesex,Middlesex,,,0
-2025-09-11,56561,FINAL,Notre Dame (Hingham),4449,95,1,Ursuline,4448,81,0,Catholic Conference,Catholic Conference,,,0
-2025-09-12,56612,FINAL,Chelmsford,4085,103,1,Lexington,4209,78,0,Merrimack Valley,Middlesex,,,0
-2025-09-12,56613,FINAL,Methuen/Tewksbury,4246,81,0,Andover,4009,102,1,Merrimack Valley,Merrimack Valley,,,0
-2025-09-12,56625,FINAL,Milton,4252,94,1,Needham,4272,87,0,Bay State,Bay State,,,0
-2025-09-16,56998,FINAL,Weymouth,4425,82,0,Newton North,4279,97,1,Bay State,Bay State,,,0
-2025-09-16,57036,FINAL,Central Catholic,4081,68,0,Methuen/Tewksbury,4246,94,1,Merrimack Valley,Merrimack Valley,,,0
+2025-09-11,56561,FINAL,Notre Dame (Hingham),4449,95.0,1.0,Ursuline,4448,81.0,0.0,Catholic Conference,Catholic Conference,,,0
+2025-09-12,56612,FINAL,Chelmsford,4085,103.0,1.0,Lexington,4209,78.0,0.0,Merrimack Valley,Middlesex,,,0
+2025-09-12,56613,FINAL,Methuen/Tewksbury,4246,81.0,0.0,Andover,4009,102.0,1.0,Merrimack Valley,Merrimack Valley,,,0
+2025-09-12,56625,FINAL,Milton,4252,94.0,1.0,Needham,4272,87.0,0.0,Bay State,Bay State,,,0
+2025-09-16,56998,FINAL,Weymouth,4425,82.0,0.0,Newton North,4279,97.0,1.0,Bay State,Bay State,,,0
+2025-09-16,57036,FINAL,Central Catholic,4081,68.0,0.0,Methuen/Tewksbury,4246,94.0,1.0,Merrimack Valley,Merrimack Valley,,,0
 2025-09-19,57442,UPCOMING,North Andover,4283,,,Central Catholic,4081,,,Merrimack Valley,Merrimack Valley,,,0
+2025-12-11,69454,FINAL,Duxbury,4123,93,1,Marshfield/Hanover,4234,87,0,Patriot,Patriot,,,0
+2025-12-11,69487,FINAL,Plymouth North/South,4315,79,0,Quincy,4326,81,1,Patriot,Patriot,,,0
+2025-12-11,69492,FINAL,Canton,4071,74,0,Norwell,4296,92,1,Hockomock,South Shore,,,0

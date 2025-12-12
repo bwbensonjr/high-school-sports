@@ -1,0 +1,3 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
+2025-12-11,69463,FINAL,Nauset,4271,56,1,Martha’s Vineyard,4235,44,0,Cape & Islands,Cape & Islands,,,0
+2025-12-11,69468,FINAL,Newton North,4279,32,0,Walpole,4404,68,1,Bay State,Bay State,,,0

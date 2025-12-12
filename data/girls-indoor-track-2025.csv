@@ -1,0 +1,3 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
+2025-12-11,69457,FINAL,St. John Paul II,4689,6,0,Dennis-Yarmouth,4111,94,1,Catholic Central,Cape & Islands,,,0
+2025-12-11,69462,FINAL,Nauset,4271,61,1,Martha’s Vineyard,4235,26,0,Cape & Islands,Cape & Islands,,,0

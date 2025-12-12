@@ -1,0 +1,5 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
+2025-12-11,69452,FINAL,Duxbury,4123,103,1,Marshfield/Hanover,4234,74,0,Patriot,Patriot,,,0
+2025-12-11,69485,FINAL,Plymouth North/South,4315,55,0,Quincy/North Quincy,4326,99,1,Patriot,Patriot,,,0
+2025-12-11,69491,FINAL,Canton,4071,85,1,Norwell,4296,48,0,Hockomock,South Shore,,,0
+2025-12-11,69504,FINAL,Latin Academy,4202,82,0,Malden Catholic,4228,84,1,Boston City,Catholic Conference,,,0

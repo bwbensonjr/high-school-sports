@@ -1,6 +1,6 @@
 # Football - 2025 Season
 
-Generated: 2025-12-11 11:17
+Generated: 2025-12-12 11:18
 
 ## Upcoming Games
 
@@ -17,8 +17,6 @@ Generated: 2025-12-11 11:17
 | 2025-12-06 | West Boylston | 0 | Randolph | 21 | -0.8 | -21.0 |
 | 2025-12-05 | King Philip | 21 | North Attleborough | 10 | +6.7 | +11.0 |
 | 2025-12-05 | Shawsheen | 14 | Foxborough | 7 | +20.7 | +7.0 |
-| 2025-12-04 | Cohasset | 22 | Amesbury | 14 | +0.2 | +8.0 |
-| 2025-12-04 | Norwell | 14 | Fairhaven | 28 | -13.8 | -14.0 |
 
 ## Current Elo Ratings
 

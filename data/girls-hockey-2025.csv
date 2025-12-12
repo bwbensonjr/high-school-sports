@@ -10,12 +10,14 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-10,65046,UPCOMING,Waltham,4405,,,Milton,4252,,,Merrimack Valley/Dual County,Bay State,5:00 P.M.,,0
 2025-12-10,68719,FINAL,Austin Prep,4020,4,1,Worcester Academy,4441,1,0,Independent,Independent,,,0
 2025-12-10,68725,FINAL,Nobles,4282,6,1,St. Mark’s,4372,1,0,ISL,ISL,3:15 P.M.,,0
-2025-12-10,69092,FINAL,Pingree,4312,5,1,Newton Country Day,4278,4,0,EIL,EIL,,,0
+2025-12-10,69092,FINAL,Pingree,4312,5,1,Newton Country Day,4278,4,0,EIL,EIL,,1.0,0
 2025-12-10,69341,FINAL,Brewster Academy,4052,3,0,Holderness,4173,4,1,Independent,Independent,,,0
-2025-12-11,65052,UPCOMING,Hanover,4164,,,Latin Academy/Fontbonne,4202,,,Patriot,Independent,4:00 P.M.,,0
-2025-12-11,65054,UPCOMING,Framingham,4143,,,Wayland/Weston,4411,,,Bay State,Merrimack Valley/Dual County,4:50 P.M.,,0
-2025-12-11,65056,UPCOMING,Braintree,4051,,,Boston Latin,4049,,,Bay State,Merrimack Valley/Dual County,6:00 P.M.,,0
-2025-12-11,65059,UPCOMING,Duxbury,4123,,,Quincy/North Quincy,4287,,,Patriot,Patriot,7:20 P.M.,,0
+2025-12-10,69378,FINAL,St. Paul’s,4375,7,1,Lawrence Academy,4204,0,0,Independent,ISL,,,0
+2025-12-11,65052,FINAL,Hanover,4164,3,1,Latin Academy/Fontbonne,4202,2,0,Patriot,Independent,4:00 P.M.,,0
+2025-12-11,65054,FINAL,Framingham,4143,2,0,Wayland/Weston,4411,4,1,Bay State,Merrimack Valley/Dual County,4:50 P.M.,,0
+2025-12-11,65056,FINAL,Braintree,4051,4,2,Boston Latin,4049,4,2,Bay State,Merrimack Valley/Dual County,6:00 P.M.,,0
+2025-12-11,65059,FINAL,Duxbury,4123,7,1,Quincy/North Quincy,4287,1,0,Patriot,Patriot,7:20 P.M.,,0
+2025-12-11,69475,FINAL,St. George’s,4367,3,0,Thayer,4390,5,1,ISL,ISL,,,0
 2025-12-12,65075,UPCOMING,Pembroke,4308,,,Norwell,4296,,,Patriot,Independent,6:00 P.M.,,0
 2025-12-12,65078,UPCOMING,Sandwich,4340,,,Dennis-Yarmouth,4111,,,Cape & Islands,Cape & Islands,7:45 P.M.,,0
 2025-12-13,65086,UPCOMING,Plymouth,4315,,,Falmouth,4134,,,Patriot,Cape & Islands,10:00 A.M.,,0

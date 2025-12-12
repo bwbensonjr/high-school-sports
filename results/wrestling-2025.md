@@ -1,16 +1,21 @@
 # Wrestling - 2025 Season
 
-Generated: 2025-12-11 11:17
+Generated: 2025-12-12 11:18
 
 ## Upcoming Games
 
-*No upcoming games scheduled*
-
+| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
+|------|------|-----------|-----------|------------|------------------|
+| 2025-12-17 | 7:00 P.M. | Brookline | Needham | 53.1% | +0.9 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2025-12-11 | Newton North | 44 | Braintree | 33 | +2.0 | +11.0 |
+| 2025-12-11 | Needham | 44 | Weymouth | 36 | +2.0 | +8.0 |
+| 2025-12-11 | Carver | 34 | Hanover | 41 | +2.0 | -7.0 |
+| 2025-12-11 | Walpole | 18 | Wellesley | 54 | +2.0 | -36.0 |
 | 2025-12-10 | Brooks | 23 | Roxbury Latin | 54 | -7.8 | -31.0 |
 | 2025-12-10 | Pomfret | 12 | St. Mark’s | 72 | +0.4 | -60.0 |
 | 2025-12-06 | Phillips Exeter | 23 | Roxbury Latin | 52 | -3.6 | -29.0 |
@@ -28,15 +33,25 @@ Generated: 2025-12-11 11:17
 |------|------|------------|
 | 1 | Roxbury Latin | 1753.5 |
 | 2 | St. Mark’s | 1604.5 |
-| 3 | Eagle Hill | 1553.9 |
-| 4 | Greens Farms | 1529.9 |
-| 5 | North Reading | 1501.7 |
-| 6 | Wilmington | 1501.7 |
-| 7 | Nobles | 1490.3 |
-| 8 | Lexington Christian | 1462.9 |
-| 9 | Brooks | 1457.9 |
-| 10 | Deerfield | 1445.1 |
-| 11 | Phillips Exeter | 1440.4 |
-| 12 | Pomfret | 1438.1 |
-| 13 | Landmark | 1432.5 |
-| 14 | Hyde | 1410.8 |
+| 3 | Wellesley | 1563.6 |
+| 4 | Eagle Hill | 1553.9 |
+| 5 | Hanover | 1537.3 |
+| 6 | Newton North | 1533.6 |
+| 7 | Needham | 1529.9 |
+| 8 | Greens Farms | 1529.9 |
+| 9 | Wilmington | 1501.7 |
+| 10 | Framingham | 1501.7 |
+| 11 | North Reading | 1501.7 |
+| 12 | Brookline | 1501.7 |
+| 13 | Nobles | 1490.3 |
+| 14 | Weymouth | 1473.4 |
+| 15 | Braintree | 1469.7 |
+| 16 | Carver | 1466.0 |
+| 17 | Lexington Christian | 1462.9 |
+| 18 | Brooks | 1457.9 |
+| 19 | Deerfield | 1445.1 |
+| 20 | Phillips Exeter | 1440.4 |
+| 21 | Walpole | 1439.7 |
+| 22 | Pomfret | 1438.1 |
+| 23 | Landmark | 1432.5 |
+| 24 | Hyde | 1410.8 |
