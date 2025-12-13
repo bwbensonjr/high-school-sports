@@ -1,6 +1,6 @@
 # Football - 2025 Season
 
-Generated: 2025-12-12 11:18
+Generated: 2025-12-13 11:14
 
 ## Upcoming Games
 
@@ -15,8 +15,6 @@ Generated: 2025-12-12 11:18
 | 2025-12-06 | Catholic Memorial | 41 | Bishop Feehan | 14 | +15.0 | +27.0 |
 | 2025-12-06 | Scituate | 42 | Tewksbury | 41 | -3.2 | +1.0 |
 | 2025-12-06 | West Boylston | 0 | Randolph | 21 | -0.8 | -21.0 |
-| 2025-12-05 | King Philip | 21 | North Attleborough | 10 | +6.7 | +11.0 |
-| 2025-12-05 | Shawsheen | 14 | Foxborough | 7 | +20.7 | +7.0 |
 
 ## Current Elo Ratings
 
@@ -194,8 +192,8 @@ Generated: 2025-12-12 11:18
 | 170 | Newton North | 1504.2 |
 | 171 | Bartlett | 1503.7 |
 | 172 | Woburn | 1503.2 |
-| 173 | Forman | 1501.7 |
-| 174 | Capital Prep (Conn.) | 1501.7 |
+| 173 | Capital Prep (Conn.) | 1501.7 |
+| 174 | Forman | 1501.7 |
 | 175 | Taunton | 1501.0 |
 | 176 | Martha’s Vineyard | 1501.0 |
 | 177 | Silver Lake | 1499.0 |
