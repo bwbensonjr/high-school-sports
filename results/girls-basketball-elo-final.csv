@@ -1,57 +1,59 @@
 team,elo
+Hudson,1607.7230202383073
 Neighborhood House Charter,1602.5425022665017
 Tri-County,1587.6984394045705
+Lawrence Academy,1582.9918009746084
+Rivers,1581.1194430991452
 Shepherd Hill,1577.0154138935845
 Middlesex,1576.4459229393121
 Tahanto,1568.7173058616584
 Leominster,1568.3709527985457
 Prospect Hill,1568.0174579342372
-Rockport,1566.5257441519025
 Minnechaug,1566.5257441519025
-Cape Cod Tech,1565.315084098786
+Rockport,1566.5257441519025
 Dracut,1565.315084098786
+Cape Cod Tech,1565.315084098786
 Narragansett,1564.5609660152236
 Needham,1564.0123898003649
 Ursuline,1563.555192211963
 Wachusett,1562.1055493550903
-Hudson,1562.1055493550903
 Dighton-Rehoboth,1561.5937533335284
 Lee,1559.3785611672095
-Lawrence Academy,1556.4240278413959
+Blackstone Valley,1556.581670630845
+Grafton,1556.1342164754685
 Attleboro,1556.1342164754685
 Waltham,1556.1342164754685
-Grafton,1556.1342164754685
-Leicester,1554.642502693134
 Seekonk,1554.642502693134
+Leicester,1554.642502693134
 Abington,1553.844968498436
-Rivers,1553.0389535505528
 East Bridgewater,1552.447609965618
 Collegiate Charter,1552.1291483415962
 Old Rochester,1552.1291483415962
 Pingree,1551.766377928287
-Wayland,1551.2022256570947
 Douglas,1551.2022256570947
-Peabody,1550.5888582933387
+Wayland,1551.2022256570947
 West Boylston,1550.5888582933387
+Peabody,1550.5888582933387
 Bancroft,1550.2999448656456
 Littleton,1548.415194991427
 Concord Academy,1548.3155110075768
 Parker Charter,1548.076524300608
-Newton North,1548.076524300608
 Fenway,1548.076524300608
-Somerville,1548.072345167364
+Newton North,1548.076524300608
 Fitchburg,1548.072345167364
+Somerville,1548.072345167364
+Bishop Feehan,1547.357933243965
 South Hadley,1547.357933243965
 Georgetown,1546.9852663833947
-Gardner,1546.8937178580413
 Arlington,1546.8937178580413
+Gardner,1546.8937178580413
 Milton,1546.8937178580413
 St. Mary’s,1546.6014735104661
 Groton-Dunstable,1545.623218674288
-Ware,1545.3761556904883
 Danvers,1545.3761556904883
-Plymouth North,1544.940313732385
+Ware,1545.3761556904883
 Wahconah,1544.940313732385
+Plymouth North,1544.940313732385
 Atlantis Charter,1544.4891759884465
 Rockland,1543.5364360075882
 Barnstable,1543.5364360075882
@@ -59,35 +61,36 @@ Shawsheen,1543.1428385151942
 Hingham,1543.0322103431563
 Acton-Boxborough,1543.0322103431563
 Duxbury,1542.7592612343653
-Burlington,1541.9602475003499
 Tabor,1541.9602475003499
+Burlington,1541.9602475003499
 St. Mary (Westfield),1541.3887709076157
-Medway,1541.1252736602135
 McCann Tech,1541.1252736602135
+Medway,1541.1252736602135
 Natick,1540.163453087638
 Swampscott,1539.504021033397
 Woburn,1539.3189841983262
 Salem Academy,1539.3189841983262
+Concord-Carlisle,1538.8089270797905
 Keefe Tech,1538.0740924253648
 North Reading,1537.2997243763057
-St. Mark’s,1537.2997243763057
 Canton,1536.4649817324585
 Apponequet,1535.5780020304167
-St. John Paul II,1535.0104763992729
 Blue Hills,1535.0104763992729
+St. John Paul II,1535.0104763992729
 Melrose,1534.6252620495584
 Millbury,1533.59622447694
+Bridgewater-Raynham,1533.59622447694
 Mount St. Charles (R.I.),1533.4970871094997
-Algonquin,1531.252279129608
 Amesbury,1531.252279129608
+Algonquin,1531.252279129608
 Watertown,1531.252279129608
 Phillips Exeter,1531.1120565117728
 Hopedale,1529.8977531217606
-Greater Lowell,1529.242032201445
 Winchester,1529.242032201445
+Sandwich,1529.242032201445
+Greater Lowell,1529.242032201445
 Tilton,1529.242032201445
 Newburyport,1529.242032201445
-Sandwich,1529.242032201445
 Cushing,1529.1932050270248
 Essex Tech,1528.3835218740896
 Brewster Academy,1527.0051253855563
@@ -99,132 +102,125 @@ Muniz,1522.3411051715782
 Holderness,1521.1147633726384
 Masconomet,1520.4844920991632
 BB&N,1520.173271600956
+Nauset,1513.5332414587685
 Randolph,1513.5332414587685
 O’Bryant,1513.5332414587685
-Nauset,1513.5332414587685
-Maimonides,1510.56117395803
-Monty Tech,1501.65
-Blackstone Valley,1501.65
-Norwood,1501.65
-Saugus,1501.65
-Foxborough,1501.65
-Oakmont,1501.65
-Medford,1501.65
-Newton South,1501.65
-Ayer Shirley,1501.65
-Lynn Classical,1501.65
-Somerset Berkley,1501.65
+Northfield Mt. Hermon,1512.5899501773251
+St. Mark’s,1509.2192348277133
+Archbishop Williams,1501.65
 Salem,1501.65
-Malden,1501.65
-New Heights Charter,1501.65
 Fairhaven,1501.65
-Lunenburg,1501.65
-Milford,1501.65
-Chelmsford,1501.65
-Joseph Case,1501.65
-Norfolk Aggie,1501.65
-Nashoba Valley Tech,1501.65
-Murdock,1501.65
-Fontbonne,1501.65
-Greater New Bedford,1501.65
-Chelsea,1501.65
-Hopkinton,1501.65
-Arlington Catholic,1501.65
-Carver,1501.65
-Bristol Aggie,1501.65
-Bishop Fenwick,1501.65
-Quabbin,1501.65
-Worcester South,1501.65
+Manchester Essex,1501.65
+Newton South,1501.65
+Lawrence,1501.65
+Monty Tech,1501.65
+Upper Cape,1501.65
+Lynn Classical,1501.65
+Dartmouth,1501.65
+Andover,1501.65
+Sharon,1501.65
 Gateway,1501.65
 Billerica,1501.65
-Whittier,1501.65
-Pembroke,1501.65
-Falmouth Academy,1501.65
-Notre Dame (Hingham),1501.65
-Haverhill,1501.65
-Boston Prep,1501.65
-Westwood,1501.65
-Charlestown,1501.65
-Sturgis East,1501.65
-Lawrence,1501.65
-Nantucket,1501.65
-Ruth Batson Academy,1501.65
-Andover,1501.65
-North Quincy,1501.65
-Revere,1501.65
-Norwell,1501.65
-Diman,1501.65
-Minuteman,1501.65
-Falmouth,1501.65
-Bishop Guertin (N.H.),1501.65
-Oliver Ames,1501.65
-Bedford,1501.65
-Archbishop Williams,1501.65
-Pioneer Charter I,1501.65
-Kennedy Academy,1501.65
-Brighton,1501.65
-Walpole,1501.65
-TechBoston/Henderson Inclusion School,1501.65
-Codman Charter,1501.65
-King Philip,1501.65
-Sharon,1501.65
-Nashoba,1501.65
-New Mission,1501.65
-Tyngsborough,1501.65
-Maynard,1501.65
-Wareham,1501.65
-Advanced Math and Science,1501.65
-Madison Park,1501.65
-Stoughton,1501.65
-East Boston,1501.65
-Taunton,1501.65
-Cathedral,1501.65
-La Salle (R.I.),1501.65
-Dartmouth,1501.65
-Lowell,1501.65
-Bridgewater-Raynham,1501.65
-Quincy,1501.65
-Everett,1501.65
-Concord-Carlisle,1501.65
-Methuen,1501.65
-Pioneer Valley Chinese Immersion,1501.65
-Notre Dame (Tyngsborough),1501.65
-Londonderry (N.H.),1501.65
-Winthrop,1501.65
-Silver Lake,1501.65
-Snowden,1501.65
-Martha’s Vineyard,1501.65
 West Bridgewater,1501.65
-Hanover,1501.65
-Ashland,1501.65
-Northeast,1501.65
-Whitman-Hanson,1501.65
-Marshfield,1501.65
-Monomoy,1501.65
-Sturgis West,1501.65
-Latin Academy,1501.65
-Westford,1501.65
-North Andover,1501.65
-Cambridge,1501.65
-Boston Collegiate,1501.65
+Joseph Case,1501.65
+Norfolk Aggie,1501.65
+Norwell,1501.65
 Cristo Rey,1501.65
-Malden Catholic,1501.65
-Bishop Feehan,1501.65
-Nipmuc,1501.65
-Holbrook,1501.65
+TechBoston/Henderson Inclusion School,1501.65
 Braintree,1501.65
-Upper Cape,1501.65
-Medfield,1501.65
-Rising Tide Charter,1501.65
-Marlborough,1501.65
+Silver Lake,1501.65
+Martha’s Vineyard,1501.65
+Ashland,1501.65
+Boston Prep,1501.65
+Minuteman,1501.65
+Saugus,1501.65
+King Philip,1501.65
+Winthrop,1501.65
+Methuen,1501.65
+Carver,1501.65
+Oakmont,1501.65
+Walpole,1501.65
+Oliver Ames,1501.65
+Cambridge,1501.65
+Worcester South,1501.65
+New Heights Charter,1501.65
+Everett,1501.65
+Taunton,1501.65
+Brighton,1501.65
+Arlington Catholic,1501.65
+Snowden,1501.65
+Falmouth,1501.65
+Hopkinton,1501.65
 Mohawk Trail,1501.65
+Greater New Bedford,1501.65
+Nipmuc,1501.65
+Chelmsford,1501.65
+Advanced Math and Science,1501.65
+Holbrook,1501.65
+Tyngsborough,1501.65
+Haverhill,1501.65
+Bedford,1501.65
+Maynard,1501.65
+Somerset Berkley,1501.65
+Ruth Batson Academy,1501.65
+Monomoy,1501.65
+Lowell,1501.65
+Whitman-Hanson,1501.65
+North Andover,1501.65
+Madison Park,1501.65
+Falmouth Academy,1501.65
 Cardinal Spellman,1501.65
-North Attleborough,1501.65
-Tewksbury,1501.65
+Latin Academy,1501.65
+East Boston,1501.65
+Stoughton,1501.65
+Charlestown,1501.65
+Northeast,1501.65
+Diman,1501.65
 Lincoln-Sudbury,1501.65
-Roxbury Prep,1501.65
+Codman Charter,1501.65
+Notre Dame (Tyngsborough),1501.65
+Cathedral,1501.65
 Bay Path,1501.65
-Manchester Essex,1501.65
+Rising Tide Charter,1501.65
+Fontbonne,1501.65
+Marshfield,1501.65
+Londonderry (N.H.),1501.65
+New Mission,1501.65
+Chelsea,1501.65
+Pioneer Valley Chinese Immersion,1501.65
+North Attleborough,1501.65
+Lunenburg,1501.65
+Murdock,1501.65
+Malden Catholic,1501.65
+Sturgis West,1501.65
+Bishop Guertin (N.H.),1501.65
+Bristol Aggie,1501.65
+Nantucket,1501.65
+Medfield,1501.65
+Nashoba Valley Tech,1501.65
+Bishop Fenwick,1501.65
+Roxbury Prep,1501.65
+Hanover,1501.65
+Quincy,1501.65
+Boston Collegiate,1501.65
+Notre Dame (Hingham),1501.65
+Revere,1501.65
+Tewksbury,1501.65
+Kennedy Academy,1501.65
+Pioneer Charter I,1501.65
+Whittier,1501.65
+Wareham,1501.65
+Pembroke,1501.65
+Sturgis East,1501.65
+Milford,1501.65
+Norwood,1501.65
+Foxborough,1501.65
+North Quincy,1501.65
+Ayer Shirley,1501.65
+Quabbin,1501.65
+Nashoba,1501.65
+Westford,1501.65
+Malden,1501.65
 Calvary Chapel,1500.3813592497922
 Brooke Charter,1492.7388260419702
 Whitinsville Christian,1489.7667585412316
@@ -233,35 +229,37 @@ Bristol-Plymouth,1489.7667585412316
 Governor’s Academy,1488.687991990745
 Mystic Valley,1483.4831992455531
 Central Catholic,1482.815507900837
-MATCH Charter,1480.958894828422
 Argosy Collegiate,1480.958894828422
+MATCH Charter,1480.958894828422
 Auburn,1478.61494948109
 Lynn Tech,1478.323962239253
 Dana Hall,1477.76805379248
 Northbridge,1476.6331719276134
 Triton,1474.9164781259105
-Lynnfield,1474.0579677985552
 Nobles,1474.0579677985552
 Stoneham,1474.0579677985552
 Plymouth South,1474.0579677985552
 Lowell Catholic,1474.0579677985552
+Lynnfield,1474.0579677985552
 Dedham,1473.4022468782396
+Pioneer Charter II,1472.3194943311557
 Belmont,1472.0477208703921
-Westborough,1472.0477208703921
 Hamilton-Wenham,1472.0477208703921
-Austin Prep,1469.8029128905005
+Westborough,1472.0477208703921
+Westwood,1469.7037755230601
 Clinton,1469.7037755230601
 Reading,1468.6747379504418
 Westport,1468.2895236007273
 Mashpee,1468.2895236007273
 Norton,1467.7219979695835
 Millis,1466.8350182675417
-Pentucket,1466.0002756236945
 Thayer,1466.0002756236945
+Pentucket,1466.0002756236945
 Foxborough Charter,1465.6332418854008
 Southbridge,1465.2259075746354
-Wakefield,1463.981015801674
+Medford,1464.4910729202097
 Community Charter,1463.981015801674
+Wakefield,1463.981015801674
 Gloucester,1463.7959789666031
 Deerfield,1463.3817665024696
 Brookline,1463.1365469123623
@@ -269,15 +267,16 @@ Greenwich CD (Conn.),1462.658505612795
 Hampden Charter East,1462.1747263397867
 Mansfield,1462.1747263397867
 Athol,1461.9112290923845
-St. George’s,1461.3397524996503
 Lexington,1461.3397524996503
+St. George’s,1461.3397524996503
 Hull,1461.0322047426198
 South Shore Voc-Tech,1460.8452784534709
 Cohasset,1460.5407387656348
 Brooks,1460.512341160253
-Middleborough,1460.267789656844
 Shrewsbury,1460.267789656844
+Middleborough,1460.267789656844
 Bourne,1459.763563992412
+Austin Prep,1458.8629627131754
 Avon,1458.8108240115537
 Hampshire,1458.3596862676152
 Scituate,1458.3596862676152
@@ -290,19 +289,21 @@ Wellesley,1456.4062821419589
 Old Colony,1456.4062821419589
 Bromfield,1456.4062821419589
 Ipswich,1456.3147336166055
+Marlborough,1456.032529116783
+La Salle (R.I.),1455.9420667560353
 Belchertown,1455.9420667560353
-Lynn English,1455.2276548326363
+Maimonides,1455.629503327185
 Worcester Tech,1455.2276548326363
+Lynn English,1455.2276548326363
+Framingham,1455.223475699392
 Innovation Academy,1455.223475699392
 CASH,1455.223475699392
-Framingham,1455.223475699392
 North Middlesex,1454.8848050085733
 Dublin,1453.0000551343546
 Main South,1452.7111417066615
 Beverly,1452.7111417066615
-Uxbridge,1452.0977743429055
 Weston,1452.0977743429055
-Excel Academy,1451.170851658404
+Uxbridge,1452.0977743429055
 New Bedford,1451.170851658404
 Dennis-Yarmouth,1450.852390034382
 Winsor,1449.6414034994268
@@ -314,19 +315,19 @@ Durfee,1447.1657835245317
 Holliston,1447.1657835245317
 Lenox,1443.9214388327907
 Bishop Stang,1441.7062466664718
-Quaboag,1441.19445064491
 Franklin,1441.19445064491
+Quaboag,1441.19445064491
 Boston United,1439.7448077880372
 Weymouth,1439.2876101996353
 Bellingham,1437.9849159012142
 Cape Cod Academy,1437.9849159012142
-Notre Dame Cristo Rey,1436.7742558480977
 Pacific Rim Charter,1436.7742558480977
 Westfield,1436.7742558480977
-Pioneer Charter II,1435.282542065763
+Notre Dame Cristo Rey,1436.7742558480977
 Notre Dame (Worcester),1434.9290472014545
 Assabet,1434.5826941383418
 Holyoke,1426.2845861064156
+Excel Academy,1414.1338993930112
 Pioneer Valley,1413.7222059123899
 Portsmouth Abbey,1409.2076442269738
-Groton,1403.2530780497839
+Groton,1376.6853049165713

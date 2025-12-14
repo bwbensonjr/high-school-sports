@@ -1,6 +1,6 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
-2025-12-03,66699,FINAL,Holderness,4173,63,1,Groton,4544,29,0,Independent,ISL,4:00 P.M.,,0
-2025-12-03,66705,FINAL,Portsmouth Abbey,4320,37,0,Middlesex,4248,56,1,EIL,ISL,,,0
+2025-12-03,66699,FINAL,Holderness,4173,63.0,1.0,Groton,4544,29.0,0.0,Independent,ISL,4:00 P.M.,,0
+2025-12-03,66705,FINAL,Portsmouth Abbey,4320,37.0,0.0,Middlesex,4248,56.0,1.0,EIL,ISL,,,0
 2025-12-05,66665,UPCOMING,Muniz,5018,,,Boston Collegiate,4592,,,Boston City,Charter School Athletic,4:00 P.M.,,0
 2025-12-05,66702,FINAL,Middlesex,4248,29,0,Concord Academy,4096,41,1,ISL,EIL,,,0
 2025-12-06,65832,UPCOMING,Archbishop Williams,4012,,,Newton North,4279,,,Catholic Central,Bay State,10:15 A.M.,,0
@@ -152,11 +152,15 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-12,69643,FINAL,Uxbridge,4398,28,0,Douglas,4506,45,1,Independent,Independent,,,0
 2025-12-12,69646,FINAL,Bancroft,4023,66,1,Dublin,4121,23,0,EIL,Independent,,,0
 2025-12-13,66209,UPCOMING,Saugus,4341,,,Southeastern,4358,,,Northeastern,Mayflower,2:20 P.M.,,0
-2025-12-13,66246,UPCOMING,Concord-Carlisle,4097,,,Medford,4242,,,Dual County,Greater Boston,1:00 P.M.,,0
-2025-12-13,66529,UPCOMING,Bridgewater-Raynham,4053,,,Westwood,4424,,,Pioneer,Tri-Valley,1:00 P.M.,,0
-2025-12-13,67113,UPCOMING,Excel Academy,4969,,,Pioneer Charter II,4964,,,Charter School Athletic,Charter School Athletic,12:00 P.M.,,0
-2025-12-13,67211,UPCOMING,Maimonides,4473,,,Blackstone Valley,4046,,,Independent,Independent,7:30 P.M.,,0
-2025-12-13,67266,UPCOMING,Bishop Feehan,4042,,,La Salle (R.I.),4201,,,Catholic Central,Independent,2:30 P.M.,,0
+2025-12-13,66246,FINAL,Concord-Carlisle,4097,46,1,Medford,4242,29,0,Dual County,Greater Boston,1:00 P.M.,,0
+2025-12-13,66529,FINAL,Bridgewater-Raynham,4053,44,1,Westwood,4424,33,0,Pioneer,Tri-Valley,1:00 P.M.,,0
+2025-12-13,67113,FINAL,Excel Academy,4969,24,0,Pioneer Charter II,4964,31,1,Charter School Athletic,Charter School Athletic,12:00 P.M.,,0
+2025-12-13,67211,FINAL,Maimonides,4473,27,0,Blackstone Valley,4046,49,1,Independent,Independent,7:30 P.M.,,0
+2025-12-13,67266,FINAL,Bishop Feehan,4042,63,1,La Salle (R.I.),4201,29,0,Catholic Central,Independent,2:30 P.M.,,0
+2025-12-13,69662,FINAL,Austin Prep,4020,68,0,Northfield Mt. Hermon,4294,69,1,Independent,Independent,,,0
+2025-12-13,69690,FINAL,Rivers,4330,46,1,St. Mark’s,4372,37,0,ISL,ISL,,,0
+2025-12-13,69691,FINAL,Marlborough,4233,37,0,Hudson,4182,59,1,Mid-Wach,Mid-Wach,,,0
+2025-12-13,69699,FINAL,Lawrence Academy,4204,64,1,Groton,4544,23,0,ISL,ISL,,,0
 2025-12-14,68533,UPCOMING,Martha’s Vineyard,4235,,,Nantucket,4265,,,Cape & Islands,Cape & Islands,1:30 P.M.,,0
 2025-12-15,66226,UPCOMING,Chelsea,4086,,,Excel Academy,4969,,,Greater Boston,Charter School Athletic,4:00 P.M.,,0
 2025-12-15,66308,UPCOMING,Stoughton,4381,,,Brockton,4058,,,Hockomock,Big Three,6:00 P.M.,,0
