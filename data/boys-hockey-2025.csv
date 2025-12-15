@@ -96,9 +96,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-13,68835,UPCOMING,Pentucket,4309,,,Timberlane (N.H.),4502,,,Cape Ann,Independent,2:00 P.M.,,0
 2025-12-13,68872,UPCOMING,Chelmsford,4085,,,North Reading,4288,,,Merrimack Valley/Dual County,Cape Ann,4:30 P.M.,,0
 2025-12-13,69695,FINAL,Lawrence Academy,4204,0,0,Belmont Hill,4035,3,1,ISL,ISL,,,0
-2025-12-14,65760,UPCOMING,Silver Lake,4349,,,Mansfield,4230,,,Patriot,Hockomock,1:20 P.M.,,0
-2025-12-14,65763,UPCOMING,Nantucket,4265,,,Martha’s Vineyard,4235,,,Cape & Islands,Cape & Islands,2:00 P.M.,,0
-2025-12-14,68916,UPCOMING,Lowell,4216,,,Lunenburg/Ayer Shirley,4219,,,Merrimack Valley/Dual County,Coughlin,1:00 P.M.,,0
+2025-12-14,65760,FINAL,Silver Lake,4349,3,0,Mansfield,4230,6,1,Patriot,Hockomock,1:20 P.M.,,0
+2025-12-14,65763,FINAL,Nantucket,4265,1,0,Martha’s Vineyard,4235,9,1,Cape & Islands,Cape & Islands,2:00 P.M.,,0
+2025-12-14,68916,FINAL,Lowell,4216,1,0,Lunenburg/Ayer Shirley,4219,4,1,Merrimack Valley/Dual County,Coughlin,1:00 P.M.,,0
 2025-12-15,65766,UPCOMING,Stoughton/Brockton,4381,,,Foxborough,4142,,,Independent,Hockomock,4:00 P.M.,,0
 2025-12-15,65767,UPCOMING,Greenfield,4157,,,East Longmeadow,4127,,,Wright Division,Berry Division,4:30 P.M.,,0
 2025-12-15,65769,UPCOMING,Norton,4295,,,Dover-Sherborn/Weston,4118,,,Tri-Valley,Tri-Valley,4:30 P.M.,,0

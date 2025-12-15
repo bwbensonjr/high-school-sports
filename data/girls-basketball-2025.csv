@@ -44,7 +44,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-11,67147,FINAL,Muniz,5018,26,1,MATCH Charter,4594,22,0,Boston City,Charter School Athletic,5:00 P.M.,,0
 2025-12-11,67152,FINAL,Pacific Rim Charter,4478,12,0,Neighborhood House Charter,5035,55,1,Charter School Athletic,Charter School Athletic,5:00 P.M.,,0
 2025-12-11,67176,FINAL,Pioneer Charter II,4964,21,0,Prospect Hill,4593,68,1,Charter School Athletic,Charter School Athletic,4:15 P.M.,,0
-2025-12-11,67180,UPCOMING,Roxbury Prep,4847,,,Randolph,4327,,,Charter School Athletic,South Shore,5:00 P.M.,,0
+2025-12-11,67180,FINAL,Roxbury Prep,4847,13,0,Randolph,4327,33,1,Charter School Athletic,South Shore,5:00 P.M.,,0
 2025-12-11,67197,FINAL,Maimonides,4473,47,1,Brooke Charter,5071,46,0,Independent,Charter School Athletic,6:30 P.M.,,0
 2025-12-11,67221,FINAL,Atlantis Charter,4818,41,1,Avon,4460,14,0,Independent,Mayflower,3:30 P.M.,,0
 2025-12-11,67226,FINAL,Rockland,4331,49,1,Calvary Chapel,4828,24,0,South Shore,Independent,4:00 P.M.,,0
@@ -75,10 +75,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-12,66261,FINAL,Franklin,4144,33,0,Wachusett,4400,66,1,Hockomock,Mid-Wach,6:30 P.M.,,0
 2025-12-12,66286,FINAL,Canton,4071,45,1,Millis,4251,31,0,Hockomock,Tri-Valley,6:00 P.M.,,0
 2025-12-12,66294,FINAL,Mansfield,4230,33,0,Medway,4243,42,1,Hockomock,Tri-Valley,6:00 P.M.,,0
-2025-12-12,66439,UPCOMING,Blackstone Valley,4046,,,Ashland,4015,,,Independent,Tri-Valley,6:30 P.M.,,0
+2025-12-12,66439,FINAL,Blackstone Valley,4046,34,0,Ashland,4015,39,1,Independent,Tri-Valley,6:30 P.M.,1.0,0
 2025-12-12,66450,FINAL,Holliston,4174,25,0,Waltham,4405,48,1,Tri-Valley,Dual County,6:00 P.M.,,0
 2025-12-12,66464,FINAL,Hopedale,4507,60,1,Dedham,4108,52,0,Independent,Tri-Valley,6:30 P.M.,1.0,0
-2025-12-12,66472,UPCOMING,Arlington Catholic,4014,,,Cambridge,4067,,,Catholic Central,Dual County,7:00 P.M.,,0
+2025-12-12,66472,FINAL,Arlington Catholic,4014,49,1,Cambridge,4067,43,0,Catholic Central,Dual County,7:00 P.M.,,0
 2025-12-12,66503,FINAL,Watertown,4409,63,1,Belmont,4034,54,0,Middlesex,Middlesex,7:00 P.M.,,0
 2025-12-12,66524,FINAL,Burlington,4065,39,1,Lexington,4209,17,0,Middlesex,Middlesex,6:00 P.M.,,0
 2025-12-12,66542,FINAL,Bellingham,4033,33,0,Dracut,4119,73,1,Tri-Valley,Merrimack Valley,7:00 P.M.,,0
@@ -87,7 +87,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-12,66564,FINAL,Stoneham,4380,51,0,Winchester,4434,55,1,Middlesex,Middlesex,6:00 P.M.,,0
 2025-12-12,66589,FINAL,Wakefield,4402,36,0,Woburn,4438,44,1,Middlesex,Middlesex,6:30 P.M.,,0
 2025-12-12,66630,FINAL,Apponequet,4011,52,1,Norton,4295,39,0,South Coast,Tri-Valley,6:30 P.M.,,0
-2025-12-12,66678,UPCOMING,Codman Charter,4482,,,Pacific Rim Charter,4478,,,Charter School Athletic,Charter School Athletic,4:00 P.M.,,0
+2025-12-12,66678,FINAL,Codman Charter,4482,40,1,Pacific Rim Charter,4478,20,0,Charter School Athletic,Charter School Athletic,4:00 P.M.,,0
 2025-12-12,66761,FINAL,Wilmington,4432,42,0,Arlington,4013,55,1,Middlesex,Middlesex,7:00 P.M.,,0
 2025-12-12,66888,UPCOMING,Tyngsborough,4397,,,Westford,4421,,,Mid-Wach,Dual County,6:00 P.M.,,0
 2025-12-12,66900,FINAL,Boston Latin,4049,35,0,O’Bryant,4298,36,1,Dual County,Boston City,6:30 P.M.,,0
@@ -95,7 +95,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-12,67097,FINAL,Lynnfield,4223,34,0,Newburyport,4276,38,1,Cape Ann,Cape Ann,5:30 P.M.,,0
 2025-12-12,67118,FINAL,Neighborhood House Charter,5035,59,1,Foxborough Charter,4588,26,0,Charter School Athletic,Charter School Athletic,4:30 P.M.,,0
 2025-12-12,67132,FINAL,Hampden Charter East,4712,24,0,McCann Tech,4240,33,1,Charter School Athletic,Independent,6:00 P.M.,,0
-2025-12-12,67163,UPCOMING,Pioneer Charter I,4701,,,Northeast,4293,,,Charter School Athletic,Commonwealth,5:00 P.M.,,0
+2025-12-12,67163,FINAL,Pioneer Charter I,4701,34,0,Northeast,4293,35,1,Charter School Athletic,Commonwealth,5:00 P.M.,,0
 2025-12-12,67188,FINAL,Community Charter,4587,32,0,Salem Academy,4604,40,1,Charter School Athletic,Charter School Athletic,6:15 P.M.,,0
 2025-12-12,67213,FINAL,Notre Dame Cristo Rey,5127,12,0,Rockport,4490,55,1,Commonwealth,Independent,5:00 P.M.,,0
 2025-12-12,67228,FINAL,Calvary Chapel,4828,37,1,Hull,4184,22,0,Independent,South Shore,4:00 P.M.,,0
@@ -111,7 +111,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-12,67379,FINAL,Brockton,4058,35,0,Abington,4002,55,1,Big Three,South Shore,5:00 P.M.,,0
 2025-12-12,67385,FINAL,New Bedford,4273,40,0,Old Rochester,4301,58,1,Big Three,South Coast,6:30 P.M.,,0
 2025-12-12,67396,FINAL,Shawsheen,4346,46,1,Mystic Valley,4264,27,0,Commonwealth,Commonwealth,5:30 P.M.,,0
-2025-12-12,67405,UPCOMING,Norfolk Aggie,4458,,,Holbrook,4172,,,Mayflower,Mayflower,5:00 P.M.,,0
+2025-12-12,67405,FINAL,Norfolk Aggie,4458,28,0,Holbrook,4172,49,1,Mayflower,Mayflower,5:00 P.M.,,0
 2025-12-12,67416,FINAL,Westport,4461,30,0,Blue Hills,4047,36,1,Mayflower,Mayflower,5:00 P.M.,,0
 2025-12-12,67431,FINAL,Bristol-Plymouth,4057,39,0,Nauset,4271,40,1,Mayflower,Cape & Islands,6:30 P.M.,,0
 2025-12-12,67437,FINAL,Innovation Academy,4690,26,0,Parker Charter,4483,40,1,Commonwealth,Independent,4:00 P.M.,,0
@@ -161,7 +161,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-13,69690,FINAL,Rivers,4330,46,1,St. Mark’s,4372,37,0,ISL,ISL,,,0
 2025-12-13,69691,FINAL,Marlborough,4233,37,0,Hudson,4182,59,1,Mid-Wach,Mid-Wach,,,0
 2025-12-13,69699,FINAL,Lawrence Academy,4204,64,1,Groton,4544,23,0,ISL,ISL,,,0
-2025-12-14,68533,UPCOMING,Martha’s Vineyard,4235,,,Nantucket,4265,,,Cape & Islands,Cape & Islands,1:30 P.M.,,0
+2025-12-14,68533,FINAL,Martha’s Vineyard,4235,36,1,Nantucket,4265,32,0,Cape & Islands,Cape & Islands,1:30 P.M.,,0
+2025-12-14,69718,FINAL,Jackson-Reed (D.C),5234,17,0,Cathedral,4079,56,1,Independent,Catholic Central,,,0
 2025-12-15,66226,UPCOMING,Chelsea,4086,,,Excel Academy,4969,,,Greater Boston,Charter School Athletic,4:00 P.M.,,0
 2025-12-15,66308,UPCOMING,Stoughton,4381,,,Brockton,4058,,,Hockomock,Big Three,6:00 P.M.,,0
 2025-12-15,66460,UPCOMING,Arlington,4013,,,Notre Dame (Hingham),4449,,,Middlesex,Catholic Conference,7:00 P.M.,,0

@@ -30,7 +30,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-11,66194,FINAL,Boston United,4798,56,1,Pioneer Charter II,4964,48,0,Boston City,Charter School Athletic,5:30 P.M.,,0
 2025-12-11,66347,FINAL,Avon,4460,86,1,Atlantis Charter,4818,43,0,Mayflower,Independent,5:00 P.M.,,0
 2025-12-11,66387,FINAL,Tri-County,4392,39,0,Old Colony,4300,55,1,Mayflower,Mayflower,6:30 P.M.,,0
-2025-12-11,66428,POSTPONED,Bourne,4050,,,Nantucket,4265,,,South Coast,Cape & Islands,3:00 P.M.,,0
 2025-12-11,66921,FINAL,St. Paul,4954,56,0,Grafton,4153,65,1,Independent,Independent,6:00 P.M.,,0
 2025-12-11,67013,FINAL,Gardner,4147,87,1,Murdock,4263,38,0,Mid-Wach,Mid-Wach,7:00 P.M.,,0
 2025-12-11,69481,FINAL,Doherty,4116,50,0,Lincoln-Sudbury,4211,58,1,Independent,Dual County,,,0
@@ -41,7 +40,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-11,69516,FINAL,South Hadley,4353,51,0,Amherst-Pelham,4008,71,1,Independent,Independent,,,0
 2025-12-11,69517,FINAL,Westfield,4419,44,0,Minnechaug,4254,51,1,Independent,Independent,,,0
 2025-12-11,69520,FINAL,Hampshire,4518,61,1,Monson,4429,52,0,Independent,Independent,,,0
-2025-12-11,69523,UPCOMING,Lee,4206,,,Wahconah,4401,,,Independent,Independent,,,0
+2025-12-11,69523,FINAL,Lee,4206,53,0,Wahconah,4401,75,1,Independent,Independent,,,0
 2025-12-11,69525,FINAL,Ware,4406,54,0,Frontier,4146,71,1,Independent,Independent,,,0
 2025-12-11,69526,FINAL,Holyoke,4176,73,1,Northampton,4291,70,0,Independent,Independent,,,0
 2025-12-12,65062,FINAL,Brookline,4059,60,1,Natick,4270,54,0,Bay State,Bay State,6:30 P.M.,,0
@@ -84,7 +83,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-12,66121,FINAL,Burncoat,4066,56,0,Malden Catholic,4228,65,1,Independent,Catholic Conference,6:30 P.M.,,0
 2025-12-12,66125,FINAL,St. John’s (Shrewsbury),4368,68,1,Leominster,4208,32,0,Catholic Conference,Mid-Wach,6:30 P.M.,,0
 2025-12-12,66135,FINAL,Neighborhood House Charter,5035,59,0,Foxborough Charter,4588,60,1,Charter School Athletic,Charter School Athletic,6:00 P.M.,,0
-2025-12-12,66144,UPCOMING,Codman Charter,4482,,,Pacific Rim Charter,4478,,,Charter School Athletic,Charter School Athletic,5:30 P.M.,,0
+2025-12-12,66144,FINAL,Codman Charter,4482,27,0,Pacific Rim Charter,4478,52,1,Charter School Athletic,Charter School Athletic,5:30 P.M.,,0
 2025-12-12,66156,FINAL,Collegiate Charter,4986,49,1,Boston Collegiate,4592,29,0,Charter School Athletic,Charter School Athletic,4:45 P.M.,,0
 2025-12-12,66164,UPCOMING,Chelsea,4086,,,Brooke Charter,5071,,,Greater Boston,Charter School Athletic,5:30 P.M.,,0
 2025-12-12,66187,UPCOMING,New Heights Charter,5088,,,Southeastern,4358,,,Charter School Athletic,Independent,5:30 P.M.,,0
@@ -137,8 +136,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-13,69689,FINAL,Rivers,4330,72,1,Newman School,4277,55,0,ISL,MBIL,,,0
 2025-12-13,69694,FINAL,Danvers,4103,45,0,Bishop Fenwick,4043,61,1,Northeastern,Catholic Central,,,0
 2025-12-13,69698,FINAL,Lawrence Academy,4204,74,1,Groton,4544,31,0,ISL,ISL,,,0
-2025-12-14,66076,UPCOMING,Scituate,4343,,,Archbishop Williams,4012,,,Patriot,Catholic Central,3:00 P.M.,,0
-2025-12-14,66740,UPCOMING,Nantucket,4265,,,Martha’s Vineyard,4235,,,Cape & Islands,Cape & Islands,11:30 A.M.,,0
+2025-12-14,66076,POSTPONED,Scituate,4343,,,Archbishop Williams,4012,,,Patriot,Catholic Central,3:00 P.M.,,0
+2025-12-14,66740,FINAL,Nantucket,4265,67,1,Martha’s Vineyard,4235,60,0,Cape & Islands,Cape & Islands,11:30 A.M.,,0
 2025-12-15,65571,UPCOMING,Pentucket,4309,,,Melrose,4244,,,Cape Ann,Middlesex,6:30 P.M.,,0
 2025-12-15,65593,UPCOMING,Acton-Boxborough,4003,,,Andover,4009,,,Dual County,Merrimack Valley,6:30 P.M.,,0
 2025-12-15,65890,UPCOMING,Essex Tech,4745,,,Northeast,4293,,,Cape Ann,Commonwealth,6:30 P.M.,,0
@@ -445,6 +444,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-22,66384,UPCOMING,St. John Paul II,4689,,,Norfolk Aggie,4458,,,Cape & Islands,Mayflower,5:30 P.M.,,0
 2025-12-22,66394,UPCOMING,Southeastern,4358,,,Westport,4461,,,Independent,Mayflower,6:30 P.M.,,0
 2025-12-22,66407,UPCOMING,Wareham,4407,,,Nauset,4271,,,Independent,Cape & Islands,6:30 P.M.,,0
+2025-12-22,66428,UPCOMING,Bourne,4050,,,Nantucket,4265,,,South Coast,Cape & Islands,3:00 P.M.,,0
 2025-12-22,66785,UPCOMING,Hanover,4164,,,Duxbury,4123,,,Patriot,Patriot,6:30 P.M.,,0
 2025-12-22,66798,UPCOMING,Plymouth South,4316,,,Hingham,4171,,,Patriot,Patriot,6:30 P.M.,,0
 2025-12-22,66802,UPCOMING,Pembroke,4308,,,Marshfield,4234,,,Patriot,Patriot,6:30 P.M.,,0
