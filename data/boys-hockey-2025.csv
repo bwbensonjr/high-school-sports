@@ -2,8 +2,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-03,65411,FINAL,Dexter Southfield,4113,4.0,1.0,Cushing,4101,1.0,0.0,Independent,Independent,5:30 P.M.,,0
 2025-12-03,66694,FINAL,Holderness,4173,6.0,1.0,Proctor,4321,3.0,0.0,Independent,Independent,4:00 P.M.,,0
 2025-12-03,66708,FINAL,Austin Prep,4020,6.0,1.0,Kents Hill,4194,2.0,0.0,Independent,Independent,2:30 P.M.,,0
-2025-12-05,66693,FINAL,Hebron (Maine),4168,0,0,Holderness,4173,4,1,Independent,Independent,5:00 P.M.,,0
-2025-12-05,66710,FINAL,Austin Prep,4020,8,1,Academie Saint-Louis (Que.),5066,2,0,Independent,Independent,2:45 P.M.,,0
+2025-12-05,66693,FINAL,Hebron (Maine),4168,0.0,0.0,Holderness,4173,4.0,1.0,Independent,Independent,5:00 P.M.,,0
+2025-12-05,66710,FINAL,Austin Prep,4020,8.0,1.0,Academie Saint-Louis (Que.),5066,2.0,0.0,Independent,Independent,2:45 P.M.,,0
 2025-12-06,66713,FINAL,Hoosac School,4688,3,0,Austin Prep,4020,5,1,Independent,Independent,2:00 P.M.,,0
 2025-12-06,67208,FINAL,Lawrence Academy,4204,3,0,Choate,4090,5,1,ISL,Founders,,,0
 2025-12-07,67473,FINAL,Tabor,4384,3,1,Lawrence Academy,4204,1,0,ISL,ISL,,,0
@@ -99,17 +99,17 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-14,65760,FINAL,Silver Lake,4349,3,0,Mansfield,4230,6,1,Patriot,Hockomock,1:20 P.M.,,0
 2025-12-14,65763,FINAL,Nantucket,4265,1,0,Martha’s Vineyard,4235,9,1,Cape & Islands,Cape & Islands,2:00 P.M.,,0
 2025-12-14,68916,FINAL,Lowell,4216,1,0,Lunenburg/Ayer Shirley,4219,4,1,Merrimack Valley/Dual County,Coughlin,1:00 P.M.,,0
-2025-12-15,65766,UPCOMING,Stoughton/Brockton,4381,,,Foxborough,4142,,,Independent,Hockomock,4:00 P.M.,,0
-2025-12-15,65767,UPCOMING,Greenfield,4157,,,East Longmeadow,4127,,,Wright Division,Berry Division,4:30 P.M.,,0
-2025-12-15,65769,UPCOMING,Norton,4295,,,Dover-Sherborn/Weston,4118,,,Tri-Valley,Tri-Valley,4:30 P.M.,,0
-2025-12-15,65770,UPCOMING,Newburyport,4276,,,Franklin,4144,,,Cape Ann,Hockomock,5:00 P.M.,,0
-2025-12-15,65772,UPCOMING,Lunenburg/Ayer Shirley,4219,,,Nashoba  Tech/Greater Lowell,4268,,,Coughlin,Commonwealth,5:30 P.M.,,0
-2025-12-15,65774,UPCOMING,Somerville,4351,,,Wakefield,4402,,,Greater Boston,Middlesex,5:30 P.M.,,0
-2025-12-15,65776,UPCOMING,Auburn,4019,,,Hopedale,4507,,,Independent,Russell,6:00 P.M.,,0
-2025-12-15,65777,UPCOMING,Leominster,4208,,,Gardner,4147,,,Roy,Coughlin,6:30 P.M.,,0
+2025-12-15,65766,FINAL,Stoughton/Brockton,4381,6,0,Foxborough,4142,9,1,Independent,Hockomock,4:00 P.M.,,0
+2025-12-15,65767,FINAL,Greenfield,4157,4,0,East Longmeadow,4127,6,1,Wright Division,Berry Division,4:30 P.M.,,0
+2025-12-15,65769,FINAL,Norton,4295,0,0,Dover-Sherborn/Weston,4118,3,1,Tri-Valley,Tri-Valley,4:30 P.M.,,0
+2025-12-15,65770,FINAL,Newburyport,4276,1,0,Franklin,4144,2,1,Cape Ann,Hockomock,5:00 P.M.,,0
+2025-12-15,65772,FINAL,Lunenburg/Ayer Shirley,4219,2,0,Worcester,4066,4,1,Coughlin,Russell,7:00 P.M.,,0
+2025-12-15,65774,FINAL,Somerville,4351,1,0,Wakefield,4402,3,1,Greater Boston,Middlesex,5:30 P.M.,,0
+2025-12-15,65776,FINAL,Auburn,4019,5,1,Hopedale,4507,3,0,Independent,Russell,6:00 P.M.,,0
+2025-12-15,65777,POSTPONED,Leominster,4208,,,Gardner,4147,,,Roy,Coughlin,6:30 P.M.,,0
 2025-12-15,65778,UPCOMING,Lowell,4216,,,Worcester,4066,,,Merrimack Valley/Dual County,Russell,7:30 P.M.,,0
-2025-12-15,65780,UPCOMING,Holliston/Ashland,4174,,,Bellingham,4033,,,Tri-Valley,Tri-Valley,8:30 P.M.,,0
-2025-12-15,68936,UPCOMING,Latin Academy,4202,,,Northeast,4293,,,Boston City,Commonwealth,7:00 P.M.,,0
+2025-12-15,65780,FINAL,Holliston/Ashland,4174,4,1,Bellingham,4033,2,0,Tri-Valley,Tri-Valley,8:30 P.M.,,0
+2025-12-15,68936,FINAL,Latin Academy,4202,2,0,Northeast,4293,3,1,Boston City,Commonwealth,7:00 P.M.,,0
 2025-12-16,68814,UPCOMING,Danvers,4103,,,Amesbury/Whittier,4007,,,Northeastern,Cape Ann,4:30 P.M.,,0
 2025-12-16,68874,UPCOMING,Triton,4395,,,North Reading,4288,,,Cape Ann,Cape Ann,6:00 P.M.,,0
 2025-12-17,64978,UPCOMING,St. John’s Prep,4369,,,Hingham,4171,,,Catholic Conference,Independent,6:40 P.M.,,0
@@ -258,3 +258,18 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-23,69401,UPCOMING,Wellesley,4413,,,Needham,4272,,,Bay State,Bay State,4:00 P.M.,,0
 2025-12-23,69415,UPCOMING,Newton South,4280,,,Norton,4295,,,Merrimack Valley/Dual County,Tri-Valley,4:00 P.M.,,0
 2025-12-24,64981,UPCOMING,Hingham,4171,,,Weymouth,4425,,,Independent,Bay State,12:00 P.M.,,0
+2025-12-26,67501,UPCOMING,Duxbury,4123,,,Scituate,4343,,,Patriot,Patriot,7:20 P.M.,,0
+2025-12-26,67542,UPCOMING,Winthrop,4437,,,Hanover,4164,,,Northeastern,Patriot,2:00 P.M.,,0
+2025-12-26,67582,UPCOMING,Triton,4395,,,Silver Lake,4349,,,Cape Ann,Patriot,3:00 P.M.,,0
+2025-12-26,67645,UPCOMING,Shrewsbury,4348,,,Whitman-Hanson,4427,,,Merrimack Valley/Dual County,Patriot,5:00 P.M.,,0
+2025-12-26,67837,UPCOMING,Pope Francis,4796,,,Central Catholic,4081,,,Independent,Merrimack Valley/Dual County,1:10 P.M.,,0
+2025-12-26,67871,UPCOMING,Malden Catholic,4228,,,Masconomet,4236,,,Catholic Conference,Northeastern,7:20 P.M.,,0
+2025-12-26,67890,UPCOMING,St. John’s Prep,4369,,,BC High,4029,,,Catholic Conference,Catholic Conference,3:20 P.M.,,0
+2025-12-26,67977,UPCOMING,Abington,4002,,,South Shore Voc-Tech,4356,,,South Shore,Mayflower,5:50 P.M.,,0
+2025-12-26,68039,UPCOMING,Rockland,4331,,,East/West Bridgewater,4126,,,South Shore,South Shore,7:30 P.M.,,0
+2025-12-26,68119,UPCOMING,Oliver Ames,4302,,,Bridgewater-Raynham,4053,,,Hockomock,Pioneer,3:00 P.M.,,0
+2025-12-26,68178,UPCOMING,Hopkinton,4180,,,Barnstable,4024,,,Tri-Valley,Pioneer,5:20 P.M.,,0
+2025-12-26,68940,UPCOMING,Northeast,4293,,,Keefe Tech,4191,,,Commonwealth,Independent,4:30 P.M.,,0
+2025-12-26,69033,UPCOMING,Gloucester,4150,,,Medford,4242,,,Northeastern,Greater Boston,7:00 P.M.,,0
+2025-12-26,69059,UPCOMING,Marblehead,4231,,,Medfield,4241,,,Northeastern,Tri-Valley,5:00 P.M.,,0
+2025-12-26,69090,UPCOMING,Boston Latin,4049,,,Lynnfield,4223,,,Merrimack Valley/Dual County,Cape Ann,12:00 P.M.,,0

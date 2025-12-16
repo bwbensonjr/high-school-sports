@@ -1,7 +1,7 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
 2025-12-03,65333,FINAL,Middlesex,4248,6.0,1.0,Pingree,4312,0.0,0.0,ISL,EIL,,,0
 2025-12-03,66695,FINAL,Holderness,4173,2.0,2.0,Tilton,4391,2.0,2.0,Independent,Independent,4:00 P.M.,,0
-2025-12-05,66696,FINAL,Holderness,4173,1,0,Berwick,4037,3,1,Independent,EIL,4:30 P.M.,,0
+2025-12-05,66696,FINAL,Holderness,4173,1.0,0.0,Berwick,4037,3.0,1.0,Independent,EIL,4:30 P.M.,,0
 2025-12-06,66688,FINAL,Pingree,4312,1,0,Mount St. Charles (R.I.),4488,2,1,EIL,Independent,,,0
 2025-12-06,67095,FINAL,Austin Prep,4020,4,1,Tilton,4391,1,0,Independent,Independent,4:10 P.M.,,0
 2025-12-06,67201,FINAL,Hebron (Maine),4168,2,1,Pingree,4312,1,0,Independent,EIL,,,0
@@ -61,10 +61,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-14,65191,FINAL,Weymouth,4425,0,0,Pope Francis,4796,3,1,Bay State,Central/West,12:00 P.M.,,0
 2025-12-14,65192,FINAL,Latin Academy/Fontbonne,4202,5,1,Stoughton,4381,3,0,Independent,Independent,4:00 P.M.,,0
 2025-12-14,65195,FINAL,Longmeadow,4214,3,2,Andover,4009,3,2,Central/West,Merrimack Valley/Dual County,5:10 P.M.,,0
-2025-12-15,65197,UPCOMING,Concord-Carlisle,4097,,,Lexington,4209,,,Merrimack Valley/Dual County,Middlesex,4:00 P.M.,,0
-2025-12-15,65198,UPCOMING,Billerica/Chelmsford,4040,,,Brookline,4059,,,Merrimack Valley/Dual County,Bay State,5:00 P.M.,,0
-2025-12-15,65201,UPCOMING,Shrewsbury,4348,,,Franklin,4144,,,Merrimack Valley/Dual County,Hockomock,6:00 P.M.,,0
-2025-12-15,65204,UPCOMING,Wayland/Weston,4411,,,Medford,4242,,,Merrimack Valley/Dual County,Northeast,6:30 P.M.,,0
+2025-12-15,65197,FINAL,Concord-Carlisle,4097,0,0,Lexington,4209,3,1,Merrimack Valley/Dual County,Middlesex,4:00 P.M.,,0
+2025-12-15,65198,FINAL,Billerica/Chelmsford,4040,1,1,Brookline,4059,0,0,Merrimack Valley/Dual County,Bay State,7:00 P.M.,,0
+2025-12-15,65201,FINAL,Shrewsbury,4348,5,1,Franklin,4144,0,0,Merrimack Valley/Dual County,Hockomock,7:30 P.M.,,0
+2025-12-15,65204,FINAL,Wayland/Weston,4411,2,1,Medford,4242,0,0,Merrimack Valley/Dual County,Northeast,6:30 P.M.,,0
 2025-12-17,65207,UPCOMING,Barnstable,4024,,,Nantucket,4265,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2025-12-17,65208,UPCOMING,Hopkinton/Dover-Sherborn,4118,,,Dedham,4108,,,Tri-Valley,Tri-Valley,4:00 P.M.,,0
 2025-12-17,65211,UPCOMING,Latin Academy/Fontbonne,4202,,,Ursuline,4448,,,Independent,Independent,4:00 P.M.,,0
