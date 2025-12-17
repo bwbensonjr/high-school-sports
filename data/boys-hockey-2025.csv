@@ -4,8 +4,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-03,66708,FINAL,Austin Prep,4020,6.0,1.0,Kents Hill,4194,2.0,0.0,Independent,Independent,2:30 P.M.,,0
 2025-12-05,66693,FINAL,Hebron (Maine),4168,0.0,0.0,Holderness,4173,4.0,1.0,Independent,Independent,5:00 P.M.,,0
 2025-12-05,66710,FINAL,Austin Prep,4020,8.0,1.0,Academie Saint-Louis (Que.),5066,2.0,0.0,Independent,Independent,2:45 P.M.,,0
-2025-12-06,66713,FINAL,Hoosac School,4688,3,0,Austin Prep,4020,5,1,Independent,Independent,2:00 P.M.,,0
-2025-12-06,67208,FINAL,Lawrence Academy,4204,3,0,Choate,4090,5,1,ISL,Founders,,,0
+2025-12-06,66713,FINAL,Hoosac School,4688,3.0,0.0,Austin Prep,4020,5.0,1.0,Independent,Independent,2:00 P.M.,,0
+2025-12-06,67208,FINAL,Lawrence Academy,4204,3.0,0.0,Choate,4090,5.0,1.0,ISL,Founders,,,0
 2025-12-07,67473,FINAL,Tabor,4384,3,1,Lawrence Academy,4204,1,0,ISL,ISL,,,0
 2025-12-07,67485,FINAL,Phillips Andover,4310,4,1,Proctor,4321,1,0,Independent,Independent,,,0
 2025-12-10,68632,FINAL,Austin Prep,4020,5,0,BB&N,4028,6,1,Independent,ISL,,,0
@@ -110,8 +110,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-15,65778,UPCOMING,Lowell,4216,,,Worcester,4066,,,Merrimack Valley/Dual County,Russell,7:30 P.M.,,0
 2025-12-15,65780,FINAL,Holliston/Ashland,4174,4,1,Bellingham,4033,2,0,Tri-Valley,Tri-Valley,8:30 P.M.,,0
 2025-12-15,68936,FINAL,Latin Academy,4202,2,0,Northeast,4293,3,1,Boston City,Commonwealth,7:00 P.M.,,0
-2025-12-16,68814,UPCOMING,Danvers,4103,,,Amesbury/Whittier,4007,,,Northeastern,Cape Ann,4:30 P.M.,,0
-2025-12-16,68874,UPCOMING,Triton,4395,,,North Reading,4288,,,Cape Ann,Cape Ann,6:00 P.M.,,0
+2025-12-16,68814,FINAL,Danvers,4103,4,0,Amesbury/Whittier,4007,6,1,Northeastern,Cape Ann,4:30 P.M.,,0
+2025-12-16,68874,FINAL,Triton,4395,0,0,North Reading,4288,8,1,Cape Ann,Cape Ann,6:00 P.M.,,0
+2025-12-16,70077,FINAL,Lowell,4216,2,0,Worcester,4066,6,1,Merrimack Valley/Dual County,Russell,,,0
+2025-12-16,70096,FINAL,Agawam,4004,2,0,West Springfield,4417,6,1,Fay Division,Berry Division,,,0
 2025-12-17,64978,UPCOMING,St. John’s Prep,4369,,,Hingham,4171,,,Catholic Conference,Independent,6:40 P.M.,,0
 2025-12-17,65041,UPCOMING,Walpole,4404,,,Milton,4252,,,Bay State,Bay State,8:00 P.M.,,0
 2025-12-17,67498,UPCOMING,Xaverian,4446,,,Duxbury,4123,,,Catholic Conference,Patriot,5:10 P.M.,,0
@@ -273,3 +275,36 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-26,69033,UPCOMING,Gloucester,4150,,,Medford,4242,,,Northeastern,Greater Boston,7:00 P.M.,,0
 2025-12-26,69059,UPCOMING,Marblehead,4231,,,Medfield,4241,,,Northeastern,Tri-Valley,5:00 P.M.,,0
 2025-12-26,69090,UPCOMING,Boston Latin,4049,,,Lynnfield,4223,,,Merrimack Valley/Dual County,Cape Ann,12:00 P.M.,,0
+2025-12-27,64982,UPCOMING,Hingham,4171,,,Braintree,4051,,,Independent,Bay State,4:00 P.M.,,0
+2025-12-27,67583,UPCOMING,Walpole,4404,,,Silver Lake,4349,,,Bay State,Patriot,12:00 P.M.,,0
+2025-12-27,67671,UPCOMING,Essex Tech,4745,,,Plymouth South,4316,,,Cape Ann,Patriot,5:00 P.M.,,0
+2025-12-27,67694,UPCOMING,Pembroke,4308,,,Mansfield,4230,,,Patriot,Hockomock,6:00 P.M.,,0
+2025-12-27,67714,UPCOMING,Framingham,4143,,,Marshfield,4234,,,Bay State,Patriot,6:00 P.M.,,0
+2025-12-27,67751,UPCOMING,North Quincy/Quincy,4287,,,Worcester,4066,,,Patriot,Russell,7:30 P.M.,,0
+2025-12-27,67767,UPCOMING,Archbishop Williams,4012,,,Xaverian,4446,,,Catholic Central,Catholic Conference,2:00 P.M.,,0
+2025-12-27,67939,UPCOMING,St. John’s (Shrewsbury),4368,,,Franklin,4144,,,Catholic Conference,Hockomock,8:10 P.M.,,0
+2025-12-27,68011,UPCOMING,Hull/Cohasset,4094,,,Attleboro,4018,,,South Shore,Hockomock,4:00 P.M.,,0
+2025-12-27,68065,UPCOMING,Bishop Stang,4045,,,Middleborough,4247,,,Catholic Central,South Shore,7:30 P.M.,,0
+2025-12-27,68122,UPCOMING,Bridgewater-Raynham,4053,,,St. John Paul II,4689,,,Pioneer,Cape & Islands,8:00 P.M.,,0
+2025-12-27,68200,UPCOMING,Falmouth,4134,,,Wellesley,4413,,,Cape & Islands,Bay State,7:00 P.M.,,0
+2025-12-27,68270,UPCOMING,Dennis-Yarmouth,4111,,,Diman,4115,,,Cape & Islands,Mayflower,3:30 P.M.,,0
+2025-12-27,68389,UPCOMING,East Boston,4125,,,Everett/Revere,4132,,,Boston City,Greater Boston,5:10 P.M.,,0
+2025-12-27,68426,UPCOMING,Bellingham,4033,,,Stoughton/Brockton,4381,,,Tri-Valley,Independent,5:30 P.M.,,0
+2025-12-27,68476,UPCOMING,Lexington,4209,,,Bedford,4031,,,Independent,Merrimack Valley/Dual County,2:00 P.M.,,0
+2025-12-27,68732,UPCOMING,Burlington,4065,,,Stoneham,4380,,,Middlesex,Middlesex,2:15 P.M.,,0
+2025-12-27,68783,UPCOMING,Amesbury/Whittier,4007,,,Melrose,4244,,,Cape Ann,Middlesex,7:00 P.M.,,0
+2025-12-27,68844,UPCOMING,East Longmeadow,4127,,,Pentucket,4309,,,Berry Division,Cape Ann,2:30 P.M.,,0
+2025-12-27,68929,UPCOMING,Lowell,4216,,,Southeastern/B-P,4358,,,Merrimack Valley/Dual County,Mayflower,1:00 P.M.,,0
+2025-12-27,68932,UPCOMING,Minuteman,4255,,,Greater New Bedford,4156,,,Commonwealth,South Coast,7:10 P.M.,,0
+2025-12-27,68941,UPCOMING,Assabet,4016,,,Northeast,4293,,,Independent,Commonwealth,4:30 P.M.,,0
+2025-12-27,69078,UPCOMING,Newton South,4280,,,Watertown,4409,,,Merrimack Valley/Dual County,Middlesex,3:00 P.M.,,0
+2025-12-27,69105,UPCOMING,Canton,4071,,,Westwood,4424,,,Hockomock,Tri-Valley,6:40 P.M.,,0
+2025-12-27,69107,UPCOMING,Arlington Catholic,4014,,,Natick,4270,,,Catholic Central,Bay State,7:20 P.M.,,0
+2025-12-27,69247,UPCOMING,Methuen,4246,,,King Philip,4197,,,Merrimack Valley/Dual County,Hockomock,7:00 P.M.,,0
+2025-12-27,69269,UPCOMING,Hopedale,4507,,,Taunton,4388,,,Russell,Hockomock,3:00 P.M.,,0
+2025-12-27,69293,UPCOMING,Bourne,4050,,,ORR/Fairhaven,4301,,,South Coast,South Coast,7:00 P.M.,,0
+2025-12-27,69406,UPCOMING,Needham,4272,,,Wachusett,4400,,,Bay State,Roy,5:40 P.M.,,0
+2025-12-27,69416,UPCOMING,Dedham,4108,,,Norton,4295,,,Tri-Valley,Tri-Valley,11:30 A.M.,,0
+2025-12-27,69421,UPCOMING,Holliston/Ashland,4174,,,Tri-County,4392,,,Tri-Valley,Mayflower,5:30 P.M.,,0
+2025-12-27,69431,UPCOMING,Medway,4243,,,Grafton,4153,,,Tri-Valley,Russell,12:30 P.M.,,0
+2025-12-27,69448,UPCOMING,Blue Hills,4047,,,Upper Cape,4457,,,Mayflower,Mayflower,8:40 P.M.,,0

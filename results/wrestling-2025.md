@@ -1,6 +1,6 @@
 # Wrestling - 2025 Season
 
-Generated: 2025-12-16 11:18
+Generated: 2025-12-17 11:18
 
 ## Upcoming Games
 
@@ -80,10 +80,10 @@ Generated: 2025-12-16 11:18
 | 22 | Greens Farms | 1529.9 |
 | 23 | Bridgewater-Raynham | 1522.3 |
 | 24 | Trinity-Pawling | 1510.2 |
-| 25 | Wilmington | 1501.7 |
-| 26 | Brookline | 1501.7 |
-| 27 | Framingham | 1501.7 |
-| 28 | North Reading | 1501.7 |
+| 25 | Framingham | 1501.7 |
+| 26 | North Reading | 1501.7 |
+| 27 | Wilmington | 1501.7 |
+| 28 | Brookline | 1501.7 |
 | 29 | Middlesex | 1485.6 |
 | 30 | Beaver Country Day | 1485.1 |
 | 31 | St. Sebastian’s | 1485.1 |
@@ -104,8 +104,8 @@ Generated: 2025-12-16 11:18
 | 46 | Deerfield | 1445.1 |
 | 47 | Lexington Christian | 1443.5 |
 | 48 | Phillips Exeter | 1440.4 |
-| 49 | Walpole | 1439.7 |
-| 50 | Barnstable | 1439.7 |
+| 49 | Barnstable | 1439.7 |
+| 50 | Walpole | 1439.7 |
 | 51 | Pomfret | 1438.1 |
 | 52 | Landmark | 1432.5 |
 | 53 | Carver | 1424.3 |

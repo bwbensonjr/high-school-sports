@@ -1,6 +1,6 @@
 # Girls Hockey - 2025 Season
 
-Generated: 2025-12-16 11:18
+Generated: 2025-12-17 11:18
 
 ## Upcoming Games
 
@@ -161,36 +161,36 @@ Generated: 2025-12-16 11:18
 | 8 | Berwick | 1530.0 |
 | 9 | Barnstable | 1529.2 |
 | 10 | Hanover | 1529.0 |
-| 11 | Auburn | 1526.7 |
-| 12 | Middlesex | 1526.7 |
-| 13 | Woburn | 1525.4 |
-| 14 | Winthrop | 1525.4 |
-| 15 | Martha’s Vineyard | 1525.4 |
-| 16 | Archbishop Williams | 1524.7 |
+| 11 | Middlesex | 1526.7 |
+| 12 | Auburn | 1526.7 |
+| 13 | Winthrop | 1525.4 |
+| 14 | Martha’s Vineyard | 1525.4 |
+| 15 | Woburn | 1525.4 |
+| 16 | Winchester | 1524.7 |
 | 17 | Algonquin | 1524.7 |
-| 18 | Winchester | 1524.7 |
+| 18 | Archbishop Williams | 1524.7 |
 | 19 | Holderness | 1523.6 |
 | 20 | Shrewsbury | 1523.3 |
 | 21 | St. Paul’s | 1522.8 |
 | 22 | Hoosac School | 1522.8 |
-| 23 | Andover | 1520.5 |
-| 24 | Grafton | 1520.5 |
-| 25 | Beverly/Danvers | 1520.5 |
+| 23 | Beverly/Danvers | 1520.5 |
+| 24 | Thayer | 1520.5 |
+| 25 | Grafton | 1520.5 |
 | 26 | Methuen/Tewksbury | 1520.5 |
-| 27 | Thayer | 1520.5 |
-| 28 | Dedham | 1519.5 |
-| 29 | Medfield | 1519.5 |
-| 30 | Plymouth | 1519.5 |
-| 31 | Reading | 1519.5 |
-| 32 | Wellesley/L-S | 1515.8 |
-| 33 | King Philip | 1515.8 |
+| 27 | Andover | 1520.5 |
+| 28 | Plymouth | 1519.5 |
+| 29 | Dedham | 1519.5 |
+| 30 | Reading | 1519.5 |
+| 31 | Medfield | 1519.5 |
+| 32 | King Philip | 1515.8 |
+| 33 | Wellesley/L-S | 1515.8 |
 | 34 | HPNA | 1515.8 |
 | 35 | Natick | 1515.8 |
 | 36 | Groton | 1514.3 |
 | 37 | Williston Northampton | 1513.6 |
-| 38 | Braintree | 1513.5 |
-| 39 | Arlington Catholic | 1513.5 |
-| 40 | Malden Catholic | 1513.5 |
+| 38 | Arlington Catholic | 1513.5 |
+| 39 | Malden Catholic | 1513.5 |
+| 40 | Braintree | 1513.5 |
 | 41 | Mount St. Charles (R.I.) | 1512.8 |
 | 42 | Leominster | 1512.8 |
 | 43 | Needham | 1510.6 |
@@ -198,26 +198,26 @@ Generated: 2025-12-16 11:18
 | 45 | Loomis Chaffee (Conn.) | 1509.6 |
 | 46 | Latin Academy/Fontbonne | 1508.2 |
 | 47 | Stoughton | 1505.1 |
-| 48 | Central Catholic | 1501.7 |
+| 48 | Bishop Fenwick | 1501.7 |
 | 49 | Shawsheen/Bedford/Lowell | 1501.7 |
-| 50 | Hingham | 1501.7 |
-| 51 | South County Storm (R.I.). | 1501.7 |
-| 52 | Bishop Fenwick | 1501.7 |
-| 53 | Notre Dame (Hingham) | 1501.7 |
-| 54 | Milton | 1501.7 |
-| 55 | Medway/Ashland | 1501.7 |
-| 56 | Waltham | 1501.7 |
-| 57 | Mansfield/OA/Foxboro | 1501.7 |
-| 58 | La Salle (R.I.) | 1501.7 |
-| 59 | Nantucket | 1501.7 |
-| 60 | Acton-Boxborough/Bromfield | 1501.7 |
-| 61 | Smithfield (R.I.) | 1501.7 |
-| 62 | Westwood | 1501.7 |
-| 63 | Peabody | 1501.7 |
-| 64 | St. Mary’s | 1501.7 |
-| 65 | Newton North/South | 1501.7 |
+| 50 | Central Catholic | 1501.7 |
+| 51 | Waltham | 1501.7 |
+| 52 | Acton-Boxborough/Bromfield | 1501.7 |
+| 53 | Peabody | 1501.7 |
+| 54 | Bishop Stang | 1501.7 |
+| 55 | Hingham | 1501.7 |
+| 56 | Smithfield (R.I.) | 1501.7 |
+| 57 | Nantucket | 1501.7 |
+| 58 | St. Mary’s | 1501.7 |
+| 59 | Westwood | 1501.7 |
+| 60 | La Salle (R.I.) | 1501.7 |
+| 61 | Mansfield/OA/Foxboro | 1501.7 |
+| 62 | Newton North/South | 1501.7 |
+| 63 | South County Storm (R.I.). | 1501.7 |
+| 64 | Medway/Ashland | 1501.7 |
+| 65 | Notre Dame (Hingham) | 1501.7 |
 | 66 | Cambridge | 1501.7 |
-| 67 | Bishop Stang | 1501.7 |
+| 67 | Milton | 1501.7 |
 | 68 | Choate | 1500.6 |
 | 69 | St. George’s | 1494.3 |
 | 70 | Deerfield | 1493.7 |
@@ -235,21 +235,21 @@ Generated: 2025-12-16 11:18
 | 82 | Canton | 1487.5 |
 | 83 | Pomfret | 1485.5 |
 | 84 | Brewster Academy | 1485.0 |
-| 85 | Hopkinton/Dover-Sherborn | 1483.8 |
-| 86 | Melrose | 1483.8 |
-| 87 | Norwood | 1483.8 |
-| 88 | Falmouth | 1483.8 |
+| 85 | Norwood | 1483.8 |
+| 86 | Falmouth | 1483.8 |
+| 87 | Hopkinton/Dover-Sherborn | 1483.8 |
+| 88 | Melrose | 1483.8 |
 | 89 | Whitman-Hanson/Silver Lake | 1483.2 |
-| 90 | Masconomet | 1482.8 |
-| 91 | Westford | 1482.8 |
-| 92 | Gloucester | 1482.8 |
+| 90 | Gloucester | 1482.8 |
+| 91 | Masconomet | 1482.8 |
+| 92 | Newburyport | 1482.8 |
 | 93 | Framingham | 1482.8 |
 | 94 | Nauset/Monomoy | 1482.8 |
-| 95 | Newburyport | 1482.8 |
+| 95 | Westford | 1482.8 |
 | 96 | Norwell | 1481.0 |
 | 97 | Brookline | 1479.0 |
-| 98 | Longmeadow | 1478.6 |
-| 99 | Arlington | 1478.6 |
+| 98 | Arlington | 1478.6 |
+| 99 | Longmeadow | 1478.6 |
 | 100 | Stoneham/Wilmington | 1478.6 |
 | 101 | Marshfield | 1477.9 |
 | 102 | Wakefield | 1477.9 |

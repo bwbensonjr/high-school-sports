@@ -1,6 +1,6 @@
 # Girls Cross Country - 2025 Season
 
-Generated: 2025-12-16 11:18
+Generated: 2025-12-17 11:18
 
 ## Upcoming Games
 
@@ -95,8 +95,8 @@ Generated: 2025-12-16 11:18
 | 77 | Douglas | 1542.8 |
 | 78 | Sizer | 1541.5 |
 | 79 | North Attleborough | 1540.6 |
-| 80 | South Lancaster | 1540.3 |
-| 81 | Maynard | 1540.3 |
+| 80 | Maynard | 1540.3 |
+| 81 | South Lancaster | 1540.3 |
 | 82 | Shawsheen | 1539.2 |
 | 83 | Tahanto | 1539.1 |
 | 84 | Millis | 1538.7 |
@@ -104,8 +104,8 @@ Generated: 2025-12-16 11:18
 | 86 | Agawam | 1535.7 |
 | 87 | Masconomet | 1534.9 |
 | 88 | Norfolk Aggie | 1533.3 |
-| 89 | Renaissance | 1532.5 |
-| 90 | Hudson | 1532.5 |
+| 89 | Hudson | 1532.5 |
+| 90 | Renaissance | 1532.5 |
 | 91 | Sturgis West | 1531.6 |
 | 92 | North Reading | 1531.2 |
 | 93 | Natick | 1531.0 |
@@ -136,21 +136,21 @@ Generated: 2025-12-16 11:18
 | 118 | East Longmeadow | 1507.1 |
 | 119 | Holbrook/Avon | 1506.7 |
 | 120 | Westfield Tech | 1503.8 |
-| 121 | Cape Cod Tech | 1501.7 |
-| 122 | Bedford | 1501.7 |
-| 123 | Greater Lowell | 1501.7 |
-| 124 | Notre Dame (Tyngsborough) | 1501.7 |
+| 121 | Notre Dame (Tyngsborough) | 1501.7 |
+| 122 | Greater Lawrence | 1501.7 |
+| 123 | Waltham | 1501.7 |
+| 124 | Wachusett | 1501.7 |
 | 125 | Notre Dame (Worcester) | 1501.7 |
-| 126 | Bridgewater-Raynham | 1501.7 |
-| 127 | Amherst-Pelham | 1501.7 |
-| 128 | Wachusett | 1501.7 |
-| 129 | Boston Latin | 1501.7 |
-| 130 | Greater Lawrence | 1501.7 |
-| 131 | Saugus | 1501.7 |
+| 126 | Saugus | 1501.7 |
+| 127 | Cape Cod Tech | 1501.7 |
+| 128 | Boston Latin | 1501.7 |
+| 129 | Longmeadow | 1501.7 |
+| 130 | Amherst-Pelham | 1501.7 |
+| 131 | Greater Lowell | 1501.7 |
 | 132 | Westfield | 1501.7 |
-| 133 | Longmeadow | 1501.7 |
+| 133 | Bedford | 1501.7 |
 | 134 | Minnechaug | 1501.7 |
-| 135 | Waltham | 1501.7 |
+| 135 | Bridgewater-Raynham | 1501.7 |
 | 136 | Concord-Carlisle | 1499.6 |
 | 137 | Lexington Christian | 1498.2 |
 | 138 | Winthrop | 1497.4 |
