@@ -2,9 +2,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-03,68559,FINAL,Chapel Hill,4082,66.0,1.0,BU Academy,4063,45.0,0.0,MBIL,MBIL,,,0
 2025-12-05,66691,FINAL,Brewster Academy,4052,68.0,1.0,Brooks,4060,27.0,0.0,Independent,ISL,6:00 P.M.,,0
 2025-12-06,67203,FINAL,Mount St. Charles (R.I.),4488,58.0,0.0,Lawrence Academy,4204,75.0,1.0,Independent,ISL,,,0
-2025-12-07,67477,FINAL,Hotchkiss,4181,52,0,Tabor,4384,57,1,Founders,ISL,,,0
-2025-12-07,67479,FINAL,MacDuffie,4224,77,1,Lawrence Academy,4204,70,0,Independent,ISL,,,0
-2025-12-07,67491,FINAL,Concord Academy,4096,53,1,Brooks,4060,50,0,EIL,ISL,,,0
+2025-12-07,67477,FINAL,Hotchkiss,4181,52.0,0.0,Tabor,4384,57.0,1.0,Founders,ISL,,,0
+2025-12-07,67479,FINAL,MacDuffie,4224,77.0,1.0,Lawrence Academy,4204,70.0,0.0,Independent,ISL,,,0
+2025-12-07,67491,FINAL,Concord Academy,4096,53.0,1.0,Brooks,4060,50.0,0.0,EIL,ISL,,,0
 2025-12-08,65472,UPCOMING,Saugus,4341,,,Medford,4242,,,Northeastern,Greater Boston,6:30 P.M.,,0
 2025-12-10,65071,UPCOMING,English High,4048,,,Framingham,4143,,,Boston City,Bay State,4:30 P.M.,,0
 2025-12-10,66357,UPCOMING,Carver,4077,,,Blue Hills,4047,,,South Shore,Mayflower,6:00 P.M.,,0
@@ -146,7 +146,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-15,66013,FINAL,Muniz,5018,55,1,Notre Dame Cristo Rey,5127,50,0,Boston City,Commonwealth,6:30 P.M.,,0
 2025-12-15,66025,FINAL,MATCH Charter,4594,51,0,Brighton,4055,73,1,Charter School Athletic,Boston City,6:00 P.M.,,0
 2025-12-15,66037,FINAL,O’Bryant,4298,62,1,English High,4048,58,0,Boston City,Boston City,5:30 P.M.,,0
-2025-12-15,66041,UPCOMING,Kennedy Academy,4590,,,South Boston,4352,,,Boston City,Boston City,4:00 P.M.,,0
 2025-12-15,66067,FINAL,CASH,4187,56,0,Saugus,4341,65,1,Boston City,Northeastern,5:00 P.M.,,0
 2025-12-15,66098,FINAL,Cardinal Spellman,4075,65,0,Wareham,4407,88,1,Catholic Central,Independent,6:30 P.M.,,0
 2025-12-15,66123,FINAL,Doherty,4116,47,0,Malden Catholic,4228,67,1,Independent,Catholic Conference,6:30 P.M.,,0
@@ -282,29 +281,36 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-16,70076,FINAL,Gloucester,4150,64,1,Saugus,4341,51,0,Northeastern,Northeastern,,,0
 2025-12-16,70078,FINAL,West Springfield,4417,54,1,Easthampton,4130,45,0,Independent,Independent,,,0
 2025-12-16,70084,FINAL,Greenfield,4157,82,1,Brattleboro (Vt.),4729,67,0,Independent,Independent,,,0
-2025-12-17,65383,UPCOMING,Wakefield,4402,,,Danvers,4103,,,Middlesex,Northeastern,6:30 P.M.,,0
-2025-12-17,65610,UPCOMING,Boston Latin,4049,,,O’Bryant,4298,,,Dual County,Boston City,5:30 P.M.,,0
-2025-12-17,65672,UPCOMING,Weston,4423,,,Hudson,4182,,,Dual County,Mid-Wach,7:00 P.M.,,0
-2025-12-17,65937,UPCOMING,Rockport,4490,,,Pioneer Charter II,4964,,,Cape Ann,Charter School Athletic,5:30 P.M.,,0
-2025-12-17,66014,UPCOMING,Muniz,5018,,,Bristol-Plymouth,4057,,,Boston City,Mayflower,6:00 P.M.,,0
-2025-12-17,66026,UPCOMING,Brighton,4055,,,Charlestown,4084,,,Boston City,Boston City,5:30 P.M.,,0
-2025-12-17,66033,UPCOMING,Norwell,4296,,,East Boston,4125,,,South Shore,Boston City,6:30 P.M.,,0
-2025-12-17,66038,UPCOMING,TechBoston,4117,,,English High,4048,,,Boston City,Boston City,5:30 P.M.,,0
-2025-12-17,66064,UPCOMING,Brockton,4058,,,Holland (Burke),4064,,,Big Three,Boston City,6:30 P.M.,,0
-2025-12-17,66093,UPCOMING,Bishop Stang,4045,,,Cardinal Spellman,4075,,,Catholic Central,Catholic Central,6:30 P.M.,,0
-2025-12-17,66105,UPCOMING,Boston Collegiate,4592,,,Cristo Rey,4453,,,Charter School Athletic,Catholic Central,5:30 P.M.,,0
-2025-12-17,66362,UPCOMING,West Bridgewater,4415,,,Blue Hills,4047,,,South Coast,Mayflower,6:30 P.M.,,0
-2025-12-17,66390,UPCOMING,South Shore Voc-Tech,4356,,,Tri-County,4392,,,Mayflower,Mayflower,6:30 P.M.,,0
+2025-12-17,65383,FINAL,Wakefield,4402,49,0,Danvers,4103,63,1,Middlesex,Northeastern,6:30 P.M.,,0
+2025-12-17,65610,FINAL,Boston Latin,4049,49,0,O’Bryant,4298,50,1,Dual County,Boston City,5:30 P.M.,,0
+2025-12-17,65672,FINAL,Weston,4423,73,1,Hudson,4182,51,0,Dual County,Mid-Wach,7:00 P.M.,,0
+2025-12-17,65937,FINAL,Rockport,4490,47,1,Pioneer Charter II,4964,43,0,Cape Ann,Charter School Athletic,5:30 P.M.,,0
+2025-12-17,66014,FINAL,Muniz,5018,27,0,Bristol-Plymouth,4057,63,1,Boston City,Mayflower,6:00 P.M.,,0
+2025-12-17,66026,FINAL,Brighton,4055,35,0,Charlestown,4084,85,1,Boston City,Boston City,5:30 P.M.,,0
+2025-12-17,66033,FINAL,Norwell,4296,86,1,East Boston,4125,45,0,South Shore,Boston City,6:30 P.M.,,0
+2025-12-17,66038,FINAL,TechBoston,4117,53,0,English High,4048,73,1,Boston City,Boston City,5:30 P.M.,,0
+2025-12-17,66064,FINAL,Brockton,4058,72,1,Holland (Burke),4064,70,0,Big Three,Boston City,6:30 P.M.,,0
+2025-12-17,66093,FINAL,Bishop Stang,4045,85,1,Cardinal Spellman,4075,63,0,Catholic Central,Catholic Central,6:30 P.M.,,0
+2025-12-17,66105,FINAL,Boston Collegiate,4592,32,0,Cristo Rey,4453,44,1,Charter School Athletic,Catholic Central,5:30 P.M.,,0
+2025-12-17,66362,FINAL,West Bridgewater,4415,65,1,Blue Hills,4047,57,0,South Coast,Mayflower,6:30 P.M.,,0
+2025-12-17,66390,FINAL,South Shore Voc-Tech,4356,58,1,Tri-County,4392,37,0,Mayflower,Mayflower,6:30 P.M.,,0
 2025-12-17,66397,UPCOMING,Upper Cape,4457,,,Avon,4460,,,Mayflower,Mayflower,5:00 P.M.,,0
-2025-12-17,66411,UPCOMING,Westport,4461,,,Carver,4077,,,Mayflower,South Shore,6:30 P.M.,,0
-2025-12-17,66430,UPCOMING,Bourne,4050,,,Fairhaven,4133,,,South Coast,South Coast,6:30 P.M.,,0
-2025-12-17,66733,UPCOMING,Nantucket,4265,,,Falmouth,4134,,,Cape & Islands,Cape & Islands,5:00 P.M.,,0
-2025-12-17,66839,UPCOMING,Rockland,4331,,,Silver Lake,4349,,,South Shore,Patriot,6:30 P.M.,,0
-2025-12-17,66843,UPCOMING,Abington,4002,,,Millbury,4250,,,South Shore,Independent,6:30 P.M.,,0
-2025-12-17,67000,UPCOMING,Ayer Shirley,4022,,,West Boylston,4414,,,Mid-Wach,Mid-Wach,6:00 P.M.,,0
-2025-12-17,67038,UPCOMING,Lunenburg,4219,,,Quabbin,4325,,,Mid-Wach,Mid-Wach,6:30 P.M.,,0
+2025-12-17,66411,FINAL,Westport,4461,46,0,Carver,4077,80,1,Mayflower,South Shore,6:30 P.M.,,0
+2025-12-17,66430,POSTPONED,Bourne,4050,,,Fairhaven,4133,,,South Coast,South Coast,6:30 P.M.,,0
+2025-12-17,66733,POSTPONED,Nantucket,4265,,,Falmouth,4134,,,Cape & Islands,Cape & Islands,5:00 P.M.,,0
+2025-12-17,66839,FINAL,Rockland,4331,55,1,Silver Lake,4349,38,0,South Shore,Patriot,6:30 P.M.,,0
+2025-12-17,66843,FINAL,Abington,4002,46,0,Millbury,4250,48,1,South Shore,Independent,6:30 P.M.,,0
+2025-12-17,67000,FINAL,Ayer Shirley,4022,51,1,West Boylston,4414,34,0,Mid-Wach,Mid-Wach,6:00 P.M.,,0
+2025-12-17,67038,FINAL,Lunenburg,4219,65,1,Quabbin,4325,58,0,Mid-Wach,Mid-Wach,6:30 P.M.,,0
 2025-12-17,67058,UPCOMING,Trivium,4686,,,Bromfield,4505,,,Worcester County,Mid-Wach,4:00 P.M.,,0
-2025-12-17,67075,UPCOMING,Bartlett,4026,,,Narragansett,4266,,,Independent,Mid-Wach,6:30 P.M.,,0
+2025-12-17,67075,FINAL,Bartlett,4026,58,0,Narragansett,4266,70,1,Independent,Mid-Wach,6:30 P.M.,,0
+2025-12-17,70207,FINAL,Worcester Academy,4441,64,0,Lawrence Academy,4204,86,1,Independent,ISL,4:30 P.M.,,0
+2025-12-17,70214,FINAL,St. Paul,4954,54,1,Abby Kelley Foster,4503,37,0,Independent,Independent,6:00 P.M.,,0
+2025-12-17,70216,FINAL,Bedford,4031,69,1,Greater Lowell,4155,47,0,Dual County,Commonwealth,7:00 P.M.,,0
+2025-12-17,70243,FINAL,Assabet,4016,46,1,Advanced Math and Science,4595,35,0,Independent,Independent,6:30 P.M.,,0
+2025-12-17,70281,FINAL,Whitinsville Christian,4487,64,1,Oxford,4303,42,0,Independent,Independent,6:30 P.M.,,0
+2025-12-17,70292,FINAL,St. Bernard’s,4365,37,0,Worcester Tech,4445,58,1,Independent,Independent,6:30 P.M.,,0
+2025-12-17,70338,FINAL,Brooks,4060,82,1,Groton,4544,52,0,ISL,ISL,3:30 P.M.,,0
 2025-12-18,65066,UPCOMING,Brookline,4059,,,Wellesley,4413,,,Bay State,Bay State,6:30 P.M.,,0
 2025-12-18,65088,UPCOMING,Natick,4270,,,Newton North,4279,,,Bay State,Bay State,6:30 P.M.,,0
 2025-12-18,65118,UPCOMING,Needham,4272,,,Braintree,4051,,,Bay State,Bay State,6:45 P.M.,,0
@@ -333,6 +339,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-18,66730,UPCOMING,Falmouth Academy,4135,,,Sturgis East,4456,,,Cape & Islands,Cape & Islands,5:30 P.M.,,0
 2025-12-18,66919,UPCOMING,Algonquin,4005,,,Doherty,4116,,,Mid-Wach,Independent,7:00 P.M.,,0
 2025-12-18,67054,UPCOMING,Tyngsborough,4397,,,Maynard,4239,,,Mid-Wach,Mid-Wach,6:00 P.M.,,0
+2025-12-18,70171,UPCOMING,Batson Academy,5128,,,MATCH Charter,4594,,,Boston City,Charter School Athletic,4:30 P.M.,,0
 2025-12-19,65080,UPCOMING,Fitchburg,4139,,,Framingham,4143,,,Mid-Wach,Bay State,7:00 P.M.,,0
 2025-12-19,65384,UPCOMING,Danvers,4103,,,Winthrop,4437,,,Northeastern,Northeastern,7:00 P.M.,,0
 2025-12-19,65399,UPCOMING,Masconomet,4236,,,Gloucester,4150,,,Northeastern,Northeastern,7:00 P.M.,,0
@@ -492,6 +499,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-22,67055,UPCOMING,Greater Lowell,4155,,,Tyngsborough,4397,,,Commonwealth,Mid-Wach,6:30 P.M.,,0
 2025-12-22,67064,UPCOMING,Murdock,4263,,,Bromfield,4505,,,Mid-Wach,Mid-Wach,6:30 P.M.,,0
 2025-12-22,67087,UPCOMING,West Boylston,4414,,,Sizer,4509,,,Mid-Wach,Worcester County,7:00 P.M.,,0
+2025-12-22,70174,UPCOMING,Batson Academy,5128,,,Cristo Rey,4453,,,Boston City,Catholic Central,12:00 P.M.,,0
+2025-12-22,70186,UPCOMING,Saugus,4341,,,Boston United,4798,,,Northeastern,Boston City,2:30 P.M.,,0
 2025-12-23,65087,UPCOMING,Weston,4423,,,Framingham,4143,,,Dual County,Bay State,7:00 P.M.,,0
 2025-12-23,65090,UPCOMING,Natick,4270,,,Lincoln-Sudbury,4211,,,Bay State,Dual County,6:30 P.M.,,0
 2025-12-23,65105,UPCOMING,Wellesley,4413,,,Doherty,4116,,,Bay State,Independent,6:30 P.M.,,0
@@ -540,6 +549,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-27,65817,UPCOMING,Central Catholic,4081,,,Lawrence,4203,,,Merrimack Valley,Merrimack Valley,6:00 P.M.,,0
 2025-12-27,65820,UPCOMING,Greater Lawrence,4154,,,Methuen,4246,,,Commonwealth,Merrimack Valley,3:15 P.M.,,0
 2025-12-27,65958,UPCOMING,Oakmont,4299,,,Greater Lowell,4155,,,Mid-Wach,Commonwealth,2:00 P.M.,,0
+2025-12-27,66041,UPCOMING,Kennedy Academy,4590,,,Roxbury Prep,4847,,,Boston City,Charter School Athletic,12:00 P.M.,,0
 2025-12-27,66088,UPCOMING,Bishop Feehan,4042,,,Everett,4132,,,Catholic Central,Greater Boston,12:00 P.M.,,0
 2025-12-27,66130,UPCOMING,Mansfield,4230,,,Xaverian,4446,,,Hockomock,Catholic Conference,4:00 P.M.,,0
 2025-12-27,66398,UPCOMING,Upper Cape,4457,,,Cape Cod Tech,4073,,,Mayflower,Mayflower,5:00 P.M.,,0
@@ -556,3 +566,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-27,69617,UPCOMING,Lowell,4216,,,Fitchburg,4139,,,Merrimack Valley,Mid-Wach,5:30 P.M.,,0
 2025-12-27,69983,UPCOMING,New Mission,4494,,,North Haven (Conn.),4814,,,Boston City,Independent,3:00 P.M.,,0
 2025-12-27,70009,UPCOMING,Archbishop Williams,4012,,,Latin Academy,4202,,,Catholic Central,Boston City,1:30 P.M.,,0
+2025-12-28,66744,UPCOMING,Martha’s Vineyard,4235,,,Scituate,4343,,,Cape & Islands,Patriot,2:00 P.M.,,0
+2025-12-28,66857,UPCOMING,Cohasset,4094,,,Dover-Sherborn,4118,,,South Shore,Tri-Valley,5:00 P.M.,,0
+2025-12-28,70013,UPCOMING,Latin Academy,4202,,,Brookline,4059,,,Boston City,Bay State,2:00 P.M.,,0
+2025-12-28,70199,UPCOMING,Holland (Burke),4064,,,Portsmouth (R.I.),4319,,,Boston City,Independent,3:30 P.M.,,0

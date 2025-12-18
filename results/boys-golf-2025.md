@@ -1,6 +1,6 @@
 # Boys Golf - 2025 Season
 
-Generated: 2025-12-17 11:18
+Generated: 2025-12-18 11:17
 
 ## Upcoming Games
 

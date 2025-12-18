@@ -1,6 +1,6 @@
 # Boys Swimming - 2025 Season
 
-Generated: 2025-12-17 11:18
+Generated: 2025-12-18 11:17
 
 ## Upcoming Games
 
@@ -11,13 +11,14 @@ Generated: 2025-12-17 11:18
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2025-12-16 | Martha’s Vineyard | 100 | Nantucket | 61 | +2.0 | +39.0 |
 | 2025-12-16 | Durfee | 66 | Bridgewater-Raynham | 74 | -0.7 | -8.0 |
 | 2025-12-16 | Sandwich | 100 | Plymouth North/South | 56 | +4.6 | +44.0 |
 | 2025-12-16 | Seekonk | 92 | Mansfield | 76 | +2.0 | +16.0 |
 | 2025-12-16 | Nashoba | 85 | Westborough | 84 | +2.0 | +1.0 |
 | 2025-12-16 | Melrose | 70 | Winchester | 88 | +2.0 | -18.0 |
-| 2025-12-15 | Xaverian | 95 | Central Catholic | 57 | +2.0 | +38.0 |
 | 2025-12-15 | Bishop Feehan | 75 | Norwell | 49 | +3.9 | +26.0 |
+| 2025-12-15 | Xaverian | 95 | Central Catholic | 57 | +2.0 | +38.0 |
 | 2025-12-12 | Durfee | 52 | Apponequet/Old Colony | 100 | +2.0 | -48.0 |
 | 2025-12-12 | St. John’s (Shrewsbury) | 57 | Natick | 85 | +2.0 | -28.0 |
 | 2025-12-12 | Lincoln-Sudbury | 85 | Concord-Carlisle | 96 | +2.0 | -11.0 |
@@ -39,28 +40,30 @@ Generated: 2025-12-17 11:18
 | 4 | Natick | 1557.7 |
 | 5 | Winchester | 1550.5 |
 | 6 | Chelmsford | 1549.6 |
-| 7 | Xaverian | 1547.1 |
-| 8 | Canton | 1546.8 |
-| 9 | Duxbury | 1543.7 |
-| 10 | Concord-Carlisle | 1542.6 |
-| 11 | Sandwich | 1538.8 |
-| 12 | Wayland | 1537.2 |
-| 13 | Seekonk | 1536.4 |
-| 14 | Bishop Feehan | 1536.0 |
-| 15 | Bridgewater-Raynham | 1531.4 |
-| 16 | Malden Catholic | 1518.8 |
-| 17 | Nashoba | 1508.9 |
-| 18 | Westborough | 1491.1 |
-| 19 | Latin Academy | 1481.2 |
-| 20 | Mansfield | 1463.6 |
-| 21 | Holliston/Medway | 1462.8 |
-| 22 | Lincoln-Sudbury | 1457.4 |
-| 23 | Marshfield/Hanover | 1456.3 |
-| 24 | Central Catholic | 1452.9 |
-| 25 | Lexington | 1450.4 |
-| 26 | Melrose | 1449.5 |
-| 27 | St. John’s (Shrewsbury) | 1442.3 |
-| 28 | Pembroke | 1433.6 |
-| 29 | Norwell | 1417.2 |
-| 30 | Durfee | 1401.9 |
-| 31 | Plymouth North/South | 1395.9 |
+| 7 | Martha’s Vineyard | 1547.4 |
+| 8 | Xaverian | 1547.1 |
+| 9 | Canton | 1546.8 |
+| 10 | Duxbury | 1543.7 |
+| 11 | Concord-Carlisle | 1542.6 |
+| 12 | Sandwich | 1538.8 |
+| 13 | Wayland | 1537.2 |
+| 14 | Seekonk | 1536.4 |
+| 15 | Bishop Feehan | 1536.0 |
+| 16 | Bridgewater-Raynham | 1531.4 |
+| 17 | Malden Catholic | 1518.8 |
+| 18 | Nashoba | 1508.9 |
+| 19 | Westborough | 1491.1 |
+| 20 | Latin Academy | 1481.2 |
+| 21 | Mansfield | 1463.6 |
+| 22 | Holliston/Medway | 1462.8 |
+| 23 | Lincoln-Sudbury | 1457.4 |
+| 24 | Marshfield/Hanover | 1456.3 |
+| 25 | Central Catholic | 1452.9 |
+| 26 | Nantucket | 1452.6 |
+| 27 | Lexington | 1450.4 |
+| 28 | Melrose | 1449.5 |
+| 29 | St. John’s (Shrewsbury) | 1442.3 |
+| 30 | Pembroke | 1433.6 |
+| 31 | Norwell | 1417.2 |
+| 32 | Durfee | 1401.9 |
+| 33 | Plymouth North/South | 1395.9 |

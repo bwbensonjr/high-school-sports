@@ -1,6 +1,6 @@
 # Boys Indoor Track - 2025 Season
 
-Generated: 2025-12-17 11:18
+Generated: 2025-12-18 11:17
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2025-12-17 11:18
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2025-12-17 | Bishop Feehan | 79 | Bishop Stang | 19 | +4.5 | +60.0 |
 | 2025-12-16 | Bishop Fenwick | 9 | Cardinal Spellman | 77 | +2.0 | -68.0 |
 | 2025-12-16 | Arlington Catholic | 20 | Archbishop Williams | 65 | +2.0 | -45.0 |
 | 2025-12-16 | Cristo Rey | 10 | St. Mary’s | 92 | +2.0 | -82.0 |
@@ -32,32 +33,32 @@ Generated: 2025-12-17 11:18
 | 1 | St. Mary’s | 1577.4 |
 | 2 | Cardinal Spellman | 1574.2 |
 | 3 | Brookline | 1572.1 |
-| 4 | Archbishop Williams | 1567.3 |
-| 5 | Walpole | 1563.6 |
-| 6 | Somerset Berkley | 1552.9 |
-| 7 | Weymouth | 1552.1 |
-| 8 | Old Rochester | 1550.9 |
-| 9 | Wellesley | 1546.9 |
-| 10 | Norton | 1544.2 |
-| 11 | Marshfield | 1544.0 |
-| 12 | Southeastern | 1536.6 |
-| 13 | Diman | 1536.3 |
-| 14 | Nauset | 1534.6 |
-| 15 | Needham | 1529.2 |
-| 16 | Bishop Feehan | 1529.2 |
+| 4 | Bishop Feehan | 1571.6 |
+| 5 | Archbishop Williams | 1567.3 |
+| 6 | Walpole | 1563.6 |
+| 7 | Somerset Berkley | 1552.9 |
+| 8 | Weymouth | 1552.1 |
+| 9 | Old Rochester | 1550.9 |
+| 10 | Wellesley | 1546.9 |
+| 11 | Norton | 1544.2 |
+| 12 | Marshfield | 1544.0 |
+| 13 | Southeastern | 1536.6 |
+| 14 | Diman | 1536.3 |
+| 15 | Nauset | 1534.6 |
+| 16 | Needham | 1529.2 |
 | 17 | Tri-County | 1474.1 |
 | 18 | Milton | 1474.1 |
 | 19 | Martha’s Vineyard | 1468.7 |
 | 20 | Wareham | 1467.0 |
-| 21 | Bishop Stang | 1466.7 |
-| 22 | Whitman-Hanson | 1459.3 |
-| 23 | Medfield | 1459.1 |
-| 24 | Framingham | 1456.4 |
-| 25 | Apponequet | 1452.4 |
-| 26 | Braintree | 1451.2 |
-| 27 | Dighton-Rehoboth | 1450.4 |
-| 28 | Newton North | 1439.7 |
-| 29 | Arlington Catholic | 1436.0 |
-| 30 | Natick | 1431.2 |
-| 31 | Bishop Fenwick | 1429.1 |
-| 32 | Cristo Rey | 1425.9 |
+| 21 | Whitman-Hanson | 1459.3 |
+| 22 | Medfield | 1459.1 |
+| 23 | Framingham | 1456.4 |
+| 24 | Apponequet | 1452.4 |
+| 25 | Braintree | 1451.2 |
+| 26 | Dighton-Rehoboth | 1450.4 |
+| 27 | Newton North | 1439.7 |
+| 28 | Arlington Catholic | 1436.0 |
+| 29 | Natick | 1431.2 |
+| 30 | Bishop Fenwick | 1429.1 |
+| 31 | Cristo Rey | 1425.9 |
+| 32 | Bishop Stang | 1424.3 |

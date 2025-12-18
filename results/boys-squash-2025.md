@@ -1,6 +1,6 @@
 # Boys Squash - 2025 Season
 
-Generated: 2025-12-17 11:18
+Generated: 2025-12-18 11:17
 
 ## Upcoming Games
 
@@ -9,9 +9,8 @@ Generated: 2025-12-17 11:18
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2025-12-10 | St. Mark’s | 0 | Tabor | 7 | +2.0 | -7.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 
