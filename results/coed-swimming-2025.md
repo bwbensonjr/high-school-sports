@@ -1,6 +1,6 @@
 # Coed Swimming - 2025 Season
 
-Generated: 2025-12-18 11:17
+Generated: 2025-12-19 11:17
 
 ## Upcoming Games
 
@@ -15,8 +15,6 @@ Generated: 2025-12-18 11:17
 | 2025-12-16 | East Boston | 40 | Archbishop Williams | 53 | +0.3 | -13.0 |
 | 2025-12-16 | Latin Academy | 86 | Catholic Memorial | 92 | +2.0 | -6.0 |
 | 2025-12-16 | Peabody | 81 | Marblehead | 95 | +3.0 | -14.0 |
-| 2025-12-11 | Peabody | 92 | Salem | 86 | +2.0 | +6.0 |
-| 2025-12-11 | East Boston | 39 | Somerville | 50 | +2.0 | -11.0 |
 
 ## Current Elo Ratings
 

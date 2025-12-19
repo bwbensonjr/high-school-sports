@@ -1,2 +1,3 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win,season,home_elo_pre,away_elo_pre,home_elo_post,away_elo_post,home_win_prob,away_win_prob,pred_point_spread,actual_point_spread
 2025-12-17,70301,FINAL,Newton North,4279,146.75,1,Newton South,4280,129.7,0,Bay State,Dual County,,,0,2025,1500.0,1500.0,1537.1945889791562,1462.8054110208438,0.5714631174083814,0.4285368825916186,2.0,17.05000000000001
+2025-12-17,70344,FINAL,Central Catholic,4081,138.6,1,Methuen,4246,115.87,0,Merrimack Valley,Merrimack Valley,,,0,2025,1500.0,1500.0,1540.7119475330283,1459.2880524669717,0.5714631174083814,0.4285368825916186,2.0,22.72999999999999

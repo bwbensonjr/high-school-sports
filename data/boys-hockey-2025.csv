@@ -185,10 +185,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-17,70321,FINAL,North Andover,4283,0,0,Tewksbury,4389,4,1,Merrimack Valley/Dual County,Merrimack Valley/Dual County,7:50 P.M.,,0
 2025-12-17,70323,FINAL,Lincoln-Sudbury,4211,8,1,Andover,4009,3,0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,8:00 P.M.,,0
 2025-12-17,70324,FINAL,Algonquin,4005,1,0,Marlborough,4233,4,1,Quinn,Quinn,,,0
-2025-12-18,67613,UPCOMING,North Quincy/Quincy,4287,,,Scituate,4343,,,Patriot,Patriot,4:30 P.M.,,0
-2025-12-18,67886,UPCOMING,Nauset,4271,,,Malden Catholic,4228,,,Cape & Islands,Catholic Conference,4:10 P.M.,,0
-2025-12-18,68826,UPCOMING,Danvers,4103,,,Essex Tech,4745,,,Northeastern,Cape Ann,7:10 P.M.,,0
-2025-12-18,68889,UPCOMING,Shawsheen,4346,,,Nashoba  Tech/Greater Lowell,4268,,,Commonwealth,Commonwealth,7:10 P.M.,,0
+2025-12-18,67613,FINAL,North Quincy/Quincy,4287,0,0,Scituate,4343,2,1,Patriot,Patriot,4:30 P.M.,,0
+2025-12-18,67886,FINAL,Nauset,4271,4,1,Malden Catholic,4228,1,0,Cape & Islands,Catholic Conference,4:10 P.M.,,0
+2025-12-18,68826,FINAL,Danvers,4103,0,0,Essex Tech,4745,5,1,Northeastern,Cape Ann,7:10 P.M.,,0
+2025-12-18,68889,FINAL,Shawsheen,4346,4,1,Nashoba  Tech/Greater Lowell,4268,1,0,Commonwealth,Commonwealth,7:10 P.M.,,0
+2025-12-18,70840,FINAL,Cushing,4101,4,1,Lawrence Academy,4204,2,0,Independent,ISL,,,0
 2025-12-19,69419,UPCOMING,Holliston/Ashland,4174,,,Medway,4243,,,Tri-Valley,Tri-Valley,7:50 P.M.,,0
 2025-12-20,67539,UPCOMING,Hanover,4164,,,Plymouth North,4315,,,Patriot,Patriot,1:00 P.M.,,0
 2025-12-20,67580,UPCOMING,Barnstable,4024,,,Silver Lake,4349,,,Pioneer,Patriot,6:30 P.M.,,0
@@ -230,6 +231,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-20,69110,UPCOMING,Bishop Feehan,4042,,,North Attleborough,4284,,,Catholic Central,Hockomock,5:00 P.M.,,0
 2025-12-20,69165,UPCOMING,Norton,4295,,,Mansfield,4230,,,Tri-Valley,Hockomock,6:00 P.M.,,0
 2025-12-20,69243,UPCOMING,Hopkinton,4180,,,King Philip,4197,,,Tri-Valley,Hockomock,4:00 P.M.,,0
+2025-12-20,69266,UPCOMING,Diman,4115,,,Taunton,4388,,,Mayflower,Hockomock,7:00 P.M.,,0
+2025-12-20,69316,UPCOMING,Somerset Berkley,4350,,,Apponequet/Old Colony,4011,,,South Coast,South Coast,5:00 P.M.,,0
 2025-12-20,69382,UPCOMING,Brookline,4059,,,Wellesley,4413,,,Bay State,Bay State,3:00 P.M.,,0
 2025-12-20,69388,UPCOMING,Walpole,4404,,,Framingham,4143,,,Bay State,Bay State,2:45 P.M.,,0
 2025-12-20,69394,UPCOMING,Natick,4270,,,Newton North,4279,,,Bay State,Bay State,7:20 P.M.,,0
@@ -330,3 +333,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-27,69448,UPCOMING,Blue Hills,4047,,,Upper Cape,4457,,,Mayflower,Mayflower,8:40 P.M.,,0
 2025-12-28,67805,UPCOMING,Catholic Memorial,4080,,,St. Mary’s,4374,,,Catholic Conference,Catholic Central,8:00 P.M.,,0
 2025-12-28,69120,UPCOMING,Bishop Feehan,4042,,,Fairfield Prep (Conn.),4640,,,Catholic Central,Independent,6:00 P.M.,,0
+2025-12-29,68068,UPCOMING,Apponequet/Old Colony,4011,,,Middleborough,4247,,,South Coast,South Shore,3:00 P.M.,,0
+2025-12-29,68273,UPCOMING,Dennis-Yarmouth,4111,,,Upper Cape,4457,,,Cape & Islands,Mayflower,4:00 P.M.,,0
+2025-12-29,68820,UPCOMING,Amesbury/Whittier,4007,,,Beverly,4038,,,Cape Ann,Northeastern,12:20 P.M.,,0
+2025-12-29,68849,UPCOMING,Longmeadow,4214,,,Pentucket,4309,,,Berry Division,Cape Ann,12:00 P.M.,,0
+2025-12-29,68859,UPCOMING,Rockport,4490,,,Groton-Dunstable,4160,,,Cape Ann,Roy,2:00 P.M.,,0
+2025-12-29,69011,UPCOMING,Peabody,4306,,,Everett/Revere,4132,,,Northeastern,Greater Boston,12:00 P.M.,,0
+2025-12-29,69384,UPCOMING,Brookline,4059,,,Lincoln-Sudbury,4211,,,Bay State,Merrimack Valley/Dual County,1:00 P.M.,,0
+2025-12-29,69434,UPCOMING,Dedham,4108,,,Medway,4243,,,Tri-Valley,Tri-Valley,3:00 P.M.,,0
