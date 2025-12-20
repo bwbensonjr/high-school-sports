@@ -1,6 +1,6 @@
 # Coed Swimming - 2025 Season
 
-Generated: 2025-12-19 11:17
+Generated: 2025-12-20 11:14
 
 ## Upcoming Games
 
@@ -11,6 +11,9 @@ Generated: 2025-12-19 11:17
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2025-12-19 | Archbishop Williams | 86 | Bishop Fenwick | 63 | +3.6 | +23.0 |
+| 2025-12-18 | Latin Academy | 87 | Arlington Catholic | 62 | +0.7 | +25.0 |
+| 2025-12-18 | O’Bryant | 84 | East Boston | 61 | +5.3 | +23.0 |
 | 2025-12-16 | Medford | 92 | Malden | 78 | +2.0 | +14.0 |
 | 2025-12-16 | East Boston | 40 | Archbishop Williams | 53 | +0.3 | -13.0 |
 | 2025-12-16 | Latin Academy | 86 | Catholic Memorial | 92 | +2.0 | -6.0 |
@@ -20,18 +23,21 @@ Generated: 2025-12-19 11:17
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | North Andover | 1553.4 |
-| 2 | Marblehead | 1550.9 |
-| 3 | Methuen/Tewksbury | 1549.7 |
-| 4 | Somerville | 1544.3 |
-| 5 | Archbishop Williams | 1542.1 |
+| 1 | Archbishop Williams | 1577.6 |
+| 2 | North Andover | 1553.4 |
+| 3 | Marblehead | 1550.9 |
+| 4 | Methuen/Tewksbury | 1549.7 |
+| 5 | Somerville | 1544.3 |
 | 6 | Medford | 1536.5 |
 | 7 | Catholic Memorial | 1535.0 |
-| 8 | Peabody | 1477.4 |
-| 9 | Central Catholic | 1477.3 |
-| 10 | Salem | 1476.6 |
-| 11 | Lowell | 1472.8 |
-| 12 | Latin Academy | 1468.3 |
-| 13 | Malden | 1466.8 |
-| 14 | Melrose | 1455.1 |
-| 15 | East Boston | 1418.6 |
+| 8 | O’Bryant | 1531.9 |
+| 9 | Latin Academy | 1514.8 |
+| 10 | Peabody | 1477.4 |
+| 11 | Central Catholic | 1477.3 |
+| 12 | Salem | 1476.6 |
+| 13 | Lowell | 1472.8 |
+| 14 | Malden | 1466.8 |
+| 15 | Bishop Fenwick | 1466.1 |
+| 16 | Arlington Catholic | 1455.1 |
+| 17 | Melrose | 1455.1 |
+| 18 | East Boston | 1388.4 |
