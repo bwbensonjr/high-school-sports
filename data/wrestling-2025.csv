@@ -7,8 +7,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-06,67138,FINAL,Greens Farms,4158,34.0,1.0,Nobles,4282,27.0,0.0,Independent,ISL,3:00 P.M.,,0
 2025-12-06,67486,FINAL,Brooks,4060,28.0,0.0,St. Mark’s,4372,54.0,1.0,ISL,ISL,,,0
 2025-12-06,67488,FINAL,Brooks,4060,30.0,1.0,Deerfield,4110,24.0,0.0,ISL,Independent,,,0
-2025-12-10,68677,FINAL,Brooks,4060,23,0,Roxbury Latin,4334,54,1,ISL,ISL,4:30 P.M.,,0
-2025-12-10,68722,FINAL,Pomfret,4317,12,0,St. Mark’s,4372,72,1,Independent,ISL,3:30 P.M.,,0
+2025-12-10,68677,FINAL,Brooks,4060,23.0,0.0,Roxbury Latin,4334,54.0,1.0,ISL,ISL,4:30 P.M.,,0
+2025-12-10,68722,FINAL,Pomfret,4317,12.0,0.0,St. Mark’s,4372,72.0,1.0,Independent,ISL,3:30 P.M.,,0
 2025-12-11,69439,FINAL,Newton North,4279,44,1,Braintree,4051,33,0,Bay State,Bay State,,,0
 2025-12-11,69456,FINAL,Needham,4272,44,1,Weymouth,4425,36,0,Bay State,Bay State,,,0
 2025-12-11,69460,UPCOMING,Framingham,4143,,,Brookline,4059,,,Bay State,Bay State,6:30 P.M.,,0
@@ -76,3 +76,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-17,70349,FINAL,New Bedford,4273,66,1,Marshfield,4234,9,0,Big Three,Patriot,,,0
 2025-12-18,70629,FINAL,Triton,4395,36,0,Danvers,4103,46,1,Cape Ann,Northeastern,,,0
 2025-12-18,70670,FINAL,Middleborough,4247,42,1,Whitman-Hanson,4427,30,0,South Shore,Patriot,,,0
+2025-12-20,71717,FINAL,Hingham,4171,72,1,Monty Tech/Fitchburg,4259,6,0,Patriot,Independent,,,0
+2025-12-20,71719,FINAL,Hingham,4171,30,0,Scituate,4343,48,1,Patriot,Patriot,,,0
+2025-12-20,71721,FINAL,Hingham,4171,32,0,Taunton,4388,40,1,Patriot,Hockomock,,,0

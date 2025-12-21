@@ -1,6 +1,6 @@
 # Boys Indoor Track - 2025 Season
 
-Generated: 2025-12-20 11:14
+Generated: 2025-12-21 11:15
 
 ## Upcoming Games
 
@@ -52,8 +52,8 @@ Generated: 2025-12-20 11:14
 | 15 | Weymouth | 1552.1 |
 | 16 | Old Rochester | 1550.9 |
 | 17 | Norton | 1544.2 |
-| 18 | North Andover | 1544.0 |
-| 19 | Marshfield | 1544.0 |
+| 18 | Marshfield | 1544.0 |
+| 19 | North Andover | 1544.0 |
 | 20 | Southeastern | 1536.6 |
 | 21 | Diman | 1536.3 |
 | 22 | Nauset | 1534.6 |
