@@ -1,6 +1,6 @@
 # Wrestling - 2025 Season
 
-Generated: 2025-12-21 11:15
+Generated: 2025-12-22 11:16
 
 ## Upcoming Games
 
@@ -16,7 +16,7 @@ Generated: 2025-12-21 11:15
 | 2025-12-20 | Hingham | 72 | Monty Tech/Fitchburg | 6 | +3.4 | +66.0 |
 | 2025-12-18 | Middleborough | 42 | Whitman-Hanson | 30 | +3.0 | +12.0 |
 | 2025-12-18 | Triton | 36 | Danvers | 46 | +2.3 | -10.0 |
-| 2025-12-17 | Hingham | 43 | Pembroke | 28 | +2.0 | +15.0 |
+| 2025-12-17 | Nauset | 46 | Durfee | 35 | +2.0 | +11.0 |
 | 2025-12-17 | New Bedford | 66 | Marshfield | 9 | +2.0 | +57.0 |
 | 2025-12-17 | Holliston | 39 | Dedham | 37 | +0.2 | +2.0 |
 | 2025-12-17 | Burlington | 58 | Malden Catholic | 15 | -0.3 | +43.0 |
@@ -26,8 +26,8 @@ Generated: 2025-12-21 11:15
 | 2025-12-17 | Framingham | 38 | Braintree | 37 | +3.3 | +1.0 |
 | 2025-12-17 | Concord-Carlisle | 36 | Lynnfield/North Reading | 39 | +2.0 | -3.0 |
 | 2025-12-17 | North Andover | 33 | Andover | 39 | +2.0 | -6.0 |
-| 2025-12-17 | Cohasset | 66 | Quincy/North Quincy | 16 | +2.0 | +50.0 |
 | 2025-12-17 | Shawsheen | 60 | Northeast/Bishop Fenwick | 3 | +2.0 | +57.0 |
+| 2025-12-17 | Cohasset | 66 | Quincy/North Quincy | 16 | +2.0 | +50.0 |
 | 2025-12-17 | Salem | 48 | Danvers | 24 | +2.0 | +24.0 |
 | 2025-12-17 | Quincy Upper | 23 | Watertown | 60 | +6.0 | -37.0 |
 | 2025-12-17 | Weston | 24 | Latin Academy | 45 | +2.8 | -21.0 |
@@ -40,8 +40,7 @@ Generated: 2025-12-21 11:15
 | 2025-12-17 | Cambridge | 54 | Malden/Everett | 27 | +4.4 | +27.0 |
 | 2025-12-17 | Haverhill | 25 | Chelmsford | 38 | -0.2 | -13.0 |
 | 2025-12-17 | Westford | 33 | Arlington | 44 | +3.9 | -11.0 |
-| 2025-12-17 | Nauset | 46 | Durfee | 35 | +2.0 | +11.0 |
-| 2025-12-14 | Cambridge | 12 | Quincy Upper | 12 | +0.4 | 0.0 |
+| 2025-12-17 | Hingham | 43 | Pembroke | 28 | +2.0 | +15.0 |
 
 ## Current Elo Ratings
 
@@ -61,9 +60,9 @@ Generated: 2025-12-21 11:15
 | 12 | Choate | 1560.5 |
 | 13 | Avon Old Farms | 1559.1 |
 | 14 | Middleborough | 1557.7 |
-| 15 | Eagle Hill | 1553.9 |
-| 16 | New Bedford | 1553.9 |
-| 17 | Shawsheen | 1553.9 |
+| 15 | Shawsheen | 1553.9 |
+| 16 | Eagle Hill | 1553.9 |
+| 17 | New Bedford | 1553.9 |
 | 18 | Cohasset | 1552.2 |
 | 19 | Bridgewater-Raynham | 1552.2 |
 | 20 | St. John’s Prep | 1551.9 |
@@ -77,8 +76,8 @@ Generated: 2025-12-21 11:15
 | 28 | Hanover | 1537.3 |
 | 29 | Andover | 1535.0 |
 | 30 | Northbridge | 1534.5 |
-| 31 | Nauset | 1533.6 |
-| 32 | Newton North | 1533.6 |
+| 31 | Newton North | 1533.6 |
+| 32 | Nauset | 1533.6 |
 | 33 | Dedham | 1531.4 |
 | 34 | Needham | 1529.9 |
 | 35 | Greens Farms | 1529.9 |
@@ -92,9 +91,9 @@ Generated: 2025-12-21 11:15
 | 43 | Burlington | 1503.1 |
 | 44 | Westford | 1502.4 |
 | 45 | Danvers | 1502.1 |
-| 46 | North Reading | 1501.7 |
-| 47 | Brookline | 1501.7 |
-| 48 | Wilmington | 1501.7 |
+| 46 | Brookline | 1501.7 |
+| 47 | Wilmington | 1501.7 |
+| 48 | North Reading | 1501.7 |
 | 49 | Middlesex | 1485.6 |
 | 50 | Beaver Country Day | 1485.1 |
 | 51 | St. Sebastian’s | 1485.1 |
@@ -123,8 +122,8 @@ Generated: 2025-12-21 11:15
 | 74 | Whittier | 1451.4 |
 | 75 | Nashoba Valley Tech | 1451.3 |
 | 76 | Quincy/North Quincy | 1451.1 |
-| 77 | Northeast/Bishop Fenwick | 1449.4 |
-| 78 | Marshfield | 1449.4 |
+| 77 | Marshfield | 1449.4 |
+| 78 | Northeast/Bishop Fenwick | 1449.4 |
 | 79 | BB&N | 1445.8 |
 | 80 | Deerfield | 1445.1 |
 | 81 | Malden Catholic | 1443.8 |

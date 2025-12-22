@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2025 Season
 
-Generated: 2025-12-21 11:15
+Generated: 2025-12-22 11:16
 
 ## Upcoming Games
 
@@ -11,6 +11,9 @@ Generated: 2025-12-21 11:15
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2025-12-21 | Andover | 134 | Chelmsford/B/T | 127 | +2.0 | +6.9 |
+| 2025-12-21 | Andover | 134 | Haverhill | 129 | +3.1 | +5.3 |
+| 2025-12-21 | Haverhill | 129 | Chelmsford/B/T | 127 | +2.2 | +1.5 |
 | 2025-12-19 | Hingham/Hull | 130 | Marshfield | 121 | +2.0 | +9.1 |
 | 2025-12-17 | Newton North | 146 | Newton South | 129 | +2.0 | +17.1 |
 | 2025-12-17 | Central Catholic | 138 | Methuen | 115 | +2.0 | +22.7 |
@@ -19,9 +22,12 @@ Generated: 2025-12-21 11:15
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Central Catholic | 1540.7 |
-| 2 | Newton North | 1537.2 |
-| 3 | Hingham/Hull | 1529.7 |
-| 4 | Marshfield | 1470.3 |
-| 5 | Newton South | 1462.8 |
-| 6 | Methuen | 1459.3 |
+| 1 | Andover | 1548.3 |
+| 2 | Central Catholic | 1540.7 |
+| 3 | Newton North | 1537.2 |
+| 4 | Hingham/Hull | 1529.7 |
+| 5 | Haverhill | 1489.9 |
+| 6 | Marshfield | 1470.3 |
+| 7 | Newton South | 1462.8 |
+| 8 | Chelmsford/B/T | 1461.8 |
+| 9 | Methuen | 1459.3 |

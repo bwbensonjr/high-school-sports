@@ -1,6 +1,6 @@
 # Girls Squash - 2025 Season
 
-Generated: 2025-12-21 11:15
+Generated: 2025-12-22 11:16
 
 ## Upcoming Games
 

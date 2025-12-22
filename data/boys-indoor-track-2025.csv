@@ -1,10 +1,10 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
-2025-12-11,69463,FINAL,Nauset,4271,56,1,Martha’s Vineyard,4235,44,0,Cape & Islands,Cape & Islands,,,0
-2025-12-11,69468,FINAL,Newton North,4279,32,0,Walpole,4404,68,1,Bay State,Bay State,,,0
-2025-12-11,69529,FINAL,Milton,4252,48,0,Needham,4272,52,1,Bay State,Bay State,,,0
-2025-12-11,69530,FINAL,Framingham,4143,41,0,Wellesley,4413,54,1,Bay State,Bay State,,,0
-2025-12-11,69532,FINAL,Natick,4270,20,0,Brookline,4059,80,1,Bay State,Bay State,,,0
-2025-12-11,69534,FINAL,Braintree,4051,41,0,Weymouth,4425,59,1,Bay State,Bay State,,,0
+2025-12-11,69463,FINAL,Nauset,4271,56.0,1,Martha’s Vineyard,4235,44.0,0,Cape & Islands,Cape & Islands,,,0
+2025-12-11,69468,FINAL,Newton North,4279,32.0,0,Walpole,4404,68.0,1,Bay State,Bay State,,,0
+2025-12-11,69529,FINAL,Milton,4252,48.0,0,Needham,4272,52.0,1,Bay State,Bay State,,,0
+2025-12-11,69530,FINAL,Framingham,4143,41.0,0,Wellesley,4413,54.0,1,Bay State,Bay State,,,0
+2025-12-11,69532,FINAL,Natick,4270,20.0,0,Brookline,4059,80.0,1,Bay State,Bay State,,,0
+2025-12-11,69534,FINAL,Braintree,4051,41.0,0,Weymouth,4425,59.0,1,Bay State,Bay State,,,0
 2025-12-11,69553,FINAL,Norton,4295,60.66,1,Medfield,4241,34.33,0,Tri-Valley,Tri-Valley,,,0
 2025-12-12,69589,FINAL,Old Rochester,4301,70,1,Apponequet,4011,25,0,South Coast,South Coast,,,0
 2025-12-12,69652,FINAL,Somerset Berkley,4350,74,1,Dighton-Rehoboth,4114,21,0,South Coast,South Coast,3:30 P.M.,,0

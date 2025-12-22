@@ -1,6 +1,6 @@
 # Boys Indoor Track - 2025 Season
 
-Generated: 2025-12-21 11:15
+Generated: 2025-12-22 11:16
 
 ## Upcoming Games
 
@@ -65,16 +65,16 @@ Generated: 2025-12-21 11:15
 | 28 | Milton | 1474.1 |
 | 29 | Martha’s Vineyard | 1468.7 |
 | 30 | Wareham | 1467.0 |
-| 31 | Whitman-Hanson | 1459.3 |
-| 32 | Billerica | 1459.3 |
+| 31 | Billerica | 1459.3 |
+| 32 | Whitman-Hanson | 1459.3 |
 | 33 | Medfield | 1459.1 |
 | 34 | Dighton-Rehoboth | 1450.4 |
 | 35 | Sharon | 1447.6 |
 | 36 | King Philip | 1447.2 |
 | 37 | West Bridgewater | 1440.7 |
 | 38 | Arlington Catholic | 1436.0 |
-| 39 | Foxborough | 1433.6 |
-| 40 | Milford | 1433.6 |
+| 39 | Milford | 1433.6 |
+| 40 | Foxborough | 1433.6 |
 | 41 | Canton | 1430.1 |
 | 42 | Braintree | 1429.1 |
 | 43 | Bishop Fenwick | 1429.1 |
