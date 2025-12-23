@@ -1,6 +1,6 @@
 # Girls Indoor Track - 2025 Season
 
-Generated: 2025-12-22 11:16
+Generated: 2025-12-23 11:17
 
 ## Upcoming Games
 
@@ -29,7 +29,7 @@ Generated: 2025-12-22 11:16
 | 2025-12-17 | Central Catholic | 60 | Chelmsford | 40 | +2.0 | +20.0 |
 | 2025-12-17 | North Andover | 19 | Billerica | 80 | +2.0 | -61.0 |
 | 2025-12-17 | Bishop Feehan | 84 | Bishop Stang | 7 | +5.2 | +77.0 |
-| 2025-12-16 | Ursuline | 15 | St. Mary’s | 84 | +2.0 | -69.0 |
+| 2025-12-16 | Malden Catholic | 30 | St. Mary’s | 70 | -0.9 | -40.0 |
 | 2025-12-16 | Bishop Fenwick | 43 | Arlington Catholic | 56 | +1.7 | -13.0 |
 | 2025-12-16 | Arlington Catholic | 45 | Archbishop Williams | 46 | +1.2 | -1.0 |
 | 2025-12-16 | Bishop Fenwick | 48 | Archbishop Williams | 50 | +2.0 | -2.0 |
@@ -37,8 +37,7 @@ Generated: 2025-12-22 11:16
 | 2025-12-16 | Cristo Rey | 10 | Cardinal Spellman | 89 | -0.9 | -79.0 |
 | 2025-12-16 | Fontbonne | 12 | Cardinal Spellman | 79 | +2.0 | -67.0 |
 | 2025-12-16 | Ursuline | 34 | Malden Catholic | 60 | +1.2 | -26.0 |
-| 2025-12-16 | Malden Catholic | 30 | St. Mary’s | 70 | -0.9 | -40.0 |
-| 2025-12-15 | Marshfield | 55 | Whitman-Hanson | 39 | +2.0 | +16.0 |
+| 2025-12-16 | Ursuline | 15 | St. Mary’s | 84 | +2.0 | -69.0 |
 
 ## Current Elo Ratings
 

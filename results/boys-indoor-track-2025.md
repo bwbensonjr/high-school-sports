@@ -1,6 +1,6 @@
 # Boys Indoor Track - 2025 Season
 
-Generated: 2025-12-22 11:16
+Generated: 2025-12-23 11:17
 
 ## Upcoming Games
 
@@ -12,24 +12,23 @@ Generated: 2025-12-22 11:16
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2025-12-19 | Oliver Ames | 67 | North Attleborough | 33 | +5.7 | +34.0 |
-| 2025-12-18 | King Philip | 38 | Franklin | 61 | +2.0 | -23.0 |
+| 2025-12-18 | Milford | 21 | Taunton | 73 | +2.0 | -52.0 |
 | 2025-12-18 | Brookline | 57 | Braintree | 43 | +6.8 | +14.0 |
 | 2025-12-18 | Newton North | 76 | Framingham | 23 | +1.3 | +52.7 |
 | 2025-12-18 | Natick | 55 | Wellesley | 44 | -2.6 | +11.0 |
 | 2025-12-18 | Walpole | 77 | Needham | 23 | +3.4 | +54.0 |
 | 2025-12-18 | West Bridgewater | 30 | Seekonk | 64 | +2.0 | -34.0 |
 | 2025-12-18 | Oliver Ames | 67 | North Attleborough | 33 | +2.0 | +34.0 |
-| 2025-12-18 | Milford | 21 | Taunton | 73 | +2.0 | -52.0 |
+| 2025-12-18 | King Philip | 38 | Franklin | 61 | +2.0 | -23.0 |
 | 2025-12-18 | Foxborough | 22 | Mansfield | 74 | +2.0 | -52.0 |
 | 2025-12-18 | Attleboro | 83 | Sharon | 17 | +2.0 | +66.0 |
 | 2025-12-18 | Canton | 18 | Stoughton | 82 | +2.0 | -64.0 |
 | 2025-12-18 | Apponequet | 34 | Somerset Berkley | 61 | -2.0 | -27.0 |
 | 2025-12-17 | North Andover | 63 | Billerica | 37 | +2.0 | +26.0 |
 | 2025-12-17 | Bishop Feehan | 79 | Bishop Stang | 19 | +4.5 | +60.0 |
-| 2025-12-16 | Bishop Fenwick | 9 | Cardinal Spellman | 77 | +2.0 | -68.0 |
-| 2025-12-16 | Cristo Rey | 10 | St. Mary’s | 92 | +2.0 | -82.0 |
 | 2025-12-16 | Arlington Catholic | 20 | Archbishop Williams | 65 | +2.0 | -45.0 |
-| 2025-12-15 | Marshfield | 61 | Whitman-Hanson | 35 | +2.0 | +26.0 |
+| 2025-12-16 | Cristo Rey | 10 | St. Mary’s | 92 | +2.0 | -82.0 |
+| 2025-12-16 | Bishop Fenwick | 9 | Cardinal Spellman | 77 | +2.0 | -68.0 |
 
 ## Current Elo Ratings
 
@@ -73,8 +72,8 @@ Generated: 2025-12-22 11:16
 | 36 | King Philip | 1447.2 |
 | 37 | West Bridgewater | 1440.7 |
 | 38 | Arlington Catholic | 1436.0 |
-| 39 | Milford | 1433.6 |
-| 40 | Foxborough | 1433.6 |
+| 39 | Foxborough | 1433.6 |
+| 40 | Milford | 1433.6 |
 | 41 | Canton | 1430.1 |
 | 42 | Braintree | 1429.1 |
 | 43 | Bishop Fenwick | 1429.1 |

@@ -14,12 +14,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-11,69460,UPCOMING,Framingham,4143,,,Brookline,4059,,,Bay State,Bay State,6:30 P.M.,,0
 2025-12-11,69477,FINAL,Carver,4077,34.0,0.0,Hanover,4164,41.0,1.0,South Shore,Patriot,,,0
 2025-12-11,69488,FINAL,Walpole,4404,18.0,0.0,Wellesley,4413,54.0,1.0,Bay State,Bay State,,,0
-2025-12-12,69576,FINAL,Roxbury Latin,4334,60,1,St. Sebastian’s,4378,21,0,ISL,ISL,5:00 P.M.,,0
-2025-12-12,69579,FINAL,Roxbury Latin,4334,66,1,Middlesex,4248,18,0,ISL,ISL,5:00 P.M.,,0
-2025-12-12,69583,FINAL,Roxbury Latin,4334,75,1,Beaver Country Day,4030,0,0,ISL,EIL,5:00 P.M.,,0
-2025-12-12,69591,FINAL,Westford,4421,28,0,Foxborough,4142,46,1,Dual County,Hockomock,,,0
-2025-12-12,69592,FINAL,Westford,4421,51,1,Londonderry (N.H.),4213,27,0,Dual County,Independent,4:00 P.M.,,0
-2025-12-12,69594,FINAL,Westford,4421,66,1,Nashoba Valley Tech,4268,18,0,Dual County,Commonwealth,,,0
+2025-12-12,69576,FINAL,Roxbury Latin,4334,60.0,1.0,St. Sebastian’s,4378,21.0,0.0,ISL,ISL,5:00 P.M.,,0
+2025-12-12,69579,FINAL,Roxbury Latin,4334,66.0,1.0,Middlesex,4248,18.0,0.0,ISL,ISL,5:00 P.M.,,0
+2025-12-12,69583,FINAL,Roxbury Latin,4334,75.0,1.0,Beaver Country Day,4030,0.0,0.0,ISL,EIL,5:00 P.M.,,0
+2025-12-12,69591,FINAL,Westford,4421,28.0,0.0,Foxborough,4142,46.0,1.0,Dual County,Hockomock,,,0
+2025-12-12,69592,FINAL,Westford,4421,51.0,1.0,Londonderry (N.H.),4213,27.0,0.0,Dual County,Independent,4:00 P.M.,,0
+2025-12-12,69594,FINAL,Westford,4421,66.0,1.0,Nashoba Valley Tech,4268,18.0,0.0,Dual County,Commonwealth,,,0
 2025-12-13,69665,FINAL,Barnstable,4024,24,0,Upper Cape,4457,60,1,Pioneer,Mayflower,,,0
 2025-12-13,69667,FINAL,Carver,4077,30,0,Upper Cape,4457,54,1,South Shore,Mayflower,,,0
 2025-12-13,69670,FINAL,Middleborough,4247,54,1,Upper Cape,4457,30,0,South Shore,Mayflower,,,0

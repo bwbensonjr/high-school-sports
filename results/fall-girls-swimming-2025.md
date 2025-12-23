@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2025 Season
 
-Generated: 2025-12-22 11:16
+Generated: 2025-12-23 11:17
 
 ## Upcoming Games
 
@@ -21,7 +21,6 @@ Generated: 2025-12-22 11:16
 | 2025-12-16 | Seekonk | 88 | Mansfield | 68 | +5.0 | +20.0 |
 | 2025-12-16 | Durfee | 78 | Bridgewater-Raynham | 68 | -1.0 | +10.0 |
 | 2025-12-16 | Martha’s Vineyard | 38 | Nantucket | 132 | +5.0 | -94.0 |
-| 2025-12-15 | Bishop Feehan | 92 | Norwell | 74 | -0.0 | +18.0 |
 
 ## Current Elo Ratings
 

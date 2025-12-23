@@ -1,6 +1,6 @@
 # Wrestling - 2025 Season
 
-Generated: 2025-12-22 11:16
+Generated: 2025-12-23 11:17
 
 ## Upcoming Games
 
@@ -61,8 +61,8 @@ Generated: 2025-12-22 11:16
 | 13 | Avon Old Farms | 1559.1 |
 | 14 | Middleborough | 1557.7 |
 | 15 | Shawsheen | 1553.9 |
-| 16 | Eagle Hill | 1553.9 |
-| 17 | New Bedford | 1553.9 |
+| 16 | New Bedford | 1553.9 |
+| 17 | Eagle Hill | 1553.9 |
 | 18 | Cohasset | 1552.2 |
 | 19 | Bridgewater-Raynham | 1552.2 |
 | 20 | St. John’s Prep | 1551.9 |
@@ -91,8 +91,8 @@ Generated: 2025-12-22 11:16
 | 43 | Burlington | 1503.1 |
 | 44 | Westford | 1502.4 |
 | 45 | Danvers | 1502.1 |
-| 46 | Brookline | 1501.7 |
-| 47 | Wilmington | 1501.7 |
+| 46 | Wilmington | 1501.7 |
+| 47 | Brookline | 1501.7 |
 | 48 | North Reading | 1501.7 |
 | 49 | Middlesex | 1485.6 |
 | 50 | Beaver Country Day | 1485.1 |
@@ -122,8 +122,8 @@ Generated: 2025-12-22 11:16
 | 74 | Whittier | 1451.4 |
 | 75 | Nashoba Valley Tech | 1451.3 |
 | 76 | Quincy/North Quincy | 1451.1 |
-| 77 | Marshfield | 1449.4 |
-| 78 | Northeast/Bishop Fenwick | 1449.4 |
+| 77 | Northeast/Bishop Fenwick | 1449.4 |
+| 78 | Marshfield | 1449.4 |
 | 79 | BB&N | 1445.8 |
 | 80 | Deerfield | 1445.1 |
 | 81 | Malden Catholic | 1443.8 |
@@ -131,8 +131,8 @@ Generated: 2025-12-22 11:16
 | 83 | Keefe Tech | 1443.2 |
 | 84 | Billerica | 1440.7 |
 | 85 | Phillips Exeter | 1440.4 |
-| 86 | Barnstable | 1439.7 |
-| 87 | Walpole | 1439.7 |
+| 86 | Walpole | 1439.7 |
+| 87 | Barnstable | 1439.7 |
 | 88 | Pomfret | 1438.1 |
 | 89 | Lawrence | 1436.0 |
 | 90 | Landmark | 1432.5 |
