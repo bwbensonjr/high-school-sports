@@ -20,33 +20,33 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-12,69591,FINAL,Westford,4421,28.0,0.0,Foxborough,4142,46.0,1.0,Dual County,Hockomock,,,0
 2025-12-12,69592,FINAL,Westford,4421,51.0,1.0,Londonderry (N.H.),4213,27.0,0.0,Dual County,Independent,4:00 P.M.,,0
 2025-12-12,69594,FINAL,Westford,4421,66.0,1.0,Nashoba Valley Tech,4268,18.0,0.0,Dual County,Commonwealth,,,0
-2025-12-13,69665,FINAL,Barnstable,4024,24,0,Upper Cape,4457,60,1,Pioneer,Mayflower,,,0
-2025-12-13,69667,FINAL,Carver,4077,30,0,Upper Cape,4457,54,1,South Shore,Mayflower,,,0
-2025-12-13,69670,FINAL,Middleborough,4247,54,1,Upper Cape,4457,30,0,South Shore,Mayflower,,,0
-2025-12-13,69675,FINAL,Burlington,4065,30,0,Tyngsborough/Dracut,4397,42,1,Middlesex,Mid-Wach,,,0
-2025-12-13,69677,FINAL,Burlington,4065,47,1,Milton,4252,30,0,Middlesex,Bay State,,,0
-2025-12-13,69680,FINAL,Burlington,4065,23,0,Chelmsford,4085,47,1,Middlesex,Merrimack Valley,,,0
-2025-12-13,69681,FINAL,Trinity-Pawling,4394,37,1,Nobles,4282,36,0,Independent,ISL,,,0
-2025-12-13,69683,FINAL,Nobles,4282,34,1,Lexington Christian,4210,30,0,ISL,EIL,,,0
-2025-12-13,69684,FINAL,Nobles,4282,24,0,Choate,4090,54,1,ISL,Independent,,,0
-2025-12-13,69687,FINAL,Nobles,4282,12,0,Avon Old Farms,4021,62,1,ISL,Independent,,,0
-2025-12-13,69704,FINAL,Sharon,4345,60,1,Lincoln-Sudbury,4211,18,0,Hockomock,Dual County,,,0
-2025-12-13,69705,FINAL,Sharon,4345,52,1,Hopkinton,4180,25,0,Hockomock,Tri-Valley,,,0
-2025-12-13,69707,FINAL,Sharon,4345,51,1,Somerset Berkley,4350,28,0,Hockomock,Independent,,,0
-2025-12-13,69709,FINAL,Brooks,4060,29,1,BB&N,4028,24,0,ISL,ISL,,,0
-2025-12-13,69712,FINAL,Brooks,4060,18,0,Cambridge,4067,57,1,ISL,Dual County,,,0
-2025-12-13,69715,FINAL,Brooks,4060,29,0,Weston,4423,36,1,ISL,Dual County,,,0
-2025-12-13,69717,FINAL,Brooks,4060,30,0,Quincy Upper,4515,34,1,ISL,Boston City,,,0
-2025-12-13,69720,FINAL,Bridgewater-Raynham,4053,42,1,Latin Academy,4202,38,0,Independent,Boston City,10:00 A.M.,,0
-2025-12-13,69722,FINAL,Latin Academy,4202,30,0,Dedham,4108,46,1,Boston City,Tri-Valley,10:00 A.M.,,0
-2025-12-13,69723,FINAL,Latin Academy,4202,36,0,Northbridge,4292,45,1,Boston City,Independent,10:00 A.M.,,0
-2025-12-13,69726,FINAL,BB&N,4028,24,0,Quincy Upper,4515,30,1,ISL,Boston City,,,0
-2025-12-13,69728,FINAL,Weston,4423,30,0,Quincy Upper,4515,51,1,Dual County,Boston City,,,0
-2025-12-13,69929,FINAL,Triton,4395,57,1,North Middlesex,4286,23,0,Cape Ann,Independent,,,0
-2025-12-13,69930,FINAL,Triton,4395,60,1,Lynn Tech,4222,22,0,Cape Ann,Independent,,,0
-2025-12-13,69933,FINAL,Triton,4395,36,0,Wellesley,4413,46,1,Cape Ann,Bay State,,,0
-2025-12-13,69940,FINAL,Triton,4395,9,0,Bedford / A-B,4031,65,1,Cape Ann,Dual County,,,0
-2025-12-13,70274,FINAL,Sharon,4345,54,1,BC High,4029,24,0,Hockomock,Catholic Conference,,,0
+2025-12-13,69665,FINAL,Barnstable,4024,24.0,0.0,Upper Cape,4457,60.0,1.0,Pioneer,Mayflower,,,0
+2025-12-13,69667,FINAL,Carver,4077,30.0,0.0,Upper Cape,4457,54.0,1.0,South Shore,Mayflower,,,0
+2025-12-13,69670,FINAL,Middleborough,4247,54.0,1.0,Upper Cape,4457,30.0,0.0,South Shore,Mayflower,,,0
+2025-12-13,69675,FINAL,Burlington,4065,30.0,0.0,Tyngsborough/Dracut,4397,42.0,1.0,Middlesex,Mid-Wach,,,0
+2025-12-13,69677,FINAL,Burlington,4065,47.0,1.0,Milton,4252,30.0,0.0,Middlesex,Bay State,,,0
+2025-12-13,69680,FINAL,Burlington,4065,23.0,0.0,Chelmsford,4085,47.0,1.0,Middlesex,Merrimack Valley,,,0
+2025-12-13,69681,FINAL,Trinity-Pawling,4394,37.0,1.0,Nobles,4282,36.0,0.0,Independent,ISL,,,0
+2025-12-13,69683,FINAL,Nobles,4282,34.0,1.0,Lexington Christian,4210,30.0,0.0,ISL,EIL,,,0
+2025-12-13,69684,FINAL,Nobles,4282,24.0,0.0,Choate,4090,54.0,1.0,ISL,Independent,,,0
+2025-12-13,69687,FINAL,Nobles,4282,12.0,0.0,Avon Old Farms,4021,62.0,1.0,ISL,Independent,,,0
+2025-12-13,69704,FINAL,Sharon,4345,60.0,1.0,Lincoln-Sudbury,4211,18.0,0.0,Hockomock,Dual County,,,0
+2025-12-13,69705,FINAL,Sharon,4345,52.0,1.0,Hopkinton,4180,25.0,0.0,Hockomock,Tri-Valley,,,0
+2025-12-13,69707,FINAL,Sharon,4345,51.0,1.0,Somerset Berkley,4350,28.0,0.0,Hockomock,Independent,,,0
+2025-12-13,69709,FINAL,Brooks,4060,29.0,1.0,BB&N,4028,24.0,0.0,ISL,ISL,,,0
+2025-12-13,69712,FINAL,Brooks,4060,18.0,0.0,Cambridge,4067,57.0,1.0,ISL,Dual County,,,0
+2025-12-13,69715,FINAL,Brooks,4060,29.0,0.0,Weston,4423,36.0,1.0,ISL,Dual County,,,0
+2025-12-13,69717,FINAL,Brooks,4060,30.0,0.0,Quincy Upper,4515,34.0,1.0,ISL,Boston City,,,0
+2025-12-13,69720,FINAL,Bridgewater-Raynham,4053,42.0,1.0,Latin Academy,4202,38.0,0.0,Independent,Boston City,10:00 A.M.,,0
+2025-12-13,69722,FINAL,Latin Academy,4202,30.0,0.0,Dedham,4108,46.0,1.0,Boston City,Tri-Valley,10:00 A.M.,,0
+2025-12-13,69723,FINAL,Latin Academy,4202,36.0,0.0,Northbridge,4292,45.0,1.0,Boston City,Independent,10:00 A.M.,,0
+2025-12-13,69726,FINAL,BB&N,4028,24.0,0.0,Quincy Upper,4515,30.0,1.0,ISL,Boston City,,,0
+2025-12-13,69728,FINAL,Weston,4423,30.0,0.0,Quincy Upper,4515,51.0,1.0,Dual County,Boston City,,,0
+2025-12-13,69929,FINAL,Triton,4395,57.0,1.0,North Middlesex,4286,23.0,0.0,Cape Ann,Independent,,,0
+2025-12-13,69930,FINAL,Triton,4395,60.0,1.0,Lynn Tech,4222,22.0,0.0,Cape Ann,Independent,,,0
+2025-12-13,69933,FINAL,Triton,4395,36.0,0.0,Wellesley,4413,46.0,1.0,Cape Ann,Bay State,,,0
+2025-12-13,69940,FINAL,Triton,4395,9.0,0.0,Bedford / A-B,4031,65.0,1.0,Cape Ann,Dual County,,,0
+2025-12-13,70274,FINAL,Sharon,4345,54.0,1.0,BC High,4029,24.0,0.0,Hockomock,Catholic Conference,,,0
 2025-12-14,69729,FINAL,Cambridge,4067,12,2,Quincy Upper,4515,12,2,Dual County,Boston City,,,0
 2025-12-17,69461,UPCOMING,Brookline,4059,,,Needham,4272,,,Bay State,Bay State,7:00 P.M.,,0
 2025-12-17,70226,FINAL,Shawsheen,4346,60,1,Northeast/Bishop Fenwick,4293,3,0,Commonwealth,Commonwealth,,,0
@@ -79,3 +79,5 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-20,71717,FINAL,Hingham,4171,72,1,Monty Tech/Fitchburg,4259,6,0,Patriot,Independent,,,0
 2025-12-20,71719,FINAL,Hingham,4171,30,0,Scituate,4343,48,1,Patriot,Patriot,,,0
 2025-12-20,71721,FINAL,Hingham,4171,32,0,Taunton,4388,40,1,Patriot,Hockomock,,,0
+2025-12-23,72477,FINAL,Walpole,4404,68,1,Stoughton,4381,12,0,Bay State,Hockomock,,,0
+2025-12-23,72554,FINAL,Cohasset,4094,71,1,East Boston,4125,12,0,South Shore,Boston City,1:00 P.M.,,0

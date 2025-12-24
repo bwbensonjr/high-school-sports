@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2025 Season
 
-Generated: 2025-12-23 11:17
+Generated: 2025-12-24 11:17
 
 ## Upcoming Games
 
@@ -11,16 +11,13 @@ Generated: 2025-12-23 11:17
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2025-12-22 | Durfee | 63 | Taunton | 99 | +2.7 | -36.0 |
 | 2025-12-19 | Archbishop Williams | 86 | Bishop Fenwick | 63 | +5.0 | +23.0 |
 | 2025-12-19 | Mansfield | 59 | Stoughton | 34 | +1.1 | +25.0 |
 | 2025-12-19 | Foxborough | 46 | Stoughton | 46 | +9.7 | 0.0 |
 | 2025-12-19 | Nashoba | 82 | Tantasqua | 97 | -0.3 | -15.0 |
 | 2025-12-18 | New Bedford | 106 | Apponequet | 77 | -1.0 | +29.0 |
 | 2025-12-18 | Barnstable | 53 | Nantucket | 102 | -2.8 | -49.0 |
-| 2025-12-16 | Nashoba | 70 | Westborough | 91 | +5.0 | -21.0 |
-| 2025-12-16 | Seekonk | 88 | Mansfield | 68 | +5.0 | +20.0 |
-| 2025-12-16 | Durfee | 78 | Bridgewater-Raynham | 68 | -1.0 | +10.0 |
-| 2025-12-16 | Martha’s Vineyard | 38 | Nantucket | 132 | +5.0 | -94.0 |
 
 ## Current Elo Ratings
 
@@ -38,29 +35,29 @@ Generated: 2025-12-23 11:17
 | 10 | Methuen/Tewksbury | 1598.5 |
 | 11 | Winchester | 1587.2 |
 | 12 | Hingham | 1569.7 |
-| 13 | Westborough | 1554.6 |
-| 14 | New Bedford | 1554.1 |
-| 15 | Concord-Carlisle | 1550.2 |
-| 16 | Needham | 1547.3 |
-| 17 | Bishop Feehan | 1545.9 |
-| 18 | Lexington | 1543.9 |
-| 19 | Tantasqua | 1542.9 |
-| 20 | Newton North | 1542.6 |
-| 21 | Archbishop Williams | 1542.5 |
-| 22 | Belmont | 1541.4 |
-| 23 | Seekonk | 1540.8 |
-| 24 | Wayland | 1536.5 |
-| 25 | Duxbury | 1526.7 |
-| 26 | Reading | 1526.5 |
-| 27 | Quincy | 1520.5 |
-| 28 | Mansfield | 1509.9 |
-| 29 | Chelmsford | 1509.7 |
-| 30 | Apponequet | 1509.1 |
-| 31 | Norwell | 1507.9 |
-| 32 | Foxborough | 1501.7 |
-| 33 | Wakefield/Wakefield | 1483.8 |
-| 34 | Plymouth North/South | 1482.8 |
-| 35 | Durfee | 1478.7 |
+| 13 | Taunton | 1560.0 |
+| 14 | Westborough | 1554.6 |
+| 15 | New Bedford | 1554.1 |
+| 16 | Concord-Carlisle | 1550.2 |
+| 17 | Needham | 1547.3 |
+| 18 | Bishop Feehan | 1545.9 |
+| 19 | Lexington | 1543.9 |
+| 20 | Tantasqua | 1542.9 |
+| 21 | Newton North | 1542.6 |
+| 22 | Archbishop Williams | 1542.5 |
+| 23 | Belmont | 1541.4 |
+| 24 | Seekonk | 1540.8 |
+| 25 | Wayland | 1536.5 |
+| 26 | Duxbury | 1526.7 |
+| 27 | Reading | 1526.5 |
+| 28 | Quincy | 1520.5 |
+| 29 | Mansfield | 1509.9 |
+| 30 | Chelmsford | 1509.7 |
+| 31 | Apponequet | 1509.1 |
+| 32 | Norwell | 1507.9 |
+| 33 | Foxborough | 1501.7 |
+| 34 | Wakefield/Wakefield | 1483.8 |
+| 35 | Plymouth North/South | 1482.8 |
 | 36 | Marshfield/Hanover | 1476.6 |
 | 37 | Arlington/Watertown | 1476.6 |
 | 38 | Holliston/Medway | 1466.8 |
@@ -80,11 +77,12 @@ Generated: 2025-12-23 11:17
 | 52 | Martha’s Vineyard | 1423.6 |
 | 53 | Notre Dame (T)/Dracut | 1423.0 |
 | 54 | Lowell | 1422.7 |
-| 55 | Billerica | 1412.5 |
-| 56 | Nashoba | 1407.4 |
-| 57 | Weymouth | 1393.6 |
-| 58 | Woburn | 1392.3 |
-| 59 | Malden Catholic | 1351.9 |
-| 60 | Braintree | 1348.8 |
-| 61 | Walpole | 1319.9 |
-| 62 | Stoneham | 1318.2 |
+| 55 | Durfee | 1420.3 |
+| 56 | Billerica | 1412.5 |
+| 57 | Nashoba | 1407.4 |
+| 58 | Weymouth | 1393.6 |
+| 59 | Woburn | 1392.3 |
+| 60 | Malden Catholic | 1351.9 |
+| 61 | Braintree | 1348.8 |
+| 62 | Walpole | 1319.9 |
+| 63 | Stoneham | 1318.2 |
