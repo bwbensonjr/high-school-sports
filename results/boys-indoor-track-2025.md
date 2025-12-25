@@ -1,6 +1,6 @@
 # Boys Indoor Track - 2025 Season
 
-Generated: 2025-12-24 11:17
+Generated: 2025-12-25 11:16
 
 ## Upcoming Games
 
@@ -17,9 +17,10 @@ Generated: 2025-12-24 11:17
 | 2025-12-23 | Archbishop Williams | 57 | Bishop Fenwick | 25 | +7.5 | +32.0 |
 | 2025-12-22 | Hingham | 58 | Silver Lake | 42 | +2.0 | +16.0 |
 | 2025-12-19 | Oliver Ames | 67 | North Attleborough | 33 | +5.7 | +34.0 |
-| 2025-12-18 | Natick | 55 | Wellesley | 44 | -2.6 | +11.0 |
+| 2025-12-18 | Canton | 18 | Stoughton | 82 | +2.0 | -64.0 |
 | 2025-12-18 | Brookline | 57 | Braintree | 43 | +6.8 | +14.0 |
 | 2025-12-18 | Newton North | 76 | Framingham | 23 | +1.3 | +52.7 |
+| 2025-12-18 | Apponequet | 34 | Somerset Berkley | 61 | -2.0 | -27.0 |
 | 2025-12-18 | Walpole | 77 | Needham | 23 | +3.4 | +54.0 |
 | 2025-12-18 | West Bridgewater | 30 | Seekonk | 64 | +2.0 | -34.0 |
 | 2025-12-18 | Oliver Ames | 67 | North Attleborough | 33 | +2.0 | +34.0 |
@@ -27,10 +28,7 @@ Generated: 2025-12-24 11:17
 | 2025-12-18 | King Philip | 38 | Franklin | 61 | +2.0 | -23.0 |
 | 2025-12-18 | Foxborough | 22 | Mansfield | 74 | +2.0 | -52.0 |
 | 2025-12-18 | Attleboro | 83 | Sharon | 17 | +2.0 | +66.0 |
-| 2025-12-18 | Canton | 18 | Stoughton | 82 | +2.0 | -64.0 |
-| 2025-12-18 | Apponequet | 34 | Somerset Berkley | 61 | -2.0 | -27.0 |
-| 2025-12-17 | North Andover | 63 | Billerica | 37 | +2.0 | +26.0 |
-| 2025-12-17 | Bishop Feehan | 79 | Bishop Stang | 19 | +4.5 | +60.0 |
+| 2025-12-18 | Natick | 55 | Wellesley | 44 | -2.6 | +11.0 |
 
 ## Current Elo Ratings
 
@@ -46,15 +44,15 @@ Generated: 2025-12-24 11:17
 | 8 | Oliver Ames | 1580.1 |
 | 9 | Stoughton | 1573.2 |
 | 10 | Bishop Feehan | 1571.6 |
-| 11 | Taunton | 1569.7 |
-| 12 | Mansfield | 1569.7 |
+| 11 | Mansfield | 1569.7 |
+| 12 | Taunton | 1569.7 |
 | 13 | Franklin | 1556.1 |
 | 14 | Attleboro | 1555.7 |
 | 15 | Weymouth | 1552.1 |
 | 16 | Old Rochester | 1550.9 |
 | 17 | Norton | 1544.2 |
-| 18 | North Andover | 1544.0 |
-| 19 | Marshfield | 1544.0 |
+| 18 | Marshfield | 1544.0 |
+| 19 | North Andover | 1544.0 |
 | 20 | Hingham | 1538.1 |
 | 21 | Southeastern | 1536.6 |
 | 22 | Diman | 1536.3 |
@@ -76,8 +74,8 @@ Generated: 2025-12-24 11:17
 | 38 | Sharon | 1447.6 |
 | 39 | King Philip | 1447.2 |
 | 40 | West Bridgewater | 1440.7 |
-| 41 | Foxborough | 1433.6 |
-| 42 | Milford | 1433.6 |
+| 41 | Milford | 1433.6 |
+| 42 | Foxborough | 1433.6 |
 | 43 | Canton | 1430.1 |
 | 44 | Braintree | 1429.1 |
 | 45 | Bishop Stang | 1424.3 |

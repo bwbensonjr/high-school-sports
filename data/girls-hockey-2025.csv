@@ -57,11 +57,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-13,69660,FINAL,Wellesley/L-S,4413,5.0,1.0,Concord-Carlisle,4097,3.0,0.0,Bay State,Merrimack Valley/Dual County,3:00 P.M.,,0
 2025-12-13,69673,FINAL,Choate,4090,1.0,0.0,Nobles,4282,2.0,1.0,Founders,ISL,,,0
 2025-12-13,69702,FINAL,Lawrence Academy,4204,1.0,0.0,St. George’s,4367,2.0,1.0,ISL,ISL,,,0
-2025-12-14,65186,FINAL,Pembroke,4308,6,1,Dennis-Yarmouth,4111,2,0,Patriot,Cape & Islands,12:00 P.M.,,0
-2025-12-14,65189,FINAL,Marblehead,4231,2,0,Leominster,4208,3,1,Northeast,Central/West,10:30 A.M.,,0
-2025-12-14,65191,FINAL,Weymouth,4425,0,0,Pope Francis,4796,3,1,Bay State,Central/West,12:00 P.M.,,0
-2025-12-14,65192,FINAL,Latin Academy/Fontbonne,4202,5,1,Stoughton,4381,3,0,Independent,Independent,4:00 P.M.,,0
-2025-12-14,65195,FINAL,Longmeadow,4214,3,2,Andover,4009,3,2,Central/West,Merrimack Valley/Dual County,5:10 P.M.,,0
+2025-12-14,65186,FINAL,Pembroke,4308,6.0,1.0,Dennis-Yarmouth,4111,2.0,0.0,Patriot,Cape & Islands,12:00 P.M.,,0
+2025-12-14,65189,FINAL,Marblehead,4231,2.0,0.0,Leominster,4208,3.0,1.0,Northeast,Central/West,10:30 A.M.,,0
+2025-12-14,65191,FINAL,Weymouth,4425,0.0,0.0,Pope Francis,4796,3.0,1.0,Bay State,Central/West,12:00 P.M.,,0
+2025-12-14,65192,FINAL,Latin Academy/Fontbonne,4202,5.0,1.0,Stoughton,4381,3.0,0.0,Independent,Independent,4:00 P.M.,,0
+2025-12-14,65195,FINAL,Longmeadow,4214,3.0,2.0,Andover,4009,3.0,2.0,Central/West,Merrimack Valley/Dual County,5:10 P.M.,,0
 2025-12-15,65197,FINAL,Concord-Carlisle,4097,0,0,Lexington,4209,3,1,Merrimack Valley/Dual County,Middlesex,4:00 P.M.,,0
 2025-12-15,65198,FINAL,Billerica/Chelmsford,4040,1,1,Brookline,4059,0,0,Merrimack Valley/Dual County,Bay State,7:00 P.M.,,0
 2025-12-15,65201,FINAL,Shrewsbury,4348,5,1,Franklin,4144,0,0,Merrimack Valley/Dual County,Hockomock,7:30 P.M.,,0
@@ -186,7 +186,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-23,71899,FINAL,Leominster,4208,0,0,Shrewsbury,4348,4,1,Central/West,Merrimack Valley/Dual County,6:30 P.M.,,0
 2025-12-23,71904,FINAL,Andover,4009,2,0,Shawsheen/Bedford/Lowell,4346,3,1,Merrimack Valley/Dual County,Merrimack Valley/Dual County,7:10 P.M.,,0
 2025-12-23,71905,FINAL,Beverly/Danvers,4038,4,1,Medfield,4241,2,0,Northeast,Tri-Valley,7:30 P.M.,,0
-2025-12-24,71173,UPCOMING,Hingham,4171,,,Weymouth,4425,,,Patriot,Bay State,10:00 A.M.,,0
+2025-12-24,71173,FINAL,Hingham,4171,4,1,Weymouth,4425,0,0,Patriot,Bay State,10:00 A.M.,,0
 2025-12-26,71895,UPCOMING,HPNA,4283,,,Newburyport,4276,,,Merrimack Valley/Dual County,Northeast,6:00 P.M.,,0
 2025-12-26,72514,UPCOMING,Ursuline,4448,,,Boston Latin,4049,,,Independent,Merrimack Valley/Dual County,10:00 A.M.,,0
 2025-12-26,72519,UPCOMING,Weymouth,4425,,,Westford,4421,,,Bay State,Merrimack Valley/Dual County,4:00 P.M.,,0
@@ -283,3 +283,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-03,72605,UPCOMING,Stoneham/Wilmington,4380,,,Newburyport,4276,,,Middlesex,Northeast,6:00 P.M.,,0
 2026-01-03,72608,UPCOMING,Lexington,4209,,,Woburn,4438,,,Middlesex,Middlesex,7:15 P.M.,,0
 2026-01-03,72611,UPCOMING,Acton-Boxboro,4003,,,Concord-Carlisle,4097,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,8:30 P.M.,,0
+2026-01-04,70990,UPCOMING,Brookline,4059,,,Newton North,4279,,,Bay State,Bay State,12:00 P.M.,,0
+2026-01-04,71446,UPCOMING,Latin Academy/Fontbonne,4202,,,Bishop Fenwick,4043,,,Independent,Catholic Central,4:00 P.M.,,0
+2026-01-04,71628,UPCOMING,Billerica/Chelmsford,4040,,,Mansfield/OA/Foxboro,4230,,,Merrimack Valley/Dual County,Hockomock,3:30 P.M.,,0
+2026-01-04,72613,UPCOMING,Wakefield,4402,,,Melrose,4244,,,Middlesex,Middlesex,11:00 A.M.,,0
+2026-01-04,72615,UPCOMING,Longmeadow,4214,,,Algonquin,4005,,,Central/West,Central/West,4:40 P.M.,,0
+2026-01-04,72618,UPCOMING,Central Catholic,4081,,,Methuen/Tewksbury,4246,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,4:55 P.M.,,0

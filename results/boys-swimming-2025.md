@@ -1,6 +1,6 @@
 # Boys Swimming - 2025 Season
 
-Generated: 2025-12-24 11:17
+Generated: 2025-12-25 11:16
 
 ## Upcoming Games
 
@@ -61,8 +61,8 @@ Generated: 2025-12-24 11:17
 | 27 | Westborough | 1491.1 |
 | 28 | Latin Academy | 1481.2 |
 | 29 | Holliston/Medway | 1462.8 |
-| 30 | Lincoln-Sudbury | 1457.4 |
-| 31 | Wellesley | 1457.4 |
+| 30 | Wellesley | 1457.4 |
+| 31 | Lincoln-Sudbury | 1457.4 |
 | 32 | Marshfield/Hanover | 1456.3 |
 | 33 | Lexington | 1450.4 |
 | 34 | Melrose | 1449.5 |

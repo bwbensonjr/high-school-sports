@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2025 Season
 
-Generated: 2025-12-24 11:17
+Generated: 2025-12-25 11:16
 
 ## Upcoming Games
 
@@ -16,8 +16,6 @@ Generated: 2025-12-24 11:17
 | 2025-12-21 | Andover | 134 | Haverhill | 129 | +3.1 | +5.3 |
 | 2025-12-21 | Haverhill | 129 | Chelmsford/B/T | 127 | +2.2 | +1.5 |
 | 2025-12-19 | Hingham/Hull | 130 | Marshfield | 121 | +2.0 | +9.1 |
-| 2025-12-17 | Newton North | 146 | Newton South | 129 | +2.0 | +17.1 |
-| 2025-12-17 | Central Catholic | 138 | Methuen | 115 | +2.0 | +22.7 |
 
 ## Current Elo Ratings
 

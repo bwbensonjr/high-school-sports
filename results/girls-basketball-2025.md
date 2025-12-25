@@ -1,6 +1,6 @@
 # Girls Basketball - 2025 Season
 
-Generated: 2025-12-24 11:17
+Generated: 2025-12-25 11:16
 
 ## Upcoming Games
 
@@ -19,15 +19,17 @@ Generated: 2025-12-24 11:17
 | 2025-12-29 | 3:00 P.M. | Milton | Shawsheen | 49.7% | -0.1 |
 | 2025-12-29 | 1:00 P.M. | Brockton | Dartmouth | 63.3% | +4.7 |
 | 2025-12-29 | 4:30 P.M. | Mystic Valley | KIPP | 49.5% | -0.2 |
-| 2025-12-29 | 12:45 P.M. | Ashland | Weston | 59.3% | +3.3 |
 | 2025-12-29 | 1:00 P.M. | Whittier | Lawrence | 76.9% | +10.4 |
+| 2025-12-29 | 12:45 P.M. | Ashland | Weston | 59.3% | +3.3 |
 | 2025-12-29 | 3:30 P.M. | Greater Lawrence | Malden | 36.2% | -4.9 |
 | 2025-12-30 | 1:30 P.M. | Everett | Haverhill | 45.6% | -1.5 |
 | 2025-12-30 | 6:00 P.M. | Norton | Attleboro | 38.9% | -3.9 |
 | 2025-12-30 | 6:30 P.M. | Notre Dame (Hingham) | Franklin | 74.0% | +9.1 |
-| 2026-01-02 | 6:00 P.M. | Milford | Attleboro | 65.3% | +5.5 |
 | 2026-01-02 | 5:30 P.M. | Lynn Tech | Malden | 49.9% | -0.0 |
+| 2026-01-02 | 6:00 P.M. | Milford | Attleboro | 65.3% | +5.5 |
+| 2026-01-02 | 6:30 P.M. | Natick | Weymouth | 86.3% | +16.0 |
 | 2026-01-03 | 1:00 P.M. | Lexington | Lynn English | 59.5% | +3.3 |
+| 2026-01-03 | 1:00 P.M. | Newton North | Acton-Boxborough | 55.1% | +1.8 |
 
 ## Recent Games
 
@@ -52,41 +54,42 @@ Generated: 2025-12-24 11:17
 | 2025-12-23 | Triton | 50 | Gloucester | 32 | +1.7 | +18.0 |
 | 2025-12-23 | Bishop Feehan | 57 | Cathedral | 48 | +3.0 | +9.0 |
 | 2025-12-23 | Groton-Dunstable | 33 | Leominster | 47 | +2.0 | -14.0 |
-| 2025-12-23 | Athol | 40 | Duggan Academy | 21 | -1.0 | +19.0 |
+| 2025-12-23 | Westport | 29 | Seekonk | 56 | +2.2 | -27.0 |
 | 2025-12-23 | Nantucket | 48 | Monomoy | 56 | +0.4 | -8.0 |
 | 2025-12-23 | Ayer Shirley | 15 | Tahanto | 67 | -8.9 | -52.0 |
 | 2025-12-23 | Maynard | 57 | Quabbin | 26 | +8.8 | +31.0 |
-| 2025-12-23 | Wachusett | 65 | Bishop Guertin (N.H.) | 50 | +5.2 | +15.0 |
 | 2025-12-23 | Lunenburg | 56 | Hudson | 48 | -0.3 | +8.0 |
+| 2025-12-23 | Wachusett | 65 | Bishop Guertin (N.H.) | 50 | +5.2 | +15.0 |
+| 2025-12-23 | Athol | 40 | Duggan Academy | 21 | -1.0 | +19.0 |
 | 2025-12-23 | Rockland | 26 | East Bridgewater | 54 | -1.8 | -28.0 |
-| 2025-12-23 | Abington | 59 | Carver | 52 | -3.3 | +7.0 |
 | 2025-12-23 | Norwell | 38 | Pembroke | 35 | +3.9 | +3.0 |
 | 2025-12-23 | Silver Lake | 23 | North Quincy | 43 | -2.1 | -20.0 |
 | 2025-12-23 | Sandwich | 22 | Plymouth South | 47 | +11.6 | -25.0 |
+| 2025-12-23 | Abington | 59 | Carver | 52 | -3.3 | +7.0 |
 | 2025-12-23 | Dartmouth | 60 | Greater New Bedford | 57 | -2.0 | +3.0 |
-| 2025-12-23 | Westport | 29 | Seekonk | 56 | +2.2 | -27.0 |
 | 2025-12-22 | Wilmington | 63 | Melrose | 61 | -0.1 | +2.0 |
 | 2025-12-22 | Bellingham | 48 | Dedham | 43 | -3.0 | +5.0 |
 | 2025-12-22 | Norwood | 51 | Norton | 23 | +10.7 | +28.0 |
 | 2025-12-22 | Winchester | 42 | Lexington | 29 | +8.0 | +13.0 |
 | 2025-12-22 | Arlington | 44 | Reading | 31 | +9.0 | +13.0 |
 | 2025-12-22 | Burlington | 36 | Wakefield | 40 | +7.2 | -4.0 |
-| 2025-12-22 | Chelmsford | 28 | Greater Lawrence | 17 | +2.0 | +11.0 |
+| 2025-12-22 | Lincoln-Sudbury | 30 | Shrewsbury | 31 | -1.1 | -1.0 |
 | 2025-12-22 | Argosy Collegiate | 28 | Atlantis Charter | 67 | -2.0 | -39.0 |
 | 2025-12-22 | Stoneham | 38 | Watertown | 50 | -3.2 | -12.0 |
-| 2025-12-22 | Lincoln-Sudbury | 30 | Shrewsbury | 31 | -1.1 | -1.0 |
+| 2025-12-22 | Newton South | 43 | Worcester South | 48 | +2.0 | -5.0 |
 | 2025-12-22 | Bedford | 67 | Beverly | 47 | +12.7 | +20.0 |
 | 2025-12-22 | Malden Catholic | 43 | Waltham | 53 | +4.0 | -10.0 |
 | 2025-12-22 | Hopedale | 53 | Ashland | 50 | +9.1 | +3.0 |
+| 2025-12-22 | Chelmsford | 28 | Greater Lawrence | 17 | +2.0 | +11.0 |
 | 2025-12-22 | Grafton | 67 | Holliston | 41 | +9.3 | +26.0 |
-| 2025-12-22 | Malden | 51 | Northeast | 17 | +2.3 | +34.0 |
+| 2025-12-22 | Somerville | 47 | Concord-Carlisle | 34 | +9.0 | +13.0 |
 | 2025-12-22 | Stoughton | 25 | North Attleborough | 58 | -1.5 | -33.0 |
 | 2025-12-22 | Mansfield | 42 | Oliver Ames | 23 | +2.0 | +19.0 |
 | 2025-12-22 | Canton | 28 | Foxborough | 68 | -2.9 | -40.0 |
 | 2025-12-22 | Sharon | 41 | Milford | 52 | +5.3 | -11.0 |
 | 2025-12-22 | King Philip | 72 | Franklin | 49 | +5.6 | +23.0 |
 | 2025-12-22 | Attleboro | 38 | Taunton | 40 | +8.0 | -2.0 |
-| 2025-12-22 | Somerville | 47 | Concord-Carlisle | 34 | +9.0 | +13.0 |
+| 2025-12-22 | Malden | 51 | Northeast | 17 | +2.3 | +34.0 |
 | 2025-12-22 | Swampscott | 40 | Tewksbury | 34 | +4.2 | +6.0 |
 | 2025-12-22 | Peabody | 49 | North Andover | 39 | +9.6 | +10.0 |
 | 2025-12-22 | Marblehead | 49 | Revere | 22 | +1.8 | +27.0 |
@@ -95,180 +98,154 @@ Generated: 2025-12-24 11:17
 | 2025-12-22 | Brookline | 52 | Newton North | 51 | -4.0 | +1.0 |
 | 2025-12-22 | Latin Academy | 29 | Haverhill | 68 | +6.9 | -39.0 |
 | 2025-12-22 | Methuen | 65 | Whittier | 42 | +0.8 | +23.0 |
-| 2025-12-22 | Abington | 50 | Calvary Chapel | 32 | +0.3 | +18.0 |
+| 2025-12-22 | Manchester Essex | 68 | Hamilton-Wenham | 45 | +2.9 | +23.0 |
 | 2025-12-22 | Essex Tech | 20 | North Reading | 63 | -6.2 | -43.0 |
 | 2025-12-22 | Holbrook | 29 | Norfolk Aggie | 37 | +9.2 | -8.0 |
 | 2025-12-22 | Bromfield | 34 | Murdock | 33 | +2.8 | +1.0 |
 | 2025-12-22 | North Middlesex | 25 | Lunenburg | 46 | -7.0 | -21.0 |
-| 2025-12-22 | Lynnfield | 21 | Pentucket | 42 | +1.1 | -21.0 |
+| 2025-12-22 | Narragansett | 27 | Gardner | 51 | +2.7 | -24.0 |
 | 2025-12-22 | Auburn | 37 | Westborough | 48 | -2.4 | -11.0 |
 | 2025-12-22 | Main South | 17 | Fitchburg | 52 | +1.0 | -35.0 |
 | 2025-12-22 | Mashpee | 47 | Middleborough | 39 | +3.9 | +8.0 |
 | 2025-12-22 | Whitman-Hanson | 50 | Quincy | 40 | +6.7 | +10.0 |
 | 2025-12-22 | Hingham | 69 | Plymouth South | 40 | +6.6 | +29.0 |
 | 2025-12-22 | Marshfield | 42 | Pembroke | 48 | -1.6 | -6.0 |
-| 2025-12-22 | Duxbury | 44 | Hanover | 34 | +8.2 | +10.0 |
+| 2025-12-22 | Lynnfield | 21 | Pentucket | 42 | +1.1 | -21.0 |
 | 2025-12-22 | Martha’s Vineyard | 42 | Fairhaven | 21 | +6.8 | +21.0 |
 | 2025-12-22 | Falmouth | 28 | Old Rochester | 37 | +3.6 | -9.0 |
 | 2025-12-22 | Barnstable | 47 | Nauset | 21 | +0.5 | +26.0 |
-| 2025-12-22 | Narragansett | 27 | Gardner | 51 | +2.7 | -24.0 |
+| 2025-12-22 | Duxbury | 44 | Hanover | 34 | +8.2 | +10.0 |
 | 2025-12-22 | Cape Cod Tech | 28 | Tri-County | 33 | +2.6 | -5.0 |
-| 2025-12-22 | Newburyport | 48 | Triton | 25 | +4.3 | +23.0 |
-| 2025-12-22 | Diman | 20 | Joseph Case | 51 | +0.8 | -31.0 |
-| 2025-12-22 | New Heights Charter | 53 | Southeastern | 48 | +5.1 | +5.0 |
-| 2025-12-22 | Rockport | 55 | Pioneer Charter II | 24 | +12.1 | +31.0 |
-| 2025-12-22 | West Bridgewater | 58 | Cardinal Spellman | 34 | +8.7 | +24.0 |
 | 2025-12-22 | Bishop Stang | 20 | Bristol-Plymouth | 30 | -0.5 | -10.0 |
+| 2025-12-22 | New Heights Charter | 53 | Southeastern | 48 | +5.1 | +5.0 |
+| 2025-12-22 | Diman | 20 | Joseph Case | 51 | +0.8 | -31.0 |
+| 2025-12-22 | Abington | 50 | Calvary Chapel | 32 | +0.3 | +18.0 |
 | 2025-12-22 | Somerset Berkley | 28 | Archbishop Williams | 69 | +0.7 | -41.0 |
-| 2025-12-22 | Ipswich | 23 | Amesbury | 54 | -1.2 | -31.0 |
-| 2025-12-22 | Manchester Essex | 68 | Hamilton-Wenham | 45 | +2.9 | +23.0 |
+| 2025-12-22 | West Bridgewater | 58 | Cardinal Spellman | 34 | +8.7 | +24.0 |
+| 2025-12-22 | Rockport | 55 | Pioneer Charter II | 24 | +12.1 | +31.0 |
+| 2025-12-22 | Newburyport | 48 | Triton | 25 | +4.3 | +23.0 |
 | 2025-12-22 | Brockton | 47 | New Mission | 34 | +3.2 | +13.0 |
 | 2025-12-22 | New Bedford | 49 | Bourne | 34 | +6.1 | +15.0 |
 | 2025-12-22 | Blue Hills | 43 | Wareham | 45 | +3.3 | -2.0 |
+| 2025-12-22 | Ipswich | 23 | Amesbury | 54 | -1.2 | -31.0 |
 | 2025-12-21 | Bishop Fenwick | 53 | Arlington Catholic | 26 | +0.1 | +27.0 |
 | 2025-12-21 | Framingham | 62 | Quincy | 32 | -4.7 | +30.0 |
-| 2025-12-20 | Ursuline | 58 | New Mission | 26 | +3.0 | +32.0 |
-| 2025-12-20 | Wellesley | 26 | Foxborough | 64 | -3.9 | -38.0 |
-| 2025-12-20 | Beverly | 24 | Lowell | 59 | -3.3 | -35.0 |
-| 2025-12-20 | Mansfield | 53 | Attleboro | 25 | -1.3 | +28.0 |
-| 2025-12-20 | Prospect Hill | 57 | Pioneer Charter I | 23 | +9.8 | +34.0 |
-| 2025-12-20 | Fontbonne | 32 | Oakmont | 31 | +0.3 | +1.0 |
-| 2025-12-20 | Wachusett | 53 | Londonderry (N.H.) | 62 | +7.6 | -9.0 |
-| 2025-12-20 | Dartmouth | 50 | New Bedford | 53 | +0.8 | -3.0 |
 | 2025-12-20 | Fitchburg | 26 | Leominster | 40 | +1.0 | -14.0 |
+| 2025-12-20 | Fontbonne | 32 | Oakmont | 31 | +0.3 | +1.0 |
+| 2025-12-20 | Ursuline | 58 | New Mission | 26 | +3.0 | +32.0 |
+| 2025-12-20 | Dartmouth | 50 | New Bedford | 53 | +0.8 | -3.0 |
+| 2025-12-20 | Pingree | 47 | Thayer | 37 | +11.9 | +10.0 |
+| 2025-12-20 | Wachusett | 53 | Londonderry (N.H.) | 62 | +7.6 | -9.0 |
 | 2025-12-20 | Malden Catholic | 61 | Academy of Holy Names (N.Y.) | 60 | +1.8 | +1.0 |
 | 2025-12-20 | Pingree | 50 | Greenwich Academy (Conn.) | 34 | +7.1 | +16.0 |
-| 2025-12-20 | Pingree | 47 | Thayer | 37 | +11.9 | +10.0 |
-| 2025-12-19 | Hull | 29 | Carver | 59 | -3.0 | -30.0 |
-| 2025-12-19 | Middlesex | 36 | Pingree | 45 | +3.7 | -9.0 |
-| 2025-12-19 | Newman School | 43 | Nobles | 53 | +3.9 | -10.0 |
-| 2025-12-19 | Murdock | 30 | Tahanto | 67 | -5.4 | -37.0 |
-| 2025-12-19 | Narragansett | 38 | West Boylston | 35 | -1.1 | +3.0 |
-| 2025-12-19 | Lunenburg | 44 | Littleton | 32 | +4.7 | +12.0 |
-| 2025-12-19 | Hudson | 59 | Quabbin | 36 | +11.6 | +23.0 |
-| 2025-12-19 | Advanced Math and Science | 55 | Gardner | 33 | -2.5 | +22.0 |
-| 2025-12-19 | Nashoba | 52 | Ayer Shirley | 13 | +2.2 | +39.0 |
-| 2025-12-19 | Shepherd Hill | 57 | Westborough | 46 | +2.7 | +11.0 |
-| 2025-12-19 | Mashpee | 32 | Cohasset | 31 | +1.0 | +1.0 |
-| 2025-12-19 | Middleborough | 33 | Norwell | 56 | +0.4 | -23.0 |
-| 2025-12-19 | Gloucester | 36 | Masconomet | 47 | +0.4 | -11.0 |
-| 2025-12-19 | Salem Academy | 10 | Boston Collegiate | 24 | +2.7 | -14.0 |
-| 2025-12-19 | Hampden Charter East | 38 | Gateway | 34 | -1.1 | +4.0 |
-| 2025-12-19 | Lynnfield | 61 | Essex Tech | 18 | +5.2 | +43.0 |
-| 2025-12-19 | Haverhill | 32 | Tewksbury | 63 | +7.4 | -31.0 |
-| 2025-12-19 | North Andover | 35 | Lawrence | 28 | +4.6 | +7.0 |
-| 2025-12-19 | Billerica | 47 | Chelmsford | 31 | +6.0 | +16.0 |
-| 2025-12-19 | Waltham | 28 | Westford | 57 | +3.9 | -29.0 |
-| 2025-12-19 | Newton South | 59 | Weston | 39 | +3.7 | +20.0 |
+| 2025-12-20 | Mansfield | 53 | Attleboro | 25 | -1.3 | +28.0 |
+| 2025-12-20 | Prospect Hill | 57 | Pioneer Charter I | 23 | +9.8 | +34.0 |
+| 2025-12-20 | Beverly | 24 | Lowell | 59 | -3.3 | -35.0 |
+| 2025-12-20 | Wellesley | 26 | Foxborough | 64 | -3.9 | -38.0 |
 | 2025-12-19 | Lincoln-Sudbury | 33 | Acton-Boxborough | 56 | +0.1 | -23.0 |
-| 2025-12-19 | Concord-Carlisle | 35 | Bedford | 52 | +3.0 | -17.0 |
+| 2025-12-19 | Newburyport | 25 | Pentucket | 52 | +0.7 | -27.0 |
 | 2025-12-19 | Cambridge | 34 | Boston Latin | 29 | +1.7 | +5.0 |
+| 2025-12-19 | Concord-Carlisle | 35 | Bedford | 52 | +3.0 | -17.0 |
+| 2025-12-19 | Newton South | 59 | Weston | 39 | +3.7 | +20.0 |
+| 2025-12-19 | Waltham | 28 | Westford | 57 | +3.9 | -29.0 |
+| 2025-12-19 | Billerica | 47 | Chelmsford | 31 | +6.0 | +16.0 |
+| 2025-12-19 | North Andover | 35 | Lawrence | 28 | +4.6 | +7.0 |
+| 2025-12-19 | Haverhill | 32 | Tewksbury | 63 | +7.4 | -31.0 |
+| 2025-12-19 | Lynnfield | 61 | Essex Tech | 18 | +5.2 | +43.0 |
+| 2025-12-19 | Hampden Charter East | 38 | Gateway | 34 | -1.1 | +4.0 |
+| 2025-12-19 | Salem Academy | 10 | Boston Collegiate | 24 | +2.7 | -14.0 |
+| 2025-12-19 | Rockport | 42 | Notre Dame Cristo Rey | 9 | +11.5 | +33.0 |
+| 2025-12-19 | Calvary Chapel | 53 | Holbrook | 57 | -0.2 | -4.0 |
+| 2025-12-19 | Archbishop Williams | 75 | Cardinal Spellman | 12 | +1.6 | +63.0 |
+| 2025-12-19 | Bishop Stang | 70 | Cristo Rey | 8 | -1.3 | +62.0 |
 | 2025-12-19 | Watertown | 45 | Wilmington | 26 | +4.3 | +19.0 |
 | 2025-12-19 | Collegiate Charter | 40 | Lowell Catholic | 44 | +8.2 | -4.0 |
 | 2025-12-19 | Melrose | 39 | Burlington | 51 | +5.0 | -12.0 |
-| 2025-12-19 | Millis | 37 | Norton | 33 | +6.5 | +4.0 |
-| 2025-12-19 | Wakefield | 51 | Stoneham | 38 | -0.8 | +13.0 |
-| 2025-12-19 | Woburn | 69 | Winchester | 41 | +1.3 | +28.0 |
-| 2025-12-19 | Medfield | 78 | Dover-Sherborn | 27 | +6.3 | +51.0 |
-| 2025-12-19 | Reading | 41 | Lexington | 38 | +3.8 | +3.0 |
-| 2025-12-19 | Belmont | 37 | Arlington | 40 | -0.9 | -3.0 |
-| 2025-12-19 | Hopkinton | 61 | Holliston | 20 | +9.1 | +41.0 |
 | 2025-12-19 | North Attleborough | 48 | Taunton | 34 | +6.6 | +14.0 |
-| 2025-12-19 | Stoughton | 44 | Milford | 48 | +3.1 | -4.0 |
-| 2025-12-19 | Oliver Ames | 45 | King Philip | 38 | +6.6 | +7.0 |
-| 2025-12-19 | Foxborough | 41 | Franklin | 31 | +10.9 | +10.0 |
-| 2025-12-19 | Swampscott | 38 | Peabody | 41 | +1.1 | -3.0 |
+| 2025-12-19 | Gloucester | 36 | Masconomet | 47 | +0.4 | -11.0 |
 | 2025-12-19 | Winthrop | 23 | Danvers | 65 | -4.0 | -42.0 |
-| 2025-12-19 | Abington | 31 | East Bridgewater | 74 | -3.3 | -43.0 |
-| 2025-12-19 | MATCH Charter | 19 | Innovation Academy | 22 | +0.8 | -3.0 |
+| 2025-12-19 | Swampscott | 38 | Peabody | 41 | +1.1 | -3.0 |
+| 2025-12-19 | Foxborough | 41 | Franklin | 31 | +10.9 | +10.0 |
+| 2025-12-19 | Oliver Ames | 45 | King Philip | 38 | +6.6 | +7.0 |
+| 2025-12-19 | Stoughton | 44 | Milford | 48 | +3.1 | -4.0 |
 | 2025-12-19 | Dedham | 57 | Ashland | 50 | +2.7 | +7.0 |
-| 2025-12-19 | Rockport | 42 | Notre Dame Cristo Rey | 9 | +11.5 | +33.0 |
-| 2025-12-19 | Somerset Berkley | 29 | Apponequet | 48 | -0.2 | -19.0 |
-| 2025-12-19 | Calvary Chapel | 53 | Holbrook | 57 | -0.2 | -4.0 |
-| 2025-12-19 | Marshfield | 30 | Hingham | 51 | +0.0 | -21.0 |
-| 2025-12-19 | Plymouth North | 32 | Duxbury | 42 | +0.2 | -10.0 |
-| 2025-12-19 | Scituate | 68 | Plymouth South | 53 | -2.7 | +15.0 |
-| 2025-12-19 | Pembroke | 33 | North Quincy | 43 | +2.1 | -10.0 |
-| 2025-12-19 | Quincy | 55 | Hanover | 40 | +0.1 | +15.0 |
-| 2025-12-19 | Nauset | 25 | Sandwich | 56 | +1.7 | -31.0 |
-| 2025-12-19 | St. John Paul II | 61 | Dennis-Yarmouth | 34 | +7.5 | +27.0 |
-| 2025-12-19 | Fairhaven | 21 | Joseph Case | 40 | +1.9 | -19.0 |
-| 2025-12-19 | Bourne | 37 | West Bridgewater | 34 | -5.5 | +3.0 |
-| 2025-12-19 | Old Rochester | 58 | Seekonk | 32 | +2.0 | +26.0 |
-| 2025-12-19 | Greater New Bedford | 62 | Dighton-Rehoboth | 41 | -3.5 | +21.0 |
-| 2025-12-19 | Monomoy | 36 | Falmouth | 48 | +2.8 | -12.0 |
-| 2025-12-19 | Dracut | 43 | Bridgewater-Raynham | 41 | +4.1 | +2.0 |
-| 2025-12-19 | Greater Lawrence | 60 | Greater Lowell | 38 | -5.7 | +22.0 |
-| 2025-12-19 | Bristol Aggie | 22 | Bristol-Plymouth | 53 | +3.4 | -31.0 |
-| 2025-12-19 | Bishop Stang | 70 | Cristo Rey | 8 | -1.3 | +62.0 |
+| 2025-12-19 | Millis | 37 | Norton | 33 | +6.5 | +4.0 |
+| 2025-12-19 | Hopkinton | 61 | Holliston | 20 | +9.1 | +41.0 |
+| 2025-12-19 | Belmont | 37 | Arlington | 40 | -0.9 | -3.0 |
+| 2025-12-19 | Reading | 41 | Lexington | 38 | +3.8 | +3.0 |
+| 2025-12-19 | Medfield | 78 | Dover-Sherborn | 27 | +6.3 | +51.0 |
+| 2025-12-19 | Woburn | 69 | Winchester | 41 | +1.3 | +28.0 |
+| 2025-12-19 | Wakefield | 51 | Stoneham | 38 | -0.8 | +13.0 |
 | 2025-12-19 | Snowden | 34 | East Boston | 11 | +6.1 | +23.0 |
-| 2025-12-19 | Newburyport | 25 | Pentucket | 52 | +0.7 | -27.0 |
-| 2025-12-19 | Archbishop Williams | 75 | Cardinal Spellman | 12 | +1.6 | +63.0 |
-| 2025-12-19 | Georgetown | 39 | Amesbury | 46 | +5.6 | -7.0 |
+| 2025-12-19 | MATCH Charter | 19 | Innovation Academy | 22 | +0.8 | -3.0 |
 | 2025-12-19 | Triton | 28 | North Reading | 36 | -4.4 | -8.0 |
+| 2025-12-19 | Pembroke | 33 | North Quincy | 43 | +2.1 | -10.0 |
+| 2025-12-19 | Plymouth North | 32 | Duxbury | 42 | +0.2 | -10.0 |
+| 2025-12-19 | Marshfield | 30 | Hingham | 51 | +0.0 | -21.0 |
+| 2025-12-19 | Abington | 31 | East Bridgewater | 74 | -3.3 | -43.0 |
+| 2025-12-19 | Middleborough | 33 | Norwell | 56 | +0.4 | -23.0 |
+| 2025-12-19 | Georgetown | 39 | Amesbury | 46 | +5.6 | -7.0 |
+| 2025-12-19 | Mashpee | 32 | Cohasset | 31 | +1.0 | +1.0 |
+| 2025-12-19 | Shepherd Hill | 57 | Westborough | 46 | +2.7 | +11.0 |
+| 2025-12-19 | Nashoba | 52 | Ayer Shirley | 13 | +2.2 | +39.0 |
+| 2025-12-19 | Advanced Math and Science | 55 | Gardner | 33 | -2.5 | +22.0 |
+| 2025-12-19 | Hudson | 59 | Quabbin | 36 | +11.6 | +23.0 |
+| 2025-12-19 | Lunenburg | 44 | Littleton | 32 | +4.7 | +12.0 |
+| 2025-12-19 | Narragansett | 38 | West Boylston | 35 | -1.1 | +3.0 |
+| 2025-12-19 | Murdock | 30 | Tahanto | 67 | -5.4 | -37.0 |
+| 2025-12-19 | Newman School | 43 | Nobles | 53 | +3.9 | -10.0 |
+| 2025-12-19 | Middlesex | 36 | Pingree | 45 | +3.7 | -9.0 |
+| 2025-12-19 | Scituate | 68 | Plymouth South | 53 | -2.7 | +15.0 |
+| 2025-12-19 | Hull | 29 | Carver | 59 | -3.0 | -30.0 |
+| 2025-12-19 | Quincy | 55 | Hanover | 40 | +0.1 | +15.0 |
+| 2025-12-19 | Dracut | 43 | Bridgewater-Raynham | 41 | +4.1 | +2.0 |
+| 2025-12-19 | Nauset | 25 | Sandwich | 56 | +1.7 | -31.0 |
 | 2025-12-19 | Mystic Valley | 22 | Shawsheen | 49 | +2.0 | -27.0 |
 | 2025-12-19 | Durfee | 57 | Barnstable | 36 | -0.0 | +21.0 |
 | 2025-12-19 | South Shore Voc-Tech | 20 | Avon | 26 | +0.3 | -6.0 |
 | 2025-12-19 | Norfolk Aggie | 38 | Blue Hills | 44 | -0.0 | -6.0 |
-| 2025-12-18 | Salem Academy | 36 | Excel Academy | 22 | +4.1 | +14.0 |
+| 2025-12-19 | Bristol Aggie | 22 | Bristol-Plymouth | 53 | +3.4 | -31.0 |
+| 2025-12-19 | Greater Lawrence | 60 | Greater Lowell | 38 | -5.7 | +22.0 |
+| 2025-12-19 | Somerset Berkley | 29 | Apponequet | 48 | -0.2 | -19.0 |
+| 2025-12-19 | Old Rochester | 58 | Seekonk | 32 | +2.0 | +26.0 |
+| 2025-12-19 | Bourne | 37 | West Bridgewater | 34 | -5.5 | +3.0 |
+| 2025-12-19 | Fairhaven | 21 | Joseph Case | 40 | +1.9 | -19.0 |
+| 2025-12-19 | St. John Paul II | 61 | Dennis-Yarmouth | 34 | +7.5 | +27.0 |
+| 2025-12-19 | Monomoy | 36 | Falmouth | 48 | +2.8 | -12.0 |
+| 2025-12-19 | Greater New Bedford | 62 | Dighton-Rehoboth | 41 | -3.5 | +21.0 |
+| 2025-12-18 | Revere | 52 | Lynn English | 31 | +9.5 | +21.0 |
+| 2025-12-18 | Cathedral | 56 | Leominster | 35 | -1.5 | +21.0 |
 | 2025-12-18 | Mohawk Trail | 44 | Hampden Charter East | 28 | +4.5 | +16.0 |
+| 2025-12-18 | Salem Academy | 36 | Excel Academy | 22 | +4.1 | +14.0 |
 | 2025-12-18 | Lowell | 49 | Methuen | 41 | -0.3 | +8.0 |
 | 2025-12-18 | Medway | 43 | Bellingham | 21 | +10.9 | +22.0 |
 | 2025-12-18 | Malden | 42 | Somerville | 50 | -0.6 | -8.0 |
-| 2025-12-18 | Revere | 52 | Lynn English | 31 | +9.5 | +21.0 |
+| 2025-12-18 | Saugus | 32 | Marblehead | 44 | +4.9 | -12.0 |
 | 2025-12-18 | Lynn Classical | 42 | Medford | 46 | -0.3 | -4.0 |
-| 2025-12-18 | Newton North | 50 | Natick | 54 | +2.4 | -4.0 |
 | 2025-12-18 | Everett | 43 | Chelsea | 44 | +1.7 | -1.0 |
 | 2025-12-18 | Manchester Essex | 44 | Danvers | 61 | +2.3 | -17.0 |
-| 2025-12-18 | Saugus | 32 | Marblehead | 44 | +4.9 | -12.0 |
 | 2025-12-18 | Weymouth | 49 | Milton | 62 | -2.7 | -13.0 |
 | 2025-12-18 | Braintree | 37 | Needham | 51 | -0.0 | -14.0 |
-| 2025-12-18 | Framingham | 31 | Walpole | 66 | -3.7 | -35.0 |
-| 2025-12-18 | Latin Academy | 68 | Brighton | 13 | +1.0 | +55.0 |
-| 2025-12-18 | Wellesley | 46 | Brookline | 42 | +2.4 | +4.0 |
-| 2025-12-18 | Cathedral | 56 | Leominster | 35 | -1.5 | +21.0 |
-| 2025-12-18 | Monty Tech | 49 | Fitchburg | 51 | +1.7 | -2.0 |
+| 2025-12-18 | Newton North | 50 | Natick | 54 | +2.4 | -4.0 |
 | 2025-12-18 | Kennedy Academy | 47 | CASH | 8 | +5.1 | +39.0 |
-| 2025-12-18 | Oakmont | 49 | North Middlesex | 18 | +9.0 | +31.0 |
-| 2025-12-18 | KIPP | 32 | Northeast | 25 | +1.3 | +7.0 |
+| 2025-12-18 | Latin Academy | 68 | Brighton | 13 | +1.0 | +55.0 |
+| 2025-12-18 | Framingham | 31 | Walpole | 66 | -3.7 | -35.0 |
 | 2025-12-18 | Muniz | 34 | Charlestown | 16 | +5.7 | +18.0 |
-| 2025-12-18 | Baystate Academy | 43 | Pathfinder | 17 | +4.0 | +26.0 |
-| 2025-12-18 | Minuteman | 40 | Keefe Tech | 31 | +1.7 | +9.0 |
-| 2025-12-18 | Millbury | 44 | Auburn | 20 | +5.2 | +24.0 |
-| 2025-12-18 | Maynard | 49 | Tyngsborough | 46 | +6.2 | +3.0 |
-| 2025-12-18 | Franklin County Tech | 33 | Smith Voc. | 38 | +2.5 | -5.0 |
-| 2025-12-18 | Rockland | 34 | Brockton | 43 | +12.1 | -9.0 |
-| 2025-12-18 | Lynn Tech | 42 | Notre Dame (Tyngsborough) | 31 | -0.0 | +11.0 |
-| 2025-12-18 | Old Colony | 32 | Diman | 30 | +0.2 | +2.0 |
-| 2025-12-18 | Silver Lake | 55 | Durfee | 42 | +0.8 | +13.0 |
 | 2025-12-18 | Whittier | 45 | Hamilton-Wenham | 38 | +3.7 | +7.0 |
+| 2025-12-18 | Silver Lake | 55 | Durfee | 42 | +0.8 | +13.0 |
+| 2025-12-18 | Old Colony | 32 | Diman | 30 | +0.2 | +2.0 |
+| 2025-12-18 | Lynn Tech | 42 | Notre Dame (Tyngsborough) | 31 | -0.0 | +11.0 |
 | 2025-12-18 | Falmouth Academy | 56 | Sturgis East | 28 | +4.4 | +28.0 |
-| 2025-12-17 | Maimonides | 37 | Nashoba Valley Tech | 23 | +2.0 | +14.0 |
-| 2025-12-17 | O’Bryant | 51 | New Mission | 31 | +2.6 | +20.0 |
-| 2025-12-17 | Snowden | 34 | Madison Park | 31 | -0.9 | +3.0 |
-| 2025-12-17 | Cardinal Spellman | 42 | Bishop Stang | 39 | +3.7 | +3.0 |
-| 2025-12-17 | Notre Dame (Hingham) | 57 | Ursuline | 38 | -1.9 | +19.0 |
-| 2025-12-17 | Bishop Fenwick | 64 | Newton South | 30 | +2.5 | +34.0 |
-| 2025-12-17 | Pioneer Charter II | 29 | Rockport | 36 | -3.5 | -7.0 |
-| 2025-12-17 | MATCH Charter | 18 | Excel Academy | 34 | +7.4 | -16.0 |
-| 2025-12-17 | Collegiate Charter | 29 | Wayland | 37 | +2.5 | -8.0 |
-| 2025-12-17 | Shawsheen | 32 | Winchester | 52 | +6.4 | -20.0 |
-| 2025-12-17 | Carver | 63 | Westport | 29 | +2.0 | +34.0 |
-| 2025-12-17 | Wareham | 53 | Upper Cape | 33 | +3.7 | +20.0 |
-| 2025-12-17 | Dedham | 45 | Boston Latin | 24 | -0.4 | +21.0 |
-| 2025-12-17 | Blue Hills | 30 | West Bridgewater | 36 | +3.4 | -6.0 |
-| 2025-12-17 | Bristol Aggie | 23 | Rising Tide Charter | 17 | -1.1 | +6.0 |
-| 2025-12-17 | Bay Path | 32 | Westborough | 64 | +1.8 | -32.0 |
-| 2025-12-17 | Quabbin | 29 | Lunenburg | 41 | +2.5 | -12.0 |
-| 2025-12-17 | Nipmuc | 42 | Bromfield | 28 | +4.8 | +14.0 |
-| 2025-12-17 | Batson Academy | 17 | TechBoston/Henderson | 39 | +0.9 | -22.0 |
-| 2025-12-17 | Proctor | 49 | Austin Prep | 54 | +4.6 | -5.0 |
-| 2025-12-17 | Eagle Hill | 12 | Bancroft | 53 | +0.1 | -41.0 |
-| 2025-12-17 | Worcester North | 49 | Assabet | 32 | +5.9 | +17.0 |
-| 2025-12-17 | Doherty | 38 | Advanced Math and Science | 45 | +5.1 | -7.0 |
-| 2025-12-17 | Uxbridge | 47 | Sutton | 32 | -1.9 | +15.0 |
-| 2025-12-17 | Thayer | 46 | Governor’s Academy | 53 | +1.4 | -7.0 |
-| 2025-12-17 | Sharon | 42 | Abington | 30 | +4.0 | +12.0 |
+| 2025-12-18 | Rockland | 34 | Brockton | 43 | +12.1 | -9.0 |
+| 2025-12-18 | Monty Tech | 49 | Fitchburg | 51 | +1.7 | -2.0 |
+| 2025-12-18 | Oakmont | 49 | North Middlesex | 18 | +9.0 | +31.0 |
+| 2025-12-18 | Maynard | 49 | Tyngsborough | 46 | +6.2 | +3.0 |
+| 2025-12-18 | Millbury | 44 | Auburn | 20 | +5.2 | +24.0 |
+| 2025-12-18 | Minuteman | 40 | Keefe Tech | 31 | +1.7 | +9.0 |
+| 2025-12-18 | Baystate Academy | 43 | Pathfinder | 17 | +4.0 | +26.0 |
+| 2025-12-18 | Franklin County Tech | 33 | Smith Voc. | 38 | +2.5 | -5.0 |
+| 2025-12-18 | KIPP | 32 | Northeast | 25 | +1.3 | +7.0 |
+| 2025-12-18 | Wellesley | 46 | Brookline | 42 | +2.4 | +4.0 |
 
 ## Current Elo Ratings
 
@@ -398,62 +375,62 @@ Generated: 2025-12-24 11:17
 | 122 | Smith Voc. | 1532.4 |
 | 123 | Lynn Tech | 1532.3 |
 | 124 | Manchester Essex | 1532.0 |
-| 125 | Newton North | 1531.5 |
-| 126 | Nipmuc | 1531.4 |
-| 127 | Phillips Exeter | 1531.1 |
-| 128 | Westwood | 1530.9 |
-| 129 | Worcester North | 1530.9 |
-| 130 | KIPP | 1530.6 |
-| 131 | Holbrook | 1529.5 |
-| 132 | Tilton | 1529.2 |
-| 133 | Cushing | 1529.2 |
-| 134 | Maimonides | 1528.5 |
-| 135 | Falmouth | 1527.7 |
-| 136 | Burlington | 1527.3 |
-| 137 | Brewster Academy | 1527.0 |
-| 138 | Seekonk | 1526.9 |
-| 139 | Mahar | 1526.7 |
-| 140 | Pioneer Valley Christian | 1525.4 |
-| 141 | Oliver Ames | 1525.3 |
-| 142 | Tantasqua | 1524.7 |
-| 143 | St. Paul | 1524.3 |
-| 144 | Central Catholic | 1523.7 |
-| 145 | Martha’s Vineyard | 1522.6 |
-| 146 | South Shore Charter | 1522.3 |
-| 147 | Governor’s Academy | 1522.3 |
-| 148 | Holderness | 1521.1 |
-| 149 | Bridgewater-Raynham | 1520.9 |
-| 150 | New Heights Charter | 1520.8 |
-| 151 | BB&N | 1520.2 |
-| 152 | Monomoy | 1519.7 |
-| 153 | Sharon | 1519.4 |
-| 154 | Plymouth South | 1519.2 |
-| 155 | Nobles | 1517.9 |
-| 156 | Rising Tide Charter | 1516.8 |
-| 157 | Nashoba | 1516.3 |
-| 158 | Abington | 1513.3 |
-| 159 | Northfield Mt. Hermon | 1512.6 |
-| 160 | Whittier | 1512.5 |
-| 161 | Scituate | 1512.0 |
-| 162 | Waltham | 1511.1 |
-| 163 | Rockland | 1510.9 |
-| 164 | St. Mark’s | 1509.2 |
-| 165 | Notre Dame (Tyngsborough) | 1508.5 |
-| 166 | Brockton | 1507.4 |
-| 167 | Lynnfield | 1507.0 |
-| 168 | Keefe Tech | 1507.0 |
-| 169 | Greater New Bedford | 1506.4 |
-| 170 | Pembroke | 1505.4 |
-| 171 | Masconomet | 1505.3 |
-| 172 | Kennedy Academy | 1504.8 |
-| 173 | Shrewsbury | 1503.8 |
-| 174 | Barnstable | 1501.9 |
-| 175 | TechBoston/Henderson Inclusion School | 1501.7 |
-| 176 | Biddeford (Maine) | 1501.7 |
-| 177 | Lake Region (Maine) | 1501.7 |
-| 178 | Pioneer Valley Chinese Immersion | 1501.7 |
-| 179 | Worcester South | 1501.7 |
-| 180 | Salem | 1501.7 |
+| 125 | Worcester South | 1531.6 |
+| 126 | Newton North | 1531.5 |
+| 127 | Nipmuc | 1531.4 |
+| 128 | Phillips Exeter | 1531.1 |
+| 129 | Westwood | 1530.9 |
+| 130 | Worcester North | 1530.9 |
+| 131 | KIPP | 1530.6 |
+| 132 | Holbrook | 1529.5 |
+| 133 | Tilton | 1529.2 |
+| 134 | Cushing | 1529.2 |
+| 135 | Maimonides | 1528.5 |
+| 136 | Falmouth | 1527.7 |
+| 137 | Burlington | 1527.3 |
+| 138 | Brewster Academy | 1527.0 |
+| 139 | Seekonk | 1526.9 |
+| 140 | Mahar | 1526.7 |
+| 141 | Pioneer Valley Christian | 1525.4 |
+| 142 | Oliver Ames | 1525.3 |
+| 143 | Tantasqua | 1524.7 |
+| 144 | St. Paul | 1524.3 |
+| 145 | Central Catholic | 1523.7 |
+| 146 | Martha’s Vineyard | 1522.6 |
+| 147 | South Shore Charter | 1522.3 |
+| 148 | Governor’s Academy | 1522.3 |
+| 149 | Holderness | 1521.1 |
+| 150 | Bridgewater-Raynham | 1520.9 |
+| 151 | New Heights Charter | 1520.8 |
+| 152 | BB&N | 1520.2 |
+| 153 | Monomoy | 1519.7 |
+| 154 | Sharon | 1519.4 |
+| 155 | Plymouth South | 1519.2 |
+| 156 | Nobles | 1517.9 |
+| 157 | Rising Tide Charter | 1516.8 |
+| 158 | Nashoba | 1516.3 |
+| 159 | Abington | 1513.3 |
+| 160 | Northfield Mt. Hermon | 1512.6 |
+| 161 | Whittier | 1512.5 |
+| 162 | Scituate | 1512.0 |
+| 163 | Waltham | 1511.1 |
+| 164 | Rockland | 1510.9 |
+| 165 | St. Mark’s | 1509.2 |
+| 166 | Notre Dame (Tyngsborough) | 1508.5 |
+| 167 | Brockton | 1507.4 |
+| 168 | Lynnfield | 1507.0 |
+| 169 | Keefe Tech | 1507.0 |
+| 170 | Greater New Bedford | 1506.4 |
+| 171 | Pembroke | 1505.4 |
+| 172 | Masconomet | 1505.3 |
+| 173 | Kennedy Academy | 1504.8 |
+| 174 | Shrewsbury | 1503.8 |
+| 175 | Barnstable | 1501.9 |
+| 176 | Pioneer Valley Chinese Immersion | 1501.7 |
+| 177 | TechBoston/Henderson Inclusion School | 1501.7 |
+| 178 | Salem | 1501.7 |
+| 179 | Lake Region (Maine) | 1501.7 |
+| 180 | Biddeford (Maine) | 1501.7 |
 | 181 | Wakefield | 1501.0 |
 | 182 | Attleboro | 1499.7 |
 | 183 | Lee | 1499.1 |
@@ -466,61 +443,61 @@ Generated: 2025-12-24 11:17
 | 190 | Austin Prep | 1492.8 |
 | 191 | Brooke Charter | 1492.7 |
 | 192 | Academy of Holy Names (N.Y.) | 1492.3 |
-| 193 | Newton South | 1491.9 |
-| 194 | Whitinsville Christian | 1491.3 |
-| 195 | Saugus | 1490.9 |
-| 196 | Chelmsford | 1490.8 |
-| 197 | Belmont | 1490.4 |
-| 198 | Milton | 1488.9 |
-| 199 | Avon | 1488.5 |
-| 200 | Roxbury Prep | 1487.8 |
-| 201 | Randolph | 1487.0 |
-| 202 | Narragansett | 1483.4 |
-| 203 | Latin Academy | 1482.6 |
-| 204 | Plymouth North | 1482.1 |
-| 205 | Revere | 1482.1 |
-| 206 | Newburyport | 1480.4 |
-| 207 | Notre Dame (Hingham) | 1480.2 |
-| 208 | Collegiate Charter | 1479.6 |
-| 209 | Athol | 1479.1 |
-| 210 | Renaissance | 1477.9 |
-| 211 | Dana Hall | 1477.8 |
-| 212 | Wilmington | 1477.2 |
-| 213 | Mystic Valley | 1477.1 |
-| 214 | Innovation Academy | 1477.0 |
-| 215 | Millis | 1476.8 |
-| 216 | Gateway | 1476.0 |
-| 217 | King Philip | 1475.7 |
-| 218 | Greenwich Academy (Conn.) | 1475.6 |
-| 219 | Brighton | 1475.4 |
-| 220 | Dedham | 1473.9 |
-| 221 | Littleton | 1472.8 |
-| 222 | Old Colony | 1472.7 |
-| 223 | Bishop Guertin (N.H.) | 1472.1 |
-| 224 | Monty Tech | 1471.7 |
-| 225 | Franklin County Tech | 1470.9 |
-| 226 | Georgetown | 1469.0 |
-| 227 | Canton | 1468.6 |
-| 228 | Proctor | 1467.8 |
-| 229 | Concord-Carlisle | 1467.3 |
-| 230 | Everett | 1467.2 |
-| 231 | Hanover | 1466.5 |
-| 232 | Ruth Batson Academy | 1466.0 |
-| 233 | Mashpee | 1466.0 |
-| 234 | North Andover | 1466.0 |
-| 235 | Nashoba Valley Tech | 1465.8 |
-| 236 | Foxborough Charter | 1465.6 |
-| 237 | Southbridge | 1465.2 |
-| 238 | Community Charter | 1464.0 |
-| 239 | Blackstone-Millville | 1464.0 |
-| 240 | Sturgis East | 1463.6 |
-| 241 | Pathfinder | 1463.4 |
-| 242 | Deerfield | 1463.4 |
-| 243 | Greater Lowell | 1462.8 |
-| 244 | Dartmouth | 1462.7 |
-| 245 | Greenwich CD (Conn.) | 1462.7 |
-| 246 | Chelsea | 1462.6 |
-| 247 | Tyngsborough | 1462.3 |
+| 193 | Whitinsville Christian | 1491.3 |
+| 194 | Saugus | 1490.9 |
+| 195 | Chelmsford | 1490.8 |
+| 196 | Belmont | 1490.4 |
+| 197 | Milton | 1488.9 |
+| 198 | Avon | 1488.5 |
+| 199 | Roxbury Prep | 1487.8 |
+| 200 | Randolph | 1487.0 |
+| 201 | Narragansett | 1483.4 |
+| 202 | Latin Academy | 1482.6 |
+| 203 | Plymouth North | 1482.1 |
+| 204 | Revere | 1482.1 |
+| 205 | Newburyport | 1480.4 |
+| 206 | Notre Dame (Hingham) | 1480.2 |
+| 207 | Collegiate Charter | 1479.6 |
+| 208 | Athol | 1479.1 |
+| 209 | Renaissance | 1477.9 |
+| 210 | Dana Hall | 1477.8 |
+| 211 | Wilmington | 1477.2 |
+| 212 | Mystic Valley | 1477.1 |
+| 213 | Innovation Academy | 1477.0 |
+| 214 | Millis | 1476.8 |
+| 215 | Gateway | 1476.0 |
+| 216 | King Philip | 1475.7 |
+| 217 | Greenwich Academy (Conn.) | 1475.6 |
+| 218 | Brighton | 1475.4 |
+| 219 | Dedham | 1473.9 |
+| 220 | Littleton | 1472.8 |
+| 221 | Old Colony | 1472.7 |
+| 222 | Bishop Guertin (N.H.) | 1472.1 |
+| 223 | Monty Tech | 1471.7 |
+| 224 | Franklin County Tech | 1470.9 |
+| 225 | Georgetown | 1469.0 |
+| 226 | Canton | 1468.6 |
+| 227 | Proctor | 1467.8 |
+| 228 | Concord-Carlisle | 1467.3 |
+| 229 | Everett | 1467.2 |
+| 230 | Hanover | 1466.5 |
+| 231 | Ruth Batson Academy | 1466.0 |
+| 232 | Mashpee | 1466.0 |
+| 233 | North Andover | 1466.0 |
+| 234 | Nashoba Valley Tech | 1465.8 |
+| 235 | Foxborough Charter | 1465.6 |
+| 236 | Southbridge | 1465.2 |
+| 237 | Community Charter | 1464.0 |
+| 238 | Blackstone-Millville | 1464.0 |
+| 239 | Sturgis East | 1463.6 |
+| 240 | Pathfinder | 1463.4 |
+| 241 | Deerfield | 1463.4 |
+| 242 | Greater Lowell | 1462.8 |
+| 243 | Dartmouth | 1462.7 |
+| 244 | Greenwich CD (Conn.) | 1462.7 |
+| 245 | Chelsea | 1462.6 |
+| 246 | Tyngsborough | 1462.3 |
+| 247 | Newton South | 1461.9 |
 | 248 | Doherty | 1461.6 |
 | 249 | St. George’s | 1461.3 |
 | 250 | Brooks | 1460.5 |
@@ -533,8 +510,8 @@ Generated: 2025-12-24 11:17
 | 257 | Pope Francis | 1456.7 |
 | 258 | Algonquin | 1456.3 |
 | 259 | Hampden Charter East | 1456.0 |
-| 260 | La Salle (R.I.) | 1455.9 |
-| 261 | Belchertown | 1455.9 |
+| 260 | Belchertown | 1455.9 |
+| 261 | La Salle (R.I.) | 1455.9 |
 | 262 | Worcester Tech | 1455.2 |
 | 263 | Duggan Academy | 1454.1 |
 | 264 | Dublin | 1453.0 |

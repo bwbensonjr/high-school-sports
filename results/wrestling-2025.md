@@ -1,6 +1,6 @@
 # Wrestling - 2025 Season
 
-Generated: 2025-12-24 11:17
+Generated: 2025-12-25 11:16
 
 ## Upcoming Games
 
@@ -11,38 +11,13 @@ Generated: 2025-12-24 11:17
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2025-12-23 | Cohasset | 71 | East Boston | 12 | +4.0 | +59.0 |
 | 2025-12-23 | Walpole | 68 | Stoughton | 12 | -0.5 | +56.0 |
-| 2025-12-20 | Hingham | 32 | Taunton | 40 | +2.8 | -8.0 |
-| 2025-12-20 | Hingham | 30 | Scituate | 48 | +6.1 | -18.0 |
+| 2025-12-23 | Cohasset | 71 | East Boston | 12 | +4.0 | +59.0 |
 | 2025-12-20 | Hingham | 72 | Monty Tech/Fitchburg | 6 | +3.4 | +66.0 |
-| 2025-12-18 | Middleborough | 42 | Whitman-Hanson | 30 | +3.0 | +12.0 |
+| 2025-12-20 | Hingham | 30 | Scituate | 48 | +6.1 | -18.0 |
+| 2025-12-20 | Hingham | 32 | Taunton | 40 | +2.8 | -8.0 |
 | 2025-12-18 | Triton | 36 | Danvers | 46 | +2.3 | -10.0 |
-| 2025-12-17 | Nauset | 46 | Durfee | 35 | +2.0 | +11.0 |
-| 2025-12-17 | New Bedford | 66 | Marshfield | 9 | +2.0 | +57.0 |
-| 2025-12-17 | Holliston | 39 | Dedham | 37 | +0.2 | +2.0 |
-| 2025-12-17 | Burlington | 58 | Malden Catholic | 15 | -0.3 | +43.0 |
-| 2025-12-17 | St. John’s Prep | 62 | Whittier | 13 | +2.0 | +49.0 |
-| 2025-12-17 | Gloucester | 57 | Marblehead/Swampscott | 24 | +2.0 | +33.0 |
-| 2025-12-17 | King Philip | 31 | Sharon | 46 | -3.7 | -15.0 |
-| 2025-12-17 | Framingham | 38 | Braintree | 37 | +3.3 | +1.0 |
-| 2025-12-17 | Concord-Carlisle | 36 | Lynnfield/North Reading | 39 | +2.0 | -3.0 |
-| 2025-12-17 | Shawsheen | 60 | Northeast/Bishop Fenwick | 3 | +2.0 | +57.0 |
-| 2025-12-17 | Hingham | 43 | Pembroke | 28 | +2.0 | +15.0 |
-| 2025-12-17 | Cohasset | 66 | Quincy/North Quincy | 16 | +2.0 | +50.0 |
-| 2025-12-17 | Salem | 48 | Danvers | 24 | +2.0 | +24.0 |
-| 2025-12-17 | Quincy Upper | 23 | Watertown | 60 | +6.0 | -37.0 |
-| 2025-12-17 | Weston | 24 | Latin Academy | 45 | +2.8 | -21.0 |
-| 2025-12-17 | Keefe Tech | 33 | Latin Academy | 48 | +6.0 | -15.0 |
-| 2025-12-17 | Bridgewater-Raynham | 43 | Middleborough | 36 | +0.6 | +7.0 |
-| 2025-12-17 | Canton | 27 | Foxborough | 49 | -0.0 | -22.0 |
-| 2025-12-17 | Billerica | 14 | Methuen | 48 | +2.0 | -34.0 |
-| 2025-12-17 | Lawrence | 13 | Lowell | 58 | +2.0 | -45.0 |
-| 2025-12-17 | Scituate | 39 | Rockland | 41 | +2.0 | -2.0 |
-| 2025-12-17 | Cambridge | 54 | Malden/Everett | 27 | +4.4 | +27.0 |
-| 2025-12-17 | Haverhill | 25 | Chelmsford | 38 | -0.2 | -13.0 |
-| 2025-12-17 | Westford | 33 | Arlington | 44 | +3.9 | -11.0 |
-| 2025-12-17 | North Andover | 33 | Andover | 39 | +2.0 | -6.0 |
+| 2025-12-18 | Middleborough | 42 | Whitman-Hanson | 30 | +3.0 | +12.0 |
 
 ## Current Elo Ratings
 
@@ -63,9 +38,9 @@ Generated: 2025-12-24 11:17
 | 13 | Choate | 1560.5 |
 | 14 | Avon Old Farms | 1559.1 |
 | 15 | Middleborough | 1557.7 |
-| 16 | New Bedford | 1553.9 |
-| 17 | Eagle Hill | 1553.9 |
-| 18 | Shawsheen | 1553.9 |
+| 16 | Shawsheen | 1553.9 |
+| 17 | New Bedford | 1553.9 |
+| 18 | Eagle Hill | 1553.9 |
 | 19 | Bridgewater-Raynham | 1552.2 |
 | 20 | St. John’s Prep | 1551.9 |
 | 21 | Upper Cape | 1549.6 |
@@ -94,9 +69,9 @@ Generated: 2025-12-24 11:17
 | 44 | Walpole | 1502.5 |
 | 45 | Westford | 1502.4 |
 | 46 | Danvers | 1502.1 |
-| 47 | Wilmington | 1501.7 |
-| 48 | Brookline | 1501.7 |
-| 49 | North Reading | 1501.7 |
+| 47 | Brookline | 1501.7 |
+| 48 | North Reading | 1501.7 |
+| 49 | Wilmington | 1501.7 |
 | 50 | Middlesex | 1485.6 |
 | 51 | Beaver Country Day | 1485.1 |
 | 52 | St. Sebastian’s | 1485.1 |

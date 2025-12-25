@@ -162,8 +162,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-13,69691,FINAL,Marlborough,4233,37.0,0.0,Hudson,4182,59.0,1.0,Mid-Wach,Mid-Wach,,,0
 2025-12-13,69699,FINAL,Lawrence Academy,4204,64.0,1.0,Groton,4544,23.0,0.0,ISL,ISL,,,0
 2025-12-13,69730,FINAL,Georgetown Visitation (D.C.),5235,64.0,1.0,Cathedral,4079,27.0,0.0,Independent,Catholic Central,,,0
-2025-12-14,68533,FINAL,Martha’s Vineyard,4235,36,1,Nantucket,4265,32,0,Cape & Islands,Cape & Islands,1:30 P.M.,,0
-2025-12-14,69718,FINAL,Jackson-Reed (D.C),5234,17,0,Cathedral,4079,56,1,Independent,Catholic Central,,,0
+2025-12-14,68533,FINAL,Martha’s Vineyard,4235,36.0,1.0,Nantucket,4265,32.0,0.0,Cape & Islands,Cape & Islands,1:30 P.M.,,0
+2025-12-14,69718,FINAL,Jackson-Reed (D.C),5234,17.0,0.0,Cathedral,4079,56.0,1.0,Independent,Catholic Central,,,0
 2025-12-15,66226,FINAL,Chelsea,4086,53,1,Excel Academy,4969,23,0,Greater Boston,Charter School Athletic,4:00 P.M.,,0
 2025-12-15,66308,FINAL,Stoughton,4381,55,1,Brockton,4058,40,0,Hockomock,Big Three,6:00 P.M.,,0
 2025-12-15,66460,UPCOMING,Arlington,4013,,,Notre Dame (Hingham),4449,,,Middlesex,Catholic Conference,7:00 P.M.,,0
@@ -498,7 +498,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-22,66760,FINAL,Stoneham,4380,38,0,Watertown,4409,50,1,Middlesex,Middlesex,6:00 P.M.,,0
 2025-12-22,66786,UPCOMING,Weymouth,4425,,,Cambridge,4067,,,Bay State,Dual County,5:00 P.M.,,0
 2025-12-22,66820,FINAL,Lincoln-Sudbury,4211,30,0,Shrewsbury,4348,31,1,Dual County,Mid-Wach,6:00 P.M.,,0
-2025-12-22,66877,UPCOMING,Newton South,4280,,,Worcester South,4444,,,Dual County,Independent,6:30 P.M.,,0
+2025-12-22,66877,FINAL,Newton South,4280,43,0,Worcester South,4444,48,1,Dual County,Independent,6:30 P.M.,,0
 2025-12-22,66898,FINAL,Bedford,4031,67,1,Beverly,4038,47,0,Dual County,Northeastern,6:00 P.M.,,0
 2025-12-22,66903,FINAL,Malden Catholic,4228,43,0,Waltham,4405,53,1,Catholic Conference,Dual County,6:30 P.M.,,0
 2025-12-22,66969,FINAL,Chelmsford,4085,28,1,Greater Lawrence,4154,17,0,Merrimack Valley,Commonwealth,7:00 P.M.,,0
@@ -599,4 +599,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-30,71557,UPCOMING,Notre Dame (Hingham),4449,,,Franklin,4144,,,Catholic Conference,Hockomock,6:30 P.M.,,0
 2026-01-02,71253,UPCOMING,Lynn Tech,4222,,,Malden,4227,,,Commonwealth,Greater Boston,5:30 P.M.,,0
 2026-01-02,71519,UPCOMING,Milford,4249,,,Attleboro,4018,,,Hockomock,Hockomock,6:00 P.M.,,0
+2026-01-02,73622,UPCOMING,Natick,4270,,,Weymouth,4425,,,Bay State,Bay State,6:30 P.M.,,0
 2026-01-03,71280,UPCOMING,Lexington,4209,,,Lynn English,4221,,,Middlesex,Greater Boston,1:00 P.M.,,0
+2026-01-03,73629,UPCOMING,Newton North,4279,,,Acton-Boxborough,4003,,,Bay State,Dual County,1:00 P.M.,,0
