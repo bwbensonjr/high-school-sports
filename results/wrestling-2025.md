@@ -1,6 +1,6 @@
 # Wrestling - 2025 Season
 
-Generated: 2025-12-25 11:16
+Generated: 2025-12-26 11:17
 
 ## Upcoming Games
 
@@ -13,11 +13,12 @@ Generated: 2025-12-25 11:16
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2025-12-23 | Walpole | 68 | Stoughton | 12 | -0.5 | +56.0 |
 | 2025-12-23 | Cohasset | 71 | East Boston | 12 | +4.0 | +59.0 |
+| 2025-12-23 | Burlington | 31 | Arlington | 46 | +0.2 | -15.0 |
+| 2025-12-23 | Burlington | 54 | Catholic Memorial | 5 | +0.4 | +49.0 |
+| 2025-12-23 | Burlington | 18 | Leominster | 63 | +2.7 | -45.0 |
 | 2025-12-20 | Hingham | 72 | Monty Tech/Fitchburg | 6 | +3.4 | +66.0 |
 | 2025-12-20 | Hingham | 30 | Scituate | 48 | +6.1 | -18.0 |
 | 2025-12-20 | Hingham | 32 | Taunton | 40 | +2.8 | -8.0 |
-| 2025-12-18 | Triton | 36 | Danvers | 46 | +2.3 | -10.0 |
-| 2025-12-18 | Middleborough | 42 | Whitman-Hanson | 30 | +3.0 | +12.0 |
 
 ## Current Elo Ratings
 
@@ -31,46 +32,46 @@ Generated: 2025-12-25 11:16
 | 6 | Cambridge | 1596.8 |
 | 7 | Cohasset | 1596.3 |
 | 8 | Chelmsford | 1595.7 |
-| 9 | Watertown | 1578.4 |
-| 10 | Bedford / A-B | 1578.1 |
-| 11 | Lowell | 1567.3 |
-| 12 | Methuen | 1562.6 |
-| 13 | Choate | 1560.5 |
-| 14 | Avon Old Farms | 1559.1 |
-| 15 | Middleborough | 1557.7 |
-| 16 | Shawsheen | 1553.9 |
-| 17 | New Bedford | 1553.9 |
+| 9 | Arlington | 1591.2 |
+| 10 | Watertown | 1578.4 |
+| 11 | Bedford / A-B | 1578.1 |
+| 12 | Leominster | 1569.9 |
+| 13 | Lowell | 1567.3 |
+| 14 | Methuen | 1562.6 |
+| 15 | Choate | 1560.5 |
+| 16 | Avon Old Farms | 1559.1 |
+| 17 | Middleborough | 1557.7 |
 | 18 | Eagle Hill | 1553.9 |
-| 19 | Bridgewater-Raynham | 1552.2 |
-| 20 | St. John’s Prep | 1551.9 |
-| 21 | Upper Cape | 1549.6 |
-| 22 | Arlington | 1549.2 |
-| 23 | Gloucester | 1547.0 |
-| 24 | Tyngsborough/Dracut | 1545.6 |
-| 25 | Scituate | 1545.2 |
-| 26 | Salem | 1543.0 |
-| 27 | Taunton | 1541.3 |
-| 28 | Hanover | 1537.3 |
-| 29 | Andover | 1535.0 |
-| 30 | Northbridge | 1534.5 |
-| 31 | Newton North | 1533.6 |
+| 19 | Shawsheen | 1553.9 |
+| 20 | New Bedford | 1553.9 |
+| 21 | Bridgewater-Raynham | 1552.2 |
+| 22 | St. John’s Prep | 1551.9 |
+| 23 | Upper Cape | 1549.6 |
+| 24 | Gloucester | 1547.0 |
+| 25 | Tyngsborough/Dracut | 1545.6 |
+| 26 | Scituate | 1545.2 |
+| 27 | Salem | 1543.0 |
+| 28 | Taunton | 1541.3 |
+| 29 | Hanover | 1537.3 |
+| 30 | Andover | 1535.0 |
+| 31 | Northbridge | 1534.5 |
 | 32 | Nauset | 1533.6 |
-| 33 | Dedham | 1531.4 |
-| 34 | Needham | 1529.9 |
-| 35 | Greens Farms | 1529.9 |
-| 36 | Lynnfield/North Reading | 1525.4 |
-| 37 | Quincy Upper | 1524.8 |
-| 38 | Rockland | 1520.5 |
-| 39 | Holliston | 1517.9 |
-| 40 | Latin Academy | 1516.0 |
-| 41 | Trinity-Pawling | 1510.2 |
-| 42 | Framingham | 1509.6 |
-| 43 | Burlington | 1503.1 |
+| 33 | Newton North | 1533.6 |
+| 34 | Dedham | 1531.4 |
+| 35 | Needham | 1529.9 |
+| 36 | Greens Farms | 1529.9 |
+| 37 | Lynnfield/North Reading | 1525.4 |
+| 38 | Quincy Upper | 1524.8 |
+| 39 | Rockland | 1520.5 |
+| 40 | Holliston | 1517.9 |
+| 41 | Latin Academy | 1516.0 |
+| 42 | Trinity-Pawling | 1510.2 |
+| 43 | Framingham | 1509.6 |
 | 44 | Walpole | 1502.5 |
 | 45 | Westford | 1502.4 |
 | 46 | Danvers | 1502.1 |
-| 47 | Brookline | 1501.7 |
-| 48 | North Reading | 1501.7 |
+| 47 | North Reading | 1501.7 |
+| 48 | Brookline | 1501.7 |
 | 49 | Wilmington | 1501.7 |
 | 50 | Middlesex | 1485.6 |
 | 51 | Beaver Country Day | 1485.1 |
@@ -101,23 +102,25 @@ Generated: 2025-12-25 11:16
 | 76 | Whittier | 1451.4 |
 | 77 | Nashoba Valley Tech | 1451.3 |
 | 78 | Quincy/North Quincy | 1451.1 |
-| 79 | Marshfield | 1449.4 |
-| 80 | Northeast/Bishop Fenwick | 1449.4 |
-| 81 | BB&N | 1445.8 |
-| 82 | Deerfield | 1445.1 |
-| 83 | Malden Catholic | 1443.8 |
-| 84 | Lexington Christian | 1443.5 |
-| 85 | Keefe Tech | 1443.2 |
-| 86 | Billerica | 1440.7 |
-| 87 | Phillips Exeter | 1440.4 |
-| 88 | Barnstable | 1439.7 |
-| 89 | Stoughton | 1438.9 |
-| 90 | Pomfret | 1438.1 |
-| 91 | Lawrence | 1436.0 |
-| 92 | Landmark | 1432.5 |
-| 93 | Triton | 1425.8 |
-| 94 | Weston | 1424.6 |
-| 95 | Carver | 1424.3 |
-| 96 | Hyde | 1410.8 |
-| 97 | Nobles | 1385.0 |
-| 98 | Brooks | 1374.8 |
+| 79 | Burlington | 1449.8 |
+| 80 | Marshfield | 1449.4 |
+| 81 | Northeast/Bishop Fenwick | 1449.4 |
+| 82 | BB&N | 1445.8 |
+| 83 | Deerfield | 1445.1 |
+| 84 | Catholic Memorial | 1444.6 |
+| 85 | Malden Catholic | 1443.8 |
+| 86 | Lexington Christian | 1443.5 |
+| 87 | Keefe Tech | 1443.2 |
+| 88 | Billerica | 1440.7 |
+| 89 | Phillips Exeter | 1440.4 |
+| 90 | Barnstable | 1439.7 |
+| 91 | Stoughton | 1438.9 |
+| 92 | Pomfret | 1438.1 |
+| 93 | Lawrence | 1436.0 |
+| 94 | Landmark | 1432.5 |
+| 95 | Triton | 1425.8 |
+| 96 | Weston | 1424.6 |
+| 97 | Carver | 1424.3 |
+| 98 | Hyde | 1410.8 |
+| 99 | Nobles | 1385.0 |
+| 100 | Brooks | 1374.8 |

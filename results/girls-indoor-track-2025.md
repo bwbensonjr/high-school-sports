@@ -1,6 +1,6 @@
 # Girls Indoor Track - 2025 Season
 
-Generated: 2025-12-25 11:16
+Generated: 2025-12-26 11:17
 
 ## Upcoming Games
 
@@ -14,19 +14,6 @@ Generated: 2025-12-25 11:16
 | 2025-12-23 | Seekonk | 62 | Fairhaven | 31 | +4.5 | +31.0 |
 | 2025-12-22 | Hingham | 54 | Silver Lake | 46 | +2.0 | +8.0 |
 | 2025-12-19 | Oliver Ames | 62 | North Attleborough | 37 | +6.5 | +25.0 |
-| 2025-12-18 | Apponequet | 18 | Somerset Berkley | 73 | -1.0 | -55.0 |
-| 2025-12-18 | Swampscott | 14 | Peabody | 72 | +2.0 | -58.0 |
-| 2025-12-18 | Attleboro | 46 | Sharon | 54 | +2.0 | -8.0 |
-| 2025-12-18 | Stoughton | 42 | Canton | 58 | +2.0 | -16.0 |
-| 2025-12-18 | Foxborough | 68 | Mansfield | 32 | +2.0 | +36.0 |
-| 2025-12-18 | King Philip | 62 | Franklin | 38 | +2.0 | +24.0 |
-| 2025-12-18 | North Attleborough | 37 | Oliver Ames | 62 | +2.0 | -25.0 |
-| 2025-12-18 | West Bridgewater | 28 | Seekonk | 66 | +2.0 | -38.0 |
-| 2025-12-18 | Needham | 70 | Walpole | 30 | +6.0 | +40.0 |
-| 2025-12-18 | Wellesley | 62 | Natick | 38 | +2.8 | +24.0 |
-| 2025-12-18 | Milton | 57 | Weymouth | 43 | +3.3 | +14.0 |
-| 2025-12-18 | Newton North | 75 | Framingham | 24 | +7.0 | +51.0 |
-| 2025-12-18 | Braintree | 61 | Brookline | 39 | +5.7 | +22.0 |
 
 ## Current Elo Ratings
 

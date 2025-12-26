@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2025 Season
 
-Generated: 2025-12-25 11:16
+Generated: 2025-12-26 11:17
 
 ## Upcoming Games
 
@@ -16,8 +16,6 @@ Generated: 2025-12-25 11:16
 | 2025-12-19 | Mansfield | 59 | Stoughton | 34 | +1.1 | +25.0 |
 | 2025-12-19 | Foxborough | 46 | Stoughton | 46 | +9.7 | 0.0 |
 | 2025-12-19 | Nashoba | 82 | Tantasqua | 97 | -0.3 | -15.0 |
-| 2025-12-18 | New Bedford | 106 | Apponequet | 77 | -1.0 | +29.0 |
-| 2025-12-18 | Barnstable | 53 | Nantucket | 102 | -2.8 | -49.0 |
 
 ## Current Elo Ratings
 

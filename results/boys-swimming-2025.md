@@ -1,6 +1,6 @@
 # Boys Swimming - 2025 Season
 
-Generated: 2025-12-25 11:16
+Generated: 2025-12-26 11:17
 
 ## Upcoming Games
 
@@ -23,10 +23,6 @@ Generated: 2025-12-25 11:16
 | 2025-12-19 | Mansfield | 53 | Stoughton | 30 | +0.5 | +23.0 |
 | 2025-12-19 | Foxborough | 76 | Stoughton | 17 | +3.8 | +59.0 |
 | 2025-12-19 | Nashoba | 57 | Tantasqua | 109 | +2.4 | -52.0 |
-| 2025-12-18 | BC High | 112 | St. John’s (Shrewsbury) | 52 | +4.3 | +60.0 |
-| 2025-12-18 | Apponequet/Old Colony | 68 | New Bedford | 97 | +4.7 | -29.0 |
-| 2025-12-18 | Barnstable | 53 | Nantucket | 102 | +3.9 | -49.0 |
-| 2025-12-18 | Durfee | 61 | Martha’s Vineyard | 99 | -3.8 | -38.0 |
 
 ## Current Elo Ratings
 

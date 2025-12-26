@@ -1,6 +1,6 @@
 # Boys Indoor Track - 2025 Season
 
-Generated: 2025-12-25 11:16
+Generated: 2025-12-26 11:17
 
 ## Upcoming Games
 
@@ -11,24 +11,12 @@ Generated: 2025-12-25 11:16
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2025-12-23 | Seekonk | 53 | Fairhaven | 42 | +4.4 | +11.0 |
-| 2025-12-23 | Cristo Rey | 10 | Cardinal Spellman | 92 | -3.9 | -82.0 |
-| 2025-12-23 | St. Mary’s | 82 | Arlington Catholic | 16 | +7.7 | +66.0 |
 | 2025-12-23 | Archbishop Williams | 57 | Bishop Fenwick | 25 | +7.5 | +32.0 |
+| 2025-12-23 | St. Mary’s | 82 | Arlington Catholic | 16 | +7.7 | +66.0 |
+| 2025-12-23 | Cristo Rey | 10 | Cardinal Spellman | 92 | -3.9 | -82.0 |
+| 2025-12-23 | Seekonk | 53 | Fairhaven | 42 | +4.4 | +11.0 |
 | 2025-12-22 | Hingham | 58 | Silver Lake | 42 | +2.0 | +16.0 |
 | 2025-12-19 | Oliver Ames | 67 | North Attleborough | 33 | +5.7 | +34.0 |
-| 2025-12-18 | Canton | 18 | Stoughton | 82 | +2.0 | -64.0 |
-| 2025-12-18 | Brookline | 57 | Braintree | 43 | +6.8 | +14.0 |
-| 2025-12-18 | Newton North | 76 | Framingham | 23 | +1.3 | +52.7 |
-| 2025-12-18 | Apponequet | 34 | Somerset Berkley | 61 | -2.0 | -27.0 |
-| 2025-12-18 | Walpole | 77 | Needham | 23 | +3.4 | +54.0 |
-| 2025-12-18 | West Bridgewater | 30 | Seekonk | 64 | +2.0 | -34.0 |
-| 2025-12-18 | Oliver Ames | 67 | North Attleborough | 33 | +2.0 | +34.0 |
-| 2025-12-18 | Milford | 21 | Taunton | 73 | +2.0 | -52.0 |
-| 2025-12-18 | King Philip | 38 | Franklin | 61 | +2.0 | -23.0 |
-| 2025-12-18 | Foxborough | 22 | Mansfield | 74 | +2.0 | -52.0 |
-| 2025-12-18 | Attleboro | 83 | Sharon | 17 | +2.0 | +66.0 |
-| 2025-12-18 | Natick | 55 | Wellesley | 44 | -2.6 | +11.0 |
 
 ## Current Elo Ratings
 

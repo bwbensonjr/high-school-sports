@@ -1,6 +1,6 @@
 # Coed Swimming - 2025 Season
 
-Generated: 2025-12-25 11:16
+Generated: 2025-12-26 11:17
 
 ## Upcoming Games
 
@@ -12,8 +12,6 @@ Generated: 2025-12-25 11:16
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2025-12-19 | Archbishop Williams | 86 | Bishop Fenwick | 63 | +3.6 | +23.0 |
-| 2025-12-18 | Latin Academy | 87 | Arlington Catholic | 62 | +0.7 | +25.0 |
-| 2025-12-18 | O’Bryant | 84 | East Boston | 61 | +5.3 | +23.0 |
 
 ## Current Elo Ratings
 
