@@ -1,6 +1,6 @@
 # Boys Swimming - 2025 Season
 
-Generated: 2025-12-26 11:17
+Generated: 2025-12-27 11:14
 
 ## Upcoming Games
 
@@ -19,10 +19,6 @@ Generated: 2025-12-26 11:17
 | 2025-12-20 | Westford | 99 | Chelmsford | 86 | -1.2 | +13.0 |
 | 2025-12-20 | Westford | 142 | Boston Latin | 25 | +3.7 | +117.0 |
 | 2025-12-20 | Chelmsford | 138 | Boston Latin | 36 | +5.6 | +102.0 |
-| 2025-12-19 | Chelmsford | 97 | Central Catholic | 70 | +5.9 | +27.0 |
-| 2025-12-19 | Mansfield | 53 | Stoughton | 30 | +0.5 | +23.0 |
-| 2025-12-19 | Foxborough | 76 | Stoughton | 17 | +3.8 | +59.0 |
-| 2025-12-19 | Nashoba | 57 | Tantasqua | 109 | +2.4 | -52.0 |
 
 ## Current Elo Ratings
 

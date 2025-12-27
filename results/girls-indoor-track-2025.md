@@ -1,6 +1,6 @@
 # Girls Indoor Track - 2025 Season
 
-Generated: 2025-12-26 11:17
+Generated: 2025-12-27 11:14
 
 ## Upcoming Games
 
@@ -13,7 +13,6 @@ Generated: 2025-12-26 11:17
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2025-12-23 | Seekonk | 62 | Fairhaven | 31 | +4.5 | +31.0 |
 | 2025-12-22 | Hingham | 54 | Silver Lake | 46 | +2.0 | +8.0 |
-| 2025-12-19 | Oliver Ames | 62 | North Attleborough | 37 | +6.5 | +25.0 |
 
 ## Current Elo Ratings
 

@@ -1,6 +1,6 @@
 # Coed Swimming - 2025 Season
 
-Generated: 2025-12-26 11:17
+Generated: 2025-12-27 11:14
 
 ## Upcoming Games
 
@@ -9,9 +9,8 @@ Generated: 2025-12-26 11:17
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2025-12-19 | Archbishop Williams | 86 | Bishop Fenwick | 63 | +3.6 | +23.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 

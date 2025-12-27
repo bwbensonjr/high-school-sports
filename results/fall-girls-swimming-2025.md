@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2025 Season
 
-Generated: 2025-12-26 11:17
+Generated: 2025-12-27 11:14
 
 ## Upcoming Games
 
@@ -12,10 +12,6 @@ Generated: 2025-12-26 11:17
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2025-12-22 | Durfee | 63 | Taunton | 99 | +2.7 | -36.0 |
-| 2025-12-19 | Archbishop Williams | 86 | Bishop Fenwick | 63 | +5.0 | +23.0 |
-| 2025-12-19 | Mansfield | 59 | Stoughton | 34 | +1.1 | +25.0 |
-| 2025-12-19 | Foxborough | 46 | Stoughton | 46 | +9.7 | 0.0 |
-| 2025-12-19 | Nashoba | 82 | Tantasqua | 97 | -0.3 | -15.0 |
 
 ## Current Elo Ratings
 

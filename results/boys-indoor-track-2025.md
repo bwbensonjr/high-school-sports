@@ -1,6 +1,6 @@
 # Boys Indoor Track - 2025 Season
 
-Generated: 2025-12-26 11:17
+Generated: 2025-12-27 11:14
 
 ## Upcoming Games
 
@@ -16,7 +16,6 @@ Generated: 2025-12-26 11:17
 | 2025-12-23 | Cristo Rey | 10 | Cardinal Spellman | 92 | -3.9 | -82.0 |
 | 2025-12-23 | Seekonk | 53 | Fairhaven | 42 | +4.4 | +11.0 |
 | 2025-12-22 | Hingham | 58 | Silver Lake | 42 | +2.0 | +16.0 |
-| 2025-12-19 | Oliver Ames | 67 | North Attleborough | 33 | +5.7 | +34.0 |
 
 ## Current Elo Ratings
 
@@ -55,15 +54,15 @@ Generated: 2025-12-26 11:17
 | 31 | Martha’s Vineyard | 1468.7 |
 | 32 | Wareham | 1467.0 |
 | 33 | Silver Lake | 1465.2 |
-| 34 | Billerica | 1459.3 |
-| 35 | Whitman-Hanson | 1459.3 |
+| 34 | Whitman-Hanson | 1459.3 |
+| 35 | Billerica | 1459.3 |
 | 36 | Medfield | 1459.1 |
 | 37 | Dighton-Rehoboth | 1450.4 |
 | 38 | Sharon | 1447.6 |
 | 39 | King Philip | 1447.2 |
 | 40 | West Bridgewater | 1440.7 |
-| 41 | Milford | 1433.6 |
-| 42 | Foxborough | 1433.6 |
+| 41 | Foxborough | 1433.6 |
+| 42 | Milford | 1433.6 |
 | 43 | Canton | 1430.1 |
 | 44 | Braintree | 1429.1 |
 | 45 | Bishop Stang | 1424.3 |
