@@ -19,10 +19,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-16,70051,FINAL,Bishop Fenwick,4043,48.0,0,Archbishop Williams,4012,50.0,1,Catholic Central,Catholic Central,,,0
 2025-12-16,70052,FINAL,Arlington Catholic,4014,45.0,0,Archbishop Williams,4012,46.0,1,Catholic Central,Catholic Central,,,0
 2025-12-16,70053,FINAL,Bishop Fenwick,4043,43.0,0,Arlington Catholic,4014,56.0,1,Catholic Central,Catholic Central,,,0
-2025-12-17,70211,FINAL,Bishop Feehan,4042,84,1,Bishop Stang,4045,7,0,Mayflower,Mayflower,,,0
-2025-12-17,70304,FINAL,North Andover,4283,19,0,Billerica,4040,80,1,Merrimack Valley,Merrimack Valley,,,0
-2025-12-17,70327,FINAL,Central Catholic,4081,60,1,Chelmsford,4085,40,0,Merrimack Valley,Merrimack Valley,,,0
-2025-12-17,70345,FINAL,Holliston,4174,38,0,Hopkinton,4180,57,1,Tri-Valley,Tri-Valley,,,0
+2025-12-17,70211,FINAL,Bishop Feehan,4042,84.0,1,Bishop Stang,4045,7.0,0,Mayflower,Mayflower,,,0
+2025-12-17,70304,FINAL,North Andover,4283,19.0,0,Billerica,4040,80.0,1,Merrimack Valley,Merrimack Valley,,,0
+2025-12-17,70327,FINAL,Central Catholic,4081,60.0,1,Chelmsford,4085,40.0,0,Merrimack Valley,Merrimack Valley,,,0
+2025-12-17,70345,FINAL,Holliston,4174,38.0,0,Hopkinton,4180,57.0,1,Tri-Valley,Tri-Valley,,,0
 2025-12-18,70636,FINAL,Apponequet,4011,18,0,Somerset Berkley,4350,73,1,South Coast,South Coast,,,0
 2025-12-18,70642,FINAL,Swampscott,4383,14,0,Peabody,4306,72,1,Northeastern,Northeastern,4:30 P.M.,,0
 2025-12-18,70651,FINAL,Attleboro,4018,46,0,Sharon,4345,54,1,Hockomock,Hockomock,,,0

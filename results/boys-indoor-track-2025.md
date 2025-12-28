@@ -1,6 +1,6 @@
 # Boys Indoor Track - 2025 Season
 
-Generated: 2025-12-27 11:14
+Generated: 2025-12-28 11:15
 
 ## Upcoming Games
 
@@ -31,8 +31,8 @@ Generated: 2025-12-27 11:14
 | 8 | Oliver Ames | 1580.1 |
 | 9 | Stoughton | 1573.2 |
 | 10 | Bishop Feehan | 1571.6 |
-| 11 | Mansfield | 1569.7 |
-| 12 | Taunton | 1569.7 |
+| 11 | Taunton | 1569.7 |
+| 12 | Mansfield | 1569.7 |
 | 13 | Franklin | 1556.1 |
 | 14 | Attleboro | 1555.7 |
 | 15 | Weymouth | 1552.1 |
@@ -61,8 +61,8 @@ Generated: 2025-12-27 11:14
 | 38 | Sharon | 1447.6 |
 | 39 | King Philip | 1447.2 |
 | 40 | West Bridgewater | 1440.7 |
-| 41 | Foxborough | 1433.6 |
-| 42 | Milford | 1433.6 |
+| 41 | Milford | 1433.6 |
+| 42 | Foxborough | 1433.6 |
 | 43 | Canton | 1430.1 |
 | 44 | Braintree | 1429.1 |
 | 45 | Bishop Stang | 1424.3 |
