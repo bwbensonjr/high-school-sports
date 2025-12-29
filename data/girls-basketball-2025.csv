@@ -326,47 +326,47 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-17,70263,FINAL,Doherty,4116,38.0,0.0,Advanced Math and Science,4595,45.0,1.0,Independent,Independent,,,0
 2025-12-17,70265,FINAL,Uxbridge,4398,47.0,1.0,Sutton,4512,32.0,0.0,Independent,Independent,,,0
 2025-12-17,70336,FINAL,Thayer,4390,46.0,0.0,Governor’s Academy,4152,53.0,1.0,ISL,ISL,,,0
-2025-12-18,65657,FINAL,Wellesley,4413,46,1,Brookline,4059,42,0,Bay State,Bay State,6:30 P.M.,,0
-2025-12-18,65823,FINAL,Framingham,4143,31,0,Walpole,4404,66,1,Bay State,Bay State,6:30 P.M.,,0
-2025-12-18,65827,FINAL,Newton North,4279,50,0,Natick,4270,54,1,Bay State,Bay State,6:30 P.M.,,0
-2025-12-18,65846,FINAL,Braintree,4051,37,0,Needham,4272,51,1,Bay State,Bay State,6:30 P.M.,,0
-2025-12-18,65861,FINAL,Weymouth,4425,49,0,Milton,4252,62,1,Bay State,Bay State,6:30 P.M.,,0
-2025-12-18,65878,FINAL,Saugus,4341,32,0,Marblehead,4231,44,1,Northeastern,Northeastern,6:00 P.M.,,0
-2025-12-18,66202,FINAL,Manchester Essex,4229,44,0,Danvers,4103,61,1,Cape Ann,Northeastern,6:30 P.M.,,0
-2025-12-18,66229,FINAL,Everett,4132,43,0,Chelsea,4086,44,1,Greater Boston,Greater Boston,6:00 P.M.,,0
-2025-12-18,66234,FINAL,Lynn Classical,4220,42,0,Medford,4242,46,1,Greater Boston,Greater Boston,6:00 P.M.,,0
-2025-12-18,66239,FINAL,Revere,4329,52,1,Lynn English,4221,31,0,Greater Boston,Greater Boston,6:00 P.M.,,0
-2025-12-18,66242,FINAL,Malden,4227,42,0,Somerville,4351,50,1,Greater Boston,Greater Boston,6:00 P.M.,,0
-2025-12-18,66552,FINAL,Medway,4243,43,1,Bellingham,4033,21,0,Tri-Valley,Tri-Valley,5:30 P.M.,,0
+2025-12-18,65657,FINAL,Wellesley,4413,46.0,1.0,Brookline,4059,42.0,0.0,Bay State,Bay State,6:30 P.M.,,0
+2025-12-18,65823,FINAL,Framingham,4143,31.0,0.0,Walpole,4404,66.0,1.0,Bay State,Bay State,6:30 P.M.,,0
+2025-12-18,65827,FINAL,Newton North,4279,50.0,0.0,Natick,4270,54.0,1.0,Bay State,Bay State,6:30 P.M.,,0
+2025-12-18,65846,FINAL,Braintree,4051,37.0,0.0,Needham,4272,51.0,1.0,Bay State,Bay State,6:30 P.M.,,0
+2025-12-18,65861,FINAL,Weymouth,4425,49.0,0.0,Milton,4252,62.0,1.0,Bay State,Bay State,6:30 P.M.,,0
+2025-12-18,65878,FINAL,Saugus,4341,32.0,0.0,Marblehead,4231,44.0,1.0,Northeastern,Northeastern,6:00 P.M.,,0
+2025-12-18,66202,FINAL,Manchester Essex,4229,44.0,0.0,Danvers,4103,61.0,1.0,Cape Ann,Northeastern,6:30 P.M.,,0
+2025-12-18,66229,FINAL,Everett,4132,43.0,0.0,Chelsea,4086,44.0,1.0,Greater Boston,Greater Boston,6:00 P.M.,,0
+2025-12-18,66234,FINAL,Lynn Classical,4220,42.0,0.0,Medford,4242,46.0,1.0,Greater Boston,Greater Boston,6:00 P.M.,,0
+2025-12-18,66239,FINAL,Revere,4329,52.0,1.0,Lynn English,4221,31.0,0.0,Greater Boston,Greater Boston,6:00 P.M.,,0
+2025-12-18,66242,FINAL,Malden,4227,42.0,0.0,Somerville,4351,50.0,1.0,Greater Boston,Greater Boston,6:00 P.M.,,0
+2025-12-18,66552,FINAL,Medway,4243,43.0,1.0,Bellingham,4033,21.0,0.0,Tri-Valley,Tri-Valley,5:30 P.M.,,0
 2025-12-18,66660,UPCOMING,Pacific Rim Charter,4478,,,Argosy Collegiate,5032,,,Charter School Athletic,Charter School Athletic,5:00 P.M.,,0
 2025-12-18,66676,POSTPONED,Prospect Hill,4593,,,Boston Prep,4655,,,Charter School Athletic,Charter School Athletic,6:00 P.M.,,0
-2025-12-18,67004,FINAL,Lowell,4216,49,1,Methuen,4246,41,0,Merrimack Valley,Merrimack Valley,6:30 P.M.,,0
-2025-12-18,67116,FINAL,Salem Academy,4604,36,1,Excel Academy,4969,22,0,Charter School Athletic,Charter School Athletic,4:30 P.M.,,0
+2025-12-18,67004,FINAL,Lowell,4216,49.0,1.0,Methuen,4246,41.0,0.0,Merrimack Valley,Merrimack Valley,6:30 P.M.,,0
+2025-12-18,67116,FINAL,Salem Academy,4604,36.0,1.0,Excel Academy,4969,22.0,0.0,Charter School Athletic,Charter School Athletic,4:30 P.M.,,0
 2025-12-18,67121,UPCOMING,Foxborough Charter,4588,,,Brooke Charter,5071,,,Charter School Athletic,Charter School Athletic,4:00 P.M.,,0
-2025-12-18,67140,FINAL,Mohawk Trail,4258,44,1,Hampden Charter East,4712,28,0,Independent,Charter School Athletic,6:30 P.M.,,0
+2025-12-18,67140,FINAL,Mohawk Trail,4258,44.0,1.0,Hampden Charter East,4712,28.0,0.0,Independent,Charter School Athletic,6:30 P.M.,,0
 2025-12-18,67169,UPCOMING,Pioneer Charter II,4964,,,Pioneer Charter I,4701,,,Charter School Athletic,Charter School Athletic,4:15 P.M.,,0
 2025-12-18,67184,UPCOMING,Roxbury Prep,4847,,,Weston,4423,,,Charter School Athletic,Dual County,4:30 P.M.,,0
-2025-12-18,67277,FINAL,Cathedral,4079,56,1,Leominster,4208,35,0,Catholic Central,Mid-Wach,6:30 P.M.,,0
-2025-12-18,67299,FINAL,Latin Academy,4202,68,1,Brighton,4055,13,0,Boston City,Boston City,4:00 P.M.,,0
-2025-12-18,67327,FINAL,Kennedy Academy,4590,47,1,CASH,4187,8,0,Boston City,Boston City,6:00 P.M.,,0
-2025-12-18,67336,FINAL,Muniz,5018,34,1,Charlestown,4084,16,0,Boston City,Boston City,5:00 P.M.,,0
-2025-12-18,67346,FINAL,Whittier,4428,45,1,Hamilton-Wenham,4163,38,0,Commonwealth,Cape Ann,5:30 P.M.,,0
+2025-12-18,67277,FINAL,Cathedral,4079,56.0,1.0,Leominster,4208,35.0,0.0,Catholic Central,Mid-Wach,6:30 P.M.,,0
+2025-12-18,67299,FINAL,Latin Academy,4202,68.0,1.0,Brighton,4055,13.0,0.0,Boston City,Boston City,4:00 P.M.,,0
+2025-12-18,67327,FINAL,Kennedy Academy,4590,47.0,1.0,CASH,4187,8.0,0.0,Boston City,Boston City,6:00 P.M.,,0
+2025-12-18,67336,FINAL,Muniz,5018,34.0,1.0,Charlestown,4084,16.0,0.0,Boston City,Boston City,5:00 P.M.,,0
+2025-12-18,67346,FINAL,Whittier,4428,45.0,1.0,Hamilton-Wenham,4163,38.0,0.0,Commonwealth,Cape Ann,5:30 P.M.,,0
 2025-12-18,67376,UPCOMING,Stoughton,4381,,,Brockton,4058,,,Hockomock,Big Three,6:30 P.M.,,0
-2025-12-18,67383,FINAL,Silver Lake,4349,55,1,Durfee,4122,42,0,Patriot,Big Three,6:30 P.M.,,0
-2025-12-18,67439,FINAL,Old Colony,4300,32,1,Diman,4115,30,0,Mayflower,Mayflower,5:00 P.M.,,0
+2025-12-18,67383,FINAL,Silver Lake,4349,55.0,1.0,Durfee,4122,42.0,0.0,Patriot,Big Three,6:30 P.M.,,0
+2025-12-18,67439,FINAL,Old Colony,4300,32.0,1.0,Diman,4115,30.0,0.0,Mayflower,Mayflower,5:00 P.M.,,0
 2025-12-18,67443,UPCOMING,Southeastern,4358,,,Dighton-Rehoboth,4114,,,Mayflower,South Coast,5:00 P.M.,,0
-2025-12-18,67445,FINAL,Lynn Tech,4222,42,1,Notre Dame (Tyngsborough),4540,31,0,Commonwealth,Commonwealth,6:00 P.M.,,0
-2025-12-18,68525,FINAL,Falmouth Academy,4135,56,1,Sturgis East,4456,28,0,Cape & Islands,Cape & Islands,4:00 P.M.,,0
-2025-12-18,68740,FINAL,Rockland,4331,34,0,Brockton,4058,43,1,South Shore,Big Three,6:30 P.M.,,0
-2025-12-18,68909,FINAL,Monty Tech,4259,49,0,Fitchburg,4139,51,1,Independent,Mid-Wach,6:30 P.M.,,0
+2025-12-18,67445,FINAL,Lynn Tech,4222,42.0,1.0,Notre Dame (Tyngsborough),4540,31.0,0.0,Commonwealth,Commonwealth,6:00 P.M.,,0
+2025-12-18,68525,FINAL,Falmouth Academy,4135,56.0,1.0,Sturgis East,4456,28.0,0.0,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2025-12-18,68740,FINAL,Rockland,4331,34.0,0.0,Brockton,4058,43.0,1.0,South Shore,Big Three,6:30 P.M.,,0
+2025-12-18,68909,FINAL,Monty Tech,4259,49.0,0.0,Fitchburg,4139,51.0,1.0,Independent,Mid-Wach,6:30 P.M.,,0
 2025-12-18,68946,POSTPONED,Marlborough,4233,,,Groton-Dunstable,4160,,,Mid-Wach,Mid-Wach,6:00 P.M.,,0
-2025-12-18,69003,FINAL,Oakmont,4299,49,1,North Middlesex,4286,18,0,Mid-Wach,Mid-Wach,6:30 P.M.,,0
-2025-12-18,69044,FINAL,Maynard,4239,49,1,Tyngsborough,4397,46,0,Mid-Wach,Mid-Wach,7:00 P.M.,,0
-2025-12-18,70658,FINAL,Millbury,4250,44,1,Auburn,4019,20,0,Independent,Independent,,,0
-2025-12-18,70667,FINAL,Minuteman,4255,40,1,Keefe Tech,4191,31,0,Commonwealth,Independent,5:30 P.M.,,0
-2025-12-18,70870,FINAL,Baystate Academy,4846,43,1,Pathfinder,4305,17,0,Independent,Independent,,,0
-2025-12-18,70871,FINAL,Franklin County Tech,4145,33,0,Smith Voc.,4539,38,1,Independent,Independent,,,0
-2025-12-18,71208,FINAL,KIPP,4703,32,1,Northeast,4293,25,0,Commonwealth,Commonwealth,,,0
+2025-12-18,69003,FINAL,Oakmont,4299,49.0,1.0,North Middlesex,4286,18.0,0.0,Mid-Wach,Mid-Wach,6:30 P.M.,,0
+2025-12-18,69044,FINAL,Maynard,4239,49.0,1.0,Tyngsborough,4397,46.0,0.0,Mid-Wach,Mid-Wach,7:00 P.M.,,0
+2025-12-18,70658,FINAL,Millbury,4250,44.0,1.0,Auburn,4019,20.0,0.0,Independent,Independent,,,0
+2025-12-18,70667,FINAL,Minuteman,4255,40.0,1.0,Keefe Tech,4191,31.0,0.0,Commonwealth,Independent,5:30 P.M.,,0
+2025-12-18,70870,FINAL,Baystate Academy,4846,43.0,1.0,Pathfinder,4305,17.0,0.0,Independent,Independent,,,0
+2025-12-18,70871,FINAL,Franklin County Tech,4145,33.0,0.0,Smith Voc.,4539,38.0,1.0,Independent,Independent,,,0
+2025-12-18,71208,FINAL,KIPP,4703,32.0,1.0,Northeast,4293,25.0,0.0,Commonwealth,Commonwealth,,,0
 2025-12-19,65874,FINAL,Salem,4336,,,Beverly,4038,,,Northeastern,Northeastern,6:00 P.M.,,0
 2025-12-19,65984,FINAL,Gloucester,4150,36,0,Masconomet,4236,47,1,Northeastern,Northeastern,6:00 P.M.,,0
 2025-12-19,66203,FINAL,Winthrop,4437,23,0,Danvers,4103,65,1,Northeastern,Northeastern,6:00 P.M.,,0
@@ -585,7 +585,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-27,66970,FINAL,Tewksbury,4389,37,1,Chelmsford,4085,34,0,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
 2025-12-27,67037,FINAL,Pentucket,4309,43,1,North Andover,4283,32,0,Cape Ann,Merrimack Valley,2:30 P.M.,,0
 2025-12-27,68768,FINAL,Tantasqua,4387,36,0,Shepherd Hill,4347,47,1,Independent,Mid-Wach,1:00 P.M.,,0
-2025-12-27,71160,UPCOMING,O’Bryant,4298,,,Somerville,4351,,,Boston City,Greater Boston,3:00 P.M.,,0
+2025-12-27,71160,FINAL,O’Bryant,4298,51,1,Somerville,4351,49,0,Boston City,Greater Boston,3:00 P.M.,,0
 2025-12-27,71545,FINAL,Biddeford (Maine),5236,72,1,Franklin,4144,35,0,Independent,Hockomock,1:30 P.M.,,0
 2025-12-27,73896,FINAL,North Reading,4288,42,1,Malden Catholic,4228,19,0,Cape Ann,Catholic Conference,4:00 P.M.,,0
 2025-12-27,74170,UPCOMING,Northampton,4291,,,Chicopee,4088,,,Independent,Independent,11:00 A.M.,,0
@@ -603,11 +603,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-27,74556,FINAL,Bedford (N.H.),4742,29,0,Medfield,4241,62,1,Independent,Tri-Valley,,,0
 2025-12-27,74564,FINAL,Apponequet,4011,61,1,Dartmouth,4105,43,0,South Coast,Pioneer,,,0
 2025-12-27,74585,FINAL,Andover,4009,57,1,Methuen,4246,25,0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
-2025-12-28,67022,UPCOMING,Bridgewater-Raynham,4053,,,Andover,4009,,,Pioneer,Merrimack Valley,4:15 P.M.,,0
-2025-12-28,71110,UPCOMING,Whittier,4428,,,Bay Path,4027,,,Commonwealth,Independent,10:00 A.M.,,0
-2025-12-28,73873,UPCOMING,Mansfield,4230,,,Fontbonne,4447,,,Hockomock,Catholic Conference,1:30 P.M.,,0
-2025-12-28,74263,UPCOMING,Pinkerton (N.H.),4313,,,Medfield,4241,,,Independent,Tri-Valley,3:30 P.M.,,0
-2025-12-28,74641,UPCOMING,Pentucket,4309,,,Natick,4270,,,Cape Ann,Bay State,2:30 P.M.,,0
+2025-12-28,67022,FINAL,Bridgewater-Raynham,4053,39,0,Andover,4009,48,1,Pioneer,Merrimack Valley,4:15 P.M.,,0
+2025-12-28,71110,FINAL,Whittier,4428,53,1,Bay Path,4027,17,0,Commonwealth,Independent,10:00 A.M.,,0
+2025-12-28,73873,FINAL,Mansfield,4230,54,1,Fontbonne,4447,32,0,Hockomock,Catholic Conference,1:30 P.M.,,0
+2025-12-28,74263,FINAL,Pinkerton (N.H.),4313,24,0,Medfield,4241,76,1,Independent,Tri-Valley,3:30 P.M.,,0
+2025-12-28,74641,FINAL,Pentucket,4309,42,0,Natick,4270,56,1,Cape Ann,Bay State,2:30 P.M.,,0
+2025-12-28,74697,FINAL,Oliver Ames,4302,53,0,Walpole,4404,56,1,Hockomock,Bay State,,,0
+2025-12-28,74728,FINAL,Bedford,4031,55,1,Chelmsford,4085,43,0,Dual County,Merrimack Valley,,,0
+2025-12-28,74729,FINAL,Silver Lake,4349,30,0,Bishop Fenwick,4043,47,1,Patriot,Catholic Central,2:00 P.M.,,0
+2025-12-28,74734,FINAL,Tewksbury,4389,32,0,Burlington,4065,33,1,Merrimack Valley,Middlesex,5:00 P.M.,,0
+2025-12-28,74747,FINAL,Hopkinton,4180,41,1,Milford,4249,32,0,Tri-Valley,Hockomock,,,0
+2025-12-28,74748,FINAL,Londonderry (N.H.),4213,41,1,Bishop Feehan,4042,34,0,Independent,Catholic Central,,,0
+2025-12-28,74760,FINAL,Neighborhood House Charter,5035,50,1,New Mission,4494,43,0,Charter School Athletic,Boston City,,,0
+2025-12-28,74761,FINAL,Millbury,4250,39,0,Woburn,4438,44,1,Independent,Middlesex,,,0
 2025-12-29,66533,UPCOMING,Ashland,4015,,,Weston,4423,,,Tri-Valley,Dual County,12:45 P.M.,,0
 2025-12-29,71121,UPCOMING,Whittier,4428,,,Lawrence,4203,,,Commonwealth,Merrimack Valley,1:00 P.M.,,0
 2025-12-29,71249,UPCOMING,Greater Lawrence,4154,,,Malden,4227,,,Commonwealth,Greater Boston,3:30 P.M.,,0
@@ -621,6 +629,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-29,74292,UPCOMING,Bellingham,4033,,,Watertown,4409,,,Tri-Valley,Middlesex,3:00 P.M.,,0
 2025-12-29,74572,UPCOMING,Cohasset,4094,,,Georgetown,4148,,,South Shore,Cape Ann,2:00 P.M.,,0
 2025-12-29,74575,UPCOMING,Braintree,4051,,,Archbishop Williams,4012,,,Bay State,Catholic Central,4:00 P.M.,,0
+2025-12-29,74731,UPCOMING,Bishop Fenwick,4043,,,Walpole,4404,,,Catholic Central,Bay State,2:00 P.M.,,0
+2025-12-29,74751,UPCOMING,Bishop Guertin (N.H.),4501,,,Bishop Feehan,4042,,,Independent,Catholic Central,5:00 P.M.,,0
+2025-12-29,74762,UPCOMING,Newton North,4279,,,Woburn,4438,,,Bay State,Middlesex,2:45 P.M.,,0
 2025-12-30,71264,UPCOMING,Everett,4132,,,Haverhill,4167,,,Greater Boston,Merrimack Valley,1:30 P.M.,,0
 2025-12-30,71513,UPCOMING,Norton,4295,,,Attleboro,4018,,,Tri-Valley,Hockomock,6:00 P.M.,,0
 2025-12-30,71557,UPCOMING,Notre Dame (Hingham),4449,,,Franklin,4144,,,Catholic Conference,Hockomock,6:30 P.M.,,0
@@ -681,3 +692,17 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-07,74175,UPCOMING,Atlantis Charter,4818,,,Westport,4461,,,Independent,Mayflower,3:30 P.M.,,0
 2026-01-07,74205,UPCOMING,Dover-Sherborn,4118,,,Norwood,4297,,,Tri-Valley,Tri-Valley,6:00 P.M.,,0
 2026-01-07,74228,UPCOMING,Westwood,4424,,,Millis,4251,,,Tri-Valley,Tri-Valley,6:15 P.M.,,0
+2026-01-08,71174,UPCOMING,Somerville,4351,,,Everett,4132,,,Greater Boston,Greater Boston,7:00 P.M.,,0
+2026-01-08,71196,UPCOMING,Revere,4329,,,Malden,4227,,,Greater Boston,Greater Boston,6:00 P.M.,,0
+2026-01-08,71210,UPCOMING,Medford,4242,,,Chelsea,4086,,,Greater Boston,Greater Boston,6:00 P.M.,,0
+2026-01-08,71237,UPCOMING,Nashoba Valley Tech,4268,,,Northeast,4293,,,Commonwealth,Commonwealth,6:00 P.M.,,0
+2026-01-08,71275,UPCOMING,Lynn Classical,4220,,,Lynn English,4221,,,Greater Boston,Greater Boston,6:00 P.M.,,0
+2026-01-08,71301,UPCOMING,Rockport,4490,,,Mystic Valley,4264,,,Independent,Commonwealth,4:30 P.M.,,0
+2026-01-08,73845,UPCOMING,Central Catholic,4081,,,Notre Dame (Hingham),4449,,,Merrimack Valley,Catholic Conference,7:00 P.M.,,0
+2026-01-08,73879,UPCOMING,Fontbonne,4447,,,Whitman-Hanson,4427,,,Catholic Conference,Patriot,7:00 P.M.,,0
+2026-01-08,73936,UPCOMING,New Bedford,4273,,,Somerset Berkley,4350,,,Big Three,South Coast,6:30 P.M.,,0
+2026-01-08,73945,UPCOMING,Durfee,4122,,,Tiverton (R.I.),4643,,,Big Three,Independent,6:30 P.M.,,0
+2026-01-08,73978,UPCOMING,Pioneer Valley Christian,4535,,,Maimonides,4473,,,Independent,Independent,6:00 P.M.,,0
+2026-01-08,73992,UPCOMING,MATCH Charter,4594,,,Pioneer Charter I,4701,,,Charter School Athletic,Charter School Athletic,4:30 P.M.,,0
+2026-01-08,74013,UPCOMING,Pacific Rim Charter,4478,,,Cristo Rey,4453,,,Charter School Athletic,Independent,5:00 P.M.,,0
+2026-01-08,74086,UPCOMING,Calvary Chapel,4828,,,Sturgis East,4456,,,Independent,Cape & Islands,5:00 P.M.,,0

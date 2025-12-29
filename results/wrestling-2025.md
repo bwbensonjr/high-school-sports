@@ -1,6 +1,6 @@
 # Wrestling - 2025 Season
 
-Generated: 2025-12-28 11:15
+Generated: 2025-12-29 11:17
 
 ## Upcoming Games
 
@@ -46,8 +46,8 @@ Generated: 2025-12-28 11:15
 | 17 | Choate | 1560.5 |
 | 18 | Avon Old Farms | 1559.1 |
 | 19 | Middleborough | 1557.7 |
-| 20 | New Bedford | 1553.9 |
-| 21 | Eagle Hill | 1553.9 |
+| 20 | Eagle Hill | 1553.9 |
+| 21 | New Bedford | 1553.9 |
 | 22 | Bridgewater-Raynham | 1552.2 |
 | 23 | St. John’s Prep | 1551.9 |
 | 24 | Upper Cape | 1549.6 |
@@ -57,8 +57,8 @@ Generated: 2025-12-28 11:15
 | 28 | Taunton | 1541.3 |
 | 29 | Hanover | 1537.3 |
 | 30 | Northbridge | 1534.5 |
-| 31 | Newton North | 1533.6 |
-| 32 | Nauset | 1533.6 |
+| 31 | Nauset | 1533.6 |
+| 32 | Newton North | 1533.6 |
 | 33 | Dedham | 1531.4 |
 | 34 | Needham | 1529.9 |
 | 35 | Greens Farms | 1529.9 |
@@ -74,8 +74,8 @@ Generated: 2025-12-28 11:15
 | 45 | Westford | 1502.4 |
 | 46 | Danvers | 1502.1 |
 | 47 | Wilmington | 1501.7 |
-| 48 | Brookline | 1501.7 |
-| 49 | North Reading | 1501.7 |
+| 48 | North Reading | 1501.7 |
+| 49 | Brookline | 1501.7 |
 | 50 | Andover | 1500.0 |
 | 51 | Middlesex | 1485.6 |
 | 52 | Beaver Country Day | 1485.1 |
@@ -108,8 +108,8 @@ Generated: 2025-12-28 11:15
 | 79 | Whittier | 1451.4 |
 | 80 | Nashoba Valley Tech | 1451.3 |
 | 81 | Quincy/North Quincy | 1451.1 |
-| 82 | Northeast/Bishop Fenwick | 1449.4 |
-| 83 | Marshfield | 1449.4 |
+| 82 | Marshfield | 1449.4 |
+| 83 | Northeast/Bishop Fenwick | 1449.4 |
 | 84 | BB&N | 1445.8 |
 | 85 | Deerfield | 1445.1 |
 | 86 | Catholic Memorial | 1444.6 |

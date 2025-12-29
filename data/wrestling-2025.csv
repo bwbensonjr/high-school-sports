@@ -74,8 +74,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-17,70341,FINAL,Burlington,4065,58.0,1.0,Malden Catholic,4228,15.0,0.0,Middlesex,Catholic Conference,,,0
 2025-12-17,70343,FINAL,Holliston,4174,39.0,1.0,Dedham,4108,37.0,0.0,Tri-Valley,Tri-Valley,,,0
 2025-12-17,70349,FINAL,New Bedford,4273,66.0,1.0,Marshfield,4234,9.0,0.0,Big Three,Patriot,,,0
-2025-12-18,70629,FINAL,Triton,4395,36,0,Danvers,4103,46,1,Cape Ann,Northeastern,,,0
-2025-12-18,70670,FINAL,Middleborough,4247,42,1,Whitman-Hanson,4427,30,0,South Shore,Patriot,,,0
+2025-12-18,70629,FINAL,Triton,4395,36.0,0.0,Danvers,4103,46.0,1.0,Cape Ann,Northeastern,,,0
+2025-12-18,70670,FINAL,Middleborough,4247,42.0,1.0,Whitman-Hanson,4427,30.0,0.0,South Shore,Patriot,,,0
 2025-12-20,71717,FINAL,Hingham,4171,72,1,Monty Tech/Fitchburg,4259,6,0,Patriot,Independent,,,0
 2025-12-20,71719,FINAL,Hingham,4171,30,0,Scituate,4343,48,1,Patriot,Patriot,,,0
 2025-12-20,71721,FINAL,Hingham,4171,32,0,Taunton,4388,40,1,Patriot,Hockomock,,,0

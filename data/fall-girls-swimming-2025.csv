@@ -21,8 +21,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-16,70090,FINAL,Seekonk,4344,88.0,1.0,Mansfield,4230,68.0,0.0,South Coast,Hockomock,,,0
 2025-12-16,70099,FINAL,Durfee,4122,78.0,1.0,Bridgewater-Raynham,4053,68.0,0.0,Big Three,Pioneer,,,0
 2025-12-16,70103,FINAL,Martha’s Vineyard,4235,38.0,0.0,Nantucket,4265,132.0,1.0,Cape & Islands,Cape & Islands,,,0
-2025-12-18,70673,FINAL,New Bedford,4273,106,1,Apponequet,4011,77,0,Big Three,South Coast,,,0
-2025-12-18,70763,FINAL,Barnstable,4024,53,0,Nantucket,4265,102,1,Pioneer,Cape & Islands,,,0
+2025-12-18,70673,FINAL,New Bedford,4273,106.0,1.0,Apponequet,4011,77.0,0.0,Big Three,South Coast,,,0
+2025-12-18,70763,FINAL,Barnstable,4024,53.0,0.0,Nantucket,4265,102.0,1.0,Pioneer,Cape & Islands,,,0
 2025-12-19,70949,FINAL,Archbishop Williams,4012,86,1,Bishop Fenwick,4043,63,0,Catholic Central,Catholic Central,,,0
 2025-12-19,71694,FINAL,Mansfield,4230,59,1,Stoughton,4381,34,0,Hockomock,Hockomock,,,0
 2025-12-19,71695,FINAL,Foxborough,4142,46,2,Stoughton,4381,46,2,Hockomock,Hockomock,,,0
