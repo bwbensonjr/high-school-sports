@@ -1,6 +1,6 @@
 # Girls Indoor Track - 2025 Season
 
-Generated: 2025-12-29 11:17
+Generated: 2025-12-30 11:17
 
 ## Upcoming Games
 
@@ -12,7 +12,6 @@ Generated: 2025-12-29 11:17
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2025-12-23 | Seekonk | 62 | Fairhaven | 31 | +4.5 | +31.0 |
-| 2025-12-22 | Hingham | 54 | Silver Lake | 46 | +2.0 | +8.0 |
 
 ## Current Elo Ratings
 

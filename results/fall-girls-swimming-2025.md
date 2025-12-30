@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2025 Season
 
-Generated: 2025-12-29 11:17
+Generated: 2025-12-30 11:17
 
 ## Upcoming Games
 
@@ -9,9 +9,8 @@ Generated: 2025-12-29 11:17
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2025-12-22 | Durfee | 63 | Taunton | 99 | +2.7 | -36.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 
