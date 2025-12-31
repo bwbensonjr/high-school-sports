@@ -1,6 +1,6 @@
 # Boys Indoor Track - 2025 Season
 
-Generated: 2025-12-30 11:17
+Generated: 2025-12-31 11:17
 
 ## Upcoming Games
 
@@ -11,10 +11,7 @@ Generated: 2025-12-30 11:17
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2025-12-23 | Archbishop Williams | 57 | Bishop Fenwick | 25 | +7.5 | +32.0 |
-| 2025-12-23 | St. Mary’s | 82 | Arlington Catholic | 16 | +7.7 | +66.0 |
-| 2025-12-23 | Cristo Rey | 10 | Cardinal Spellman | 92 | -3.9 | -82.0 |
-| 2025-12-23 | Seekonk | 53 | Fairhaven | 42 | +4.4 | +11.0 |
+| 2025-12-30 | Amesbury | 67 | Ipswich | 33 | +2.0 | +34.0 |
 
 ## Current Elo Ratings
 
@@ -36,38 +33,40 @@ Generated: 2025-12-30 11:17
 | 14 | Attleboro | 1555.7 |
 | 15 | Weymouth | 1552.1 |
 | 16 | Old Rochester | 1550.9 |
-| 17 | Norton | 1544.2 |
-| 18 | North Andover | 1544.0 |
+| 17 | Amesbury | 1547.4 |
+| 18 | Norton | 1544.2 |
 | 19 | Marshfield | 1544.0 |
-| 20 | Hingham | 1538.1 |
-| 21 | Southeastern | 1536.6 |
-| 22 | Diman | 1536.3 |
-| 23 | Nauset | 1534.6 |
-| 24 | Wellesley | 1502.7 |
-| 25 | Newton North | 1493.8 |
-| 26 | Needham | 1483.4 |
-| 27 | Fairhaven | 1475.9 |
-| 28 | Natick | 1475.4 |
-| 29 | Tri-County | 1474.1 |
-| 30 | Milton | 1474.1 |
-| 31 | Martha’s Vineyard | 1468.7 |
-| 32 | Wareham | 1467.0 |
-| 33 | Silver Lake | 1465.2 |
-| 34 | Whitman-Hanson | 1459.3 |
-| 35 | Billerica | 1459.3 |
-| 36 | Medfield | 1459.1 |
-| 37 | Dighton-Rehoboth | 1450.4 |
-| 38 | Sharon | 1447.6 |
-| 39 | King Philip | 1447.2 |
-| 40 | West Bridgewater | 1440.7 |
-| 41 | Milford | 1433.6 |
-| 42 | Foxborough | 1433.6 |
-| 43 | Canton | 1430.1 |
-| 44 | Braintree | 1429.1 |
-| 45 | Bishop Stang | 1424.3 |
-| 46 | North Attleborough | 1423.2 |
-| 47 | Apponequet | 1409.7 |
-| 48 | Arlington Catholic | 1404.6 |
-| 49 | Bishop Fenwick | 1402.5 |
-| 50 | Framingham | 1402.4 |
-| 51 | Cristo Rey | 1377.9 |
+| 20 | North Andover | 1544.0 |
+| 21 | Hingham | 1538.1 |
+| 22 | Southeastern | 1536.6 |
+| 23 | Diman | 1536.3 |
+| 24 | Nauset | 1534.6 |
+| 25 | Wellesley | 1502.7 |
+| 26 | Newton North | 1493.8 |
+| 27 | Needham | 1483.4 |
+| 28 | Fairhaven | 1475.9 |
+| 29 | Natick | 1475.4 |
+| 30 | Tri-County | 1474.1 |
+| 31 | Milton | 1474.1 |
+| 32 | Martha’s Vineyard | 1468.7 |
+| 33 | Wareham | 1467.0 |
+| 34 | Silver Lake | 1465.2 |
+| 35 | Whitman-Hanson | 1459.3 |
+| 36 | Billerica | 1459.3 |
+| 37 | Medfield | 1459.1 |
+| 38 | Ipswich | 1455.9 |
+| 39 | Dighton-Rehoboth | 1450.4 |
+| 40 | Sharon | 1447.6 |
+| 41 | King Philip | 1447.2 |
+| 42 | West Bridgewater | 1440.7 |
+| 43 | Foxborough | 1433.6 |
+| 44 | Milford | 1433.6 |
+| 45 | Canton | 1430.1 |
+| 46 | Braintree | 1429.1 |
+| 47 | Bishop Stang | 1424.3 |
+| 48 | North Attleborough | 1423.2 |
+| 49 | Apponequet | 1409.7 |
+| 50 | Arlington Catholic | 1404.6 |
+| 51 | Bishop Fenwick | 1402.5 |
+| 52 | Framingham | 1402.4 |
+| 53 | Cristo Rey | 1377.9 |

@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2025 Season
 
-Generated: 2025-12-30 11:17
+Generated: 2025-12-31 11:17
 
 ## Upcoming Games
 
@@ -12,7 +12,6 @@ Generated: 2025-12-30 11:17
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2025-12-27 | North Andover | 125 | Tewksbury | 130 | +3.1 | -5.7 |
-| 2025-12-23 | North Andover | 129 | Methuen | 117 | +3.6 | +11.7 |
 
 ## Current Elo Ratings
 

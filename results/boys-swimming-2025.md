@@ -1,6 +1,6 @@
 # Boys Swimming - 2025 Season
 
-Generated: 2025-12-30 11:17
+Generated: 2025-12-31 11:17
 
 ## Upcoming Games
 
@@ -9,10 +9,8 @@ Generated: 2025-12-30 11:17
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2025-12-23 | Chelmsford | 96 | Natick | 85 | +2.9 | +11.0 |
-| 2025-12-23 | Wellesley | 86 | Belmont | 97 | +2.0 | -11.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 
@@ -30,8 +28,8 @@ Generated: 2025-12-30 11:17
 | 10 | Canton | 1546.8 |
 | 11 | Foxborough | 1544.9 |
 | 12 | Duxbury | 1543.7 |
-| 13 | Belmont | 1542.6 |
-| 14 | Concord-Carlisle | 1542.6 |
+| 13 | Concord-Carlisle | 1542.6 |
+| 14 | Belmont | 1542.6 |
 | 15 | Sandwich | 1538.8 |
 | 16 | Wayland | 1537.2 |
 | 17 | Seekonk | 1536.4 |
@@ -47,8 +45,8 @@ Generated: 2025-12-30 11:17
 | 27 | Westborough | 1491.1 |
 | 28 | Latin Academy | 1481.2 |
 | 29 | Holliston/Medway | 1462.8 |
-| 30 | Lincoln-Sudbury | 1457.4 |
-| 31 | Wellesley | 1457.4 |
+| 30 | Wellesley | 1457.4 |
+| 31 | Lincoln-Sudbury | 1457.4 |
 | 32 | Marshfield/Hanover | 1456.3 |
 | 33 | Lexington | 1450.4 |
 | 34 | Melrose | 1449.5 |

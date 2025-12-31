@@ -76,9 +76,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-17,70349,FINAL,New Bedford,4273,66.0,1.0,Marshfield,4234,9.0,0.0,Big Three,Patriot,,,0
 2025-12-18,70629,FINAL,Triton,4395,36.0,0.0,Danvers,4103,46.0,1.0,Cape Ann,Northeastern,,,0
 2025-12-18,70670,FINAL,Middleborough,4247,42.0,1.0,Whitman-Hanson,4427,30.0,0.0,South Shore,Patriot,,,0
-2025-12-20,71717,FINAL,Hingham,4171,72,1,Monty Tech/Fitchburg,4259,6,0,Patriot,Independent,,,0
-2025-12-20,71719,FINAL,Hingham,4171,30,0,Scituate,4343,48,1,Patriot,Patriot,,,0
-2025-12-20,71721,FINAL,Hingham,4171,32,0,Taunton,4388,40,1,Patriot,Hockomock,,,0
+2025-12-20,71717,FINAL,Hingham,4171,72.0,1.0,Monty Tech/Fitchburg,4259,6.0,0.0,Patriot,Independent,,,0
+2025-12-20,71719,FINAL,Hingham,4171,30.0,0.0,Scituate,4343,48.0,1.0,Patriot,Patriot,,,0
+2025-12-20,71721,FINAL,Hingham,4171,32.0,0.0,Taunton,4388,40.0,1.0,Patriot,Hockomock,,,0
 2025-12-23,72477,FINAL,Walpole,4404,68,1,Stoughton,4381,12,0,Bay State,Hockomock,,,0
 2025-12-23,72554,FINAL,Cohasset,4094,71,1,East Boston,4125,12,0,South Shore,Boston City,1:00 P.M.,,0
 2025-12-23,73835,FINAL,Burlington,4065,31,0,Arlington,4013,46,1,Middlesex,Middlesex,,,0
@@ -90,3 +90,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-27,74550,FINAL,Billerica,4040,21,0,Burlington,4065,53,1,Merrimack Valley,Middlesex,,,0
 2025-12-27,74552,FINAL,Lexington,4209,24,0,Burlington,4065,55,1,Middlesex,Middlesex,,,0
 2025-12-27,74554,FINAL,Gloucester,4150,36,0,Burlington,4065,43,1,Northeastern,Middlesex,,,0
+2025-12-30,74908,FINAL,Wayland,4411,71,1,Danvers,4103,12,0,Dual County,Northeastern,,,0
+2025-12-30,74909,FINAL,Wayland,4411,29,0,New Bedford,4273,39,1,Dual County,Big Three,,,0
+2025-12-30,74911,FINAL,Wayland,4411,27,0,Woburn,4438,46,1,Dual County,Middlesex,,,0
+2025-12-30,74912,FINAL,Wayland,4411,48,1,North Attleborough,4284,22,0,Dual County,Hockomock,,,0
+2025-12-30,74922,FINAL,North Attleborough,4284,28,0,New Bedford,4273,48,1,Hockomock,Big Three,,,0
