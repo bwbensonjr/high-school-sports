@@ -1,0 +1,23 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
+2025-12-23,72477,FINAL,Walpole,4404,68,1,Stoughton,4381,12,0,Bay State,Hockomock,,,0
+2025-12-23,72554,FINAL,Cohasset,4094,71,1,East Boston,4125,12,0,South Shore,Boston City,1:00 P.M.,,0
+2025-12-23,73835,FINAL,Burlington,4065,31,0,Arlington,4013,46,1,Middlesex,Middlesex,,,0
+2025-12-23,73838,FINAL,Burlington,4065,54,1,Catholic Memorial,4080,5,0,Middlesex,Catholic Conference,,,0
+2025-12-23,73841,FINAL,Burlington,4065,18,0,Leominster,4208,63,1,Middlesex,Mid-Wach,,,0
+2025-12-27,74531,FINAL,Shawsheen,4346,56,1,Tewksbury,4389,7,0,Commonwealth,Merrimack Valley,,,0
+2025-12-27,74532,FINAL,Shawsheen,4346,56,1,Woburn,4438,21,0,Commonwealth,Middlesex,,,0
+2025-12-27,74533,FINAL,Shawsheen,4346,63,1,Andover,4009,18,0,Commonwealth,Merrimack Valley,,,0
+2025-12-27,74550,FINAL,Billerica,4040,21,0,Burlington,4065,53,1,Merrimack Valley,Middlesex,,,0
+2025-12-27,74552,FINAL,Lexington,4209,24,0,Burlington,4065,55,1,Middlesex,Middlesex,,,0
+2025-12-27,74554,FINAL,Gloucester,4150,36,0,Burlington,4065,43,1,Northeastern,Middlesex,,,0
+2025-12-30,74908,FINAL,Wayland,4411,71,1,Danvers,4103,12,0,Dual County,Northeastern,,,0
+2025-12-30,74909,FINAL,Wayland,4411,29,0,New Bedford,4273,39,1,Dual County,Big Three,,,0
+2025-12-30,74911,FINAL,Wayland,4411,27,0,Woburn,4438,46,1,Dual County,Middlesex,,,0
+2025-12-30,74912,FINAL,Wayland,4411,48,1,North Attleborough,4284,22,0,Dual County,Hockomock,,,0
+2025-12-30,74922,FINAL,North Attleborough,4284,28,0,New Bedford,4273,48,1,Hockomock,Big Three,,,0
+2025-12-31,75309,FINAL,St. John’s Prep,4369,25,0,Shawsheen,4346,48,1,Catholic Conference,Commonwealth,,,0
+2025-12-31,75366,FINAL,Keene (N.H.),4192,6,0,Shawsheen,4346,65,1,Independent,Commonwealth,,,0
+2025-12-31,75368,FINAL,Salem (N.H.),4337,12,0,Shawsheen,4346,59,1,Independent,Commonwealth,,,0
+2025-12-31,75370,FINAL,Pentucket,4309,40,1,Burlington,4065,32,0,Cape Ann,Middlesex,,,0
+2025-12-31,75373,FINAL,Worcester Tech,4445,9,0,Burlington,4065,71,1,Independent,Middlesex,,,0
+2025-12-31,75375,FINAL,Saugus/Peabody,4341,55,1,Burlington,4065,18,0,Northeastern,Middlesex,,,0

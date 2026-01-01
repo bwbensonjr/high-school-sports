@@ -1,0 +1,4 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
+2025-12-23,72792,FINAL,North Andover,4283,129.55,1,Methuen,4246,117.85,0,Merrimack Valley,Merrimack Valley,,,0
+2025-12-27,74566,FINAL,North Andover,4283,125.15,0,Tewksbury,4389,130.8,1,Merrimack Valley,Merrimack Valley,3:00 P.M.,,0
+2025-12-30,75290,FINAL,North Andover,4283,132.85,1,Dracut,4119,117.4,0,Merrimack Valley,Merrimack Valley,,,0
