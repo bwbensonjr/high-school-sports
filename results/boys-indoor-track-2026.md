@@ -1,6 +1,6 @@
 # Boys Indoor Track - 2026 Season
 
-Generated: 2026-01-01 11:16
+Generated: 2026-01-02 11:17
 
 ## Upcoming Games
 
@@ -36,8 +36,8 @@ Generated: 2026-01-01 11:16
 | 17 | Weymouth | 1536.6 |
 | 18 | Old Rochester | 1535.7 |
 | 19 | Norton | 1531.2 |
-| 20 | North Andover | 1531.1 |
-| 21 | Marshfield | 1531.1 |
+| 20 | Marshfield | 1531.1 |
+| 21 | North Andover | 1531.1 |
 | 22 | Southeastern | 1526.2 |
 | 23 | Diman | 1526.0 |
 | 24 | Nauset | 1524.8 |
@@ -57,8 +57,8 @@ Generated: 2026-01-01 11:16
 | 38 | King Philip | 1466.3 |
 | 39 | West Bridgewater | 1461.9 |
 | 40 | Fairhaven | 1461.1 |
-| 41 | Foxborough | 1457.2 |
-| 42 | Milford | 1457.2 |
+| 41 | Milford | 1457.2 |
+| 42 | Foxborough | 1457.2 |
 | 43 | Canton | 1454.8 |
 | 44 | Braintree | 1454.1 |
 | 45 | Bishop Stang | 1450.9 |
