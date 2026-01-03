@@ -1,6 +1,6 @@
 # Wrestling - 2026 Season
 
-Generated: 2026-01-02 11:17
+Generated: 2026-01-03 11:15
 
 ## Upcoming Games
 
@@ -82,8 +82,8 @@ Generated: 2026-01-02 11:17
 | 46 | Framingham | 1508.1 |
 | 47 | St. John’s Prep | 1503.3 |
 | 48 | Westford | 1503.2 |
-| 49 | North Reading | 1502.8 |
-| 50 | Brookline | 1502.8 |
+| 49 | Brookline | 1502.8 |
+| 50 | North Reading | 1502.8 |
 | 51 | Wilmington | 1502.8 |
 | 52 | Wayland | 1500.3 |
 | 53 | Middlesex | 1492.0 |

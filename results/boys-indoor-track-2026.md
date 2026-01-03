@@ -1,6 +1,6 @@
 # Boys Indoor Track - 2026 Season
 
-Generated: 2026-01-02 11:17
+Generated: 2026-01-03 11:15
 
 ## Upcoming Games
 
@@ -29,8 +29,8 @@ Generated: 2026-01-02 11:17
 | 10 | Oliver Ames | 1555.3 |
 | 11 | Stoughton | 1550.7 |
 | 12 | Bishop Feehan | 1549.6 |
-| 13 | Taunton | 1548.4 |
-| 14 | Mansfield | 1548.4 |
+| 13 | Mansfield | 1548.4 |
+| 14 | Taunton | 1548.4 |
 | 15 | Franklin | 1539.3 |
 | 16 | Attleboro | 1539.0 |
 | 17 | Weymouth | 1536.6 |
@@ -49,16 +49,16 @@ Generated: 2026-01-02 11:17
 | 30 | Milton | 1484.3 |
 | 31 | Martha’s Vineyard | 1480.7 |
 | 32 | Wareham | 1479.5 |
-| 33 | Billerica | 1474.4 |
-| 34 | Whitman-Hanson | 1474.4 |
+| 33 | Whitman-Hanson | 1474.4 |
+| 34 | Billerica | 1474.4 |
 | 35 | Medfield | 1474.3 |
 | 36 | Dighton-Rehoboth | 1468.4 |
 | 37 | Sharon | 1466.5 |
 | 38 | King Philip | 1466.3 |
 | 39 | West Bridgewater | 1461.9 |
 | 40 | Fairhaven | 1461.1 |
-| 41 | Milford | 1457.2 |
-| 42 | Foxborough | 1457.2 |
+| 41 | Foxborough | 1457.2 |
+| 42 | Milford | 1457.2 |
 | 43 | Canton | 1454.8 |
 | 44 | Braintree | 1454.1 |
 | 45 | Bishop Stang | 1450.9 |
