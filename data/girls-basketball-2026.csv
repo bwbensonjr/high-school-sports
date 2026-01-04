@@ -260,14 +260,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-02,76708,FINAL,Nobles,4282,54,1,Dexter Southfield,4113,53,0,ISL,Independent,3:30 P.M.,,0
 2026-01-02,76767,FINAL,Somerset Berkley,4350,74,1,Bourne,4050,41,0,South Coast,South Coast,6:30 P.M.,,0
 2026-01-02,76911,FINAL,Joseph Case,4078,29,0,Seekonk,4344,52,1,South Coast,South Coast,6:30 P.M.,,0
-2026-01-03,71280,UPCOMING,Lexington,4209,,,Lynn English,4221,,,Middlesex,Greater Boston,1:00 P.M.,,0
-2026-01-03,73629,UPCOMING,Newton North,4279,,,Acton-Boxborough,4003,,,Bay State,Dual County,1:00 P.M.,,0
-2026-01-03,74201,UPCOMING,Norwood,4297,,,Bridgewater-Raynham,4053,,,Tri-Valley,Pioneer,2:00 P.M.,,0
-2026-01-03,75612,UPCOMING,Haverhill,4167,,,Latin Academy,4202,,,Merrimack Valley,Boston City,11:30 A.M.,,0
-2026-01-03,75783,UPCOMING,Silver Lake,4349,,,Whitman-Hanson,4427,,,Patriot,Patriot,1:00 P.M.,,0
-2026-01-03,75816,UPCOMING,Waltham,4405,,,Dracut,4119,,,Dual County,Merrimack Valley,4:00 P.M.,,0
-2026-01-03,76016,UPCOMING,Masconomet,4236,,,Springfield International,4480,,,Northeastern,Independent,12:00 P.M.,,0
-2026-01-03,76341,UPCOMING,Old Rochester,4301,,,Cohasset,4094,,,South Coast,South Shore,1:00 P.M.,,0
+2026-01-03,71280,FINAL,Lexington,4209,47,1,Lynn English,4221,22,0,Middlesex,Greater Boston,1:00 P.M.,,0
+2026-01-03,73629,FINAL,Newton North,4279,47,0,Acton-Boxborough,4003,68,1,Bay State,Dual County,1:00 P.M.,,0
+2026-01-03,74201,FINAL,Norwood,4297,62,1,Bridgewater-Raynham,4053,33,0,Tri-Valley,Pioneer,2:00 P.M.,,0
+2026-01-03,75612,FINAL,Haverhill,4167,55,1,Latin Academy,4202,12,0,Merrimack Valley,Boston City,11:30 A.M.,,0
+2026-01-03,75783,FINAL,Silver Lake,4349,38,0,Whitman-Hanson,4427,47,1,Patriot,Patriot,1:00 P.M.,,0
+2026-01-03,75816,FINAL,Waltham,4405,47,0,Dracut,4119,51,1,Dual County,Merrimack Valley,4:00 P.M.,,0
+2026-01-03,76016,FINAL,Masconomet,4236,49,1,Springfield International,4480,37,0,Northeastern,Independent,12:00 P.M.,,0
+2026-01-03,76341,FINAL,Old Rochester,4301,39,1,Cohasset,4094,34,0,South Coast,South Shore,1:00 P.M.,,0
+2026-01-03,77119,FINAL,Plymouth North,4315,55,1,Barnstable,4024,47,0,Patriot,Pioneer,,1.0,0
+2026-01-03,77146,FINAL,Nantucket,4265,46,1,Martha’s Vineyard,4235,28,0,Cape & Islands,Cape & Islands,11:30 A.M.,,0
+2026-01-03,77295,FINAL,Shrewsbury,4348,42,1,Oakmont,4299,30,0,Mid-Wach,Mid-Wach,,,0
+2026-01-03,77296,FINAL,Leominster,4208,63,1,Northampton,4291,45,0,Mid-Wach,Independent,,,0
+2026-01-03,77317,FINAL,Mahar,4226,43,1,Hopkins,4531,31,0,Independent,Independent,,,0
 2026-01-04,73878,UPCOMING,Fontbonne,4447,,,Andover,4009,,,Catholic Conference,Merrimack Valley,1:30 P.M.,,0
 2026-01-04,75859,UPCOMING,Wachusett,4400,,,Westford,4421,,,Mid-Wach,Dual County,4:30 P.M.,,0
 2026-01-04,76070,UPCOMING,Billerica,4040,,,Quincy,4326,,,Merrimack Valley,Patriot,1:00 P.M.,,0
@@ -559,3 +564,17 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-13,76307,UPCOMING,Shrewsbury,4348,,,Westford,4421,,,Mid-Wach,Dual County,5:30 P.M.,,0
 2026-01-13,76349,UPCOMING,Cohasset,4094,,,Norwell,4296,,,South Shore,South Shore,6:30 P.M.,,0
 2026-01-13,76389,UPCOMING,Carver,4077,,,Mashpee,4237,,,South Shore,South Shore,6:30 P.M.,,0
+2026-01-14,71283,UPCOMING,Lynn English,4221,,,Georgetown,4148,,,Greater Boston,Cape Ann,6:00 P.M.,,0
+2026-01-14,73655,UPCOMING,Bishop Feehan,4042,,,Needham,4272,,,Catholic Central,Bay State,6:30 P.M.,,0
+2026-01-14,73902,UPCOMING,Malden Catholic,4228,,,Cambridge,4067,,,Catholic Conference,Dual County,6:30 P.M.,,0
+2026-01-14,74057,UPCOMING,Foxborough Charter,4588,,,Wayland,4411,,,Charter School Athletic,Dual County,6:00 P.M.,,0
+2026-01-14,75550,UPCOMING,Milton,4252,,,Canton,4071,,,Bay State,Hockomock,6:30 P.M.,,0
+2026-01-14,75684,UPCOMING,East Boston,4125,,,Snowden,4452,,,Boston City,Boston City,4:00 P.M.,,0
+2026-01-14,75747,UPCOMING,Fenway,4492,,,New Mission,4494,,,Boston City,Boston City,5:30 P.M.,,0
+2026-01-14,76006,UPCOMING,Beverly,4038,,,Amesbury,4007,,,Northeastern,Cape Ann,6:00 P.M.,,0
+2026-01-14,76043,UPCOMING,Dracut,4119,,,Lowell,4216,,,Merrimack Valley,Merrimack Valley,7:00 P.M.,,0
+2026-01-14,76150,UPCOMING,Holbrook,4172,,,West Bridgewater,4415,,,Mayflower,South Coast,6:30 P.M.,,0
+2026-01-14,76251,UPCOMING,Melrose,4244,,,Weston,4423,,,Middlesex,Dual County,6:30 P.M.,,0
+2026-01-14,76252,UPCOMING,Melrose,4244,,,Waltham,4405,,,Middlesex,Dual County,6:30 P.M.,,0
+2026-01-14,76269,UPCOMING,Maynard,4239,,,Lincoln-Sudbury,4211,,,Mid-Wach,Dual County,7:00 P.M.,,0
+2026-01-14,76323,UPCOMING,Hull,4184,,,Abington,4002,,,South Shore,South Shore,5:30 P.M.,,0

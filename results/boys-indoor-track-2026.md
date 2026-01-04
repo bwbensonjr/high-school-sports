@@ -1,6 +1,6 @@
 # Boys Indoor Track - 2026 Season
 
-Generated: 2026-01-03 11:15
+Generated: 2026-01-04 11:15
 
 ## Upcoming Games
 
@@ -29,15 +29,15 @@ Generated: 2026-01-03 11:15
 | 10 | Oliver Ames | 1555.3 |
 | 11 | Stoughton | 1550.7 |
 | 12 | Bishop Feehan | 1549.6 |
-| 13 | Mansfield | 1548.4 |
-| 14 | Taunton | 1548.4 |
+| 13 | Taunton | 1548.4 |
+| 14 | Mansfield | 1548.4 |
 | 15 | Franklin | 1539.3 |
 | 16 | Attleboro | 1539.0 |
 | 17 | Weymouth | 1536.6 |
 | 18 | Old Rochester | 1535.7 |
 | 19 | Norton | 1531.2 |
-| 20 | Marshfield | 1531.1 |
-| 21 | North Andover | 1531.1 |
+| 20 | North Andover | 1531.1 |
+| 21 | Marshfield | 1531.1 |
 | 22 | Southeastern | 1526.2 |
 | 23 | Diman | 1526.0 |
 | 24 | Nauset | 1524.8 |

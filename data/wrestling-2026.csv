@@ -22,3 +22,44 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-31,75373,FINAL,Worcester Tech,4445,9,0,Burlington,4065,71,1,Independent,Middlesex,,,0
 2025-12-31,75375,FINAL,Saugus/Peabody,4341,55,1,Burlington,4065,18,0,Northeastern,Middlesex,,,0
 2026-01-01,76316,FINAL,Winchester,4434,45,1,Wellesley,4413,30,0,Middlesex,Bay State,,,0
+2026-01-02,77266,FINAL,Wilmington,4432,20,0,Burlington,4065,58,1,Middlesex,Middlesex,,,0
+2026-01-03,77097,FINAL,East Longmeadow,4127,24,0,Wayland,4411,33,1,Independent,Dual County,,,0
+2026-01-03,77099,FINAL,Westfield/Westfield Tech,4419,11,0,Wayland,4411,47,1,Independent,Dual County,,,0
+2026-01-03,77100,FINAL,Monty Tech/Fitchburg,4259,7,0,Wayland,4411,49,1,Independent,Dual County,,,0
+2026-01-03,77106,FINAL,Sharon,4345,20,0,Whittier,4428,55,1,Hockomock,Commonwealth,,,0
+2026-01-03,77109,FINAL,Sharon,4345,45,1,Bellingham,4033,33,0,Hockomock,Tri-Valley,,,0
+2026-01-03,77111,FINAL,Sharon,4345,59,1,Mansfield,4230,24,0,Hockomock,Hockomock,,,0
+2026-01-03,77112,FINAL,Newton South,4280,32,0,Braintree,4051,44,1,Dual County,Bay State,,,0
+2026-01-03,77113,FINAL,Danvers,4103,23,0,Lynnfield/North Reading,4223,53,1,Northeastern,Cape Ann,,,0
+2026-01-03,77116,FINAL,Triton,4395,15,0,Wakefield,4402,55,1,Cape Ann,Middlesex,,,0
+2026-01-03,77121,FINAL,Weymouth,4425,50,1,Plymouth North,4315,16,0,Bay State,Patriot,,,0
+2026-01-03,77125,FINAL,Franklin,4144,24,0,Mt. Hope (R.I.),4658,50,1,Hockomock,Independent,,,0
+2026-01-03,77126,FINAL,Brookline,4059,18,0,Agawam,4004,63,1,Bay State,Independent,,,0
+2026-01-03,77128,FINAL,Mt. Hope (R.I.),4658,70,1,Brookline,4059,12,0,Independent,Bay State,,,0
+2026-01-03,77129,FINAL,Franklin,4144,27,0,Agawam,4004,54,1,Hockomock,Independent,,,0
+2026-01-03,77131,FINAL,Mt. Hope (R.I.),4658,52,1,Agawam,4004,30,0,Independent,Independent,,,0
+2026-01-03,77133,FINAL,Franklin,4144,56,1,Brookline,4059,17,0,Hockomock,Bay State,,,0
+2026-01-03,77135,FINAL,Algonquin,4005,7,0,Salem (N.H.),4337,69,1,Mid-Wach,Independent,,,0
+2026-01-03,77138,FINAL,Natick,4270,45,1,Hopkinton,4180,36,0,Bay State,Tri-Valley,,,0
+2026-01-03,77139,FINAL,Salem (N.H.),4337,59,1,Hopkinton,4180,10,0,Independent,Tri-Valley,,,0
+2026-01-03,77141,FINAL,Natick,4270,60,1,Algonquin,4005,6,0,Bay State,Mid-Wach,,,0
+2026-01-03,77144,FINAL,Natick,4270,45,1,Salem (N.H.),4337,35,0,Bay State,Independent,,,0
+2026-01-03,77147,FINAL,Algonquin,4005,24,0,Hopkinton,4180,47,1,Mid-Wach,Tri-Valley,,,0
+2026-01-03,77148,FINAL,Natick,4270,37,0,Mt. Hope (R.I.),4658,41,1,Bay State,Independent,,,0
+2026-01-03,77164,FINAL,Gloucester,4150,28,0,Pentucket,4309,50,1,Northeastern,Cape Ann,,,0
+2026-01-03,77173,FINAL,Excel Academy,4969,27,0,Pentucket,4309,46,1,Independent,Cape Ann,,,0
+2026-01-03,77179,FINAL,Scituate,4343,35,0,Pentucket,4309,44,1,Patriot,Cape Ann,,,0
+2026-01-03,77205,FINAL,Weymouth,4425,48,1,Oliver Ames,4302,30,0,Bay State,Hockomock,,,0
+2026-01-03,77206,FINAL,Weymouth,4425,48,1,Brockton,4058,25,0,Bay State,Big Three,,,0
+2026-01-03,77243,FINAL,Burlington,4065,40,1,Reading,4328,36,0,Middlesex,Middlesex,,,0
+2026-01-03,77246,FINAL,King Philip,4197,30,0,Rockland,4331,54,1,Hockomock,South Shore,,,0
+2026-01-03,77249,FINAL,Burlington,4065,29,1,Stoughton,4381,12,0,Middlesex,Hockomock,,,0
+2026-01-03,77252,FINAL,Barnstable,4024,0,0,Rockland,4331,69,1,Pioneer,South Shore,,,0
+2026-01-03,77255,FINAL,Burlington,4065,44,1,Bedford / A-B,4031,34,0,Middlesex,Dual County,,,0
+2026-01-03,77258,FINAL,Belmont,4034,36,0,Rockland,4331,46,1,Middlesex,South Shore,,,0
+2026-01-03,77265,FINAL,Quincy/North Quincy,4326,28,0,Rockland,4331,53,1,Patriot,South Shore,,,0
+2026-01-03,77278,FINAL,Braintree,4051,24,0,Roxbury Latin,4334,52,1,Bay State,ISL,,,0
+2026-01-03,77285,FINAL,Wilmington,4432,18,0,Watertown,4409,60,1,Middlesex,Middlesex,,,0
+2026-01-03,77287,FINAL,Lynn Tech,4222,6,0,Watertown,4409,70,1,Independent,Middlesex,,,0
+2026-01-03,77304,FINAL,Boston Latin,4049,34,0,Roxbury Latin,4334,43,1,Dual County,ISL,,,0
+2026-01-03,77307,FINAL,Newton South,4280,27,0,Roxbury Latin,4334,45,1,Dual County,ISL,,,0

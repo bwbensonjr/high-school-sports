@@ -1,0 +1,4 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
+2026-01-02,77094,FINAL,North Andover,4283,18,1,Greater Lawrence,4154,9,0,Merrimack Valley,Independent,,,0
+2026-01-02,77095,FINAL,North Andover,4283,30,1,Framingham,4143,18,0,Merrimack Valley,Bay State,,,0
+2026-01-02,77096,FINAL,North Andover,4283,21,0,Springfield Central,4360,33,1,Merrimack Valley,Independent,,,0
