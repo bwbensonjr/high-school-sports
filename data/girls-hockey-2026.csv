@@ -143,11 +143,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-03,74639,FINAL,Hopkinton,4180,7,1,Ashland/Medway,4243,0,0,Tri-Valley,Tri-Valley,12:00 P.M.,,0
 2026-01-03,77239,FINAL,North Yarmouth (Maine),4290,1,0,Austin Prep,4020,3,1,Independent,Independent,,,0
 2026-01-03,77259,FINAL,Longmeadow,4214,1,2,Pope Francis,4796,1,2,Central/West,Central/West,,,0
-2026-01-04,70990,UPCOMING,Brookline,4059,,,Newton North,4279,,,Bay State,Bay State,12:00 P.M.,,0
-2026-01-04,71446,UPCOMING,Latin Academy/Fontbonne,4202,,,Bishop Fenwick,4043,,,Independent,Catholic Central,4:00 P.M.,,0
-2026-01-04,71628,UPCOMING,Billerica/Chelmsford,4040,,,Mansfield/OA/Foxboro,4230,,,Merrimack Valley/Dual County,Hockomock,3:30 P.M.,,0
-2026-01-04,72613,UPCOMING,Wakefield,4402,,,Melrose,4244,,,Middlesex,Middlesex,11:00 A.M.,,0
-2026-01-04,72615,UPCOMING,Longmeadow,4214,,,Algonquin,4005,,,Central/West,Central/West,4:40 P.M.,,0
+2026-01-04,70990,FINAL,Brookline,4059,3,1,Newton North,4279,1,0,Bay State,Bay State,12:00 P.M.,,0
+2026-01-04,71446,FINAL,Latin Academy/Fontbonne,4202,0,0,Bishop Fenwick,4043,4,1,Independent,Catholic Central,4:00 P.M.,,0
+2026-01-04,71628,FINAL,Billerica/Chelmsford,4040,5,1,Mansfield/OA/Foxboro,4230,2,0,Merrimack Valley/Dual County,Hockomock,3:30 P.M.,,0
+2026-01-04,72613,FINAL,Wakefield,4402,4,1,Melrose,4244,2,0,Middlesex,Middlesex,11:00 A.M.,,0
+2026-01-04,72615,FINAL,Longmeadow,4214,1,0,Algonquin,4005,7,1,Central/West,Central/West,4:40 P.M.,,0
 2026-01-04,72618,UPCOMING,Central Catholic,4081,,,Methuen/Tewksbury,4246,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,4:55 P.M.,,0
 2026-01-05,71267,UPCOMING,Sandwich,4340,,,Plymouth,4315,,,Cape & Islands,Patriot,7:00 P.M.,,0
 2026-01-05,71617,UPCOMING,Wayland/Weston,4411,,,King Philip,4197,,,Merrimack Valley/Dual County,Hockomock,6:00 P.M.,,0
@@ -270,3 +270,5 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-14,72753,UPCOMING,Algonquin,4005,,,Peabody,4306,,,Central/West,Northeast,6:00 P.M.,,0
 2026-01-14,72754,UPCOMING,Winthrop,4437,,,Beverly/Danvers,4038,,,Northeast,Northeast,6:10 P.M.,,0
 2026-01-14,72755,UPCOMING,Pope Francis,4796,,,Auburn,4019,,,Central/West,Independent,6:30 P.M.,,0
+2026-01-15,72399,UPCOMING,Shawsheen/Bedford/Lowell,4346,,,Westford,4421,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,5:00 P.M.,,0
+2026-01-15,72456,UPCOMING,Andover,4009,,,HPNA,4283,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,7:10 P.M.,,0

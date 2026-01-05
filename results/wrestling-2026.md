@@ -1,6 +1,6 @@
 # Wrestling - 2026 Season
 
-Generated: 2026-01-04 11:15
+Generated: 2026-01-05 11:18
 
 ## Upcoming Games
 
@@ -11,9 +11,8 @@ Generated: 2026-01-04 11:15
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-01-03 | Franklin | 27 | Agawam | 54 | -2.9 | -27.0 |
 | 2026-01-03 | Mt. Hope (R.I.) | 52 | Agawam | 30 | +1.4 | +22.0 |
-| 2026-01-03 | Algonquin | 7 | Salem (N.H.) | 69 | +3.1 | -62.0 |
+| 2026-01-03 | Franklin | 56 | Brookline | 17 | +2.1 | +39.0 |
 | 2026-01-03 | Natick | 45 | Hopkinton | 36 | +3.0 | +9.0 |
 | 2026-01-03 | Salem (N.H.) | 59 | Hopkinton | 10 | +6.0 | +49.0 |
 | 2026-01-03 | Natick | 60 | Algonquin | 6 | +6.1 | +54.0 |
@@ -36,12 +35,13 @@ Generated: 2026-01-04 11:15
 | 2026-01-03 | Wilmington | 18 | Watertown | 60 | -2.1 | -42.0 |
 | 2026-01-03 | Lynn Tech | 6 | Watertown | 70 | -3.0 | -64.0 |
 | 2026-01-03 | Boston Latin | 34 | Roxbury Latin | 43 | -7.4 | -9.0 |
-| 2026-01-03 | Franklin | 56 | Brookline | 17 | +2.1 | +39.0 |
 | 2026-01-03 | Newton South | 27 | Roxbury Latin | 45 | -9.9 | -18.0 |
-| 2026-01-03 | East Longmeadow | 24 | Wayland | 33 | +2.1 | -9.0 |
-| 2026-01-03 | Newton South | 32 | Braintree | 44 | +3.1 | -12.0 |
-| 2026-01-03 | Mt. Hope (R.I.) | 70 | Brookline | 12 | +6.9 | +58.0 |
+| 2026-01-03 | Algonquin | 7 | Salem (N.H.) | 69 | +3.1 | -62.0 |
+| 2026-01-03 | Braintree | 44 | Boston Latin | 34 | +2.2 | +10.0 |
 | 2026-01-03 | Westfield/Westfield Tech | 11 | Wayland | 47 | +0.5 | -36.0 |
+| 2026-01-03 | Newton South | 32 | Braintree | 44 | +3.1 | -12.0 |
+| 2026-01-03 | East Longmeadow | 24 | Wayland | 33 | +2.1 | -9.0 |
+| 2026-01-03 | Franklin | 27 | Agawam | 54 | -2.9 | -27.0 |
 | 2026-01-03 | Sharon | 20 | Whittier | 55 | +8.0 | -35.0 |
 | 2026-01-03 | Sharon | 45 | Bellingham | 33 | +3.4 | +12.0 |
 | 2026-01-03 | Sharon | 59 | Mansfield | 24 | +4.6 | +35.0 |
@@ -51,6 +51,7 @@ Generated: 2026-01-04 11:15
 | 2026-01-03 | Weymouth | 50 | Plymouth North | 16 | +1.2 | +34.0 |
 | 2026-01-03 | Franklin | 24 | Mt. Hope (R.I.) | 50 | +2.0 | -26.0 |
 | 2026-01-03 | Brookline | 18 | Agawam | 63 | +2.0 | -45.0 |
+| 2026-01-03 | Mt. Hope (R.I.) | 70 | Brookline | 12 | +6.9 | +58.0 |
 | 2026-01-02 | Wilmington | 20 | Burlington | 58 | -0.7 | -38.0 |
 | 2026-01-01 | Winchester | 45 | Wellesley | 30 | -0.8 | +15.0 |
 | 2025-12-31 | Saugus/Peabody | 55 | Burlington | 18 | -3.4 | +37.0 |
@@ -112,64 +113,64 @@ Generated: 2026-01-04 11:15
 | 41 | Taunton | 1529.3 |
 | 42 | Hanover | 1526.6 |
 | 43 | Northbridge | 1524.8 |
-| 44 | Nauset | 1524.2 |
-| 45 | Newton North | 1524.2 |
+| 44 | Newton North | 1524.2 |
+| 45 | Nauset | 1524.2 |
 | 46 | Dedham | 1522.7 |
 | 47 | Needham | 1521.7 |
 | 48 | Greens Farms | 1521.7 |
-| 49 | Quincy Upper | 1518.3 |
-| 50 | Holliston | 1513.7 |
-| 51 | Latin Academy | 1512.4 |
-| 52 | Trinity-Pawling | 1508.5 |
-| 53 | Framingham | 1508.1 |
-| 54 | St. John’s Prep | 1503.3 |
-| 55 | Westford | 1503.2 |
-| 56 | North Reading | 1502.8 |
-| 57 | Scituate | 1502.0 |
-| 58 | Middlesex | 1492.0 |
-| 59 | Beaver Country Day | 1491.7 |
-| 60 | St. Sebastian’s | 1491.7 |
-| 61 | Braintree | 1490.6 |
+| 49 | Braintree | 1520.9 |
+| 50 | Quincy Upper | 1518.3 |
+| 51 | Holliston | 1513.7 |
+| 52 | Latin Academy | 1512.4 |
+| 53 | Trinity-Pawling | 1508.5 |
+| 54 | Framingham | 1508.1 |
+| 55 | St. John’s Prep | 1503.3 |
+| 56 | Westford | 1503.2 |
+| 57 | North Reading | 1502.8 |
+| 58 | Scituate | 1502.0 |
+| 59 | Middlesex | 1492.0 |
+| 60 | Beaver Country Day | 1491.7 |
+| 61 | St. Sebastian’s | 1491.7 |
 | 62 | Hingham | 1490.4 |
 | 63 | Reading | 1489.5 |
 | 64 | Concord-Carlisle | 1486.8 |
-| 65 | Boston Latin | 1485.0 |
-| 66 | BC High | 1483.5 |
-| 67 | Somerset Berkley | 1482.6 |
-| 68 | Whitman-Hanson | 1482.5 |
-| 69 | Durfee | 1481.4 |
-| 70 | North Andover | 1480.4 |
-| 71 | Malden/Everett | 1479.6 |
-| 72 | Pembroke | 1478.9 |
-| 73 | Haverhill | 1476.6 |
-| 74 | Andover | 1476.2 |
-| 75 | Milton | 1474.2 |
-| 76 | Belmont | 1473.6 |
-| 77 | Bellingham | 1473.5 |
-| 78 | Marblehead/Swampscott | 1472.4 |
-| 79 | North Middlesex | 1472.1 |
-| 80 | Canton | 1471.3 |
-| 81 | Londonderry (N.H.) | 1470.4 |
-| 82 | Lincoln-Sudbury | 1470.4 |
-| 83 | Brockton | 1470.2 |
-| 84 | Keene (N.H.) | 1470.0 |
-| 85 | Nashoba Valley Tech | 1469.0 |
-| 86 | Oliver Ames | 1468.5 |
-| 87 | Marshfield | 1467.8 |
-| 88 | Northeast/Bishop Fenwick | 1467.8 |
-| 89 | Hopkinton | 1467.6 |
-| 90 | Mansfield | 1466.1 |
-| 91 | BB&N | 1465.3 |
-| 92 | Deerfield | 1464.9 |
-| 93 | Malden Catholic | 1464.0 |
-| 94 | Lexington Christian | 1463.8 |
-| 95 | Keefe Tech | 1463.6 |
-| 96 | East Longmeadow | 1463.0 |
-| 97 | Excel Academy | 1462.3 |
-| 98 | Phillips Exeter | 1461.7 |
-| 99 | Pomfret | 1460.2 |
-| 100 | Lawrence | 1458.8 |
-| 101 | Landmark | 1456.4 |
+| 65 | BC High | 1483.5 |
+| 66 | Somerset Berkley | 1482.6 |
+| 67 | Whitman-Hanson | 1482.5 |
+| 68 | Durfee | 1481.4 |
+| 69 | North Andover | 1480.4 |
+| 70 | Malden/Everett | 1479.6 |
+| 71 | Pembroke | 1478.9 |
+| 72 | Haverhill | 1476.6 |
+| 73 | Andover | 1476.2 |
+| 74 | Milton | 1474.2 |
+| 75 | Belmont | 1473.6 |
+| 76 | Bellingham | 1473.5 |
+| 77 | Marblehead/Swampscott | 1472.4 |
+| 78 | North Middlesex | 1472.1 |
+| 79 | Canton | 1471.3 |
+| 80 | Londonderry (N.H.) | 1470.4 |
+| 81 | Lincoln-Sudbury | 1470.4 |
+| 82 | Brockton | 1470.2 |
+| 83 | Keene (N.H.) | 1470.0 |
+| 84 | Nashoba Valley Tech | 1469.0 |
+| 85 | Oliver Ames | 1468.5 |
+| 86 | Marshfield | 1467.8 |
+| 87 | Northeast/Bishop Fenwick | 1467.8 |
+| 88 | Hopkinton | 1467.6 |
+| 89 | Mansfield | 1466.1 |
+| 90 | BB&N | 1465.3 |
+| 91 | Deerfield | 1464.9 |
+| 92 | Malden Catholic | 1464.0 |
+| 93 | Lexington Christian | 1463.8 |
+| 94 | Keefe Tech | 1463.6 |
+| 95 | East Longmeadow | 1463.0 |
+| 96 | Excel Academy | 1462.3 |
+| 97 | Phillips Exeter | 1461.7 |
+| 98 | Pomfret | 1460.2 |
+| 99 | Lawrence | 1458.8 |
+| 100 | Landmark | 1456.4 |
+| 101 | Boston Latin | 1454.7 |
 | 102 | Plymouth North | 1454.2 |
 | 103 | Franklin | 1453.5 |
 | 104 | Weston | 1451.1 |

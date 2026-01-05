@@ -324,8 +324,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-03,77118,FINAL,Nobles,4282,3,0,Williston Northampton,4431,4,1,ISL,Independent,,,0
 2026-01-03,77290,FINAL,St. George’s,4367,5,1,Milton Academy,4253,4,0,ISL,ISL,,1.0,0
 2026-01-03,77311,FINAL,Medford,4242,3,1,Lexington,4209,2,0,Greater Boston,Independent,4:00 P.M.,,0
-2026-01-04,67846,UPCOMING,Arlington,4013,,,Pope Francis,4796,,,Middlesex,Independent,6:30 P.M.,,0
-2026-01-04,72110,UPCOMING,Brookline,4059,,,Newton North,4279,,,Bay State,Bay State,2:00 P.M.,,0
+2026-01-04,67846,FINAL,Arlington,4013,2,1,Pope Francis,4796,1,0,Middlesex,Independent,6:30 P.M.,,0
+2026-01-04,72110,FINAL,Brookline,4059,0,0,Newton North,4279,4,1,Bay State,Bay State,2:00 P.M.,,0
 2026-01-05,64994,UPCOMING,Catholic Memorial,4080,,,Hingham,4171,,,Catholic Conference,Independent,7:00 P.M.,,0
 2026-01-05,67717,UPCOMING,Marshfield,4234,,,Natick,4270,,,Patriot,Bay State,7:20 P.M.,,0
 2026-01-05,68017,UPCOMING,Dennis-Yarmouth,4111,,,Hull/Cohasset,4094,,,Cape & Islands,South Shore,6:00 P.M.,,0
@@ -580,3 +580,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-14,76583,UPCOMING,Minuteman,4255,,,Everett/Revere,4132,,,Commonwealth,Greater Boston,8:00 P.M.,,0
 2026-01-14,76586,UPCOMING,Masconomet,4236,,,Winthrop,4437,,,Northeastern,Northeastern,8:05 P.M.,,0
 2026-01-14,76588,UPCOMING,Lynnfield,4223,,,Pentucket,4309,,,Cape Ann,Cape Ann,8:15 P.M.,,0
+2026-01-15,69147,UPCOMING,Franklin,4144,,,Oliver Ames,4302,,,Hockomock,Hockomock,7:30 P.M.,,0
+2026-01-15,76589,UPCOMING,Amherst-Pelham,4008,,,Easthampton,4130,,,Fay Division,Wright Division,5:00 P.M.,,0
+2026-01-15,76592,UPCOMING,Ludlow,4218,,,Minnechaug,4254,,,Fay Division,Berry Division,6:30 P.M.,,0
+2026-01-15,76594,UPCOMING,Shawsheen,4346,,,Essex Tech,4745,,,Commonwealth,Cape Ann,7:15 P.M.,,0
