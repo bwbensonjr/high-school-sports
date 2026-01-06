@@ -1,6 +1,6 @@
 # Wrestling - 2026 Season
 
-Generated: 2026-01-05 11:18
+Generated: 2026-01-06 11:17
 
 ## Upcoming Games
 
@@ -113,8 +113,8 @@ Generated: 2026-01-05 11:18
 | 41 | Taunton | 1529.3 |
 | 42 | Hanover | 1526.6 |
 | 43 | Northbridge | 1524.8 |
-| 44 | Newton North | 1524.2 |
-| 45 | Nauset | 1524.2 |
+| 44 | Nauset | 1524.2 |
+| 45 | Newton North | 1524.2 |
 | 46 | Dedham | 1522.7 |
 | 47 | Needham | 1521.7 |
 | 48 | Greens Farms | 1521.7 |
@@ -155,8 +155,8 @@ Generated: 2026-01-05 11:18
 | 83 | Keene (N.H.) | 1470.0 |
 | 84 | Nashoba Valley Tech | 1469.0 |
 | 85 | Oliver Ames | 1468.5 |
-| 86 | Marshfield | 1467.8 |
-| 87 | Northeast/Bishop Fenwick | 1467.8 |
+| 86 | Northeast/Bishop Fenwick | 1467.8 |
+| 87 | Marshfield | 1467.8 |
 | 88 | Hopkinton | 1467.6 |
 | 89 | Mansfield | 1466.1 |
 | 90 | BB&N | 1465.3 |
