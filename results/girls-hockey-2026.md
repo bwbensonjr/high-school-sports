@@ -1,138 +1,171 @@
 # Girls Hockey - 2026 Season
 
-Generated: 2026-01-06 11:17
+Generated: 2026-01-07 11:18
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-01-06 | 7:10 P.M. | Andover | Boston Latin | 46.4% | -1.0 |
-| 2026-01-06 | 3:30 P.M. | Central Catholic | Burlington | 55.6% | +1.6 |
+| 2026-01-07 | 7:00 P.M. | Milton | Natick | 65.1% | +4.3 |
 | 2026-01-07 | 5:00 P.M. | Hingham | Plymouth | 74.7% | +7.5 |
 | 2026-01-07 | 5:00 P.M. | Belmont | Arlington | 57.1% | +2.0 |
-| 2026-01-07 | 5:00 P.M. | Malden Catholic | Notre Dame (Hingham) | 42.7% | -2.1 |
+| 2026-01-07 | 5:00 P.M. | Malden Catholic | Notre Dame (Hingham) | 41.6% | -2.4 |
 | 2026-01-07 | 5:00 P.M. | Winchester | Woburn | 45.4% | -1.3 |
 | 2026-01-07 | 5:10 P.M. | Medfield | Westwood | 51.2% | +0.3 |
+| 2026-01-07 | 5:20 P.M. | Duxbury | Nauset/Monomoy | 74.1% | +7.3 |
+| 2026-01-07 | 4:00 P.M. | Ursuline | East/West Bridgewater | 56.0% | +1.7 |
 | 2026-01-07 | 5:30 P.M. | Beverly/Danvers | Medford | 68.6% | +5.4 |
-| 2026-01-07 | 6:00 P.M. | Quincy/North Quincy | Hanover | 53.8% | +1.1 |
-| 2026-01-07 | 6:00 P.M. | Newburyport | Masconomet | 60.6% | +3.0 |
 | 2026-01-07 | 6:00 P.M. | Gloucester | Marblehead | 48.6% | -0.4 |
 | 2026-01-07 | 6:00 P.M. | Melrose | Burlington | 58.0% | +2.2 |
 | 2026-01-07 | 6:10 P.M. | Wakefield | Peabody | 66.2% | +4.7 |
 | 2026-01-07 | 7:15 P.M. | Lexington | Reading | 42.1% | -2.2 |
 | 2026-01-07 | 7:30 P.M. | Ashland/Medway | Dedham | 40.8% | -2.6 |
 | 2026-01-07 | 7:50 P.M. | NSA | Whitman-Hanson/Silver Lake | 67.3% | +5.0 |
-| 2026-01-07 | 4:00 P.M. | Ursuline | East/West Bridgewater | 56.0% | +1.7 |
+| 2026-01-07 | 6:00 P.M. | Newburyport | Masconomet | 60.6% | +3.0 |
 | 2026-01-07 | 4:00 P.M. | Concord-Carlisle | Central Catholic | 51.8% | +0.5 |
-| 2026-01-07 | 5:20 P.M. | Duxbury | Nauset/Monomoy | 75.0% | +7.6 |
+| 2026-01-07 | 6:00 P.M. | Quincy/North Quincy | Hanover | 53.8% | +1.1 |
 | 2026-01-07 | 4:00 P.M. | Grafton | Shrewsbury | 63.6% | +3.9 |
 | 2026-01-07 | 6:30 P.M. | Wayland/Weston | Shawsheen/Bedford/Lowell | 42.9% | -2.0 |
-| 2026-01-07 | 7:00 P.M. | Milton | Natick | 65.2% | +4.4 |
 | 2026-01-07 | 6:00 P.M. | Needham | Newton North | 59.1% | +2.6 |
 | 2026-01-07 | 6:00 P.M. | Brookline | Weymouth | 78.7% | +9.1 |
 | 2026-01-07 | 6:00 P.M. | Braintree | Framingham | 57.4% | +2.1 |
-| 2026-01-07 | 4:00 P.M. | Dennis-Yarmouth | Martha’s Vineyard | 63.4% | +3.8 |
+| 2026-01-07 | 6:00 P.M. | Wellesley/L-S | Walpole | 61.0% | +3.1 |
 | 2026-01-07 | 5:15 P.M. | Nantucket | Barnstable | 50.3% | +0.1 |
 | 2026-01-07 | 5:00 P.M. | Falmouth | Marshfield | 61.3% | +3.2 |
-| 2026-01-07 | 6:00 P.M. | Wellesley/L-S | Walpole | 61.0% | +3.1 |
-| 2026-01-07 | 6:00 P.M. | Arlington Catholic | Bishop Feehan | 62.4% | +3.5 |
+| 2026-01-07 | 4:00 P.M. | Dennis-Yarmouth | Martha’s Vineyard | 63.4% | +3.8 |
+| 2026-01-07 | 8:00 P.M. | St. Mary’s | Bishop Fenwick | 67.7% | +5.1 |
+| 2026-01-07 | 6:00 P.M. | Arlington Catholic | Bishop Feehan | 62.3% | +3.5 |
 | 2026-01-07 | 8:00 P.M. | Bishop Stang | Archbishop Williams | 66.0% | +4.6 |
 | 2026-01-07 | 7:40 P.M. | Mansfield/OA/Foxboro | Franklin | 62.9% | +3.7 |
 | 2026-01-07 | 4:00 P.M. | Canton | Stoughton | 65.2% | +4.4 |
 | 2026-01-07 | 7:00 P.M. | Methuen/Tewksbury | HPNA | 56.6% | +1.9 |
 | 2026-01-07 | 8:05 P.M. | Acton-Boxboro | Westford | 60.6% | +3.0 |
-| 2026-01-07 | 8:00 P.M. | St. Mary’s | Bishop Fenwick | 67.7% | +5.1 |
-| 2026-01-10 | 2:00 P.M. | Latin Academy/Fontbonne | Nantucket | 56.1% | +1.7 |
-| 2026-01-10 | 4:15 P.M. | Burlington | Wakefield | 52.9% | +0.8 |
+| 2026-01-10 | 4:00 P.M. | Stoneham/Wilmington | Masconomet | 56.4% | +1.8 |
 | 2026-01-10 | 2:45 P.M. | Arlington | Reading | 45.3% | -1.3 |
 | 2026-01-10 | 3:25 P.M. | Marshfield | Whitman-Hanson/Silver Lake | 57.6% | +2.1 |
-| 2026-01-10 | 4:00 P.M. | Peabody | Andover | 53.1% | +0.9 |
+| 2026-01-10 | 3:00 P.M. | Norwood | Pembroke | 36.8% | -3.8 |
+| 2026-01-10 | 4:00 P.M. | Peabody | Andover | 51.5% | +0.4 |
 | 2026-01-10 | 4:00 P.M. | Gloucester | Melrose | 48.6% | -0.4 |
-| 2026-01-10 | 4:00 P.M. | Stoneham/Wilmington | Masconomet | 56.4% | +1.8 |
-| 2026-01-10 | 4:15 P.M. | NSA | Plymouth | 70.4% | +6.0 |
-| 2026-01-10 | 8:00 P.M. | Hingham | Quincy/North Quincy | 69.4% | +5.7 |
-| 2026-01-10 | 5:10 P.M. | Westwood | Duxbury | 58.7% | +2.4 |
+| 2026-01-10 | 2:00 P.M. | Latin Academy/Fontbonne | Nantucket | 56.1% | +1.7 |
+| 2026-01-10 | 4:15 P.M. | Burlington | Wakefield | 52.9% | +0.8 |
+| 2026-01-10 | 7:30 P.M. | Stoughton | Ursuline | 54.7% | +1.3 |
+| 2026-01-10 | 5:00 P.M. | Cambridge | Concord-Carlisle | 55.2% | +1.4 |
+| 2026-01-10 | 5:10 P.M. | Westwood | Duxbury | 59.8% | +2.8 |
 | 2026-01-10 | 6:00 P.M. | Beverly/Danvers | Newburyport | 72.2% | +6.6 |
 | 2026-01-10 | 6:10 P.M. | East/West Bridgewater | Hanover | 53.2% | +0.9 |
 | 2026-01-10 | 6:15 P.M. | Acton-Boxboro | Wayland/Weston | 61.9% | +3.4 |
 | 2026-01-10 | 6:40 P.M. | Shawsheen/Bedford/Lowell | Waltham | 67.5% | +5.1 |
-| 2026-01-10 | 7:30 P.M. | Stoughton | Ursuline | 54.7% | +1.3 |
+| 2026-01-10 | 8:00 P.M. | Hingham | Quincy/North Quincy | 69.4% | +5.7 |
 | 2026-01-10 | 1:00 P.M. | Belmont | Woburn | 41.7% | -2.3 |
-| 2026-01-10 | 5:00 P.M. | Cambridge | Concord-Carlisle | 55.2% | +1.4 |
+| 2026-01-10 | 4:15 P.M. | NSA | Plymouth | 70.4% | +6.0 |
 | 2026-01-10 | 1:00 P.M. | Winthrop | Medford | 69.3% | +5.7 |
-| 2026-01-10 | 3:00 P.M. | Norwood | Pembroke | 36.8% | -3.8 |
+| 2026-01-10 | 6:30 P.M. | Weymouth | Framingham | 38.0% | -3.4 |
 | 2026-01-10 | 12:00 P.M. | Winchester | Lexington | 63.8% | +3.9 |
 | 2026-01-10 | 7:20 P.M. | Natick | Braintree | 64.7% | +4.2 |
-| 2026-01-10 | 2:20 P.M. | Newton North | Milton | 30.7% | -5.6 |
+| 2026-01-10 | 2:20 P.M. | Newton North | Milton | 30.8% | -5.6 |
 | 2026-01-10 | 1:15 P.M. | Walpole | Brookline | 39.6% | -2.9 |
-| 2026-01-10 | 6:30 P.M. | Weymouth | Framingham | 38.0% | -3.4 |
 | 2026-01-10 | 5:30 P.M. | Wellesley/L-S | Needham | 58.2% | +2.3 |
 | 2026-01-10 | 5:10 P.M. | Nauset/Monomoy | Dennis-Yarmouth | 48.9% | -0.3 |
 | 2026-01-10 | 4:00 P.M. | Sandwich | Barnstable | 58.6% | +2.4 |
-| 2026-01-10 | 5:40 P.M. | Archbishop Williams | Bishop Feehan | 65.0% | +4.3 |
+| 2026-01-10 | 12:30 P.M. | Malden Catholic | Pope Francis | 56.3% | +1.8 |
+| 2026-01-10 | 5:40 P.M. | Archbishop Williams | Bishop Feehan | 64.9% | +4.3 |
 | 2026-01-10 | 4:00 P.M. | Falmouth | Martha’s Vineyard | 59.8% | +2.8 |
 | 2026-01-10 | 3:30 P.M. | Bishop Stang | Bishop Fenwick | 66.8% | +4.9 |
 | 2026-01-10 | 5:10 P.M. | Medfield | King Philip | 53.9% | +1.1 |
 | 2026-01-10 | 12:00 P.M. | Hopkinton | Canton | 58.0% | +2.2 |
-| 2026-01-10 | 12:30 P.M. | Malden Catholic | Pope Francis | 56.3% | +1.8 |
 | 2026-01-10 | 3:00 P.M. | Ashland/Medway | Franklin | 53.6% | +1.0 |
 | 2026-01-10 | 5:00 P.M. | Billerica/Chelmsford | Methuen/Tewksbury | 51.5% | +0.4 |
 | 2026-01-10 | 3:00 P.M. | Westford | Central Catholic | 60.8% | +3.0 |
 | 2026-01-10 | 2:00 P.M. | HPNA | Shrewsbury | 65.0% | +4.3 |
 | 2026-01-10 | 6:00 P.M. | St. Mary’s | Arlington Catholic | 69.3% | +5.7 |
-| 2026-01-11 | 1:30 P.M. | Sandwich | Nauset/Monomoy | 53.9% | +1.1 |
 | 2026-01-11 | 3:40 P.M. | Longmeadow | Billerica/Chelmsford | 46.3% | -1.0 |
+| 2026-01-11 | 1:30 P.M. | Sandwich | Nauset/Monomoy | 54.0% | +1.1 |
 | 2026-01-12 | 8:05 P.M. | Acton-Boxboro | Shrewsbury | 55.3% | +1.5 |
 | 2026-01-12 | 5:00 P.M. | Methuen/Tewksbury | Shawsheen/Bedford/Lowell | 57.4% | +2.1 |
 | 2026-01-12 | 7:00 P.M. | Brookline | Belmont | 67.0% | +4.9 |
-| 2026-01-12 | 5:20 P.M. | Duxbury | Canton | 69.4% | +5.7 |
+| 2026-01-12 | 5:20 P.M. | Duxbury | Canton | 68.4% | +5.4 |
 | 2026-01-13 | 5:00 P.M. | Westwood | Franklin | 80.3% | +9.8 |
-| 2026-01-14 | 7:15 P.M. | Dedham | Leominster | 64.5% | +4.1 |
+| 2026-01-14 | 6:30 P.M. | Pope Francis | Auburn | 46.6% | -1.0 |
 | 2026-01-14 | 8:05 P.M. | Acton-Boxboro | Cambridge | 70.7% | +6.1 |
 | 2026-01-14 | 3:50 P.M. | Pembroke | Plymouth | 79.4% | +9.4 |
 | 2026-01-14 | 4:00 P.M. | Canton | Norwood | 62.1% | +3.4 |
 | 2026-01-14 | 5:00 P.M. | Woburn | Arlington | 71.3% | +6.3 |
 | 2026-01-14 | 5:00 P.M. | Stoughton | Latin Academy/Fontbonne | 67.5% | +5.1 |
 | 2026-01-14 | 5:20 P.M. | Marshfield | Hanover | 51.4% | +0.4 |
-| 2026-01-14 | 5:30 P.M. | Shawsheen/Bedford/Lowell | Westford | 69.1% | +5.6 |
-| 2026-01-14 | 6:30 P.M. | Pope Francis | Auburn | 46.6% | -1.0 |
-| 2026-01-14 | 6:00 P.M. | Hingham | Duxbury | 52.8% | +0.8 |
+| 2026-01-14 | 5:55 P.M. | Masconomet | Marblehead | 48.8% | -0.3 |
 | 2026-01-14 | 6:00 P.M. | Stoneham/Wilmington | Melrose | 48.1% | -0.5 |
+| 2026-01-14 | 7:15 P.M. | Dedham | Leominster | 64.5% | +4.1 |
 | 2026-01-14 | 6:00 P.M. | Quincy/North Quincy | NSA | 49.3% | -0.2 |
 | 2026-01-14 | 6:00 P.M. | Reading | Winchester | 64.9% | +4.3 |
 | 2026-01-14 | 6:00 P.M. | Wayland/Weston | Central Catholic | 59.5% | +2.7 |
 | 2026-01-14 | 6:00 P.M. | Algonquin | Peabody | 83.5% | +11.3 |
 | 2026-01-14 | 6:10 P.M. | Winthrop | Beverly/Danvers | 58.0% | +2.2 |
-| 2026-01-14 | 5:55 P.M. | Masconomet | Marblehead | 48.8% | -0.3 |
+| 2026-01-14 | 6:00 P.M. | Hingham | Duxbury | 54.0% | +1.1 |
 | 2026-01-14 | 7:15 P.M. | Lexington | Belmont | 54.0% | +1.1 |
-| 2026-01-14 | 5:00 P.M. | Falmouth | Whitman-Hanson/Silver Lake | 61.7% | +3.3 |
+| 2026-01-14 | 5:30 P.M. | Shawsheen/Bedford/Lowell | Westford | 69.1% | +5.6 |
 | 2026-01-14 | 7:00 P.M. | Waltham | Concord-Carlisle | 67.5% | +5.1 |
-| 2026-01-14 | 5:45 P.M. | Newton North | Braintree | 46.2% | -1.1 |
-| 2026-01-14 | 8:00 P.M. | Brookline | Framingham | 63.0% | +3.7 |
 | 2026-01-14 | 5:40 P.M. | Natick | Wellesley/L-S | 71.6% | +6.4 |
 | 2026-01-14 | 7:00 P.M. | Milton | Needham | 78.7% | +9.1 |
 | 2026-01-14 | 7:00 P.M. | Weymouth | Walpole | 49.4% | -0.2 |
-| 2026-01-14 | 7:00 P.M. | Newburyport | Gloucester | 60.8% | +3.1 |
+| 2026-01-14 | 6:00 P.M. | Dennis-Yarmouth | Sandwich | 67.8% | +5.2 |
 | 2026-01-14 | 6:45 P.M. | Barnstable | East/West Bridgewater | 50.4% | +0.1 |
-| 2026-01-14 | 6:00 P.M. | Dennis-Yarmouth | Sandwich | 67.9% | +5.2 |
-| 2026-01-14 | 5:50 P.M. | Notre Dame (Hingham) | Archbishop Williams | 66.5% | +4.8 |
+| 2026-01-14 | 5:00 P.M. | Falmouth | Whitman-Hanson/Silver Lake | 61.7% | +3.3 |
+| 2026-01-14 | 3:00 P.M. | Martha’s Vineyard | Nauset/Monomoy | 58.9% | +2.5 |
+| 2026-01-14 | 7:00 P.M. | Newburyport | Gloucester | 60.8% | +3.1 |
+| 2026-01-14 | 5:50 P.M. | Notre Dame (Hingham) | Archbishop Williams | 67.5% | +5.1 |
 | 2026-01-14 | 5:00 P.M. | St. Mary’s | Malden Catholic | 70.8% | +6.2 |
 | 2026-01-14 | 4:00 P.M. | Ursuline | Bishop Stang | 40.2% | -2.8 |
 | 2026-01-14 | 8:00 P.M. | Hopkinton | King Philip | 46.0% | -1.1 |
 | 2026-01-14 | 5:30 P.M. | Ashland/Medway | Mansfield/OA/Foxboro | 47.6% | -0.7 |
 | 2026-01-14 | 5:00 P.M. | Methuen/Tewksbury | Shrewsbury | 64.5% | +4.2 |
-| 2026-01-14 | 6:00 P.M. | Billerica/Chelmsford | Boston Latin | 57.2% | +2.0 |
-| 2026-01-14 | 3:00 P.M. | Martha’s Vineyard | Nauset/Monomoy | 58.9% | +2.5 |
+| 2026-01-14 | 6:00 P.M. | Billerica/Chelmsford | Boston Latin | 58.8% | +2.5 |
+| 2026-01-14 | 8:00 P.M. | Brookline | Framingham | 63.0% | +3.7 |
+| 2026-01-14 | 5:45 P.M. | Newton North | Braintree | 46.2% | -1.1 |
+| 2026-01-15 | 7:10 P.M. | Andover | HPNA | 41.8% | -2.3 |
 | 2026-01-15 | 5:00 P.M. | Shawsheen/Bedford/Lowell | Westford | 69.1% | +5.6 |
-| 2026-01-15 | 7:10 P.M. | Andover | HPNA | 40.2% | -2.8 |
-| 2026-01-16 | 6:30 P.M. | Pope Francis | Longmeadow | 61.8% | +3.4 |
 | 2026-01-16 | 5:30 P.M. | Mansfield/OA/Foxboro | Westwood | 35.7% | -4.1 |
-| 2026-01-16 | 7:40 P.M. | Notre Dame (Hingham) | Canton | 68.0% | +5.2 |
+| 2026-01-16 | 6:30 P.M. | Pope Francis | Longmeadow | 61.8% | +3.4 |
+| 2026-01-16 | 7:40 P.M. | Notre Dame (Hingham) | Canton | 68.9% | +5.5 |
+| 2026-01-17 | 5:00 P.M. | Billerica/Chelmsford | Andover | 65.9% | +4.6 |
+| 2026-01-17 | 2:00 P.M. | HPNA | Longmeadow | 72.6% | +6.8 |
+| 2026-01-17 | 10:00 A.M. | Plymouth | Hanover | 47.3% | -0.8 |
+| 2026-01-17 | 12:00 P.M. | Newburyport | Peabody | 58.5% | +2.4 |
+| 2026-01-17 | 12:00 P.M. | Auburn | Ashland/Medway | 78.5% | +9.0 |
+| 2026-01-17 | 12:40 P.M. | Arlington | Lexington | 60.3% | +2.9 |
+| 2026-01-17 | 1:00 P.M. | Belmont | Winchester | 53.4% | +0.9 |
+| 2026-01-17 | 3:00 P.M. | Cambridge | Wayland/Weston | 47.3% | -0.7 |
+| 2026-01-17 | 2:15 P.M. | Burlington | Stoneham/Wilmington | 65.0% | +4.3 |
+| 2026-01-17 | 3:30 P.M. | Martha’s Vineyard | Smithfield (R.I.) | 56.2% | +1.7 |
+| 2026-01-17 | 4:00 P.M. | Gloucester | Winthrop | 36.3% | -3.9 |
+| 2026-01-17 | 5:30 P.M. | Milton | South County Storm (R.I.). | 74.1% | +7.3 |
+| 2026-01-17 | 6:00 P.M. | East/West Bridgewater | Quincy/North Quincy | 56.6% | +1.8 |
+| 2026-01-17 | 6:15 P.M. | Acton-Boxboro | Shawsheen/Bedford/Lowell | 47.8% | -0.6 |
+| 2026-01-17 | 2:00 P.M. | Woburn | Reading | 60.6% | +3.0 |
+| 2026-01-17 | 3:00 P.M. | Westford | Concord-Carlisle | 65.8% | +4.6 |
+| 2026-01-17 | 7:30 P.M. | Masconomet | Beverly/Danvers | 37.2% | -3.6 |
+| 2026-01-17 | 6:40 P.M. | Canton | Dedham | 57.3% | +2.0 |
+| 2026-01-17 | 7:20 P.M. | Natick | Arlington Catholic | 64.6% | +4.2 |
+| 2026-01-17 | 1:00 P.M. | Latin Academy/Fontbonne | Newton North | 49.9% | -0.0 |
+| 2026-01-17 | 11:30 A.M. | Needham | Brookline | 42.4% | -2.1 |
+| 2026-01-17 | 5:40 P.M. | Framingham | Grafton | 46.9% | -0.9 |
+| 2026-01-17 | 7:30 P.M. | Whitman-Hanson/Silver Lake | Walpole | 62.9% | +3.7 |
+| 2026-01-17 | 6:30 P.M. | Weymouth | Ursuline | 42.3% | -2.1 |
+| 2026-01-17 | 8:30 P.M. | Franklin | Medfield | 35.7% | -4.1 |
+| 2026-01-17 | 3:20 P.M. | NSA | Dennis-Yarmouth | 59.4% | +2.6 |
+| 2026-01-17 | 5:00 P.M. | Sandwich | Falmouth | 49.5% | -0.1 |
+| 2026-01-17 | 11:00 A.M. | Nantucket | Ursuline | 44.7% | -1.5 |
+| 2026-01-17 | 9:00 P.M. | Bishop Fenwick | Bishop Feehan | 64.1% | +4.0 |
+| 2026-01-17 | 7:10 P.M. | Duxbury | Archbishop Williams | 66.9% | +4.9 |
+| 2026-01-17 | 6:20 P.M. | St. Mary’s | Bishop Stang | 58.1% | +2.3 |
+| 2026-01-17 | 7:30 P.M. | King Philip | Norwood | 72.6% | +6.8 |
+| 2026-01-17 | 7:30 P.M. | Nauset/Monomoy | Barnstable | 61.7% | +3.3 |
+| 2026-01-17 | 8:30 P.M. | Central Catholic | Waltham | 51.6% | +0.4 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-06 | Andover | 4 | Boston Latin | 3 | -1.0 | +1.0 |
 | 2026-01-05 | Algonquin | 3 | Pope Francis | 1 | +8.2 | +2.0 |
 | 2026-01-05 | Burlington | 1 | Central Catholic | 2 | +3.5 | -1.0 |
 | 2026-01-05 | Melrose | 3 | Medford | 2 | +1.4 | +1.0 |
@@ -144,72 +177,62 @@ Generated: 2026-01-06 11:17
 | 2026-01-04 | Latin Academy/Fontbonne | 0 | Bishop Fenwick | 4 | -2.0 | -4.0 |
 | 2026-01-04 | Wakefield | 4 | Melrose | 2 | +2.2 | +2.0 |
 | 2026-01-04 | Longmeadow | 1 | Algonquin | 7 | -4.2 | -6.0 |
-| 2026-01-03 | Shawsheen/Bedford/Lowell | 2 | Central Catholic | 0 | +6.4 | +2.0 |
-| 2026-01-03 | Peabody | 2 | Marblehead | 0 | -1.1 | +2.0 |
-| 2026-01-03 | Medford | 4 | Masconomet | 3 | +3.2 | +1.0 |
-| 2026-01-03 | Whitman-Hanson/Silver Lake | 0 | Marshfield | 5 | +4.7 | -5.0 |
-| 2026-01-03 | Winchester | 1 | Arlington | 0 | +2.4 | +1.0 |
+| 2026-01-03 | Hanover | 0 | NSA | 6 | +3.7 | -6.0 |
 | 2026-01-03 | Plymouth | 2 | Quincy/North Quincy | 0 | +0.0 | +2.0 |
-| 2026-01-03 | King Philip | 5 | Mansfield/OA/Foxboro | 0 | +4.7 | +5.0 |
-| 2026-01-03 | Shrewsbury | 5 | Andover | 2 | +3.2 | +3.0 |
-| 2026-01-03 | HPNA | 1 | Boston Latin | 0 | +3.1 | +1.0 |
-| 2026-01-03 | Westford | 11 | Cambridge | 1 | +2.8 | +10.0 |
-| 2026-01-03 | Canton | 4 | Franklin | 0 | +4.3 | +4.0 |
-| 2026-01-03 | Burlington | 1 | Winthrop | 4 | +0.5 | -3.0 |
+| 2026-01-03 | Winchester | 1 | Arlington | 0 | +2.4 | +1.0 |
+| 2026-01-03 | Whitman-Hanson/Silver Lake | 0 | Marshfield | 5 | +4.7 | -5.0 |
+| 2026-01-03 | Medford | 4 | Masconomet | 3 | +3.2 | +1.0 |
+| 2026-01-03 | Peabody | 2 | Marblehead | 0 | -1.1 | +2.0 |
 | 2026-01-03 | Beverly/Danvers | 5 | Gloucester | 2 | +6.8 | +3.0 |
-| 2026-01-03 | Wayland/Weston | 1 | Waltham | 3 | +3.3 | -2.0 |
+| 2026-01-03 | Burlington | 1 | Winthrop | 4 | +0.5 | -3.0 |
 | 2026-01-03 | Norwood | 0 | Medfield | 4 | +0.1 | -4.0 |
 | 2026-01-03 | Dedham | 1 | Westwood | 5 | -0.3 | -4.0 |
-| 2026-01-03 | Hanover | 0 | NSA | 6 | +3.7 | -6.0 |
+| 2026-01-03 | Acton-Boxboro | 7 | Concord-Carlisle | 1 | +3.9 | +6.0 |
 | 2026-01-03 | Reading | 0 | Belmont | 0 | +5.3 | 0.0 |
-| 2026-01-03 | Bishop Feehan | 1 | St. Mary’s | 2 | -2.5 | -1.0 |
+| 2026-01-03 | Wayland/Weston | 1 | Waltham | 3 | +3.3 | -2.0 |
 | 2026-01-03 | East/West Bridgewater | 4 | Stoughton | 3 | +2.3 | +1.0 |
 | 2026-01-03 | Stoneham/Wilmington | 2 | Newburyport | 0 | -0.6 | +2.0 |
 | 2026-01-03 | Lexington | 1 | Woburn | 6 | -1.3 | -5.0 |
-| 2026-01-03 | Acton-Boxboro | 7 | Concord-Carlisle | 1 | +3.9 | +6.0 |
+| 2026-01-03 | Shrewsbury | 5 | Andover | 2 | +3.2 | +3.0 |
 | 2026-01-03 | Hopkinton | 7 | Ashland/Medway | 0 | +5.3 | +7.0 |
 | 2026-01-03 | North Yarmouth (Maine) | 1 | Austin Prep | 3 | +0.4 | -2.0 |
 | 2026-01-03 | Longmeadow | 1 | Pope Francis | 1 | +1.2 | 0.0 |
+| 2026-01-03 | Shawsheen/Bedford/Lowell | 2 | Central Catholic | 0 | +6.4 | +2.0 |
+| 2026-01-03 | HPNA | 1 | Boston Latin | 0 | +3.1 | +1.0 |
+| 2026-01-03 | Milton | 7 | Braintree | 2 | +5.2 | +5.0 |
+| 2026-01-03 | Canton | 4 | Franklin | 0 | +4.3 | +4.0 |
+| 2026-01-03 | King Philip | 5 | Mansfield/OA/Foxboro | 0 | +4.7 | +5.0 |
 | 2026-01-03 | Arlington Catholic | 0 | Bishop Stang | 2 | -0.1 | -2.0 |
+| 2026-01-03 | Bishop Feehan | 1 | St. Mary’s | 2 | -2.5 | -1.0 |
 | 2026-01-03 | Bishop Fenwick | 0 | Archbishop Williams | 2 | +2.5 | -2.0 |
 | 2026-01-03 | Nauset/Monomoy | 5 | Martha’s Vineyard | 2 | -0.2 | +3.0 |
-| 2026-01-03 | Natick | 2 | Weymouth | 0 | +9.1 | +2.0 |
-| 2026-01-03 | Sandwich | 1 | Notre Dame (Hingham) | 4 | -4.1 | -3.0 |
+| 2026-01-03 | Sandwich | 1 | Notre Dame (Hingham) | 4 | -4.4 | -3.0 |
 | 2026-01-03 | Barnstable | 0 | Falmouth | 7 | +2.3 | -7.0 |
 | 2026-01-03 | Dennis-Yarmouth | 2 | Auburn | 2 | -0.0 | 0.0 |
 | 2026-01-03 | Walpole | 4 | Ursuline | 4 | +0.0 | 0.0 |
-| 2026-01-03 | Milton | 7 | Braintree | 2 | +5.2 | +5.0 |
+| 2026-01-03 | Westford | 11 | Cambridge | 1 | +2.8 | +10.0 |
 | 2026-01-03 | Grafton | 6 | Needham | 4 | +6.6 | +2.0 |
 | 2026-01-03 | Framingham | 3 | Wellesley/L-S | 2 | +3.5 | +1.0 |
+| 2026-01-03 | Natick | 2 | Weymouth | 0 | +9.1 | +2.0 |
 | 2026-01-02 | Leominster | 2 | Longmeadow | 2 | +0.9 | 0.0 |
 | 2026-01-01 | Hingham | 4 | Westwood | 1 | -0.4 | +3.0 |
-| 2025-12-31 | HPNA | 4 | Woburn | 2 | +1.7 | +2.0 |
-| 2025-12-31 | Wellesley/L-S | 2 | Boston Latin | 7 | +0.6 | -5.0 |
-| 2025-12-31 | Falmouth | 3 | Pembroke | 5 | -3.5 | -2.0 |
+| 2025-12-31 | Medfield | 4 | Wakefield | 1 | +3.1 | +3.0 |
 | 2025-12-31 | Martha’s Vineyard | 5 | NSA | 2 | +0.2 | +3.0 |
 | 2025-12-31 | King Philip | 10 | Nantucket | 0 | +7.8 | +10.0 |
 | 2025-12-31 | Marblehead | 1 | Bishop Fenwick | 1 | +1.2 | 0.0 |
 | 2025-12-31 | Central Catholic | 1 | St. Mary’s | 3 | -2.0 | -2.0 |
 | 2025-12-31 | Billerica/Chelmsford | 3 | Reading | 3 | +0.8 | 0.0 |
-| 2025-12-31 | Medfield | 4 | Wakefield | 1 | +3.1 | +3.0 |
-| 2025-12-31 | Latin Academy/Fontbonne | 1 | East/West Bridgewater | 2 | -0.1 | -1.0 |
+| 2025-12-31 | HPNA | 4 | Woburn | 2 | +1.7 | +2.0 |
 | 2025-12-31 | Algonquin | 4 | Shrewsbury | 1 | +6.2 | +3.0 |
+| 2025-12-31 | Falmouth | 3 | Pembroke | 5 | -3.5 | -2.0 |
 | 2025-12-31 | Pope Francis | 3 | Winchester | 1 | +1.5 | +2.0 |
 | 2025-12-31 | Hanover | 2 | Marshfield | 0 | +5.7 | +2.0 |
-| 2025-12-31 | Duxbury | 3 | Milton | 1 | +0.9 | +2.0 |
+| 2025-12-31 | Latin Academy/Fontbonne | 1 | East/West Bridgewater | 2 | -0.1 | -1.0 |
+| 2025-12-31 | Duxbury | 3 | Milton | 1 | +0.6 | +2.0 |
 | 2025-12-31 | Hingham | 2 | Archbishop Williams | 1 | +3.3 | +1.0 |
-| 2025-12-31 | Bishop Feehan | 0 | Notre Dame (Hingham) | 2 | -0.9 | -2.0 |
+| 2025-12-31 | Bishop Feehan | 0 | Notre Dame (Hingham) | 2 | -1.2 | -2.0 |
 | 2025-12-31 | Sandwich | 1 | Malden Catholic | 2 | +0.2 | -1.0 |
-| 2025-12-30 | Auburn | 1 | Acton-Boxboro | 1 | +5.2 | 0.0 |
-| 2025-12-30 | Nauset/Monomoy | 2 | Canton | 3 | +0.8 | -1.0 |
-| 2025-12-30 | Methuen/Tewksbury | 2 | Peabody | 1 | +7.3 | +1.0 |
-| 2025-12-30 | Lexington | 1 | Grafton | 3 | -0.3 | -2.0 |
-| 2025-12-30 | Dennis-Yarmouth | 1 | Bishop Stang | 2 | +0.8 | -1.0 |
-| 2025-12-30 | Burlington | 3 | Leominster | 2 | +3.3 | +1.0 |
-| 2025-12-30 | Winthrop | 4 | Gloucester | 0 | +5.4 | +4.0 |
-| 2025-12-30 | Cambridge | 3 | Stoughton | 4 | +2.0 | -1.0 |
-| 2025-12-30 | Wakefield | 2 | Beverly/Danvers | 1 | -0.7 | +1.0 |
-| 2025-12-30 | Norwood | 6 | Walpole | 3 | +4.0 | +3.0 |
+| 2025-12-31 | Wellesley/L-S | 2 | Boston Latin | 7 | +0.6 | -5.0 |
 
 ## Current Elo Ratings
 
@@ -217,12 +240,12 @@ Generated: 2026-01-06 11:17
 |------|------|------------|
 | 1 | Algonquin | 1673.2 |
 | 2 | Pembroke | 1625.6 |
-| 3 | Milton | 1623.4 |
+| 3 | Milton | 1623.0 |
 | 4 | Westwood | 1621.0 |
-| 5 | Duxbury | 1610.0 |
-| 6 | King Philip | 1601.5 |
-| 7 | St. Mary’s | 1601.1 |
-| 8 | Notre Dame (Hingham) | 1598.4 |
+| 5 | Notre Dame (Hingham) | 1606.2 |
+| 6 | Duxbury | 1601.7 |
+| 7 | King Philip | 1601.5 |
+| 8 | St. Mary’s | 1601.1 |
 | 9 | Bishop Stang | 1594.3 |
 | 10 | HPNA | 1588.5 |
 | 11 | Methuen/Tewksbury | 1584.9 |
@@ -240,9 +263,9 @@ Generated: 2026-01-06 11:17
 | 23 | Reading | 1559.4 |
 | 24 | Brookline | 1549.0 |
 | 25 | Billerica/Chelmsford | 1545.3 |
-| 26 | Boston Latin | 1544.8 |
-| 27 | NSA | 1542.2 |
-| 28 | Rivers | 1537.2 |
+| 26 | NSA | 1542.2 |
+| 27 | Rivers | 1537.2 |
+| 28 | Boston Latin | 1533.7 |
 | 29 | Shrewsbury | 1531.1 |
 | 30 | Archbishop Williams | 1529.3 |
 | 31 | Dennis-Yarmouth | 1526.2 |
@@ -301,17 +324,17 @@ Generated: 2026-01-06 11:17
 | 84 | Brewster Academy | 1482.0 |
 | 85 | Norwood | 1481.8 |
 | 86 | Martha’s Vineyard | 1481.1 |
-| 87 | Medford | 1480.6 |
-| 88 | Burlington | 1477.9 |
-| 89 | Arlington | 1476.3 |
-| 90 | Belmont | 1476.0 |
-| 91 | Ursuline | 1475.4 |
-| 92 | Lawrence Academy | 1474.3 |
-| 93 | Winsor | 1473.3 |
-| 94 | St. Mark’s | 1472.9 |
-| 95 | Bishop Feehan | 1471.8 |
-| 96 | Marshfield | 1470.2 |
-| 97 | Andover | 1469.5 |
+| 87 | Andover | 1480.7 |
+| 88 | Medford | 1480.6 |
+| 89 | Burlington | 1477.9 |
+| 90 | Arlington | 1476.3 |
+| 91 | Belmont | 1476.0 |
+| 92 | Ursuline | 1475.4 |
+| 93 | Lawrence Academy | 1474.3 |
+| 94 | Winsor | 1473.3 |
+| 95 | St. Mark’s | 1472.9 |
+| 96 | Bishop Feehan | 1472.2 |
+| 97 | Marshfield | 1470.2 |
 | 98 | Longmeadow | 1469.4 |
 | 99 | Nauset/Monomoy | 1468.9 |
 | 100 | Mansfield/OA/Foxboro | 1468.6 |
@@ -323,7 +346,7 @@ Generated: 2026-01-06 11:17
 | 106 | Lexington | 1453.8 |
 | 107 | Wellesley/L-S | 1453.4 |
 | 108 | Newburyport | 1450.8 |
-| 109 | Sandwich | 1446.2 |
+| 109 | Sandwich | 1446.6 |
 | 110 | Needham | 1446.0 |
 | 111 | Plymouth | 1441.6 |
 | 112 | Peabody | 1441.5 |

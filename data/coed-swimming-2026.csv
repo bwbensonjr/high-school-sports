@@ -1,0 +1,5 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
+2026-01-06,77968,FINAL,Revere,4329,59,0,Medford,4242,86,1,Independent,Independent,,,0
+2026-01-06,77975,FINAL,Marblehead,4231,92,1,Danvers,4103,81,0,Independent,Independent,,,0
+2026-01-06,77978,FINAL,East Boston,4125,62,0,Latin Academy,4202,89,1,Boston City,Boston City,,,0
+2026-01-06,77979,FINAL,Arlington Catholic,4014,62,0,O’Bryant,4298,88,1,Catholic Central,Boston City,,,0

@@ -1,2 +1,4 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
 2025-12-22,72343,FINAL,Durfee,4122,63,0,Taunton,4388,99,1,Big Three,Hockomock,3:30 P.M.,,0
+2026-01-06,77998,FINAL,Barnstable,4024,105,1,Nauset,4271,33,0,Pioneer,Cape & Islands,,,0
+2026-01-06,78014,FINAL,Bishop Stang,4045,82,0,Apponequet,4011,94,1,Catholic Central,South Coast,,,0
