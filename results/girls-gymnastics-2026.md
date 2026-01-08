@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2026 Season
 
-Generated: 2026-01-07 11:18
+Generated: 2026-01-08 11:19
 
 ## Upcoming Games
 
@@ -11,6 +11,11 @@ Generated: 2026-01-07 11:18
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-07 | Central Catholic | 137 | Chelmsford/B/T | 131 | +5.0 | +5.9 |
+| 2026-01-07 | Central Catholic | 137 | Dracut | 110 | +5.3 | +27.6 |
+| 2026-01-07 | Chelmsford/B/T | 131 | Dracut | 110 | +2.1 | +21.7 |
+| 2026-01-07 | Whitman-Hanson | 125 | Hingham/Hull | 130 | +1.2 | -5.1 |
+| 2026-01-07 | Methuen | 112 | Haverhill | 128 | -0.7 | -16.1 |
 | 2026-01-06 | Newton South | 90 | Newton North | 142 | -1.1 | -51.7 |
 | 2026-01-05 | Westford | 135 | Newton South | 126 | +3.0 | +9.2 |
 | 2026-01-04 | Norton | 131 | Middleborough | 130 | +2.0 | +0.6 |
@@ -24,20 +29,21 @@ Generated: 2026-01-07 11:18
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Newton North | 1581.4 |
-| 2 | Tewksbury | 1557.5 |
-| 3 | North Andover | 1551.2 |
-| 4 | Brockton/Spellman/Stoughton | 1541.7 |
-| 5 | Andover | 1534.0 |
-| 6 | Westford | 1529.1 |
-| 7 | Central Catholic | 1528.9 |
-| 8 | Bridgewater-Raynham/West Bridgewater | 1524.2 |
-| 9 | Hingham/Hull | 1521.6 |
-| 10 | Norton | 1507.7 |
-| 11 | Middleborough | 1495.6 |
-| 12 | Haverhill | 1494.9 |
+| 2 | Central Catholic | 1579.8 |
+| 3 | Tewksbury | 1557.5 |
+| 4 | North Andover | 1551.2 |
+| 5 | Hingham/Hull | 1550.9 |
+| 6 | Brockton/Spellman/Stoughton | 1541.7 |
+| 7 | Haverhill | 1535.3 |
+| 8 | Andover | 1534.0 |
+| 9 | Westford | 1529.1 |
+| 10 | Bridgewater-Raynham/West Bridgewater | 1524.2 |
+| 11 | Norton | 1507.7 |
+| 12 | Middleborough | 1495.6 |
 | 13 | Marshfield | 1481.7 |
-| 14 | Dracut | 1464.6 |
-| 15 | Chelmsford/B/T | 1455.0 |
+| 14 | Chelmsford/B/T | 1475.7 |
+| 15 | Whitman-Hanson | 1472.3 |
 | 16 | Cohasset/Norwell | 1439.1 |
-| 17 | Methuen | 1427.1 |
-| 18 | Newton South | 1394.4 |
+| 17 | Newton South | 1394.4 |
+| 18 | Dracut | 1393.0 |
+| 19 | Methuen | 1386.7 |

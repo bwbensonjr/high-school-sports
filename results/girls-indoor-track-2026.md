@@ -1,6 +1,6 @@
 # Girls Indoor Track - 2026 Season
 
-Generated: 2026-01-07 11:18
+Generated: 2026-01-08 11:19
 
 ## Upcoming Games
 
@@ -24,6 +24,9 @@ Generated: 2026-01-07 11:18
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-07 | North Andover | 31 | Lowell | 69 | +0.1 | -38.0 |
+| 2026-01-07 | North Andover | 39 | Andover | 60 | -2.1 | -21.3 |
+| 2026-01-07 | Billerica | 40 | Central Catholic | 59 | +2.8 | -19.3 |
 | 2026-01-06 | Hingham | 46 | Whitman-Hanson | 53 | +4.7 | -7.0 |
 | 2026-01-06 | North Quincy/Quincy | 45 | Hanover | 49 | +2.0 | -4.0 |
 | 2026-01-06 | Scituate | 71 | Hanover | 25 | +0.9 | +46.0 |
@@ -44,71 +47,73 @@ Generated: 2026-01-07 11:18
 | 1 | St. Mary’s | 1676.4 |
 | 2 | Cardinal Spellman | 1662.4 |
 | 3 | Seekonk | 1600.9 |
-| 4 | Newton North | 1572.9 |
-| 5 | Bishop Fenwick | 1566.2 |
-| 6 | Wellesley | 1564.2 |
-| 7 | Bishop Feehan | 1563.6 |
-| 8 | Braintree | 1561.5 |
-| 9 | Ipswich | 1560.7 |
-| 10 | Oliver Ames | 1558.7 |
-| 11 | Scituate | 1556.8 |
-| 12 | Manchester Essex | 1556.5 |
-| 13 | Somerset Berkley | 1555.9 |
-| 14 | Dennis-Yarmouth | 1554.3 |
-| 15 | Triton | 1550.3 |
-| 16 | Billerica | 1550.2 |
-| 17 | Peabody | 1549.6 |
-| 18 | Needham | 1543.3 |
-| 19 | Hopkinton | 1537.2 |
-| 20 | Old Rochester | 1536.8 |
-| 21 | Norton | 1536.1 |
-| 22 | Canton | 1535.3 |
-| 23 | Foxborough | 1533.9 |
-| 24 | Nauset | 1533.6 |
-| 25 | Arlington Catholic | 1530.6 |
-| 26 | King Philip | 1530.5 |
-| 27 | Central Catholic | 1529.0 |
-| 28 | Sharon | 1528.0 |
-| 29 | Marshfield | 1527.2 |
-| 30 | Southeastern | 1523.9 |
-| 31 | Whitman-Hanson | 1519.8 |
-| 32 | Milton | 1505.2 |
-| 33 | Hingham | 1505.1 |
-| 34 | Newburyport | 1502.8 |
+| 4 | Central Catholic | 1583.3 |
+| 5 | Newton North | 1572.9 |
+| 6 | Bishop Fenwick | 1566.2 |
+| 7 | Wellesley | 1564.2 |
+| 8 | Bishop Feehan | 1563.6 |
+| 9 | Braintree | 1561.5 |
+| 10 | Ipswich | 1560.7 |
+| 11 | Oliver Ames | 1558.7 |
+| 12 | Lowell | 1558.1 |
+| 13 | Scituate | 1556.8 |
+| 14 | Manchester Essex | 1556.5 |
+| 15 | Somerset Berkley | 1555.9 |
+| 16 | Dennis-Yarmouth | 1554.3 |
+| 17 | Triton | 1550.3 |
+| 18 | Peabody | 1549.6 |
+| 19 | Needham | 1543.3 |
+| 20 | Andover | 1542.3 |
+| 21 | Hopkinton | 1537.2 |
+| 22 | Old Rochester | 1536.8 |
+| 23 | Norton | 1536.1 |
+| 24 | Canton | 1535.3 |
+| 25 | Foxborough | 1533.9 |
+| 26 | Nauset | 1533.6 |
+| 27 | Arlington Catholic | 1530.6 |
+| 28 | King Philip | 1530.5 |
+| 29 | Sharon | 1528.0 |
+| 30 | Marshfield | 1527.2 |
+| 31 | Southeastern | 1523.9 |
+| 32 | Whitman-Hanson | 1519.8 |
+| 33 | Milton | 1505.2 |
+| 34 | Hingham | 1505.1 |
 | 35 | Essex Tech | 1502.8 |
 | 36 | Hamilton-Wenham | 1502.8 |
-| 37 | North Reading | 1502.8 |
-| 38 | Natick | 1499.2 |
-| 39 | Malden Catholic | 1495.2 |
-| 40 | Dighton-Rehoboth | 1487.3 |
-| 41 | Attleboro | 1477.5 |
-| 42 | Chelmsford | 1476.5 |
-| 43 | Hanover | 1476.3 |
-| 44 | North Quincy/Quincy | 1475.2 |
-| 45 | Franklin | 1475.0 |
-| 46 | Martha’s Vineyard | 1471.9 |
-| 47 | Mansfield | 1471.7 |
-| 48 | Stoughton | 1470.2 |
-| 49 | Tri-County | 1470.0 |
-| 50 | Medfield | 1469.4 |
-| 51 | Holliston | 1468.3 |
-| 52 | Archbishop Williams | 1461.6 |
-| 53 | Brookline | 1461.1 |
-| 54 | West Bridgewater | 1460.7 |
-| 55 | Silver Lake | 1459.0 |
-| 56 | Swampscott | 1455.9 |
-| 57 | North Andover | 1455.3 |
-| 58 | Pentucket | 1455.2 |
-| 59 | Bishop Stang | 1453.5 |
-| 60 | St. John Paul II | 1451.2 |
-| 61 | Lynnfield | 1449.0 |
-| 62 | North Attleborough | 1446.8 |
-| 63 | Fairhaven | 1446.7 |
-| 64 | Framingham | 1446.1 |
-| 65 | Amesbury | 1444.8 |
-| 66 | Weymouth | 1442.3 |
-| 67 | Walpole | 1431.7 |
-| 68 | Apponequet | 1431.0 |
-| 69 | Ursuline | 1409.2 |
-| 70 | Fontbonne | 1401.4 |
-| 71 | Cristo Rey | 1321.8 |
+| 37 | Newburyport | 1502.8 |
+| 38 | North Reading | 1502.8 |
+| 39 | Natick | 1499.2 |
+| 40 | Billerica | 1495.9 |
+| 41 | Malden Catholic | 1495.2 |
+| 42 | Dighton-Rehoboth | 1487.3 |
+| 43 | Attleboro | 1477.5 |
+| 44 | Chelmsford | 1476.5 |
+| 45 | Hanover | 1476.3 |
+| 46 | North Quincy/Quincy | 1475.2 |
+| 47 | Franklin | 1475.0 |
+| 48 | Martha’s Vineyard | 1471.9 |
+| 49 | Mansfield | 1471.7 |
+| 50 | Stoughton | 1470.2 |
+| 51 | Tri-County | 1470.0 |
+| 52 | Medfield | 1469.4 |
+| 53 | Holliston | 1468.3 |
+| 54 | Archbishop Williams | 1461.6 |
+| 55 | Brookline | 1461.1 |
+| 56 | West Bridgewater | 1460.7 |
+| 57 | Silver Lake | 1459.0 |
+| 58 | Swampscott | 1455.9 |
+| 59 | Pentucket | 1455.2 |
+| 60 | Bishop Stang | 1453.5 |
+| 61 | St. John Paul II | 1451.2 |
+| 62 | Lynnfield | 1449.0 |
+| 63 | North Attleborough | 1446.8 |
+| 64 | Fairhaven | 1446.7 |
+| 65 | Framingham | 1446.1 |
+| 66 | Amesbury | 1444.8 |
+| 67 | Weymouth | 1442.3 |
+| 68 | Walpole | 1431.7 |
+| 69 | Apponequet | 1431.0 |
+| 70 | Ursuline | 1409.2 |
+| 71 | Fontbonne | 1401.4 |
+| 72 | North Andover | 1360.4 |
+| 73 | Cristo Rey | 1321.8 |

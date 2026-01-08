@@ -1,6 +1,6 @@
 # Coed Swimming - 2026 Season
 
-Generated: 2026-01-07 11:18
+Generated: 2026-01-08 11:19
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-01-07 11:18
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-07 | Swampscott | 82 | Peabody | 93 | +2.6 | -11.0 |
 | 2026-01-06 | Revere | 59 | Medford | 86 | +1.1 | -27.0 |
 | 2026-01-06 | Marblehead | 92 | Danvers | 81 | +3.3 | +11.0 |
 | 2026-01-06 | East Boston | 62 | Latin Academy | 89 | -1.4 | -27.0 |
@@ -28,8 +29,8 @@ Generated: 2026-01-07 11:18
 | 6 | North Andover | 1537.4 |
 | 7 | Methuen/Tewksbury | 1535.0 |
 | 8 | Somerville | 1531.3 |
-| 9 | Catholic Memorial | 1525.1 |
-| 10 | Peabody | 1486.5 |
+| 9 | Peabody | 1530.8 |
+| 10 | Catholic Memorial | 1525.1 |
 | 11 | Central Catholic | 1486.4 |
 | 12 | Salem | 1486.0 |
 | 13 | Lowell | 1483.4 |
@@ -37,6 +38,7 @@ Generated: 2026-01-07 11:18
 | 15 | Bishop Fenwick | 1478.9 |
 | 16 | Danvers | 1474.2 |
 | 17 | Melrose | 1471.6 |
-| 18 | Revere | 1448.9 |
-| 19 | Arlington Catholic | 1422.3 |
-| 20 | East Boston | 1381.8 |
+| 18 | Swampscott | 1458.5 |
+| 19 | Revere | 1448.9 |
+| 20 | Arlington Catholic | 1422.3 |
+| 21 | East Boston | 1381.8 |
