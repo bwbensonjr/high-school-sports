@@ -1,6 +1,6 @@
 # Wrestling - 2026 Season
 
-Generated: 2026-01-08 11:19
+Generated: 2026-01-09 11:18
 
 ## Upcoming Games
 
@@ -11,32 +11,35 @@ Generated: 2026-01-08 11:19
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-01-07 | Lowell | 47 | Billerica | 17 | +8.9 | +30.0 |
-| 2026-01-07 | Wellesley | 37 | Braintree | 39 | +2.3 | -2.0 |
+| 2026-01-08 | Excel Academy | 33 | Latin Academy | 43 | -2.3 | -10.0 |
+| 2026-01-08 | Nauset | 46 | Barnstable | 27 | +6.7 | +19.0 |
+| 2026-01-08 | Scituate | 50 | Hanover | 29 | +1.0 | +21.0 |
+| 2026-01-07 | Concord-Carlisle | 39 | Boston Latin | 39 | +3.3 | 0.0 |
 | 2026-01-07 | Milton | 42 | Brookline | 42 | +6.7 | 0.0 |
 | 2026-01-07 | Quincy/North Quincy | 34 | Pembroke | 31 | +0.3 | +3.0 |
 | 2026-01-07 | Danvers | 48 | Gloucester | 34 | -0.4 | +14.0 |
 | 2026-01-07 | Marshfield | 34 | Hingham | 45 | +1.1 | -11.0 |
 | 2026-01-07 | Duxbury | 48 | Whitman-Hanson | 32 | +2.8 | +16.0 |
 | 2026-01-07 | Plymouth North | 29 | Silver Lake | 50 | +0.1 | -21.0 |
-| 2026-01-07 | Lynnfield/North Reading | 54 | Triton | 27 | +8.7 | +27.0 |
-| 2026-01-07 | Wayland | 44 | Westford | 22 | +7.5 | +22.0 |
-| 2026-01-07 | North Andover | 34 | Methuen | 46 | -0.5 | -12.0 |
 | 2026-01-07 | Melrose | 62 | Burlington | 17 | -4.8 | +45.0 |
-| 2026-01-07 | Concord-Carlisle | 39 | Boston Latin | 39 | +3.3 | 0.0 |
-| 2026-01-07 | Framingham | 36 | Weymouth | 44 | -1.6 | -8.0 |
+| 2026-01-07 | Lynnfield/North Reading | 54 | Triton | 27 | +8.7 | +27.0 |
+| 2026-01-07 | North Andover | 34 | Methuen | 46 | -0.5 | -12.0 |
+| 2026-01-07 | Wellesley | 37 | Braintree | 39 | +2.3 | -2.0 |
+| 2026-01-07 | Wayland | 44 | Westford | 22 | +7.5 | +22.0 |
 | 2026-01-07 | Rockland | 34 | Middleborough | 48 | +7.6 | -14.0 |
+| 2026-01-07 | Sharon | 36 | Taunton | 43 | +5.0 | -7.0 |
+| 2026-01-07 | Chelmsford | 54 | Tewksbury | 24 | +6.8 | +30.0 |
+| 2026-01-07 | Martha’s Vineyard | 54 | Falmouth/Mashpee | 24 | +2.0 | +30.0 |
 | 2026-01-07 | Andover | 45 | Lawrence | 29 | +2.7 | +16.0 |
 | 2026-01-07 | Woburn | 56 | Reading | 22 | +4.2 | +34.0 |
-| 2026-01-07 | Sharon | 36 | Taunton | 43 | +5.0 | -7.0 |
-| 2026-01-07 | Martha’s Vineyard | 54 | Falmouth/Mashpee | 24 | +2.0 | +30.0 |
+| 2026-01-07 | Lowell | 47 | Billerica | 17 | +8.9 | +30.0 |
+| 2026-01-07 | Framingham | 36 | Weymouth | 44 | -1.6 | -8.0 |
 | 2026-01-07 | Gloucester | 48 | Danvers | 34 | +1.0 | +14.0 |
 | 2026-01-07 | Salem | 30 | Beverly | 49 | +3.1 | -19.0 |
-| 2026-01-07 | Chelmsford | 54 | Tewksbury | 24 | +6.8 | +30.0 |
 | 2026-01-06 | Norton | 24 | Holliston | 54 | +1.6 | -30.0 |
 | 2026-01-06 | Latin Academy | 40 | Malden/Everett | 33 | +4.8 | +7.0 |
 | 2026-01-06 | Latin Academy | 58 | East Boston | 12 | +5.1 | +46.0 |
-| 2026-01-03 | Belmont | 36 | Rockland | 46 | -2.7 | -10.0 |
+| 2026-01-03 | East Longmeadow | 24 | Wayland | 33 | +2.1 | -9.0 |
 | 2026-01-03 | Braintree | 44 | Boston Latin | 34 | +2.2 | +10.0 |
 | 2026-01-03 | Newton South | 27 | Roxbury Latin | 45 | -9.9 | -18.0 |
 | 2026-01-03 | Boston Latin | 34 | Roxbury Latin | 43 | -7.4 | -9.0 |
@@ -44,23 +47,23 @@ Generated: 2026-01-08 11:19
 | 2026-01-03 | Wilmington | 18 | Watertown | 60 | -2.1 | -42.0 |
 | 2026-01-03 | Braintree | 24 | Roxbury Latin | 52 | -5.3 | -28.0 |
 | 2026-01-03 | Quincy/North Quincy | 28 | Rockland | 53 | -5.2 | -25.0 |
-| 2026-01-03 | Burlington | 44 | Bedford / A-B | 34 | +5.9 | +10.0 |
-| 2026-01-03 | Franklin | 56 | Brookline | 17 | +2.1 | +39.0 |
-| 2026-01-03 | East Longmeadow | 24 | Wayland | 33 | +2.1 | -9.0 |
-| 2026-01-03 | Monty Tech/Fitchburg | 7 | Wayland | 49 | -3.0 | -42.0 |
-| 2026-01-03 | Sharon | 20 | Whittier | 55 | +8.0 | -35.0 |
-| 2026-01-03 | Sharon | 45 | Bellingham | 33 | +3.4 | +12.0 |
-| 2026-01-03 | Sharon | 59 | Mansfield | 24 | +4.6 | +35.0 |
-| 2026-01-03 | Newton South | 32 | Braintree | 44 | +3.1 | -12.0 |
-| 2026-01-03 | Danvers | 23 | Lynnfield/North Reading | 53 | -1.9 | -30.0 |
+| 2026-01-03 | Belmont | 36 | Rockland | 46 | -2.7 | -10.0 |
 | 2026-01-03 | Triton | 15 | Wakefield | 55 | -0.0 | -40.0 |
-| 2026-01-03 | Weymouth | 50 | Plymouth North | 16 | +1.2 | +34.0 |
-| 2026-01-03 | Franklin | 24 | Mt. Hope (R.I.) | 50 | +2.0 | -26.0 |
-| 2026-01-03 | Brookline | 18 | Agawam | 63 | +2.0 | -45.0 |
-| 2026-01-03 | Mt. Hope (R.I.) | 70 | Brookline | 12 | +6.9 | +58.0 |
-| 2026-01-03 | Franklin | 27 | Agawam | 54 | -2.9 | -27.0 |
 | 2026-01-03 | Mt. Hope (R.I.) | 52 | Agawam | 30 | +1.4 | +22.0 |
-| 2026-01-03 | Barnstable | 0 | Rockland | 69 | -2.2 | -69.0 |
+| 2026-01-03 | Franklin | 27 | Agawam | 54 | -2.9 | -27.0 |
+| 2026-01-03 | Mt. Hope (R.I.) | 70 | Brookline | 12 | +6.9 | +58.0 |
+| 2026-01-03 | Brookline | 18 | Agawam | 63 | +2.0 | -45.0 |
+| 2026-01-03 | Franklin | 24 | Mt. Hope (R.I.) | 50 | +2.0 | -26.0 |
+| 2026-01-03 | Weymouth | 50 | Plymouth North | 16 | +1.2 | +34.0 |
+| 2026-01-03 | Danvers | 23 | Lynnfield/North Reading | 53 | -1.9 | -30.0 |
+| 2026-01-03 | Burlington | 44 | Bedford / A-B | 34 | +5.9 | +10.0 |
+| 2026-01-03 | Newton South | 32 | Braintree | 44 | +3.1 | -12.0 |
+| 2026-01-03 | Sharon | 59 | Mansfield | 24 | +4.6 | +35.0 |
+| 2026-01-03 | Sharon | 45 | Bellingham | 33 | +3.4 | +12.0 |
+| 2026-01-03 | Sharon | 20 | Whittier | 55 | +8.0 | -35.0 |
+| 2026-01-03 | Monty Tech/Fitchburg | 7 | Wayland | 49 | -3.0 | -42.0 |
+| 2026-01-03 | Westfield/Westfield Tech | 11 | Wayland | 47 | +0.5 | -36.0 |
+| 2026-01-03 | Franklin | 56 | Brookline | 17 | +2.1 | +39.0 |
 | 2026-01-03 | Algonquin | 7 | Salem (N.H.) | 69 | +3.1 | -62.0 |
 | 2026-01-03 | Natick | 45 | Hopkinton | 36 | +3.0 | +9.0 |
 | 2026-01-03 | Salem (N.H.) | 59 | Hopkinton | 10 | +6.0 | +49.0 |
@@ -76,9 +79,8 @@ Generated: 2026-01-08 11:19
 | 2026-01-03 | Burlington | 40 | Reading | 36 | +6.8 | +4.0 |
 | 2026-01-03 | King Philip | 30 | Rockland | 54 | +0.7 | -24.0 |
 | 2026-01-03 | Burlington | 29 | Stoughton | 12 | +10.8 | +17.0 |
-| 2026-01-03 | Westfield/Westfield Tech | 11 | Wayland | 47 | +0.5 | -36.0 |
+| 2026-01-03 | Barnstable | 0 | Rockland | 69 | -2.2 | -69.0 |
 | 2026-01-02 | Wilmington | 20 | Burlington | 58 | -0.7 | -38.0 |
-| 2026-01-01 | Winchester | 45 | Wellesley | 30 | -0.8 | +15.0 |
 
 ## Current Elo Ratings
 
@@ -97,17 +99,17 @@ Generated: 2026-01-08 11:19
 | 11 | Arlington | 1611.1 |
 | 12 | Cohasset | 1603.7 |
 | 13 | Middleborough | 1601.2 |
-| 14 | Burlington | 1595.7 |
-| 15 | Chelmsford | 1593.8 |
-| 16 | Lynnfield/North Reading | 1585.5 |
-| 17 | Woburn | 1582.0 |
-| 18 | Methuen | 1580.6 |
-| 19 | Melrose | 1579.2 |
-| 20 | Natick | 1573.2 |
-| 21 | St. Mark’s | 1571.7 |
-| 22 | Taunton | 1571.2 |
-| 23 | Holliston | 1571.0 |
-| 24 | Latin Academy | 1570.8 |
+| 14 | Latin Academy | 1600.7 |
+| 15 | Burlington | 1595.7 |
+| 16 | Chelmsford | 1593.8 |
+| 17 | Lynnfield/North Reading | 1585.5 |
+| 18 | Woburn | 1582.0 |
+| 19 | Methuen | 1580.6 |
+| 20 | Melrose | 1579.2 |
+| 21 | Natick | 1573.2 |
+| 22 | St. Mark’s | 1571.7 |
+| 23 | Taunton | 1571.2 |
+| 24 | Holliston | 1571.0 |
 | 25 | Saugus/Peabody | 1570.4 |
 | 26 | Lowell | 1569.1 |
 | 27 | Foxborough | 1568.0 |
@@ -119,22 +121,22 @@ Generated: 2026-01-08 11:19
 | 33 | Salem (N.H.) | 1553.4 |
 | 34 | Whittier | 1550.8 |
 | 35 | Silver Lake | 1549.3 |
-| 36 | Walpole | 1548.2 |
-| 37 | Martha’s Vineyard | 1546.9 |
-| 38 | Winchester | 1546.8 |
-| 39 | Choate | 1542.2 |
-| 40 | Avon Old Farms | 1541.2 |
-| 41 | Braintree | 1540.1 |
-| 42 | Eagle Hill | 1537.7 |
-| 43 | Duxbury | 1536.8 |
-| 44 | Bridgewater-Raynham | 1536.6 |
-| 45 | Upper Cape | 1534.9 |
-| 46 | Bedford / A-B | 1532.3 |
-| 47 | Tyngsborough/Dracut | 1532.2 |
-| 48 | Hingham | 1530.6 |
-| 49 | Hanover | 1526.6 |
-| 50 | Northbridge | 1524.8 |
-| 51 | Nauset | 1524.2 |
+| 36 | Nauset | 1549.1 |
+| 37 | Walpole | 1548.2 |
+| 38 | Martha’s Vineyard | 1546.9 |
+| 39 | Winchester | 1546.8 |
+| 40 | Scituate | 1544.9 |
+| 41 | Choate | 1542.2 |
+| 42 | Avon Old Farms | 1541.2 |
+| 43 | Braintree | 1540.1 |
+| 44 | Eagle Hill | 1537.7 |
+| 45 | Duxbury | 1536.8 |
+| 46 | Bridgewater-Raynham | 1536.6 |
+| 47 | Upper Cape | 1534.9 |
+| 48 | Bedford / A-B | 1532.3 |
+| 49 | Tyngsborough/Dracut | 1532.2 |
+| 50 | Hingham | 1530.6 |
+| 51 | Northbridge | 1524.8 |
 | 52 | Newton North | 1524.2 |
 | 53 | Dedham | 1522.7 |
 | 54 | Needham | 1521.7 |
@@ -145,11 +147,11 @@ Generated: 2026-01-08 11:19
 | 59 | Trinity-Pawling | 1508.5 |
 | 60 | St. John’s Prep | 1503.3 |
 | 61 | North Reading | 1502.8 |
-| 62 | Scituate | 1502.0 |
-| 63 | Middlesex | 1492.0 |
-| 64 | Beaver Country Day | 1491.7 |
-| 65 | St. Sebastian’s | 1491.7 |
-| 66 | Concord-Carlisle | 1486.8 |
+| 62 | Middlesex | 1492.0 |
+| 63 | Beaver Country Day | 1491.7 |
+| 64 | St. Sebastian’s | 1491.7 |
+| 65 | Concord-Carlisle | 1486.8 |
+| 66 | Hanover | 1483.6 |
 | 67 | BC High | 1483.5 |
 | 68 | Somerset Berkley | 1482.6 |
 | 69 | Durfee | 1481.4 |
@@ -178,26 +180,26 @@ Generated: 2026-01-08 11:19
 | 92 | Lexington Christian | 1463.8 |
 | 93 | Keefe Tech | 1463.6 |
 | 94 | East Longmeadow | 1463.0 |
-| 95 | Excel Academy | 1462.3 |
-| 96 | Phillips Exeter | 1461.7 |
-| 97 | Pomfret | 1460.2 |
-| 98 | Malden/Everett | 1458.8 |
-| 99 | Falmouth/Mashpee | 1458.6 |
-| 100 | Pembroke | 1458.6 |
-| 101 | Quincy/North Quincy | 1457.8 |
-| 102 | Landmark | 1456.4 |
-| 103 | Boston Latin | 1454.7 |
-| 104 | Franklin | 1453.5 |
-| 105 | Reading | 1451.8 |
-| 106 | Weston | 1451.1 |
-| 107 | Carver | 1450.9 |
-| 108 | Whitman-Hanson | 1448.5 |
-| 109 | Westfield/Westfield Tech | 1446.6 |
-| 110 | Worcester Tech | 1445.5 |
-| 111 | Norton | 1445.5 |
-| 112 | North Andover | 1443.4 |
-| 113 | Hyde | 1441.9 |
-| 114 | Newton South | 1438.9 |
+| 95 | Phillips Exeter | 1461.7 |
+| 96 | Pomfret | 1460.2 |
+| 97 | Malden/Everett | 1458.8 |
+| 98 | Falmouth/Mashpee | 1458.6 |
+| 99 | Pembroke | 1458.6 |
+| 100 | Quincy/North Quincy | 1457.8 |
+| 101 | Landmark | 1456.4 |
+| 102 | Boston Latin | 1454.7 |
+| 103 | Franklin | 1453.5 |
+| 104 | Reading | 1451.8 |
+| 105 | Weston | 1451.1 |
+| 106 | Carver | 1450.9 |
+| 107 | Whitman-Hanson | 1448.5 |
+| 108 | Westfield/Westfield Tech | 1446.6 |
+| 109 | Worcester Tech | 1445.5 |
+| 110 | Norton | 1445.5 |
+| 111 | North Andover | 1443.4 |
+| 112 | Hyde | 1441.9 |
+| 113 | Newton South | 1438.9 |
+| 114 | Excel Academy | 1432.3 |
 | 115 | Gloucester | 1432.2 |
 | 116 | King Philip | 1431.6 |
 | 117 | Marshfield | 1427.6 |
@@ -210,10 +212,10 @@ Generated: 2026-01-08 11:19
 | 124 | Tewksbury | 1416.8 |
 | 125 | Lexington | 1416.1 |
 | 126 | Plymouth North | 1407.6 |
-| 127 | Barnstable | 1407.5 |
-| 128 | Wilmington | 1402.7 |
-| 129 | Stoughton | 1400.7 |
-| 130 | East Boston | 1398.1 |
+| 127 | Wilmington | 1402.7 |
+| 128 | Stoughton | 1400.7 |
+| 129 | East Boston | 1398.1 |
+| 130 | Barnstable | 1382.6 |
 | 131 | North Attleborough | 1381.6 |
 | 132 | Danvers | 1381.0 |
 | 133 | Triton | 1374.1 |
