@@ -1,6 +1,6 @@
 # Boys Indoor Track - 2026 Season
 
-Generated: 2026-01-09 11:17
+Generated: 2026-01-10 11:15
 
 ## Upcoming Games
 
@@ -23,12 +23,12 @@ Generated: 2026-01-09 11:17
 | 2026-01-14 | 4:00 P.M. | Arlington | Winchester | 57.1% | +2.0 |
 | 2026-01-14 | 4:00 P.M. | Watertown | Wilmington | 57.1% | +2.0 |
 | 2026-01-14 | 4:00 P.M. | Melrose | Stoneham | 57.1% | +2.0 |
+| 2026-01-14 | 4:00 P.M. | Wayland | Boston Latin | 57.1% | +2.0 |
 | 2026-01-14 | 6:30 P.M. | Norton | Bellingham | 61.1% | +3.1 |
-| 2026-01-14 | 3:30 P.M. | Cambridge | Newton South | 57.1% | +2.0 |
-| 2026-01-14 | 3:30 P.M. | Waltham | Boston Latin | 57.1% | +2.0 |
 | 2026-01-14 | 3:30 P.M. | Bedford | Wayland | 57.1% | +2.0 |
 | 2026-01-14 | 3:30 P.M. | Westford | Lincoln-Sudbury | 57.1% | +2.0 |
-| 2026-01-14 | 4:00 P.M. | Wayland | Boston Latin | 57.1% | +2.0 |
+| 2026-01-14 | 3:30 P.M. | Cambridge | Newton South | 57.1% | +2.0 |
+| 2026-01-14 | 3:30 P.M. | Waltham | Boston Latin | 57.1% | +2.0 |
 | 2026-01-15 | 3:15 P.M. | Old Rochester | Dighton-Rehoboth | 72.2% | +6.6 |
 | 2026-01-15 | 4:00 P.M. | Brookline | Newton North | 61.7% | +3.3 |
 | 2026-01-15 | 4:00 P.M. | Braintree | Milton | 50.7% | +0.2 |
@@ -36,6 +36,15 @@ Generated: 2026-01-09 11:17
 | 2026-01-15 | 4:00 P.M. | Natick | Framingham | 71.3% | +6.3 |
 | 2026-01-15 | 6:30 P.M. | Bourne | Fairhaven | 62.9% | +3.7 |
 | 2026-01-19 | 2:00 P.M. | Apponequet | Bourne | 48.3% | -0.5 |
+| 2026-01-20 | 5:00 P.M. | Ipswich | Lynnfield | 41.9% | -2.3 |
+| 2026-01-20 | 5:00 P.M. | Newburyport | Essex Tech | 57.1% | +2.0 |
+| 2026-01-20 | 5:00 P.M. | Hamilton-Wenham | Amesbury | 47.5% | -0.7 |
+| 2026-01-20 | 5:00 P.M. | North Reading | Pentucket | 54.2% | +1.2 |
+| 2026-01-20 | 4:00 P.M. | Arlington | Cristo Rey | 78.4% | +8.9 |
+| 2026-01-20 | 4:00 P.M. | Arlington | Bishop Fenwick | 74.0% | +7.3 |
+| 2026-01-20 | 4:00 P.M. | Archbishop Williams | Arlington | 64.8% | +4.2 |
+| 2026-01-20 | 4:00 P.M. | Arlington | St. Mary’s | 37.2% | -3.6 |
+| 2026-01-20 | 3:00 P.M. | Nantucket | Martha’s Vineyard | 60.2% | +2.9 |
 
 ## Recent Games
 
@@ -108,55 +117,55 @@ Generated: 2026-01-09 11:17
 | 30 | Seekonk | 1520.2 |
 | 31 | Somerset Berkley | 1517.7 |
 | 32 | Natick | 1511.3 |
-| 33 | Dover-Sherborn | 1502.8 |
-| 34 | Randolph | 1502.8 |
-| 35 | Essex Tech | 1502.8 |
-| 36 | Dedham | 1502.8 |
-| 37 | Concord-Carlisle | 1502.8 |
-| 38 | Millis | 1502.8 |
-| 39 | Falmouth | 1502.8 |
-| 40 | Monomoy | 1502.8 |
-| 41 | Newburyport | 1502.8 |
-| 42 | Boston Latin | 1502.8 |
-| 43 | Bellingham | 1502.8 |
-| 44 | Middleborough | 1502.8 |
-| 45 | St. John Paul II | 1502.8 |
-| 46 | North Reading | 1502.8 |
-| 47 | Ashland | 1502.8 |
-| 48 | Norwell | 1502.8 |
-| 49 | Dennis-Yarmouth | 1502.8 |
-| 50 | Sandwich | 1502.8 |
-| 51 | Winchester | 1502.8 |
-| 52 | Lincoln-Sudbury | 1502.8 |
-| 53 | Wilmington | 1502.8 |
-| 54 | Andover | 1502.8 |
-| 55 | Stoneham | 1502.8 |
-| 56 | Bourne | 1502.8 |
-| 57 | Hopkinton | 1502.8 |
-| 58 | Arlington | 1502.8 |
-| 59 | Bedford | 1502.8 |
-| 60 | Wakefield | 1502.8 |
-| 61 | Carver | 1502.8 |
+| 33 | Belmont | 1502.8 |
+| 34 | Woburn | 1502.8 |
+| 35 | Hopkinton | 1502.8 |
+| 36 | Watertown | 1502.8 |
+| 37 | Wilmington | 1502.8 |
+| 38 | North Reading | 1502.8 |
+| 39 | Bourne | 1502.8 |
+| 40 | Greater New Bedford | 1502.8 |
+| 41 | Wakefield | 1502.8 |
+| 42 | Lexington | 1502.8 |
+| 43 | Westwood | 1502.8 |
+| 44 | Arlington | 1502.8 |
+| 45 | Melrose | 1502.8 |
+| 46 | Dennis-Yarmouth | 1502.8 |
+| 47 | Middleborough | 1502.8 |
+| 48 | Newburyport | 1502.8 |
+| 49 | Nantucket | 1502.8 |
+| 50 | Norwell | 1502.8 |
+| 51 | Carver | 1502.8 |
+| 52 | St. John Paul II | 1502.8 |
+| 53 | Falmouth | 1502.8 |
+| 54 | Concord-Carlisle | 1502.8 |
+| 55 | Hull | 1502.8 |
+| 56 | Randolph | 1502.8 |
+| 57 | Cambridge | 1502.8 |
+| 58 | Dedham | 1502.8 |
+| 59 | Weston | 1502.8 |
+| 60 | Waltham | 1502.8 |
+| 61 | Millis | 1502.8 |
 | 62 | Hamilton-Wenham | 1502.8 |
-| 63 | Lexington | 1502.8 |
-| 64 | Wayland | 1502.8 |
-| 65 | Waltham | 1502.8 |
-| 66 | Greater New Bedford | 1502.8 |
-| 67 | Westford | 1502.8 |
-| 68 | Rockland | 1502.8 |
-| 69 | Watertown | 1502.8 |
-| 70 | Belmont | 1502.8 |
-| 71 | Melrose | 1502.8 |
-| 72 | Reading | 1502.8 |
-| 73 | Westwood | 1502.8 |
-| 74 | Medway | 1502.8 |
-| 75 | Cambridge | 1502.8 |
-| 76 | Newton South | 1502.8 |
-| 77 | Weston | 1502.8 |
-| 78 | Hull | 1502.8 |
-| 79 | Nantucket | 1502.8 |
-| 80 | Woburn | 1502.8 |
-| 81 | Burlington | 1502.8 |
+| 63 | Bellingham | 1502.8 |
+| 64 | Medway | 1502.8 |
+| 65 | Wayland | 1502.8 |
+| 66 | Monomoy | 1502.8 |
+| 67 | Rockland | 1502.8 |
+| 68 | Boston Latin | 1502.8 |
+| 69 | Andover | 1502.8 |
+| 70 | Dover-Sherborn | 1502.8 |
+| 71 | Burlington | 1502.8 |
+| 72 | Bedford | 1502.8 |
+| 73 | Reading | 1502.8 |
+| 74 | Lincoln-Sudbury | 1502.8 |
+| 75 | Sandwich | 1502.8 |
+| 76 | Winchester | 1502.8 |
+| 77 | Newton South | 1502.8 |
+| 78 | Stoneham | 1502.8 |
+| 79 | Essex Tech | 1502.8 |
+| 80 | Westford | 1502.8 |
+| 81 | Ashland | 1502.8 |
 | 82 | Tri-County | 1484.3 |
 | 83 | Triton | 1482.1 |
 | 84 | Martha’s Vineyard | 1480.7 |

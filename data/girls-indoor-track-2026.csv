@@ -1,9 +1,9 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
 2025-12-22,72796,FINAL,Hingham,4171,54.0,1.0,Silver Lake,4349,46.0,0.0,Patriot,Patriot,7:30 P.M.,,0
 2025-12-23,72840,FINAL,Seekonk,4344,62.0,1.0,Fairhaven,4133,31.0,0.0,South Coast,South Coast,,,0
-2025-12-30,75286,FINAL,Ipswich,4190,57,1,Amesbury,4007,38,0,Cape Ann,Cape Ann,,,0
-2025-12-30,77754,FINAL,Lynnfield,4223,39,0,Manchester Essex,4229,61,1,Cape Ann,Cape Ann,8:00 A.M.,,0
-2025-12-30,77776,FINAL,Pentucket,4309,42,0,Triton,4395,57,1,Cape Ann,Cape Ann,,,0
+2025-12-30,75286,FINAL,Ipswich,4190,57.0,1.0,Amesbury,4007,38.0,0.0,Cape Ann,Cape Ann,,,0
+2025-12-30,77754,FINAL,Lynnfield,4223,39.0,0.0,Manchester Essex,4229,61.0,1.0,Cape Ann,Cape Ann,8:00 A.M.,,0
+2025-12-30,77776,FINAL,Pentucket,4309,42.0,0.0,Triton,4395,57.0,1.0,Cape Ann,Cape Ann,,,0
 2026-01-06,77736,UPCOMING,Manchester Essex,4229,,,Ipswich,4190,,,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-01-06,77746,UPCOMING,Pentucket,4309,,,Essex Tech,4745,,,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-01-06,77751,UPCOMING,Lynnfield,4223,,,Hamilton-Wenham,4163,,,Cape Ann,Cape Ann,5:00 P.M.,,0
@@ -39,3 +39,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-15,77586,UPCOMING,Braintree,4051,,,Milton,4252,,,Bay State,Bay State,4:00 P.M.,,0
 2026-01-15,77593,UPCOMING,Needham,4272,,,Wellesley,4413,,,Bay State,Bay State,4:00 P.M.,,0
 2026-01-15,77632,UPCOMING,Natick,4270,,,Framingham,4143,,,Bay State,Bay State,4:00 P.M.,,0
+2026-01-20,77743,UPCOMING,Ipswich,4190,,,Lynnfield,4223,,,Cape Ann,Cape Ann,5:00 P.M.,,0
+2026-01-20,77749,UPCOMING,Newburyport,4276,,,Essex Tech,4745,,,Cape Ann,Cape Ann,5:00 P.M.,,0
+2026-01-20,77753,UPCOMING,Hamilton-Wenham,4163,,,Amesbury,4007,,,Cape Ann,Cape Ann,5:00 P.M.,,0
+2026-01-20,77770,UPCOMING,North Reading,4288,,,Pentucket,4309,,,Cape Ann,Cape Ann,5:00 P.M.,,0

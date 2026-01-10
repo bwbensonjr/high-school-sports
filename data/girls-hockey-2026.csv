@@ -77,16 +77,16 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-29,74690,FINAL,Bishop Feehan,4042,1.0,1.0,Malden Catholic,4228,0.0,0.0,Catholic Central,Independent,2:00 P.M.,,0
 2025-12-29,74691,FINAL,Sandwich,4340,1.0,0.0,Archbishop Williams,4012,4.0,1.0,Cape & Islands,Catholic Central,4:00 P.M.,,0
 2025-12-29,74740,FINAL,Quincy/North Quincy,4287,2.0,0.0,East/West Bridgewater,4126,3.0,1.0,Patriot,Independent,12:00 P.M.,,0
-2025-12-30,71151,FINAL,Norwood,4297,6,1,Walpole,4404,3,0,Tri-Valley,Bay State,2:00 P.M.,,0
-2025-12-30,71199,FINAL,Dennis-Yarmouth,4111,1,0,Bishop Stang,4045,2,1,Cape & Islands,Catholic Central,4:00 P.M.,1.0,0
-2025-12-30,71638,FINAL,Nauset/Monomoy,4271,2,0,Canton,4071,3,1,Cape & Islands,Hockomock,4:00 P.M.,,0
-2025-12-30,72358,FINAL,Methuen/Tewksbury,4246,2,1,Peabody,4306,1,0,Merrimack Valley/Dual County,Northeast,5:00 P.M.,,0
-2025-12-30,72555,FINAL,Lexington,4209,1,0,Grafton,4153,3,1,Middlesex,Independent,10:00 A.M.,,0
-2025-12-30,72556,FINAL,Auburn,4019,1,2,Acton-Boxboro,4003,1,2,Independent,Merrimack Valley/Dual County,2:00 P.M.,,0
-2025-12-30,72558,FINAL,Burlington,4065,3,1,Leominster,4208,2,0,Middlesex,Central/West,2:30 P.M.,,0
-2025-12-30,72563,FINAL,Winthrop,4437,4,1,Gloucester,4150,0,0,Northeast,Northeast,6:10 P.M.,,0
-2025-12-30,74937,FINAL,Cambridge,4067,3,0,Stoughton,4381,4,1,Merrimack Valley/Dual County,Independent,,,0
-2025-12-30,74938,FINAL,Wakefield,4402,2,1,Beverly/Danvers,4038,1,0,Middlesex,Northeast,,,0
+2025-12-30,71151,FINAL,Norwood,4297,6.0,1.0,Walpole,4404,3.0,0.0,Tri-Valley,Bay State,2:00 P.M.,,0
+2025-12-30,71199,FINAL,Dennis-Yarmouth,4111,1.0,0.0,Bishop Stang,4045,2.0,1.0,Cape & Islands,Catholic Central,4:00 P.M.,1.0,0
+2025-12-30,71638,FINAL,Nauset/Monomoy,4271,2.0,0.0,Canton,4071,3.0,1.0,Cape & Islands,Hockomock,4:00 P.M.,,0
+2025-12-30,72358,FINAL,Methuen/Tewksbury,4246,2.0,1.0,Peabody,4306,1.0,0.0,Merrimack Valley/Dual County,Northeast,5:00 P.M.,,0
+2025-12-30,72555,FINAL,Lexington,4209,1.0,0.0,Grafton,4153,3.0,1.0,Middlesex,Independent,10:00 A.M.,,0
+2025-12-30,72556,FINAL,Auburn,4019,1.0,2.0,Acton-Boxboro,4003,1.0,2.0,Independent,Merrimack Valley/Dual County,2:00 P.M.,,0
+2025-12-30,72558,FINAL,Burlington,4065,3.0,1.0,Leominster,4208,2.0,0.0,Middlesex,Central/West,2:30 P.M.,,0
+2025-12-30,72563,FINAL,Winthrop,4437,4.0,1.0,Gloucester,4150,0.0,0.0,Northeast,Northeast,6:10 P.M.,,0
+2025-12-30,74937,FINAL,Cambridge,4067,3.0,0.0,Stoughton,4381,4.0,1.0,Merrimack Valley/Dual County,Independent,,,0
+2025-12-30,74938,FINAL,Wakefield,4402,2.0,1.0,Beverly/Danvers,4038,1.0,0.0,Middlesex,Northeast,,,0
 2025-12-31,71048,FINAL,Wellesley/L-S,4413,2,0,Boston Latin,4049,7,1,Bay State,Merrimack Valley/Dual County,11:00 A.M.,,0
 2025-12-31,71286,FINAL,Falmouth,4134,3,0,Pembroke,4308,5,1,Cape & Islands,Patriot,1:00 P.M.,,0
 2025-12-31,71308,FINAL,Martha’s Vineyard,4235,5,1,NSA,4343,2,0,Cape & Islands,Patriot,2:00 P.M.,,0
@@ -195,6 +195,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-07,78135,FINAL,Norwood,4297,1,0,Hopkinton/Dover-Sherborn,4118,3,1,Tri-Valley,Tri-Valley,,,0
 2026-01-07,78149,FINAL,Waltham,4405,8,1,Cambridge,4067,0,0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,6:00 P.M.,,0
 2026-01-07,78170,FINAL,Stoneham/Wilmington,4380,2,0,Wakefield,4402,3,1,Middlesex,Middlesex,,1.0,0
+2026-01-09,78682,FINAL,Portsmouth Abbey,4320,0,0,Thayer,4390,5,1,EIL,ISL,,,0
+2026-01-09,78802,FINAL,East Catholic (Conn.),4834,1,0,Pope Francis,4796,4,1,Independent,Central/West,,,0
 2026-01-10,70967,UPCOMING,Natick,4270,,,Braintree,4051,,,Bay State,Bay State,7:20 P.M.,,0
 2026-01-10,70993,UPCOMING,Newton North,4279,,,Milton,4252,,,Bay State,Bay State,2:20 P.M.,,0
 2026-01-10,71006,UPCOMING,Walpole,4404,,,Brookline,4059,,,Bay State,Bay State,1:15 P.M.,,0

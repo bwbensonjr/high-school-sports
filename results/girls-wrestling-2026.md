@@ -1,6 +1,6 @@
 # Girls Wrestling - 2026 Season
 
-Generated: 2026-01-09 11:18
+Generated: 2026-01-10 11:15
 
 ## Upcoming Games
 
@@ -9,11 +9,8 @@ Generated: 2026-01-09 11:18
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-01-02 | North Andover | 18 | Greater Lawrence | 9 | +2.0 | +9.0 |
-| 2026-01-02 | North Andover | 30 | Framingham | 18 | +3.2 | +12.0 |
-| 2026-01-02 | North Andover | 21 | Springfield Central | 33 | +4.4 | -12.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 
