@@ -1,6 +1,6 @@
 # Girls Indoor Track - 2026 Season
 
-Generated: 2026-01-10 11:15
+Generated: 2026-01-11 11:15
 
 ## Upcoming Games
 
@@ -85,10 +85,10 @@ Generated: 2026-01-10 11:15
 | 32 | Somerset Berkley | 1516.4 |
 | 33 | Hingham | 1505.1 |
 | 34 | Wellesley | 1504.6 |
-| 35 | Essex Tech | 1502.8 |
-| 36 | Newburyport | 1502.8 |
-| 37 | Hamilton-Wenham | 1502.8 |
-| 38 | North Reading | 1502.8 |
+| 35 | Newburyport | 1502.8 |
+| 36 | Essex Tech | 1502.8 |
+| 37 | North Reading | 1502.8 |
+| 38 | Hamilton-Wenham | 1502.8 |
 | 39 | Billerica | 1495.9 |
 | 40 | Brookline | 1495.8 |
 | 41 | Malden Catholic | 1495.2 |

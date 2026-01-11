@@ -1,6 +1,6 @@
 # Boys Swimming - 2026 Season
 
-Generated: 2026-01-10 11:15
+Generated: 2026-01-11 11:15
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-01-10 11:15
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-10 | Westford | 99 | Concord-Carlisle | 77 | +3.4 | +22.0 |
 | 2026-01-09 | Andover | 90 | Central Catholic | 67 | +4.1 | +23.0 |
 | 2026-01-09 | Chelmsford | 101 | Haverhill | 80 | +4.7 | +21.0 |
 | 2026-01-09 | Nashoba | 50 | Advanced Math and Science | 122 | +0.4 | -72.0 |
@@ -31,14 +32,14 @@ Generated: 2026-01-10 11:15
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Chelmsford | 1599.4 |
-| 2 | Xaverian | 1593.0 |
-| 3 | Quincy/North Quincy | 1585.1 |
-| 4 | Shrewsbury | 1573.2 |
-| 5 | Advanced Math and Science | 1567.7 |
-| 6 | Bishop Feehan | 1567.6 |
-| 7 | Belmont | 1566.7 |
-| 8 | Westford | 1565.8 |
+| 1 | Westford | 1601.5 |
+| 2 | Chelmsford | 1599.4 |
+| 3 | Xaverian | 1593.0 |
+| 4 | Quincy/North Quincy | 1585.1 |
+| 5 | Shrewsbury | 1573.2 |
+| 6 | Advanced Math and Science | 1567.7 |
+| 7 | Bishop Feehan | 1567.6 |
+| 8 | Belmont | 1566.7 |
 | 9 | Martha’s Vineyard | 1560.4 |
 | 10 | Nantucket | 1550.5 |
 | 11 | Apponequet/Old Colony | 1548.9 |
@@ -56,14 +57,14 @@ Generated: 2026-01-10 11:15
 | 23 | Canton | 1533.0 |
 | 24 | Foxborough | 1531.7 |
 | 25 | Duxbury | 1530.9 |
-| 26 | Concord-Carlisle | 1530.2 |
-| 27 | Wayland | 1526.5 |
-| 28 | Seekonk | 1526.1 |
-| 29 | Ashland | 1525.4 |
-| 30 | Bridgewater-Raynham | 1522.7 |
-| 31 | Malden Catholic | 1514.3 |
-| 32 | Mansfield | 1507.9 |
-| 33 | Westborough | 1495.7 |
+| 26 | Wayland | 1526.5 |
+| 27 | Seekonk | 1526.1 |
+| 28 | Ashland | 1525.4 |
+| 29 | Bridgewater-Raynham | 1522.7 |
+| 30 | Malden Catholic | 1514.3 |
+| 31 | Mansfield | 1507.9 |
+| 32 | Westborough | 1495.7 |
+| 33 | Concord-Carlisle | 1494.5 |
 | 34 | Natick | 1494.1 |
 | 35 | Latin Academy | 1489.0 |
 | 36 | Dedham | 1477.9 |

@@ -319,10 +319,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-30,75285,FINAL,Old Colony,4300,62.0,1.0,Avon,4460,58.0,0.0,Mayflower,Mayflower,,,0
 2025-12-30,75289,FINAL,Milton,4252,68.0,1.0,Randolph,4327,65.0,0.0,Bay State,South Shore,,1.0,0
 2025-12-30,75336,FINAL,Diman,4115,42.0,0.0,Holbrook,4172,84.0,1.0,Mayflower,Mayflower,,,0
-2025-12-31,70711,FINAL,Dartmouth,4105,67,0,Bishop Stang,4045,75,1,Pioneer,Catholic Central,11:00 A.M.,,0
-2025-12-31,71046,FINAL,KIPP,4703,46,1,Shawsheen,4346,44,0,Commonwealth,Commonwealth,11:30 A.M.,,0
-2025-12-31,71368,FINAL,Norwell,4296,60,0,Wareham,4407,67,1,South Shore,Independent,1:30 P.M.,,0
-2025-12-31,75269,FINAL,Gloucester,4150,70,1,Salem Academy,4604,49,0,Northeastern,Charter School Athletic,12:30 P.M.,,0
+2025-12-31,70711,FINAL,Dartmouth,4105,67.0,0.0,Bishop Stang,4045,75.0,1.0,Pioneer,Catholic Central,11:00 A.M.,,0
+2025-12-31,71046,FINAL,KIPP,4703,46.0,1.0,Shawsheen,4346,44.0,0.0,Commonwealth,Commonwealth,11:30 A.M.,,0
+2025-12-31,71368,FINAL,Norwell,4296,60.0,0.0,Wareham,4407,67.0,1.0,South Shore,Independent,1:30 P.M.,,0
+2025-12-31,75269,FINAL,Gloucester,4150,70.0,1.0,Salem Academy,4604,49.0,0.0,Northeastern,Charter School Athletic,12:30 P.M.,,0
 2026-01-02,69949,FINAL,Wayland,4411,79,1,Snowden,4452,59,0,Dual County,Boston City,2:30 P.M.,,0
 2026-01-02,69963,FINAL,Rockland,4331,53,0,Holliston,4174,61,1,South Shore,Tri-Valley,2:30 P.M.,,0
 2026-01-02,70162,UPCOMING,Roxbury Prep,4847,,,Cristo Rey,4453,,,Charter School Athletic,Catholic Central,2:00 P.M.,,0
@@ -682,19 +682,24 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-09,75104,FINAL,Greater New Bedford,4156,58,0,Old Rochester,4301,66,1,South Coast,South Coast,6:30 P.M.,,0
 2026-01-09,75114,FINAL,Fairhaven,4133,56,1,Seekonk,4344,50,0,South Coast,South Coast,6:30 P.M.,,0
 2026-01-09,75180,FINAL,Swampscott,4383,58,1,Saugus,4341,28,0,Northeastern,Northeastern,7:00 P.M.,,0
-2026-01-09,75293,UPCOMING,Southeastern,4358,,,Scituate,4343,,,Independent,Patriot,6:30 P.M.,,0
+2026-01-09,75293,FINAL,Southeastern,4358,63,0,Scituate,4343,71,1,Independent,Patriot,6:30 P.M.,,0
 2026-01-09,75299,UPCOMING,South Shore Voc-Tech,4356,,,Old Colony,4300,,,Mayflower,Mayflower,6:30 P.M.,,0
 2026-01-09,75312,FINAL,Tri-County,4392,45,0,Bristol-Plymouth,4057,54,1,Mayflower,Mayflower,6:30 P.M.,,0
 2026-01-09,75326,FINAL,Diman,4115,49,0,Blue Hills,4047,78,1,Mayflower,Mayflower,6:30 P.M.,,0
 2026-01-09,78358,FINAL,Pioneer Charter I,4701,78,1,Pioneer Charter II,4964,34,0,Charter School Athletic,Charter School Athletic,,,0
 2026-01-09,78521,FINAL,Mystic Valley,4264,62,0,Collegiate Charter,4986,68,1,Commonwealth,Charter School Athletic,5:30 P.M.,,0
 2026-01-09,78744,FINAL,Hopedale,4507,65,1,Nipmuc,4281,38,0,Independent,Independent,,,0
-2026-01-10,69992,UPCOMING,Martha’s Vineyard,4235,,,New Mission,4494,,,Cape & Islands,Boston City,4:30 P.M.,,0
-2026-01-10,70728,UPCOMING,Bishop Hendricken (R.I.),4044,,,Bridgewater-Raynham,4053,,,Independent,Pioneer,1:00 P.M.,,0
+2026-01-10,69992,FINAL,Martha’s Vineyard,4235,61,1,New Mission,4494,47,0,Cape & Islands,Boston City,4:30 P.M.,,0
+2026-01-10,70728,FINAL,Bishop Hendricken (R.I.),4044,61,0,Bridgewater-Raynham,4053,65,1,Independent,Pioneer,1:00 P.M.,,0
 2026-01-10,70743,UPCOMING,Barnstable,4024,,,Putnam,4362,,,Pioneer,Independent,2:30 P.M.,,0
-2026-01-10,71338,UPCOMING,Nantucket,4265,,,Gardner,4147,,,Cape & Islands,Mid-Wach,2:00 P.M.,,0
-2026-01-10,73675,UPCOMING,Excel Academy,4969,,,Notre Dame (Tyngsborough),4540,,,Charter School Athletic,Commonwealth,2:00 P.M.,,0
-2026-01-10,75182,UPCOMING,Swampscott,4383,,,Agawam,4004,,,Northeastern,Independent,5:00 P.M.,,0
+2026-01-10,71338,FINAL,Nantucket,4265,77,1,Gardner,4147,57,0,Cape & Islands,Mid-Wach,2:00 P.M.,,0
+2026-01-10,73675,FINAL,Excel Academy,4969,74,1,Notre Dame (Tyngsborough),4540,40,0,Charter School Athletic,Commonwealth,2:00 P.M.,,0
+2026-01-10,75182,FINAL,Swampscott,4383,81,1,Agawam,4004,55,0,Northeastern,Independent,5:00 P.M.,,0
+2026-01-10,78803,FINAL,Wareham,4407,77,1,Charlestown,4084,61,0,Independent,Boston City,6:30 P.M.,,0
+2026-01-10,78809,FINAL,Choate,4090,63,0,Phillips Andover,4310,83,1,Founders,Independent,,,0
+2026-01-10,78844,FINAL,Austin Prep,4020,69,1,BB&N,4028,56,0,Independent,ISL,,,0
+2026-01-10,78860,FINAL,Tabor,4384,65,1,Brooks,4060,64,0,ISL,ISL,,,0
+2026-01-10,78945,FINAL,St. Andrew’s,4364,81,0,Lawrence Academy,4204,86,1,Independent,ISL,4:00 P.M.,,0
 2026-01-11,70195,UPCOMING,North Reading,4288,,,English High,4048,,,Cape Ann,Boston City,2:30 P.M.,,0
 2026-01-11,70373,UPCOMING,Wellesley,4413,,,Concord-Carlisle,4097,,,Bay State,Dual County,12:00 P.M.,,0
 2026-01-11,70442,UPCOMING,Milton,4252,,,Canton,4071,,,Bay State,Hockomock,4:00 P.M.,,0
@@ -1030,3 +1035,15 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-20,78552,UPCOMING,Foxborough,4142,,,Sharon,4345,,,Hockomock,Hockomock,6:30 P.M.,,0
 2026-01-20,78609,UPCOMING,Brockton,4058,,,Wareham,4407,,,Big Three,Independent,6:30 P.M.,,0
 2026-01-20,78733,UPCOMING,Fairhaven,4133,,,Old Rochester,4301,,,South Coast,South Coast,6:30 P.M.,,0
+2026-01-21,70413,UPCOMING,Cathedral,4079,,,Brookline,4059,,,Catholic Central,Bay State,6:30 P.M.,,0
+2026-01-21,72944,UPCOMING,Newton South,4280,,,Bedford,4031,,,Dual County,Dual County,6:00 P.M.,,0
+2026-01-21,73021,UPCOMING,Wellesley,4413,,,Lincoln-Sudbury,4211,,,Bay State,Dual County,6:30 P.M.,,0
+2026-01-21,73548,UPCOMING,Lynnfield,4223,,,East Boston,4125,,,Cape Ann,Boston City,5:30 P.M.,,0
+2026-01-21,73760,UPCOMING,Lowell Catholic,4217,,,Whittier,4428,,,Commonwealth,Commonwealth,7:00 P.M.,,0
+2026-01-21,73804,UPCOMING,Mystic Valley,4264,,,Boston Collegiate,4592,,,Commonwealth,Charter School Athletic,5:30 P.M.,,0
+2026-01-21,74497,UPCOMING,Hull,4184,,,South Shore Charter,4589,,,South Shore,Charter School Athletic,6:30 P.M.,,0
+2026-01-21,74991,UPCOMING,Nauset,4271,,,Barnstable,4024,,,Cape & Islands,Pioneer,6:30 P.M.,,0
+2026-01-21,75056,UPCOMING,North Quincy,4287,,,MATCH Charter,4594,,,Patriot,Charter School Athletic,6:30 P.M.,,0
+2026-01-21,75357,UPCOMING,Old Colony,4300,,,Tri-County,4392,,,Mayflower,Mayflower,6:30 P.M.,,0
+2026-01-21,75364,UPCOMING,Avon,4460,,,St. Mary (Westfield),4537,,,Mayflower,Independent,6:30 P.M.,,0
+2026-01-21,78701,UPCOMING,West Bridgewater,4415,,,Cardinal Spellman,4075,,,South Coast,Catholic Central,6:30 P.M.,,0

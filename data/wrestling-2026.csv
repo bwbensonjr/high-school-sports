@@ -93,3 +93,39 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-08,78252,FINAL,Nauset,4271,46,1,Barnstable,4024,27,0,Cape & Islands,Pioneer,,,0
 2026-01-08,78350,FINAL,Excel Academy,4969,33,0,Latin Academy,4202,43,1,Independent,Boston City,,,0
 2026-01-09,78783,FINAL,East Boston,4125,36,0,Atlantis Charter,4818,51,1,Boston City,Independent,6:15 P.M.,,0
+2026-01-10,78816,FINAL,Lynnfield/North Reading,4223,53,1,Salem,4336,29,0,Cape Ann,Northeastern,,,0
+2026-01-10,78837,FINAL,Roxbury Latin,4334,51,1,East Boston,4125,6,0,ISL,Boston City,,,0
+2026-01-10,78839,FINAL,Roxbury Latin,4334,62,1,Thayer,4390,18,0,ISL,ISL,,,0
+2026-01-10,78845,FINAL,Quincy/North Quincy,4326,39,2,Whitman-Hanson,4427,39,2,Patriot,Patriot,,,0
+2026-01-10,78848,FINAL,Stoughton,4381,0,0,Whitman-Hanson,4427,78,1,Hockomock,Patriot,,,0
+2026-01-10,78851,FINAL,Whitman-Hanson,4427,30,0,Newton North,4279,42,1,Patriot,Bay State,,,0
+2026-01-10,78852,FINAL,Hingham,4171,44,1,Tewksbury,4389,28,0,Patriot,Merrimack Valley,,,0
+2026-01-10,78854,FINAL,Hingham,4171,22,0,Methuen,4246,60,1,Patriot,Merrimack Valley,,,0
+2026-01-10,78857,FINAL,Hingham,4171,34,0,Whittier,4428,45,1,Patriot,Commonwealth,,,0
+2026-01-10,78863,FINAL,Milford,4249,25,0,Shawsheen,4346,41,1,Hockomock,Commonwealth,,,0
+2026-01-10,78864,FINAL,Mahar,4226,18,0,St. John’s (Shrewsbury),4368,62,1,Independent,Catholic Conference,,,0
+2026-01-10,78867,FINAL,Athol,4017,18,0,St. John’s (Shrewsbury),4368,62,1,Independent,Catholic Conference,,,0
+2026-01-10,78868,FINAL,Pioneer Valley,4536,0,0,St. John’s (Shrewsbury),4368,82,1,Independent,Catholic Conference,,,0
+2026-01-10,78869,FINAL,Worcester Tech,4445,21,0,St. John’s (Shrewsbury),4368,60,1,Independent,Catholic Conference,,,0
+2026-01-10,78872,FINAL,Foxborough,4142,7,0,Shawsheen,4346,68,1,Hockomock,Commonwealth,,,0
+2026-01-10,78874,FINAL,Bridgewater-Raynham,4053,18,0,Shawsheen,4346,63,1,Independent,Commonwealth,,,0
+2026-01-10,78876,FINAL,Beverly,4038,31,0,Bristol-Plymouth,4057,43,1,Northeastern,Mayflower,,,0
+2026-01-10,78877,FINAL,Beverly,4038,32,0,Wellesley,4413,42,1,Northeastern,Bay State,,,0
+2026-01-10,78879,FINAL,Beverly,4038,30,0,Greater Lowell,4155,53,1,Northeastern,Commonwealth,,,0
+2026-01-10,78881,FINAL,Tewksbury,4389,27,0,Methuen,4246,45,1,Merrimack Valley,Merrimack Valley,,,0
+2026-01-10,78882,FINAL,Whittier,4428,27,0,Methuen,4246,53,1,Commonwealth,Merrimack Valley,,,0
+2026-01-10,78883,FINAL,Springfield Central,4360,48,1,Taunton,4388,26,0,Independent,Hockomock,,,0
+2026-01-10,78886,FINAL,Mount Anthony (Vt.),4728,33,0,Taunton,4388,45,1,Independent,Hockomock,,,0
+2026-01-10,78888,FINAL,Natick,4270,42,1,Taunton,4388,23,0,Bay State,Hockomock,,,0
+2026-01-10,78889,FINAL,Middlebury (Vt.),4727,9,0,Taunton,4388,68,1,Independent,Hockomock,,,0
+2026-01-10,78895,FINAL,St. John’s Prep,4369,44,1,Taunton,4388,25,0,Catholic Conference,Hockomock,,,0
+2026-01-10,78898,FINAL,Hope (R.I.),4496,24,0,Andover,4009,44,1,Independent,Merrimack Valley,,,0
+2026-01-10,78899,FINAL,Newton South,4280,28,0,Andover,4009,51,1,Dual County,Merrimack Valley,,,0
+2026-01-10,78902,FINAL,Marlborough,4233,24,0,Andover,4009,48,1,Mid-Wach,Merrimack Valley,,,0
+2026-01-10,78905,FINAL,Scituate (R.I.),5257,51,1,Andover,4009,29,0,Independent,Merrimack Valley,,,0
+2026-01-10,78908,FINAL,Wellesley,4413,38,0,Greater Lowell,4155,40,1,Bay State,Commonwealth,,,0
+2026-01-10,78910,FINAL,Bristol-Plymouth,4057,40,1,Greater Lowell,4155,32,0,Mayflower,Commonwealth,,,0
+2026-01-10,78913,FINAL,Frontier,4146,6,0,Greater Lawrence,4154,60,1,Independent,Commonwealth,,,0
+2026-01-10,78915,FINAL,Agawam,4004,6,0,Greater Lawrence,4154,75,1,Independent,Commonwealth,,,0
+2026-01-10,78918,FINAL,Greater Lawrence,4154,51,1,Holyoke,4176,26,0,Commonwealth,Independent,,,0
+2026-01-10,78921,FINAL,Belchertown,4032,17,0,Greater Lawrence,4154,57,1,Independent,Commonwealth,,,0
