@@ -129,3 +129,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-10,78915,FINAL,Agawam,4004,6,0,Greater Lawrence,4154,75,1,Independent,Commonwealth,,,0
 2026-01-10,78918,FINAL,Greater Lawrence,4154,51,1,Holyoke,4176,26,0,Commonwealth,Independent,,,0
 2026-01-10,78921,FINAL,Belchertown,4032,17,0,Greater Lawrence,4154,57,1,Independent,Commonwealth,,,0
+2026-01-11,78962,FINAL,Tewksbury,4389,22,0,Hingham,4171,44,1,Merrimack Valley,Patriot,,,0
+2026-01-11,78964,FINAL,Hingham,4171,22,0,Methuen,4246,60,1,Patriot,Merrimack Valley,,,0
+2026-01-11,78965,FINAL,Hingham,4171,34,0,Whittier,4428,45,1,Patriot,Commonwealth,,,0

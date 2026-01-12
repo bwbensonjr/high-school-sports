@@ -1,6 +1,6 @@
 # Girls Indoor Track - 2026 Season
 
-Generated: 2026-01-11 11:15
+Generated: 2026-01-12 11:19
 
 ## Upcoming Games
 
@@ -18,6 +18,10 @@ Generated: 2026-01-11 11:15
 | 2026-01-20 | 5:00 P.M. | Newburyport | Essex Tech | 57.1% | +2.0 |
 | 2026-01-20 | 5:00 P.M. | Hamilton-Wenham | Amesbury | 65.1% | +4.3 |
 | 2026-01-20 | 5:00 P.M. | North Reading | Pentucket | 63.7% | +3.9 |
+| 2026-01-22 | 4:00 P.M. | Natick | Newton North | 44.0% | -1.7 |
+| 2026-01-22 | 4:00 P.M. | Brookline | Wellesley | 55.9% | +1.6 |
+| 2026-01-22 | 4:00 P.M. | Needham | Braintree | 54.9% | +1.4 |
+| 2026-01-22 | 4:00 P.M. | Milton | Walpole | 65.3% | +4.4 |
 
 ## Recent Games
 
@@ -85,10 +89,10 @@ Generated: 2026-01-11 11:15
 | 32 | Somerset Berkley | 1516.4 |
 | 33 | Hingham | 1505.1 |
 | 34 | Wellesley | 1504.6 |
-| 35 | Newburyport | 1502.8 |
-| 36 | Essex Tech | 1502.8 |
-| 37 | North Reading | 1502.8 |
-| 38 | Hamilton-Wenham | 1502.8 |
+| 35 | North Reading | 1502.8 |
+| 36 | Hamilton-Wenham | 1502.8 |
+| 37 | Essex Tech | 1502.8 |
+| 38 | Newburyport | 1502.8 |
 | 39 | Billerica | 1495.9 |
 | 40 | Brookline | 1495.8 |
 | 41 | Malden Catholic | 1495.2 |
