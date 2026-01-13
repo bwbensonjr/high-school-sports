@@ -242,8 +242,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-01,72107,FINAL,Newton North,4279,7.0,1.0,Dedham,4108,6.0,0.0,Bay State,Tri-Valley,2:00 P.M.,,0
 2026-01-01,74719,FINAL,West Springfield,4417,1.0,0.0,Ludlow,4218,4.0,1.0,Berry Division,Fay Division,6:30 P.M.,,0
 2026-01-01,74721,FINAL,Agawam,4004,3.0,0.0,Taconic,4385,5.0,1.0,Fay Division,Independent,8:30 P.M.,,0
-2026-01-02,74724,FINAL,Greenfield,4157,0,0,Longmeadow,4214,5,1,Wright Division,Berry Division,1:00 P.M.,,0
-2026-01-02,74726,FINAL,Minnechaug,4254,1,1,Amherst-Pelham,4008,0,0,Berry Division,Fay Division,4:00 P.M.,,0
+2026-01-02,74724,FINAL,Greenfield,4157,0.0,0.0,Longmeadow,4214,5.0,1.0,Wright Division,Berry Division,1:00 P.M.,,0
+2026-01-02,74726,FINAL,Minnechaug,4254,1.0,1.0,Amherst-Pelham,4008,0.0,0.0,Berry Division,Fay Division,4:00 P.M.,,0
 2026-01-03,64990,FINAL,Andover,4009,0,0,Hingham,4171,5,1,Merrimack Valley/Dual County,Independent,2:40 P.M.,,0
 2026-01-03,65048,FINAL,Braintree,4051,2,0,Milton,4252,3,1,Bay State,Bay State,2:30 P.M.,,0
 2026-01-03,67509,FINAL,Duxbury,4123,2,0,Whitman-Hanson,4427,3,1,Patriot,Patriot,5:00 P.M.,,0
@@ -525,15 +525,16 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-11,67874,FINAL,Malden Catholic,4228,2,1,BC High,4029,0,0,Catholic Conference,Catholic Conference,2:15 P.M.,,0
 2026-01-11,68375,FINAL,Northeast,4293,2,1,Latin Academy,4202,1,0,Commonwealth,Boston City,2:00 P.M.,,0
 2026-01-11,69366,FINAL,Norton,4295,3,1,Somerset Berkley,4350,0,0,Tri-Valley,South Coast,5:45 P.M.,,0
-2026-01-12,67515,UPCOMING,Duxbury,4123,,,Canton,4071,,,Patriot,Hockomock,7:20 P.M.,,0
-2026-01-12,67757,UPCOMING,Stoughton/Brockton,4381,,,North Quincy/Quincy,4287,,,Independent,Patriot,7:00 P.M.,,0
-2026-01-12,69271,UPCOMING,Taunton,4388,,,Apponequet/Old Colony,4011,,,Hockomock,South Coast,4:00 P.M.,,0
-2026-01-12,69348,UPCOMING,Bellingham,4033,,,Greater New Bedford,4156,,,Tri-Valley,South Coast,5:30 P.M.,,0
-2026-01-12,71973,UPCOMING,Medford,4242,,,Bishop Fenwick,4043,,,Greater Boston,Catholic Central,4:00 P.M.,,0
-2026-01-12,76536,UPCOMING,Newburyport,4276,,,Masconomet,4236,,,Cape Ann,Northeastern,4:00 P.M.,,0
-2026-01-12,76539,UPCOMING,Greenfield,4157,,,West Springfield,4417,,,Wright Division,Berry Division,4:30 P.M.,,0
-2026-01-12,76542,UPCOMING,Amherst-Pelham,4008,,,Brattleboro (Vt.),4729,,,Fay Division,Independent,5:00 P.M.,,0
-2026-01-12,76544,UPCOMING,Nashoba,4267,,,Amesbury/Whittier,4007,,,Roy,Cape Ann,6:00 P.M.,,0
+2026-01-12,67515,FINAL,Duxbury,4123,1,0,Canton,4071,4,1,Patriot,Hockomock,7:20 P.M.,,0
+2026-01-12,67757,FINAL,Stoughton/Brockton,4381,1,0,North Quincy/Quincy,4287,6,1,Independent,Patriot,7:00 P.M.,,0
+2026-01-12,69271,FINAL,Taunton,4388,7,1,Apponequet/Old Colony,4011,0,0,Hockomock,South Coast,4:00 P.M.,,0
+2026-01-12,69348,FINAL,Bellingham,4033,6,1,Greater New Bedford,4156,1,0,Tri-Valley,South Coast,5:30 P.M.,,0
+2026-01-12,71973,FINAL,Medford,4242,5,1,Bishop Fenwick,4043,1,0,Greater Boston,Catholic Central,4:00 P.M.,,0
+2026-01-12,76536,FINAL,Newburyport,4276,3,1,Masconomet,4236,2,0,Cape Ann,Northeastern,4:00 P.M.,1.0,0
+2026-01-12,76539,FINAL,Greenfield,4157,2,1,West Springfield,4417,1,0,Wright Division,Berry Division,4:30 P.M.,1.0,0
+2026-01-12,76542,FINAL,Amherst-Pelham,4008,4,1,Brattleboro (Vt.),4729,3,0,Fay Division,Independent,5:00 P.M.,,0
+2026-01-12,76544,FINAL,Nashoba,4267,5,1,Amesbury/Whittier,4007,3,0,Roy,Cape Ann,6:00 P.M.,,0
+2026-01-12,79000,FINAL,Fitchburg/Monty Tech,4139,0,0,Lunenburg/Ayer Shirley,4219,6,1,Coughlin,Coughlin,6:30 P.M.,,0
 2026-01-13,67987,UPCOMING,Norwood,4297,,,Abington,4002,,,Tri-Valley,South Shore,4:30 P.M.,,0
 2026-01-13,68937,UPCOMING,Wakefield,4402,,,Watertown,4409,,,Middlesex,Middlesex,6:00 P.M.,,0
 2026-01-13,72162,UPCOMING,Lowell,4216,,,Gardner,4147,,,Merrimack Valley/Dual County,Coughlin,5:30 P.M.,,0
@@ -793,3 +794,5 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-22,76702,UPCOMING,East Longmeadow,4127,,,Greenfield,4157,,,Berry Division,Wright Division,6:30 P.M.,,0
 2026-01-22,76703,UPCOMING,Northeast,4293,,,Nashoba  Tech/Greater Lowell,4268,,,Commonwealth,Commonwealth,7:00 P.M.,,0
 2026-01-22,76704,UPCOMING,Ludlow,4218,,,Westfield,4419,,,Fay Division,Berry Division,8:30 P.M.,,0
+2026-01-23,72304,UPCOMING,North Andover,4283,,,Boston Latin,4049,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,6:00 P.M.,,0
+2026-01-23,76706,UPCOMING,Holliston/Ashland,4174,,,Norton,4295,,,Tri-Valley,Tri-Valley,6:30 P.M.,,0

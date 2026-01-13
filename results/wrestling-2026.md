@@ -1,6 +1,6 @@
 # Wrestling - 2026 Season
 
-Generated: 2026-01-12 11:19
+Generated: 2026-01-13 11:18
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-01-12 11:19
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-12 | Latin Academy | 54 | Maimonides | 15 | +5.9 | +39.0 |
 | 2026-01-11 | Hingham | 34 | Whittier | 45 | -0.9 | -11.0 |
 | 2026-01-11 | Hingham | 22 | Methuen | 60 | -6.2 | -38.0 |
 | 2026-01-11 | Tewksbury | 22 | Hingham | 44 | -1.5 | -22.0 |
@@ -94,15 +95,15 @@ Generated: 2026-01-12 11:19
 | 8 | Pentucket | 1658.1 |
 | 9 | Watertown | 1651.1 |
 | 10 | New Bedford | 1650.4 |
-| 11 | Weymouth | 1628.3 |
-| 12 | Rockland | 1619.4 |
-| 13 | Leominster | 1616.3 |
-| 14 | Lynnfield/North Reading | 1613.0 |
-| 15 | Arlington | 1611.1 |
-| 16 | Natick | 1610.5 |
-| 17 | Cohasset | 1603.7 |
-| 18 | Middleborough | 1601.2 |
-| 19 | Latin Academy | 1600.7 |
+| 11 | Latin Academy | 1633.8 |
+| 12 | Weymouth | 1628.3 |
+| 13 | Rockland | 1619.4 |
+| 14 | Leominster | 1616.3 |
+| 15 | Lynnfield/North Reading | 1613.0 |
+| 16 | Arlington | 1611.1 |
+| 17 | Natick | 1610.5 |
+| 18 | Cohasset | 1603.7 |
+| 19 | Middleborough | 1601.2 |
 | 20 | Burlington | 1595.7 |
 | 21 | Chelmsford | 1593.8 |
 | 22 | Andover | 1582.6 |
@@ -175,67 +176,68 @@ Generated: 2026-01-12 11:19
 | 89 | Lincoln-Sudbury | 1470.4 |
 | 90 | Brockton | 1470.2 |
 | 91 | Keene (N.H.) | 1470.0 |
-| 92 | Nashoba Valley Tech | 1469.0 |
-| 93 | Oliver Ames | 1468.5 |
-| 94 | Northeast/Bishop Fenwick | 1467.8 |
-| 95 | Hopkinton | 1467.6 |
-| 96 | Mansfield | 1466.1 |
-| 97 | BB&N | 1465.3 |
-| 98 | Deerfield | 1464.9 |
-| 99 | Belchertown | 1464.8 |
-| 100 | Malden Catholic | 1464.0 |
-| 101 | Lexington Christian | 1463.8 |
-| 102 | Keefe Tech | 1463.6 |
-| 103 | East Longmeadow | 1463.0 |
-| 104 | Phillips Exeter | 1461.7 |
-| 105 | Marlborough | 1460.9 |
-| 106 | Mount Anthony (Vt.) | 1460.8 |
-| 107 | Pomfret | 1460.2 |
-| 108 | Malden/Everett | 1458.8 |
-| 109 | Falmouth/Mashpee | 1458.6 |
-| 110 | Pembroke | 1458.6 |
-| 111 | Quincy/North Quincy | 1457.8 |
-| 112 | Landmark | 1456.4 |
-| 113 | Boston Latin | 1454.7 |
-| 114 | Franklin | 1453.5 |
-| 115 | Reading | 1451.8 |
-| 116 | Hope (R.I.) | 1451.6 |
-| 117 | Weston | 1451.1 |
-| 118 | Carver | 1450.9 |
-| 119 | Pioneer Valley | 1449.6 |
-| 120 | Athol | 1448.2 |
-| 121 | Salem | 1448.1 |
-| 122 | Westfield/Westfield Tech | 1446.6 |
-| 123 | Norton | 1445.5 |
-| 124 | North Andover | 1443.4 |
-| 125 | Hyde | 1441.9 |
-| 126 | Mahar | 1437.5 |
-| 127 | Middlebury (Vt.) | 1436.7 |
-| 128 | Hingham | 1434.2 |
-| 129 | Frontier | 1434.1 |
-| 130 | Excel Academy | 1432.3 |
-| 131 | Gloucester | 1432.2 |
-| 132 | King Philip | 1431.6 |
-| 133 | Marshfield | 1427.6 |
-| 134 | Lynn Tech | 1426.7 |
-| 135 | Monty Tech/Fitchburg | 1426.4 |
-| 136 | Nobles | 1424.6 |
-| 137 | Lawrence | 1424.4 |
-| 138 | Catholic Memorial | 1423.2 |
-| 139 | Brooks | 1417.8 |
-| 140 | Beverly | 1417.3 |
-| 141 | Worcester Tech | 1416.6 |
-| 142 | Lexington | 1416.1 |
-| 143 | Plymouth North | 1407.6 |
-| 144 | Wilmington | 1402.7 |
-| 145 | Newton South | 1401.1 |
-| 146 | Barnstable | 1382.6 |
-| 147 | North Attleborough | 1381.6 |
-| 148 | Danvers | 1381.0 |
-| 149 | Triton | 1374.1 |
-| 150 | Brookline | 1357.0 |
-| 151 | East Boston | 1355.4 |
-| 152 | Billerica | 1351.2 |
-| 153 | Algonquin | 1340.7 |
-| 154 | Stoughton | 1334.7 |
-| 155 | Tewksbury | 1329.4 |
+| 92 | Maimonides | 1469.7 |
+| 93 | Nashoba Valley Tech | 1469.0 |
+| 94 | Oliver Ames | 1468.5 |
+| 95 | Northeast/Bishop Fenwick | 1467.8 |
+| 96 | Hopkinton | 1467.6 |
+| 97 | Mansfield | 1466.1 |
+| 98 | BB&N | 1465.3 |
+| 99 | Deerfield | 1464.9 |
+| 100 | Belchertown | 1464.8 |
+| 101 | Malden Catholic | 1464.0 |
+| 102 | Lexington Christian | 1463.8 |
+| 103 | Keefe Tech | 1463.6 |
+| 104 | East Longmeadow | 1463.0 |
+| 105 | Phillips Exeter | 1461.7 |
+| 106 | Marlborough | 1460.9 |
+| 107 | Mount Anthony (Vt.) | 1460.8 |
+| 108 | Pomfret | 1460.2 |
+| 109 | Malden/Everett | 1458.8 |
+| 110 | Falmouth/Mashpee | 1458.6 |
+| 111 | Pembroke | 1458.6 |
+| 112 | Quincy/North Quincy | 1457.8 |
+| 113 | Landmark | 1456.4 |
+| 114 | Boston Latin | 1454.7 |
+| 115 | Franklin | 1453.5 |
+| 116 | Reading | 1451.8 |
+| 117 | Hope (R.I.) | 1451.6 |
+| 118 | Weston | 1451.1 |
+| 119 | Carver | 1450.9 |
+| 120 | Pioneer Valley | 1449.6 |
+| 121 | Athol | 1448.2 |
+| 122 | Salem | 1448.1 |
+| 123 | Westfield/Westfield Tech | 1446.6 |
+| 124 | Norton | 1445.5 |
+| 125 | North Andover | 1443.4 |
+| 126 | Hyde | 1441.9 |
+| 127 | Mahar | 1437.5 |
+| 128 | Middlebury (Vt.) | 1436.7 |
+| 129 | Hingham | 1434.2 |
+| 130 | Frontier | 1434.1 |
+| 131 | Excel Academy | 1432.3 |
+| 132 | Gloucester | 1432.2 |
+| 133 | King Philip | 1431.6 |
+| 134 | Marshfield | 1427.6 |
+| 135 | Lynn Tech | 1426.7 |
+| 136 | Monty Tech/Fitchburg | 1426.4 |
+| 137 | Nobles | 1424.6 |
+| 138 | Lawrence | 1424.4 |
+| 139 | Catholic Memorial | 1423.2 |
+| 140 | Brooks | 1417.8 |
+| 141 | Beverly | 1417.3 |
+| 142 | Worcester Tech | 1416.6 |
+| 143 | Lexington | 1416.1 |
+| 144 | Plymouth North | 1407.6 |
+| 145 | Wilmington | 1402.7 |
+| 146 | Newton South | 1401.1 |
+| 147 | Barnstable | 1382.6 |
+| 148 | North Attleborough | 1381.6 |
+| 149 | Danvers | 1381.0 |
+| 150 | Triton | 1374.1 |
+| 151 | Brookline | 1357.0 |
+| 152 | East Boston | 1355.4 |
+| 153 | Billerica | 1351.2 |
+| 154 | Algonquin | 1340.7 |
+| 155 | Stoughton | 1334.7 |
+| 156 | Tewksbury | 1329.4 |

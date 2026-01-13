@@ -1,40 +1,36 @@
 # Boys Indoor Track - 2026 Season
 
-Generated: 2026-01-12 11:19
+Generated: 2026-01-13 11:18
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-01-12 | 4:00 P.M. | Belmont | Woburn | 57.1% | +2.0 |
-| 2026-01-12 | 4:00 P.M. | Burlington | Wakefield | 57.1% | +2.0 |
-| 2026-01-12 | 4:00 P.M. | Lexington | Reading | 57.1% | +2.0 |
-| 2026-01-12 | 4:00 P.M. | Randolph | Norwell | 57.1% | +2.0 |
-| 2026-01-13 | 3:00 P.M. | West Bridgewater | Joseph Case | 42.0% | -2.2 |
-| 2026-01-13 | 3:30 P.M. | Sandwich | St. John Paul II | 57.1% | +2.0 |
-| 2026-01-13 | 3:00 P.M. | Falmouth | Martha’s Vineyard | 60.2% | +2.9 |
-| 2026-01-13 | 3:00 P.M. | Dennis-Yarmouth | Nauset | 54.0% | +1.1 |
-| 2026-01-13 | 6:30 P.M. | Somerset Berkley | Greater New Bedford | 59.2% | +2.6 |
-| 2026-01-13 | 5:00 P.M. | Hamilton-Wenham | Ipswich | 66.3% | +4.7 |
-| 2026-01-13 | 5:00 P.M. | Essex Tech | North Reading | 57.1% | +2.0 |
-| 2026-01-13 | 5:00 P.M. | Manchester Essex | Amesbury | 41.9% | -2.3 |
 | 2026-01-13 | 7:30 P.M. | Arlington | Bishop Fenwick | 74.0% | +7.3 |
+| 2026-01-13 | 5:00 P.M. | Manchester Essex | Amesbury | 41.9% | -2.3 |
+| 2026-01-13 | 5:00 P.M. | Essex Tech | North Reading | 57.1% | +2.0 |
+| 2026-01-13 | 5:00 P.M. | Hamilton-Wenham | Ipswich | 66.3% | +4.7 |
 | 2026-01-13 | 5:00 P.M. | Newburyport | Triton | 60.0% | +2.8 |
+| 2026-01-13 | 3:00 P.M. | Dennis-Yarmouth | Nauset | 54.0% | +1.1 |
+| 2026-01-13 | 3:00 P.M. | Falmouth | Martha’s Vineyard | 60.2% | +2.9 |
+| 2026-01-13 | 3:30 P.M. | Sandwich | St. John Paul II | 57.1% | +2.0 |
+| 2026-01-13 | 6:30 P.M. | Somerset Berkley | Greater New Bedford | 59.2% | +2.6 |
+| 2026-01-13 | 3:00 P.M. | West Bridgewater | Joseph Case | 42.0% | -2.2 |
 | 2026-01-14 | 4:00 P.M. | Arlington | Winchester | 57.1% | +2.0 |
 | 2026-01-14 | 4:00 P.M. | Watertown | Wilmington | 57.1% | +2.0 |
 | 2026-01-14 | 4:00 P.M. | Melrose | Stoneham | 57.1% | +2.0 |
 | 2026-01-14 | 6:30 P.M. | Norton | Bellingham | 61.1% | +3.1 |
-| 2026-01-14 | 3:30 P.M. | Waltham | Boston Latin | 57.1% | +2.0 |
 | 2026-01-14 | 3:30 P.M. | Bedford | Wayland | 57.1% | +2.0 |
+| 2026-01-14 | 3:30 P.M. | Waltham | Boston Latin | 57.1% | +2.0 |
 | 2026-01-14 | 3:30 P.M. | Westford | Lincoln-Sudbury | 57.1% | +2.0 |
 | 2026-01-14 | 3:30 P.M. | Cambridge | Newton South | 57.1% | +2.0 |
 | 2026-01-14 | 4:00 P.M. | Wayland | Boston Latin | 57.1% | +2.0 |
 | 2026-01-15 | 6:30 P.M. | Bourne | Fairhaven | 62.9% | +3.7 |
-| 2026-01-15 | 3:15 P.M. | Old Rochester | Dighton-Rehoboth | 72.2% | +6.6 |
-| 2026-01-15 | 4:00 P.M. | Natick | Framingham | 71.3% | +6.3 |
-| 2026-01-15 | 4:00 P.M. | Needham | Wellesley | 57.9% | +2.2 |
-| 2026-01-15 | 4:00 P.M. | Braintree | Milton | 50.7% | +0.2 |
 | 2026-01-15 | 4:00 P.M. | Brookline | Newton North | 61.7% | +3.3 |
+| 2026-01-15 | 4:00 P.M. | Braintree | Milton | 50.7% | +0.2 |
+| 2026-01-15 | 4:00 P.M. | Needham | Wellesley | 57.9% | +2.2 |
+| 2026-01-15 | 4:00 P.M. | Natick | Framingham | 71.3% | +6.3 |
+| 2026-01-15 | 3:15 P.M. | Old Rochester | Dighton-Rehoboth | 72.2% | +6.6 |
 | 2026-01-19 | 2:00 P.M. | Apponequet | Bourne | 48.3% | -0.5 |
 | 2026-01-20 | 4:00 P.M. | Archbishop Williams | Arlington | 64.8% | +4.2 |
 | 2026-01-20 | 4:00 P.M. | Arlington | Bishop Fenwick | 74.0% | +7.3 |
@@ -45,11 +41,10 @@ Generated: 2026-01-12 11:19
 | 2026-01-20 | 5:00 P.M. | Ipswich | Lynnfield | 41.9% | -2.3 |
 | 2026-01-20 | 5:00 P.M. | North Reading | Pentucket | 54.2% | +1.2 |
 | 2026-01-20 | 3:00 P.M. | Nantucket | Martha’s Vineyard | 60.2% | +2.9 |
-| 2026-01-21 | 3:30 P.M. | Wayland | Waltham | 57.1% | +2.0 |
 | 2026-01-21 | 3:30 P.M. | Bedford | Boston Latin | 57.1% | +2.0 |
+| 2026-01-21 | 3:30 P.M. | Wayland | Waltham | 57.1% | +2.0 |
 | 2026-01-21 | 3:30 P.M. | Westford | Newton South | 57.1% | +2.0 |
 | 2026-01-21 | 3:30 P.M. | Bedford | Weston | 57.1% | +2.0 |
-| 2026-01-22 | 7:30 P.M. | Millis | Dover-Sherborn | 57.1% | +2.0 |
 | 2026-01-22 | 4:00 P.M. | Natick | Newton North | 49.5% | -0.1 |
 | 2026-01-22 | 4:00 P.M. | Brookline | Wellesley | 77.2% | +8.5 |
 | 2026-01-22 | 4:00 P.M. | Needham | Braintree | 61.1% | +3.1 |
@@ -57,7 +52,11 @@ Generated: 2026-01-12 11:19
 | 2026-01-22 | 7:30 P.M. | Holliston | Dedham | 65.2% | +4.4 |
 | 2026-01-22 | 7:30 P.M. | Hopkinton | Norwood | 65.2% | +4.4 |
 | 2026-01-22 | 7:30 P.M. | Westwood | Ashland | 57.1% | +2.0 |
+| 2026-01-22 | 7:30 P.M. | Millis | Dover-Sherborn | 57.1% | +2.0 |
 | 2026-01-22 | 7:30 P.M. | Medfield | Medway | 53.1% | +0.9 |
+| 2026-01-23 | 4:30 P.M. | Lynn English | Malden | 57.1% | +2.0 |
+| 2026-01-23 | 4:30 P.M. | Chelsea | Lynn Classical | 57.1% | +2.0 |
+| 2026-01-23 | 4:30 P.M. | Somerville | Revere | 57.1% | +2.0 |
 
 ## Recent Games
 
@@ -130,88 +129,94 @@ Generated: 2026-01-12 11:19
 | 30 | Seekonk | 1520.2 |
 | 31 | Somerset Berkley | 1517.7 |
 | 32 | Natick | 1511.3 |
-| 33 | Millis | 1502.8 |
-| 34 | Randolph | 1502.8 |
-| 35 | Medway | 1502.8 |
-| 36 | Concord-Carlisle | 1502.8 |
-| 37 | Waltham | 1502.8 |
-| 38 | Winchester | 1502.8 |
-| 39 | Ashland | 1502.8 |
-| 40 | Dover-Sherborn | 1502.8 |
-| 41 | Newburyport | 1502.8 |
+| 33 | Dennis-Yarmouth | 1502.8 |
+| 34 | Essex Tech | 1502.8 |
+| 35 | Bourne | 1502.8 |
+| 36 | Waltham | 1502.8 |
+| 37 | Rockland | 1502.8 |
+| 38 | Newburyport | 1502.8 |
+| 39 | Hamilton-Wenham | 1502.8 |
+| 40 | Arlington | 1502.8 |
+| 41 | Woburn | 1502.8 |
 | 42 | Bellingham | 1502.8 |
-| 43 | Carver | 1502.8 |
-| 44 | Lincoln-Sudbury | 1502.8 |
+| 43 | Cambridge | 1502.8 |
+| 44 | Lynn Classical | 1502.8 |
 | 45 | Boston Latin | 1502.8 |
-| 46 | Nantucket | 1502.8 |
-| 47 | Falmouth | 1502.8 |
-| 48 | Monomoy | 1502.8 |
-| 49 | Greater New Bedford | 1502.8 |
-| 50 | Norwell | 1502.8 |
-| 51 | St. John Paul II | 1502.8 |
-| 52 | Lexington | 1502.8 |
-| 53 | North Reading | 1502.8 |
-| 54 | Cambridge | 1502.8 |
-| 55 | Essex Tech | 1502.8 |
-| 56 | Stoneham | 1502.8 |
-| 57 | Bedford | 1502.8 |
-| 58 | Dennis-Yarmouth | 1502.8 |
-| 59 | Reading | 1502.8 |
-| 60 | Belmont | 1502.8 |
-| 61 | Middleborough | 1502.8 |
-| 62 | Woburn | 1502.8 |
-| 63 | Hull | 1502.8 |
-| 64 | Wakefield | 1502.8 |
-| 65 | Arlington | 1502.8 |
-| 66 | Melrose | 1502.8 |
-| 67 | Dedham | 1502.8 |
-| 68 | Hamilton-Wenham | 1502.8 |
-| 69 | Burlington | 1502.8 |
-| 70 | Newton South | 1502.8 |
-| 71 | Watertown | 1502.8 |
-| 72 | Weston | 1502.8 |
-| 73 | Rockland | 1502.8 |
-| 74 | Wayland | 1502.8 |
-| 75 | Hopkinton | 1502.8 |
-| 76 | Westwood | 1502.8 |
-| 77 | Wilmington | 1502.8 |
-| 78 | Westford | 1502.8 |
-| 79 | Bourne | 1502.8 |
-| 80 | Sandwich | 1502.8 |
-| 81 | Andover | 1502.8 |
-| 82 | Tri-County | 1484.3 |
-| 83 | Triton | 1482.1 |
-| 84 | Martha’s Vineyard | 1480.7 |
-| 85 | Wareham | 1479.5 |
-| 86 | North Andover | 1476.2 |
-| 87 | Peabody | 1475.2 |
-| 88 | Billerica | 1474.4 |
-| 89 | Medfield | 1474.3 |
-| 90 | Milford | 1472.6 |
-| 91 | Dighton-Rehoboth | 1468.4 |
-| 92 | Manchester Essex | 1463.6 |
-| 93 | King Philip | 1463.3 |
-| 94 | West Bridgewater | 1461.9 |
-| 95 | Fairhaven | 1461.1 |
-| 96 | Milton | 1458.2 |
-| 97 | Arlington Catholic | 1451.1 |
-| 98 | Bishop Stang | 1450.9 |
-| 99 | Silver Lake | 1447.6 |
-| 100 | Scituate | 1445.6 |
-| 101 | Norwood | 1443.9 |
-| 102 | North Quincy/Quincy | 1441.8 |
-| 103 | Needham | 1441.7 |
-| 104 | Apponequet | 1441.1 |
-| 105 | Boston International | 1439.9 |
-| 106 | Whitman-Hanson | 1436.6 |
-| 107 | Wellesley | 1436.1 |
-| 108 | Ipswich | 1435.3 |
-| 109 | Taunton | 1429.4 |
-| 110 | Braintree | 1413.2 |
-| 111 | Canton | 1409.7 |
-| 112 | North Attleborough | 1408.6 |
-| 113 | Framingham | 1403.1 |
-| 114 | Foxborough | 1373.2 |
-| 115 | Bishop Fenwick | 1371.4 |
-| 116 | Sharon | 1355.7 |
-| 117 | Cristo Rey | 1329.1 |
+| 46 | Norwell | 1502.8 |
+| 47 | Stoneham | 1502.8 |
+| 48 | Watertown | 1502.8 |
+| 49 | North Reading | 1502.8 |
+| 50 | Reading | 1502.8 |
+| 51 | Millis | 1502.8 |
+| 52 | Carver | 1502.8 |
+| 53 | Falmouth | 1502.8 |
+| 54 | Wayland | 1502.8 |
+| 55 | Newton South | 1502.8 |
+| 56 | Weston | 1502.8 |
+| 57 | Wakefield | 1502.8 |
+| 58 | Bedford | 1502.8 |
+| 59 | Hopkinton | 1502.8 |
+| 60 | Dedham | 1502.8 |
+| 61 | Andover | 1502.8 |
+| 62 | Belmont | 1502.8 |
+| 63 | Melrose | 1502.8 |
+| 64 | Somerville | 1502.8 |
+| 65 | Chelsea | 1502.8 |
+| 66 | Malden | 1502.8 |
+| 67 | Middleborough | 1502.8 |
+| 68 | Dover-Sherborn | 1502.8 |
+| 69 | Winchester | 1502.8 |
+| 70 | Hull | 1502.8 |
+| 71 | Lynn English | 1502.8 |
+| 72 | Nantucket | 1502.8 |
+| 73 | Medway | 1502.8 |
+| 74 | Westford | 1502.8 |
+| 75 | Concord-Carlisle | 1502.8 |
+| 76 | Sandwich | 1502.8 |
+| 77 | Lexington | 1502.8 |
+| 78 | St. John Paul II | 1502.8 |
+| 79 | Randolph | 1502.8 |
+| 80 | Wilmington | 1502.8 |
+| 81 | Westwood | 1502.8 |
+| 82 | Lincoln-Sudbury | 1502.8 |
+| 83 | Monomoy | 1502.8 |
+| 84 | Ashland | 1502.8 |
+| 85 | Greater New Bedford | 1502.8 |
+| 86 | Burlington | 1502.8 |
+| 87 | Revere | 1502.8 |
+| 88 | Tri-County | 1484.3 |
+| 89 | Triton | 1482.1 |
+| 90 | Martha’s Vineyard | 1480.7 |
+| 91 | Wareham | 1479.5 |
+| 92 | North Andover | 1476.2 |
+| 93 | Peabody | 1475.2 |
+| 94 | Billerica | 1474.4 |
+| 95 | Medfield | 1474.3 |
+| 96 | Milford | 1472.6 |
+| 97 | Dighton-Rehoboth | 1468.4 |
+| 98 | Manchester Essex | 1463.6 |
+| 99 | King Philip | 1463.3 |
+| 100 | West Bridgewater | 1461.9 |
+| 101 | Fairhaven | 1461.1 |
+| 102 | Milton | 1458.2 |
+| 103 | Arlington Catholic | 1451.1 |
+| 104 | Bishop Stang | 1450.9 |
+| 105 | Silver Lake | 1447.6 |
+| 106 | Scituate | 1445.6 |
+| 107 | Norwood | 1443.9 |
+| 108 | North Quincy/Quincy | 1441.8 |
+| 109 | Needham | 1441.7 |
+| 110 | Apponequet | 1441.1 |
+| 111 | Boston International | 1439.9 |
+| 112 | Whitman-Hanson | 1436.6 |
+| 113 | Wellesley | 1436.1 |
+| 114 | Ipswich | 1435.3 |
+| 115 | Taunton | 1429.4 |
+| 116 | Braintree | 1413.2 |
+| 117 | Canton | 1409.7 |
+| 118 | North Attleborough | 1408.6 |
+| 119 | Framingham | 1403.1 |
+| 120 | Foxborough | 1373.2 |
+| 121 | Bishop Fenwick | 1371.4 |
+| 122 | Sharon | 1355.7 |
+| 123 | Cristo Rey | 1329.1 |
