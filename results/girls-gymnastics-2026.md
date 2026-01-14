@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2026 Season
 
-Generated: 2026-01-13 11:18
+Generated: 2026-01-14 11:20
 
 ## Upcoming Games
 
@@ -19,21 +19,20 @@ Generated: 2026-01-13 11:18
 | 2026-01-11 | Pembroke/Silver Lake | 129 | Hanover | 125 | +1.6 | +4.7 |
 | 2026-01-11 | Hingham/Hull | 134 | Pembroke/Silver Lake | 125 | +6.7 | +9.7 |
 | 2026-01-11 | Hingham/Hull | 134 | Hanover | 125 | +5.3 | +9.7 |
-| 2026-01-10 | Scituate | 130 | Hingham/Hull | 138 | +0.0 | -8.5 |
 | 2026-01-10 | Mansfield | 141 | King Philip | 137 | +2.0 | +4.0 |
+| 2026-01-10 | Scituate | 130 | Hingham/Hull | 138 | +0.0 | -8.5 |
 | 2026-01-09 | Marshfield | 135 | Whitman-Hanson | 131 | +2.9 | +3.7 |
 | 2026-01-09 | Needham | 131 | Framingham | 129 | +2.0 | +2.2 |
 | 2026-01-08 | Melrose | 133 | Burlington | 132 | +2.0 | +0.7 |
 | 2026-01-08 | Wilmington/Bedford | 140 | Stoneham | 125 | +2.0 | +14.1 |
 | 2026-01-08 | Westford | 134 | Wayland | 119 | +3.1 | +14.8 |
 | 2026-01-08 | Arlington | 124 | Wakefield | 124 | +2.0 | -0.0 |
-| 2026-01-07 | Central Catholic | 137 | Chelmsford/B/T | 131 | +5.0 | +5.9 |
+| 2026-01-07 | Central Catholic | 137 | Dracut | 110 | +5.3 | +27.6 |
 | 2026-01-07 | Marshfield | 133 | Pembroke/Silver Lake | 131 | +1.2 | +1.5 |
 | 2026-01-07 | Methuen | 112 | Haverhill | 128 | -0.7 | -16.1 |
 | 2026-01-07 | Whitman-Hanson | 125 | Hingham/Hull | 130 | +1.2 | -5.1 |
 | 2026-01-07 | Chelmsford/B/T | 131 | Dracut | 110 | +2.1 | +21.7 |
-| 2026-01-07 | Central Catholic | 137 | Dracut | 110 | +5.3 | +27.6 |
-| 2026-01-06 | Newton South | 90 | Newton North | 142 | -1.1 | -51.7 |
+| 2026-01-07 | Central Catholic | 137 | Chelmsford/B/T | 131 | +5.0 | +5.9 |
 
 ## Current Elo Ratings
 
