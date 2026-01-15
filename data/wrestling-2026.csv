@@ -135,3 +135,26 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-12,78995,FINAL,Latin Academy,4202,54,1,Maimonides,4473,15,0,Boston City,Independent,,,0
 2026-01-13,79806,FINAL,Watertown,4409,45,1,Belmont,4034,29,0,Middlesex,Middlesex,,,0
 2026-01-13,79808,FINAL,Dedham,4108,51,1,Hopkinton,4180,29,0,Tri-Valley,Tri-Valley,,,0
+2026-01-14,80200,FINAL,Roxbury Latin,4334,72,1,BB&N,4028,6,0,ISL,ISL,,,0
+2026-01-14,80203,FINAL,Roxbury Latin,4334,78,1,Governor’s Academy,4152,0,0,ISL,ISL,,,0
+2026-01-14,80206,FINAL,Roxbury Latin,4334,65,1,Milton Academy,4253,6,0,ISL,ISL,,,0
+2026-01-14,80226,FINAL,Duxbury,4123,42,1,Plymouth North,4315,40,0,Patriot,Patriot,,,0
+2026-01-14,80229,FINAL,Xaverian,4446,47,1,Newton North,4279,30,0,Catholic Conference,Bay State,,,0
+2026-01-14,80250,FINAL,Cambridge,4067,40,1,Bedford / A-B,4031,32,0,Dual County,Dual County,,,0
+2026-01-14,80257,FINAL,Concord-Carlisle,4097,33,0,Westford,4421,43,1,Dual County,Dual County,,,0
+2026-01-14,80268,FINAL,Danvers,4103,33,0,Marblehead/Swampscott,4231,42,1,Northeastern,Northeastern,,,0
+2026-01-14,80272,FINAL,Taunton,4388,46,1,King Philip,4197,33,0,Hockomock,Hockomock,,,0
+2026-01-14,80285,FINAL,Lawrence,4203,21,0,Methuen,4246,52,1,Merrimack Valley,Merrimack Valley,,,0
+2026-01-14,80288,FINAL,East Boston,4125,24,0,Worcester Tech,4445,60,1,Boston City,Independent,,,0
+2026-01-14,80291,FINAL,Worcester Tech,4445,39,0,Latin Academy,4202,42,1,Independent,Boston City,,,0
+2026-01-14,80300,FINAL,Lynnfield/North Reading,4223,57,1,Pentucket,4309,22,0,Cape Ann,Cape Ann,,,0
+2026-01-14,80318,FINAL,Ashland,4015,12,0,Shawsheen,4346,61,1,Tri-Valley,Commonwealth,,,0
+2026-01-14,80319,FINAL,Weymouth,4425,51,1,Milton,4252,28,0,Bay State,Bay State,,,0
+2026-01-14,80321,FINAL,Burlington,4065,26,0,St. John’s (Shrewsbury),4368,41,1,Middlesex,Catholic Conference,,,0
+2026-01-14,80322,FINAL,Tewksbury,4389,42,1,Haverhill,4167,34,0,Merrimack Valley,Merrimack Valley,,,0
+2026-01-14,80329,FINAL,Essex Tech / Masco,4745,40,0,Triton,4395,42,1,Cape Ann,Cape Ann,,,0
+2026-01-14,80345,FINAL,West Springfield,4417,29,0,Springfield Central,4360,42,1,Independent,Independent,,,0
+2026-01-14,80347,FINAL,Brookline,4059,28,0,Wellesley,4413,49,1,Bay State,Bay State,,,0
+2026-01-14,80348,FINAL,Gloucester,4150,41,1,Beverly,4038,39,0,Northeastern,Northeastern,,,0
+2026-01-14,80351,FINAL,Brooks,4060,44,1,Middlesex,4248,33,0,ISL,ISL,,,0
+2026-01-14,80354,FINAL,Brooks,4060,36,1,Thayer,4390,31,0,ISL,ISL,,,0

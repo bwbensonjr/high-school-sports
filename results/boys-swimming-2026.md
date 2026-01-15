@@ -1,6 +1,6 @@
 # Boys Swimming - 2026 Season
 
-Generated: 2026-01-14 11:20
+Generated: 2026-01-15 11:18
 
 ## Upcoming Games
 
@@ -11,6 +11,11 @@ Generated: 2026-01-14 11:20
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-14 | Oliver Ames | 75 | Stoughton | 57 | +6.2 | +18.0 |
+| 2026-01-14 | Nantucket | 93 | Nauset | 47 | +2.5 | +46.0 |
+| 2026-01-14 | Catholic Memorial | 97 | Medfield | 34 | +2.3 | +63.0 |
+| 2026-01-14 | Dedham | 75 | Westwood | 93 | -0.7 | -18.0 |
+| 2026-01-14 | St. John’s Prep | 108 | Xaverian | 76 | -1.8 | +32.0 |
 | 2026-01-13 | Pembroke | 27 | Quincy/North Quincy | 85 | -3.1 | -58.0 |
 | 2026-01-13 | Wellesley | 90 | Brookline | 93 | -0.6 | -3.0 |
 | 2026-01-13 | Apponequet/Old Colony | 96 | Seekonk | 83 | +2.9 | +13.0 |
@@ -38,56 +43,56 @@ Generated: 2026-01-14 11:20
 |------|------|------------|
 | 1 | Chelmsford | 1632.8 |
 | 2 | Quincy/North Quincy | 1632.7 |
-| 3 | Xaverian | 1630.4 |
-| 4 | Westford | 1601.5 |
-| 5 | Durfee | 1590.3 |
-| 6 | Apponequet/Old Colony | 1580.3 |
-| 7 | Shrewsbury | 1573.2 |
-| 8 | Advanced Math and Science | 1567.7 |
-| 9 | Bishop Feehan | 1567.6 |
-| 10 | Belmont | 1566.7 |
-| 11 | Martha’s Vineyard | 1560.4 |
-| 12 | Sharon | 1558.2 |
-| 13 | Nantucket | 1550.5 |
-| 14 | Tantasqua | 1548.3 |
-| 15 | New Bedford | 1546.9 |
-| 16 | Westwood | 1546.6 |
-| 17 | North Attleborough | 1546.3 |
-| 18 | Hingham | 1546.1 |
-| 19 | Nauset | 1537.6 |
+| 3 | Westford | 1601.5 |
+| 4 | Nantucket | 1597.9 |
+| 5 | St. John’s Prep | 1594.3 |
+| 6 | Durfee | 1590.3 |
+| 7 | Westwood | 1588.4 |
+| 8 | Apponequet/Old Colony | 1580.3 |
+| 9 | Shrewsbury | 1573.2 |
+| 10 | Xaverian | 1571.2 |
+| 11 | Advanced Math and Science | 1567.7 |
+| 12 | Bishop Feehan | 1567.6 |
+| 13 | Belmont | 1566.7 |
+| 14 | Martha’s Vineyard | 1560.4 |
+| 15 | Sharon | 1558.2 |
+| 16 | Tantasqua | 1548.3 |
+| 17 | New Bedford | 1546.9 |
+| 18 | North Attleborough | 1546.3 |
+| 19 | Hingham | 1546.1 |
 | 20 | Winchester | 1535.5 |
-| 21 | St. John’s Prep | 1535.0 |
-| 22 | Sandwich | 1534.7 |
-| 23 | Weston | 1534.6 |
-| 24 | Canton | 1533.0 |
-| 25 | Duxbury | 1530.9 |
+| 21 | Sandwich | 1534.7 |
+| 22 | Weston | 1534.6 |
+| 23 | Canton | 1533.0 |
+| 24 | Duxbury | 1530.9 |
+| 25 | Oliver Ames | 1527.3 |
 | 26 | Wayland | 1526.5 |
 | 27 | Ashland | 1525.4 |
 | 28 | Bridgewater-Raynham | 1522.7 |
 | 29 | Brookline | 1521.5 |
-| 30 | Haverhill | 1515.3 |
-| 31 | Malden Catholic | 1514.3 |
-| 32 | Mansfield | 1507.9 |
-| 33 | Andover | 1502.3 |
-| 34 | Westborough | 1495.7 |
-| 35 | Seekonk | 1494.6 |
-| 36 | Concord-Carlisle | 1494.5 |
-| 37 | Natick | 1494.1 |
-| 38 | Latin Academy | 1489.0 |
-| 39 | Foxborough | 1485.0 |
-| 40 | Dedham | 1477.9 |
-| 41 | Holliston/Medway | 1476.8 |
-| 42 | Bishop Stang | 1476.1 |
-| 43 | Lincoln-Sudbury | 1473.1 |
-| 44 | BC High | 1470.8 |
-| 45 | Newton South | 1468.7 |
-| 46 | Lexington | 1468.5 |
-| 47 | Melrose | 1467.8 |
-| 48 | Catholic Memorial | 1464.2 |
+| 30 | Catholic Memorial | 1516.3 |
+| 31 | Haverhill | 1515.3 |
+| 32 | Malden Catholic | 1514.3 |
+| 33 | Mansfield | 1507.9 |
+| 34 | Andover | 1502.3 |
+| 35 | Westborough | 1495.7 |
+| 36 | Seekonk | 1494.6 |
+| 37 | Concord-Carlisle | 1494.5 |
+| 38 | Natick | 1494.1 |
+| 39 | Nauset | 1490.2 |
+| 40 | Latin Academy | 1489.0 |
+| 41 | Foxborough | 1485.0 |
+| 42 | Holliston/Medway | 1476.8 |
+| 43 | Bishop Stang | 1476.1 |
+| 44 | Lincoln-Sudbury | 1473.1 |
+| 45 | BC High | 1470.8 |
+| 46 | Newton South | 1468.7 |
+| 47 | Lexington | 1468.5 |
+| 48 | Melrose | 1467.8 |
 | 49 | Cardinal Spellman | 1459.9 |
-| 50 | Medfield | 1456.7 |
-| 51 | Attleboro | 1445.1 |
-| 52 | Boston Latin | 1437.4 |
+| 50 | Attleboro | 1445.1 |
+| 51 | Boston Latin | 1437.4 |
+| 52 | Dedham | 1436.1 |
 | 53 | St. John’s (Shrewsbury) | 1434.1 |
 | 54 | Marshfield/Hanover | 1432.7 |
 | 55 | Plymouth North/South | 1431.9 |
@@ -98,6 +103,7 @@ Generated: 2026-01-14 11:20
 | 60 | Barnstable | 1415.6 |
 | 61 | Pembroke | 1409.5 |
 | 62 | Norwell | 1408.5 |
-| 63 | Stoughton | 1396.2 |
+| 63 | Medfield | 1404.5 |
 | 64 | Nashoba | 1394.9 |
 | 65 | Central Catholic | 1370.8 |
+| 66 | Stoughton | 1370.6 |

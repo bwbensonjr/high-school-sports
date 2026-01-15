@@ -67,7 +67,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-13,77613,UPCOMING,Arlington,4013,,,Bishop Fenwick,4043,,,Middlesex,Catholic Central,7:30 P.M.,,0
 2026-01-13,77662,UPCOMING,Manchester Essex,4229,,,Amesbury,4007,,,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-01-13,77671,UPCOMING,Essex Tech,4745,,,North Reading,4288,,,Cape Ann,Cape Ann,5:00 P.M.,,0
-2026-01-13,77686,UPCOMING,Hamilton-Wenham,4163,,,Ipswich,4190,,,Cape Ann,Cape Ann,5:00 P.M.,,0
+2026-01-13,77686,FINAL,Hamilton-Wenham,4163,44,0,Ipswich,4190,56,1,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-01-13,77710,UPCOMING,Newburyport,4276,,,Triton,4395,,,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-01-13,77713,FINAL,Dennis-Yarmouth,4111,65.5,1,Nauset,4271,34.5,0,Cape & Islands,Cape & Islands,3:00 P.M.,,0
 2026-01-13,77723,UPCOMING,Falmouth,4134,,,Martha’s Vineyard,4235,,,Cape & Islands,Cape & Islands,3:00 P.M.,,0
@@ -77,7 +77,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-13,79896,FINAL,Cardinal Spellman,4075,44,0,St. Mary’s,4374,56,1,Tri-County,Catholic Central,,,0
 2026-01-13,79898,FINAL,Arlington Catholic,4014,,,Bishop Fenwick,4043,,,Catholic Central,Catholic Central,,,0
 2026-01-13,79901,FINAL,Cristo Rey,4453,10,0,Archbishop Williams,4012,86,1,Catholic Central,Catholic Central,,,0
-2026-01-14,77544,UPCOMING,Cambridge,4067,,,Newton South,4280,,,Dual County,Dual County,3:30 P.M.,,0
+2026-01-14,77544,FINAL,Cambridge,4067,50,2,Newton South,4280,50,2,Dual County,Dual County,3:30 P.M.,,0
 2026-01-14,77566,UPCOMING,Westford,4421,,,Lincoln-Sudbury,4211,,,Dual County,Dual County,3:30 P.M.,,0
 2026-01-14,77595,UPCOMING,Bedford,4031,,,Wayland,4411,,,Dual County,Dual County,3:30 P.M.,,0
 2026-01-14,77602,UPCOMING,Waltham,4405,,,Boston Latin,4049,,,Dual County,Dual County,3:30 P.M.,,0
@@ -86,6 +86,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-14,77660,UPCOMING,Melrose,4244,,,Stoneham,4380,,,Middlesex,Middlesex,4:00 P.M.,,0
 2026-01-14,77666,UPCOMING,Watertown,4409,,,Wilmington,4432,,,Middlesex,Middlesex,4:00 P.M.,,0
 2026-01-14,77676,UPCOMING,Arlington,4013,,,Winchester,4434,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-01-14,80137,UPCOMING,Peabody,4306,,,Danvers,4103,,,Northeastern,Northeastern,4:30 P.M.,,0
+2026-01-14,80207,FINAL,Bishop Feehan,4042,63,1,Wareham,4407,33,0,Mayflower,Mayflower,,,0
+2026-01-14,80356,FINAL,North Andover,4283,48,0,Central Catholic,4081,51,1,Merrimack Valley,Merrimack Valley,,,0
+2026-01-14,80357,FINAL,Millis,4251,6,0,Dover-Sherborn,4118,84,1,Tri-Valley,Tri-Valley,6:30 P.M.,,0
 2026-01-15,77495,UPCOMING,Brookline,4059,,,Newton North,4279,,,Bay State,Bay State,4:00 P.M.,,0
 2026-01-15,77511,UPCOMING,Braintree,4051,,,Milton,4252,,,Bay State,Bay State,4:00 P.M.,,0
 2026-01-15,77532,UPCOMING,Needham,4272,,,Wellesley,4413,,,Bay State,Bay State,4:00 P.M.,,0
