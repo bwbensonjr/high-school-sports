@@ -48,10 +48,17 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-14,80312,FINAL,Peabody,4306,68,1,Danvers,4103,18,0,Northeastern,Northeastern,,,0
 2026-01-14,80331,FINAL,North Andover,4283,24,0,Central Catholic,4081,76,1,Merrimack Valley,Merrimack Valley,,,0
 2026-01-14,80360,FINAL,Millis,4251,26,0,Dover-Sherborn,4118,69,1,Tri-Valley,Tri-Valley,6:30 P.M.,,0
-2026-01-15,77576,UPCOMING,Brookline,4059,,,Newton North,4279,,,Bay State,Bay State,4:00 P.M.,,0
-2026-01-15,77586,UPCOMING,Braintree,4051,,,Milton,4252,,,Bay State,Bay State,4:00 P.M.,,0
-2026-01-15,77593,UPCOMING,Needham,4272,,,Wellesley,4413,,,Bay State,Bay State,4:00 P.M.,,0
-2026-01-15,77632,UPCOMING,Natick,4270,,,Framingham,4143,,,Bay State,Bay State,4:00 P.M.,,0
+2026-01-14,80370,FINAL,Greater New Bedford,4156,47,0,Somerset Berkley,4350,48,1,South Coast,South Coast,,,0
+2026-01-15,77576,FINAL,Brookline,4059,25,0,Newton North,4279,75,1,Bay State,Bay State,4:00 P.M.,,0
+2026-01-15,77586,FINAL,Braintree,4051,58.5,1,Milton,4252,41.5,0,Bay State,Bay State,4:00 P.M.,,0
+2026-01-15,77593,FINAL,Needham,4272,47,0,Wellesley,4413,53,1,Bay State,Bay State,4:00 P.M.,,0
+2026-01-15,77632,FINAL,Natick,4270,65,1,Framingham,4143,35,0,Bay State,Bay State,4:00 P.M.,,0
+2026-01-15,80607,FINAL,Weymouth,4425,35,0,Walpole,4404,64,1,Bay State,Bay State,,,0
+2026-01-15,80648,FINAL,Gloucester,4150,72,1,Salem,4336,0,0,Northeastern,Northeastern,,,0
+2026-01-15,80672,FINAL,Madison Park,4225,12,0,Snowden/Quincy Upper,4452,25,1,Boston City,Boston City,,,0
+2026-01-15,80673,FINAL,East Boston,4125,15,0,Latin Academy / O'Bryant,4202,74,1,Boston City,Boston City,,,0
+2026-01-15,80674,FINAL,O’Bryant,4298,37,0,Brighton,4055,39,1,Boston City,Boston City,,,0
+2026-01-15,80675,FINAL,New Mission,4494,22,0,Boston International,4547,51,1,Boston City,Boston City,,,0
 2026-01-20,77743,UPCOMING,Ipswich,4190,,,Lynnfield,4223,,,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-01-20,77749,UPCOMING,Newburyport,4276,,,Essex Tech,4745,,,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-01-20,77753,UPCOMING,Hamilton-Wenham,4163,,,Amesbury,4007,,,Cape Ann,Cape Ann,5:00 P.M.,,0

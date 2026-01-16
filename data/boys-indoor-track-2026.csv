@@ -8,7 +8,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2025-12-30,77691,FINAL,Lynnfield,4223,60.0,1.0,Manchester Essex,4229,40.0,0.0,Cape Ann,Cape Ann,8:00 A.M.,,0
 2025-12-30,77724,FINAL,Pentucket,4309,52.0,1.0,Triton,4395,48.0,0.0,Cape Ann,Cape Ann,8:00 P.M.,,0
 2026-01-05,77708,UPCOMING,Carver,4077,,,Hull,4184,,,South Shore,South Shore,4:00 P.M.,,0
-2026-01-05,77728,UPCOMING,Norwell,4296,29,,Middleborough,4247,71,,South Shore,South Shore,4:00 P.M.,,0
+2026-01-05,77728,UPCOMING,Norwell,4296,29.0,,Middleborough,4247,71.0,,South Shore,South Shore,4:00 P.M.,,0
 2026-01-05,77732,UPCOMING,Rockland,4331,,,Randolph,4327,,,South Shore,South Shore,4:00 P.M.,,0
 2026-01-06,77612,FINAL,Arlington Catholic,4014,57,1,Cristo Rey,4453,7,0,Catholic Central,Catholic Central,7:30 P.M.,,0
 2026-01-06,77639,UPCOMING,Burlington,4065,,,Stoneham,4380,,,Middlesex,Middlesex,4:00 P.M.,,0
@@ -72,7 +72,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-13,77713,FINAL,Dennis-Yarmouth,4111,65.5,1,Nauset,4271,34.5,0,Cape & Islands,Cape & Islands,3:00 P.M.,,0
 2026-01-13,77723,UPCOMING,Falmouth,4134,,,Martha’s Vineyard,4235,,,Cape & Islands,Cape & Islands,3:00 P.M.,,0
 2026-01-13,77739,UPCOMING,Sandwich,4340,,,St. John Paul II,4689,,,Cape & Islands,Catholic Central,3:30 P.M.,,0
-2026-01-13,77789,UPCOMING,Somerset Berkley,4350,,,Greater New Bedford,4156,,,South Coast,South Coast,6:30 P.M.,,0
+2026-01-13,77789,FINAL,Somerset Berkley,4350,42,0,Greater New Bedford,4156,53,1,South Coast,South Coast,6:30 P.M.,,0
 2026-01-13,78110,UPCOMING,West Bridgewater,4415,,,Joseph Case,4078,,,South Coast,South Coast,3:00 P.M.,,0
 2026-01-13,79896,FINAL,Cardinal Spellman,4075,44,0,St. Mary’s,4374,56,1,Tri-County,Catholic Central,,,0
 2026-01-13,79898,FINAL,Arlington Catholic,4014,,,Bishop Fenwick,4043,,,Catholic Central,Catholic Central,,,0
@@ -90,12 +90,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-14,80207,FINAL,Bishop Feehan,4042,63,1,Wareham,4407,33,0,Mayflower,Mayflower,,,0
 2026-01-14,80356,FINAL,North Andover,4283,48,0,Central Catholic,4081,51,1,Merrimack Valley,Merrimack Valley,,,0
 2026-01-14,80357,FINAL,Millis,4251,6,0,Dover-Sherborn,4118,84,1,Tri-Valley,Tri-Valley,6:30 P.M.,,0
-2026-01-15,77495,UPCOMING,Brookline,4059,,,Newton North,4279,,,Bay State,Bay State,4:00 P.M.,,0
-2026-01-15,77511,UPCOMING,Braintree,4051,,,Milton,4252,,,Bay State,Bay State,4:00 P.M.,,0
-2026-01-15,77532,UPCOMING,Needham,4272,,,Wellesley,4413,,,Bay State,Bay State,4:00 P.M.,,0
-2026-01-15,77563,UPCOMING,Natick,4270,,,Framingham,4143,,,Bay State,Bay State,4:00 P.M.,,0
+2026-01-15,77495,FINAL,Brookline,4059,61,1,Newton North,4279,39,0,Bay State,Bay State,4:00 P.M.,,0
+2026-01-15,77511,FINAL,Braintree,4051,59,1,Milton,4252,40,0,Bay State,Bay State,4:00 P.M.,,0
+2026-01-15,77532,FINAL,Needham,4272,38,0,Wellesley,4413,62,1,Bay State,Bay State,4:00 P.M.,,0
+2026-01-15,77563,FINAL,Natick,4270,64,1,Framingham,4143,36,0,Bay State,Bay State,4:00 P.M.,,0
 2026-01-15,78106,UPCOMING,Bourne,4050,,,Fairhaven,4133,,,South Coast,South Coast,6:30 P.M.,,0
 2026-01-15,78113,UPCOMING,Old Rochester,4301,,,Dighton-Rehoboth,4114,,,South Coast,South Coast,3:15 P.M.,,0
+2026-01-15,80606,FINAL,Weymouth,4425,32,0,Walpole,4404,68,1,Bay State,Bay State,,,0
+2026-01-15,80639,FINAL,Canton,4071,48,0,Oliver Ames,4302,52,1,Hockomock,Hockomock,,,0
+2026-01-15,80650,FINAL,Gloucester,4150,60,1,Salem,4336,19,0,Northeastern,Northeastern,,,0
+2026-01-15,80661,FINAL,Madison Park,4225,10,0,Snowden/Quincy Upper,4452,45,1,Boston City,Boston City,,,0
+2026-01-15,80663,FINAL,East Boston,4125,15,0,Latin Academy,4202,78,1,Boston City,Boston City,,,0
+2026-01-15,80666,FINAL,Brighton,4055,41,0,O’Bryant,4298,59,1,Boston City,Boston City,,,0
+2026-01-15,80669,FINAL,Boston International,4547,64,1,New Mission,4494,20,0,Boston City,Boston City,,,0
 2026-01-19,78108,UPCOMING,Apponequet,4011,,,Bourne,4050,,,South Coast,South Coast,2:00 P.M.,,0
 2026-01-20,77617,UPCOMING,Archbishop Williams,4012,,,Arlington,4013,,,Catholic Central,Middlesex,4:00 P.M.,,0
 2026-01-20,77623,UPCOMING,Arlington,4013,,,Bishop Fenwick,4043,,,Middlesex,Catholic Central,4:00 P.M.,,0
@@ -122,3 +129,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-23,77779,UPCOMING,Chelsea,4086,,,Lynn Classical,4220,,,Independent,Greater Boston,4:30 P.M.,,0
 2026-01-23,78102,UPCOMING,Lynn English,4221,,,Malden,4227,,,Greater Boston,Greater Boston,4:30 P.M.,,0
 2026-01-23,78105,UPCOMING,Somerville,4351,,,Revere,4329,,,Greater Boston,Greater Boston,4:30 P.M.,,0
+2026-01-26,77716,UPCOMING,Abington,4002,,,Carver,4077,,,South Shore,South Shore,4:00 P.M.,,0
+2026-01-26,77725,UPCOMING,Mashpee,4237,,,Hull,4184,,,South Shore,South Shore,4:00 P.M.,,0
+2026-01-26,77729,UPCOMING,Randolph,4327,,,Middleborough,4247,,,South Shore,South Shore,4:00 P.M.,,0

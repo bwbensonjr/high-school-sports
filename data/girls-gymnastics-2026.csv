@@ -31,6 +31,13 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-11,78967,FINAL,Andover,4009,142.75,1,Central Catholic,4081,138.6,0,Merrimack Valley,Merrimack Valley,,,0
 2026-01-11,78970,FINAL,Hamilton-Wenham/Manchester Essex,4163,137.6,1,Bishop Fenwick,4043,123.1,0,Cape Ann/Northeastern,Independent,,,0
 2026-01-11,79087,FINAL,Hopkinton,4180,134.35,1,Norton,4295,127.5,0,Tri-Valley,Tri-Valley,,,0
+2026-01-11,80367,FINAL,Natick,4270,132.25,0,Newton North,4279,146.5,1,Bay State,Bay State,,,0
 2026-01-14,80298,FINAL,Chelmsford/B/T,4085,130.85,1,Lowell,4216,102.75,0,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
 2026-01-14,80341,FINAL,Haverhill,4167,130.4,0,North Andover,4283,133.8,1,Merrimack Valley,Merrimack Valley,,,0
 2026-01-14,80344,FINAL,Melrose,4244,135.35,0,Reading,4328,139.5,1,Middlesex,Middlesex,,,0
+2026-01-15,80602,FINAL,Medford/Somerville,4242,102.65,1,Salem,4336,100.2,0,Greater Boston,Cape Ann/Northeastern,,,0
+2026-01-15,80629,FINAL,Norwood,4297,126,0,Medford/Somerville,4242,141.95,1,Independent,Greater Boston,,,0
+2026-01-15,80635,FINAL,Hanover,4164,125.85,0,Marshfield,4234,131.3,1,Patriot,Patriot,,,0
+2026-01-15,80640,FINAL,Newton North,4279,144,1,Framingham,4143,125.55,0,Bay State,Bay State,,,0
+2026-01-15,80643,FINAL,Wilmington/Bedford,4432,139.8,1,Winchester,4434,136.5,0,Middlesex,Middlesex,,,0
+2026-01-15,80653,FINAL,Beverly,4038,138.7,1,Marblehead/Swampscott,4231,130.95,0,Cape Ann/Northeastern,Cape Ann/Northeastern,,,0

@@ -1,8 +1,8 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
-2025-12-22,71912,FINAL,Xaverian,4446,104,1,BC High,4029,82,0,Catholic Conference,Catholic Conference,,,0
-2025-12-22,72340,FINAL,Durfee,4122,80,1,Taunton,4388,60,0,Big Three,Hockomock,3:30 P.M.,,0
-2025-12-23,72785,FINAL,Chelmsford,4085,96,1,Natick,4270,85,0,Merrimack Valley,Bay State,,,0
-2025-12-23,72874,FINAL,Wellesley,4413,86,0,Belmont,4034,97,1,Bay State,Middlesex,,,0
+2025-12-22,71912,FINAL,Xaverian,4446,104.0,1,BC High,4029,82.0,0,Catholic Conference,Catholic Conference,,,0
+2025-12-22,72340,FINAL,Durfee,4122,80.0,1,Taunton,4388,60.0,0,Big Three,Hockomock,3:30 P.M.,,0
+2025-12-23,72785,FINAL,Chelmsford,4085,96.0,1,Natick,4270,85.0,0,Merrimack Valley,Bay State,,,0
+2025-12-23,72874,FINAL,Wellesley,4413,86.0,0,Belmont,4034,97.0,1,Bay State,Middlesex,,,0
 2026-01-06,77993,FINAL,St. John’s Prep,4369,95,1,Chelmsford,4085,89,0,Catholic Conference,Merrimack Valley,,,0
 2026-01-06,77997,FINAL,Barnstable,4024,57,0,Nauset,4271,67,1,Pioneer,Cape & Islands,,,0
 2026-01-06,78000,FINAL,Dedham,4108,35,0,Ashland,4015,38,1,Independent,Tri-Valley,,,0
@@ -33,3 +33,5 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-14,80244,FINAL,Catholic Memorial,4080,97,1,Medfield,4241,34,0,Catholic Conference,Tri-Valley,,,0
 2026-01-14,80306,FINAL,Nantucket,4265,93,1,Nauset,4271,47,0,Cape & Islands,Cape & Islands,,,0
 2026-01-14,80337,FINAL,Oliver Ames,4302,75,1,Stoughton,4381,57,0,Hockomock,Hockomock,4:30 P.M.,,0
+2026-01-14,80382,FINAL,Martha’s Vineyard,4235,100,1,Sandwich,4340,62,0,Cape & Islands,Cape & Islands,,,0
+2026-01-15,80644,FINAL,Durfee,4122,62,0,Old Rochester,4301,90,1,Big Three,South Coast,,,0

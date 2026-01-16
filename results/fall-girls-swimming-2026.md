@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-01-15 11:18
+Generated: 2026-01-16 11:18
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-01-15 11:18
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-15 | Durfee | 72 | Old Rochester | 71 | -2.4 | +1.0 |
 | 2026-01-14 | Dedham | 85 | Westwood | 96 | +1.1 | -11.0 |
 | 2026-01-14 | Nantucket | 94 | Nauset | 27 | +25.3 | +67.0 |
 | 2026-01-14 | Oliver Ames | 85 | Stoughton | 71 | +5.6 | +14.0 |
@@ -25,8 +26,6 @@ Generated: 2026-01-15 11:18
 | 2026-01-09 | Westwood | 99 | Medfield | 80 | +5.0 | +19.0 |
 | 2026-01-09 | Apponequet | 81 | Bridgewater-Raynham | 72 | +12.3 | +9.0 |
 | 2026-01-09 | North Attleborough | 78 | Stoughton | 81 | +8.2 | -3.0 |
-| 2026-01-08 | Sandwich | 74 | Nantucket | 105 | +0.8 | -31.0 |
-| 2026-01-08 | Marshfield/Hanover | 105 | North Quincy/Quincy | 78 | +3.3 | +27.0 |
 
 ## Current Elo Ratings
 
@@ -71,44 +70,45 @@ Generated: 2026-01-15 11:18
 | 37 | Mansfield | 1508.3 |
 | 38 | Chelmsford | 1508.2 |
 | 39 | Sandwich | 1495.6 |
-| 40 | Nashoba | 1490.9 |
-| 41 | Wakefield/Wakefield | 1490.8 |
-| 42 | Plymouth North/South | 1490.1 |
-| 43 | Arlington/Watertown | 1486.0 |
-| 44 | Holliston/Medway | 1479.4 |
-| 45 | Central Catholic | 1477.5 |
-| 46 | North Attleborough | 1477.2 |
-| 47 | Bishop Fenwick | 1475.4 |
-| 48 | Foxborough | 1475.0 |
-| 49 | Lincoln-Sudbury | 1470.2 |
-| 50 | Wakefield | 1469.8 |
-| 51 | Natick | 1469.6 |
-| 52 | Boston Latin | 1469.4 |
-| 53 | Canton | 1468.9 |
-| 54 | Framingham | 1468.6 |
-| 55 | Newton South | 1465.6 |
-| 56 | Wachusett | 1465.1 |
-| 57 | Dedham | 1464.3 |
-| 58 | Medfield | 1464.2 |
-| 59 | Stoughton | 1462.5 |
-| 60 | Norwell | 1461.0 |
-| 61 | Bishop Stang | 1459.3 |
-| 62 | North Quincy/Quincy | 1457.5 |
-| 63 | Haverhill | 1456.6 |
-| 64 | Bridgewater-Raynham | 1455.2 |
-| 65 | Advanced Math and Science | 1451.5 |
-| 66 | Westford | 1450.8 |
-| 67 | Martha’s Vineyard | 1450.4 |
-| 68 | Notre Dame (T)/Dracut | 1450.0 |
-| 69 | Lowell | 1449.9 |
-| 70 | Billerica | 1443.0 |
-| 71 | Attleboro | 1441.8 |
-| 72 | Weymouth | 1430.4 |
-| 73 | Woburn | 1429.5 |
-| 74 | Durfee | 1428.6 |
-| 75 | Nauset | 1417.1 |
-| 76 | Pembroke | 1411.2 |
-| 77 | Malden Catholic | 1402.4 |
-| 78 | Braintree | 1400.3 |
-| 79 | Walpole | 1381.0 |
-| 80 | Stoneham | 1379.9 |
+| 40 | Old Rochester | 1491.6 |
+| 41 | Nashoba | 1490.9 |
+| 42 | Wakefield/Wakefield | 1490.8 |
+| 43 | Plymouth North/South | 1490.1 |
+| 44 | Arlington/Watertown | 1486.0 |
+| 45 | Holliston/Medway | 1479.4 |
+| 46 | Central Catholic | 1477.5 |
+| 47 | North Attleborough | 1477.2 |
+| 48 | Bishop Fenwick | 1475.4 |
+| 49 | Foxborough | 1475.0 |
+| 50 | Lincoln-Sudbury | 1470.2 |
+| 51 | Wakefield | 1469.8 |
+| 52 | Natick | 1469.6 |
+| 53 | Boston Latin | 1469.4 |
+| 54 | Canton | 1468.9 |
+| 55 | Framingham | 1468.6 |
+| 56 | Newton South | 1465.6 |
+| 57 | Wachusett | 1465.1 |
+| 58 | Dedham | 1464.3 |
+| 59 | Medfield | 1464.2 |
+| 60 | Stoughton | 1462.5 |
+| 61 | Norwell | 1461.0 |
+| 62 | Bishop Stang | 1459.3 |
+| 63 | North Quincy/Quincy | 1457.5 |
+| 64 | Haverhill | 1456.6 |
+| 65 | Bridgewater-Raynham | 1455.2 |
+| 66 | Advanced Math and Science | 1451.5 |
+| 67 | Westford | 1450.8 |
+| 68 | Martha’s Vineyard | 1450.4 |
+| 69 | Notre Dame (T)/Dracut | 1450.0 |
+| 70 | Lowell | 1449.9 |
+| 71 | Billerica | 1443.0 |
+| 72 | Attleboro | 1441.8 |
+| 73 | Durfee | 1439.7 |
+| 74 | Weymouth | 1430.4 |
+| 75 | Woburn | 1429.5 |
+| 76 | Nauset | 1417.1 |
+| 77 | Pembroke | 1411.2 |
+| 78 | Malden Catholic | 1402.4 |
+| 79 | Braintree | 1400.3 |
+| 80 | Walpole | 1381.0 |
+| 81 | Stoneham | 1379.9 |
