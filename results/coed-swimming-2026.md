@@ -1,6 +1,6 @@
 # Coed Swimming - 2026 Season
 
-Generated: 2026-01-16 11:18
+Generated: 2026-01-17 11:15
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-01-16 11:18
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-16 | East Boston | 49 | St. Mary’s | 44 | -4.6 | +5.0 |
 | 2026-01-15 | Archbishop Williams | 71 | Bishop Feehan | 93 | +4.0 | -22.0 |
 | 2026-01-15 | Medford | 79 | Boston Latin | 89 | +7.7 | -10.0 |
 | 2026-01-15 | Marblehead | 97 | Masconomet | 81 | +4.5 | +16.0 |
@@ -48,9 +49,9 @@ Generated: 2026-01-16 11:18
 | 20 | Bishop Fenwick | 1478.9 |
 | 21 | Masconomet | 1473.5 |
 | 22 | Melrose | 1471.6 |
-| 23 | St. Mary’s | 1470.3 |
-| 24 | Arlington Catholic | 1457.2 |
-| 25 | Brockton | 1456.2 |
-| 26 | Revere | 1448.9 |
+| 23 | Arlington Catholic | 1457.2 |
+| 24 | Brockton | 1456.2 |
+| 25 | Revere | 1448.9 |
+| 26 | St. Mary’s | 1434.8 |
 | 27 | Swampscott | 1430.4 |
-| 28 | East Boston | 1304.9 |
+| 28 | East Boston | 1340.4 |

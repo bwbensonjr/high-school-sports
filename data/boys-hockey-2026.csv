@@ -346,8 +346,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-05,76416,FINAL,Littleton/Bromfield,4212,11.0,1.0,Leominster,4208,0.0,0.0,Coughlin,Roy,7:00 P.M.,,0
 2026-01-05,76417,FINAL,Nashoba,4267,5.0,1.0,Hopedale,4507,2.0,0.0,Roy,Russell,8:00 P.M.,,0
 2026-01-05,77391,FINAL,Oakmont,4299,0.0,0.0,Hudson,4182,3.0,1.0,Coughlin,Quinn,6:00 P.M.,,0
-2026-01-06,69346,FINAL,Greater New Bedford,4156,4,1,Tri-County,4392,3,0,South Coast,Mayflower,8:00 P.M.,,0
-2026-01-06,76419,FINAL,Amherst-Pelham,4008,2,1,Chicopee,4088,1,0,Fay Division,Fay Division,5:00 P.M.,,0
+2026-01-06,69346,FINAL,Greater New Bedford,4156,4.0,1.0,Tri-County,4392,3.0,0.0,South Coast,Mayflower,8:00 P.M.,,0
+2026-01-06,76419,FINAL,Amherst-Pelham,4008,2.0,1.0,Chicopee,4088,1.0,0.0,Fay Division,Fay Division,5:00 P.M.,,0
 2026-01-06,76422,POSTPONED,Lunenburg/Ayer Shirley,4219,,,Gardner,4147,,,Coughlin,Coughlin,6:30 P.M.,,0
 2026-01-07,67512,FINAL,Duxbury,4123,2,0,Falmouth,4134,3,1,Patriot,Cape & Islands,7:20 P.M.,,0
 2026-01-07,67549,FINAL,Pembroke,4308,2,0,Hanover,4164,7,1,Patriot,Patriot,5:50 P.M.,,0
@@ -616,14 +616,15 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-15,76589,FINAL,Amherst-Pelham,4008,3,0,Easthampton,4130,4,1,Fay Division,Wright Division,5:00 P.M.,,0
 2026-01-15,76592,FINAL,Ludlow,4218,4,0,Minnechaug,4254,9,1,Fay Division,Berry Division,6:30 P.M.,,0
 2026-01-15,76594,FINAL,Shawsheen,4346,1,0,Essex Tech,4745,2,1,Commonwealth,Cape Ann,7:15 P.M.,1.0,0
-2026-01-16,68485,UPCOMING,Brookline,4059,,,Lexington,4209,,,Bay State,Independent,8:00 P.M.,,0
-2026-01-16,68950,UPCOMING,Wilmington,4432,,,Wakefield,4402,,,Middlesex,Middlesex,8:00 P.M.,,0
-2026-01-16,69178,UPCOMING,King Philip,4197,,,Mansfield,4230,,,Hockomock,Hockomock,5:00 P.M.,,0
-2026-01-16,69200,UPCOMING,Attleboro,4018,,,North Attleborough,4284,,,Hockomock,Hockomock,7:30 P.M.,,0
-2026-01-16,69894,UPCOMING,Holliston/Ashland,4174,,,Westwood,4424,,,Tri-Valley,Tri-Valley,6:40 P.M.,,0
-2026-01-16,72115,UPCOMING,Cambridge,4067,,,Newton North,4279,,,Merrimack Valley/Dual County,Bay State,6:00 P.M.,,0
-2026-01-16,72164,UPCOMING,Dracut/Tyngsborough,4119,,,Lowell,4216,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,6:00 P.M.,,0
-2026-01-16,76595,UPCOMING,Upper Cape,4457,,,ORR/Fairhaven,4301,,,Mayflower,South Coast,8:30 P.M.,,0
+2026-01-16,68485,FINAL,Brookline,4059,3,1,Lexington,4209,1,0,Bay State,Independent,8:00 P.M.,,0
+2026-01-16,68950,FINAL,Wilmington,4432,2,0,Wakefield,4402,4,1,Middlesex,Middlesex,8:00 P.M.,,0
+2026-01-16,69178,FINAL,King Philip,4197,3,1,Mansfield,4230,2,0,Hockomock,Hockomock,5:00 P.M.,,0
+2026-01-16,69200,FINAL,Attleboro,4018,1,0,North Attleborough,4284,6,1,Hockomock,Hockomock,7:30 P.M.,,0
+2026-01-16,69894,FINAL,Holliston/Ashland,4174,1,0,Westwood,4424,3,1,Tri-Valley,Tri-Valley,6:40 P.M.,,0
+2026-01-16,72115,FINAL,Cambridge,4067,4,1,Newton North,4279,3,0,Merrimack Valley/Dual County,Bay State,6:00 P.M.,,0
+2026-01-16,72164,FINAL,Dracut/Tyngsborough,4119,6,1,Lowell,4216,3,0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,6:00 P.M.,,0
+2026-01-16,76595,FINAL,Upper Cape,4457,1,0,ORR/Fairhaven,4301,9,1,Mayflower,South Coast,8:30 P.M.,,0
+2026-01-16,80743,FINAL,Rivers,4330,2,1,BB&N,4028,0,0,ISL,ISL,,,0
 2026-01-17,65000,UPCOMING,Needham,4272,,,Hingham,4171,,,Bay State,Independent,1:30 P.M.,,0
 2026-01-17,67555,UPCOMING,Scituate,4343,,,Hanover,4164,,,Patriot,Patriot,1:00 P.M.,,0
 2026-01-17,67593,UPCOMING,Quincy,4287,,,Silver Lake,4349,,,Patriot,Patriot,6:00 P.M.,,0
@@ -641,6 +642,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-17,68263,UPCOMING,Martha’s Vineyard,4235,,,Dennis-Yarmouth,4111,,,Cape & Islands,Cape & Islands,1:30 P.M.,,0
 2026-01-17,68356,UPCOMING,Latin Academy,4202,,,Bishop Stang,4045,,,Boston City,Catholic Central,5:00 P.M.,,0
 2026-01-17,68398,UPCOMING,East Boston,4125,,,Leominster,4208,,,Boston City,Roy,3:00 P.M.,,0
+2026-01-17,68486,UPCOMING,Newton North,4279,,,Lexington,4209,,,Bay State,Independent,,,0
 2026-01-17,68701,UPCOMING,Belmont,4034,,,Winchester,4434,,,Middlesex,Middlesex,3:00 P.M.,,0
 2026-01-17,68794,UPCOMING,Watertown,4409,,,Melrose,4244,,,Middlesex,Middlesex,12:20 P.M.,,0
 2026-01-17,69129,UPCOMING,Canton,4071,,,Bishop Feehan,4042,,,Hockomock,Catholic Central,8:40 P.M.,,0
@@ -653,6 +655,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-17,71952,UPCOMING,St. Mary’s,4374,,,Smithfield (R.I.),4657,,,Catholic Central,Independent,4:00 P.M.,,0
 2026-01-17,71978,UPCOMING,Bishop Fenwick,4043,,,Lynn,4220,,,Catholic Central,Greater Boston,6:00 P.M.,,0
 2026-01-17,72007,UPCOMING,Framingham,4143,,,Arlington Catholic,4014,,,Bay State,Catholic Central,7:50 P.M.,,0
+2026-01-17,72130,UPCOMING,Cambridge,4067,,,Brookline,4059,,,Merrimack Valley/Dual County,Bay State,4:20 P.M.,,0
 2026-01-17,72301,UPCOMING,Beverly,4038,,,North Andover,4283,,,Northeastern,Merrimack Valley/Dual County,6:00 P.M.,,0
 2026-01-17,72864,UPCOMING,Boston Latin,4049,,,Concord-Carlisle,4097,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,3:00 P.M.,,0
 2026-01-17,72903,UPCOMING,Tewksbury,4389,,,Waltham,4405,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,6:20 P.M.,,0
@@ -888,3 +891,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-26,76761,UPCOMING,Greenfield,4157,,,Westfield,4419,,,Wright Division,Berry Division,4:30 P.M.,,0
 2026-01-26,76762,UPCOMING,Leominster,4208,,,Lunenburg/Ayer Shirley,4219,,,Roy,Coughlin,6:30 P.M.,,0
 2026-01-26,76764,UPCOMING,Marblehead,4231,,,Hopkinton,4180,,,Northeastern,Tri-Valley,7:30 P.M.,,0
+2026-01-27,68579,UPCOMING,Wakefield,4402,,,Arlington,4013,,,Middlesex,Middlesex,8:00 P.M.,,0
+2026-01-27,76770,UPCOMING,Newburyport,4276,,,Amesbury/Whittier,4007,,,Cape Ann,Cape Ann,7:00 P.M.,,0
+2026-01-27,76773,UPCOMING,Andover,4009,,,Central Catholic,4081,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,7:10 P.M.,,0

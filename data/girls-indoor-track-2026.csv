@@ -8,18 +8,18 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-06,77746,UPCOMING,Pentucket,4309,,,Essex Tech,4745,,,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-01-06,77751,UPCOMING,Lynnfield,4223,,,Hamilton-Wenham,4163,,,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-01-06,77763,UPCOMING,North Reading,4288,,,Triton,4395,,,Cape Ann,Cape Ann,5:00 P.M.,,0
-2026-01-06,77987,FINAL,Hingham,4171,46.5,0,Whitman-Hanson,4427,53.5,1,Patriot,Patriot,,,0
-2026-01-06,78003,FINAL,North Quincy/Quincy,4287,45,0,Hanover,4164,49,1,Patriot,Patriot,,,0
-2026-01-06,78004,FINAL,Scituate,4343,71,1,Hanover,4164,25,0,Patriot,Patriot,,,0
-2026-01-06,78085,FINAL,Fontbonne,4447,30,0,Ursuline,4448,41,1,Tri-County,Catholic Central,,,0
-2026-01-06,78086,FINAL,Cristo Rey,4453,10,0,St. Mary’s,4374,96,1,Catholic Central,Catholic Central,,,0
-2026-01-06,78089,FINAL,Malden Catholic,4228,36,0,Cardinal Spellman,4075,62,1,Independent,Tri-County,,,0
-2026-01-06,78090,FINAL,Ursuline,4448,28,0,Bishop Fenwick,4043,57,1,Catholic Central,Catholic Central,,,0
-2026-01-06,78091,FINAL,Fontbonne,4447,28,0,Bishop Fenwick,4043,54,1,Tri-County,Catholic Central,,,0
-2026-01-06,78093,FINAL,Arlington Catholic,4014,32,0,St. Mary’s,4374,67,1,Catholic Central,Catholic Central,,,0
-2026-01-06,78096,FINAL,Cristo Rey,4453,11,0,Arlington Catholic,4014,67,1,Catholic Central,Catholic Central,,,0
-2026-01-06,78098,FINAL,Archbishop Williams,4012,45,0,Malden Catholic,4228,50,1,Catholic Central,Independent,,,0
-2026-01-06,78099,FINAL,Archbishop Williams,4012,41,0,Cardinal Spellman,4075,51,1,Catholic Central,Tri-County,,,0
+2026-01-06,77987,FINAL,Hingham,4171,46.5,0.0,Whitman-Hanson,4427,53.5,1.0,Patriot,Patriot,,,0
+2026-01-06,78003,FINAL,North Quincy/Quincy,4287,45.0,0.0,Hanover,4164,49.0,1.0,Patriot,Patriot,,,0
+2026-01-06,78004,FINAL,Scituate,4343,71.0,1.0,Hanover,4164,25.0,0.0,Patriot,Patriot,,,0
+2026-01-06,78085,FINAL,Fontbonne,4447,30.0,0.0,Ursuline,4448,41.0,1.0,Tri-County,Catholic Central,,,0
+2026-01-06,78086,FINAL,Cristo Rey,4453,10.0,0.0,St. Mary’s,4374,96.0,1.0,Catholic Central,Catholic Central,,,0
+2026-01-06,78089,FINAL,Malden Catholic,4228,36.0,0.0,Cardinal Spellman,4075,62.0,1.0,Independent,Tri-County,,,0
+2026-01-06,78090,FINAL,Ursuline,4448,28.0,0.0,Bishop Fenwick,4043,57.0,1.0,Catholic Central,Catholic Central,,,0
+2026-01-06,78091,FINAL,Fontbonne,4447,28.0,0.0,Bishop Fenwick,4043,54.0,1.0,Tri-County,Catholic Central,,,0
+2026-01-06,78093,FINAL,Arlington Catholic,4014,32.0,0.0,St. Mary’s,4374,67.0,1.0,Catholic Central,Catholic Central,,,0
+2026-01-06,78096,FINAL,Cristo Rey,4453,11.0,0.0,Arlington Catholic,4014,67.0,1.0,Catholic Central,Catholic Central,,,0
+2026-01-06,78098,FINAL,Archbishop Williams,4012,45.0,0.0,Malden Catholic,4228,50.0,1.0,Catholic Central,Independent,,,0
+2026-01-06,78099,FINAL,Archbishop Williams,4012,41.0,0.0,Cardinal Spellman,4075,51.0,1.0,Catholic Central,Tri-County,,,0
 2026-01-07,78207,FINAL,North Andover,4283,31,0,Lowell,4216,69,1,Merrimack Valley,Merrimack Valley,,,0
 2026-01-07,78209,FINAL,North Andover,4283,39.33,0,Andover,4009,60.66,1,Merrimack Valley,Merrimack Valley,,,0
 2026-01-07,78223,FINAL,Billerica,4040,40.33,0,Central Catholic,4081,59.66,1,Merrimack Valley,Merrimack Valley,,,0

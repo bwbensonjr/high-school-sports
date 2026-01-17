@@ -1,6 +1,6 @@
 # Wrestling - 2026 Season
 
-Generated: 2026-01-16 11:18
+Generated: 2026-01-17 11:15
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-01-16 11:18
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-16 | Lexington | 30 | Watertown | 45 | -8.1 | -15.0 |
 | 2026-01-15 | Ashland | 16 | Wayland | 57 | -5.2 | -41.0 |
 | 2026-01-14 | Lynnfield/North Reading | 57 | Pentucket | 22 | +0.2 | +35.0 |
 | 2026-01-14 | Roxbury Latin | 72 | BB&N | 6 | +15.2 | +66.0 |
@@ -21,17 +22,17 @@ Generated: 2026-01-16 11:18
 | 2026-01-14 | Cambridge | 40 | Bedford / A-B | 32 | +3.4 | +8.0 |
 | 2026-01-14 | Concord-Carlisle | 33 | Westford | 43 | +2.3 | -10.0 |
 | 2026-01-14 | Danvers | 33 | Marblehead/Swampscott | 42 | -1.7 | -9.0 |
-| 2026-01-14 | Lawrence | 21 | Methuen | 52 | -10.6 | -31.0 |
+| 2026-01-14 | Taunton | 46 | King Philip | 33 | +6.4 | +13.0 |
 | 2026-01-14 | East Boston | 24 | Worcester Tech | 60 | -0.4 | -36.0 |
 | 2026-01-14 | Worcester Tech | 39 | Latin Academy | 42 | -4.6 | -3.0 |
-| 2026-01-14 | Taunton | 46 | King Philip | 33 | +6.4 | +13.0 |
+| 2026-01-14 | Lawrence | 21 | Methuen | 52 | -10.6 | -31.0 |
 | 2026-01-14 | Ashland | 12 | Shawsheen | 61 | -12.3 | -49.0 |
 | 2026-01-14 | Brookline | 28 | Wellesley | 49 | -5.0 | -21.0 |
 | 2026-01-14 | Norwood | 32 | Holliston | 45 | -0.7 | -13.0 |
-| 2026-01-14 | Weymouth | 51 | Milton | 28 | +8.2 | +23.0 |
-| 2026-01-14 | Brooks | 44 | Middlesex | 33 | -1.0 | +11.0 |
-| 2026-01-14 | Gloucester | 41 | Beverly | 39 | +2.6 | +2.0 |
 | 2026-01-14 | Brooks | 36 | Thayer | 31 | +0.8 | +5.0 |
+| 2026-01-14 | Weymouth | 51 | Milton | 28 | +8.2 | +23.0 |
+| 2026-01-14 | Gloucester | 41 | Beverly | 39 | +2.6 | +2.0 |
+| 2026-01-14 | Brooks | 44 | Middlesex | 33 | -1.0 | +11.0 |
 | 2026-01-14 | West Springfield | 29 | Springfield Central | 42 | +0.0 | -13.0 |
 | 2026-01-14 | Essex Tech / Masco | 40 | Triton | 42 | +7.1 | -2.0 |
 | 2026-01-14 | Tewksbury | 42 | Haverhill | 34 | -3.9 | +8.0 |
@@ -42,13 +43,11 @@ Generated: 2026-01-16 11:18
 | 2026-01-11 | Hingham | 34 | Whittier | 45 | -0.9 | -11.0 |
 | 2026-01-11 | Hingham | 22 | Methuen | 60 | -6.2 | -38.0 |
 | 2026-01-11 | Tewksbury | 22 | Hingham | 44 | -1.5 | -22.0 |
-| 2026-01-10 | Lynnfield/North Reading | 53 | Salem | 29 | +6.4 | +24.0 |
-| 2026-01-10 | Belchertown | 17 | Greater Lawrence | 57 | -4.6 | -40.0 |
-| 2026-01-10 | Greater Lawrence | 51 | Holyoke | 26 | +7.6 | +25.0 |
-| 2026-01-10 | Agawam | 6 | Greater Lawrence | 75 | +1.8 | -69.0 |
-| 2026-01-10 | Frontier | 6 | Greater Lawrence | 60 | +2.0 | -54.0 |
-| 2026-01-10 | Bridgewater-Raynham | 18 | Shawsheen | 63 | -10.0 | -45.0 |
 | 2026-01-10 | Roxbury Latin | 51 | East Boston | 6 | +18.3 | +45.0 |
+| 2026-01-10 | Belchertown | 17 | Greater Lawrence | 57 | -4.6 | -40.0 |
+| 2026-01-10 | Lynnfield/North Reading | 53 | Salem | 29 | +6.4 | +24.0 |
+| 2026-01-10 | Agawam | 6 | Greater Lawrence | 75 | +1.8 | -69.0 |
+| 2026-01-10 | Beverly | 31 | Bristol-Plymouth | 43 | +4.2 | -12.0 |
 | 2026-01-10 | Roxbury Latin | 62 | Thayer | 18 | +13.1 | +44.0 |
 | 2026-01-10 | Quincy/North Quincy | 39 | Whitman-Hanson | 39 | +2.4 | 0.0 |
 | 2026-01-10 | Stoughton | 0 | Whitman-Hanson | 78 | +0.1 | -78.0 |
@@ -62,9 +61,9 @@ Generated: 2026-01-16 11:18
 | 2026-01-10 | Pioneer Valley | 0 | St. John’s (Shrewsbury) | 82 | -2.8 | -82.0 |
 | 2026-01-10 | Worcester Tech | 21 | St. John’s (Shrewsbury) | 60 | -7.2 | -39.0 |
 | 2026-01-10 | Foxborough | 7 | Shawsheen | 68 | -7.5 | -61.0 |
-| 2026-01-10 | Beverly | 31 | Bristol-Plymouth | 43 | +4.2 | -12.0 |
-| 2026-01-10 | Bristol-Plymouth | 40 | Greater Lowell | 32 | +1.3 | +8.0 |
+| 2026-01-10 | Bridgewater-Raynham | 18 | Shawsheen | 63 | -10.0 | -45.0 |
 | 2026-01-10 | Beverly | 32 | Wellesley | 42 | +1.9 | -10.0 |
+| 2026-01-10 | Frontier | 6 | Greater Lawrence | 60 | +2.0 | -54.0 |
 | 2026-01-10 | Beverly | 30 | Greater Lowell | 53 | +0.6 | -23.0 |
 | 2026-01-10 | Tewksbury | 27 | Methuen | 45 | -7.9 | -18.0 |
 | 2026-01-10 | Whittier | 27 | Methuen | 53 | -0.9 | -26.0 |
@@ -78,7 +77,8 @@ Generated: 2026-01-16 11:18
 | 2026-01-10 | Marlborough | 24 | Andover | 48 | -1.9 | -24.0 |
 | 2026-01-10 | Scituate (R.I.) | 51 | Andover | 29 | -3.5 | +22.0 |
 | 2026-01-10 | Wellesley | 38 | Greater Lowell | 40 | +1.9 | -2.0 |
-| 2026-01-09 | East Boston | 36 | Atlantis Charter | 51 | -2.2 | -15.0 |
+| 2026-01-10 | Bristol-Plymouth | 40 | Greater Lowell | 32 | +1.3 | +8.0 |
+| 2026-01-10 | Greater Lawrence | 51 | Holyoke | 26 | +7.6 | +25.0 |
 
 ## Current Elo Ratings
 
@@ -90,7 +90,7 @@ Generated: 2026-01-16 11:18
 | 4 | St. John’s (Shrewsbury) | 1736.7 |
 | 5 | Greater Lawrence | 1705.6 |
 | 6 | Wayland | 1700.6 |
-| 7 | Watertown | 1669.1 |
+| 7 | Watertown | 1688.9 |
 | 8 | Lynnfield/North Reading | 1666.0 |
 | 9 | Mt. Hope (R.I.) | 1659.9 |
 | 10 | Weymouth | 1650.8 |
@@ -230,14 +230,14 @@ Generated: 2026-01-16 11:18
 | 144 | Monty Tech/Fitchburg | 1426.4 |
 | 145 | Nobles | 1424.6 |
 | 146 | Catholic Memorial | 1423.2 |
-| 147 | Lexington | 1416.1 |
-| 148 | King Philip | 1409.1 |
-| 149 | Lawrence | 1405.8 |
-| 150 | Beverly | 1403.9 |
-| 151 | Wilmington | 1402.7 |
-| 152 | Newton South | 1401.1 |
-| 153 | Plymouth North | 1399.0 |
-| 154 | Triton | 1398.3 |
+| 147 | King Philip | 1409.1 |
+| 148 | Lawrence | 1405.8 |
+| 149 | Beverly | 1403.9 |
+| 150 | Wilmington | 1402.7 |
+| 151 | Newton South | 1401.1 |
+| 152 | Plymouth North | 1399.0 |
+| 153 | Triton | 1398.3 |
+| 154 | Lexington | 1396.4 |
 | 155 | Barnstable | 1382.6 |
 | 156 | North Attleborough | 1381.6 |
 | 157 | Tewksbury | 1371.4 |

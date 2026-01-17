@@ -41,3 +41,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-15,80640,FINAL,Newton North,4279,144,1,Framingham,4143,125.55,0,Bay State,Bay State,,,0
 2026-01-15,80643,FINAL,Wilmington/Bedford,4432,139.8,1,Winchester,4434,136.5,0,Middlesex,Middlesex,,,0
 2026-01-15,80653,FINAL,Beverly,4038,138.7,1,Marblehead/Swampscott,4231,130.95,0,Cape Ann/Northeastern,Cape Ann/Northeastern,,,0
+2026-01-16,80758,FINAL,Hingham/Hull,4171,136.05,0,Pembroke/Silver Lake,4308,137.3,1,Patriot,Patriot,,,0
+2026-01-16,80761,FINAL,Mansfield,4230,142.6,1,Foxborough,4142,136.7,0,Hockomock,Independent,,,0
+2026-01-16,80803,FINAL,Scituate,4343,125.15,0,Whitman-Hanson,4427,133.75,1,Patriot,Patriot,,,0

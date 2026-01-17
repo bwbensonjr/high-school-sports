@@ -10,7 +10,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-05,77708,UPCOMING,Carver,4077,,,Hull,4184,,,South Shore,South Shore,4:00 P.M.,,0
 2026-01-05,77728,UPCOMING,Norwell,4296,29.0,,Middleborough,4247,71.0,,South Shore,South Shore,4:00 P.M.,,0
 2026-01-05,77732,UPCOMING,Rockland,4331,,,Randolph,4327,,,South Shore,South Shore,4:00 P.M.,,0
-2026-01-06,77612,FINAL,Arlington Catholic,4014,57,1,Cristo Rey,4453,7,0,Catholic Central,Catholic Central,7:30 P.M.,,0
+2026-01-06,77612,FINAL,Arlington Catholic,4014,57.0,1.0,Cristo Rey,4453,7.0,0.0,Catholic Central,Catholic Central,7:30 P.M.,,0
 2026-01-06,77639,UPCOMING,Burlington,4065,,,Stoneham,4380,,,Middlesex,Middlesex,4:00 P.M.,,0
 2026-01-06,77657,UPCOMING,Melrose,4244,,,Wilmington,4432,,,Middlesex,Middlesex,4:00 P.M.,,0
 2026-01-06,77669,UPCOMING,Pentucket,4309,,,Essex Tech,4745,,,Cape Ann,Cape Ann,5:00 P.M.,,0
@@ -23,11 +23,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-06,77702,UPCOMING,Dennis-Yarmouth,4111,,,Monomoy,4706,,,Cape & Islands,Independent,3:00 P.M.,,0
 2026-01-06,77719,UPCOMING,North Reading,4288,,,Triton,4395,,,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-01-06,77733,UPCOMING,Sandwich,4340,,,Martha’s Vineyard,4235,,,Cape & Islands,Cape & Islands,3:00 P.M.,,0
-2026-01-06,77988,FINAL,Hingham,4171,76,1,Whitman-Hanson,4427,24,0,Patriot,Patriot,,,0
-2026-01-06,78005,FINAL,North Quincy/Quincy,4287,31,0,Hanover,4164,65,1,Patriot,Patriot,,,0
-2026-01-06,78008,FINAL,Scituate,4343,25,0,Hanover,4164,75,1,Patriot,Patriot,,,0
-2026-01-06,78080,FINAL,Bishop Fenwick,4043,16,0,St. Mary’s,4374,79,1,Catholic Central,Catholic Central,,,0
-2026-01-06,78082,FINAL,Cardinal Spellman,4075,59,1,Archbishop Williams,4012,41,0,Tri-County,Catholic Central,,,0
+2026-01-06,77988,FINAL,Hingham,4171,76.0,1.0,Whitman-Hanson,4427,24.0,0.0,Patriot,Patriot,,,0
+2026-01-06,78005,FINAL,North Quincy/Quincy,4287,31.0,0.0,Hanover,4164,65.0,1.0,Patriot,Patriot,,,0
+2026-01-06,78008,FINAL,Scituate,4343,25.0,0.0,Hanover,4164,75.0,1.0,Patriot,Patriot,,,0
+2026-01-06,78080,FINAL,Bishop Fenwick,4043,16.0,0.0,St. Mary’s,4374,79.0,1.0,Catholic Central,Catholic Central,,,0
+2026-01-06,78082,FINAL,Cardinal Spellman,4075,59.0,1.0,Archbishop Williams,4012,41.0,0.0,Tri-County,Catholic Central,,,0
 2026-01-07,77607,UPCOMING,Weston,4423,,,Waltham,4405,,,Dual County,Dual County,3:30 P.M.,,0
 2026-01-07,77644,UPCOMING,Norton,4295,,,Dover-Sherborn,4118,,,Tri-Valley,Tri-Valley,6:30 P.M.,,0
 2026-01-07,77651,UPCOMING,Medway,4243,,,Millis,4251,,,Tri-Valley,Tri-Valley,6:30 P.M.,,0
@@ -132,3 +132,4 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-26,77716,UPCOMING,Abington,4002,,,Carver,4077,,,South Shore,South Shore,4:00 P.M.,,0
 2026-01-26,77725,UPCOMING,Mashpee,4237,,,Hull,4184,,,South Shore,South Shore,4:00 P.M.,,0
 2026-01-26,77729,UPCOMING,Randolph,4327,,,Middleborough,4247,,,South Shore,South Shore,4:00 P.M.,,0
+2026-01-27,77631,UPCOMING,Arlington,4013,,,Cardinal Spellman,4075,,,Middlesex,Tri-County,4:00 P.M.,,0

@@ -155,7 +155,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-05,72621,FINAL,Melrose,4244,3.0,1.0,Medford,4242,2.0,0.0,Middlesex,Northeast,6:00 P.M.,,0
 2026-01-05,77384,FINAL,Burlington,4065,1.0,0.0,Central Catholic,4081,2.0,1.0,Middlesex,Merrimack Valley/Dual County,3:30 P.M.,,0
 2026-01-05,77399,FINAL,Algonquin,4005,3.0,1.0,Pope Francis,4796,1.0,0.0,Central/West,Central/West,6:00 P.M.,,0
-2026-01-06,72492,FINAL,Andover,4009,4,1,Boston Latin,4049,3,0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,7:10 P.M.,,0
+2026-01-06,72492,FINAL,Andover,4009,4.0,1.0,Boston Latin,4049,3.0,0.0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,7:10 P.M.,,0
 2026-01-06,72623,UPCOMING,Central Catholic,4081,,,Burlington,4065,,,Merrimack Valley/Dual County,Middlesex,3:30 P.M.,,0
 2026-01-07,70965,FINAL,Milton,4252,2,1,Natick,4270,0,0,Bay State,Bay State,7:00 P.M.,,0
 2026-01-07,70992,FINAL,Needham,4272,1,0,Newton North,4279,2,1,Bay State,Bay State,6:00 P.M.,,0
@@ -289,8 +289,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-15,72399,FINAL,Shawsheen/Bedford/Lowell,4346,5,1,Westford,4421,1,0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,5:00 P.M.,,0
 2026-01-15,72456,FINAL,Andover,4009,2,0,HPNA,4283,3,1,Merrimack Valley/Dual County,Merrimack Valley/Dual County,7:10 P.M.,,0
 2026-01-15,80646,FINAL,East Catholic (Conn.),4834,1,0,Winchester,4434,2,1,Independent,Middlesex,8:00 P.M.,,0
-2026-01-16,71633,UPCOMING,Mansfield/OA/Foxboro,4230,,,Westwood,4424,,,Hockomock,Tri-Valley,5:30 P.M.,,0
-2026-01-16,72758,UPCOMING,Pope Francis,4796,,,Longmeadow,4214,,,Central/West,Central/West,6:30 P.M.,,0
+2026-01-16,71633,FINAL,Mansfield/OA/Foxboro,4230,0,0,Westwood,4424,2,1,Hockomock,Tri-Valley,5:30 P.M.,,0
+2026-01-16,72758,FINAL,Pope Francis,4796,2,1,Longmeadow,4214,0,0,Central/West,Central/West,6:30 P.M.,,0
 2026-01-16,72759,UPCOMING,Notre Dame (Hingham),4449,,,Canton,4071,,,Independent,Hockomock,7:40 P.M.,,0
 2026-01-17,70969,UPCOMING,Natick,4270,,,Arlington Catholic,4014,,,Bay State,Catholic Central,7:20 P.M.,,0
 2026-01-17,70997,UPCOMING,Latin Academy/Fontbonne,4202,,,Newton North,4279,,,Independent,Bay State,1:00 P.M.,,0
