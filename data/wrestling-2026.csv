@@ -161,3 +161,66 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-14,80372,FINAL,Norwood,4297,32,0,Holliston,4174,45,1,Tri-Valley,Tri-Valley,,,0
 2026-01-15,80634,FINAL,Ashland,4015,16,0,Wayland,4411,57,1,Tri-Valley,Dual County,,,0
 2026-01-16,80716,FINAL,Lexington,4209,30,0,Watertown,4409,45,1,Middlesex,Middlesex,,,0
+2026-01-17,80809,FINAL,Weymouth,4425,31,0,Chelmsford,4085,34,1,Bay State,Merrimack Valley,,,0
+2026-01-17,80811,FINAL,Weymouth,4425,40,0,North Attleborough,4284,42,1,Bay State,Hockomock,,,0
+2026-01-17,80813,FINAL,Weymouth,4425,35,0,Whittier,4428,45,1,Bay State,Commonwealth,,,0
+2026-01-17,80814,FINAL,Pembroke,4308,3,0,Wayland,4411,64,1,Patriot,Dual County,,,0
+2026-01-17,80817,FINAL,Nashoba,4267,24,0,Wayland,4411,54,1,Mid-Wach,Dual County,,,0
+2026-01-17,80820,FINAL,Norton,4295,15,0,Wayland,4411,47,1,Tri-Valley,Dual County,,,0
+2026-01-17,80823,FINAL,Beverly,4038,45,1,Quincy/North Quincy,4326,30,0,Northeastern,Patriot,,,0
+2026-01-17,80825,FINAL,Central (R.I.),4497,25,0,Winchester,4434,41,1,Independent,Middlesex,,,0
+2026-01-17,80827,FINAL,Portland/So. Portland (Maine),4493,24,0,Beverly,4038,36,1,Independent,Northeastern,,,0
+2026-01-17,80828,FINAL,Central (R.I.),4497,55,1,Quincy/North Quincy,4326,24,0,Independent,Patriot,,,0
+2026-01-17,80830,FINAL,Winchester,4434,53,1,Beverly,4038,27,0,Middlesex,Northeastern,,,0
+2026-01-17,80833,FINAL,Portland/So. Portland (Maine),4493,24,0,Quincy/North Quincy,4326,54,1,Independent,Patriot,,,0
+2026-01-17,80836,FINAL,Portland/So. Portland (Maine),4493,12,0,Winchester,4434,66,1,Independent,Middlesex,,,0
+2026-01-17,80838,FINAL,Beverly,4038,27,0,Central (R.I.),4497,48,1,Northeastern,Independent,,,0
+2026-01-17,80840,FINAL,Winchester,4434,47,1,Quincy/North Quincy,4326,33,0,Middlesex,Patriot,,,0
+2026-01-17,80842,FINAL,Central (R.I.),4497,58,1,Portland/So. Portland (Maine),4493,24,0,Independent,Independent,,,0
+2026-01-17,80844,FINAL,Newton South,4280,27,0,Cambridge,4067,38,1,Dual County,Dual County,,,0
+2026-01-17,80847,FINAL,Brookline,4059,48,1,Plymouth South,4316,36,0,Bay State,Patriot,,,0
+2026-01-17,80850,FINAL,Gloucester,4150,35,0,Plymouth South,4316,44,1,Northeastern,Patriot,,,0
+2026-01-17,80852,FINAL,Brookline,4059,34,0,Newton South,4280,47,1,Bay State,Dual County,,,0
+2026-01-17,80856,FINAL,Brookline,4059,34,0,Gloucester,4150,44,1,Bay State,Northeastern,,,0
+2026-01-17,80859,FINAL,Plymouth South,4316,37,0,Cambridge,4067,40,1,Patriot,Dual County,,,0
+2026-01-17,80862,FINAL,Newton South,4280,47,1,Plymouth South,4316,28,0,Dual County,Patriot,,,0
+2026-01-17,80865,FINAL,Gloucester,4150,25,0,Cambridge,4067,46,1,Northeastern,Dual County,,,0
+2026-01-17,80867,FINAL,Braintree,4051,33,0,Hingham,4171,47,1,Bay State,Patriot,,,0
+2026-01-17,80868,FINAL,Foxborough,4142,43,1,Hingham,4171,34,0,Hockomock,Patriot,,,0
+2026-01-17,80871,FINAL,Hingham,4171,23,0,West Springfield,4417,53,1,Patriot,Independent,,,0
+2026-01-17,80876,FINAL,Tyngsborough/Dracut,4397,31,0,Tewksbury,4389,38,1,Mid-Wach,Merrimack Valley,,,0
+2026-01-17,80878,FINAL,Triton,4395,30,0,Tewksbury,4389,50,1,Cape Ann,Merrimack Valley,,,0
+2026-01-17,80880,FINAL,St. John’s (Shrewsbury),4368,39,0,Tewksbury,4389,42,1,Catholic Conference,Merrimack Valley,,,0
+2026-01-17,80882,FINAL,Quincy Upper,4515,23,0,Tewksbury,4389,42,1,Boston City,Merrimack Valley,,,0
+2026-01-17,80887,FINAL,Brookline,4059,36,0,Cambridge,4067,46,1,Bay State,Dual County,,,0
+2026-01-17,80888,FINAL,Newton South,4280,47,1,Gloucester,4150,34,0,Dual County,Northeastern,,,0
+2026-01-17,80891,FINAL,King Philip,4197,50,1,Danvers,4103,24,0,Hockomock,Northeastern,,,0
+2026-01-17,80894,FINAL,Danvers,4103,12,0,Hope (R.I.),4496,67,1,Northeastern,Independent,,,0
+2026-01-17,80895,FINAL,Brookline,4059,36,0,Beverly,4038,42,1,Bay State,Northeastern,,,0
+2026-01-17,80896,FINAL,Gloucester,4150,36,1,Portland/So. Portland (Maine),4493,28,0,Northeastern,Independent,,,0
+2026-01-17,80897,FINAL,Marshfield,4234,48,1,Hanover,4164,36,0,Patriot,Patriot,,,0
+2026-01-17,80900,FINAL,Marshfield,4234,41,1,Framingham,4143,39,0,Patriot,Bay State,,,0
+2026-01-17,80902,FINAL,Marshfield,4234,28,0,Bristol-Plymouth,4057,52,1,Patriot,Mayflower,,,0
+2026-01-17,80903,FINAL,Marshfield,4234,48,1,Durfee,4122,36,0,Patriot,Big Three,,,0
+2026-01-17,80912,FINAL,Roxbury Latin,4334,81,1,Hyde,4186,0,0,ISL,Independent,,,0
+2026-01-17,80915,FINAL,Roxbury Latin,4334,44,1,Phillips Andover,4310,35,0,ISL,Independent,,,0
+2026-01-17,80916,FINAL,BC High,4029,18,0,Pentucket,4309,63,1,Catholic Conference,Cape Ann,,,0
+2026-01-17,80917,FINAL,Greater Lowell,4155,34,0,Pentucket,4309,45,1,Commonwealth,Cape Ann,,,0
+2026-01-17,80919,FINAL,North Andover,4283,38,2,Pentucket,4309,38,2,Merrimack Valley,Cape Ann,,,0
+2026-01-17,80921,FINAL,St. John’s (Shrewsbury),4368,6,0,Triton,4395,30,1,Catholic Conference,Cape Ann,,,0
+2026-01-17,80924,FINAL,Triton,4395,35,0,Tyngsborough/Dracut,4397,47,1,Cape Ann,Mid-Wach,,,0
+2026-01-17,80927,FINAL,Triton,4395,24,1,Quincy Upper,4515,12,0,Cape Ann,Boston City,,,0
+2026-01-17,80929,FINAL,Haverhill,4167,20,0,Methuen,4246,57,1,Merrimack Valley,Merrimack Valley,,,0
+2026-01-17,80931,FINAL,North Middlesex,4286,6,0,Methuen,4246,38,1,Independent,Merrimack Valley,,,0
+2026-01-17,80932,FINAL,Foxborough,4142,18,0,West Springfield,4417,58,1,Hockomock,Independent,,,0
+2026-01-17,80935,FINAL,Braintree,4051,18,0,West Springfield,4417,65,1,Bay State,Independent,,,0
+2026-01-17,80937,FINAL,Latin Academy,4202,29,0,Norwood,4297,39,1,Boston City,Tri-Valley,,,0
+2026-01-17,80940,FINAL,Latin Academy,4202,30,0,Milton,4252,54,1,Boston City,Bay State,,,0
+2026-01-17,80941,FINAL,Latin Academy,4202,36,0,Oliver Ames,4302,45,1,Boston City,Hockomock,,,0
+2026-01-17,80944,FINAL,Wilmington,4432,0,0,Westford,4421,59,1,Middlesex,Dual County,,,0
+2026-01-17,80947,FINAL,Algonquin,4005,30,0,Westford,4421,54,1,Mid-Wach,Dual County,,,0
+2026-01-17,80950,FINAL,Frontier,4146,6,0,Westford,4421,63,1,Independent,Dual County,,,0
+2026-01-17,80953,FINAL,Pathfinder,4305,0,0,Westford,4421,47,1,Independent,Dual County,,,0
+2026-01-17,80980,FINAL,Brooks,4060,30,0,Milton Academy,4253,37,1,ISL,ISL,,,0
+2026-01-17,80983,FINAL,Brooks,4060,30,0,Pomfret,4317,42,1,ISL,Independent,,,0
+2026-01-17,80986,FINAL,Brooks,4060,48,1,Marianapolis,4567,18,0,ISL,Independent,,,0

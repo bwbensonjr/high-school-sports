@@ -31,8 +31,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-07,77607,UPCOMING,Weston,4423,,,Waltham,4405,,,Dual County,Dual County,3:30 P.M.,,0
 2026-01-07,77644,UPCOMING,Norton,4295,,,Dover-Sherborn,4118,,,Tri-Valley,Tri-Valley,6:30 P.M.,,0
 2026-01-07,77651,UPCOMING,Medway,4243,,,Millis,4251,,,Tri-Valley,Tri-Valley,6:30 P.M.,,0
-2026-01-07,78226,FINAL,North Andover,4283,40.5,0,Lowell,4216,59.5,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-07,78228,FINAL,North Andover,4283,45,2,Andover,4009,45,2,Merrimack Valley,Merrimack Valley,,,0
+2026-01-07,78226,FINAL,North Andover,4283,40.5,0.0,Lowell,4216,59.5,1.0,Merrimack Valley,Merrimack Valley,,,0
+2026-01-07,78228,FINAL,North Andover,4283,45.0,2.0,Andover,4009,45.0,2.0,Merrimack Valley,Merrimack Valley,,,0
 2026-01-08,77486,FINAL,Wellesley,4413,26.5,0,Newton North,4279,73.5,1,Bay State,Bay State,4:00 P.M.,,0
 2026-01-08,77500,FINAL,Brookline,4059,82,1,Framingham,4143,17,0,Bay State,Bay State,4:00 P.M.,,0
 2026-01-08,77510,FINAL,Braintree,4051,35.33,0,Walpole,4404,64.66,1,Bay State,Bay State,4:00 P.M.,,0

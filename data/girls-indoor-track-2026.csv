@@ -20,9 +20,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-06,78096,FINAL,Cristo Rey,4453,11.0,0.0,Arlington Catholic,4014,67.0,1.0,Catholic Central,Catholic Central,,,0
 2026-01-06,78098,FINAL,Archbishop Williams,4012,45.0,0.0,Malden Catholic,4228,50.0,1.0,Catholic Central,Independent,,,0
 2026-01-06,78099,FINAL,Archbishop Williams,4012,41.0,0.0,Cardinal Spellman,4075,51.0,1.0,Catholic Central,Tri-County,,,0
-2026-01-07,78207,FINAL,North Andover,4283,31,0,Lowell,4216,69,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-07,78209,FINAL,North Andover,4283,39.33,0,Andover,4009,60.66,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-07,78223,FINAL,Billerica,4040,40.33,0,Central Catholic,4081,59.66,1,Merrimack Valley,Merrimack Valley,,,0
+2026-01-07,78207,FINAL,North Andover,4283,31.0,0.0,Lowell,4216,69.0,1.0,Merrimack Valley,Merrimack Valley,,,0
+2026-01-07,78209,FINAL,North Andover,4283,39.33,0.0,Andover,4009,60.66,1.0,Merrimack Valley,Merrimack Valley,,,0
+2026-01-07,78223,FINAL,Billerica,4040,40.33,0.0,Central Catholic,4081,59.66,1.0,Merrimack Valley,Merrimack Valley,,,0
 2026-01-08,77574,FINAL,Wellesley,4413,33,0,Newton North,4279,67,1,Bay State,Bay State,4:00 P.M.,,0
 2026-01-08,77579,FINAL,Brookline,4059,57,1,Framingham,4143,41,0,Bay State,Bay State,4:00 P.M.,,0
 2026-01-08,77583,FINAL,Braintree,4051,66,1,Walpole,4404,33,0,Bay State,Bay State,4:00 P.M.,,0

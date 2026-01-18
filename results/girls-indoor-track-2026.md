@@ -1,6 +1,6 @@
 # Girls Indoor Track - 2026 Season
 
-Generated: 2026-01-17 11:15
+Generated: 2026-01-18 11:15
 
 ## Upcoming Games
 
@@ -89,9 +89,9 @@ Generated: 2026-01-17 11:15
 | 38 | Brighton | 1521.6 |
 | 39 | Whitman-Hanson | 1519.8 |
 | 40 | Hingham | 1505.1 |
-| 41 | North Reading | 1502.8 |
-| 42 | Essex Tech | 1502.8 |
-| 43 | Newburyport | 1502.8 |
+| 41 | Newburyport | 1502.8 |
+| 42 | North Reading | 1502.8 |
+| 43 | Essex Tech | 1502.8 |
 | 44 | Billerica | 1495.9 |
 | 45 | Greater New Bedford | 1491.3 |
 | 46 | Dighton-Rehoboth | 1487.3 |

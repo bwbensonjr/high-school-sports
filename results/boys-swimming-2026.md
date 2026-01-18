@@ -1,6 +1,6 @@
 # Boys Swimming - 2026 Season
 
-Generated: 2026-01-17 11:15
+Generated: 2026-01-18 11:15
 
 ## Upcoming Games
 
@@ -11,16 +11,17 @@ Generated: 2026-01-17 11:15
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-16 | Nauset | 54 | Martha’s Vineyard | 89 | -2.5 | -35.0 |
 | 2026-01-16 | Acton-Boxborough | 91 | Concord-Carlisle | 92 | +2.3 | -1.0 |
 | 2026-01-16 | Holliston/Medway | 77 | Westwood | 97 | -2.5 | -20.0 |
 | 2026-01-16 | Dedham | 97 | Medfield | 62 | +3.3 | +35.0 |
 | 2026-01-16 | Catholic Memorial | 85 | BC High | 84 | +3.8 | +1.0 |
 | 2026-01-16 | Central Catholic | 55 | Chelmsford | 100 | -8.5 | -45.0 |
 | 2026-01-15 | Durfee | 62 | Old Rochester | 90 | +5.5 | -28.0 |
-| 2026-01-14 | Catholic Memorial | 97 | Medfield | 34 | +2.3 | +63.0 |
+| 2026-01-14 | Nantucket | 93 | Nauset | 47 | +2.5 | +46.0 |
 | 2026-01-14 | Martha’s Vineyard | 100 | Sandwich | 62 | +3.0 | +38.0 |
 | 2026-01-14 | Oliver Ames | 75 | Stoughton | 57 | +6.2 | +18.0 |
-| 2026-01-14 | Nantucket | 93 | Nauset | 47 | +2.5 | +46.0 |
+| 2026-01-14 | Catholic Memorial | 97 | Medfield | 34 | +2.3 | +63.0 |
 | 2026-01-14 | Dedham | 75 | Westwood | 93 | -0.7 | -18.0 |
 | 2026-01-14 | St. John’s Prep | 108 | Xaverian | 76 | -1.8 | +32.0 |
 | 2026-01-13 | Pembroke | 27 | Quincy/North Quincy | 85 | -3.1 | -58.0 |
@@ -31,17 +32,15 @@ Generated: 2026-01-17 11:15
 | 2026-01-13 | Central Catholic | 67 | Haverhill | 87 | -0.2 | -20.0 |
 | 2026-01-12 | Weston | 98 | Newton South | 86 | +2.0 | +12.0 |
 | 2026-01-12 | Catholic Memorial | 77 | Xaverian | 93 | -1.7 | -16.0 |
-| 2026-01-10 | Attleboro | 70 | Sharon | 96 | +2.0 | -26.0 |
-| 2026-01-10 | Westford | 99 | Concord-Carlisle | 77 | +3.4 | +22.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Chelmsford | 1659.0 |
-| 2 | Quincy/North Quincy | 1632.7 |
-| 3 | Westwood | 1626.0 |
-| 4 | Martha’s Vineyard | 1603.5 |
+| 2 | Martha’s Vineyard | 1647.6 |
+| 3 | Quincy/North Quincy | 1632.7 |
+| 4 | Westwood | 1626.0 |
 | 5 | Westford | 1601.5 |
 | 6 | Nantucket | 1597.9 |
 | 7 | St. John’s Prep | 1594.3 |
@@ -77,18 +76,18 @@ Generated: 2026-01-17 11:15
 | 37 | Seekonk | 1494.6 |
 | 38 | Natick | 1494.1 |
 | 39 | Sandwich | 1491.5 |
-| 40 | Nauset | 1490.2 |
-| 41 | Acton-Boxborough | 1489.6 |
-| 42 | Latin Academy | 1489.0 |
-| 43 | Foxborough | 1485.0 |
-| 44 | Dedham | 1477.5 |
-| 45 | Bishop Stang | 1476.1 |
-| 46 | Lincoln-Sudbury | 1473.1 |
-| 47 | Newton South | 1468.7 |
-| 48 | Lexington | 1468.5 |
-| 49 | Melrose | 1467.8 |
-| 50 | BC High | 1463.2 |
-| 51 | Cardinal Spellman | 1459.9 |
+| 40 | Acton-Boxborough | 1489.6 |
+| 41 | Latin Academy | 1489.0 |
+| 42 | Foxborough | 1485.0 |
+| 43 | Dedham | 1477.5 |
+| 44 | Bishop Stang | 1476.1 |
+| 45 | Lincoln-Sudbury | 1473.1 |
+| 46 | Newton South | 1468.7 |
+| 47 | Lexington | 1468.5 |
+| 48 | Melrose | 1467.8 |
+| 49 | BC High | 1463.2 |
+| 50 | Cardinal Spellman | 1459.9 |
+| 51 | Nauset | 1446.1 |
 | 52 | Attleboro | 1445.1 |
 | 53 | Holliston/Medway | 1439.1 |
 | 54 | Boston Latin | 1437.4 |
