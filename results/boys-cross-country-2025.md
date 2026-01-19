@@ -1,6 +1,6 @@
 # Boys Cross Country - 2025 Season
 
-Generated: 2026-01-18 11:15
+Generated: 2026-01-19 11:20
 
 ## Upcoming Games
 
@@ -143,19 +143,19 @@ Generated: 2026-01-18 11:15
 | 125 | Hampshire | 1503.8 |
 | 126 | Rising Tide Charter | 1502.3 |
 | 127 | Bellingham | 1501.9 |
-| 128 | Watkinson | 1501.7 |
-| 129 | Minnechaug | 1501.7 |
-| 130 | Westfield | 1501.7 |
-| 131 | Longmeadow | 1501.7 |
-| 132 | St. Sebastian’s | 1501.7 |
-| 133 | Bridgewater-Raynham | 1501.7 |
-| 134 | Amherst-Pelham | 1501.7 |
-| 135 | Greater Lawrence | 1501.7 |
-| 136 | Tabor | 1501.7 |
-| 137 | Notre Dame (Tyngsborough) | 1501.7 |
-| 138 | Riverview School | 1501.7 |
-| 139 | Greater Lowell | 1501.7 |
-| 140 | Wachusett | 1501.7 |
+| 128 | Greater Lowell | 1501.7 |
+| 129 | Greater Lawrence | 1501.7 |
+| 130 | Bridgewater-Raynham | 1501.7 |
+| 131 | Watkinson | 1501.7 |
+| 132 | Wachusett | 1501.7 |
+| 133 | Minnechaug | 1501.7 |
+| 134 | Westfield | 1501.7 |
+| 135 | Amherst-Pelham | 1501.7 |
+| 136 | St. Sebastian’s | 1501.7 |
+| 137 | Tabor | 1501.7 |
+| 138 | Longmeadow | 1501.7 |
+| 139 | Riverview School | 1501.7 |
+| 140 | Notre Dame (Tyngsborough) | 1501.7 |
 | 141 | East Bridgewater | 1500.4 |
 | 142 | Cambridge | 1499.0 |
 | 143 | Lynn Classical | 1497.6 |
@@ -185,8 +185,8 @@ Generated: 2026-01-18 11:15
 | 167 | Landmark | 1477.8 |
 | 168 | Ayer Shirley | 1477.8 |
 | 169 | Lincoln-Sudbury | 1477.2 |
-| 170 | Mystic Valley | 1476.8 |
-| 171 | Algonquin | 1476.8 |
+| 170 | Algonquin | 1476.8 |
+| 171 | Mystic Valley | 1476.8 |
 | 172 | Tantasqua | 1475.1 |
 | 173 | Oakmont | 1474.9 |
 | 174 | Franklin | 1474.2 |

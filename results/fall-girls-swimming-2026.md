@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-01-18 11:15
+Generated: 2026-01-19 11:20
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-01-18 11:15
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-18 | Arlington Catholic | 74 | Bishop Fenwick | 45 | +7.7 | +29.0 |
 | 2026-01-16 | Dedham | 95 | Medfield | 80 | +5.0 | +15.0 |
 | 2026-01-16 | Holliston/Medway | 59 | Westwood | 82 | -5.0 | -23.0 |
 | 2026-01-16 | Norton | 78 | Hopkinton | 83 | +5.0 | -5.0 |
@@ -46,38 +47,38 @@ Generated: 2026-01-18 11:15
 | 16 | Quincy | 1561.3 |
 | 17 | Winchester | 1560.1 |
 | 18 | Hingham | 1548.4 |
-| 19 | Shrewsbury | 1540.4 |
-| 20 | Weston | 1539.9 |
-| 21 | Westborough | 1538.3 |
-| 22 | New Bedford | 1537.9 |
-| 23 | Oliver Ames | 1536.9 |
-| 24 | Hopkinton | 1533.5 |
-| 25 | Needham | 1533.3 |
-| 26 | Bishop Feehan | 1532.4 |
-| 27 | Marshfield/Hanover | 1531.2 |
-| 28 | Lexington | 1531.1 |
-| 29 | Tantasqua | 1530.4 |
-| 30 | Newton North | 1530.2 |
-| 31 | Archbishop Williams | 1530.1 |
-| 32 | Belmont | 1529.4 |
-| 33 | Barnstable | 1528.4 |
-| 34 | Wayland | 1526.1 |
-| 35 | Apponequet | 1522.5 |
-| 36 | Martha’s Vineyard | 1519.7 |
-| 37 | Duxbury | 1519.5 |
-| 38 | Reading | 1519.4 |
-| 39 | Mansfield | 1508.3 |
-| 40 | Chelmsford | 1508.2 |
-| 41 | Dedham | 1499.9 |
-| 42 | Sandwich | 1495.6 |
-| 43 | Old Rochester | 1491.6 |
-| 44 | Nashoba | 1490.9 |
-| 45 | Wakefield/Wakefield | 1490.8 |
-| 46 | Plymouth North/South | 1490.1 |
-| 47 | Arlington/Watertown | 1486.0 |
-| 48 | Central Catholic | 1477.5 |
-| 49 | North Attleborough | 1477.2 |
-| 50 | Bishop Fenwick | 1475.4 |
+| 19 | Arlington Catholic | 1542.6 |
+| 20 | Shrewsbury | 1540.4 |
+| 21 | Weston | 1539.9 |
+| 22 | Westborough | 1538.3 |
+| 23 | New Bedford | 1537.9 |
+| 24 | Oliver Ames | 1536.9 |
+| 25 | Hopkinton | 1533.5 |
+| 26 | Needham | 1533.3 |
+| 27 | Bishop Feehan | 1532.4 |
+| 28 | Marshfield/Hanover | 1531.2 |
+| 29 | Lexington | 1531.1 |
+| 30 | Tantasqua | 1530.4 |
+| 31 | Newton North | 1530.2 |
+| 32 | Archbishop Williams | 1530.1 |
+| 33 | Belmont | 1529.4 |
+| 34 | Barnstable | 1528.4 |
+| 35 | Wayland | 1526.1 |
+| 36 | Apponequet | 1522.5 |
+| 37 | Martha’s Vineyard | 1519.7 |
+| 38 | Duxbury | 1519.5 |
+| 39 | Reading | 1519.4 |
+| 40 | Mansfield | 1508.3 |
+| 41 | Chelmsford | 1508.2 |
+| 42 | Dedham | 1499.9 |
+| 43 | Sandwich | 1495.6 |
+| 44 | Old Rochester | 1491.6 |
+| 45 | Nashoba | 1490.9 |
+| 46 | Wakefield/Wakefield | 1490.8 |
+| 47 | Plymouth North/South | 1490.1 |
+| 48 | Arlington/Watertown | 1486.0 |
+| 49 | Central Catholic | 1477.5 |
+| 50 | North Attleborough | 1477.2 |
 | 51 | Foxborough | 1475.0 |
 | 52 | Norton | 1472.0 |
 | 53 | Lincoln-Sudbury | 1470.2 |
@@ -102,12 +103,13 @@ Generated: 2026-01-18 11:15
 | 72 | Attleboro | 1441.8 |
 | 73 | Durfee | 1439.7 |
 | 74 | Holliston/Medway | 1438.6 |
-| 75 | Weymouth | 1430.4 |
-| 76 | Woburn | 1429.5 |
-| 77 | Medfield | 1428.6 |
-| 78 | Pembroke | 1411.2 |
-| 79 | Malden Catholic | 1402.4 |
-| 80 | Braintree | 1400.3 |
-| 81 | Walpole | 1381.0 |
-| 82 | Stoneham | 1379.9 |
-| 83 | Nauset | 1347.8 |
+| 75 | Bishop Fenwick | 1435.5 |
+| 76 | Weymouth | 1430.4 |
+| 77 | Woburn | 1429.5 |
+| 78 | Medfield | 1428.6 |
+| 79 | Pembroke | 1411.2 |
+| 80 | Malden Catholic | 1402.4 |
+| 81 | Braintree | 1400.3 |
+| 82 | Walpole | 1381.0 |
+| 83 | Stoneham | 1379.9 |
+| 84 | Nauset | 1347.8 |

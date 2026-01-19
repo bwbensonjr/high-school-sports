@@ -426,10 +426,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-07,78210,FINAL,Thayer,4390,4.0,2.0,Middlesex,4248,4.0,2.0,ISL,ISL,,,0
 2026-01-07,78213,FINAL,Milton Academy,4253,2.0,0.0,Belmont Hill,4035,4.0,1.0,ISL,ISL,,,0
 2026-01-07,78214,FINAL,Nobles,4282,4.0,1.0,St. Sebastian’s,4378,1.0,0.0,ISL,ISL,,,0
-2026-01-08,67848,FINAL,Pope Francis,4796,3,1,Franklin,4144,0,0,Independent,Hockomock,6:40 P.M.,,0
-2026-01-08,76472,FINAL,Longmeadow,4214,2,0,Greenfield,4157,4,1,Berry Division,Wright Division,6:30 P.M.,,0
-2026-01-08,76473,FINAL,West Springfield,4417,1,0,East Longmeadow,4127,6,1,Berry Division,Berry Division,8:30 P.M.,,0
-2026-01-08,78326,FINAL,Gardner,4147,2,0,Lunenburg/Ayer Shirley,4219,4,1,Coughlin,Coughlin,,,0
+2026-01-08,67848,FINAL,Pope Francis,4796,3.0,1.0,Franklin,4144,0.0,0.0,Independent,Hockomock,6:40 P.M.,,0
+2026-01-08,76472,FINAL,Longmeadow,4214,2.0,0.0,Greenfield,4157,4.0,1.0,Berry Division,Wright Division,6:30 P.M.,,0
+2026-01-08,76473,FINAL,West Springfield,4417,1.0,0.0,East Longmeadow,4127,6.0,1.0,Berry Division,Berry Division,8:30 P.M.,,0
+2026-01-08,78326,FINAL,Gardner,4147,2.0,0.0,Lunenburg/Ayer Shirley,4219,4.0,1.0,Coughlin,Coughlin,,,0
 2026-01-09,68204,FINAL,Falmouth,4134,3,1,Martha’s Vineyard,4235,2,0,Cape & Islands,Cape & Islands,5:00 P.M.,,0
 2026-01-09,69785,FINAL,Keefe Tech,4191,2,0,Blue Hills,4047,8,1,Independent,Mayflower,6:30 P.M.,,0
 2026-01-09,76474,FINAL,Lunenburg/Ayer Shirley,4219,1,1,Worcester,4066,0,0,Coughlin,Russell,5:30 P.M.,,0
@@ -689,11 +689,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-17,80909,FINAL,St. Mark’s,4372,6,1,Rivers,4330,3,0,ISL,ISL,3:30 P.M.,,0
 2026-01-17,80963,FINAL,Marlborough,4233,5,1,Nashoba,4267,1,0,Quinn,Roy,7:00 P.M.,,0
 2026-01-17,80990,FINAL,Thayer,4390,4,1,Lawrence Academy,4204,3,0,ISL,ISL,,,0
-2026-01-18,67782,UPCOMING,Xaverian,4446,,,Catholic Memorial,4080,,,Catholic Conference,Catholic Conference,12:30 P.M.,,0
-2026-01-18,67877,UPCOMING,Malden Catholic,4228,,,St. John’s Prep,4369,,,Catholic Conference,Catholic Conference,2:45 P.M.,,0
-2026-01-18,67926,UPCOMING,St. John’s (Shrewsbury),4368,,,BC High,4029,,,Catholic Conference,Catholic Conference,1:00 P.M.,,0
-2026-01-18,69789,UPCOMING,Upper Cape,4457,,,Blue Hills,4047,,,Mayflower,Mayflower,8:00 P.M.,,0
-2026-01-18,76644,UPCOMING,Minuteman,4255,,,Nashoba  Tech/Greater Lowell,4268,,,Commonwealth,Commonwealth,6:00 P.M.,,0
+2026-01-18,67782,FINAL,Xaverian,4446,0,0,Catholic Memorial,4080,5,1,Catholic Conference,Catholic Conference,12:30 P.M.,,0
+2026-01-18,67877,FINAL,Malden Catholic,4228,1,0,St. John’s Prep,4369,5,1,Catholic Conference,Catholic Conference,2:45 P.M.,,0
+2026-01-18,67926,FINAL,St. John’s (Shrewsbury),4368,2,0,BC High,4029,3,1,Catholic Conference,Catholic Conference,1:00 P.M.,,0
+2026-01-18,69789,FINAL,Upper Cape,4457,1,0,Blue Hills,4047,6,1,Mayflower,Mayflower,8:00 P.M.,,0
+2026-01-18,76644,FINAL,Minuteman,4255,1,0,Nashoba  Tech/Greater Lowell,4268,4,1,Commonwealth,Commonwealth,6:00 P.M.,,0
 2026-01-19,65001,UPCOMING,Hingham,4171,,,St. Mary’s,4374,,,Independent,Catholic Central,1:00 P.M.,,0
 2026-01-19,67520,UPCOMING,Marshfield,4234,,,Duxbury,4123,,,Patriot,Patriot,3:00 P.M.,,0
 2026-01-19,67558,UPCOMING,Quincy,4287,,,Hanover,4164,,,Patriot,Patriot,1:00 P.M.,,0
@@ -968,3 +968,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-28,76816,UPCOMING,Fitchburg/Monty Tech,4139,,,Littleton/Bromfield,4212,,,Coughlin,Coughlin,7:30 P.M.,,0
 2026-01-28,76818,UPCOMING,Norton,4295,,,Hopkinton,4180,,,Tri-Valley,Tri-Valley,7:45 P.M.,,0
 2026-01-28,76819,UPCOMING,Minuteman,4255,,,Northbridge,4292,,,Commonwealth,Russell,8:00 P.M.,,0
+2026-01-29,67859,UPCOMING,Pope Francis,4796,,,Shrewsbury,4348,,,Independent,Merrimack Valley/Dual County,6:40 P.M.,,0
+2026-01-29,76822,UPCOMING,Shawsheen,4346,,,Northeast,4293,,,Commonwealth,Commonwealth,7:10 P.M.,,0
+2026-01-29,76825,UPCOMING,East Longmeadow,4127,,,Minnechaug,4254,,,Berry Division,Berry Division,8:00 P.M.,,0
+2026-01-29,76826,UPCOMING,Amherst-Pelham,4008,,,Taconic,4385,,,Fay Division,Independent,8:30 P.M.,,0

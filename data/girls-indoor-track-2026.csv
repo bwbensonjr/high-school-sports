@@ -23,14 +23,14 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-07,78207,FINAL,North Andover,4283,31.0,0.0,Lowell,4216,69.0,1.0,Merrimack Valley,Merrimack Valley,,,0
 2026-01-07,78209,FINAL,North Andover,4283,39.33,0.0,Andover,4009,60.66,1.0,Merrimack Valley,Merrimack Valley,,,0
 2026-01-07,78223,FINAL,Billerica,4040,40.33,0.0,Central Catholic,4081,59.66,1.0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-08,77574,FINAL,Wellesley,4413,33,0,Newton North,4279,67,1,Bay State,Bay State,4:00 P.M.,,0
-2026-01-08,77579,FINAL,Brookline,4059,57,1,Framingham,4143,41,0,Bay State,Bay State,4:00 P.M.,,0
-2026-01-08,77583,FINAL,Braintree,4051,66,1,Walpole,4404,33,0,Bay State,Bay State,4:00 P.M.,,0
-2026-01-08,77591,FINAL,Needham,4272,62,1,Weymouth,4425,34,0,Bay State,Bay State,4:00 P.M.,,0
-2026-01-08,77619,FINAL,Natick,4270,61,1,Milton,4252,39,0,Bay State,Bay State,4:00 P.M.,,0
-2026-01-08,78261,FINAL,Old Rochester,4301,56,1,Somerset Berkley,4350,39,0,South Coast,South Coast,,,0
-2026-01-08,78313,FINAL,Peabody,4306,50,1,Marblehead,4231,36,0,Northeastern,Northeastern,,,0
-2026-01-08,78341,FINAL,Seekonk,4344,66,1,Joseph Case,4078,29,0,South Coast,South Coast,,,0
+2026-01-08,77574,FINAL,Wellesley,4413,33.0,0.0,Newton North,4279,67.0,1.0,Bay State,Bay State,4:00 P.M.,,0
+2026-01-08,77579,FINAL,Brookline,4059,57.0,1.0,Framingham,4143,41.0,0.0,Bay State,Bay State,4:00 P.M.,,0
+2026-01-08,77583,FINAL,Braintree,4051,66.0,1.0,Walpole,4404,33.0,0.0,Bay State,Bay State,4:00 P.M.,,0
+2026-01-08,77591,FINAL,Needham,4272,62.0,1.0,Weymouth,4425,34.0,0.0,Bay State,Bay State,4:00 P.M.,,0
+2026-01-08,77619,FINAL,Natick,4270,61.0,1.0,Milton,4252,39.0,0.0,Bay State,Bay State,4:00 P.M.,,0
+2026-01-08,78261,FINAL,Old Rochester,4301,56.0,1.0,Somerset Berkley,4350,39.0,0.0,South Coast,South Coast,,,0
+2026-01-08,78313,FINAL,Peabody,4306,50.0,1.0,Marblehead,4231,36.0,0.0,Northeastern,Northeastern,,,0
+2026-01-08,78341,FINAL,Seekonk,4344,66.0,1.0,Joseph Case,4078,29.0,0.0,South Coast,South Coast,,,0
 2026-01-13,77741,FINAL,Hamilton-Wenham,4163,27,0,Ipswich,4190,72,1,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-01-13,77748,UPCOMING,Essex Tech,4745,,,North Reading,4288,,,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-01-13,77757,UPCOMING,Manchester Essex,4229,,,Amesbury,4007,,,Cape Ann,Cape Ann,5:00 P.M.,,0
