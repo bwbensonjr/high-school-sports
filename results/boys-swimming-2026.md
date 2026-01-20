@@ -1,6 +1,6 @@
 # Boys Swimming - 2026 Season
 
-Generated: 2026-01-19 11:20
+Generated: 2026-01-20 11:21
 
 ## Upcoming Games
 
@@ -18,20 +18,18 @@ Generated: 2026-01-19 11:20
 | 2026-01-16 | Catholic Memorial | 85 | BC High | 84 | +3.8 | +1.0 |
 | 2026-01-16 | Central Catholic | 55 | Chelmsford | 100 | -8.5 | -45.0 |
 | 2026-01-15 | Durfee | 62 | Old Rochester | 90 | +5.5 | -28.0 |
-| 2026-01-14 | Nantucket | 93 | Nauset | 47 | +2.5 | +46.0 |
-| 2026-01-14 | Martha’s Vineyard | 100 | Sandwich | 62 | +3.0 | +38.0 |
 | 2026-01-14 | Oliver Ames | 75 | Stoughton | 57 | +6.2 | +18.0 |
+| 2026-01-14 | Martha’s Vineyard | 100 | Sandwich | 62 | +3.0 | +38.0 |
+| 2026-01-14 | Nantucket | 93 | Nauset | 47 | +2.5 | +46.0 |
 | 2026-01-14 | Catholic Memorial | 97 | Medfield | 34 | +2.3 | +63.0 |
 | 2026-01-14 | Dedham | 75 | Westwood | 93 | -0.7 | -18.0 |
 | 2026-01-14 | St. John’s Prep | 108 | Xaverian | 76 | -1.8 | +32.0 |
+| 2026-01-13 | Chelmsford | 100 | Andover | 75 | +4.5 | +25.0 |
 | 2026-01-13 | Pembroke | 27 | Quincy/North Quincy | 85 | -3.1 | -58.0 |
 | 2026-01-13 | Wellesley | 90 | Brookline | 93 | -0.6 | -3.0 |
 | 2026-01-13 | Apponequet/Old Colony | 96 | Seekonk | 83 | +2.9 | +13.0 |
 | 2026-01-13 | Durfee | 109 | Foxborough | 66 | +2.5 | +43.0 |
-| 2026-01-13 | Chelmsford | 100 | Andover | 75 | +4.5 | +25.0 |
 | 2026-01-13 | Central Catholic | 67 | Haverhill | 87 | -0.2 | -20.0 |
-| 2026-01-12 | Weston | 98 | Newton South | 86 | +2.0 | +12.0 |
-| 2026-01-12 | Catholic Memorial | 77 | Xaverian | 93 | -1.7 | -16.0 |
 
 ## Current Elo Ratings
 

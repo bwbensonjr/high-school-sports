@@ -11,13 +11,13 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-08,78239,FINAL,Sandwich,4340,79.0,0,Nantucket,4265,83.0,1,Cape & Islands,Cape & Islands,,,0
 2026-01-08,78328,FINAL,Marshfield/Hanover,4234,80.0,0,Quincy/North Quincy,4326,96.0,1,Patriot,Patriot,,,0
 2026-01-08,78342,FINAL,Brockton,4058,24.0,0,Durfee,4122,74.0,1,Big Three,Big Three,,,0
-2026-01-09,78361,FINAL,Andover,4009,90,1,Central Catholic,4081,67,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-09,78542,FINAL,Chelmsford,4085,101,1,Haverhill,4167,80,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-09,78717,FINAL,Nashoba,4267,50,0,Advanced Math and Science,4595,122,1,Mid-Wach,Independent,,,0
-2026-01-09,78766,FINAL,Wachusett,4400,44,0,Shrewsbury,4348,108,1,Mid-Wach,Mid-Wach,,,0
-2026-01-09,78769,FINAL,Westwood,4424,95,1,Medfield,4241,63,0,Tri-Valley,Tri-Valley,,,0
-2026-01-09,78788,FINAL,Bishop Feehan,4042,89,1,Cardinal Spellman,4075,56,0,Catholic Central,Catholic Central,,,0
-2026-01-09,78801,FINAL,North Attleborough,4284,109,1,Stoughton,4381,36,0,Hockomock,Hockomock,,,0
+2026-01-09,78361,FINAL,Andover,4009,90.0,1,Central Catholic,4081,67.0,0,Merrimack Valley,Merrimack Valley,,,0
+2026-01-09,78542,FINAL,Chelmsford,4085,101.0,1,Haverhill,4167,80.0,0,Merrimack Valley,Merrimack Valley,,,0
+2026-01-09,78717,FINAL,Nashoba,4267,50.0,0,Advanced Math and Science,4595,122.0,1,Mid-Wach,Independent,,,0
+2026-01-09,78766,FINAL,Wachusett,4400,44.0,0,Shrewsbury,4348,108.0,1,Mid-Wach,Mid-Wach,,,0
+2026-01-09,78769,FINAL,Westwood,4424,95.0,1,Medfield,4241,63.0,0,Tri-Valley,Tri-Valley,,,0
+2026-01-09,78788,FINAL,Bishop Feehan,4042,89.0,1,Cardinal Spellman,4075,56.0,0,Catholic Central,Catholic Central,,,0
+2026-01-09,78801,FINAL,North Attleborough,4284,109.0,1,Stoughton,4381,36.0,0,Hockomock,Hockomock,,,0
 2026-01-10,78942,FINAL,Westford,4421,99,1,Concord-Carlisle,4097,77,0,Dual County,Dual County,,,0
 2026-01-10,78948,FINAL,Attleboro,4018,70,0,Sharon,4345,96,1,Hockomock,Hockomock,,,0
 2026-01-12,78991,FINAL,Catholic Memorial,4080,77,0,Xaverian,4446,93,1,Catholic Conference,Catholic Conference,,,0

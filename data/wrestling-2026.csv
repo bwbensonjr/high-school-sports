@@ -224,3 +224,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-17,80980,FINAL,Brooks,4060,30,0,Milton Academy,4253,37,1,ISL,ISL,,,0
 2026-01-17,80983,FINAL,Brooks,4060,30,0,Pomfret,4317,42,1,ISL,Independent,,,0
 2026-01-17,80986,FINAL,Brooks,4060,48,1,Marianapolis,4567,18,0,ISL,Independent,,,0
+2026-01-19,81015,FINAL,St. John’s Prep,4369,57,1,St. John’s (Shrewsbury),4368,18,0,Catholic Conference,Catholic Conference,,,0
+2026-01-19,81018,FINAL,St. John’s Prep,4369,71,1,Catholic Memorial,4080,11,0,Catholic Conference,Catholic Conference,,,0
+2026-01-19,81019,FINAL,St. John’s Prep,4369,72,1,BC High,4029,6,0,Catholic Conference,Catholic Conference,,,0
+2026-01-19,81021,FINAL,St. John’s Prep,4369,74,1,Malden Catholic,4228,5,0,Catholic Conference,Catholic Conference,,,0
+2026-01-19,81024,FINAL,St. John’s Prep,4369,63,1,Xaverian,4446,15,0,Catholic Conference,Catholic Conference,,,0
+2026-01-19,81039,FINAL,Malden Catholic,4228,3,0,St. John’s (Shrewsbury),4368,76,1,Catholic Conference,Catholic Conference,,,0
+2026-01-19,81042,FINAL,Xaverian,4446,27,0,St. John’s (Shrewsbury),4368,53,1,Catholic Conference,Catholic Conference,,,0
+2026-01-19,81043,FINAL,BC High,4029,29,0,St. John’s (Shrewsbury),4368,54,1,Catholic Conference,Catholic Conference,,,0
+2026-01-19,81045,FINAL,St. John’s (Shrewsbury),4368,63,1,Catholic Memorial,4080,17,0,Catholic Conference,Catholic Conference,,,0

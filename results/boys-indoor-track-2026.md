@@ -1,21 +1,20 @@
 # Boys Indoor Track - 2026 Season
 
-Generated: 2026-01-19 11:20
+Generated: 2026-01-20 11:21
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-01-19 | 2:00 P.M. | Apponequet | Bourne | 48.3% | -0.5 |
-| 2026-01-20 | 3:00 P.M. | Nantucket | Martha’s Vineyard | 60.2% | +2.9 |
+| 2026-01-20 | 4:00 P.M. | Archbishop Williams | Arlington | 69.2% | +5.6 |
+| 2026-01-20 | 5:00 P.M. | North Reading | Pentucket | 54.2% | +1.2 |
 | 2026-01-20 | 5:00 P.M. | Ipswich | Lynnfield | 49.2% | -0.2 |
 | 2026-01-20 | 5:00 P.M. | Newburyport | Essex Tech | 57.1% | +2.0 |
-| 2026-01-20 | 5:00 P.M. | Hamilton-Wenham | Amesbury | 40.3% | -2.7 |
-| 2026-01-20 | 5:00 P.M. | North Reading | Pentucket | 54.2% | +1.2 |
+| 2026-01-20 | 3:00 P.M. | Nantucket | Martha’s Vineyard | 60.2% | +2.9 |
+| 2026-01-20 | 4:00 P.M. | Arlington | St. Mary’s | 31.2% | -5.5 |
 | 2026-01-20 | 4:00 P.M. | Arlington | Cristo Rey | 81.5% | +10.3 |
 | 2026-01-20 | 4:00 P.M. | Arlington | Bishop Fenwick | 74.0% | +7.3 |
-| 2026-01-20 | 4:00 P.M. | Archbishop Williams | Arlington | 69.2% | +5.6 |
-| 2026-01-20 | 4:00 P.M. | Arlington | St. Mary’s | 31.2% | -5.5 |
+| 2026-01-20 | 5:00 P.M. | Hamilton-Wenham | Amesbury | 40.3% | -2.7 |
 | 2026-01-21 | 3:30 P.M. | Westford | Newton South | 57.1% | +2.0 |
 | 2026-01-21 | 3:30 P.M. | Bedford | Weston | 57.1% | +2.0 |
 | 2026-01-21 | 3:30 P.M. | Bedford | Boston Latin | 57.1% | +2.0 |
@@ -24,18 +23,20 @@ Generated: 2026-01-19 11:20
 | 2026-01-22 | 7:30 P.M. | Medfield | Medway | 53.1% | +0.9 |
 | 2026-01-22 | 7:30 P.M. | Millis | Dover-Sherborn | 36.0% | -4.0 |
 | 2026-01-22 | 7:30 P.M. | Hopkinton | Norwood | 65.2% | +4.4 |
-| 2026-01-22 | 4:00 P.M. | Natick | Newton North | 58.8% | +2.5 |
-| 2026-01-22 | 4:00 P.M. | Milton | Walpole | 23.1% | -8.4 |
 | 2026-01-22 | 4:00 P.M. | Needham | Braintree | 46.9% | -0.9 |
+| 2026-01-22 | 4:00 P.M. | Milton | Walpole | 23.1% | -8.4 |
 | 2026-01-22 | 4:00 P.M. | Brookline | Wellesley | 75.1% | +7.7 |
+| 2026-01-22 | 4:00 P.M. | Natick | Newton North | 58.8% | +2.5 |
 | 2026-01-22 | 7:30 P.M. | Holliston | Dedham | 65.2% | +4.4 |
 | 2026-01-23 | 4:30 P.M. | Chelsea | Lynn Classical | 57.1% | +2.0 |
 | 2026-01-23 | 4:30 P.M. | Lynn English | Malden | 57.1% | +2.0 |
 | 2026-01-23 | 4:30 P.M. | Somerville | Revere | 57.1% | +2.0 |
-| 2026-01-26 | 4:00 P.M. | Randolph | Middleborough | 57.1% | +2.0 |
 | 2026-01-26 | 4:00 P.M. | Abington | Carver | 57.1% | +2.0 |
 | 2026-01-26 | 4:00 P.M. | Mashpee | Hull | 57.1% | +2.0 |
+| 2026-01-26 | 4:00 P.M. | Randolph | Middleborough | 57.1% | +2.0 |
 | 2026-01-27 | 4:00 P.M. | Arlington | Cardinal Spellman | 41.0% | -2.5 |
+| 2026-01-30 | 4:00 P.M. | Somerville | Lynn Classical | 57.1% | +2.0 |
+| 2026-01-30 | 4:00 P.M. | Lynn English | Lynn Classical | 57.1% | +2.0 |
 
 ## Recent Games
 
@@ -103,59 +104,59 @@ Generated: 2026-01-19 11:20
 | 35 | Central Catholic | 1525.0 |
 | 36 | Pentucket | 1523.4 |
 | 37 | Seekonk | 1520.2 |
-| 38 | Burlington | 1502.8 |
-| 39 | Newton South | 1502.8 |
-| 40 | Andover | 1502.8 |
-| 41 | Sandwich | 1502.8 |
-| 42 | Melrose | 1502.8 |
-| 43 | Bourne | 1502.8 |
-| 44 | Carver | 1502.8 |
-| 45 | Mashpee | 1502.8 |
-| 46 | North Reading | 1502.8 |
-| 47 | Falmouth | 1502.8 |
-| 48 | Stoneham | 1502.8 |
-| 49 | Watertown | 1502.8 |
-| 50 | Arlington | 1502.8 |
-| 51 | Belmont | 1502.8 |
-| 52 | Westwood | 1502.8 |
-| 53 | Bedford | 1502.8 |
-| 54 | Hull | 1502.8 |
-| 55 | Dedham | 1502.8 |
-| 56 | Rockland | 1502.8 |
-| 57 | Westford | 1502.8 |
-| 58 | Lincoln-Sudbury | 1502.8 |
-| 59 | Hopkinton | 1502.8 |
-| 60 | Malden | 1502.8 |
-| 61 | Woburn | 1502.8 |
-| 62 | Reading | 1502.8 |
-| 63 | Norwell | 1502.8 |
-| 64 | Randolph | 1502.8 |
-| 65 | Danvers | 1502.8 |
-| 66 | Winchester | 1502.8 |
-| 67 | St. John Paul II | 1502.8 |
-| 68 | Medway | 1502.8 |
-| 69 | Chelsea | 1502.8 |
-| 70 | Wakefield | 1502.8 |
-| 71 | Cambridge | 1502.8 |
-| 72 | Newburyport | 1502.8 |
-| 73 | Waltham | 1502.8 |
-| 74 | Nantucket | 1502.8 |
-| 75 | Lexington | 1502.8 |
-| 76 | Abington | 1502.8 |
-| 77 | Weston | 1502.8 |
-| 78 | Revere | 1502.8 |
-| 79 | Ashland | 1502.8 |
-| 80 | Somerville | 1502.8 |
-| 81 | Wayland | 1502.8 |
-| 82 | Wilmington | 1502.8 |
-| 83 | Middleborough | 1502.8 |
-| 84 | Monomoy | 1502.8 |
-| 85 | Concord-Carlisle | 1502.8 |
-| 86 | Boston Latin | 1502.8 |
-| 87 | Bellingham | 1502.8 |
-| 88 | Lynn Classical | 1502.8 |
-| 89 | Lynn English | 1502.8 |
-| 90 | Essex Tech | 1502.8 |
+| 38 | Nantucket | 1502.8 |
+| 39 | Medway | 1502.8 |
+| 40 | Somerville | 1502.8 |
+| 41 | Weston | 1502.8 |
+| 42 | Lexington | 1502.8 |
+| 43 | Mashpee | 1502.8 |
+| 44 | Watertown | 1502.8 |
+| 45 | Malden | 1502.8 |
+| 46 | Wayland | 1502.8 |
+| 47 | Dedham | 1502.8 |
+| 48 | Bellingham | 1502.8 |
+| 49 | Revere | 1502.8 |
+| 50 | Stoneham | 1502.8 |
+| 51 | Lynn English | 1502.8 |
+| 52 | Lynn Classical | 1502.8 |
+| 53 | Wilmington | 1502.8 |
+| 54 | Middleborough | 1502.8 |
+| 55 | Lincoln-Sudbury | 1502.8 |
+| 56 | Hopkinton | 1502.8 |
+| 57 | Reading | 1502.8 |
+| 58 | Hull | 1502.8 |
+| 59 | Sandwich | 1502.8 |
+| 60 | Westwood | 1502.8 |
+| 61 | Monomoy | 1502.8 |
+| 62 | Rockland | 1502.8 |
+| 63 | Arlington | 1502.8 |
+| 64 | Waltham | 1502.8 |
+| 65 | Carver | 1502.8 |
+| 66 | Boston Latin | 1502.8 |
+| 67 | Burlington | 1502.8 |
+| 68 | Wakefield | 1502.8 |
+| 69 | Westford | 1502.8 |
+| 70 | Chelsea | 1502.8 |
+| 71 | Abington | 1502.8 |
+| 72 | Newton South | 1502.8 |
+| 73 | Woburn | 1502.8 |
+| 74 | Bedford | 1502.8 |
+| 75 | North Reading | 1502.8 |
+| 76 | St. John Paul II | 1502.8 |
+| 77 | Falmouth | 1502.8 |
+| 78 | Melrose | 1502.8 |
+| 79 | Norwell | 1502.8 |
+| 80 | Belmont | 1502.8 |
+| 81 | Andover | 1502.8 |
+| 82 | Newburyport | 1502.8 |
+| 83 | Concord-Carlisle | 1502.8 |
+| 84 | Randolph | 1502.8 |
+| 85 | Essex Tech | 1502.8 |
+| 86 | Bourne | 1502.8 |
+| 87 | Ashland | 1502.8 |
+| 88 | Winchester | 1502.8 |
+| 89 | Danvers | 1502.8 |
+| 90 | Cambridge | 1502.8 |
 | 91 | Boston International | 1499.2 |
 | 92 | Wellesley | 1492.0 |
 | 93 | Ipswich | 1486.3 |

@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-01-19 11:20
+Generated: 2026-01-20 11:21
 
 ## Upcoming Games
 
@@ -23,7 +23,6 @@ Generated: 2026-01-19 11:20
 | 2026-01-13 | Durfee | 81 | Foxborough | 77 | -5.2 | +4.0 |
 | 2026-01-13 | Apponequet | 78 | Seekonk | 92 | +9.5 | -14.0 |
 | 2026-01-13 | Pembroke | 62 | Quincy | 84 | -0.8 | -22.0 |
-| 2026-01-12 | Weston | 96 | Newton South | 79 | +5.0 | +17.0 |
 
 ## Current Elo Ratings
 

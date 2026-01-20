@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2026 Season
 
-Generated: 2026-01-19 11:20
+Generated: 2026-01-20 11:21
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-01-19 11:20
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-19 | Marshfield | 129 | Whitman-Hanson | 131 | +6.1 | -2.1 |
 | 2026-01-18 | North Andover | 130 | Andover | 141 | +2.7 | -11.9 |
 | 2026-01-17 | Plymouth North/South | 129 | Marshfield | 136 | -0.6 | -6.9 |
 | 2026-01-17 | Marlborough | 144 | Algonquin | 133 | +2.0 | +11.2 |
@@ -34,7 +35,7 @@ Generated: 2026-01-19 11:20
 | 1 | Newton North | 1641.9 |
 | 2 | Hingham/Hull | 1608.8 |
 | 3 | Andover | 1604.0 |
-| 4 | Marshfield | 1595.9 |
+| 4 | Marshfield | 1572.3 |
 | 5 | Medford/Somerville | 1564.2 |
 | 6 | Westford | 1561.5 |
 | 7 | Tewksbury | 1557.5 |
@@ -51,14 +52,14 @@ Generated: 2026-01-19 11:20
 | 18 | Hopkinton | 1525.6 |
 | 19 | Bridgewater-Raynham/West Bridgewater | 1524.2 |
 | 20 | Chelmsford/B/T | 1522.8 |
-| 21 | Needham | 1516.6 |
-| 22 | Haverhill | 1510.9 |
-| 23 | Pembroke/Silver Lake | 1510.8 |
-| 24 | Wakefield | 1502.5 |
-| 25 | Arlington | 1500.8 |
-| 26 | Middleborough | 1495.6 |
-| 27 | Burlington | 1495.2 |
-| 28 | Whitman-Hanson | 1493.9 |
+| 21 | Whitman-Hanson | 1517.5 |
+| 22 | Needham | 1516.6 |
+| 23 | Haverhill | 1510.9 |
+| 24 | Pembroke/Silver Lake | 1510.8 |
+| 25 | Wakefield | 1502.5 |
+| 26 | Arlington | 1500.8 |
+| 27 | Middleborough | 1495.6 |
+| 28 | Burlington | 1495.2 |
 | 29 | Salem | 1485.7 |
 | 30 | Winchester | 1485.0 |
 | 31 | King Philip | 1481.0 |
