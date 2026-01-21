@@ -110,7 +110,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-20,77628,UPCOMING,Arlington,4013,,,St. Mary’s,4374,,,Middlesex,Catholic Central,4:00 P.M.,,0
 2026-01-20,77664,UPCOMING,Hamilton-Wenham,4163,,,Amesbury,4007,,,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-01-20,77673,UPCOMING,Newburyport,4276,,,Essex Tech,4745,,,Cape Ann,Cape Ann,5:00 P.M.,,0
-2026-01-20,77693,UPCOMING,Ipswich,4190,,,Lynnfield,4223,,,Cape Ann,Cape Ann,5:00 P.M.,,0
+2026-01-20,77693,FINAL,Ipswich,4190,53,1,Lynnfield,4223,47,0,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-01-20,77721,UPCOMING,North Reading,4288,,,Pentucket,4309,,,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-01-20,77730,UPCOMING,Nantucket,4265,,,Martha’s Vineyard,4235,,,Cape & Islands,Cape & Islands,3:00 P.M.,,0
 2026-01-21,77571,UPCOMING,Westford,4421,,,Newton South,4280,,,Dual County,Dual County,3:30 P.M.,,0

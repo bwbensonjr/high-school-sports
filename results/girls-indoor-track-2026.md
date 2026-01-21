@@ -1,15 +1,11 @@
 # Girls Indoor Track - 2026 Season
 
-Generated: 2026-01-20 11:21
+Generated: 2026-01-21 11:22
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-01-20 | 5:00 P.M. | Ipswich | Lynnfield | 77.8% | +8.7 |
-| 2026-01-20 | 5:00 P.M. | Newburyport | Essex Tech | 57.1% | +2.0 |
-| 2026-01-20 | 5:00 P.M. | Hamilton-Wenham | Amesbury | 57.4% | +2.1 |
-| 2026-01-20 | 5:00 P.M. | North Reading | Pentucket | 63.7% | +3.9 |
 | 2026-01-22 | 4:00 P.M. | Natick | Newton North | 41.5% | -2.4 |
 | 2026-01-22 | 4:00 P.M. | Brookline | Wellesley | 44.0% | -1.7 |
 | 2026-01-22 | 4:00 P.M. | Needham | Braintree | 46.0% | -1.1 |
@@ -19,31 +15,22 @@ Generated: 2026-01-20 11:21
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-01-15 | New Mission | 22 | Boston International | 51 | +2.0 | -29.0 |
-| 2026-01-15 | O’Bryant | 37 | Brighton | 39 | +2.0 | -2.0 |
-| 2026-01-15 | East Boston | 15 | Latin Academy / O'Bryant | 74 | +2.0 | -59.0 |
-| 2026-01-15 | Madison Park | 12 | Snowden/Quincy Upper | 25 | +2.0 | -13.0 |
-| 2026-01-15 | Gloucester | 72 | Salem | 0 | +2.0 | +72.0 |
-| 2026-01-15 | Weymouth | 35 | Walpole | 64 | +2.3 | -29.0 |
-| 2026-01-15 | Natick | 65 | Framingham | 35 | +7.2 | +30.0 |
-| 2026-01-15 | Needham | 47 | Wellesley | 53 | +4.7 | -6.0 |
-| 2026-01-15 | Braintree | 58 | Milton | 41 | +7.0 | +17.0 |
+| 2026-01-20 | Ipswich | 74 | Lynnfield | 26 | +8.7 | +48.0 |
 | 2026-01-15 | Brookline | 25 | Newton North | 75 | -3.5 | -50.0 |
+| 2026-01-15 | Braintree | 58 | Milton | 41 | +7.0 | +17.0 |
+| 2026-01-15 | Needham | 47 | Wellesley | 53 | +4.7 | -6.0 |
+| 2026-01-15 | Natick | 65 | Framingham | 35 | +7.2 | +30.0 |
+| 2026-01-15 | Weymouth | 35 | Walpole | 64 | +2.3 | -29.0 |
+| 2026-01-15 | Gloucester | 72 | Salem | 0 | +2.0 | +72.0 |
+| 2026-01-15 | Madison Park | 12 | Snowden/Quincy Upper | 25 | +2.0 | -13.0 |
+| 2026-01-15 | East Boston | 15 | Latin Academy / O'Bryant | 74 | +2.0 | -59.0 |
+| 2026-01-15 | O’Bryant | 37 | Brighton | 39 | +2.0 | -2.0 |
+| 2026-01-15 | New Mission | 22 | Boston International | 51 | +2.0 | -29.0 |
+| 2026-01-14 | Bishop Feehan | 85 | Wareham | 13 | +4.4 | +72.0 |
+| 2026-01-14 | Peabody | 68 | Danvers | 18 | +5.1 | +50.0 |
+| 2026-01-14 | North Andover | 24 | Central Catholic | 76 | -6.9 | -52.0 |
 | 2026-01-14 | Millis | 26 | Dover-Sherborn | 69 | +2.0 | -43.0 |
 | 2026-01-14 | Greater New Bedford | 47 | Somerset Berkley | 48 | +1.5 | -1.0 |
-| 2026-01-14 | North Andover | 24 | Central Catholic | 76 | -6.9 | -52.0 |
-| 2026-01-14 | Peabody | 68 | Danvers | 18 | +5.1 | +50.0 |
-| 2026-01-14 | Bishop Feehan | 85 | Wareham | 13 | +4.4 | +72.0 |
-| 2026-01-13 | Nauset | 36 | Dennis-Yarmouth | 63 | +1.2 | -27.0 |
-| 2026-01-13 | Cristo Rey | 11 | Archbishop Williams | 69 | -7.9 | -58.0 |
-| 2026-01-13 | Ursuline | 34 | Archbishop Williams | 53 | +2.1 | -19.0 |
-| 2026-01-13 | Arlington Catholic | 45 | Malden Catholic | 54 | +5.2 | -9.0 |
-| 2026-01-13 | Bishop Fenwick | 19 | Cardinal Spellman | 81 | -1.7 | -62.0 |
-| 2026-01-13 | Bishop Fenwick | 17 | St. Mary’s | 83 | -4.4 | -66.0 |
-| 2026-01-13 | Cardinal Spellman | 41 | St. Mary’s | 59 | +1.4 | -18.0 |
-| 2026-01-13 | Cristo Rey | 8 | Ursuline | 67 | -1.5 | -59.0 |
-| 2026-01-13 | Fontbonne | 23 | Arlington Catholic | 72 | -3.2 | -49.0 |
-| 2026-01-13 | Hamilton-Wenham | 27 | Ipswich | 72 | -0.3 | -45.0 |
 
 ## Current Elo Ratings
 
@@ -52,9 +39,9 @@ Generated: 2026-01-20 11:21
 | 1 | St. Mary’s | 1769.1 |
 | 2 | Newton North | 1677.1 |
 | 3 | Cardinal Spellman | 1668.5 |
-| 4 | Seekonk | 1633.5 |
-| 5 | Peabody | 1617.6 |
-| 6 | Ipswich | 1616.8 |
+| 4 | Ipswich | 1642.8 |
+| 5 | Seekonk | 1633.5 |
+| 6 | Peabody | 1617.6 |
 | 7 | Central Catholic | 1615.4 |
 | 8 | Braintree | 1612.4 |
 | 9 | Dennis-Yarmouth | 1608.5 |
@@ -122,17 +109,17 @@ Generated: 2026-01-20 11:21
 | 71 | Bishop Stang | 1453.5 |
 | 72 | Brookline | 1451.2 |
 | 73 | St. John Paul II | 1451.2 |
-| 74 | Lynnfield | 1449.0 |
-| 75 | Salem | 1447.6 |
-| 76 | North Attleborough | 1446.8 |
-| 77 | Fairhaven | 1446.7 |
-| 78 | Hamilton-Wenham | 1446.6 |
-| 79 | Amesbury | 1444.8 |
-| 80 | New Mission | 1444.4 |
-| 81 | Milton | 1440.9 |
-| 82 | Millis | 1437.9 |
-| 83 | East Boston | 1432.6 |
-| 84 | Apponequet | 1431.0 |
+| 74 | Salem | 1447.6 |
+| 75 | North Attleborough | 1446.8 |
+| 76 | Fairhaven | 1446.7 |
+| 77 | Hamilton-Wenham | 1446.6 |
+| 78 | Amesbury | 1444.8 |
+| 79 | New Mission | 1444.4 |
+| 80 | Milton | 1440.9 |
+| 81 | Millis | 1437.9 |
+| 82 | East Boston | 1432.6 |
+| 83 | Apponequet | 1431.0 |
+| 84 | Lynnfield | 1423.1 |
 | 85 | Ursuline | 1412.4 |
 | 86 | Framingham | 1384.3 |
 | 87 | Fontbonne | 1355.9 |

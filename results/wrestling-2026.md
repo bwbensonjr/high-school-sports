@@ -1,6 +1,6 @@
 # Wrestling - 2026 Season
 
-Generated: 2026-01-20 11:21
+Generated: 2026-01-21 11:22
 
 ## Upcoming Games
 
@@ -20,7 +20,8 @@ Generated: 2026-01-20 11:21
 | 2026-01-19 | Malden Catholic | 3 | St. John’s (Shrewsbury) | 76 | -2.7 | -73.0 |
 | 2026-01-19 | Xaverian | 27 | St. John’s (Shrewsbury) | 53 | -1.6 | -26.0 |
 | 2026-01-19 | BC High | 29 | St. John’s (Shrewsbury) | 54 | -7.6 | -25.0 |
-| 2026-01-17 | King Philip | 50 | Danvers | 24 | +4.3 | +26.0 |
+| 2026-01-17 | Danvers | 12 | Hope (R.I.) | 67 | -3.4 | -55.0 |
+| 2026-01-17 | Roxbury Latin | 44 | Phillips Andover | 35 | +15.7 | +9.0 |
 | 2026-01-17 | Roxbury Latin | 81 | Hyde | 0 | +17.7 | +81.0 |
 | 2026-01-17 | Marshfield | 48 | Durfee | 36 | +0.4 | +12.0 |
 | 2026-01-17 | Marshfield | 28 | Bristol-Plymouth | 52 | -2.0 | -24.0 |
@@ -28,20 +29,19 @@ Generated: 2026-01-20 11:21
 | 2026-01-17 | Marshfield | 48 | Hanover | 36 | -0.2 | +12.0 |
 | 2026-01-17 | Gloucester | 36 | Portland/So. Portland (Maine) | 28 | +4.1 | +8.0 |
 | 2026-01-17 | Brookline | 36 | Beverly | 42 | -3.1 | -6.0 |
-| 2026-01-17 | Danvers | 12 | Hope (R.I.) | 67 | -3.4 | -55.0 |
-| 2026-01-17 | St. John’s (Shrewsbury) | 39 | Tewksbury | 42 | +12.7 | -3.0 |
+| 2026-01-17 | Quincy Upper | 23 | Tewksbury | 42 | +2.5 | -19.0 |
+| 2026-01-17 | King Philip | 50 | Danvers | 24 | +4.3 | +26.0 |
 | 2026-01-17 | Newton South | 47 | Gloucester | 34 | +4.3 | +13.0 |
 | 2026-01-17 | Brookline | 36 | Cambridge | 46 | -12.4 | -10.0 |
-| 2026-01-17 | Quincy Upper | 23 | Tewksbury | 42 | +2.5 | -19.0 |
-| 2026-01-17 | BC High | 18 | Pentucket | 63 | -2.9 | -45.0 |
+| 2026-01-17 | Greater Lowell | 34 | Pentucket | 45 | -2.4 | -11.0 |
+| 2026-01-17 | St. John’s (Shrewsbury) | 39 | Tewksbury | 42 | +12.7 | -3.0 |
 | 2026-01-17 | Triton | 30 | Tewksbury | 50 | +1.2 | -20.0 |
 | 2026-01-17 | Tyngsborough/Dracut | 31 | Tewksbury | 38 | +8.4 | -7.0 |
 | 2026-01-17 | Hingham | 23 | West Springfield | 53 | +2.1 | -30.0 |
-| 2026-01-17 | Foxborough | 43 | Hingham | 34 | +3.8 | +9.0 |
-| 2026-01-17 | Roxbury Latin | 44 | Phillips Andover | 35 | +15.7 | +9.0 |
+| 2026-01-17 | BC High | 18 | Pentucket | 63 | -2.9 | -45.0 |
 | 2026-01-17 | Triton | 24 | Quincy Upper | 12 | -0.7 | +12.0 |
-| 2026-01-17 | Greater Lowell | 34 | Pentucket | 45 | -2.4 | -11.0 |
 | 2026-01-17 | North Andover | 38 | Pentucket | 38 | -7.5 | 0.0 |
+| 2026-01-17 | Latin Academy | 36 | Oliver Ames | 45 | +4.0 | -9.0 |
 | 2026-01-17 | Brooks | 48 | Marianapolis | 18 | -1.9 | +30.0 |
 | 2026-01-17 | Brooks | 30 | Pomfret | 42 | +1.5 | -12.0 |
 | 2026-01-17 | Brooks | 30 | Milton Academy | 37 | +1.7 | -7.0 |
@@ -49,31 +49,30 @@ Generated: 2026-01-20 11:21
 | 2026-01-17 | Frontier | 6 | Westford | 63 | -4.5 | -57.0 |
 | 2026-01-17 | Algonquin | 30 | Westford | 54 | -7.2 | -24.0 |
 | 2026-01-17 | Wilmington | 0 | Westford | 59 | -2.7 | -59.0 |
-| 2026-01-17 | Latin Academy | 36 | Oliver Ames | 45 | +4.0 | -9.0 |
 | 2026-01-17 | Latin Academy | 30 | Milton | 54 | +7.6 | -24.0 |
+| 2026-01-17 | St. John’s (Shrewsbury) | 6 | Triton | 30 | +16.1 | -24.0 |
 | 2026-01-17 | Latin Academy | 29 | Norwood | 39 | +9.3 | -10.0 |
 | 2026-01-17 | Braintree | 18 | West Springfield | 65 | -2.4 | -47.0 |
 | 2026-01-17 | Foxborough | 18 | West Springfield | 58 | +3.6 | -40.0 |
 | 2026-01-17 | North Middlesex | 6 | Methuen | 38 | -10.2 | -32.0 |
 | 2026-01-17 | Haverhill | 20 | Methuen | 57 | -10.9 | -37.0 |
-| 2026-01-17 | Gloucester | 25 | Cambridge | 46 | -5.6 | -21.0 |
-| 2026-01-17 | Triton | 35 | Tyngsborough/Dracut | 47 | +0.1 | -12.0 |
-| 2026-01-17 | St. John’s (Shrewsbury) | 6 | Triton | 30 | +16.1 | -24.0 |
 | 2026-01-17 | Braintree | 33 | Hingham | 47 | +6.2 | -14.0 |
-| 2026-01-17 | Newton South | 47 | Plymouth South | 28 | -0.0 | +19.0 |
+| 2026-01-17 | Triton | 35 | Tyngsborough/Dracut | 47 | +0.1 | -12.0 |
+| 2026-01-17 | Foxborough | 43 | Hingham | 34 | +3.8 | +9.0 |
+| 2026-01-17 | Gloucester | 25 | Cambridge | 46 | -5.6 | -21.0 |
 | 2026-01-17 | Norton | 15 | Wayland | 47 | -10.5 | -32.0 |
-| 2026-01-17 | Winchester | 53 | Beverly | 27 | +5.8 | +26.0 |
-| 2026-01-17 | Weymouth | 40 | North Attleborough | 42 | +11.7 | -2.0 |
+| 2026-01-17 | Portland/So. Portland (Maine) | 24 | Quincy/North Quincy | 54 | +5.0 | -30.0 |
 | 2026-01-17 | Weymouth | 35 | Whittier | 45 | +2.8 | -10.0 |
 | 2026-01-17 | Pembroke | 3 | Wayland | 64 | -7.7 | -61.0 |
 | 2026-01-17 | Nashoba | 24 | Wayland | 54 | -7.1 | -30.0 |
-| 2026-01-17 | Plymouth South | 37 | Cambridge | 40 | -3.0 | -3.0 |
+| 2026-01-17 | Newton South | 47 | Plymouth South | 28 | -0.0 | +19.0 |
 | 2026-01-17 | Beverly | 45 | Quincy/North Quincy | 30 | -0.2 | +15.0 |
 | 2026-01-17 | Central (R.I.) | 25 | Winchester | 41 | +0.2 | -16.0 |
 | 2026-01-17 | Portland/So. Portland (Maine) | 24 | Beverly | 36 | +4.3 | -12.0 |
 | 2026-01-17 | Central (R.I.) | 55 | Quincy/North Quincy | 24 | +3.8 | +31.0 |
-| 2026-01-17 | Portland/So. Portland (Maine) | 24 | Quincy/North Quincy | 54 | +5.0 | -30.0 |
+| 2026-01-17 | Winchester | 53 | Beverly | 27 | +5.8 | +26.0 |
 | 2026-01-17 | Portland/So. Portland (Maine) | 12 | Winchester | 66 | -7.5 | -54.0 |
+| 2026-01-17 | Weymouth | 31 | Chelmsford | 34 | +4.3 | -3.0 |
 | 2026-01-17 | Beverly | 27 | Central (R.I.) | 48 | +0.7 | -21.0 |
 | 2026-01-17 | Winchester | 47 | Quincy/North Quincy | 33 | +10.2 | +14.0 |
 | 2026-01-17 | Central (R.I.) | 58 | Portland/So. Portland (Maine) | 24 | +9.7 | +34.0 |
@@ -82,11 +81,12 @@ Generated: 2026-01-20 11:21
 | 2026-01-17 | Gloucester | 35 | Plymouth South | 44 | +1.8 | -9.0 |
 | 2026-01-17 | Brookline | 34 | Newton South | 47 | +2.0 | -13.0 |
 | 2026-01-17 | Brookline | 34 | Gloucester | 44 | -0.9 | -10.0 |
-| 2026-01-17 | Weymouth | 31 | Chelmsford | 34 | +4.3 | -3.0 |
+| 2026-01-17 | Plymouth South | 37 | Cambridge | 40 | -3.0 | -3.0 |
+| 2026-01-17 | Weymouth | 40 | North Attleborough | 42 | +11.7 | -2.0 |
 | 2026-01-16 | Lexington | 30 | Watertown | 45 | -8.1 | -15.0 |
 | 2026-01-15 | Ashland | 16 | Wayland | 57 | -5.2 | -41.0 |
-| 2026-01-14 | Roxbury Latin | 65 | Milton Academy | 6 | +14.8 | +59.0 |
 | 2026-01-14 | Lynnfield/North Reading | 57 | Pentucket | 22 | +0.2 | +35.0 |
+| 2026-01-14 | Roxbury Latin | 65 | Milton Academy | 6 | +14.8 | +59.0 |
 | 2026-01-14 | Duxbury | 42 | Plymouth North | 40 | +7.2 | +2.0 |
 | 2026-01-14 | Xaverian | 47 | Newton North | 30 | -0.6 | +17.0 |
 | 2026-01-14 | Cambridge | 40 | Bedford / A-B | 32 | +3.4 | +8.0 |
@@ -96,7 +96,7 @@ Generated: 2026-01-20 11:21
 | 2026-01-14 | Lawrence | 21 | Methuen | 52 | -10.6 | -31.0 |
 | 2026-01-14 | East Boston | 24 | Worcester Tech | 60 | -0.4 | -36.0 |
 | 2026-01-14 | Worcester Tech | 39 | Latin Academy | 42 | -4.6 | -3.0 |
-| 2026-01-14 | Norwood | 32 | Holliston | 45 | -0.7 | -13.0 |
+| 2026-01-14 | Roxbury Latin | 78 | Governor’s Academy | 0 | +14.2 | +78.0 |
 | 2026-01-14 | Ashland | 12 | Shawsheen | 61 | -12.3 | -49.0 |
 | 2026-01-14 | Weymouth | 51 | Milton | 28 | +8.2 | +23.0 |
 | 2026-01-14 | Burlington | 29 | St. John’s (Shrewsbury) | 41 | -2.4 | -12.0 |
@@ -107,10 +107,8 @@ Generated: 2026-01-20 11:21
 | 2026-01-14 | Gloucester | 41 | Beverly | 39 | +2.6 | +2.0 |
 | 2026-01-14 | Brooks | 44 | Middlesex | 33 | -1.0 | +11.0 |
 | 2026-01-14 | Brooks | 36 | Thayer | 31 | +0.8 | +5.0 |
+| 2026-01-14 | Norwood | 32 | Holliston | 45 | -0.7 | -13.0 |
 | 2026-01-14 | Roxbury Latin | 72 | BB&N | 6 | +15.2 | +66.0 |
-| 2026-01-14 | Roxbury Latin | 78 | Governor’s Academy | 0 | +14.2 | +78.0 |
-| 2026-01-13 | Dedham | 51 | Hopkinton | 29 | +4.2 | +22.0 |
-| 2026-01-13 | Watertown | 45 | Belmont | 29 | +9.1 | +16.0 |
 
 ## Current Elo Ratings
 
