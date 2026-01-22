@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2026 Season
 
-Generated: 2026-01-21 11:22
+Generated: 2026-01-22 11:21
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-01-21 11:22
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-21 | Tewksbury | 130 | Chelmsford/B/T | 135 | +3.4 | -4.5 |
 | 2026-01-20 | Framingham | 127 | Hopkinton | 139 | -0.5 | -11.2 |
 | 2026-01-20 | Scituate | 120 | Hanover | 123 | +1.9 | -3.2 |
 | 2026-01-20 | Haverhill | 131 | Dracut | 119 | +5.8 | +12.4 |
@@ -23,15 +24,12 @@ Generated: 2026-01-21 11:22
 | 2026-01-16 | Scituate | 125 | Whitman-Hanson | 133 | +2.6 | -8.6 |
 | 2026-01-16 | Mansfield | 142 | Foxborough | 136 | +2.8 | +5.9 |
 | 2026-01-16 | Hingham/Hull | 136 | Pembroke/Silver Lake | 137 | +7.4 | -1.2 |
+| 2026-01-15 | Norwood | 126 | Medford/Somerville | 141 | +1.4 | -15.9 |
 | 2026-01-15 | Beverly | 138 | Marblehead/Swampscott | 130 | +2.0 | +7.8 |
 | 2026-01-15 | Wilmington/Bedford | 139 | Winchester | 136 | +3.4 | +3.3 |
 | 2026-01-15 | Newton North | 144 | Framingham | 125 | +7.3 | +18.5 |
 | 2026-01-15 | Hanover | 125 | Marshfield | 131 | -1.4 | -5.5 |
-| 2026-01-15 | Norwood | 126 | Medford/Somerville | 141 | +1.4 | -15.9 |
 | 2026-01-15 | Medford/Somerville | 102 | Salem | 100 | +2.0 | +2.5 |
-| 2026-01-14 | Haverhill | 130 | North Andover | 133 | +1.4 | -3.4 |
-| 2026-01-14 | Melrose | 135 | Reading | 139 | +2.3 | -4.2 |
-| 2026-01-14 | Chelmsford/B/T | 130 | Lowell | 102 | +1.0 | +28.1 |
 
 ## Current Elo Ratings
 
@@ -45,7 +43,7 @@ Generated: 2026-01-21 11:22
 | 6 | Medford/Somerville | 1564.2 |
 | 7 | Hopkinton | 1561.8 |
 | 8 | Westford | 1561.5 |
-| 9 | Tewksbury | 1557.5 |
+| 9 | Chelmsford/B/T | 1554.6 |
 | 10 | Wilmington/Bedford | 1553.2 |
 | 11 | Mansfield | 1545.5 |
 | 12 | Brockton/Spellman/Stoughton | 1541.7 |
@@ -55,8 +53,8 @@ Generated: 2026-01-21 11:22
 | 16 | Reading | 1530.2 |
 | 17 | North Andover | 1529.9 |
 | 18 | Beverly | 1529.5 |
-| 19 | Bridgewater-Raynham/West Bridgewater | 1524.2 |
-| 20 | Chelmsford/B/T | 1522.8 |
+| 19 | Tewksbury | 1525.6 |
+| 20 | Bridgewater-Raynham/West Bridgewater | 1524.2 |
 | 21 | Whitman-Hanson | 1517.5 |
 | 22 | Needham | 1516.6 |
 | 23 | Haverhill | 1512.4 |

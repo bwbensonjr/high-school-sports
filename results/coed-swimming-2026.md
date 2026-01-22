@@ -1,6 +1,6 @@
 # Coed Swimming - 2026 Season
 
-Generated: 2026-01-21 11:22
+Generated: 2026-01-22 11:21
 
 ## Upcoming Games
 
@@ -23,7 +23,6 @@ Generated: 2026-01-21 11:22
 | 2026-01-15 | Medford | 79 | Latin Academy | 89 | -0.0 | -10.0 |
 | 2026-01-15 | O’Bryant | 57 | Brockton | 34 | +0.3 | +23.0 |
 | 2026-01-15 | Norwell | 50 | O’Bryant | 44 | +1.8 | +6.0 |
-| 2026-01-14 | Danvers | 88 | Swampscott | 79 | +2.6 | +9.0 |
 
 ## Current Elo Ratings
 

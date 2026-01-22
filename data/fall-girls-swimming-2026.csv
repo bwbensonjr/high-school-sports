@@ -27,3 +27,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-18,80993,FINAL,Arlington Catholic,4014,74,1,Bishop Fenwick,4043,45,0,Catholic Central,Catholic Central,,,0
 2026-01-20,81372,FINAL,Nashoba,4267,98,1,Shrewsbury,4348,68,0,Mid-Wach,Mid-Wach,,,0
 2026-01-20,81688,FINAL,Scituate,4343,89,1,Quincy,4326,81,0,Patriot,Patriot,,,0
+2026-01-21,81980,FINAL,Wachusett,4400,66,0,Nashoba,4267,103,1,Mid-Wach,Mid-Wach,,,0
+2026-01-21,81989,FINAL,Nantucket,4265,104,1,Apponequet,4011,66,0,Cape & Islands,South Coast,,,0
+2026-01-21,81991,FINAL,Sandwich,4340,87,0,Apponequet,4011,93,1,Cape & Islands,South Coast,,,0
+2026-01-21,82120,FINAL,Franklin,4144,97,1,Sharon,4345,73,0,Hockomock,Hockomock,,,0
