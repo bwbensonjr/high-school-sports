@@ -68,7 +68,17 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-21,82009,FINAL,New Mission,4494,26,1,CASH,4187,14,0,Boston City,Boston City,,,0
 2026-01-21,82011,FINAL,Brighton,4055,61,1,TechBoston,4117,10,0,Boston City,Boston City,,,0
 2026-01-21,82012,FINAL,Charlestown,4084,3,0,Boston International,4547,73,1,Boston City,Boston City,,,0
-2026-01-22,77577,UPCOMING,Natick,4270,,,Newton North,4279,,,Bay State,Bay State,4:00 P.M.,,0
-2026-01-22,77580,UPCOMING,Brookline,4059,,,Wellesley,4413,,,Bay State,Bay State,4:00 P.M.,,0
-2026-01-22,77589,UPCOMING,Needham,4272,,,Braintree,4051,,,Bay State,Bay State,4:00 P.M.,,0
-2026-01-22,77622,UPCOMING,Milton,4252,,,Walpole,4404,,,Bay State,Bay State,4:00 P.M.,,0
+2026-01-21,82318,FINAL,Whitman-Hanson,4427,54,1,Silver Lake,4349,41,0,Patriot,Patriot,,,0
+2026-01-21,82319,FINAL,Whitman-Hanson,4427,23,0,Plymouth North,4315,77,1,Patriot,Patriot,,,0
+2026-01-22,77577,FINAL,Natick,4270,33,0,Newton North,4279,67,1,Bay State,Bay State,4:00 P.M.,,0
+2026-01-22,77580,FINAL,Brookline,4059,36,0,Wellesley,4413,64,1,Bay State,Bay State,4:00 P.M.,,0
+2026-01-22,77589,FINAL,Needham,4272,41,0,Braintree,4051,59,1,Bay State,Bay State,4:00 P.M.,,0
+2026-01-22,77622,FINAL,Milton,4252,62,1,Walpole,4404,38,0,Bay State,Bay State,4:00 P.M.,,0
+2026-01-22,82329,FINAL,Framingham,4143,51,1,Weymouth,4425,49,0,Bay State,Bay State,,,0
+2026-01-22,82351,FINAL,Attleboro,4018,32,0,Franklin,4144,68,1,Hockomock,Hockomock,,,0
+2026-01-22,82354,FINAL,Canton,4071,43,0,Foxborough,4142,57,1,Hockomock,Hockomock,,,0
+2026-01-22,82356,FINAL,Milford,4249,14,0,King Philip,4197,82,1,Hockomock,Hockomock,,,0
+2026-01-22,82359,FINAL,Mansfield,4230,38,0,Oliver Ames,4302,62,1,Hockomock,Hockomock,,,0
+2026-01-22,82362,FINAL,Stoughton,4381,50,2,North Attleborough,4284,50,2,Hockomock,Hockomock,,,0
+2026-01-22,82363,FINAL,Taunton,4388,48,0,Sharon,4345,52,1,Hockomock,Hockomock,,,0
+2026-01-22,82366,FINAL,Dedham,4108,39,0,Holliston,4174,56,1,Tri-Valley,Tri-Valley,,,0

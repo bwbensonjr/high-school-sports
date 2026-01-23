@@ -20,8 +20,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-09,78801,FINAL,North Attleborough,4284,109.0,1,Stoughton,4381,36.0,0,Hockomock,Hockomock,,,0
 2026-01-10,78942,FINAL,Westford,4421,99.0,1,Concord-Carlisle,4097,77.0,0,Dual County,Dual County,,,0
 2026-01-10,78948,FINAL,Attleboro,4018,70.0,0,Sharon,4345,96.0,1,Hockomock,Hockomock,,,0
-2026-01-12,78991,FINAL,Catholic Memorial,4080,77,0,Xaverian,4446,93,1,Catholic Conference,Catholic Conference,,,0
-2026-01-12,79015,FINAL,Weston,4423,98,1,Newton South,4280,86,0,Dual County,Dual County,,,0
+2026-01-12,78991,FINAL,Catholic Memorial,4080,77.0,0,Xaverian,4446,93.0,1,Catholic Conference,Catholic Conference,,,0
+2026-01-12,79015,FINAL,Weston,4423,98.0,1,Newton South,4280,86.0,0,Dual County,Dual County,,,0
 2026-01-13,79399,FINAL,Central Catholic,4081,67,0,Haverhill,4167,87,1,Merrimack Valley,Merrimack Valley,,,0
 2026-01-13,79773,FINAL,Chelmsford,4085,100,1,Andover,4009,75,0,Merrimack Valley,Merrimack Valley,,,0
 2026-01-13,79780,FINAL,Durfee,4122,109,1,Foxborough,4142,66,0,Big Three,Hockomock,,,0
@@ -50,3 +50,5 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-20,81690,FINAL,Needham,4272,79.5,0,Wellesley,4413,103.5,1,Bay State,Bay State,,,0
 2026-01-21,81983,FINAL,Nashoba,4267,76,1,Wachusett,4400,61,0,Mid-Wach,Mid-Wach,,,0
 2026-01-21,82121,FINAL,Franklin,4144,46,0,Sharon,4345,105,1,Hockomock,Hockomock,,,0
+2026-01-22,82367,FINAL,Old Rochester,4301,102,1,Seekonk,4344,74,0,South Coast,South Coast,,,0
+2026-01-22,82371,FINAL,Hopkinton,4180,85,2,Holliston/Medway,4174,85,2,Tri-Valley,Tri-Valley,,,0

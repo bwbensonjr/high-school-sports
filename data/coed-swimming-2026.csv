@@ -23,3 +23,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-20,81615,FINAL,East Boston,4125,42,0,Norwell,4296,49,1,Boston City,Independent,,,0
 2026-01-20,81617,FINAL,Brockton,4058,70,0,Latin Academy,4202,91,1,Independent,Boston City,,,0
 2026-01-20,81620,FINAL,St. Mary’s,4374,48,0,O’Bryant,4298,82,1,Catholic Central,Boston City,,,0
+2026-01-22,82322,FINAL,Northeast,4293,47,0,Malden,4227,90,1,Independent,Independent,,,0
+2026-01-22,82331,FINAL,Gloucester,4150,79,0,Marblehead,4231,97,1,Independent,Independent,,,0
+2026-01-22,82376,FINAL,Brockton,4058,41,0,East Boston,4125,49,1,Independent,Boston City,,,0
+2026-01-22,82378,FINAL,Latin Academy,4202,79,0,Cambridge,4067,86,1,Boston City,Independent,,,0
