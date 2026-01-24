@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2026 Season
 
-Generated: 2026-01-23 11:19
+Generated: 2026-01-24 11:16
 
 ## Upcoming Games
 
@@ -11,6 +11,9 @@ Generated: 2026-01-23 11:19
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-23 | Hingham/Hull | 134 | Plymouth North/South | 126 | +8.1 | +7.8 |
+| 2026-01-23 | Needham | 127 | Newton North | 144 | -3.8 | -17.2 |
+| 2026-01-23 | Whitman-Hanson | 131 | Pembroke/Silver Lake | 132 | +2.3 | -0.6 |
 | 2026-01-22 | Medford/Somerville | 102 | Malden | 104 | +4.5 | -1.5 |
 | 2026-01-21 | Tewksbury | 130 | Chelmsford/B/T | 135 | +3.4 | -4.5 |
 | 2026-01-21 | Hingham/Hull | 135 | Scituate | 117 | +10.2 | +18.4 |
@@ -23,16 +26,13 @@ Generated: 2026-01-23 11:19
 | 2026-01-18 | North Andover | 130 | Andover | 141 | +2.7 | -11.9 |
 | 2026-01-17 | Plymouth North/South | 129 | Marshfield | 136 | -0.6 | -6.9 |
 | 2026-01-17 | Marlborough | 144 | Algonquin | 133 | +2.0 | +11.2 |
-| 2026-01-16 | Hingham/Hull | 136 | Pembroke/Silver Lake | 137 | +7.4 | -1.2 |
-| 2026-01-16 | Mansfield | 142 | Foxborough | 136 | +2.8 | +5.9 |
-| 2026-01-16 | Scituate | 125 | Whitman-Hanson | 133 | +2.6 | -8.6 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Newton North | 1662.2 |
-| 2 | Hingham/Hull | 1625.5 |
+| 1 | Newton North | 1694.1 |
+| 2 | Hingham/Hull | 1640.9 |
 | 3 | Andover | 1604.0 |
 | 4 | Central Catholic | 1577.5 |
 | 5 | Marshfield | 1572.3 |
@@ -52,28 +52,28 @@ Generated: 2026-01-23 11:19
 | 19 | Tewksbury | 1525.6 |
 | 20 | Bridgewater-Raynham/West Bridgewater | 1524.2 |
 | 21 | Malden | 1519.7 |
-| 22 | Whitman-Hanson | 1517.5 |
-| 23 | Needham | 1516.6 |
-| 24 | Haverhill | 1512.4 |
-| 25 | Pembroke/Silver Lake | 1510.8 |
-| 26 | Wakefield | 1502.5 |
-| 27 | Arlington | 1500.8 |
-| 28 | Middleborough | 1495.6 |
-| 29 | Burlington | 1495.2 |
-| 30 | Salem | 1485.7 |
-| 31 | Winchester | 1485.0 |
+| 22 | Pembroke/Silver Lake | 1519.5 |
+| 23 | Haverhill | 1512.4 |
+| 24 | Whitman-Hanson | 1508.8 |
+| 25 | Wakefield | 1502.5 |
+| 26 | Arlington | 1500.8 |
+| 27 | Middleborough | 1495.6 |
+| 28 | Burlington | 1495.2 |
+| 29 | Salem | 1485.7 |
+| 30 | Winchester | 1485.0 |
+| 31 | Needham | 1484.7 |
 | 32 | Braintree | 1481.3 |
 | 33 | King Philip | 1481.0 |
 | 34 | Melrose | 1479.5 |
 | 35 | Foxborough | 1478.5 |
 | 36 | Marblehead/Swampscott | 1473.8 |
 | 37 | Silver Lake | 1473.1 |
-| 38 | Plymouth North/South | 1471.9 |
-| 39 | Algonquin | 1469.5 |
-| 40 | Wayland | 1469.3 |
-| 41 | Stoneham | 1466.7 |
-| 42 | Bishop Fenwick | 1466.4 |
-| 43 | Natick | 1464.3 |
+| 38 | Algonquin | 1469.5 |
+| 39 | Wayland | 1469.3 |
+| 40 | Stoneham | 1466.7 |
+| 41 | Bishop Fenwick | 1466.4 |
+| 42 | Natick | 1464.3 |
+| 43 | Plymouth North/South | 1456.5 |
 | 44 | Hanover | 1455.2 |
 | 45 | Norwood | 1455.0 |
 | 46 | Lowell | 1454.6 |

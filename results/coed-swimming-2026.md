@@ -1,6 +1,6 @@
 # Coed Swimming - 2026 Season
 
-Generated: 2026-01-23 11:19
+Generated: 2026-01-24 11:16
 
 ## Upcoming Games
 
@@ -19,7 +19,6 @@ Generated: 2026-01-23 11:19
 | 2026-01-20 | East Boston | 42 | Norwell | 49 | -5.5 | -7.0 |
 | 2026-01-20 | Brockton | 70 | Latin Academy | 91 | -6.8 | -21.0 |
 | 2026-01-20 | St. Mary’s | 48 | O’Bryant | 82 | +0.1 | -34.0 |
-| 2026-01-16 | East Boston | 49 | St. Mary’s | 44 | -4.6 | +5.0 |
 
 ## Current Elo Ratings
 

@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-01-23 11:19
+Generated: 2026-01-24 11:16
 
 ## Upcoming Games
 
@@ -20,10 +20,6 @@ Generated: 2026-01-23 11:19
 | 2026-01-20 | Nashoba | 98 | Shrewsbury | 68 | +0.1 | +30.0 |
 | 2026-01-20 | Scituate | 89 | Quincy | 81 | -0.9 | +8.0 |
 | 2026-01-18 | Arlington Catholic | 74 | Bishop Fenwick | 45 | +7.7 | +29.0 |
-| 2026-01-16 | Dedham | 95 | Medfield | 80 | +5.0 | +15.0 |
-| 2026-01-16 | Holliston/Medway | 59 | Westwood | 82 | -5.0 | -23.0 |
-| 2026-01-16 | Norton | 78 | Hopkinton | 83 | +5.0 | -5.0 |
-| 2026-01-16 | Nauset | 30 | Martha’s Vineyard | 111 | +1.7 | -81.0 |
 
 ## Current Elo Ratings
 

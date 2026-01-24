@@ -67,16 +67,16 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-13,77613,UPCOMING,Arlington,4013,,,Bishop Fenwick,4043,,,Middlesex,Catholic Central,7:30 P.M.,,0
 2026-01-13,77662,UPCOMING,Manchester Essex,4229,,,Amesbury,4007,,,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-01-13,77671,UPCOMING,Essex Tech,4745,,,North Reading,4288,,,Cape Ann,Cape Ann,5:00 P.M.,,0
-2026-01-13,77686,FINAL,Hamilton-Wenham,4163,44,0,Ipswich,4190,56,1,Cape Ann,Cape Ann,5:00 P.M.,,0
+2026-01-13,77686,FINAL,Hamilton-Wenham,4163,44.0,0.0,Ipswich,4190,56.0,1.0,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-01-13,77710,UPCOMING,Newburyport,4276,,,Triton,4395,,,Cape Ann,Cape Ann,5:00 P.M.,,0
-2026-01-13,77713,FINAL,Dennis-Yarmouth,4111,65.5,1,Nauset,4271,34.5,0,Cape & Islands,Cape & Islands,3:00 P.M.,,0
+2026-01-13,77713,FINAL,Dennis-Yarmouth,4111,65.5,1.0,Nauset,4271,34.5,0.0,Cape & Islands,Cape & Islands,3:00 P.M.,,0
 2026-01-13,77723,UPCOMING,Falmouth,4134,,,Martha’s Vineyard,4235,,,Cape & Islands,Cape & Islands,3:00 P.M.,,0
 2026-01-13,77739,UPCOMING,Sandwich,4340,,,St. John Paul II,4689,,,Cape & Islands,Catholic Central,3:30 P.M.,,0
-2026-01-13,77789,FINAL,Somerset Berkley,4350,42,0,Greater New Bedford,4156,53,1,South Coast,South Coast,6:30 P.M.,,0
+2026-01-13,77789,FINAL,Somerset Berkley,4350,42.0,0.0,Greater New Bedford,4156,53.0,1.0,South Coast,South Coast,6:30 P.M.,,0
 2026-01-13,78110,UPCOMING,West Bridgewater,4415,,,Joseph Case,4078,,,South Coast,South Coast,3:00 P.M.,,0
-2026-01-13,79896,FINAL,Cardinal Spellman,4075,44,0,St. Mary’s,4374,56,1,Tri-County,Catholic Central,,,0
+2026-01-13,79896,FINAL,Cardinal Spellman,4075,44.0,0.0,St. Mary’s,4374,56.0,1.0,Tri-County,Catholic Central,,,0
 2026-01-13,79898,FINAL,Arlington Catholic,4014,,,Bishop Fenwick,4043,,,Catholic Central,Catholic Central,,,0
-2026-01-13,79901,FINAL,Cristo Rey,4453,10,0,Archbishop Williams,4012,86,1,Catholic Central,Catholic Central,,,0
+2026-01-13,79901,FINAL,Cristo Rey,4453,10.0,0.0,Archbishop Williams,4012,86.0,1.0,Catholic Central,Catholic Central,,,0
 2026-01-14,77544,FINAL,Cambridge,4067,50,2,Newton South,4280,50,2,Dual County,Dual County,3:30 P.M.,,0
 2026-01-14,77566,UPCOMING,Westford,4421,,,Lincoln-Sudbury,4211,,,Dual County,Dual County,3:30 P.M.,,0
 2026-01-14,77595,UPCOMING,Bedford,4031,,,Wayland,4411,,,Dual County,Dual County,3:30 P.M.,,0
