@@ -44,11 +44,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-13,79889,FINAL,Arlington Catholic,4014,45.0,0.0,Malden Catholic,4228,54.0,1.0,Catholic Central,Independent,,,0
 2026-01-13,79890,FINAL,Ursuline,4448,34.0,0.0,Archbishop Williams,4012,53.0,1.0,Catholic Central,Catholic Central,,,0
 2026-01-13,79893,FINAL,Cristo Rey,4453,11.0,0.0,Archbishop Williams,4012,69.0,1.0,Catholic Central,Catholic Central,,,0
-2026-01-14,80210,FINAL,Bishop Feehan,4042,85,1,Wareham,4407,13,0,Mayflower,Mayflower,,,0
-2026-01-14,80312,FINAL,Peabody,4306,68,1,Danvers,4103,18,0,Northeastern,Northeastern,,,0
-2026-01-14,80331,FINAL,North Andover,4283,24,0,Central Catholic,4081,76,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-14,80360,FINAL,Millis,4251,26,0,Dover-Sherborn,4118,69,1,Tri-Valley,Tri-Valley,6:30 P.M.,,0
-2026-01-14,80370,FINAL,Greater New Bedford,4156,47,0,Somerset Berkley,4350,48,1,South Coast,South Coast,,,0
+2026-01-14,80210,FINAL,Bishop Feehan,4042,85.0,1.0,Wareham,4407,13.0,0.0,Mayflower,Mayflower,,,0
+2026-01-14,80312,FINAL,Peabody,4306,68.0,1.0,Danvers,4103,18.0,0.0,Northeastern,Northeastern,,,0
+2026-01-14,80331,FINAL,North Andover,4283,24.0,0.0,Central Catholic,4081,76.0,1.0,Merrimack Valley,Merrimack Valley,,,0
+2026-01-14,80360,FINAL,Millis,4251,26.0,0.0,Dover-Sherborn,4118,69.0,1.0,Tri-Valley,Tri-Valley,6:30 P.M.,,0
+2026-01-14,80370,FINAL,Greater New Bedford,4156,47.0,0.0,Somerset Berkley,4350,48.0,1.0,South Coast,South Coast,,,0
 2026-01-15,77576,FINAL,Brookline,4059,25,0,Newton North,4279,75,1,Bay State,Bay State,4:00 P.M.,,0
 2026-01-15,77586,FINAL,Braintree,4051,58.5,1,Milton,4252,41.5,0,Bay State,Bay State,4:00 P.M.,,0
 2026-01-15,77593,FINAL,Needham,4272,47,0,Wellesley,4413,53,1,Bay State,Bay State,4:00 P.M.,,0
@@ -82,3 +82,4 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-22,82362,FINAL,Stoughton,4381,50,2,North Attleborough,4284,50,2,Hockomock,Hockomock,,,0
 2026-01-22,82363,FINAL,Taunton,4388,48,0,Sharon,4345,52,1,Hockomock,Hockomock,,,0
 2026-01-22,82366,FINAL,Dedham,4108,39,0,Holliston,4174,56,1,Tri-Valley,Tri-Valley,,,0
+2026-01-24,83091,FINAL,Hingham,4171,25,0,Duxbury,4123,75,1,Patriot,Patriot,,,0

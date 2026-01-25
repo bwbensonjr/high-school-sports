@@ -1,6 +1,6 @@
 # Girls Indoor Track - 2026 Season
 
-Generated: 2026-01-24 11:16
+Generated: 2026-01-25 11:16
 
 ## Upcoming Games
 
@@ -11,8 +11,9 @@ Generated: 2026-01-24 11:16
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-01-22 | Needham | 41 | Braintree | 59 | -1.1 | -18.0 |
+| 2026-01-24 | Hingham | 25 | Duxbury | 75 | +2.1 | -50.0 |
 | 2026-01-22 | Milton | 62 | Walpole | 38 | +1.1 | +24.0 |
+| 2026-01-22 | Dedham | 39 | Holliston | 56 | +3.4 | -17.0 |
 | 2026-01-22 | Taunton | 48 | Sharon | 52 | +1.0 | -4.0 |
 | 2026-01-22 | Stoughton | 50 | North Attleborough | 50 | +2.9 | 0.0 |
 | 2026-01-22 | Mansfield | 38 | Oliver Ames | 62 | -1.5 | -24.0 |
@@ -20,7 +21,7 @@ Generated: 2026-01-24 11:16
 | 2026-01-22 | Canton | 43 | Foxborough | 57 | +2.1 | -14.0 |
 | 2026-01-22 | Attleboro | 32 | Franklin | 68 | +2.1 | -36.0 |
 | 2026-01-22 | Framingham | 51 | Weymouth | 49 | +3.3 | +2.0 |
-| 2026-01-22 | Dedham | 39 | Holliston | 56 | +3.4 | -17.0 |
+| 2026-01-22 | Needham | 41 | Braintree | 59 | -1.1 | -18.0 |
 | 2026-01-22 | Brookline | 36 | Wellesley | 64 | -1.7 | -28.0 |
 | 2026-01-22 | Natick | 33 | Newton North | 67 | -2.4 | -34.0 |
 | 2026-01-21 | Snowden/Quincy Upper | 29 | New Mission | 19 | +6.1 | +10.0 |
@@ -54,32 +55,32 @@ Generated: 2026-01-24 11:16
 | 16 | Plymouth North | 1578.8 |
 | 17 | Old Rochester | 1576.3 |
 | 18 | Latin Academy / O'Bryant | 1572.9 |
-| 19 | Brighton | 1569.3 |
-| 20 | Snowden/Quincy Upper | 1569.0 |
-| 21 | Dover-Sherborn | 1567.6 |
-| 22 | Lowell | 1558.1 |
-| 23 | Gloucester | 1557.9 |
-| 24 | Scituate | 1556.8 |
-| 25 | Manchester Essex | 1556.5 |
-| 26 | Sharon | 1553.9 |
-| 27 | Triton | 1550.3 |
-| 28 | Archbishop Williams | 1543.2 |
-| 29 | Andover | 1542.3 |
-| 30 | Malden Catholic | 1542.1 |
-| 31 | Franklin | 1537.3 |
-| 32 | Hopkinton | 1537.2 |
-| 33 | Norton | 1536.1 |
-| 34 | Arlington Catholic | 1529.1 |
-| 35 | Somerset Berkley | 1527.8 |
-| 36 | Marshfield | 1527.2 |
-| 37 | Southeastern | 1523.9 |
-| 38 | Natick | 1523.1 |
-| 39 | Holliston | 1522.0 |
-| 40 | O’Bryant | 1509.7 |
-| 41 | Hingham | 1505.1 |
-| 42 | Newburyport | 1502.8 |
-| 43 | North Reading | 1502.8 |
-| 44 | Essex Tech | 1502.8 |
+| 19 | Duxbury | 1570.5 |
+| 20 | Brighton | 1569.3 |
+| 21 | Snowden/Quincy Upper | 1569.0 |
+| 22 | Dover-Sherborn | 1567.6 |
+| 23 | Lowell | 1558.1 |
+| 24 | Gloucester | 1557.9 |
+| 25 | Scituate | 1556.8 |
+| 26 | Manchester Essex | 1556.5 |
+| 27 | Sharon | 1553.9 |
+| 28 | Triton | 1550.3 |
+| 29 | Archbishop Williams | 1543.2 |
+| 30 | Andover | 1542.3 |
+| 31 | Malden Catholic | 1542.1 |
+| 32 | Franklin | 1537.3 |
+| 33 | Hopkinton | 1537.2 |
+| 34 | Norton | 1536.1 |
+| 35 | Arlington Catholic | 1529.1 |
+| 36 | Somerset Berkley | 1527.8 |
+| 37 | Marshfield | 1527.2 |
+| 38 | Southeastern | 1523.9 |
+| 39 | Natick | 1523.1 |
+| 40 | Holliston | 1522.0 |
+| 41 | O’Bryant | 1509.7 |
+| 42 | Essex Tech | 1502.8 |
+| 43 | Newburyport | 1502.8 |
+| 44 | North Reading | 1502.8 |
 | 45 | Billerica | 1495.9 |
 | 46 | Needham | 1493.8 |
 | 47 | Greater New Bedford | 1491.3 |
@@ -118,18 +119,19 @@ Generated: 2026-01-24 11:16
 | 80 | Amesbury | 1444.8 |
 | 81 | Charlestown | 1440.3 |
 | 82 | Millis | 1437.9 |
-| 83 | Milford | 1435.2 |
-| 84 | Silver Lake | 1431.7 |
-| 85 | Apponequet | 1431.0 |
-| 86 | Mansfield | 1428.5 |
-| 87 | Lynnfield | 1423.1 |
-| 88 | Walpole | 1419.0 |
-| 89 | Attleboro | 1415.2 |
-| 90 | Ursuline | 1412.4 |
-| 91 | East Boston | 1406.8 |
-| 92 | Brookline | 1406.8 |
-| 93 | Framingham | 1397.0 |
-| 94 | Fontbonne | 1355.9 |
-| 95 | Weymouth | 1340.3 |
-| 96 | North Andover | 1328.3 |
-| 97 | Cristo Rey | 1237.1 |
+| 83 | Hingham | 1437.3 |
+| 84 | Milford | 1435.2 |
+| 85 | Silver Lake | 1431.7 |
+| 86 | Apponequet | 1431.0 |
+| 87 | Mansfield | 1428.5 |
+| 88 | Lynnfield | 1423.1 |
+| 89 | Walpole | 1419.0 |
+| 90 | Attleboro | 1415.2 |
+| 91 | Ursuline | 1412.4 |
+| 92 | East Boston | 1406.8 |
+| 93 | Brookline | 1406.8 |
+| 94 | Framingham | 1397.0 |
+| 95 | Fontbonne | 1355.9 |
+| 96 | Weymouth | 1340.3 |
+| 97 | North Andover | 1328.3 |
+| 98 | Cristo Rey | 1237.1 |

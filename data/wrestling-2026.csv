@@ -250,3 +250,64 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-23,82508,FINAL,Cohasset,4094,58,1,Barnstable,4024,24,0,South Shore,Pioneer,,,0
 2026-01-23,82545,FINAL,St. Sebastian’s,4378,44,1,Nobles,4282,27,0,ISL,ISL,,,0
 2026-01-23,82549,FINAL,Nashoba,4267,53,1,Pembroke,4308,28,0,Mid-Wach,Patriot,,,0
+2026-01-23,82658,FINAL,Middleborough,4247,39,2,Burlington,4065,39,2,South Shore,Middlesex,,,0
+2026-01-23,82659,FINAL,Silver Lake,4349,42,1,Burlington,4065,30,0,Patriot,Middlesex,,,0
+2026-01-23,82664,FINAL,Burlington,4065,55,1,Oliver Ames,4302,18,0,Middlesex,Hockomock,,,0
+2026-01-24,82627,FINAL,Weymouth,4425,54,1,Newton North,4279,30,0,Bay State,Bay State,,,0
+2026-01-24,82628,FINAL,Weymouth,4425,27,0,Natick,4270,50,1,Bay State,Bay State,,,0
+2026-01-24,82629,FINAL,Weymouth,4425,53,1,Wellesley,4413,25,0,Bay State,Bay State,,,0
+2026-01-24,82630,FINAL,Carver,4077,30,0,Hanover,4164,43,1,South Shore,Patriot,,,0
+2026-01-24,82633,FINAL,Hanover,4164,53,1,Woonsocket (R.I.),4673,22,0,Patriot,Independent,,,0
+2026-01-24,82636,FINAL,Upper Cape,4457,36,0,Hanover,4164,46,1,Mayflower,Patriot,,,0
+2026-01-24,82637,FINAL,Hingham,4171,26,0,North Attleborough,4284,36,1,Patriot,Hockomock,,,0
+2026-01-24,82640,FINAL,Hingham,4171,45,1,Plymouth South,4316,33,0,Patriot,Patriot,,,0
+2026-01-24,82641,FINAL,Hingham,4171,40,0,Brockton,4058,42,1,Patriot,Big Three,,,0
+2026-01-24,82643,FINAL,Lynnfield/North Reading,4223,63,1,Belmont,4034,12,0,Cape Ann,Middlesex,,,0
+2026-01-24,82765,FINAL,Lynnfield/North Reading,4223,9,0,Shawsheen,4346,60,1,Cape Ann,Commonwealth,,,0
+2026-01-24,82776,FINAL,Beverly,4038,16,0,Shawsheen,4346,55,1,Northeastern,Commonwealth,,,0
+2026-01-24,82782,FINAL,Belmont,4034,8,0,Shawsheen,4346,64,1,Middlesex,Commonwealth,,,0
+2026-01-24,82803,FINAL,Triton,4395,48,1,Pelham (N.H.),4307,24,0,Cape Ann,Independent,,,0
+2026-01-24,82805,FINAL,Triton,4395,60,1,York (Maine),4858,12,0,Cape Ann,Independent,,,0
+2026-01-24,82806,FINAL,Triton,4395,48,1,Marblehead/Swampscott,4231,34,0,Cape Ann,Northeastern,,,0
+2026-01-24,82807,FINAL,Hopkinton,4180,44,1,Duxbury,4123,32,0,Tri-Valley,Patriot,,,0
+2026-01-24,82809,FINAL,Algonquin,4005,18,0,Duxbury,4123,56,1,Mid-Wach,Patriot,,,0
+2026-01-24,82811,FINAL,Algonquin,4005,16,0,Hopkinton,4180,59,1,Mid-Wach,Tri-Valley,,,0
+2026-01-24,82813,FINAL,Newton South,4280,32,0,Tewksbury,4389,48,1,Dual County,Merrimack Valley,,,0
+2026-01-24,82815,FINAL,Plymouth North,4315,24,0,Tewksbury,4389,52,1,Patriot,Merrimack Valley,,,0
+2026-01-24,82816,FINAL,Tewksbury,4389,30,0,Melrose,4244,42,1,Merrimack Valley,Middlesex,,,0
+2026-01-24,82818,FINAL,Greater Lowell,4155,60,1,Malden Catholic,4228,6,0,Commonwealth,Catholic Conference,,,0
+2026-01-24,82819,FINAL,Greater Lowell,4155,52,1,Weston,4423,12,0,Commonwealth,Dual County,,,0
+2026-01-24,82822,FINAL,Greater Lowell,4155,53,1,Chicopee,4088,12,0,Commonwealth,Independent,,,0
+2026-01-24,82941,FINAL,West Springfield,4417,55,1,St. John’s Prep,4369,16,0,Independent,Catholic Conference,,,0
+2026-01-24,82943,FINAL,Franklin,4144,21,0,St. John’s Prep,4369,54,1,Hockomock,Catholic Conference,,,0
+2026-01-24,82944,FINAL,Marlborough,4233,16,0,St. John’s Prep,4369,66,1,Mid-Wach,Catholic Conference,,,0
+2026-01-24,82947,FINAL,Southwick,4519,4,0,St. John’s Prep,4369,69,1,Independent,Catholic Conference,,,0
+2026-01-24,82949,FINAL,Methuen,4246,58,1,St. John’s (Shrewsbury),4368,23,0,Merrimack Valley,Catholic Conference,,,0
+2026-01-24,82956,FINAL,Methuen,4246,56,1,Lexington,4209,3,0,Merrimack Valley,Middlesex,,,0
+2026-01-24,82958,FINAL,Methuen,4246,51,1,Greater Lawrence,4154,23,0,Merrimack Valley,Commonwealth,,,0
+2026-01-24,82961,FINAL,Methuen,4246,36,2,Taunton,4388,36,2,Merrimack Valley,Hockomock,,,0
+2026-01-24,82967,FINAL,Gloucester,4150,38,1,Dedham,4108,36,0,Northeastern,Tri-Valley,,,0
+2026-01-24,82968,FINAL,Watertown,4409,33,0,Dedham,4108,44,1,Middlesex,Tri-Valley,,,0
+2026-01-24,82970,FINAL,Foxborough,4142,32,0,Dedham,4108,47,1,Hockomock,Tri-Valley,,,0
+2026-01-24,82971,FINAL,Greater Lawrence,4154,32,0,Taunton,4388,45,1,Commonwealth,Hockomock,,,0
+2026-01-24,82972,FINAL,Lexington,4209,23,0,Taunton,4388,60,1,Middlesex,Hockomock,,,0
+2026-01-24,82974,FINAL,St. John’s (Shrewsbury),4368,38,0,Taunton,4388,39,1,Catholic Conference,Hockomock,,,0
+2026-01-24,82977,FINAL,St. Mark’s,4372,18,0,Roxbury Latin,4334,64,1,ISL,ISL,,,0
+2026-01-24,82978,FINAL,Eagle Hill,4733,24,0,Roxbury Latin,4334,50,1,Independent,ISL,,,0
+2026-01-24,82979,FINAL,Portsmouth Abbey,4320,6,0,Roxbury Latin,4334,77,1,Independent,ISL,,,0
+2026-01-24,82984,FINAL,Sharon,4345,46,1,Belchertown,4032,27,0,Hockomock,Independent,,,0
+2026-01-24,82985,FINAL,Sharon,4345,22,0,Holliston,4174,53,1,Hockomock,Tri-Valley,,,0
+2026-01-24,82987,FINAL,Sharon,4345,63,1,Quincy Upper,4515,10,0,Hockomock,Boston City,,,0
+2026-01-24,82994,FINAL,Sharon,4345,54,1,Scituate,4343,27,0,Hockomock,Patriot,,,0
+2026-01-24,82997,FINAL,Woburn,4438,28,0,Bristol-Plymouth,4057,48,1,Middlesex,Mayflower,,,0
+2026-01-24,83002,FINAL,Woburn,4438,39,2,Whittier,4428,39,2,Middlesex,Commonwealth,,,0
+2026-01-24,83051,FINAL,Middlesex,4248,29,0,Nobles,4282,33,1,ISL,ISL,,,0
+2026-01-24,83053,FINAL,Chapel Hill,4082,12,0,Nobles,4282,42,1,EIL,ISL,,,0
+2026-01-24,83059,FINAL,BB&N,4028,24,0,Nobles,4282,41,1,ISL,ISL,,,0
+2026-01-24,83094,FINAL,Wayland,4411,58,1,King Philip,4197,15,0,Dual County,Hockomock,,,0
+2026-01-24,83095,FINAL,Wayland,4411,38,1,Toll Gate (R.I.),4836,32,0,Dual County,Independent,,,0
+2026-01-24,83098,FINAL,Wayland,4411,55,1,Norwood,4297,15,0,Dual County,Tri-Valley,,,0
+2026-01-24,83101,FINAL,Wayland,4411,46,1,Mansfield,4230,16,0,Dual County,Hockomock,,,0
+2026-01-24,83123,FINAL,Brooks,4060,15,0,Belmont Hill,4035,63,1,ISL,ISL,,,0
+2026-01-24,83125,FINAL,Brooks,4060,21,0,Phillips Exeter,4311,58,1,ISL,Independent,,,0
+2026-01-24,83128,FINAL,Brooks,4060,17,0,Phillips Andover,4310,61,1,ISL,Independent,,,0
