@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-01-25 11:16
+Generated: 2026-01-26 11:19
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-01-25 11:16
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-24 | St. Mary’s | 79 | Bishop Fenwick | 72 | +11.7 | +7.0 |
 | 2026-01-23 | Stoughton | 67 | Canton | 89 | +4.4 | -22.0 |
 | 2026-01-23 | Nashoba | 91 | Gardner | 77 | +14.0 | +14.0 |
 | 2026-01-23 | Hingham | 92 | Silver Lake/Whitman-Hanson | 52 | +9.6 | +40.0 |
@@ -22,7 +23,6 @@ Generated: 2026-01-25 11:16
 | 2026-01-21 | Franklin | 97 | Sharon | 73 | -1.1 | +24.0 |
 | 2026-01-20 | Nashoba | 98 | Shrewsbury | 68 | +0.1 | +30.0 |
 | 2026-01-20 | Scituate | 89 | Quincy | 81 | -0.9 | +8.0 |
-| 2026-01-18 | Arlington Catholic | 74 | Bishop Fenwick | 45 | +7.7 | +29.0 |
 
 ## Current Elo Ratings
 
@@ -65,54 +65,55 @@ Generated: 2026-01-25 11:16
 | 35 | Barnstable | 1528.4 |
 | 36 | Quincy | 1527.5 |
 | 37 | Wayland | 1526.1 |
-| 38 | Canton | 1521.8 |
-| 39 | Martha’s Vineyard | 1519.7 |
-| 40 | Duxbury | 1519.5 |
-| 41 | Reading | 1519.4 |
-| 42 | Sharon | 1513.9 |
-| 43 | Mansfield | 1508.3 |
-| 44 | Chelmsford | 1508.2 |
-| 45 | Dedham | 1499.9 |
-| 46 | Wakefield/Wakefield | 1490.8 |
-| 47 | Plymouth North/South | 1490.1 |
-| 48 | Shrewsbury | 1489.0 |
-| 49 | Arlington/Watertown | 1486.0 |
-| 50 | Gardner | 1477.7 |
-| 51 | Central Catholic | 1477.5 |
-| 52 | North Attleborough | 1477.2 |
-| 53 | Foxborough | 1475.0 |
-| 54 | Norton | 1472.0 |
-| 55 | Lincoln-Sudbury | 1470.2 |
-| 56 | Wakefield | 1469.8 |
-| 57 | Natick | 1469.6 |
-| 58 | Boston Latin | 1469.4 |
-| 59 | Framingham | 1468.6 |
-| 60 | Newton South | 1465.6 |
-| 61 | Sandwich | 1462.2 |
-| 62 | Silver Lake/Whitman-Hanson | 1462.0 |
-| 63 | Norwell | 1461.0 |
-| 64 | Bishop Stang | 1459.3 |
-| 65 | North Quincy/Quincy | 1457.5 |
-| 66 | Haverhill | 1456.6 |
-| 67 | Bridgewater-Raynham | 1455.2 |
-| 68 | Advanced Math and Science | 1451.5 |
-| 69 | Old Rochester | 1451.0 |
-| 70 | Westford | 1450.8 |
-| 71 | Notre Dame (T)/Dracut | 1450.0 |
-| 72 | Lowell | 1449.9 |
-| 73 | Billerica | 1443.0 |
-| 74 | Attleboro | 1441.8 |
-| 75 | Durfee | 1439.7 |
-| 76 | Bishop Fenwick | 1435.5 |
+| 38 | St. Mary’s | 1523.8 |
+| 39 | Canton | 1521.8 |
+| 40 | Martha’s Vineyard | 1519.7 |
+| 41 | Duxbury | 1519.5 |
+| 42 | Reading | 1519.4 |
+| 43 | Sharon | 1513.9 |
+| 44 | Mansfield | 1508.3 |
+| 45 | Chelmsford | 1508.2 |
+| 46 | Dedham | 1499.9 |
+| 47 | Wakefield/Wakefield | 1490.8 |
+| 48 | Plymouth North/South | 1490.1 |
+| 49 | Shrewsbury | 1489.0 |
+| 50 | Arlington/Watertown | 1486.0 |
+| 51 | Gardner | 1477.7 |
+| 52 | Central Catholic | 1477.5 |
+| 53 | North Attleborough | 1477.2 |
+| 54 | Foxborough | 1475.0 |
+| 55 | Norton | 1472.0 |
+| 56 | Lincoln-Sudbury | 1470.2 |
+| 57 | Wakefield | 1469.8 |
+| 58 | Natick | 1469.6 |
+| 59 | Boston Latin | 1469.4 |
+| 60 | Framingham | 1468.6 |
+| 61 | Newton South | 1465.6 |
+| 62 | Sandwich | 1462.2 |
+| 63 | Silver Lake/Whitman-Hanson | 1462.0 |
+| 64 | Norwell | 1461.0 |
+| 65 | Bishop Stang | 1459.3 |
+| 66 | North Quincy/Quincy | 1457.5 |
+| 67 | Haverhill | 1456.6 |
+| 68 | Bridgewater-Raynham | 1455.2 |
+| 69 | Advanced Math and Science | 1451.5 |
+| 70 | Old Rochester | 1451.0 |
+| 71 | Westford | 1450.8 |
+| 72 | Notre Dame (T)/Dracut | 1450.0 |
+| 73 | Lowell | 1449.9 |
+| 74 | Billerica | 1443.0 |
+| 75 | Attleboro | 1441.8 |
+| 76 | Durfee | 1439.7 |
 | 77 | Weymouth | 1430.4 |
 | 78 | Woburn | 1429.5 |
 | 79 | Medfield | 1428.6 |
 | 80 | Wachusett | 1414.8 |
-| 81 | Pembroke | 1411.2 |
-| 82 | Stoughton | 1409.6 |
-| 83 | Malden Catholic | 1402.4 |
-| 84 | Braintree | 1400.3 |
-| 85 | Holliston/Medway | 1391.4 |
-| 86 | Walpole | 1381.0 |
-| 87 | Stoneham | 1379.9 |
-| 88 | Nauset | 1347.8 |
+| 81 | Bishop Fenwick | 1414.5 |
+| 82 | Pembroke | 1411.2 |
+| 83 | Stoughton | 1409.6 |
+| 84 | Malden Catholic | 1402.4 |
+| 85 | Braintree | 1400.3 |
+| 86 | Holliston/Medway | 1391.4 |
+| 87 | Walpole | 1381.0 |
+| 88 | Stoneham | 1379.9 |
+| 89 | Nauset | 1347.8 |

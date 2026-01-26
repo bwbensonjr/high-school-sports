@@ -90,19 +90,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-14,80207,FINAL,Bishop Feehan,4042,63.0,1.0,Wareham,4407,33.0,0.0,Mayflower,Mayflower,,,0
 2026-01-14,80356,FINAL,North Andover,4283,48.0,0.0,Central Catholic,4081,51.0,1.0,Merrimack Valley,Merrimack Valley,,,0
 2026-01-14,80357,FINAL,Millis,4251,6.0,0.0,Dover-Sherborn,4118,84.0,1.0,Tri-Valley,Tri-Valley,6:30 P.M.,,0
-2026-01-15,77495,FINAL,Brookline,4059,61,1,Newton North,4279,39,0,Bay State,Bay State,4:00 P.M.,,0
-2026-01-15,77511,FINAL,Braintree,4051,59,1,Milton,4252,40,0,Bay State,Bay State,4:00 P.M.,,0
-2026-01-15,77532,FINAL,Needham,4272,38,0,Wellesley,4413,62,1,Bay State,Bay State,4:00 P.M.,,0
-2026-01-15,77563,FINAL,Natick,4270,64,1,Framingham,4143,36,0,Bay State,Bay State,4:00 P.M.,,0
+2026-01-15,77495,FINAL,Brookline,4059,61.0,1.0,Newton North,4279,39.0,0.0,Bay State,Bay State,4:00 P.M.,,0
+2026-01-15,77511,FINAL,Braintree,4051,59.0,1.0,Milton,4252,40.0,0.0,Bay State,Bay State,4:00 P.M.,,0
+2026-01-15,77532,FINAL,Needham,4272,38.0,0.0,Wellesley,4413,62.0,1.0,Bay State,Bay State,4:00 P.M.,,0
+2026-01-15,77563,FINAL,Natick,4270,64.0,1.0,Framingham,4143,36.0,0.0,Bay State,Bay State,4:00 P.M.,,0
 2026-01-15,78106,UPCOMING,Bourne,4050,,,Fairhaven,4133,,,South Coast,South Coast,6:30 P.M.,,0
 2026-01-15,78113,UPCOMING,Old Rochester,4301,,,Dighton-Rehoboth,4114,,,South Coast,South Coast,3:15 P.M.,,0
-2026-01-15,80606,FINAL,Weymouth,4425,32,0,Walpole,4404,68,1,Bay State,Bay State,,,0
-2026-01-15,80639,FINAL,Canton,4071,48,0,Oliver Ames,4302,52,1,Hockomock,Hockomock,,,0
-2026-01-15,80650,FINAL,Gloucester,4150,60,1,Salem,4336,19,0,Northeastern,Northeastern,,,0
-2026-01-15,80661,FINAL,Madison Park,4225,10,0,Snowden/Quincy Upper,4452,45,1,Boston City,Boston City,,,0
-2026-01-15,80663,FINAL,East Boston,4125,15,0,Latin Academy,4202,78,1,Boston City,Boston City,,,0
-2026-01-15,80666,FINAL,Brighton,4055,41,0,O’Bryant,4298,59,1,Boston City,Boston City,,,0
-2026-01-15,80669,FINAL,Boston International,4547,64,1,New Mission,4494,20,0,Boston City,Boston City,,,0
+2026-01-15,80606,FINAL,Weymouth,4425,32.0,0.0,Walpole,4404,68.0,1.0,Bay State,Bay State,,,0
+2026-01-15,80639,FINAL,Canton,4071,48.0,0.0,Oliver Ames,4302,52.0,1.0,Hockomock,Hockomock,,,0
+2026-01-15,80650,FINAL,Gloucester,4150,60.0,1.0,Salem,4336,19.0,0.0,Northeastern,Northeastern,,,0
+2026-01-15,80661,FINAL,Madison Park,4225,10.0,0.0,Snowden/Quincy Upper,4452,45.0,1.0,Boston City,Boston City,,,0
+2026-01-15,80663,FINAL,East Boston,4125,15.0,0.0,Latin Academy,4202,78.0,1.0,Boston City,Boston City,,,0
+2026-01-15,80666,FINAL,Brighton,4055,41.0,0.0,O’Bryant,4298,59.0,1.0,Boston City,Boston City,,,0
+2026-01-15,80669,FINAL,Boston International,4547,64.0,1.0,New Mission,4494,20.0,0.0,Boston City,Boston City,,,0
 2026-01-19,78108,UPCOMING,Apponequet,4011,,,Bourne,4050,,,South Coast,South Coast,2:00 P.M.,,0
 2026-01-20,77617,UPCOMING,Archbishop Williams,4012,,,Arlington,4013,,,Catholic Central,Middlesex,4:00 P.M.,,0
 2026-01-20,77623,UPCOMING,Arlington,4013,,,Bishop Fenwick,4043,,,Middlesex,Catholic Central,4:00 P.M.,,0

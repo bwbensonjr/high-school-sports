@@ -1,6 +1,6 @@
 # Girls Cross Country - 2025 Season
 
-Generated: 2026-01-25 11:16
+Generated: 2026-01-26 11:19
 
 ## Upcoming Games
 
@@ -104,8 +104,8 @@ Generated: 2026-01-25 11:16
 | 86 | Agawam | 1535.7 |
 | 87 | Masconomet | 1534.9 |
 | 88 | Norfolk Aggie | 1533.3 |
-| 89 | Renaissance | 1532.5 |
-| 90 | Hudson | 1532.5 |
+| 89 | Hudson | 1532.5 |
+| 90 | Renaissance | 1532.5 |
 | 91 | Sturgis West | 1531.6 |
 | 92 | North Reading | 1531.2 |
 | 93 | Natick | 1531.0 |
@@ -117,8 +117,8 @@ Generated: 2026-01-25 11:16
 | 99 | Blackstone-Millville | 1526.5 |
 | 100 | Abington | 1523.7 |
 | 101 | Southeastern | 1521.9 |
-| 102 | Brooks | 1521.5 |
-| 103 | Groton-Dunstable | 1521.5 |
+| 102 | Groton-Dunstable | 1521.5 |
+| 103 | Brooks | 1521.5 |
 | 104 | West Bridgewater | 1521.4 |
 | 105 | Chicopee Comprehensive | 1519.6 |
 | 106 | Rivers | 1519.6 |
@@ -136,20 +136,20 @@ Generated: 2026-01-25 11:16
 | 118 | East Longmeadow | 1507.1 |
 | 119 | Holbrook/Avon | 1506.7 |
 | 120 | Westfield Tech | 1503.8 |
-| 121 | Greater Lowell | 1501.7 |
-| 122 | Greater Lawrence | 1501.7 |
-| 123 | Saugus | 1501.7 |
-| 124 | Amherst-Pelham | 1501.7 |
-| 125 | Waltham | 1501.7 |
-| 126 | Notre Dame (Worcester) | 1501.7 |
-| 127 | Bridgewater-Raynham | 1501.7 |
+| 121 | Cape Cod Tech | 1501.7 |
+| 122 | Bridgewater-Raynham | 1501.7 |
+| 123 | Longmeadow | 1501.7 |
+| 124 | Boston Latin | 1501.7 |
+| 125 | Saugus | 1501.7 |
+| 126 | Bedford | 1501.7 |
+| 127 | Westfield | 1501.7 |
 | 128 | Wachusett | 1501.7 |
-| 129 | Longmeadow | 1501.7 |
-| 130 | Cape Cod Tech | 1501.7 |
-| 131 | Minnechaug | 1501.7 |
-| 132 | Boston Latin | 1501.7 |
-| 133 | Westfield | 1501.7 |
-| 134 | Bedford | 1501.7 |
+| 129 | Notre Dame (Worcester) | 1501.7 |
+| 130 | Minnechaug | 1501.7 |
+| 131 | Amherst-Pelham | 1501.7 |
+| 132 | Greater Lawrence | 1501.7 |
+| 133 | Greater Lowell | 1501.7 |
+| 134 | Waltham | 1501.7 |
 | 135 | Notre Dame (Tyngsborough) | 1501.7 |
 | 136 | Concord-Carlisle | 1499.6 |
 | 137 | Lexington Christian | 1498.2 |

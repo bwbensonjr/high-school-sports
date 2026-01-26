@@ -1,6 +1,6 @@
 # Wrestling - 2026 Season
 
-Generated: 2026-01-25 11:16
+Generated: 2026-01-26 11:19
 
 ## Upcoming Games
 
@@ -12,16 +12,16 @@ Generated: 2026-01-25 11:16
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-01-24 | Triton | 60 | York (Maine) | 12 | +0.3 | +48.0 |
-| 2026-01-24 | Franklin | 21 | St. John’s Prep | 54 | -6.1 | -33.0 |
+| 2026-01-24 | Franklin | 21 | St. John’s Prep | 54 | -10.5 | -33.0 |
 | 2026-01-24 | Watertown | 33 | Dedham | 44 | +8.2 | -11.0 |
 | 2026-01-24 | Gloucester | 38 | Dedham | 36 | -4.5 | +2.0 |
 | 2026-01-24 | Methuen | 36 | Taunton | 36 | +13.9 | 0.0 |
 | 2026-01-24 | Methuen | 51 | Greater Lawrence | 23 | +7.2 | +28.0 |
 | 2026-01-24 | Methuen | 56 | Lexington | 3 | +19.3 | +53.0 |
 | 2026-01-24 | Methuen | 58 | St. John’s (Shrewsbury) | 23 | +5.5 | +35.0 |
-| 2026-01-24 | Southwick | 4 | St. John’s Prep | 69 | -6.6 | -65.0 |
-| 2026-01-24 | Marlborough | 16 | St. John’s Prep | 66 | -7.0 | -50.0 |
-| 2026-01-24 | West Springfield | 55 | St. John’s Prep | 16 | -1.0 | +39.0 |
+| 2026-01-24 | Southwick | 4 | St. John’s Prep | 69 | -10.1 | -65.0 |
+| 2026-01-24 | Marlborough | 16 | St. John’s Prep | 66 | -11.0 | -50.0 |
+| 2026-01-24 | West Springfield | 16 | St. John’s Prep | 55 | -1.0 | -39.0 |
 | 2026-01-24 | Greater Lawrence | 32 | Taunton | 45 | +6.6 | -13.0 |
 | 2026-01-24 | Greater Lowell | 53 | Chicopee | 12 | +5.0 | +41.0 |
 | 2026-01-24 | Greater Lowell | 52 | Weston | 12 | +5.7 | +40.0 |
@@ -106,35 +106,35 @@ Generated: 2026-01-25 11:16
 | 1 | Shawsheen | 1943.9 |
 | 2 | Roxbury Latin | 1914.3 |
 | 3 | Methuen | 1862.8 |
-| 4 | Wayland | 1820.6 |
-| 5 | St. John’s Prep | 1752.9 |
+| 4 | St. John’s Prep | 1829.0 |
+| 5 | Wayland | 1820.6 |
 | 6 | Westford | 1703.2 |
-| 7 | West Springfield | 1699.5 |
-| 8 | Holliston | 1691.3 |
-| 9 | Pentucket | 1681.8 |
-| 10 | Bristol-Plymouth | 1670.5 |
-| 11 | Cambridge | 1669.9 |
-| 12 | Winchester | 1666.0 |
-| 13 | Cohasset | 1665.4 |
-| 14 | Taunton | 1662.8 |
-| 15 | St. John’s (Shrewsbury) | 1662.4 |
-| 16 | Natick | 1662.2 |
-| 17 | Mt. Hope (R.I.) | 1659.9 |
-| 18 | Lynnfield/North Reading | 1652.9 |
-| 19 | New Bedford | 1650.4 |
-| 20 | Chelmsford | 1641.1 |
-| 21 | Watertown | 1631.9 |
-| 22 | Melrose | 1628.4 |
-| 23 | Dedham | 1627.0 |
-| 24 | Greater Lawrence | 1622.2 |
-| 25 | Rockland | 1619.4 |
-| 26 | Whittier | 1619.4 |
-| 27 | Leominster | 1616.3 |
-| 28 | Greater Lowell | 1613.7 |
-| 29 | Arlington | 1611.1 |
-| 30 | Sharon | 1609.9 |
-| 31 | Middleborough | 1601.2 |
-| 32 | Springfield Central | 1591.9 |
+| 7 | Holliston | 1691.3 |
+| 8 | Pentucket | 1681.8 |
+| 9 | Bristol-Plymouth | 1670.5 |
+| 10 | Cambridge | 1669.9 |
+| 11 | Winchester | 1666.0 |
+| 12 | Cohasset | 1665.4 |
+| 13 | Taunton | 1662.8 |
+| 14 | St. John’s (Shrewsbury) | 1662.4 |
+| 15 | Natick | 1662.2 |
+| 16 | Mt. Hope (R.I.) | 1659.9 |
+| 17 | Lynnfield/North Reading | 1652.9 |
+| 18 | New Bedford | 1650.4 |
+| 19 | Chelmsford | 1641.1 |
+| 20 | Watertown | 1631.9 |
+| 21 | Melrose | 1628.4 |
+| 22 | Dedham | 1627.0 |
+| 23 | Greater Lawrence | 1622.2 |
+| 24 | Rockland | 1619.4 |
+| 25 | Whittier | 1619.4 |
+| 26 | Leominster | 1616.3 |
+| 27 | Greater Lowell | 1613.7 |
+| 28 | Arlington | 1611.1 |
+| 29 | Sharon | 1609.9 |
+| 30 | Middleborough | 1601.2 |
+| 31 | Springfield Central | 1591.9 |
+| 32 | West Springfield | 1588.9 |
 | 33 | Saugus/Peabody | 1585.3 |
 | 34 | Weymouth | 1585.2 |
 | 35 | Silver Lake | 1583.9 |
@@ -192,21 +192,21 @@ Generated: 2026-01-25 11:16
 | 87 | Newton North | 1484.7 |
 | 88 | Somerset Berkley | 1482.6 |
 | 89 | Salem | 1480.7 |
-| 90 | Essex Tech / Masco | 1478.5 |
-| 91 | Holyoke | 1478.3 |
-| 92 | Marshfield | 1477.7 |
-| 93 | Sandwich | 1477.1 |
-| 94 | Xaverian | 1474.4 |
-| 95 | Bellingham | 1473.5 |
-| 96 | Whitman-Hanson | 1471.5 |
-| 97 | Canton | 1471.3 |
-| 98 | Londonderry (N.H.) | 1470.4 |
-| 99 | Keene (N.H.) | 1470.0 |
-| 100 | Marblehead/Swampscott | 1469.7 |
-| 101 | Maimonides | 1469.7 |
-| 102 | Oliver Ames | 1468.5 |
-| 103 | Northeast/Bishop Fenwick | 1467.8 |
-| 104 | Southwick | 1467.7 |
+| 90 | Southwick | 1478.9 |
+| 91 | Essex Tech / Masco | 1478.5 |
+| 92 | Holyoke | 1478.3 |
+| 93 | Marshfield | 1477.7 |
+| 94 | Sandwich | 1477.1 |
+| 95 | Xaverian | 1474.4 |
+| 96 | Bellingham | 1473.5 |
+| 97 | Whitman-Hanson | 1471.5 |
+| 98 | Canton | 1471.3 |
+| 99 | Londonderry (N.H.) | 1470.4 |
+| 100 | Keene (N.H.) | 1470.0 |
+| 101 | Marblehead/Swampscott | 1469.7 |
+| 102 | Maimonides | 1469.7 |
+| 103 | Oliver Ames | 1468.5 |
+| 104 | Northeast/Bishop Fenwick | 1467.8 |
 | 105 | Beverly | 1466.7 |
 | 106 | Chicopee | 1465.9 |
 | 107 | Deerfield | 1464.9 |
@@ -239,22 +239,22 @@ Generated: 2026-01-25 11:16
 | 134 | Concord-Carlisle | 1445.0 |
 | 135 | Marianapolis | 1444.3 |
 | 136 | Durfee | 1443.9 |
-| 137 | Belchertown | 1437.8 |
-| 138 | Mahar | 1437.5 |
-| 139 | Middlebury (Vt.) | 1436.7 |
-| 140 | Braintree | 1434.2 |
-| 141 | Chapel Hill | 1433.1 |
-| 142 | King Philip | 1432.4 |
-| 143 | Excel Academy | 1432.3 |
-| 144 | Hyde | 1432.3 |
-| 145 | Quincy/North Quincy | 1431.5 |
-| 146 | Marlborough | 1429.4 |
-| 147 | Boston Latin | 1427.0 |
-| 148 | Lynn Tech | 1426.7 |
-| 149 | Norton | 1426.6 |
-| 150 | Belmont | 1425.5 |
-| 151 | North Andover | 1423.1 |
-| 152 | Franklin | 1422.4 |
+| 137 | Marlborough | 1440.8 |
+| 138 | Belchertown | 1437.8 |
+| 139 | Mahar | 1437.5 |
+| 140 | Middlebury (Vt.) | 1436.7 |
+| 141 | Franklin | 1434.4 |
+| 142 | Braintree | 1434.2 |
+| 143 | Chapel Hill | 1433.1 |
+| 144 | King Philip | 1432.4 |
+| 145 | Excel Academy | 1432.3 |
+| 146 | Hyde | 1432.3 |
+| 147 | Quincy/North Quincy | 1431.5 |
+| 148 | Boston Latin | 1427.0 |
+| 149 | Lynn Tech | 1426.7 |
+| 150 | Norton | 1426.6 |
+| 151 | Belmont | 1425.5 |
+| 152 | North Andover | 1423.1 |
 | 153 | Middlesex | 1420.6 |
 | 154 | Weston | 1416.9 |
 | 155 | Haverhill | 1415.9 |

@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2026 Season
 
-Generated: 2026-01-25 11:16
+Generated: 2026-01-26 11:19
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-01-25 11:16
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-25 | Hanover | 126 | Whitman-Hanson | 132 | -0.1 | -6.0 |
 | 2026-01-24 | Hopkinton | 138 | MADS | 139 | +4.4 | -1.2 |
 | 2026-01-23 | Hingham/Hull | 134 | Plymouth North/South | 126 | +8.1 | +7.8 |
 | 2026-01-23 | Needham | 127 | Newton North | 144 | -3.8 | -17.2 |
@@ -25,7 +26,6 @@ Generated: 2026-01-25 11:16
 | 2026-01-20 | Scituate | 120 | Hanover | 123 | +1.9 | -3.2 |
 | 2026-01-20 | Framingham | 127 | Hopkinton | 139 | -0.5 | -11.2 |
 | 2026-01-19 | Marshfield | 129 | Whitman-Hanson | 131 | +6.1 | -2.1 |
-| 2026-01-18 | North Andover | 130 | Andover | 141 | +2.7 | -11.9 |
 
 ## Current Elo Ratings
 
@@ -44,18 +44,18 @@ Generated: 2026-01-25 11:16
 | 11 | Medford/Somerville | 1546.1 |
 | 12 | Mansfield | 1545.5 |
 | 13 | Brockton/Spellman/Stoughton | 1541.7 |
-| 14 | Medway/Milford/Millis | 1537.5 |
-| 15 | Marlborough | 1533.8 |
-| 16 | Reading | 1530.2 |
-| 17 | North Andover | 1529.9 |
-| 18 | Beverly | 1529.5 |
-| 19 | Tewksbury | 1525.6 |
-| 20 | Bridgewater-Raynham/West Bridgewater | 1524.2 |
-| 21 | Malden | 1519.7 |
-| 22 | Pembroke/Silver Lake | 1519.5 |
-| 23 | MADS | 1516.7 |
-| 24 | Haverhill | 1512.4 |
-| 25 | Whitman-Hanson | 1508.8 |
+| 14 | Whitman-Hanson | 1537.8 |
+| 15 | Medway/Milford/Millis | 1537.5 |
+| 16 | Marlborough | 1533.8 |
+| 17 | Reading | 1530.2 |
+| 18 | North Andover | 1529.9 |
+| 19 | Beverly | 1529.5 |
+| 20 | Tewksbury | 1525.6 |
+| 21 | Bridgewater-Raynham/West Bridgewater | 1524.2 |
+| 22 | Malden | 1519.7 |
+| 23 | Pembroke/Silver Lake | 1519.5 |
+| 24 | MADS | 1516.7 |
+| 25 | Haverhill | 1512.4 |
 | 26 | Wakefield | 1502.5 |
 | 27 | Arlington | 1500.8 |
 | 28 | Middleborough | 1495.6 |
@@ -76,12 +76,12 @@ Generated: 2026-01-25 11:16
 | 43 | Natick | 1464.3 |
 | 44 | Plymouth North/South | 1456.5 |
 | 45 | Peabody | 1455.4 |
-| 46 | Hanover | 1455.2 |
-| 47 | Norwood | 1455.0 |
-| 48 | Lowell | 1454.6 |
-| 49 | Norton | 1447.9 |
-| 50 | Cohasset/Norwell | 1439.1 |
-| 51 | Framingham | 1427.4 |
+| 46 | Norwood | 1455.0 |
+| 47 | Lowell | 1454.6 |
+| 48 | Norton | 1447.9 |
+| 49 | Cohasset/Norwell | 1439.1 |
+| 50 | Framingham | 1427.4 |
+| 51 | Hanover | 1426.2 |
 | 52 | Newton South | 1394.4 |
 | 53 | Scituate | 1386.9 |
 | 54 | Methuen | 1386.7 |

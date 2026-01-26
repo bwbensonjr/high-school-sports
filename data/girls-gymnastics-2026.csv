@@ -36,9 +36,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-14,80341,FINAL,Haverhill,4167,130.4,0,North Andover,4283,133.8,1,Merrimack Valley,Merrimack Valley,,,0
 2026-01-14,80344,FINAL,Melrose,4244,135.35,0,Reading,4328,139.5,1,Middlesex,Middlesex,,,0
 2026-01-15,80602,FINAL,Medford/Somerville,4242,102.65,1,Salem,4336,100.2,0,Greater Boston,Cape Ann/Northeastern,,,0
-2026-01-15,80629,FINAL,Norwood,4297,126,0,Medford/Somerville,4242,141.95,1,Independent,Greater Boston,,,0
+2026-01-15,80629,FINAL,Norwood,4297,126.0,0,Medford/Somerville,4242,141.95,1,Independent,Greater Boston,,,0
 2026-01-15,80635,FINAL,Hanover,4164,125.85,0,Marshfield,4234,131.3,1,Patriot,Patriot,,,0
-2026-01-15,80640,FINAL,Newton North,4279,144,1,Framingham,4143,125.55,0,Bay State,Bay State,,,0
+2026-01-15,80640,FINAL,Newton North,4279,144.0,1,Framingham,4143,125.55,0,Bay State,Bay State,,,0
 2026-01-15,80643,FINAL,Wilmington/Bedford,4432,139.8,1,Winchester,4434,136.5,0,Middlesex,Middlesex,,,0
 2026-01-15,80653,FINAL,Beverly,4038,138.7,1,Marblehead/Swampscott,4231,130.95,0,Cape Ann/Northeastern,Cape Ann/Northeastern,,,0
 2026-01-16,80758,FINAL,Hingham/Hull,4171,136.05,0,Pembroke/Silver Lake,4308,137.3,1,Patriot,Patriot,,,0
@@ -61,3 +61,4 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-23,82619,FINAL,Whitman-Hanson,4427,131.8,0,Pembroke/Silver Lake,4308,132.45,1,Patriot,Patriot,,,0
 2026-01-23,82975,FINAL,Hamilton-Wenham/Manchester Essex,4163,140.85,1,Peabody,4306,83.9,0,Cape Ann/Northeastern,Independent,,,0
 2026-01-24,82932,FINAL,Hopkinton,4180,138.45,0,MADS,4241,139.6,1,Tri-Valley,Tri-Valley,3:30 P.M.,,0
+2026-01-25,83134,FINAL,Hanover,4164,126.3,0,Whitman-Hanson,4427,132.35,1,Patriot,Patriot,,,0
