@@ -1,6 +1,6 @@
 # Girls Indoor Track - 2026 Season
 
-Generated: 2026-01-26 11:19
+Generated: 2026-01-27 11:21
 
 ## Upcoming Games
 
@@ -78,9 +78,9 @@ Generated: 2026-01-26 11:19
 | 39 | Natick | 1523.1 |
 | 40 | Holliston | 1522.0 |
 | 41 | O’Bryant | 1509.7 |
-| 42 | Essex Tech | 1502.8 |
-| 43 | North Reading | 1502.8 |
-| 44 | Newburyport | 1502.8 |
+| 42 | Newburyport | 1502.8 |
+| 43 | Essex Tech | 1502.8 |
+| 44 | North Reading | 1502.8 |
 | 45 | Billerica | 1495.9 |
 | 46 | Needham | 1493.8 |
 | 47 | Greater New Bedford | 1491.3 |

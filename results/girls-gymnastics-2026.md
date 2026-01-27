@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2026 Season
 
-Generated: 2026-01-26 11:19
+Generated: 2026-01-27 11:21
 
 ## Upcoming Games
 
@@ -25,7 +25,6 @@ Generated: 2026-01-26 11:19
 | 2026-01-20 | Haverhill | 131 | Dracut | 119 | +5.8 | +12.4 |
 | 2026-01-20 | Scituate | 120 | Hanover | 123 | +1.9 | -3.2 |
 | 2026-01-20 | Framingham | 127 | Hopkinton | 139 | -0.5 | -11.2 |
-| 2026-01-19 | Marshfield | 129 | Whitman-Hanson | 131 | +6.1 | -2.1 |
 
 ## Current Elo Ratings
 

@@ -35,12 +35,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-14,80337,FINAL,Oliver Ames,4302,75.0,1,Stoughton,4381,57.0,0,Hockomock,Hockomock,4:30 P.M.,,0
 2026-01-14,80382,FINAL,Martha’s Vineyard,4235,100.0,1,Sandwich,4340,62.0,0,Cape & Islands,Cape & Islands,,,0
 2026-01-15,80644,FINAL,Durfee,4122,62.0,0,Old Rochester,4301,90.0,1,Big Three,South Coast,,,0
-2026-01-16,80676,FINAL,Central Catholic,4081,55,0,Chelmsford,4085,100,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-16,80706,FINAL,Catholic Memorial,4080,85,1,BC High,4029,84,0,Catholic Conference,Catholic Conference,,,0
-2026-01-16,80711,FINAL,Dedham,4108,97,1,Medfield,4241,62,0,Independent,Tri-Valley,,,0
-2026-01-16,80732,FINAL,Holliston/Medway,4174,77,0,Westwood,4424,97,1,Tri-Valley,Tri-Valley,,,0
-2026-01-16,80802,FINAL,Acton-Boxborough,4003,91,0,Concord-Carlisle,4097,92,1,Dual County,Dual County,,,0
-2026-01-16,80857,FINAL,Nauset,4271,54,0,Martha’s Vineyard,4235,89,1,Cape & Islands,Cape & Islands,,,0
+2026-01-16,80676,FINAL,Central Catholic,4081,55.0,0,Chelmsford,4085,100.0,1,Merrimack Valley,Merrimack Valley,,,0
+2026-01-16,80706,FINAL,Catholic Memorial,4080,85.0,1,BC High,4029,84.0,0,Catholic Conference,Catholic Conference,,,0
+2026-01-16,80711,FINAL,Dedham,4108,97.0,1,Medfield,4241,62.0,0,Independent,Tri-Valley,,,0
+2026-01-16,80732,FINAL,Holliston/Medway,4174,77.0,0,Westwood,4424,97.0,1,Tri-Valley,Tri-Valley,,,0
+2026-01-16,80802,FINAL,Acton-Boxborough,4003,91.0,0,Concord-Carlisle,4097,92.0,1,Dual County,Dual County,,,0
+2026-01-16,80857,FINAL,Nauset,4271,54.0,0,Martha’s Vineyard,4235,89.0,1,Cape & Islands,Cape & Islands,,,0
 2026-01-20,81370,FINAL,Nashoba,4267,66,0,Shrewsbury,4348,105,1,Mid-Wach,Mid-Wach,,,0
 2026-01-20,81377,FINAL,Andover,4009,93,1,Central Catholic,4081,67,0,Merrimack Valley,Merrimack Valley,,,0
 2026-01-20,81614,FINAL,Chelmsford,4085,108,1,Haverhill,4167,72,0,Merrimack Valley,Merrimack Valley,,,0

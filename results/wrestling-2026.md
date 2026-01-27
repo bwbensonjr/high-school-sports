@@ -1,6 +1,6 @@
 # Wrestling - 2026 Season
 
-Generated: 2026-01-26 11:19
+Generated: 2026-01-27 11:21
 
 ## Upcoming Games
 
@@ -11,30 +11,28 @@ Generated: 2026-01-26 11:19
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-01-24 | Triton | 60 | York (Maine) | 12 | +0.3 | +48.0 |
-| 2026-01-24 | Franklin | 21 | St. John’s Prep | 54 | -10.5 | -33.0 |
+| 2026-01-24 | Newton South | 32 | Tewksbury | 48 | -0.5 | -16.0 |
+| 2026-01-24 | Methuen | 56 | Lexington | 3 | +19.3 | +53.0 |
+| 2026-01-24 | Lexington | 23 | Taunton | 60 | -7.3 | -37.0 |
+| 2026-01-24 | Greater Lawrence | 32 | Taunton | 45 | +6.6 | -13.0 |
+| 2026-01-24 | Foxborough | 32 | Dedham | 47 | -2.0 | -15.0 |
 | 2026-01-24 | Watertown | 33 | Dedham | 44 | +8.2 | -11.0 |
 | 2026-01-24 | Gloucester | 38 | Dedham | 36 | -4.5 | +2.0 |
 | 2026-01-24 | Methuen | 36 | Taunton | 36 | +13.9 | 0.0 |
 | 2026-01-24 | Methuen | 51 | Greater Lawrence | 23 | +7.2 | +28.0 |
-| 2026-01-24 | Methuen | 56 | Lexington | 3 | +19.3 | +53.0 |
 | 2026-01-24 | Methuen | 58 | St. John’s (Shrewsbury) | 23 | +5.5 | +35.0 |
+| 2026-01-24 | Plymouth North | 24 | Tewksbury | 52 | -6.0 | -28.0 |
 | 2026-01-24 | Southwick | 4 | St. John’s Prep | 69 | -10.1 | -65.0 |
 | 2026-01-24 | Marlborough | 16 | St. John’s Prep | 66 | -11.0 | -50.0 |
+| 2026-01-24 | Franklin | 21 | St. John’s Prep | 54 | -10.5 | -33.0 |
 | 2026-01-24 | West Springfield | 16 | St. John’s Prep | 55 | -1.0 | -39.0 |
-| 2026-01-24 | Greater Lawrence | 32 | Taunton | 45 | +6.6 | -13.0 |
 | 2026-01-24 | Greater Lowell | 53 | Chicopee | 12 | +5.0 | +41.0 |
 | 2026-01-24 | Greater Lowell | 52 | Weston | 12 | +5.7 | +40.0 |
 | 2026-01-24 | Greater Lowell | 60 | Malden Catholic | 6 | +6.9 | +54.0 |
-| 2026-01-24 | Tewksbury | 30 | Melrose | 42 | +4.0 | -12.0 |
-| 2026-01-24 | Plymouth North | 24 | Tewksbury | 52 | -6.0 | -28.0 |
-| 2026-01-24 | Newton South | 32 | Tewksbury | 48 | -0.5 | -16.0 |
-| 2026-01-24 | Algonquin | 16 | Hopkinton | 59 | -5.9 | -43.0 |
-| 2026-01-24 | Algonquin | 18 | Duxbury | 56 | -6.5 | -38.0 |
-| 2026-01-24 | Foxborough | 32 | Dedham | 47 | -2.0 | -15.0 |
-| 2026-01-24 | Lexington | 23 | Taunton | 60 | -7.3 | -37.0 |
-| 2026-01-24 | Triton | 48 | Marblehead/Swampscott | 34 | +2.6 | +14.0 |
-| 2026-01-24 | Middlesex | 29 | Nobles | 33 | +4.4 | -4.0 |
+| 2026-01-24 | St. John’s (Shrewsbury) | 38 | Taunton | 39 | +3.0 | -1.0 |
+| 2026-01-24 | St. Mark’s | 18 | Roxbury Latin | 64 | -9.6 | -46.0 |
+| 2026-01-24 | Eagle Hill | 24 | Roxbury Latin | 50 | -11.8 | -26.0 |
+| 2026-01-24 | Portsmouth Abbey | 6 | Roxbury Latin | 77 | -13.8 | -71.0 |
 | 2026-01-24 | Brooks | 21 | Phillips Exeter | 58 | +0.3 | -37.0 |
 | 2026-01-24 | Brooks | 15 | Belmont Hill | 63 | +1.2 | -48.0 |
 | 2026-01-24 | Wayland | 46 | Mansfield | 16 | +15.8 | +30.0 |
@@ -43,61 +41,54 @@ Generated: 2026-01-26 11:19
 | 2026-01-24 | Wayland | 58 | King Philip | 15 | +15.4 | +43.0 |
 | 2026-01-24 | BB&N | 24 | Nobles | 41 | +0.3 | -17.0 |
 | 2026-01-24 | Chapel Hill | 12 | Nobles | 42 | +5.1 | -30.0 |
+| 2026-01-24 | Middlesex | 29 | Nobles | 33 | +4.4 | -4.0 |
 | 2026-01-24 | Woburn | 39 | Whittier | 39 | -1.4 | 0.0 |
-| 2026-01-24 | St. John’s (Shrewsbury) | 38 | Taunton | 39 | +3.0 | -1.0 |
 | 2026-01-24 | Woburn | 28 | Bristol-Plymouth | 48 | +0.3 | -20.0 |
 | 2026-01-24 | Sharon | 54 | Scituate | 27 | +3.0 | +27.0 |
 | 2026-01-24 | Sharon | 63 | Quincy Upper | 10 | +6.5 | +53.0 |
 | 2026-01-24 | Sharon | 22 | Holliston | 53 | -0.0 | -31.0 |
 | 2026-01-24 | Sharon | 46 | Belchertown | 27 | +5.9 | +19.0 |
-| 2026-01-24 | Portsmouth Abbey | 6 | Roxbury Latin | 77 | -13.8 | -71.0 |
-| 2026-01-24 | Eagle Hill | 24 | Roxbury Latin | 50 | -11.8 | -26.0 |
-| 2026-01-24 | St. Mark’s | 18 | Roxbury Latin | 64 | -9.6 | -46.0 |
-| 2026-01-24 | Hopkinton | 44 | Duxbury | 32 | -3.7 | +12.0 |
+| 2026-01-24 | Tewksbury | 30 | Melrose | 42 | +4.0 | -12.0 |
 | 2026-01-24 | Brooks | 17 | Phillips Andover | 61 | -3.3 | -44.0 |
-| 2026-01-24 | Upper Cape | 36 | Hanover | 46 | +1.9 | -10.0 |
-| 2026-01-24 | Hingham | 26 | North Attleborough | 36 | +0.7 | -10.0 |
 | 2026-01-24 | Weymouth | 54 | Newton North | 30 | +3.2 | +24.0 |
+| 2026-01-24 | Lynnfield/North Reading | 63 | Belmont | 12 | +10.4 | +51.0 |
+| 2026-01-24 | Algonquin | 16 | Hopkinton | 59 | -5.9 | -43.0 |
 | 2026-01-24 | Weymouth | 27 | Natick | 50 | +1.2 | -23.0 |
-| 2026-01-24 | Weymouth | 53 | Wellesley | 25 | +1.0 | +28.0 |
 | 2026-01-24 | Carver | 30 | Hanover | 43 | +2.3 | -13.0 |
 | 2026-01-24 | Hanover | 53 | Woonsocket (R.I.) | 22 | +1.5 | +31.0 |
-| 2026-01-24 | Triton | 48 | Pelham (N.H.) | 24 | -1.9 | +24.0 |
+| 2026-01-24 | Upper Cape | 36 | Hanover | 46 | +1.9 | -10.0 |
+| 2026-01-24 | Hingham | 26 | North Attleborough | 36 | +0.7 | -10.0 |
 | 2026-01-24 | Hingham | 45 | Plymouth South | 33 | -1.6 | +12.0 |
 | 2026-01-24 | Hingham | 40 | Brockton | 42 | -1.5 | -2.0 |
-| 2026-01-24 | Lynnfield/North Reading | 63 | Belmont | 12 | +10.4 | +51.0 |
+| 2026-01-24 | Weymouth | 53 | Wellesley | 25 | +1.0 | +28.0 |
 | 2026-01-24 | Lynnfield/North Reading | 9 | Shawsheen | 60 | -6.1 | -51.0 |
-| 2026-01-24 | Beverly | 16 | Shawsheen | 55 | -15.9 | -39.0 |
 | 2026-01-24 | Belmont | 8 | Shawsheen | 64 | -18.1 | -56.0 |
-| 2026-01-23 | Cohasset | 58 | Barnstable | 24 | +12.7 | +34.0 |
+| 2026-01-24 | Triton | 48 | Pelham (N.H.) | 24 | -1.9 | +24.0 |
+| 2026-01-24 | Triton | 60 | York (Maine) | 12 | +0.3 | +48.0 |
+| 2026-01-24 | Triton | 48 | Marblehead/Swampscott | 34 | +2.6 | +14.0 |
+| 2026-01-24 | Hopkinton | 44 | Duxbury | 32 | -3.7 | +12.0 |
+| 2026-01-24 | Algonquin | 18 | Duxbury | 56 | -6.5 | -38.0 |
+| 2026-01-24 | Beverly | 16 | Shawsheen | 55 | -15.9 | -39.0 |
+| 2026-01-23 | St. Sebastian’s | 44 | Nobles | 27 | +3.9 | +17.0 |
 | 2026-01-23 | Roxbury Latin | 54 | Latin Academy | 28 | +16.0 | +26.0 |
 | 2026-01-23 | Cohasset | 47 | Sandwich | 30 | +6.0 | +17.0 |
 | 2026-01-23 | Cohasset | 59 | Pembroke | 18 | +10.1 | +41.0 |
-| 2026-01-23 | St. Sebastian’s | 44 | Nobles | 27 | +3.9 | +17.0 |
+| 2026-01-23 | Cohasset | 58 | Barnstable | 24 | +12.7 | +34.0 |
 | 2026-01-23 | Middleborough | 39 | Burlington | 39 | +3.5 | 0.0 |
+| 2026-01-23 | Nashoba | 53 | Pembroke | 28 | +4.8 | +25.0 |
 | 2026-01-23 | Silver Lake | 42 | Burlington | 30 | +1.4 | +12.0 |
 | 2026-01-23 | Burlington | 55 | Oliver Ames | 18 | +2.7 | +37.0 |
-| 2026-01-23 | Nashoba | 53 | Pembroke | 28 | +4.8 | +25.0 |
 | 2026-01-22 | Triton | 36 | Salem | 42 | +1.6 | -6.0 |
 | 2026-01-22 | St. John’s (Shrewsbury) | 63 | Monty Tech/Fitchburg | 11 | +12.6 | +52.0 |
-| 2026-01-21 | Holliston | 52 | Northbridge | 27 | +5.3 | +25.0 |
-| 2026-01-21 | Westford | 60 | Lincoln-Sudbury | 12 | +10.5 | +48.0 |
-| 2026-01-21 | Brooks | 33 | St. Sebastian’s | 30 | +0.9 | +3.0 |
 | 2026-01-21 | Latin Academy | 42 | Boston Latin | 33 | +2.8 | +9.0 |
-| 2026-01-21 | Chelmsford | 46 | North Andover | 23 | +9.1 | +23.0 |
-| 2026-01-21 | Nashoba Valley Tech | 6 | Shawsheen | 74 | -14.3 | -68.0 |
 | 2026-01-21 | Saugus/Peabody | 34 | Gloucester | 26 | +8.5 | +8.0 |
+| 2026-01-21 | Nashoba Valley Tech | 6 | Shawsheen | 74 | -14.3 | -68.0 |
+| 2026-01-21 | Chelmsford | 46 | North Andover | 23 | +9.1 | +23.0 |
 | 2026-01-21 | Danvers | 18 | Beverly | 57 | -4.8 | -39.0 |
+| 2026-01-21 | Holliston | 52 | Northbridge | 27 | +5.3 | +25.0 |
+| 2026-01-21 | Brooks | 33 | St. Sebastian’s | 30 | +0.9 | +3.0 |
+| 2026-01-21 | Westford | 60 | Lincoln-Sudbury | 12 | +10.5 | +48.0 |
 | 2026-01-21 | Hingham | 33 | Duxbury | 47 | -3.5 | -14.0 |
-| 2026-01-19 | St. John’s Prep | 74 | Malden Catholic | 5 | +9.8 | +69.0 |
-| 2026-01-19 | Malden Catholic | 3 | St. John’s (Shrewsbury) | 76 | -2.7 | -73.0 |
-| 2026-01-19 | St. John’s Prep | 72 | BC High | 6 | +9.9 | +66.0 |
-| 2026-01-19 | St. John’s Prep | 63 | Xaverian | 15 | +7.5 | +48.0 |
-| 2026-01-19 | St. John’s Prep | 71 | Catholic Memorial | 11 | +9.5 | +60.0 |
-| 2026-01-19 | Xaverian | 27 | St. John’s (Shrewsbury) | 53 | -1.6 | -26.0 |
-| 2026-01-19 | BC High | 29 | St. John’s (Shrewsbury) | 54 | -7.6 | -25.0 |
-| 2026-01-19 | St. John’s (Shrewsbury) | 63 | Catholic Memorial | 17 | +13.1 | +46.0 |
-| 2026-01-19 | St. John’s Prep | 57 | St. John’s (Shrewsbury) | 18 | -0.4 | +39.0 |
 
 ## Current Elo Ratings
 
