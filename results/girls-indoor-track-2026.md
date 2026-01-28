@@ -1,6 +1,6 @@
 # Girls Indoor Track - 2026 Season
 
-Generated: 2026-01-27 11:21
+Generated: 2026-01-28 11:21
 
 ## Upcoming Games
 
@@ -12,7 +12,7 @@ Generated: 2026-01-27 11:21
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-01-24 | Hingham | 25 | Duxbury | 75 | +2.1 | -50.0 |
-| 2026-01-22 | Milton | 62 | Walpole | 38 | +1.1 | +24.0 |
+| 2026-01-22 | Framingham | 51 | Weymouth | 49 | +3.3 | +2.0 |
 | 2026-01-22 | Dedham | 39 | Holliston | 56 | +3.4 | -17.0 |
 | 2026-01-22 | Taunton | 48 | Sharon | 52 | +1.0 | -4.0 |
 | 2026-01-22 | Stoughton | 50 | North Attleborough | 50 | +2.9 | 0.0 |
@@ -20,18 +20,17 @@ Generated: 2026-01-27 11:21
 | 2026-01-22 | Milford | 14 | King Philip | 82 | +0.9 | -68.0 |
 | 2026-01-22 | Canton | 43 | Foxborough | 57 | +2.1 | -14.0 |
 | 2026-01-22 | Attleboro | 32 | Franklin | 68 | +2.1 | -36.0 |
-| 2026-01-22 | Framingham | 51 | Weymouth | 49 | +3.3 | +2.0 |
+| 2026-01-22 | Milton | 62 | Walpole | 38 | +1.1 | +24.0 |
 | 2026-01-22 | Needham | 41 | Braintree | 59 | -1.1 | -18.0 |
 | 2026-01-22 | Brookline | 36 | Wellesley | 64 | -1.7 | -28.0 |
 | 2026-01-22 | Natick | 33 | Newton North | 67 | -2.4 | -34.0 |
-| 2026-01-21 | Snowden/Quincy Upper | 29 | New Mission | 19 | +6.1 | +10.0 |
+| 2026-01-21 | O’Bryant | 32 | East Boston | 22 | +4.1 | +10.0 |
 | 2026-01-21 | Whitman-Hanson | 23 | Plymouth North | 77 | +3.8 | -54.0 |
 | 2026-01-21 | Whitman-Hanson | 54 | Silver Lake | 41 | +4.4 | +13.0 |
 | 2026-01-21 | Charlestown | 3 | Boston International | 73 | -0.3 | -70.0 |
 | 2026-01-21 | Brighton | 61 | TechBoston | 10 | +2.8 | +51.0 |
 | 2026-01-21 | New Mission | 26 | CASH | 14 | -1.2 | +12.0 |
-| 2026-01-21 | O’Bryant | 32 | East Boston | 22 | +4.1 | +10.0 |
-| 2026-01-20 | Ipswich | 74 | Lynnfield | 26 | +8.7 | +48.0 |
+| 2026-01-21 | Snowden/Quincy Upper | 29 | New Mission | 19 | +6.1 | +10.0 |
 
 ## Current Elo Ratings
 
@@ -79,8 +78,8 @@ Generated: 2026-01-27 11:21
 | 40 | Holliston | 1522.0 |
 | 41 | O’Bryant | 1509.7 |
 | 42 | Newburyport | 1502.8 |
-| 43 | Essex Tech | 1502.8 |
-| 44 | North Reading | 1502.8 |
+| 43 | North Reading | 1502.8 |
+| 44 | Essex Tech | 1502.8 |
 | 45 | Billerica | 1495.9 |
 | 46 | Needham | 1493.8 |
 | 47 | Greater New Bedford | 1491.3 |

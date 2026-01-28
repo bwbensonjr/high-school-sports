@@ -1,6 +1,6 @@
 # Coed Swimming - 2026 Season
 
-Generated: 2026-01-27 11:21
+Generated: 2026-01-28 11:21
 
 ## Upcoming Games
 
@@ -11,23 +11,20 @@ Generated: 2026-01-27 11:21
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-27 | Salem | 89 | Marblehead | 78 | -3.9 | +11.0 |
 | 2026-01-22 | Northeast | 47 | Malden | 90 | +0.6 | -43.0 |
 | 2026-01-22 | Gloucester | 79 | Marblehead | 97 | -1.6 | -18.0 |
 | 2026-01-22 | Brockton | 41 | East Boston | 49 | +6.4 | -8.0 |
 | 2026-01-22 | Latin Academy | 79 | Cambridge | 86 | +10.0 | -7.0 |
-| 2026-01-20 | Lynn Classical | 73 | Medford | 87 | -0.1 | -14.0 |
-| 2026-01-20 | East Boston | 42 | Norwell | 49 | -5.5 | -7.0 |
-| 2026-01-20 | Brockton | 70 | Latin Academy | 91 | -6.8 | -21.0 |
-| 2026-01-20 | St. Mary’s | 48 | O’Bryant | 82 | +0.1 | -34.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Latin Academy | 1652.0 |
-| 2 | Marblehead | 1632.6 |
-| 3 | Malden | 1597.6 |
-| 4 | Medford | 1595.0 |
+| 2 | Malden | 1597.6 |
+| 3 | Medford | 1595.0 |
+| 4 | Marblehead | 1585.2 |
 | 5 | Bishop Feehan | 1563.1 |
 | 6 | Boston Latin | 1556.8 |
 | 7 | Cambridge | 1553.2 |
@@ -35,14 +32,14 @@ Generated: 2026-01-27 11:21
 | 9 | North Andover | 1537.4 |
 | 10 | O’Bryant | 1535.9 |
 | 11 | Methuen/Tewksbury | 1535.0 |
-| 12 | Peabody | 1530.8 |
-| 13 | Catholic Memorial | 1525.1 |
-| 14 | Lynn Tech | 1522.0 |
-| 15 | Danvers | 1502.3 |
-| 16 | Archbishop Williams | 1493.3 |
-| 17 | Somerville | 1489.5 |
-| 18 | Central Catholic | 1486.4 |
-| 19 | Salem | 1486.0 |
+| 12 | Salem | 1533.4 |
+| 13 | Peabody | 1530.8 |
+| 14 | Catholic Memorial | 1525.1 |
+| 15 | Lynn Tech | 1522.0 |
+| 16 | Danvers | 1502.3 |
+| 17 | Archbishop Williams | 1493.3 |
+| 18 | Somerville | 1489.5 |
+| 19 | Central Catholic | 1486.4 |
 | 20 | Lowell | 1483.4 |
 | 21 | Bishop Fenwick | 1478.9 |
 | 22 | Masconomet | 1473.5 |

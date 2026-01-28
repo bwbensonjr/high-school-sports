@@ -62,3 +62,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-23,82975,FINAL,Hamilton-Wenham/Manchester Essex,4163,140.85,1,Peabody,4306,83.9,0,Cape Ann/Northeastern,Independent,,,0
 2026-01-24,82932,FINAL,Hopkinton,4180,138.45,0,MADS,4241,139.6,1,Tri-Valley,Tri-Valley,3:30 P.M.,,0
 2026-01-25,83134,FINAL,Hanover,4164,126.3,0,Whitman-Hanson,4427,132.35,1,Patriot,Patriot,,,0
+2026-01-27,83531,FINAL,North Andover,4283,133,0,Central Catholic,4081,139.35,1,Merrimack Valley,Merrimack Valley,,,0
+2026-01-27,83532,FINAL,Lowell,4216,112.75,0,Central Catholic,4081,139.35,1,Merrimack Valley,Merrimack Valley,,,0
+2026-01-27,83535,FINAL,Lowell,4216,112.75,0,North Andover,4283,133,1,Merrimack Valley,Merrimack Valley,,,0
+2026-01-27,83546,FINAL,Needham,4272,133.55,0,Wellesley,4413,143.4,1,Bay State,Bay State,,,0

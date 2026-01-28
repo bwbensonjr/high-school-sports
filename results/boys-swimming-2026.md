@@ -1,6 +1,6 @@
 # Boys Swimming - 2026 Season
 
-Generated: 2026-01-27 11:21
+Generated: 2026-01-28 11:21
 
 ## Upcoming Games
 
@@ -11,25 +11,18 @@ Generated: 2026-01-27 11:21
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-01-23 | Hingham | 92 | Silver Lake/Whitman-Hanson | 10 | +3.8 | +82.0 |
-| 2026-01-23 | Nashoba | 66 | Gardner | 71 | -1.9 | -5.0 |
-| 2026-01-23 | Stoughton | 46 | Canton | 75 | -4.5 | -29.0 |
-| 2026-01-23 | Westwood | 86 | Xaverian | 99 | +0.9 | -13.0 |
-| 2026-01-23 | Catholic Memorial | 91 | O’Bryant | 75 | +2.9 | +16.0 |
-| 2026-01-23 | Chelmsford | 100 | Andover | 80 | +7.4 | +20.0 |
-| 2026-01-23 | Central Catholic | 67 | Andover | 93 | -7.3 | -26.0 |
 | 2026-01-23 | Central Catholic | 69 | Haverhill | 87 | -4.7 | -18.0 |
-| 2026-01-22 | Hopkinton | 85 | Holliston/Medway | 85 | +4.5 | 0.0 |
+| 2026-01-23 | Central Catholic | 67 | Andover | 93 | -7.3 | -26.0 |
+| 2026-01-23 | Chelmsford | 100 | Andover | 80 | +7.4 | +20.0 |
+| 2026-01-23 | Catholic Memorial | 91 | O’Bryant | 75 | +2.9 | +16.0 |
+| 2026-01-23 | Westwood | 86 | Xaverian | 99 | +0.9 | -13.0 |
+| 2026-01-23 | Stoughton | 46 | Canton | 75 | -4.5 | -29.0 |
+| 2026-01-23 | Nashoba | 66 | Gardner | 71 | -1.9 | -5.0 |
+| 2026-01-23 | Hingham | 92 | Silver Lake/Whitman-Hanson | 10 | +3.8 | +82.0 |
 | 2026-01-22 | Old Rochester | 102 | Seekonk | 74 | +5.1 | +28.0 |
-| 2026-01-21 | Franklin | 46 | Sharon | 105 | -0.3 | -59.0 |
+| 2026-01-22 | Hopkinton | 85 | Holliston/Medway | 85 | +4.5 | 0.0 |
 | 2026-01-21 | Nashoba | 76 | Wachusett | 61 | -0.8 | +15.0 |
-| 2026-01-20 | Andover | 93 | Central Catholic | 67 | +8.3 | +26.0 |
-| 2026-01-20 | Needham | 79 | Wellesley | 103 | +5.4 | -24.0 |
-| 2026-01-20 | Scituate | 59 | Quincy/North Quincy | 110 | -3.2 | -51.0 |
-| 2026-01-20 | Xaverian | 112 | Malden Catholic | 66 | +6.3 | +46.0 |
-| 2026-01-20 | St. John’s (Shrewsbury) | 44 | Xaverian | 124 | -3.5 | -80.0 |
-| 2026-01-20 | Chelmsford | 108 | Haverhill | 72 | +7.7 | +36.0 |
-| 2026-01-20 | Nashoba | 66 | Shrewsbury | 105 | -5.1 | -39.0 |
+| 2026-01-21 | Franklin | 46 | Sharon | 105 | -0.3 | -59.0 |
 
 ## Current Elo Ratings
 

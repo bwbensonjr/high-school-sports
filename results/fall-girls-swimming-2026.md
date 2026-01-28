@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-01-27 11:21
+Generated: 2026-01-28 11:21
 
 ## Upcoming Games
 
@@ -21,8 +21,6 @@ Generated: 2026-01-27 11:21
 | 2026-01-21 | Nantucket | 104 | Apponequet | 66 | +19.6 | +38.0 |
 | 2026-01-21 | Sandwich | 87 | Apponequet | 93 | +5.0 | -6.0 |
 | 2026-01-21 | Franklin | 97 | Sharon | 73 | -1.1 | +24.0 |
-| 2026-01-20 | Nashoba | 98 | Shrewsbury | 68 | +0.1 | +30.0 |
-| 2026-01-20 | Scituate | 89 | Quincy | 81 | -0.9 | +8.0 |
 
 ## Current Elo Ratings
 
