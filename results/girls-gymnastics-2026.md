@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2026 Season
 
-Generated: 2026-01-28 11:21
+Generated: 2026-01-29 11:29
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-01-28 11:21
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-28 | Newton North | 147 | Walpole | 128 | +9.7 | +18.7 |
 | 2026-01-27 | North Andover | 133 | Central Catholic | 139 | +0.1 | -6.3 |
 | 2026-01-27 | Lowell | 112 | Central Catholic | 139 | -4.1 | -26.6 |
 | 2026-01-27 | Lowell | 112 | North Andover | 133 | -1.2 | -20.2 |
@@ -22,14 +23,12 @@ Generated: 2026-01-28 11:21
 | 2026-01-23 | Whitman-Hanson | 131 | Pembroke/Silver Lake | 132 | +2.3 | -0.6 |
 | 2026-01-23 | Hamilton-Wenham/Manchester Essex | 140 | Peabody | 83 | +3.4 | +56.9 |
 | 2026-01-22 | Medford/Somerville | 102 | Malden | 104 | +4.5 | -1.5 |
-| 2026-01-21 | Tewksbury | 130 | Chelmsford/B/T | 135 | +3.4 | -4.5 |
-| 2026-01-21 | Hingham/Hull | 135 | Scituate | 117 | +10.2 | +18.4 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Newton North | 1694.1 |
+| 1 | Newton North | 1711.8 |
 | 2 | Central Catholic | 1643.0 |
 | 3 | Hingham/Hull | 1640.9 |
 | 4 | Andover | 1604.0 |
@@ -61,27 +60,28 @@ Generated: 2026-01-28 11:21
 | 30 | Burlington | 1495.2 |
 | 31 | Salem | 1485.7 |
 | 32 | Winchester | 1485.0 |
-| 33 | Braintree | 1481.3 |
-| 34 | King Philip | 1481.0 |
-| 35 | Melrose | 1479.5 |
-| 36 | Foxborough | 1478.5 |
-| 37 | Marblehead/Swampscott | 1473.8 |
-| 38 | Silver Lake | 1473.1 |
-| 39 | Algonquin | 1469.5 |
-| 40 | Wayland | 1469.3 |
-| 41 | Stoneham | 1466.7 |
-| 42 | Bishop Fenwick | 1466.4 |
-| 43 | Natick | 1464.3 |
-| 44 | Plymouth North/South | 1456.5 |
-| 45 | Peabody | 1455.4 |
-| 46 | Norwood | 1455.0 |
-| 47 | Norton | 1447.9 |
-| 48 | Needham | 1445.6 |
-| 49 | Cohasset/Norwell | 1439.1 |
-| 50 | Framingham | 1427.4 |
-| 51 | Hanover | 1426.2 |
-| 52 | Newton South | 1394.4 |
-| 53 | Scituate | 1386.9 |
-| 54 | Methuen | 1386.7 |
-| 55 | Lowell | 1377.3 |
-| 56 | Dracut | 1369.5 |
+| 33 | Walpole | 1483.9 |
+| 34 | Braintree | 1481.3 |
+| 35 | King Philip | 1481.0 |
+| 36 | Melrose | 1479.5 |
+| 37 | Foxborough | 1478.5 |
+| 38 | Marblehead/Swampscott | 1473.8 |
+| 39 | Silver Lake | 1473.1 |
+| 40 | Algonquin | 1469.5 |
+| 41 | Wayland | 1469.3 |
+| 42 | Stoneham | 1466.7 |
+| 43 | Bishop Fenwick | 1466.4 |
+| 44 | Natick | 1464.3 |
+| 45 | Plymouth North/South | 1456.5 |
+| 46 | Peabody | 1455.4 |
+| 47 | Norwood | 1455.0 |
+| 48 | Norton | 1447.9 |
+| 49 | Needham | 1445.6 |
+| 50 | Cohasset/Norwell | 1439.1 |
+| 51 | Framingham | 1427.4 |
+| 52 | Hanover | 1426.2 |
+| 53 | Newton South | 1394.4 |
+| 54 | Scituate | 1386.9 |
+| 55 | Methuen | 1386.7 |
+| 56 | Lowell | 1377.3 |
+| 57 | Dracut | 1369.5 |

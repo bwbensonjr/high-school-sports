@@ -1,6 +1,6 @@
 # Girls Indoor Track - 2026 Season
 
-Generated: 2026-01-28 11:21
+Generated: 2026-01-29 11:29
 
 ## Upcoming Games
 
@@ -11,26 +11,20 @@ Generated: 2026-01-28 11:21
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-28 | Beverly | 30 | Peabody | 56 | -2.6 | -26.0 |
 | 2026-01-24 | Hingham | 25 | Duxbury | 75 | +2.1 | -50.0 |
-| 2026-01-22 | Framingham | 51 | Weymouth | 49 | +3.3 | +2.0 |
-| 2026-01-22 | Dedham | 39 | Holliston | 56 | +3.4 | -17.0 |
-| 2026-01-22 | Taunton | 48 | Sharon | 52 | +1.0 | -4.0 |
-| 2026-01-22 | Stoughton | 50 | North Attleborough | 50 | +2.9 | 0.0 |
-| 2026-01-22 | Mansfield | 38 | Oliver Ames | 62 | -1.5 | -24.0 |
-| 2026-01-22 | Milford | 14 | King Philip | 82 | +0.9 | -68.0 |
-| 2026-01-22 | Canton | 43 | Foxborough | 57 | +2.1 | -14.0 |
-| 2026-01-22 | Attleboro | 32 | Franklin | 68 | +2.1 | -36.0 |
-| 2026-01-22 | Milton | 62 | Walpole | 38 | +1.1 | +24.0 |
-| 2026-01-22 | Needham | 41 | Braintree | 59 | -1.1 | -18.0 |
-| 2026-01-22 | Brookline | 36 | Wellesley | 64 | -1.7 | -28.0 |
 | 2026-01-22 | Natick | 33 | Newton North | 67 | -2.4 | -34.0 |
-| 2026-01-21 | O’Bryant | 32 | East Boston | 22 | +4.1 | +10.0 |
-| 2026-01-21 | Whitman-Hanson | 23 | Plymouth North | 77 | +3.8 | -54.0 |
-| 2026-01-21 | Whitman-Hanson | 54 | Silver Lake | 41 | +4.4 | +13.0 |
-| 2026-01-21 | Charlestown | 3 | Boston International | 73 | -0.3 | -70.0 |
-| 2026-01-21 | Brighton | 61 | TechBoston | 10 | +2.8 | +51.0 |
-| 2026-01-21 | New Mission | 26 | CASH | 14 | -1.2 | +12.0 |
-| 2026-01-21 | Snowden/Quincy Upper | 29 | New Mission | 19 | +6.1 | +10.0 |
+| 2026-01-22 | Brookline | 36 | Wellesley | 64 | -1.7 | -28.0 |
+| 2026-01-22 | Needham | 41 | Braintree | 59 | -1.1 | -18.0 |
+| 2026-01-22 | Milton | 62 | Walpole | 38 | +1.1 | +24.0 |
+| 2026-01-22 | Framingham | 51 | Weymouth | 49 | +3.3 | +2.0 |
+| 2026-01-22 | Attleboro | 32 | Franklin | 68 | +2.1 | -36.0 |
+| 2026-01-22 | Canton | 43 | Foxborough | 57 | +2.1 | -14.0 |
+| 2026-01-22 | Milford | 14 | King Philip | 82 | +0.9 | -68.0 |
+| 2026-01-22 | Mansfield | 38 | Oliver Ames | 62 | -1.5 | -24.0 |
+| 2026-01-22 | Stoughton | 50 | North Attleborough | 50 | +2.9 | 0.0 |
+| 2026-01-22 | Taunton | 48 | Sharon | 52 | +1.0 | -4.0 |
+| 2026-01-22 | Dedham | 39 | Holliston | 56 | +3.4 | -17.0 |
 
 ## Current Elo Ratings
 
@@ -39,11 +33,11 @@ Generated: 2026-01-28 11:21
 | 1 | St. Mary’s | 1769.1 |
 | 2 | Newton North | 1721.3 |
 | 3 | Cardinal Spellman | 1668.5 |
-| 4 | Braintree | 1653.0 |
-| 5 | Ipswich | 1642.8 |
-| 6 | Seekonk | 1633.5 |
-| 7 | Boston International | 1623.5 |
-| 8 | Peabody | 1617.6 |
+| 4 | Peabody | 1657.9 |
+| 5 | Braintree | 1653.0 |
+| 6 | Ipswich | 1642.8 |
+| 7 | Seekonk | 1633.5 |
+| 8 | Boston International | 1623.5 |
 | 9 | Central Catholic | 1615.4 |
 | 10 | Dennis-Yarmouth | 1608.5 |
 | 11 | Bishop Feehan | 1608.1 |
@@ -77,9 +71,9 @@ Generated: 2026-01-28 11:21
 | 39 | Natick | 1523.1 |
 | 40 | Holliston | 1522.0 |
 | 41 | O’Bryant | 1509.7 |
-| 42 | Newburyport | 1502.8 |
-| 43 | North Reading | 1502.8 |
-| 44 | Essex Tech | 1502.8 |
+| 42 | Essex Tech | 1502.8 |
+| 43 | Newburyport | 1502.8 |
+| 44 | North Reading | 1502.8 |
 | 45 | Billerica | 1495.9 |
 | 46 | Needham | 1493.8 |
 | 47 | Greater New Bedford | 1491.3 |
@@ -101,36 +95,37 @@ Generated: 2026-01-28 11:21
 | 63 | Bishop Fenwick | 1467.5 |
 | 64 | New Mission | 1465.1 |
 | 65 | Danvers | 1464.3 |
-| 66 | CASH | 1461.0 |
-| 67 | West Bridgewater | 1460.7 |
-| 68 | Wareham | 1458.3 |
-| 69 | Madison Park | 1457.5 |
-| 70 | Swampscott | 1455.9 |
-| 71 | Pentucket | 1455.2 |
-| 72 | TechBoston | 1455.1 |
-| 73 | Bishop Stang | 1453.5 |
-| 74 | St. John Paul II | 1451.2 |
-| 75 | Dedham | 1449.1 |
-| 76 | Salem | 1447.6 |
-| 77 | North Attleborough | 1446.8 |
-| 78 | Fairhaven | 1446.7 |
-| 79 | Hamilton-Wenham | 1446.6 |
-| 80 | Amesbury | 1444.8 |
-| 81 | Charlestown | 1440.3 |
-| 82 | Millis | 1437.9 |
-| 83 | Hingham | 1437.3 |
-| 84 | Milford | 1435.2 |
-| 85 | Silver Lake | 1431.7 |
-| 86 | Apponequet | 1431.0 |
-| 87 | Mansfield | 1428.5 |
-| 88 | Lynnfield | 1423.1 |
-| 89 | Walpole | 1419.0 |
-| 90 | Attleboro | 1415.2 |
-| 91 | Ursuline | 1412.4 |
-| 92 | East Boston | 1406.8 |
-| 93 | Brookline | 1406.8 |
-| 94 | Framingham | 1397.0 |
-| 95 | Fontbonne | 1355.9 |
-| 96 | Weymouth | 1340.3 |
-| 97 | North Andover | 1328.3 |
-| 98 | Cristo Rey | 1237.1 |
+| 66 | Beverly | 1462.4 |
+| 67 | CASH | 1461.0 |
+| 68 | West Bridgewater | 1460.7 |
+| 69 | Wareham | 1458.3 |
+| 70 | Madison Park | 1457.5 |
+| 71 | Swampscott | 1455.9 |
+| 72 | Pentucket | 1455.2 |
+| 73 | TechBoston | 1455.1 |
+| 74 | Bishop Stang | 1453.5 |
+| 75 | St. John Paul II | 1451.2 |
+| 76 | Dedham | 1449.1 |
+| 77 | Salem | 1447.6 |
+| 78 | North Attleborough | 1446.8 |
+| 79 | Fairhaven | 1446.7 |
+| 80 | Hamilton-Wenham | 1446.6 |
+| 81 | Amesbury | 1444.8 |
+| 82 | Charlestown | 1440.3 |
+| 83 | Millis | 1437.9 |
+| 84 | Hingham | 1437.3 |
+| 85 | Milford | 1435.2 |
+| 86 | Silver Lake | 1431.7 |
+| 87 | Apponequet | 1431.0 |
+| 88 | Mansfield | 1428.5 |
+| 89 | Lynnfield | 1423.1 |
+| 90 | Walpole | 1419.0 |
+| 91 | Attleboro | 1415.2 |
+| 92 | Ursuline | 1412.4 |
+| 93 | East Boston | 1406.8 |
+| 94 | Brookline | 1406.8 |
+| 95 | Framingham | 1397.0 |
+| 96 | Fontbonne | 1355.9 |
+| 97 | Weymouth | 1340.3 |
+| 98 | North Andover | 1328.3 |
+| 99 | Cristo Rey | 1237.1 |
