@@ -1,6 +1,6 @@
 # Boys Swimming - 2026 Season
 
-Generated: 2026-01-29 11:29
+Generated: 2026-01-30 11:26
 
 ## Upcoming Games
 
@@ -11,6 +11,10 @@ Generated: 2026-01-29 11:29
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-29 | Old Rochester | 331 | Seekonk | 348 | +7.7 | -17.0 |
+| 2026-01-29 | Apponequet/Old Colony | 273 | Seekonk | 348 | +4.1 | -75.0 |
+| 2026-01-29 | Apponequet/Old Colony | 273 | Old Rochester | 331 | +0.3 | -58.0 |
+| 2026-01-29 | Marblehead | 92 | Swampscott | 75 | +2.0 | +17.0 |
 | 2026-01-28 | Nauset | 50 | Sandwich | 83 | +0.2 | -33.0 |
 | 2026-01-28 | Hingham | 68 | Quincy/North Quincy | 97 | -1.3 | -29.0 |
 | 2026-01-28 | Durfee | 52 | Sharon | 102 | -1.9 | -50.0 |
@@ -22,8 +26,6 @@ Generated: 2026-01-29 11:29
 | 2026-01-23 | Stoughton | 46 | Canton | 75 | -4.5 | -29.0 |
 | 2026-01-23 | Nashoba | 66 | Gardner | 71 | -1.9 | -5.0 |
 | 2026-01-23 | Hingham | 92 | Silver Lake/Whitman-Hanson | 10 | +3.8 | +82.0 |
-| 2026-01-22 | Old Rochester | 102 | Seekonk | 74 | +5.1 | +28.0 |
-| 2026-01-22 | Hopkinton | 85 | Holliston/Medway | 85 | +4.5 | 0.0 |
 
 ## Current Elo Ratings
 
@@ -34,13 +36,13 @@ Generated: 2026-01-29 11:29
 | 3 | Xaverian | 1696.3 |
 | 4 | Sharon | 1669.3 |
 | 5 | Martha’s Vineyard | 1647.6 |
-| 6 | Shrewsbury | 1609.0 |
-| 7 | Old Rochester | 1604.2 |
+| 6 | Seekonk | 1610.7 |
+| 7 | Shrewsbury | 1609.0 |
 | 8 | Westford | 1601.5 |
-| 9 | Nantucket | 1597.9 |
-| 10 | St. John’s Prep | 1594.3 |
-| 11 | Westwood | 1584.0 |
-| 12 | Apponequet/Old Colony | 1580.3 |
+| 9 | Old Rochester | 1601.5 |
+| 10 | Nantucket | 1597.9 |
+| 11 | St. John’s Prep | 1594.3 |
+| 12 | Westwood | 1584.0 |
 | 13 | Canton | 1568.1 |
 | 14 | Advanced Math and Science | 1567.7 |
 | 15 | Bishop Feehan | 1567.6 |
@@ -51,56 +53,58 @@ Generated: 2026-01-29 11:29
 | 20 | New Bedford | 1546.9 |
 | 21 | North Attleborough | 1546.3 |
 | 22 | Sandwich | 1545.1 |
-| 23 | Winchester | 1535.5 |
-| 24 | Weston | 1534.6 |
-| 25 | Duxbury | 1530.9 |
-| 26 | Andover | 1527.4 |
-| 27 | Oliver Ames | 1527.3 |
-| 28 | Wayland | 1526.5 |
-| 29 | Ashland | 1525.4 |
-| 30 | Gardner | 1524.8 |
-| 31 | Bridgewater-Raynham | 1522.7 |
-| 32 | Brookline | 1521.5 |
-| 33 | Haverhill | 1518.4 |
-| 34 | Mansfield | 1507.9 |
-| 35 | Concord-Carlisle | 1506.6 |
-| 36 | Hopkinton | 1501.7 |
-| 37 | Westborough | 1495.7 |
-| 38 | Natick | 1494.1 |
-| 39 | Acton-Boxborough | 1489.6 |
-| 40 | Latin Academy | 1489.0 |
-| 41 | Foxborough | 1485.0 |
-| 42 | Wellesley | 1482.8 |
-| 43 | Malden Catholic | 1480.9 |
-| 44 | Dedham | 1477.5 |
-| 45 | Bishop Stang | 1476.1 |
-| 46 | Lincoln-Sudbury | 1473.1 |
-| 47 | Durfee | 1469.7 |
-| 48 | Newton South | 1468.7 |
-| 49 | Lexington | 1468.5 |
-| 50 | O’Bryant | 1467.9 |
-| 51 | Melrose | 1467.8 |
-| 52 | BC High | 1463.2 |
-| 53 | Seekonk | 1461.8 |
-| 54 | Cardinal Spellman | 1459.9 |
-| 55 | Scituate | 1456.0 |
-| 56 | Silver Lake/Whitman-Hanson | 1453.0 |
-| 57 | Attleboro | 1445.1 |
-| 58 | Franklin | 1441.4 |
-| 59 | Holliston/Medway | 1439.1 |
-| 60 | Boston Latin | 1437.4 |
-| 61 | Needham | 1435.5 |
-| 62 | Marshfield/Hanover | 1432.7 |
-| 63 | Plymouth North/South | 1431.9 |
-| 64 | Brockton | 1429.2 |
-| 65 | Taunton | 1417.3 |
-| 66 | Barnstable | 1415.6 |
-| 67 | Pembroke | 1409.5 |
-| 68 | Norwell | 1408.5 |
-| 69 | Nauset | 1392.6 |
-| 70 | Wachusett | 1386.0 |
-| 71 | St. John’s (Shrewsbury) | 1384.3 |
-| 72 | Nashoba | 1380.1 |
-| 73 | Medfield | 1363.2 |
-| 74 | Stoughton | 1335.5 |
-| 75 | Central Catholic | 1266.3 |
+| 23 | Marblehead | 1538.8 |
+| 24 | Winchester | 1535.5 |
+| 25 | Weston | 1534.6 |
+| 26 | Duxbury | 1530.9 |
+| 27 | Andover | 1527.4 |
+| 28 | Oliver Ames | 1527.3 |
+| 29 | Wayland | 1526.5 |
+| 30 | Ashland | 1525.4 |
+| 31 | Gardner | 1524.8 |
+| 32 | Bridgewater-Raynham | 1522.7 |
+| 33 | Brookline | 1521.5 |
+| 34 | Haverhill | 1518.4 |
+| 35 | Mansfield | 1507.9 |
+| 36 | Concord-Carlisle | 1506.6 |
+| 37 | Hopkinton | 1501.7 |
+| 38 | Westborough | 1495.7 |
+| 39 | Natick | 1494.1 |
+| 40 | Acton-Boxborough | 1489.6 |
+| 41 | Latin Academy | 1489.0 |
+| 42 | Foxborough | 1485.0 |
+| 43 | Wellesley | 1482.8 |
+| 44 | Malden Catholic | 1480.9 |
+| 45 | Dedham | 1477.5 |
+| 46 | Bishop Stang | 1476.1 |
+| 47 | Lincoln-Sudbury | 1473.1 |
+| 48 | Durfee | 1469.7 |
+| 49 | Newton South | 1468.7 |
+| 50 | Lexington | 1468.5 |
+| 51 | O’Bryant | 1467.9 |
+| 52 | Melrose | 1467.8 |
+| 53 | Swampscott | 1464.5 |
+| 54 | BC High | 1463.2 |
+| 55 | Cardinal Spellman | 1459.9 |
+| 56 | Scituate | 1456.0 |
+| 57 | Silver Lake/Whitman-Hanson | 1453.0 |
+| 58 | Attleboro | 1445.1 |
+| 59 | Franklin | 1441.4 |
+| 60 | Holliston/Medway | 1439.1 |
+| 61 | Boston Latin | 1437.4 |
+| 62 | Needham | 1435.5 |
+| 63 | Apponequet/Old Colony | 1434.1 |
+| 64 | Marshfield/Hanover | 1432.7 |
+| 65 | Plymouth North/South | 1431.9 |
+| 66 | Brockton | 1429.2 |
+| 67 | Taunton | 1417.3 |
+| 68 | Barnstable | 1415.6 |
+| 69 | Pembroke | 1409.5 |
+| 70 | Norwell | 1408.5 |
+| 71 | Nauset | 1392.6 |
+| 72 | Wachusett | 1386.0 |
+| 73 | St. John’s (Shrewsbury) | 1384.3 |
+| 74 | Nashoba | 1380.1 |
+| 75 | Medfield | 1363.2 |
+| 76 | Stoughton | 1335.5 |
+| 77 | Central Catholic | 1266.3 |

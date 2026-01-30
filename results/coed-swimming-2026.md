@@ -1,6 +1,6 @@
 # Coed Swimming - 2026 Season
 
-Generated: 2026-01-29 11:29
+Generated: 2026-01-30 11:26
 
 ## Upcoming Games
 
@@ -12,10 +12,6 @@ Generated: 2026-01-29 11:29
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-01-27 | Salem | 89 | Marblehead | 78 | -3.9 | +11.0 |
-| 2026-01-22 | Northeast | 47 | Malden | 90 | +0.6 | -43.0 |
-| 2026-01-22 | Gloucester | 79 | Marblehead | 97 | -1.6 | -18.0 |
-| 2026-01-22 | Brockton | 41 | East Boston | 49 | +6.4 | -8.0 |
-| 2026-01-22 | Latin Academy | 79 | Cambridge | 86 | +10.0 | -7.0 |
 
 ## Current Elo Ratings
 

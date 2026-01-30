@@ -1,6 +1,6 @@
 # Boys Indoor Track - 2026 Season
 
-Generated: 2026-01-29 11:29
+Generated: 2026-01-30 11:26
 
 ## Upcoming Games
 
@@ -13,18 +13,12 @@ Generated: 2026-01-29 11:29
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-29 | O’Bryant | 64 | Latin Academy | 35 | +2.4 | +29.0 |
+| 2026-01-29 | TechBoston | 73 | East Boston | 18 | +7.6 | +55.0 |
+| 2026-01-29 | New Mission | 26 | Charlestown | 18 | +1.2 | +8.0 |
+| 2026-01-29 | Snowden/Quincy Upper | 58 | CASH | 11 | +9.2 | +47.0 |
+| 2026-01-29 | Boston International | 45 | Madison Park | 28 | +4.8 | +17.0 |
 | 2026-01-24 | Hingham | 46 | Duxbury | 54 | +5.7 | -8.0 |
-| 2026-01-22 | Natick | 27 | Newton North | 72 | +2.5 | -45.0 |
-| 2026-01-22 | Brookline | 72 | Wellesley | 28 | +7.7 | +44.0 |
-| 2026-01-22 | Needham | 48 | Braintree | 52 | -0.9 | -4.0 |
-| 2026-01-22 | Milton | 40 | Walpole | 60 | -8.4 | -20.0 |
-| 2026-01-22 | Weymouth | 56 | Framingham | 44 | +8.2 | +12.0 |
-| 2026-01-22 | Franklin | 32 | Attleboro | 68 | +1.0 | -36.0 |
-| 2026-01-22 | Foxborough | 42 | Canton | 58 | +1.3 | -16.0 |
-| 2026-01-22 | Milford | 25 | King Philip | 74 | +2.4 | -49.0 |
-| 2026-01-22 | Mansfield | 47 | Oliver Ames | 52 | +4.8 | -5.0 |
-| 2026-01-22 | North Attleborough | 15 | Stoughton | 85 | -7.4 | -70.0 |
-| 2026-01-22 | Taunton | 46 | Sharon | 54 | +4.9 | -8.0 |
 
 ## Current Elo Ratings
 
@@ -34,24 +28,24 @@ Generated: 2026-01-29 11:29
 | 2 | Walpole | 1694.1 |
 | 3 | St. Mary’s | 1689.9 |
 | 4 | Stoughton | 1675.6 |
-| 5 | Brookline | 1662.3 |
-| 6 | Snowden/Quincy Upper | 1640.8 |
-| 7 | Hanover | 1620.8 |
-| 8 | Cardinal Spellman | 1616.3 |
-| 9 | Oliver Ames | 1601.2 |
-| 10 | Mansfield | 1599.3 |
-| 11 | Newton North | 1596.3 |
-| 12 | Archbishop Williams | 1593.0 |
-| 13 | O’Bryant | 1584.0 |
-| 14 | Bishop Feehan | 1584.0 |
-| 15 | Old Rochester | 1583.8 |
-| 16 | Dover-Sherborn | 1577.7 |
-| 17 | Franklin | 1576.8 |
-| 18 | Latin Academy | 1574.1 |
-| 19 | Amesbury | 1570.2 |
-| 20 | Joseph Case | 1567.8 |
-| 21 | Holliston | 1561.6 |
-| 22 | Boston International | 1561.1 |
+| 5 | Snowden/Quincy Upper | 1665.3 |
+| 6 | Brookline | 1662.3 |
+| 7 | O’Bryant | 1626.3 |
+| 8 | Hanover | 1620.8 |
+| 9 | Cardinal Spellman | 1616.3 |
+| 10 | Oliver Ames | 1601.2 |
+| 11 | Mansfield | 1599.3 |
+| 12 | Newton North | 1596.3 |
+| 13 | Archbishop Williams | 1593.0 |
+| 14 | Boston International | 1590.2 |
+| 15 | Bishop Feehan | 1584.0 |
+| 16 | Old Rochester | 1583.8 |
+| 17 | Dover-Sherborn | 1577.7 |
+| 18 | Franklin | 1576.8 |
+| 19 | TechBoston | 1571.3 |
+| 20 | Amesbury | 1570.2 |
+| 21 | Joseph Case | 1567.8 |
+| 22 | Holliston | 1561.6 |
 | 23 | Lowell | 1557.7 |
 | 24 | Gloucester | 1550.8 |
 | 25 | Dennis-Yarmouth | 1550.6 |
@@ -59,8 +53,8 @@ Generated: 2026-01-29 11:29
 | 27 | Duxbury | 1548.6 |
 | 28 | Greater New Bedford | 1546.9 |
 | 29 | Weymouth | 1546.4 |
-| 30 | TechBoston | 1541.1 |
-| 31 | King Philip | 1531.9 |
+| 30 | King Philip | 1531.9 |
+| 31 | Latin Academy | 1531.8 |
 | 32 | Norton | 1531.2 |
 | 33 | Marshfield | 1531.1 |
 | 34 | Marblehead | 1530.3 |
@@ -71,100 +65,100 @@ Generated: 2026-01-29 11:29
 | 39 | Seekonk | 1520.2 |
 | 40 | Ipswich | 1516.0 |
 | 41 | Lynnfield | 1512.2 |
-| 42 | Melrose | 1502.8 |
-| 43 | Randolph | 1502.8 |
-| 44 | Sandwich | 1502.8 |
-| 45 | North Reading | 1502.8 |
-| 46 | Stoneham | 1502.8 |
-| 47 | Hull | 1502.8 |
-| 48 | Reading | 1502.8 |
-| 49 | St. John Paul II | 1502.8 |
-| 50 | Wakefield | 1502.8 |
-| 51 | Lynn English | 1502.8 |
-| 52 | Burlington | 1502.8 |
-| 53 | Concord-Carlisle | 1502.8 |
-| 54 | Revere | 1502.8 |
-| 55 | Boston Latin | 1502.8 |
-| 56 | Nantucket | 1502.8 |
-| 57 | Andover | 1502.8 |
-| 58 | Wayland | 1502.8 |
-| 59 | Falmouth | 1502.8 |
-| 60 | Winchester | 1502.8 |
-| 61 | Waltham | 1502.8 |
-| 62 | Danvers | 1502.8 |
-| 63 | Bellingham | 1502.8 |
-| 64 | Bedford | 1502.8 |
-| 65 | Monomoy | 1502.8 |
-| 66 | Somerville | 1502.8 |
-| 67 | Norwell | 1502.8 |
-| 68 | Cambridge | 1502.8 |
-| 69 | Wilmington | 1502.8 |
-| 70 | Newburyport | 1502.8 |
-| 71 | Westford | 1502.8 |
-| 72 | Lincoln-Sudbury | 1502.8 |
-| 73 | Mashpee | 1502.8 |
-| 74 | Rockland | 1502.8 |
-| 75 | Middleborough | 1502.8 |
-| 76 | Carver | 1502.8 |
-| 77 | Bourne | 1502.8 |
-| 78 | Malden | 1502.8 |
-| 79 | Watertown | 1502.8 |
+| 42 | Waltham | 1502.8 |
+| 43 | Falmouth | 1502.8 |
+| 44 | Mashpee | 1502.8 |
+| 45 | Reading | 1502.8 |
+| 46 | Newburyport | 1502.8 |
+| 47 | Bedford | 1502.8 |
+| 48 | Rockland | 1502.8 |
+| 49 | Wilmington | 1502.8 |
+| 50 | Malden | 1502.8 |
+| 51 | St. John Paul II | 1502.8 |
+| 52 | Somerville | 1502.8 |
+| 53 | Carver | 1502.8 |
+| 54 | Middleborough | 1502.8 |
+| 55 | Sandwich | 1502.8 |
+| 56 | Bourne | 1502.8 |
+| 57 | Boston Latin | 1502.8 |
+| 58 | Norwell | 1502.8 |
+| 59 | Essex Tech | 1502.8 |
+| 60 | Lincoln-Sudbury | 1502.8 |
+| 61 | Melrose | 1502.8 |
+| 62 | Belmont | 1502.8 |
+| 63 | Randolph | 1502.8 |
+| 64 | Cambridge | 1502.8 |
+| 65 | Ashland | 1502.8 |
+| 66 | Abington | 1502.8 |
+| 67 | Westwood | 1502.8 |
+| 68 | Lexington | 1502.8 |
+| 69 | Westford | 1502.8 |
+| 70 | Hopkinton | 1502.8 |
+| 71 | Chelsea | 1502.8 |
+| 72 | Winchester | 1502.8 |
+| 73 | Newton South | 1502.8 |
+| 74 | Woburn | 1502.8 |
+| 75 | Danvers | 1502.8 |
+| 76 | Lynn English | 1502.8 |
+| 77 | Monomoy | 1502.8 |
+| 78 | Nantucket | 1502.8 |
+| 79 | Stoneham | 1502.8 |
 | 80 | Dedham | 1502.8 |
-| 81 | Belmont | 1502.8 |
-| 82 | Abington | 1502.8 |
-| 83 | Essex Tech | 1502.8 |
-| 84 | Lexington | 1502.8 |
-| 85 | Arlington | 1502.8 |
-| 86 | Woburn | 1502.8 |
-| 87 | Ashland | 1502.8 |
-| 88 | Hopkinton | 1502.8 |
-| 89 | Medway | 1502.8 |
-| 90 | Chelsea | 1502.8 |
-| 91 | Weston | 1502.8 |
-| 92 | Newton South | 1502.8 |
-| 93 | Westwood | 1502.8 |
-| 94 | Lynn Classical | 1502.8 |
-| 95 | Madison Park | 1491.8 |
-| 96 | Tri-County | 1484.3 |
-| 97 | Triton | 1482.1 |
-| 98 | Martha’s Vineyard | 1480.7 |
-| 99 | Braintree | 1480.1 |
-| 100 | Nauset | 1477.0 |
-| 101 | Peabody | 1475.2 |
-| 102 | Billerica | 1474.4 |
-| 103 | Medfield | 1474.3 |
-| 104 | Somerset Berkley | 1473.5 |
-| 105 | Natick | 1472.8 |
-| 106 | Dighton-Rehoboth | 1468.4 |
-| 107 | Manchester Essex | 1463.6 |
-| 108 | Wellesley | 1463.6 |
-| 109 | CASH | 1461.9 |
-| 110 | West Bridgewater | 1461.9 |
-| 111 | Fairhaven | 1461.1 |
-| 112 | Salem | 1454.7 |
-| 113 | North Andover | 1454.0 |
-| 114 | Hamilton-Wenham | 1451.8 |
-| 115 | Arlington Catholic | 1451.1 |
-| 116 | Bishop Stang | 1450.9 |
+| 81 | Hull | 1502.8 |
+| 82 | Watertown | 1502.8 |
+| 83 | Andover | 1502.8 |
+| 84 | Bellingham | 1502.8 |
+| 85 | Burlington | 1502.8 |
+| 86 | North Reading | 1502.8 |
+| 87 | Wakefield | 1502.8 |
+| 88 | Arlington | 1502.8 |
+| 89 | Revere | 1502.8 |
+| 90 | Weston | 1502.8 |
+| 91 | Lynn Classical | 1502.8 |
+| 92 | Concord-Carlisle | 1502.8 |
+| 93 | Medway | 1502.8 |
+| 94 | Wayland | 1502.8 |
+| 95 | Tri-County | 1484.3 |
+| 96 | Triton | 1482.1 |
+| 97 | Martha’s Vineyard | 1480.7 |
+| 98 | Braintree | 1480.1 |
+| 99 | Nauset | 1477.0 |
+| 100 | Peabody | 1475.2 |
+| 101 | Billerica | 1474.4 |
+| 102 | Medfield | 1474.3 |
+| 103 | Somerset Berkley | 1473.5 |
+| 104 | Natick | 1472.8 |
+| 105 | Dighton-Rehoboth | 1468.4 |
+| 106 | Manchester Essex | 1463.6 |
+| 107 | Wellesley | 1463.6 |
+| 108 | Madison Park | 1462.8 |
+| 109 | West Bridgewater | 1461.9 |
+| 110 | Fairhaven | 1461.1 |
+| 111 | Salem | 1454.7 |
+| 112 | North Andover | 1454.0 |
+| 113 | Hamilton-Wenham | 1451.8 |
+| 114 | Arlington Catholic | 1451.1 |
+| 115 | Bishop Stang | 1450.9 |
+| 116 | New Mission | 1450.3 |
 | 117 | Silver Lake | 1447.6 |
 | 118 | Scituate | 1445.6 |
 | 119 | Wareham | 1445.1 |
 | 120 | Norwood | 1443.9 |
 | 121 | North Quincy/Quincy | 1441.8 |
 | 122 | Apponequet | 1441.1 |
-| 123 | Charlestown | 1440.8 |
-| 124 | Canton | 1437.9 |
+| 123 | Canton | 1437.9 |
+| 124 | CASH | 1437.4 |
 | 125 | Whitman-Hanson | 1436.6 |
 | 126 | Millis | 1427.8 |
-| 127 | New Mission | 1420.1 |
-| 128 | Brighton | 1414.0 |
+| 127 | Brighton | 1414.0 |
+| 128 | Charlestown | 1410.6 |
 | 129 | Milford | 1404.0 |
-| 130 | East Boston | 1400.7 |
-| 131 | Sharon | 1399.9 |
-| 132 | Milton | 1392.8 |
-| 133 | Taunton | 1385.2 |
-| 134 | North Attleborough | 1375.7 |
-| 135 | Bishop Fenwick | 1371.4 |
+| 130 | Sharon | 1399.9 |
+| 131 | Milton | 1392.8 |
+| 132 | Taunton | 1385.2 |
+| 133 | North Attleborough | 1375.7 |
+| 134 | Bishop Fenwick | 1371.4 |
+| 135 | East Boston | 1370.4 |
 | 136 | Needham | 1363.1 |
 | 137 | Framingham | 1356.0 |
 | 138 | Foxborough | 1326.8 |

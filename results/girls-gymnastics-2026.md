@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2026 Season
 
-Generated: 2026-01-29 11:29
+Generated: 2026-01-30 11:26
 
 ## Upcoming Games
 
@@ -11,6 +11,9 @@ Generated: 2026-01-29 11:29
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-29 | Hanover | 124 | Scituate | 121 | +3.6 | +3.8 |
+| 2026-01-29 | Lowell | 99 | Haverhill | 131 | -3.4 | -31.3 |
+| 2026-01-29 | Haverhill | 131 | Tewksbury | 129 | +3.1 | +1.9 |
 | 2026-01-28 | Newton North | 147 | Walpole | 128 | +9.7 | +18.7 |
 | 2026-01-27 | North Andover | 133 | Central Catholic | 139 | +0.1 | -6.3 |
 | 2026-01-27 | Lowell | 112 | Central Catholic | 139 | -4.1 | -26.6 |
@@ -22,7 +25,6 @@ Generated: 2026-01-29 11:29
 | 2026-01-23 | Needham | 127 | Newton North | 144 | -3.8 | -17.2 |
 | 2026-01-23 | Whitman-Hanson | 131 | Pembroke/Silver Lake | 132 | +2.3 | -0.6 |
 | 2026-01-23 | Hamilton-Wenham/Manchester Essex | 140 | Peabody | 83 | +3.4 | +56.9 |
-| 2026-01-22 | Medford/Somerville | 102 | Malden | 104 | +4.5 | -1.5 |
 
 ## Current Elo Ratings
 
@@ -34,26 +36,26 @@ Generated: 2026-01-29 11:29
 | 4 | Andover | 1604.0 |
 | 5 | Hamilton-Wenham/Manchester Essex | 1583.1 |
 | 6 | Marshfield | 1572.3 |
-| 7 | Westford | 1561.5 |
-| 8 | Chelmsford/B/T | 1554.6 |
-| 9 | Wilmington/Bedford | 1553.2 |
-| 10 | Hopkinton | 1546.8 |
-| 11 | Medford/Somerville | 1546.1 |
-| 12 | Mansfield | 1545.5 |
-| 13 | Brockton/Spellman/Stoughton | 1541.7 |
-| 14 | North Andover | 1541.6 |
-| 15 | Wellesley | 1540.8 |
-| 16 | Whitman-Hanson | 1537.8 |
-| 17 | Medway/Milford/Millis | 1537.5 |
-| 18 | Marlborough | 1533.8 |
-| 19 | Reading | 1530.2 |
-| 20 | Beverly | 1529.5 |
-| 21 | Tewksbury | 1525.6 |
+| 7 | Haverhill | 1564.3 |
+| 8 | Westford | 1561.5 |
+| 9 | Chelmsford/B/T | 1554.6 |
+| 10 | Wilmington/Bedford | 1553.2 |
+| 11 | Hopkinton | 1546.8 |
+| 12 | Medford/Somerville | 1546.1 |
+| 13 | Mansfield | 1545.5 |
+| 14 | Brockton/Spellman/Stoughton | 1541.7 |
+| 15 | North Andover | 1541.6 |
+| 16 | Wellesley | 1540.8 |
+| 17 | Whitman-Hanson | 1537.8 |
+| 18 | Medway/Milford/Millis | 1537.5 |
+| 19 | Marlborough | 1533.8 |
+| 20 | Reading | 1530.2 |
+| 21 | Beverly | 1529.5 |
 | 22 | Bridgewater-Raynham/West Bridgewater | 1524.2 |
 | 23 | Malden | 1519.7 |
 | 24 | Pembroke/Silver Lake | 1519.5 |
 | 25 | MADS | 1516.7 |
-| 26 | Haverhill | 1512.4 |
+| 26 | Tewksbury | 1513.3 |
 | 27 | Wakefield | 1502.5 |
 | 28 | Arlington | 1500.8 |
 | 29 | Middleborough | 1495.6 |
@@ -77,11 +79,11 @@ Generated: 2026-01-29 11:29
 | 47 | Norwood | 1455.0 |
 | 48 | Norton | 1447.9 |
 | 49 | Needham | 1445.6 |
-| 50 | Cohasset/Norwell | 1439.1 |
-| 51 | Framingham | 1427.4 |
-| 52 | Hanover | 1426.2 |
+| 50 | Hanover | 1443.8 |
+| 51 | Cohasset/Norwell | 1439.1 |
+| 52 | Framingham | 1427.4 |
 | 53 | Newton South | 1394.4 |
-| 54 | Scituate | 1386.9 |
-| 55 | Methuen | 1386.7 |
-| 56 | Lowell | 1377.3 |
-| 57 | Dracut | 1369.5 |
+| 54 | Methuen | 1386.7 |
+| 55 | Dracut | 1369.5 |
+| 56 | Scituate | 1369.2 |
+| 57 | Lowell | 1337.7 |

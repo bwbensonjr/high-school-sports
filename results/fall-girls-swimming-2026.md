@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-01-29 11:29
+Generated: 2026-01-30 11:26
 
 ## Upcoming Games
 
@@ -11,6 +11,9 @@ Generated: 2026-01-29 11:29
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-29 | Apponequet | 354 | Seekonk | 422 | -4.2 | -68.0 |
+| 2026-01-29 | Old Rochester | 223 | Seekonk | 422 | -17.6 | -199.0 |
+| 2026-01-29 | Old Rochester | 223 | Apponequet | 354 | -1.4 | -131.0 |
 | 2026-01-28 | Sandwich | 128 | Nauset | 34 | +16.4 | +94.0 |
 | 2026-01-28 | Hingham | 86 | Quincy | 84 | +11.2 | +2.0 |
 | 2026-01-28 | Durfee | 52 | Sharon | 113 | -2.4 | -61.0 |
@@ -18,16 +21,14 @@ Generated: 2026-01-29 11:29
 | 2026-01-23 | Stoughton | 67 | Canton | 89 | +4.4 | -22.0 |
 | 2026-01-23 | Nashoba | 91 | Gardner | 77 | +14.0 | +14.0 |
 | 2026-01-23 | Hingham | 92 | Silver Lake/Whitman-Hanson | 52 | +9.6 | +40.0 |
-| 2026-01-22 | Old Rochester | 65 | Seekonk | 85 | -3.9 | -20.0 |
-| 2026-01-22 | Holliston/Medway | 58 | Hopkinton | 94 | -4.5 | -36.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Nantucket | 1695.1 |
-| 2 | Andover | 1630.1 |
-| 3 | Seekonk | 1621.0 |
+| 1 | Seekonk | 1719.3 |
+| 2 | Nantucket | 1695.1 |
+| 3 | Andover | 1630.1 |
 | 4 | Westwood | 1620.6 |
 | 5 | Nashoba | 1617.7 |
 | 6 | North Andover | 1615.5 |
@@ -45,21 +46,21 @@ Generated: 2026-01-29 11:29
 | 18 | Methuen/Tewksbury | 1567.6 |
 | 19 | Winchester | 1560.1 |
 | 20 | Franklin | 1552.6 |
-| 21 | Arlington Catholic | 1542.6 |
-| 22 | Weston | 1539.9 |
-| 23 | Westborough | 1538.3 |
-| 24 | New Bedford | 1537.9 |
-| 25 | Oliver Ames | 1536.9 |
-| 26 | Scituate | 1536.5 |
-| 27 | Needham | 1533.3 |
-| 28 | Bishop Feehan | 1532.4 |
-| 29 | Marshfield/Hanover | 1531.2 |
-| 30 | Lexington | 1531.1 |
-| 31 | Tantasqua | 1530.4 |
-| 32 | Newton North | 1530.2 |
-| 33 | Archbishop Williams | 1530.1 |
-| 34 | Belmont | 1529.4 |
-| 35 | Apponequet | 1529.0 |
+| 21 | Apponequet | 1543.3 |
+| 22 | Arlington Catholic | 1542.6 |
+| 23 | Weston | 1539.9 |
+| 24 | Westborough | 1538.3 |
+| 25 | New Bedford | 1537.9 |
+| 26 | Oliver Ames | 1536.9 |
+| 27 | Scituate | 1536.5 |
+| 28 | Needham | 1533.3 |
+| 29 | Bishop Feehan | 1532.4 |
+| 30 | Marshfield/Hanover | 1531.2 |
+| 31 | Lexington | 1531.1 |
+| 32 | Tantasqua | 1530.4 |
+| 33 | Newton North | 1530.2 |
+| 34 | Archbishop Williams | 1530.1 |
+| 35 | Belmont | 1529.4 |
 | 36 | Barnstable | 1528.4 |
 | 37 | Wayland | 1526.1 |
 | 38 | St. Mary’s | 1523.8 |
@@ -94,23 +95,23 @@ Generated: 2026-01-29 11:29
 | 67 | Haverhill | 1456.6 |
 | 68 | Bridgewater-Raynham | 1455.2 |
 | 69 | Advanced Math and Science | 1451.5 |
-| 70 | Old Rochester | 1451.0 |
-| 71 | Westford | 1450.8 |
-| 72 | Notre Dame (T)/Dracut | 1450.0 |
-| 73 | Lowell | 1449.9 |
-| 74 | Billerica | 1443.0 |
-| 75 | Attleboro | 1441.8 |
-| 76 | Weymouth | 1430.4 |
-| 77 | Woburn | 1429.5 |
-| 78 | Medfield | 1428.6 |
-| 79 | Wachusett | 1414.8 |
-| 80 | Bishop Fenwick | 1414.5 |
-| 81 | Pembroke | 1411.2 |
-| 82 | Stoughton | 1409.6 |
-| 83 | Malden Catholic | 1402.4 |
-| 84 | Braintree | 1400.3 |
-| 85 | Holliston/Medway | 1391.4 |
-| 86 | Durfee | 1382.1 |
-| 87 | Walpole | 1381.0 |
-| 88 | Stoneham | 1379.9 |
+| 70 | Westford | 1450.8 |
+| 71 | Notre Dame (T)/Dracut | 1450.0 |
+| 72 | Lowell | 1449.9 |
+| 73 | Billerica | 1443.0 |
+| 74 | Attleboro | 1441.8 |
+| 75 | Weymouth | 1430.4 |
+| 76 | Woburn | 1429.5 |
+| 77 | Medfield | 1428.6 |
+| 78 | Wachusett | 1414.8 |
+| 79 | Bishop Fenwick | 1414.5 |
+| 80 | Pembroke | 1411.2 |
+| 81 | Stoughton | 1409.6 |
+| 82 | Malden Catholic | 1402.4 |
+| 83 | Braintree | 1400.3 |
+| 84 | Holliston/Medway | 1391.4 |
+| 85 | Durfee | 1382.1 |
+| 86 | Walpole | 1381.0 |
+| 87 | Stoneham | 1379.9 |
+| 88 | Old Rochester | 1338.5 |
 | 89 | Nauset | 1309.6 |

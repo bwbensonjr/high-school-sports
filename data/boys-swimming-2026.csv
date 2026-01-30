@@ -63,3 +63,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-28,83628,FINAL,Nauset,4271,50,0,Sandwich,4340,83,1,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-01-28,83647,FINAL,Hingham,4171,68,0,Quincy/North Quincy,4326,97,1,Patriot,Patriot,,,0
 2026-01-28,83656,FINAL,Durfee,4122,52,0,Sharon,4345,102,1,Big Three,Hockomock,,,0
+2026-01-29,83738,FINAL,Old Rochester,4301,331,0,Seekonk,4344,348,1,South Coast,South Coast,,,0
+2026-01-29,83741,FINAL,Apponequet/Old Colony,4011,273,0,Seekonk,4344,348,1,South Coast,South Coast,,,0
+2026-01-29,83745,FINAL,Apponequet/Old Colony,4011,273,0,Old Rochester,4301,331,1,South Coast,South Coast,,,0
+2026-01-29,83772,FINAL,Marblehead,4231,92,1,Swampscott,4383,75,0,Northeastern,Independent,,,0

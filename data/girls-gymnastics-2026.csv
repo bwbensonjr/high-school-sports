@@ -47,7 +47,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-17,80966,FINAL,Plymouth North/South,4315,129.7,0,Marshfield,4234,136.6,1,Patriot,Patriot,,,0
 2026-01-17,80970,FINAL,Marlborough,4233,144.4,1,Algonquin,4005,133.2,0,Mid-Wach,Mid-Wach,,,0
 2026-01-18,80997,FINAL,North Andover,4283,130.0,0,Andover,4009,141.9,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-19,81037,FINAL,Marshfield,4234,129,0,Whitman-Hanson,4427,131.05,1,Patriot,Patriot,,,0
+2026-01-19,81037,FINAL,Marshfield,4234,129.0,0,Whitman-Hanson,4427,131.05,1,Patriot,Patriot,,,0
 2026-01-20,81672,FINAL,Newton North,4279,145.7,1,Braintree,4051,131.7,0,Bay State,Bay State,,,0
 2026-01-20,81673,FINAL,Central Catholic,4081,138.15,1,Haverhill,4167,131.8,0,Merrimack Valley,Merrimack Valley,,,0
 2026-01-20,81677,FINAL,Haverhill,4167,131.8,1,Dracut,4119,119.4,0,Merrimack Valley,Merrimack Valley,,,0
@@ -67,3 +67,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-27,83535,FINAL,Lowell,4216,112.75,0,North Andover,4283,133,1,Merrimack Valley,Merrimack Valley,,,0
 2026-01-27,83546,FINAL,Needham,4272,133.55,0,Wellesley,4413,143.4,1,Bay State,Bay State,,,0
 2026-01-28,83689,FINAL,Newton North,4279,147.1,1,Walpole,4404,128.4,0,Bay State,Bay State,,,0
+2026-01-29,83715,FINAL,Hanover,4164,124.9,1,Scituate,4343,121.1,0,Patriot,Patriot,,,0
+2026-01-29,83768,FINAL,Lowell,4216,99.75,0,Haverhill,4167,131.05,1,Merrimack Valley,Merrimack Valley,,,0
+2026-01-29,83770,FINAL,Haverhill,4167,131.05,1,Tewksbury,4389,129.2,0,Merrimack Valley,Merrimack Valley,,,0
