@@ -1,6 +1,6 @@
 # Boys Swimming - 2026 Season
 
-Generated: 2026-01-30 11:26
+Generated: 2026-01-31 11:18
 
 ## Upcoming Games
 
@@ -18,14 +18,6 @@ Generated: 2026-01-30 11:26
 | 2026-01-28 | Nauset | 50 | Sandwich | 83 | +0.2 | -33.0 |
 | 2026-01-28 | Hingham | 68 | Quincy/North Quincy | 97 | -1.3 | -29.0 |
 | 2026-01-28 | Durfee | 52 | Sharon | 102 | -1.9 | -50.0 |
-| 2026-01-23 | Central Catholic | 69 | Haverhill | 87 | -4.7 | -18.0 |
-| 2026-01-23 | Central Catholic | 67 | Andover | 93 | -7.3 | -26.0 |
-| 2026-01-23 | Chelmsford | 100 | Andover | 80 | +7.4 | +20.0 |
-| 2026-01-23 | Catholic Memorial | 91 | O’Bryant | 75 | +2.9 | +16.0 |
-| 2026-01-23 | Westwood | 86 | Xaverian | 99 | +0.9 | -13.0 |
-| 2026-01-23 | Stoughton | 46 | Canton | 75 | -4.5 | -29.0 |
-| 2026-01-23 | Nashoba | 66 | Gardner | 71 | -1.9 | -5.0 |
-| 2026-01-23 | Hingham | 92 | Silver Lake/Whitman-Hanson | 10 | +3.8 | +82.0 |
 
 ## Current Elo Ratings
 

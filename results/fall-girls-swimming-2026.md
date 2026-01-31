@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-01-30 11:26
+Generated: 2026-01-31 11:18
 
 ## Upcoming Games
 
@@ -18,9 +18,6 @@ Generated: 2026-01-30 11:26
 | 2026-01-28 | Hingham | 86 | Quincy | 84 | +11.2 | +2.0 |
 | 2026-01-28 | Durfee | 52 | Sharon | 113 | -2.4 | -61.0 |
 | 2026-01-24 | St. Mary’s | 79 | Bishop Fenwick | 72 | +11.7 | +7.0 |
-| 2026-01-23 | Stoughton | 67 | Canton | 89 | +4.4 | -22.0 |
-| 2026-01-23 | Nashoba | 91 | Gardner | 77 | +14.0 | +14.0 |
-| 2026-01-23 | Hingham | 92 | Silver Lake/Whitman-Hanson | 52 | +9.6 | +40.0 |
 
 ## Current Elo Ratings
 

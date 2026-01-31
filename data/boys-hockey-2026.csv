@@ -748,8 +748,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-19,81008,FINAL,Westford,4421,2.0,0.0,Wachusett,4400,9.0,1.0,Merrimack Valley/Dual County,Roy,1:30 P.M.,,0
 2026-01-19,81011,FINAL,Nashoba  Tech/Greater Lowell,4268,4.0,1.0,Blue Hills,4047,2.0,0.0,Commonwealth,Mayflower,3:00 P.M.,,0
 2026-01-19,81012,FINAL,Moses Brown (R.I.),4261,0.0,0.0,Austin Prep,4020,5.0,1.0,Independent,Independent,,,0
-2026-01-20,68988,FINAL,Wilmington,4432,4,2,Belmont,4034,4,2,Middlesex,Middlesex,7:15 P.M.,,0
-2026-01-20,76668,FINAL,Bellingham,4033,2,0,Holliston/Ashland,4174,3,1,Tri-Valley,Tri-Valley,6:30 P.M.,,0
+2026-01-20,68988,FINAL,Wilmington,4432,4.0,2.0,Belmont,4034,4.0,2.0,Middlesex,Middlesex,7:15 P.M.,,0
+2026-01-20,76668,FINAL,Bellingham,4033,2.0,0.0,Holliston/Ashland,4174,3.0,1.0,Tri-Valley,Tri-Valley,6:30 P.M.,,0
 2026-01-21,67634,FINAL,Plymouth South,4316,0,0,Scituate,4343,2,1,Patriot,Patriot,5:30 P.M.,,0
 2026-01-21,67661,FINAL,Weymouth,4425,6,1,Whitman-Hanson,4427,0,0,Bay State,Patriot,7:00 P.M.,,0
 2026-01-21,67719,FINAL,Plymouth North,4315,0,0,Marshfield,4234,6,1,Patriot,Patriot,7:30 P.M.,,0
@@ -1005,8 +1005,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-29,76825,FINAL,East Longmeadow,4127,3,1,Minnechaug,4254,2,0,Berry Division,Berry Division,8:00 P.M.,,0
 2026-01-29,76826,POSTPONED,Amherst-Pelham,4008,,,Taconic,4385,,,Fay Division,Independent,8:30 P.M.,,0
 2026-01-29,82153,FINAL,Woburn,4438,4,1,Braintree,4051,2,0,Middlesex,Bay State,4:00 P.M.,,0
-2026-01-30,71957,UPCOMING,St. Mary’s,4374,,,Arlington Catholic,4014,,,Catholic Central,Catholic Central,8:00 P.M.,,0
-2026-01-30,72882,UPCOMING,Concord-Carlisle,4097,,,Waltham,4405,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,7:30 P.M.,,0
+2026-01-30,71957,FINAL,St. Mary’s,4374,2,0,Arlington Catholic,4014,3,1,Catholic Central,Catholic Central,8:00 P.M.,,0
+2026-01-30,72083,FINAL,Newton North,4279,2,0,Wellesley,4413,4,1,Bay State,Bay State,8:00 P.M.,,0
+2026-01-30,72882,FINAL,Concord-Carlisle,4097,3,1,Waltham,4405,0,0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,7:30 P.M.,,0
+2026-01-30,83832,FINAL,BB&N,4028,3,1,Austin Prep,4020,1,0,ISL,Independent,,,0
 2026-01-31,65006,UPCOMING,Hingham,4171,,,Pope Francis,4796,,,Independent,Independent,12:00 P.M.,,0
 2026-01-31,67527,UPCOMING,Quincy,4287,,,Duxbury,4123,,,Patriot,Patriot,6:00 P.M.,,0
 2026-01-31,67563,UPCOMING,Hanover,4164,,,Whitman-Hanson,4427,,,Patriot,Patriot,1:00 P.M.,,0
@@ -1042,10 +1044,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-31,69920,UPCOMING,Lynnfield,4223,,,Medfield,4241,,,Cape Ann,Tri-Valley,12:00 P.M.,,0
 2026-01-31,71936,UPCOMING,Archbishop Williams,4012,,,Bishop Fenwick,4043,,,Catholic Central,Catholic Central,7:40 P.M.,,0
 2026-01-31,71958,UPCOMING,Bishop Feehan,4042,,,St. Mary’s,4374,,,Catholic Central,Catholic Central,3:00 P.M.,,0
-2026-01-31,72030,UPCOMING,Natick,4270,,,Framingham,4143,,,Bay State,Bay State,7:20 P.M.,,0
+2026-01-31,72030,UPCOMING,Natick,4270,,,Framingham,4143,,,Bay State,Bay State,4:30 P.M.,,0
 2026-01-31,72046,UPCOMING,Brookline,4059,,,Milton,4252,,,Bay State,Bay State,12:20 P.M.,,0
 2026-01-31,72068,UPCOMING,Needham,4272,,,Weymouth,4425,,,Bay State,Bay State,2:00 P.M.,,0
-2026-01-31,72083,UPCOMING,Newton North,4279,,,Wellesley,4413,,,Bay State,Bay State,12:20 P.M.,,0
 2026-01-31,72140,UPCOMING,Walpole,4404,,,Braintree,4051,,,Bay State,Bay State,6:15 P.M.,,0
 2026-01-31,72172,UPCOMING,Lowell,4216,,,Methuen,4246,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,2:30 P.M.,,0
 2026-01-31,72202,UPCOMING,Bedford,4031,,,Cambridge,4067,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,6:40 P.M.,,0
@@ -1087,6 +1088,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-01,71932,UPCOMING,Arlington Catholic,4014,,,Archbishop Williams,4012,,,Catholic Central,Catholic Central,6:30 P.M.,,0
 2026-02-01,72290,UPCOMING,Marblehead,4231,,,Methuen,4246,,,Northeastern,Merrimack Valley/Dual County,10:30 A.M.,,0
 2026-02-01,83666,UPCOMING,Arlington,4013,,,Tewksbury,4389,,,Middlesex,Merrimack Valley/Dual County,5:20 P.M.,,0
+2026-02-01,83808,UPCOMING,Belmont,4034,,,Concord-Carlisle,4097,,,Middlesex,Merrimack Valley/Dual County,3:20 P.M.,,0
+2026-02-01,83810,UPCOMING,Woburn,4438,,,Marshfield,4234,,,Middlesex,Patriot,12:00 P.M.,,0
+2026-02-01,83811,UPCOMING,Reading,4328,,,Milton,4252,,,Middlesex,Bay State,2:00 P.M.,,0
+2026-02-01,83813,UPCOMING,Walpole,4404,,,Winchester,4434,,,Bay State,Middlesex,2:20 P.M.,,0
+2026-02-01,83816,UPCOMING,Chelmsford,4085,,,Weymouth,4425,,,Merrimack Valley/Dual County,Bay State,5:20 P.M.,,0
 2026-02-02,67600,UPCOMING,Brookline,4059,,,Silver Lake,4349,,,Bay State,Patriot,7:30 P.M.,,0
 2026-02-02,68055,UPCOMING,Latin Academy,4202,,,Rockland,4331,,,Boston City,South Shore,8:00 P.M.,,0
 2026-02-02,68080,UPCOMING,Oliver Ames,4302,,,Middleborough,4247,,,Hockomock,South Shore,4:30 P.M.,,0
@@ -1103,6 +1109,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-02,76899,UPCOMING,Littleton/Bromfield,4212,,,Oakmont,4299,,,Coughlin,Coughlin,7:15 P.M.,,0
 2026-02-02,76902,UPCOMING,Wachusett,4400,,,Algonquin,4005,,,Roy,Quinn,7:30 P.M.,,0
 2026-02-02,76962,UPCOMING,Andover,4009,,,Shrewsbury,4348,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,7:10 P.M.,,0
+2026-02-02,83805,UPCOMING,Hingham,4171,,,Canton,4071,,,Independent,Hockomock,6:00 P.M.,,0
 2026-02-03,76905,UPCOMING,Monty Tech/Fitchburg,4139,,,Blackstone Valley,4046,,,CMAC,CMAC,6:30 P.M.,,0
 2026-02-03,76906,UPCOMING,Northeast,4293,,,Shawsheen,4346,,,Commonwealth,Commonwealth,7:00 P.M.,,0
 2026-02-03,76909,UPCOMING,Minnechaug,4254,,,Longmeadow,4214,,,Berry Division,Berry Division,8:30 P.M.,,0
@@ -1265,3 +1272,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-09,77025,UPCOMING,Somerville,4351,,,Nashoba  Tech/Greater Lowell,4268,,,Greater Boston,Commonwealth,5:30 P.M.,,0
 2026-02-09,77027,UPCOMING,Andover,4009,,,Westford,4421,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,7:10 P.M.,,0
 2026-02-09,77029,UPCOMING,Hudson,4182,,,Lunenburg/Ayer Shirley,4219,,,Quinn,Coughlin,8:00 P.M.,,0
+2026-02-10,68460,UPCOMING,Stoughton/Brockton,4381,,,Blue Hills,4047,,,Independent,Mayflower,7:30 P.M.,,0
+2026-02-10,72034,UPCOMING,Framingham,4143,,,Brookline,4059,,,Bay State,Bay State,4:00 P.M.,,0
+2026-02-10,77032,UPCOMING,Medway,4243,,,Norton,4295,,,Tri-Valley,Tri-Valley,6:30 P.M.,,0
+2026-02-10,77033,UPCOMING,Northeast,4293,,,Everett/Revere,4132,,,Commonwealth,Greater Boston,7:00 P.M.,,0
+2026-02-10,77034,UPCOMING,Danvers,4103,,,Marblehead,4231,,,Northeastern,Northeastern,7:30 P.M.,,0
+2026-02-10,77036,UPCOMING,Northbridge,4292,,,St. Bernard’s,4365,,,CMAC,CMAC,7:30 P.M.,,0

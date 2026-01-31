@@ -41,12 +41,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-16,80732,FINAL,Holliston/Medway,4174,77.0,0,Westwood,4424,97.0,1,Tri-Valley,Tri-Valley,,,0
 2026-01-16,80802,FINAL,Acton-Boxborough,4003,91.0,0,Concord-Carlisle,4097,92.0,1,Dual County,Dual County,,,0
 2026-01-16,80857,FINAL,Nauset,4271,54.0,0,Martha’s Vineyard,4235,89.0,1,Cape & Islands,Cape & Islands,,,0
-2026-01-20,81370,FINAL,Nashoba,4267,66,0,Shrewsbury,4348,105,1,Mid-Wach,Mid-Wach,,,0
-2026-01-20,81377,FINAL,Andover,4009,93,1,Central Catholic,4081,67,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-20,81614,FINAL,Chelmsford,4085,108,1,Haverhill,4167,72,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-20,81678,FINAL,St. John’s (Shrewsbury),4368,44,0,Xaverian,4446,124,1,Catholic Conference,Catholic Conference,,,0
-2026-01-20,81679,FINAL,Xaverian,4446,112,1,Malden Catholic,4228,66,0,Catholic Conference,Catholic Conference,,,0
-2026-01-20,81687,FINAL,Scituate,4343,59,0,Quincy/North Quincy,4326,110,1,Patriot,Patriot,,,0
+2026-01-20,81370,FINAL,Nashoba,4267,66.0,0,Shrewsbury,4348,105.0,1,Mid-Wach,Mid-Wach,,,0
+2026-01-20,81377,FINAL,Andover,4009,93.0,1,Central Catholic,4081,67.0,0,Merrimack Valley,Merrimack Valley,,,0
+2026-01-20,81614,FINAL,Chelmsford,4085,108.0,1,Haverhill,4167,72.0,0,Merrimack Valley,Merrimack Valley,,,0
+2026-01-20,81678,FINAL,St. John’s (Shrewsbury),4368,44.0,0,Xaverian,4446,124.0,1,Catholic Conference,Catholic Conference,,,0
+2026-01-20,81679,FINAL,Xaverian,4446,112.0,1,Malden Catholic,4228,66.0,0,Catholic Conference,Catholic Conference,,,0
+2026-01-20,81687,FINAL,Scituate,4343,59.0,0,Quincy/North Quincy,4326,110.0,1,Patriot,Patriot,,,0
 2026-01-20,81690,FINAL,Needham,4272,79.5,0,Wellesley,4413,103.5,1,Bay State,Bay State,,,0
 2026-01-21,81983,FINAL,Nashoba,4267,76,1,Wachusett,4400,61,0,Mid-Wach,Mid-Wach,,,0
 2026-01-21,82121,FINAL,Franklin,4144,46,0,Sharon,4345,105,1,Hockomock,Hockomock,,,0

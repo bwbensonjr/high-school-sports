@@ -59,7 +59,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-15,80673,FINAL,East Boston,4125,15.0,0.0,Latin Academy / O'Bryant,4202,74.0,1.0,Boston City,Boston City,,,0
 2026-01-15,80674,FINAL,O’Bryant,4298,37.0,0.0,Brighton,4055,39.0,1.0,Boston City,Boston City,,,0
 2026-01-15,80675,FINAL,New Mission,4494,22.0,0.0,Boston International,4547,51.0,1.0,Boston City,Boston City,,,0
-2026-01-20,77743,FINAL,Ipswich,4190,74,1,Lynnfield,4223,26,0,Cape Ann,Cape Ann,5:00 P.M.,,0
+2026-01-20,77743,FINAL,Ipswich,4190,74.0,1.0,Lynnfield,4223,26.0,0.0,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-01-20,77749,UPCOMING,Newburyport,4276,,,Essex Tech,4745,,,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-01-20,77753,UPCOMING,Hamilton-Wenham,4163,,,Amesbury,4007,,,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-01-20,77770,UPCOMING,North Reading,4288,,,Pentucket,4309,,,Cape Ann,Cape Ann,5:00 P.M.,,0
@@ -89,3 +89,4 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-29,83795,FINAL,New Mission,4494,13,0,Charlestown,4084,19,1,Boston City,Boston City,,,0
 2026-01-29,83798,FINAL,Snowden/Quincy Upper,4452,37,1,CASH,4187,10,0,Boston City,Boston City,,,0
 2026-01-29,83801,FINAL,Boston International,4547,66,1,Madison Park,4225,6,0,Boston City,Boston City,,,0
+2026-01-30,83890,FINAL,North Andover,4283,41,0,Chelmsford,4085,58,1,Merrimack Valley,Merrimack Valley,,,0

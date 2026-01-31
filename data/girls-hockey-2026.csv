@@ -495,7 +495,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-29,82227,FINAL,Central Catholic,4081,5,1,Shawsheen/Bedford/Lowell,4346,3,0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,7:10 P.M.,,0
 2026-01-29,83708,FINAL,Arlington,4013,3,1,Newton North,4279,1,0,Middlesex,Bay State,7:30 P.M.,,0
 2026-01-29,83709,FINAL,Framingham,4143,1,0,Arlington Catholic,4014,2,1,Bay State,Catholic Central,8:00 P.M.,1.0,0
-2026-01-30,72433,UPCOMING,Billerica/Chelmsford,4040,,,Archbishop Williams,4012,,,Merrimack Valley/Dual County,Catholic Central,5:00 P.M.,,0
+2026-01-30,72433,FINAL,Billerica/Chelmsford,4040,1,1,Archbishop Williams,4012,0,0,Merrimack Valley/Dual County,Catholic Central,5:00 P.M.,,0
+2026-01-30,83878,FINAL,Governor’s Academy,4152,3,1,Pingree,4312,0,0,ISL,EIL,,,0
 2026-01-31,72377,UPCOMING,HPNA,4283,,,Methuen/Tewksbury,4246,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,6:30 P.M.,,0
 2026-01-31,72410,UPCOMING,Westford,4421,,,Acton-Boxboro,4003,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,3:00 P.M.,,0
 2026-01-31,72487,UPCOMING,Shrewsbury,4348,,,Grafton,4153,,,Merrimack Valley/Dual County,Independent,7:00 P.M.,,0

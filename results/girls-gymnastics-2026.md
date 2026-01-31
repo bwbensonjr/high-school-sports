@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2026 Season
 
-Generated: 2026-01-30 11:26
+Generated: 2026-01-31 11:18
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-01-30 11:26
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-30 | Hingham/Hull | 139 | Marshfield | 130 | +4.7 | +9.0 |
 | 2026-01-29 | Hanover | 124 | Scituate | 121 | +3.6 | +3.8 |
 | 2026-01-29 | Lowell | 99 | Haverhill | 131 | -3.4 | -31.3 |
 | 2026-01-29 | Haverhill | 131 | Tewksbury | 129 | +3.1 | +1.9 |
@@ -21,25 +22,21 @@ Generated: 2026-01-30 11:26
 | 2026-01-27 | Needham | 133 | Wellesley | 143 | +1.3 | -9.8 |
 | 2026-01-25 | Hanover | 126 | Whitman-Hanson | 132 | -0.1 | -6.0 |
 | 2026-01-24 | Hopkinton | 138 | MADS | 139 | +4.4 | -1.2 |
-| 2026-01-23 | Hingham/Hull | 134 | Plymouth North/South | 126 | +8.1 | +7.8 |
-| 2026-01-23 | Needham | 127 | Newton North | 144 | -3.8 | -17.2 |
-| 2026-01-23 | Whitman-Hanson | 131 | Pembroke/Silver Lake | 132 | +2.3 | -0.6 |
-| 2026-01-23 | Hamilton-Wenham/Manchester Essex | 140 | Peabody | 83 | +3.4 | +56.9 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Newton North | 1711.8 |
-| 2 | Central Catholic | 1643.0 |
-| 3 | Hingham/Hull | 1640.9 |
+| 2 | Hingham/Hull | 1664.1 |
+| 3 | Central Catholic | 1643.0 |
 | 4 | Andover | 1604.0 |
 | 5 | Hamilton-Wenham/Manchester Essex | 1583.1 |
-| 6 | Marshfield | 1572.3 |
-| 7 | Haverhill | 1564.3 |
-| 8 | Westford | 1561.5 |
-| 9 | Chelmsford/B/T | 1554.6 |
-| 10 | Wilmington/Bedford | 1553.2 |
+| 6 | Haverhill | 1564.3 |
+| 7 | Westford | 1561.5 |
+| 8 | Chelmsford/B/T | 1554.6 |
+| 9 | Wilmington/Bedford | 1553.2 |
+| 10 | Marshfield | 1549.1 |
 | 11 | Hopkinton | 1546.8 |
 | 12 | Medford/Somerville | 1546.1 |
 | 13 | Mansfield | 1545.5 |

@@ -1,6 +1,6 @@
 # Girls Indoor Track - 2026 Season
 
-Generated: 2026-01-30 11:26
+Generated: 2026-01-31 11:18
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-01-30 11:26
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-30 | North Andover | 41 | Chelmsford | 58 | -3.9 | -17.0 |
 | 2026-01-29 | Latin Academy / O'Bryant | 64 | O’Bryant | 33 | +4.5 | +31.0 |
 | 2026-01-29 | East Boston | 35 | TechBoston | 29 | +0.1 | +6.0 |
 | 2026-01-29 | New Mission | 13 | Charlestown | 19 | +3.0 | -6.0 |
@@ -63,18 +64,18 @@ Generated: 2026-01-30 11:26
 | 38 | Southeastern | 1523.9 |
 | 39 | Natick | 1523.1 |
 | 40 | Holliston | 1522.0 |
-| 41 | Essex Tech | 1502.8 |
+| 41 | Chelmsford | 1507.9 |
 | 42 | North Reading | 1502.8 |
-| 43 | Newburyport | 1502.8 |
-| 44 | Billerica | 1495.9 |
-| 45 | Needham | 1493.8 |
-| 46 | Greater New Bedford | 1491.3 |
-| 47 | Canton | 1488.7 |
-| 48 | Dighton-Rehoboth | 1487.3 |
-| 49 | Milton | 1485.4 |
-| 50 | Nauset | 1479.4 |
-| 51 | Taunton | 1476.9 |
-| 52 | Chelmsford | 1476.5 |
+| 43 | Essex Tech | 1502.8 |
+| 44 | Newburyport | 1502.8 |
+| 45 | Billerica | 1495.9 |
+| 46 | Needham | 1493.8 |
+| 47 | Greater New Bedford | 1491.3 |
+| 48 | Canton | 1488.7 |
+| 49 | Dighton-Rehoboth | 1487.3 |
+| 50 | Milton | 1485.4 |
+| 51 | Nauset | 1479.4 |
+| 52 | Taunton | 1476.9 |
 | 53 | Hanover | 1476.3 |
 | 54 | Charlestown | 1475.7 |
 | 55 | North Quincy/Quincy | 1475.2 |
@@ -120,5 +121,5 @@ Generated: 2026-01-30 11:26
 | 95 | Framingham | 1397.0 |
 | 96 | Fontbonne | 1355.9 |
 | 97 | Weymouth | 1340.3 |
-| 98 | North Andover | 1328.3 |
+| 98 | North Andover | 1296.9 |
 | 99 | Cristo Rey | 1237.1 |
