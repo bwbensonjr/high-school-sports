@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2026 Season
 
-Generated: 2026-01-31 11:18
+Generated: 2026-02-01 11:20
 
 ## Upcoming Games
 
@@ -21,7 +21,6 @@ Generated: 2026-01-31 11:18
 | 2026-01-27 | Lowell | 112 | North Andover | 133 | -1.2 | -20.2 |
 | 2026-01-27 | Needham | 133 | Wellesley | 143 | +1.3 | -9.8 |
 | 2026-01-25 | Hanover | 126 | Whitman-Hanson | 132 | -0.1 | -6.0 |
-| 2026-01-24 | Hopkinton | 138 | MADS | 139 | +4.4 | -1.2 |
 
 ## Current Elo Ratings
 

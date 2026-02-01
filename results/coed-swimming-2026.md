@@ -1,6 +1,6 @@
 # Coed Swimming - 2026 Season
 
-Generated: 2026-01-31 11:18
+Generated: 2026-02-01 11:20
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-01-31 11:18
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-01-31 | Revere | 37 | East Boston | 52 | +5.2 | -15.0 |
 | 2026-01-27 | Salem | 89 | Marblehead | 78 | -3.9 | +11.0 |
 
 ## Current Elo Ratings
@@ -43,9 +44,9 @@ Generated: 2026-01-31 11:18
 | 24 | Gloucester | 1463.8 |
 | 25 | Lynn Classical | 1462.3 |
 | 26 | Arlington Catholic | 1457.2 |
-| 27 | Revere | 1448.9 |
-| 28 | Northeast | 1443.7 |
-| 29 | Swampscott | 1430.4 |
-| 30 | Brockton | 1383.8 |
-| 31 | St. Mary’s | 1381.1 |
-| 32 | East Boston | 1368.1 |
+| 27 | Northeast | 1443.7 |
+| 28 | Swampscott | 1430.4 |
+| 29 | East Boston | 1424.6 |
+| 30 | Revere | 1392.4 |
+| 31 | Brockton | 1383.8 |
+| 32 | St. Mary’s | 1381.1 |

@@ -1,6 +1,6 @@
 # Girls Indoor Track - 2026 Season
 
-Generated: 2026-01-31 11:18
+Generated: 2026-02-01 11:20
 
 ## Upcoming Games
 
@@ -18,7 +18,6 @@ Generated: 2026-01-31 11:18
 | 2026-01-29 | Snowden/Quincy Upper | 37 | CASH | 10 | +6.3 | +27.0 |
 | 2026-01-29 | Boston International | 66 | Madison Park | 6 | +8.6 | +60.0 |
 | 2026-01-28 | Beverly | 30 | Peabody | 56 | -2.6 | -26.0 |
-| 2026-01-24 | Hingham | 25 | Duxbury | 75 | +2.1 | -50.0 |
 
 ## Current Elo Ratings
 
@@ -65,8 +64,8 @@ Generated: 2026-01-31 11:18
 | 39 | Natick | 1523.1 |
 | 40 | Holliston | 1522.0 |
 | 41 | Chelmsford | 1507.9 |
-| 42 | North Reading | 1502.8 |
-| 43 | Essex Tech | 1502.8 |
+| 42 | Essex Tech | 1502.8 |
+| 43 | North Reading | 1502.8 |
 | 44 | Newburyport | 1502.8 |
 | 45 | Billerica | 1495.9 |
 | 46 | Needham | 1493.8 |
