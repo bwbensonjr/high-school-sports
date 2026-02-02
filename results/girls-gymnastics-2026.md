@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2026 Season
 
-Generated: 2026-02-01 11:20
+Generated: 2026-02-02 11:34
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-02-01 11:20
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-02-01 | Whitman-Hanson | 133 | Hingham/Hull | 136 | -3.1 | -2.9 |
 | 2026-01-30 | Hingham/Hull | 139 | Marshfield | 130 | +4.7 | +9.0 |
 | 2026-01-29 | Hanover | 124 | Scituate | 121 | +3.6 | +3.8 |
 | 2026-01-29 | Lowell | 99 | Haverhill | 131 | -3.4 | -31.3 |
@@ -20,14 +21,13 @@ Generated: 2026-02-01 11:20
 | 2026-01-27 | Lowell | 112 | Central Catholic | 139 | -4.1 | -26.6 |
 | 2026-01-27 | Lowell | 112 | North Andover | 133 | -1.2 | -20.2 |
 | 2026-01-27 | Needham | 133 | Wellesley | 143 | +1.3 | -9.8 |
-| 2026-01-25 | Hanover | 126 | Whitman-Hanson | 132 | -0.1 | -6.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Newton North | 1711.8 |
-| 2 | Hingham/Hull | 1664.1 |
+| 2 | Hingham/Hull | 1680.1 |
 | 3 | Central Catholic | 1643.0 |
 | 4 | Andover | 1604.0 |
 | 5 | Hamilton-Wenham/Manchester Essex | 1583.1 |
@@ -42,12 +42,12 @@ Generated: 2026-02-01 11:20
 | 14 | Brockton/Spellman/Stoughton | 1541.7 |
 | 15 | North Andover | 1541.6 |
 | 16 | Wellesley | 1540.8 |
-| 17 | Whitman-Hanson | 1537.8 |
-| 18 | Medway/Milford/Millis | 1537.5 |
-| 19 | Marlborough | 1533.8 |
-| 20 | Reading | 1530.2 |
-| 21 | Beverly | 1529.5 |
-| 22 | Bridgewater-Raynham/West Bridgewater | 1524.2 |
+| 17 | Medway/Milford/Millis | 1537.5 |
+| 18 | Marlborough | 1533.8 |
+| 19 | Reading | 1530.2 |
+| 20 | Beverly | 1529.5 |
+| 21 | Bridgewater-Raynham/West Bridgewater | 1524.2 |
+| 22 | Whitman-Hanson | 1521.8 |
 | 23 | Malden | 1519.7 |
 | 24 | Pembroke/Silver Lake | 1519.5 |
 | 25 | MADS | 1516.7 |

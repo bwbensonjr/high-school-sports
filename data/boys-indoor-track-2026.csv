@@ -122,22 +122,22 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-21,81998,FINAL,Madison Park,4225,28.0,1.0,CASH,4187,14.0,0.0,Boston City,Boston City,,,0
 2026-01-21,82000,FINAL,TechBoston,4117,62.0,1.0,Brighton,4055,28.0,0.0,Boston City,Boston City,,,0
 2026-01-21,82002,FINAL,Charlestown,4084,19.0,0.0,Boston International,4547,54.0,1.0,Boston City,Boston City,,,0
-2026-01-22,77497,FINAL,Natick,4270,27,0,Newton North,4279,72,1,Bay State,Bay State,4:00 P.M.,,0
-2026-01-22,77505,FINAL,Brookline,4059,72,1,Wellesley,4413,28,0,Bay State,Bay State,4:00 P.M.,,0
-2026-01-22,77519,FINAL,Needham,4272,48,0,Braintree,4051,52,1,Bay State,Bay State,4:00 P.M.,,0
-2026-01-22,77548,FINAL,Milton,4252,40,0,Walpole,4404,60,1,Bay State,Bay State,4:00 P.M.,,0
+2026-01-22,77497,FINAL,Natick,4270,27.0,0.0,Newton North,4279,72.0,1.0,Bay State,Bay State,4:00 P.M.,,0
+2026-01-22,77505,FINAL,Brookline,4059,72.0,1.0,Wellesley,4413,28.0,0.0,Bay State,Bay State,4:00 P.M.,,0
+2026-01-22,77519,FINAL,Needham,4272,48.0,0.0,Braintree,4051,52.0,1.0,Bay State,Bay State,4:00 P.M.,,0
+2026-01-22,77548,FINAL,Milton,4252,40.0,0.0,Walpole,4404,60.0,1.0,Bay State,Bay State,4:00 P.M.,,0
 2026-01-22,77585,UPCOMING,Holliston,4174,,,Dedham,4108,,,Tri-Valley,Tri-Valley,7:30 P.M.,,0
 2026-01-22,77627,UPCOMING,Hopkinton,4180,,,Norwood,4297,,,Tri-Valley,Tri-Valley,7:30 P.M.,,0
 2026-01-22,77635,UPCOMING,Westwood,4424,,,Ashland,4015,,,Tri-Valley,Independent,7:30 P.M.,,0
 2026-01-22,77649,UPCOMING,Millis,4251,,,Dover-Sherborn,4118,,,Tri-Valley,Tri-Valley,7:30 P.M.,,0
 2026-01-22,77654,UPCOMING,Medfield,4241,,,Medway,4243,,,Tri-Valley,Tri-Valley,7:30 P.M.,,0
-2026-01-22,82326,FINAL,Weymouth,4425,56,1,Framingham,4143,44,0,Bay State,Bay State,,,0
-2026-01-22,82343,FINAL,Franklin,4144,32,0,Attleboro,4018,68,1,Hockomock,Hockomock,,,0
-2026-01-22,82344,FINAL,Foxborough,4142,42,0,Canton,4071,58,1,Hockomock,Hockomock,,,0
-2026-01-22,82345,FINAL,Milford,4249,25,0,King Philip,4197,74,1,Hockomock,Hockomock,,,0
-2026-01-22,82346,FINAL,Mansfield,4230,47,0,Oliver Ames,4302,52,1,Hockomock,Hockomock,,,0
-2026-01-22,82348,FINAL,North Attleborough,4284,15,0,Stoughton,4381,85,1,Hockomock,Hockomock,,,0
-2026-01-22,82349,FINAL,Taunton,4388,46,0,Sharon,4345,54,1,Hockomock,Hockomock,,,0
+2026-01-22,82326,FINAL,Weymouth,4425,56.0,1.0,Framingham,4143,44.0,0.0,Bay State,Bay State,,,0
+2026-01-22,82343,FINAL,Franklin,4144,32.0,0.0,Attleboro,4018,68.0,1.0,Hockomock,Hockomock,,,0
+2026-01-22,82344,FINAL,Foxborough,4142,42.0,0.0,Canton,4071,58.0,1.0,Hockomock,Hockomock,,,0
+2026-01-22,82345,FINAL,Milford,4249,25.0,0.0,King Philip,4197,74.0,1.0,Hockomock,Hockomock,,,0
+2026-01-22,82346,FINAL,Mansfield,4230,47.0,0.0,Oliver Ames,4302,52.0,1.0,Hockomock,Hockomock,,,0
+2026-01-22,82348,FINAL,North Attleborough,4284,15.0,0.0,Stoughton,4381,85.0,1.0,Hockomock,Hockomock,,,0
+2026-01-22,82349,FINAL,Taunton,4388,46.0,0.0,Sharon,4345,54.0,1.0,Hockomock,Hockomock,,,0
 2026-01-23,77779,UPCOMING,Chelsea,4086,,,Lynn Classical,4220,,,Independent,Greater Boston,4:30 P.M.,,0
 2026-01-23,78102,UPCOMING,Lynn English,4221,,,Malden,4227,,,Greater Boston,Greater Boston,4:30 P.M.,,0
 2026-01-23,78105,UPCOMING,Somerville,4351,,,Revere,4329,,,Greater Boston,Greater Boston,4:30 P.M.,,0

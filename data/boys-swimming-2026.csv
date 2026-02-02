@@ -50,8 +50,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-20,81690,FINAL,Needham,4272,79.5,0,Wellesley,4413,103.5,1,Bay State,Bay State,,,0
 2026-01-21,81983,FINAL,Nashoba,4267,76.0,1,Wachusett,4400,61.0,0,Mid-Wach,Mid-Wach,,,0
 2026-01-21,82121,FINAL,Franklin,4144,46.0,0,Sharon,4345,105.0,1,Hockomock,Hockomock,,,0
-2026-01-22,82367,FINAL,Old Rochester,4301,102,1,Seekonk,4344,74,0,South Coast,South Coast,,,0
-2026-01-22,82371,FINAL,Hopkinton,4180,85,2,Holliston/Medway,4174,85,2,Tri-Valley,Tri-Valley,,,0
+2026-01-22,82367,FINAL,Old Rochester,4301,102.0,1,Seekonk,4344,74.0,0,South Coast,South Coast,,,0
+2026-01-22,82371,FINAL,Hopkinton,4180,85.0,2,Holliston/Medway,4174,85.0,2,Tri-Valley,Tri-Valley,,,0
 2026-01-23,82489,FINAL,Central Catholic,4081,69,0,Haverhill,4167,87,1,Merrimack Valley,Merrimack Valley,,,0
 2026-01-23,82490,FINAL,Central Catholic,4081,67,0,Andover,4009,93,1,Merrimack Valley,Merrimack Valley,,,0
 2026-01-23,82514,FINAL,Chelmsford,4085,100,1,Andover,4009,80,0,Merrimack Valley,Merrimack Valley,,,0

@@ -70,18 +70,18 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-21,82012,FINAL,Charlestown,4084,3.0,0.0,Boston International,4547,73.0,1.0,Boston City,Boston City,,,0
 2026-01-21,82318,FINAL,Whitman-Hanson,4427,54.0,1.0,Silver Lake,4349,41.0,0.0,Patriot,Patriot,,,0
 2026-01-21,82319,FINAL,Whitman-Hanson,4427,23.0,0.0,Plymouth North,4315,77.0,1.0,Patriot,Patriot,,,0
-2026-01-22,77577,FINAL,Natick,4270,33,0,Newton North,4279,67,1,Bay State,Bay State,4:00 P.M.,,0
-2026-01-22,77580,FINAL,Brookline,4059,36,0,Wellesley,4413,64,1,Bay State,Bay State,4:00 P.M.,,0
-2026-01-22,77589,FINAL,Needham,4272,41,0,Braintree,4051,59,1,Bay State,Bay State,4:00 P.M.,,0
-2026-01-22,77622,FINAL,Milton,4252,62,1,Walpole,4404,38,0,Bay State,Bay State,4:00 P.M.,,0
-2026-01-22,82329,FINAL,Framingham,4143,51,1,Weymouth,4425,49,0,Bay State,Bay State,,,0
-2026-01-22,82351,FINAL,Attleboro,4018,32,0,Franklin,4144,68,1,Hockomock,Hockomock,,,0
-2026-01-22,82354,FINAL,Canton,4071,43,0,Foxborough,4142,57,1,Hockomock,Hockomock,,,0
-2026-01-22,82356,FINAL,Milford,4249,14,0,King Philip,4197,82,1,Hockomock,Hockomock,,,0
-2026-01-22,82359,FINAL,Mansfield,4230,38,0,Oliver Ames,4302,62,1,Hockomock,Hockomock,,,0
-2026-01-22,82362,FINAL,Stoughton,4381,50,2,North Attleborough,4284,50,2,Hockomock,Hockomock,,,0
-2026-01-22,82363,FINAL,Taunton,4388,48,0,Sharon,4345,52,1,Hockomock,Hockomock,,,0
-2026-01-22,82366,FINAL,Dedham,4108,39,0,Holliston,4174,56,1,Tri-Valley,Tri-Valley,,,0
+2026-01-22,77577,FINAL,Natick,4270,33.0,0.0,Newton North,4279,67.0,1.0,Bay State,Bay State,4:00 P.M.,,0
+2026-01-22,77580,FINAL,Brookline,4059,36.0,0.0,Wellesley,4413,64.0,1.0,Bay State,Bay State,4:00 P.M.,,0
+2026-01-22,77589,FINAL,Needham,4272,41.0,0.0,Braintree,4051,59.0,1.0,Bay State,Bay State,4:00 P.M.,,0
+2026-01-22,77622,FINAL,Milton,4252,62.0,1.0,Walpole,4404,38.0,0.0,Bay State,Bay State,4:00 P.M.,,0
+2026-01-22,82329,FINAL,Framingham,4143,51.0,1.0,Weymouth,4425,49.0,0.0,Bay State,Bay State,,,0
+2026-01-22,82351,FINAL,Attleboro,4018,32.0,0.0,Franklin,4144,68.0,1.0,Hockomock,Hockomock,,,0
+2026-01-22,82354,FINAL,Canton,4071,43.0,0.0,Foxborough,4142,57.0,1.0,Hockomock,Hockomock,,,0
+2026-01-22,82356,FINAL,Milford,4249,14.0,0.0,King Philip,4197,82.0,1.0,Hockomock,Hockomock,,,0
+2026-01-22,82359,FINAL,Mansfield,4230,38.0,0.0,Oliver Ames,4302,62.0,1.0,Hockomock,Hockomock,,,0
+2026-01-22,82362,FINAL,Stoughton,4381,50.0,2.0,North Attleborough,4284,50.0,2.0,Hockomock,Hockomock,,,0
+2026-01-22,82363,FINAL,Taunton,4388,48.0,0.0,Sharon,4345,52.0,1.0,Hockomock,Hockomock,,,0
+2026-01-22,82366,FINAL,Dedham,4108,39.0,0.0,Holliston,4174,56.0,1.0,Tri-Valley,Tri-Valley,,,0
 2026-01-24,83091,FINAL,Hingham,4171,25,0,Duxbury,4123,75,1,Patriot,Patriot,,,0
 2026-01-28,83638,FINAL,Beverly,4038,30,0,Peabody,4306,56,1,Northeastern,Northeastern,,,0
 2026-01-29,83791,FINAL,Latin Academy / O'Bryant,4202,64,1,O’Bryant,4298,33,0,Boston City,Boston City,,,0
