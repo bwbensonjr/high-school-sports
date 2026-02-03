@@ -52,14 +52,14 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-21,82121,FINAL,Franklin,4144,46.0,0,Sharon,4345,105.0,1,Hockomock,Hockomock,,,0
 2026-01-22,82367,FINAL,Old Rochester,4301,102.0,1,Seekonk,4344,74.0,0,South Coast,South Coast,,,0
 2026-01-22,82371,FINAL,Hopkinton,4180,85.0,2,Holliston/Medway,4174,85.0,2,Tri-Valley,Tri-Valley,,,0
-2026-01-23,82489,FINAL,Central Catholic,4081,69,0,Haverhill,4167,87,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-23,82490,FINAL,Central Catholic,4081,67,0,Andover,4009,93,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-23,82514,FINAL,Chelmsford,4085,100,1,Andover,4009,80,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-23,82539,FINAL,Catholic Memorial,4080,91,1,O’Bryant,4298,75,0,Catholic Conference,Boston City,,,0
-2026-01-23,82565,FINAL,Westwood,4424,86,0,Xaverian,4446,99,1,Tri-Valley,Catholic Conference,,,0
-2026-01-23,82648,FINAL,Stoughton,4381,46,0,Canton,4071,75,1,Hockomock,Hockomock,,,0
-2026-01-23,82924,FINAL,Nashoba,4267,66,0,Gardner,4147,71,1,Mid-Wach,Mid-Wach,,,0
-2026-01-23,82955,FINAL,Hingham,4171,92,1,Silver Lake/Whitman-Hanson,4349,10,0,Patriot,Patriot,6:30 P.M.,,0
+2026-01-23,82489,FINAL,Central Catholic,4081,69.0,0,Haverhill,4167,87.0,1,Merrimack Valley,Merrimack Valley,,,0
+2026-01-23,82490,FINAL,Central Catholic,4081,67.0,0,Andover,4009,93.0,1,Merrimack Valley,Merrimack Valley,,,0
+2026-01-23,82514,FINAL,Chelmsford,4085,100.0,1,Andover,4009,80.0,0,Merrimack Valley,Merrimack Valley,,,0
+2026-01-23,82539,FINAL,Catholic Memorial,4080,91.0,1,O’Bryant,4298,75.0,0,Catholic Conference,Boston City,,,0
+2026-01-23,82565,FINAL,Westwood,4424,86.0,0,Xaverian,4446,99.0,1,Tri-Valley,Catholic Conference,,,0
+2026-01-23,82648,FINAL,Stoughton,4381,46.0,0,Canton,4071,75.0,1,Hockomock,Hockomock,,,0
+2026-01-23,82924,FINAL,Nashoba,4267,66.0,0,Gardner,4147,71.0,1,Mid-Wach,Mid-Wach,,,0
+2026-01-23,82955,FINAL,Hingham,4171,92.0,1,Silver Lake/Whitman-Hanson,4349,10.0,0,Patriot,Patriot,6:30 P.M.,,0
 2026-01-28,83628,FINAL,Nauset,4271,50,0,Sandwich,4340,83,1,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-01-28,83647,FINAL,Hingham,4171,68,0,Quincy/North Quincy,4326,97,1,Patriot,Patriot,,,0
 2026-01-28,83656,FINAL,Durfee,4122,52,0,Sharon,4345,102,1,Big Three,Hockomock,,,0

@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2026 Season
 
-Generated: 2026-02-02 11:34
+Generated: 2026-02-03 11:32
 
 ## Upcoming Games
 
@@ -12,6 +12,10 @@ Generated: 2026-02-02 11:34
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-02-01 | Whitman-Hanson | 133 | Hingham/Hull | 136 | -3.1 | -2.9 |
+| 2026-02-01 | Marshfield | 134 | Scituate | 127 | +9.2 | +6.9 |
+| 2026-02-01 | Marshfield | 134 | Hanover | 124 | +6.7 | +10.4 |
+| 2026-02-01 | Scituate | 127 | Hanover | 124 | -0.7 | +3.5 |
+| 2026-02-01 | Newton North | 146 | Wellesley | 144 | +8.8 | +2.5 |
 | 2026-01-30 | Hingham/Hull | 139 | Marshfield | 130 | +4.7 | +9.0 |
 | 2026-01-29 | Hanover | 124 | Scituate | 121 | +3.6 | +3.8 |
 | 2026-01-29 | Lowell | 99 | Haverhill | 131 | -3.4 | -31.3 |
@@ -26,24 +30,24 @@ Generated: 2026-02-02 11:34
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Newton North | 1711.8 |
+| 1 | Newton North | 1720.1 |
 | 2 | Hingham/Hull | 1680.1 |
 | 3 | Central Catholic | 1643.0 |
 | 4 | Andover | 1604.0 |
 | 5 | Hamilton-Wenham/Manchester Essex | 1583.1 |
-| 6 | Haverhill | 1564.3 |
-| 7 | Westford | 1561.5 |
-| 8 | Chelmsford/B/T | 1554.6 |
-| 9 | Wilmington/Bedford | 1553.2 |
-| 10 | Marshfield | 1549.1 |
+| 6 | Marshfield | 1582.2 |
+| 7 | Haverhill | 1564.3 |
+| 8 | Westford | 1561.5 |
+| 9 | Chelmsford/B/T | 1554.6 |
+| 10 | Wilmington/Bedford | 1553.2 |
 | 11 | Hopkinton | 1546.8 |
 | 12 | Medford/Somerville | 1546.1 |
 | 13 | Mansfield | 1545.5 |
 | 14 | Brockton/Spellman/Stoughton | 1541.7 |
 | 15 | North Andover | 1541.6 |
-| 16 | Wellesley | 1540.8 |
-| 17 | Medway/Milford/Millis | 1537.5 |
-| 18 | Marlborough | 1533.8 |
+| 16 | Medway/Milford/Millis | 1537.5 |
+| 17 | Marlborough | 1533.8 |
+| 18 | Wellesley | 1532.6 |
 | 19 | Reading | 1530.2 |
 | 20 | Beverly | 1529.5 |
 | 21 | Bridgewater-Raynham/West Bridgewater | 1524.2 |
@@ -75,11 +79,11 @@ Generated: 2026-02-02 11:34
 | 47 | Norwood | 1455.0 |
 | 48 | Norton | 1447.9 |
 | 49 | Needham | 1445.6 |
-| 50 | Hanover | 1443.8 |
-| 51 | Cohasset/Norwell | 1439.1 |
-| 52 | Framingham | 1427.4 |
+| 50 | Cohasset/Norwell | 1439.1 |
+| 51 | Framingham | 1427.4 |
+| 52 | Hanover | 1399.8 |
 | 53 | Newton South | 1394.4 |
 | 54 | Methuen | 1386.7 |
-| 55 | Dracut | 1369.5 |
-| 56 | Scituate | 1369.2 |
+| 55 | Scituate | 1380.1 |
+| 56 | Dracut | 1369.5 |
 | 57 | Lowell | 1337.7 |

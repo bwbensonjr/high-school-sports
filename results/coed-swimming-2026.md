@@ -1,6 +1,6 @@
 # Coed Swimming - 2026 Season
 
-Generated: 2026-02-02 11:33
+Generated: 2026-02-03 11:32
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-02-02 11:33
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-02-02 | Somerville | 75 | Latin Academy | 90 | -4.5 | -15.0 |
 | 2026-01-31 | Revere | 37 | East Boston | 52 | +5.2 | -15.0 |
 | 2026-01-27 | Salem | 89 | Marblehead | 78 | -3.9 | +11.0 |
 
@@ -18,7 +19,7 @@ Generated: 2026-02-02 11:33
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Latin Academy | 1652.0 |
+| 1 | Latin Academy | 1680.5 |
 | 2 | Malden | 1597.6 |
 | 3 | Medford | 1595.0 |
 | 4 | Marblehead | 1585.2 |
@@ -35,14 +36,14 @@ Generated: 2026-02-02 11:33
 | 15 | Lynn Tech | 1522.0 |
 | 16 | Danvers | 1502.3 |
 | 17 | Archbishop Williams | 1493.3 |
-| 18 | Somerville | 1489.5 |
-| 19 | Central Catholic | 1486.4 |
-| 20 | Lowell | 1483.4 |
-| 21 | Bishop Fenwick | 1478.9 |
-| 22 | Masconomet | 1473.5 |
-| 23 | Melrose | 1471.6 |
-| 24 | Gloucester | 1463.8 |
-| 25 | Lynn Classical | 1462.3 |
+| 18 | Central Catholic | 1486.4 |
+| 19 | Lowell | 1483.4 |
+| 20 | Bishop Fenwick | 1478.9 |
+| 21 | Masconomet | 1473.5 |
+| 22 | Melrose | 1471.6 |
+| 23 | Gloucester | 1463.8 |
+| 24 | Lynn Classical | 1462.3 |
+| 25 | Somerville | 1461.0 |
 | 26 | Arlington Catholic | 1457.2 |
 | 27 | Northeast | 1443.7 |
 | 28 | Swampscott | 1430.4 |
