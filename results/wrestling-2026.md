@@ -1,6 +1,6 @@
 # Wrestling - 2026 Season
 
-Generated: 2026-02-03 11:32
+Generated: 2026-02-04 11:31
 
 ## Upcoming Games
 
@@ -11,14 +11,15 @@ Generated: 2026-02-03 11:32
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-02-03 | Newton North | 34 | Watertown | 43 | -3.9 | -9.0 |
 | 2026-02-02 | Concord Academy | 46 | Brooks | 30 | +9.9 | +16.0 |
-| 2026-01-31 | Hingham | 59 | Milton | 18 | +1.9 | +41.0 |
+| 2026-01-31 | Quabbin | 20 | Hingham | 48 | +3.8 | -28.0 |
 | 2026-01-31 | Nobles | 18 | Thayer | 48 | +5.1 | -30.0 |
 | 2026-01-31 | Governor’s Academy | 48 | Nobles | 14 | +2.9 | +34.0 |
 | 2026-01-31 | Nobles | 19 | St. Mark’s | 60 | -2.9 | -41.0 |
 | 2026-01-31 | Brooks | 30 | Nobles | 31 | -0.7 | -1.0 |
 | 2026-01-31 | Hingham | 39 | New Bedford | 37 | -6.7 | +2.0 |
-| 2026-01-31 | Quabbin | 20 | Hingham | 48 | +3.8 | -28.0 |
+| 2026-01-31 | Hingham | 59 | Milton | 18 | +1.9 | +41.0 |
 | 2026-01-31 | Wayland | 66 | Malden/Everett | 9 | +17.1 | +57.0 |
 | 2026-01-31 | Wayland | 48 | Lexington | 18 | +21.4 | +30.0 |
 | 2026-01-31 | Belmont Hill | 54 | Roxbury Latin | 21 | -11.9 | +33.0 |
@@ -71,10 +72,10 @@ Generated: 2026-02-03 11:32
 | 15 | Taunton | 1662.8 |
 | 16 | Natick | 1662.2 |
 | 17 | Mt. Hope (R.I.) | 1659.9 |
-| 18 | Belmont Hill | 1655.9 |
-| 19 | Dedham | 1648.7 |
-| 20 | Chelmsford | 1641.1 |
-| 21 | Watertown | 1631.9 |
+| 18 | Watertown | 1657.0 |
+| 19 | Belmont Hill | 1655.9 |
+| 20 | Dedham | 1648.7 |
+| 21 | Chelmsford | 1641.1 |
 | 22 | Melrose | 1628.4 |
 | 23 | New Bedford | 1626.6 |
 | 24 | Andover | 1625.9 |
@@ -145,31 +146,31 @@ Generated: 2026-02-03 11:32
 | 89 | Milford | 1485.3 |
 | 90 | Brockton | 1484.8 |
 | 91 | Northeast/Bishop Fenwick | 1484.8 |
-| 92 | Newton North | 1484.7 |
-| 93 | Somerset Berkley | 1482.6 |
-| 94 | Salem | 1480.7 |
-| 95 | Southwick | 1478.9 |
-| 96 | Mount St. Charles (R.I.) | 1478.8 |
-| 97 | South Shore Voc-Tech | 1478.5 |
-| 98 | Holyoke | 1478.3 |
-| 99 | Marshfield | 1477.7 |
-| 100 | Sandwich | 1477.1 |
-| 101 | Milton | 1475.6 |
-| 102 | Xaverian | 1474.4 |
-| 103 | Bellingham | 1473.5 |
-| 104 | Canton | 1471.3 |
-| 105 | Londonderry (N.H.) | 1470.4 |
-| 106 | Keene (N.H.) | 1470.0 |
-| 107 | Marblehead/Swampscott | 1469.7 |
-| 108 | Maimonides | 1469.7 |
-| 109 | Oliver Ames | 1468.5 |
-| 110 | Beverly | 1466.7 |
-| 111 | Chicopee | 1465.9 |
-| 112 | Deerfield | 1464.9 |
-| 113 | Lexington Christian | 1463.8 |
-| 114 | East Longmeadow | 1463.0 |
-| 115 | Northbridge | 1461.4 |
-| 116 | Mount Anthony (Vt.) | 1460.8 |
+| 92 | Somerset Berkley | 1482.6 |
+| 93 | Salem | 1480.7 |
+| 94 | Southwick | 1478.9 |
+| 95 | Mount St. Charles (R.I.) | 1478.8 |
+| 96 | South Shore Voc-Tech | 1478.5 |
+| 97 | Holyoke | 1478.3 |
+| 98 | Marshfield | 1477.7 |
+| 99 | Sandwich | 1477.1 |
+| 100 | Milton | 1475.6 |
+| 101 | Xaverian | 1474.4 |
+| 102 | Bellingham | 1473.5 |
+| 103 | Canton | 1471.3 |
+| 104 | Londonderry (N.H.) | 1470.4 |
+| 105 | Keene (N.H.) | 1470.0 |
+| 106 | Marblehead/Swampscott | 1469.7 |
+| 107 | Maimonides | 1469.7 |
+| 108 | Oliver Ames | 1468.5 |
+| 109 | Beverly | 1466.7 |
+| 110 | Chicopee | 1465.9 |
+| 111 | Deerfield | 1464.9 |
+| 112 | Lexington Christian | 1463.8 |
+| 113 | East Longmeadow | 1463.0 |
+| 114 | Northbridge | 1461.4 |
+| 115 | Mount Anthony (Vt.) | 1460.8 |
+| 116 | Newton North | 1459.6 |
 | 117 | Pathfinder | 1458.6 |
 | 118 | Falmouth/Mashpee | 1458.6 |
 | 119 | Randolph | 1457.7 |

@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2026 Season
 
-Generated: 2026-02-03 11:32
+Generated: 2026-02-04 11:31
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-02-03 11:32
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-02-03 | Winchester | 140 | Wakefield | 131 | +1.3 | +8.9 |
 | 2026-02-01 | Whitman-Hanson | 133 | Hingham/Hull | 136 | -3.1 | -2.9 |
 | 2026-02-01 | Marshfield | 134 | Scituate | 127 | +9.2 | +6.9 |
 | 2026-02-01 | Marshfield | 134 | Hanover | 124 | +6.7 | +10.4 |
@@ -21,10 +22,6 @@ Generated: 2026-02-03 11:32
 | 2026-01-29 | Lowell | 99 | Haverhill | 131 | -3.4 | -31.3 |
 | 2026-01-29 | Haverhill | 131 | Tewksbury | 129 | +3.1 | +1.9 |
 | 2026-01-28 | Newton North | 147 | Walpole | 128 | +9.7 | +18.7 |
-| 2026-01-27 | North Andover | 133 | Central Catholic | 139 | +0.1 | -6.3 |
-| 2026-01-27 | Lowell | 112 | Central Catholic | 139 | -4.1 | -26.6 |
-| 2026-01-27 | Lowell | 112 | North Andover | 133 | -1.2 | -20.2 |
-| 2026-01-27 | Needham | 133 | Wellesley | 143 | +1.3 | -9.8 |
 
 ## Current Elo Ratings
 
@@ -55,20 +52,20 @@ Generated: 2026-02-03 11:32
 | 23 | Malden | 1519.7 |
 | 24 | Pembroke/Silver Lake | 1519.5 |
 | 25 | MADS | 1516.7 |
-| 26 | Tewksbury | 1513.3 |
-| 27 | Wakefield | 1502.5 |
+| 26 | Winchester | 1516.2 |
+| 27 | Tewksbury | 1513.3 |
 | 28 | Arlington | 1500.8 |
 | 29 | Middleborough | 1495.6 |
 | 30 | Burlington | 1495.2 |
 | 31 | Salem | 1485.7 |
-| 32 | Winchester | 1485.0 |
-| 33 | Walpole | 1483.9 |
-| 34 | Braintree | 1481.3 |
-| 35 | King Philip | 1481.0 |
-| 36 | Melrose | 1479.5 |
-| 37 | Foxborough | 1478.5 |
-| 38 | Marblehead/Swampscott | 1473.8 |
-| 39 | Silver Lake | 1473.1 |
+| 32 | Walpole | 1483.9 |
+| 33 | Braintree | 1481.3 |
+| 34 | King Philip | 1481.0 |
+| 35 | Melrose | 1479.5 |
+| 36 | Foxborough | 1478.5 |
+| 37 | Marblehead/Swampscott | 1473.8 |
+| 38 | Silver Lake | 1473.1 |
+| 39 | Wakefield | 1471.3 |
 | 40 | Algonquin | 1469.5 |
 | 41 | Wayland | 1469.3 |
 | 42 | Stoneham | 1466.7 |

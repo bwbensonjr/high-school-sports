@@ -1,6 +1,6 @@
 # Coed Swimming - 2026 Season
 
-Generated: 2026-02-03 11:32
+Generated: 2026-02-04 11:31
 
 ## Upcoming Games
 
@@ -13,7 +13,6 @@ Generated: 2026-02-03 11:32
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-02-02 | Somerville | 75 | Latin Academy | 90 | -4.5 | -15.0 |
 | 2026-01-31 | Revere | 37 | East Boston | 52 | +5.2 | -15.0 |
-| 2026-01-27 | Salem | 89 | Marblehead | 78 | -3.9 | +11.0 |
 
 ## Current Elo Ratings
 

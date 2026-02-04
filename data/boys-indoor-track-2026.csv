@@ -141,7 +141,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-23,77779,UPCOMING,Chelsea,4086,,,Lynn Classical,4220,,,Independent,Greater Boston,4:30 P.M.,,0
 2026-01-23,78102,UPCOMING,Lynn English,4221,,,Malden,4227,,,Greater Boston,Greater Boston,4:30 P.M.,,0
 2026-01-23,78105,UPCOMING,Somerville,4351,,,Revere,4329,,,Greater Boston,Greater Boston,4:30 P.M.,,0
-2026-01-24,83088,FINAL,Hingham,4171,46,0,Duxbury,4123,54,1,Patriot,Patriot,,,0
+2026-01-24,83088,FINAL,Hingham,4171,46.0,0.0,Duxbury,4123,54.0,1.0,Patriot,Patriot,,,0
 2026-01-26,77716,UPCOMING,Abington,4002,,,Carver,4077,,,South Shore,South Shore,4:00 P.M.,,0
 2026-01-26,77725,UPCOMING,Mashpee,4237,,,Hull,4184,,,South Shore,South Shore,4:00 P.M.,,0
 2026-01-26,77729,UPCOMING,Randolph,4327,,,Middleborough,4247,,,South Shore,South Shore,4:00 P.M.,,0
