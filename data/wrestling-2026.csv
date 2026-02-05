@@ -350,3 +350,23 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-31,83923,FINAL,Mount St. Charles (R.I.),4488,18,0,Roxbury Latin,4334,66,1,Independent,ISL,,,0
 2026-02-02,84018,FINAL,Concord Academy,4096,46,1,Brooks,4060,30,0,EIL,ISL,,,0
 2026-02-03,84236,FINAL,Newton North,4279,34,0,Watertown,4409,43,1,Bay State,Middlesex,,,0
+2026-02-04,84295,FINAL,Nauset,4271,61,1,Falmouth/Mashpee,4134,10,0,Cape & Islands,Cape & Islands,,,0
+2026-02-04,84301,FINAL,Wayland,4411,56,1,Newton South,4280,17,0,Dual County,Dual County,,,0
+2026-02-04,84311,FINAL,Athol,4017,35,0,Belchertown,4032,42,1,Independent,Independent,,,0
+2026-02-04,84315,FINAL,Hingham,4171,75,1,Plymouth North,4315,6,0,Patriot,Patriot,,,0
+2026-02-04,84322,FINAL,St. John’s (Shrewsbury),4368,42,1,Westford,4421,36,0,Catholic Conference,Dual County,,,0
+2026-02-04,84324,FINAL,Marshfield,4234,66,1,Whitman-Hanson,4427,12,0,Patriot,Patriot,,,0
+2026-02-04,84330,FINAL,Wilmington,4432,17,0,Lynnfield/North Reading,4223,65,1,Middlesex,Cape Ann,,,0
+2026-02-04,84338,FINAL,Norwood,4297,19,0,Dedham,4108,53,1,Tri-Valley,Tri-Valley,,,0
+2026-02-04,84353,FINAL,Tewksbury,4389,57,1,Billerica,4040,11,0,Merrimack Valley,Merrimack Valley,,,0
+2026-02-04,84366,FINAL,Chelmsford,4085,23,0,Methuen,4246,44,1,Merrimack Valley,Merrimack Valley,,,0
+2026-02-04,84369,FINAL,Shawsheen,4346,61,1,New Bedford,4273,8,0,Commonwealth,Big Three,,,0
+2026-02-04,84377,FINAL,Weymouth,4425,59,1,Walpole,4404,24,0,Bay State,Bay State,,,0
+2026-02-04,84381,FINAL,Scituate,4343,40,1,Plymouth South,4316,30,0,Patriot,Patriot,,,0
+2026-02-04,84384,FINAL,Silver Lake,4349,24,0,Duxbury,4123,56,1,Patriot,Patriot,,,0
+2026-02-04,84386,FINAL,Lowell,4216,42,1,Haverhill,4167,36,0,Merrimack Valley,Merrimack Valley,,,0
+2026-02-04,84387,FINAL,Middleborough,4247,42,1,Cohasset,4094,34,0,South Shore,South Shore,,,0
+2026-02-04,84390,FINAL,Woburn,4438,40,1,Arlington,4013,30,0,Middlesex,Middlesex,,,0
+2026-02-04,84416,FINAL,Greater Lowell,4155,51,1,Cambridge,4067,26,0,Commonwealth,Dual County,,,0
+2026-02-04,84418,FINAL,St. John’s Prep,4369,59,1,Salem,4336,15,0,Catholic Conference,Northeastern,,,0
+2026-02-04,84419,FINAL,Newton North,4279,40,0,Brookline,4059,41,1,Bay State,Bay State,,,0

@@ -1,6 +1,6 @@
 # Girls Indoor Track - 2026 Season
 
-Generated: 2026-02-04 11:31
+Generated: 2026-02-05 11:33
 
 ## Upcoming Games
 
@@ -12,12 +12,11 @@ Generated: 2026-02-04 11:31
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-01-30 | North Andover | 41 | Chelmsford | 58 | -3.9 | -17.0 |
-| 2026-01-29 | Latin Academy / O'Bryant | 64 | O’Bryant | 33 | +4.5 | +31.0 |
+| 2026-01-29 | Latin Academy | 64 | O’Bryant | 33 | +1.7 | +31.0 |
 | 2026-01-29 | East Boston | 35 | TechBoston | 29 | +0.1 | +6.0 |
 | 2026-01-29 | New Mission | 13 | Charlestown | 19 | +3.0 | -6.0 |
 | 2026-01-29 | Snowden/Quincy Upper | 37 | CASH | 10 | +6.3 | +27.0 |
 | 2026-01-29 | Boston International | 66 | Madison Park | 6 | +8.6 | +60.0 |
-| 2026-01-28 | Beverly | 30 | Peabody | 56 | -2.6 | -26.0 |
 
 ## Current Elo Ratings
 
@@ -32,16 +31,16 @@ Generated: 2026-02-04 11:31
 | 7 | Ipswich | 1642.8 |
 | 8 | Seekonk | 1633.5 |
 | 9 | Central Catholic | 1615.4 |
-| 10 | Latin Academy / O'Bryant | 1608.6 |
-| 11 | Dennis-Yarmouth | 1608.5 |
-| 12 | Bishop Feehan | 1608.1 |
-| 13 | Oliver Ames | 1601.9 |
-| 14 | King Philip | 1598.1 |
-| 15 | Snowden/Quincy Upper | 1597.7 |
-| 16 | Wellesley | 1587.8 |
-| 17 | Foxborough | 1580.4 |
-| 18 | Plymouth North | 1578.8 |
-| 19 | Old Rochester | 1576.3 |
+| 10 | Dennis-Yarmouth | 1608.5 |
+| 11 | Bishop Feehan | 1608.1 |
+| 12 | Oliver Ames | 1601.9 |
+| 13 | King Philip | 1598.1 |
+| 14 | Snowden/Quincy Upper | 1597.7 |
+| 15 | Wellesley | 1587.8 |
+| 16 | Foxborough | 1580.4 |
+| 17 | Plymouth North | 1578.8 |
+| 18 | Old Rochester | 1576.3 |
+| 19 | Latin Academy / O'Bryant | 1572.9 |
 | 20 | Duxbury | 1570.5 |
 | 21 | Brighton | 1569.3 |
 | 22 | Dover-Sherborn | 1567.6 |
@@ -51,34 +50,34 @@ Generated: 2026-02-04 11:31
 | 26 | Manchester Essex | 1556.5 |
 | 27 | Sharon | 1553.9 |
 | 28 | Triton | 1550.3 |
-| 29 | Archbishop Williams | 1543.2 |
-| 30 | Andover | 1542.3 |
-| 31 | Malden Catholic | 1542.1 |
-| 32 | Franklin | 1537.3 |
-| 33 | Hopkinton | 1537.2 |
-| 34 | Norton | 1536.1 |
-| 35 | Arlington Catholic | 1529.1 |
-| 36 | Somerset Berkley | 1527.8 |
-| 37 | Marshfield | 1527.2 |
-| 38 | Southeastern | 1523.9 |
-| 39 | Natick | 1523.1 |
-| 40 | Holliston | 1522.0 |
-| 41 | Chelmsford | 1507.9 |
-| 42 | North Reading | 1502.8 |
-| 43 | Newburyport | 1502.8 |
-| 44 | Essex Tech | 1502.8 |
-| 45 | Billerica | 1495.9 |
-| 46 | Needham | 1493.8 |
-| 47 | Greater New Bedford | 1491.3 |
-| 48 | Canton | 1488.7 |
-| 49 | Dighton-Rehoboth | 1487.3 |
-| 50 | Milton | 1485.4 |
-| 51 | Nauset | 1479.4 |
-| 52 | Taunton | 1476.9 |
-| 53 | Hanover | 1476.3 |
-| 54 | Charlestown | 1475.7 |
-| 55 | North Quincy/Quincy | 1475.2 |
-| 56 | O’Bryant | 1474.1 |
+| 29 | Latin Academy | 1548.3 |
+| 30 | Archbishop Williams | 1543.2 |
+| 31 | Andover | 1542.3 |
+| 32 | Malden Catholic | 1542.1 |
+| 33 | Franklin | 1537.3 |
+| 34 | Hopkinton | 1537.2 |
+| 35 | Norton | 1536.1 |
+| 36 | Arlington Catholic | 1529.1 |
+| 37 | Somerset Berkley | 1527.8 |
+| 38 | Marshfield | 1527.2 |
+| 39 | Southeastern | 1523.9 |
+| 40 | Natick | 1523.1 |
+| 41 | Holliston | 1522.0 |
+| 42 | Chelmsford | 1507.9 |
+| 43 | Essex Tech | 1502.8 |
+| 44 | Newburyport | 1502.8 |
+| 45 | North Reading | 1502.8 |
+| 46 | Billerica | 1495.9 |
+| 47 | Needham | 1493.8 |
+| 48 | Greater New Bedford | 1491.3 |
+| 49 | Canton | 1488.7 |
+| 50 | Dighton-Rehoboth | 1487.3 |
+| 51 | Milton | 1485.4 |
+| 52 | Nauset | 1479.4 |
+| 53 | Taunton | 1476.9 |
+| 54 | Hanover | 1476.3 |
+| 55 | Charlestown | 1475.7 |
+| 56 | North Quincy/Quincy | 1475.2 |
 | 57 | Marblehead | 1473.2 |
 | 58 | Martha’s Vineyard | 1471.9 |
 | 59 | Whitman-Hanson | 1471.1 |
@@ -88,37 +87,38 @@ Generated: 2026-02-04 11:31
 | 63 | Medfield | 1469.4 |
 | 64 | Bishop Fenwick | 1467.5 |
 | 65 | Danvers | 1464.3 |
-| 66 | Beverly | 1462.4 |
-| 67 | West Bridgewater | 1460.7 |
-| 68 | Wareham | 1458.3 |
-| 69 | Swampscott | 1455.9 |
-| 70 | Pentucket | 1455.2 |
-| 71 | Bishop Stang | 1453.5 |
-| 72 | St. John Paul II | 1451.2 |
-| 73 | Dedham | 1449.1 |
-| 74 | Salem | 1447.6 |
-| 75 | North Attleborough | 1446.8 |
-| 76 | Fairhaven | 1446.7 |
-| 77 | Hamilton-Wenham | 1446.6 |
-| 78 | Amesbury | 1444.8 |
-| 79 | Millis | 1437.9 |
-| 80 | Hingham | 1437.3 |
-| 81 | East Boston | 1435.8 |
-| 82 | Milford | 1435.2 |
-| 83 | CASH | 1432.3 |
-| 84 | Silver Lake | 1431.7 |
-| 85 | Apponequet | 1431.0 |
-| 86 | Madison Park | 1429.9 |
-| 87 | New Mission | 1429.8 |
-| 88 | Mansfield | 1428.5 |
-| 89 | TechBoston | 1426.0 |
-| 90 | Lynnfield | 1423.1 |
-| 91 | Walpole | 1419.0 |
-| 92 | Attleboro | 1415.2 |
-| 93 | Ursuline | 1412.4 |
-| 94 | Brookline | 1406.8 |
-| 95 | Framingham | 1397.0 |
-| 96 | Fontbonne | 1355.9 |
-| 97 | Weymouth | 1340.3 |
-| 98 | North Andover | 1296.9 |
-| 99 | Cristo Rey | 1237.1 |
+| 66 | O’Bryant | 1464.1 |
+| 67 | Beverly | 1462.4 |
+| 68 | West Bridgewater | 1460.7 |
+| 69 | Wareham | 1458.3 |
+| 70 | Swampscott | 1455.9 |
+| 71 | Pentucket | 1455.2 |
+| 72 | Bishop Stang | 1453.5 |
+| 73 | St. John Paul II | 1451.2 |
+| 74 | Dedham | 1449.1 |
+| 75 | Salem | 1447.6 |
+| 76 | North Attleborough | 1446.8 |
+| 77 | Fairhaven | 1446.7 |
+| 78 | Hamilton-Wenham | 1446.6 |
+| 79 | Amesbury | 1444.8 |
+| 80 | Millis | 1437.9 |
+| 81 | Hingham | 1437.3 |
+| 82 | East Boston | 1435.8 |
+| 83 | Milford | 1435.2 |
+| 84 | CASH | 1432.3 |
+| 85 | Silver Lake | 1431.7 |
+| 86 | Apponequet | 1431.0 |
+| 87 | Madison Park | 1429.9 |
+| 88 | New Mission | 1429.8 |
+| 89 | Mansfield | 1428.5 |
+| 90 | TechBoston | 1426.0 |
+| 91 | Lynnfield | 1423.1 |
+| 92 | Walpole | 1419.0 |
+| 93 | Attleboro | 1415.2 |
+| 94 | Ursuline | 1412.4 |
+| 95 | Brookline | 1406.8 |
+| 96 | Framingham | 1397.0 |
+| 97 | Fontbonne | 1355.9 |
+| 98 | Weymouth | 1340.3 |
+| 99 | North Andover | 1296.9 |
+| 100 | Cristo Rey | 1237.1 |

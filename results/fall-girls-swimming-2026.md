@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-02-04 11:31
+Generated: 2026-02-05 11:33
 
 ## Upcoming Games
 
@@ -14,9 +14,6 @@ Generated: 2026-02-04 11:31
 | 2026-01-29 | Apponequet | 354 | Seekonk | 422 | -4.2 | -68.0 |
 | 2026-01-29 | Old Rochester | 223 | Seekonk | 422 | -17.6 | -199.0 |
 | 2026-01-29 | Old Rochester | 223 | Apponequet | 354 | -1.4 | -131.0 |
-| 2026-01-28 | Sandwich | 128 | Nauset | 34 | +16.4 | +94.0 |
-| 2026-01-28 | Hingham | 86 | Quincy | 84 | +11.2 | +2.0 |
-| 2026-01-28 | Durfee | 52 | Sharon | 113 | -2.4 | -61.0 |
 
 ## Current Elo Ratings
 
