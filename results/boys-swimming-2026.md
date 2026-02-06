@@ -1,6 +1,6 @@
 # Boys Swimming - 2026 Season
 
-Generated: 2026-02-05 11:33
+Generated: 2026-02-06 11:31
 
 ## Upcoming Games
 
@@ -9,12 +9,8 @@ Generated: 2026-02-05 11:33
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-01-29 | Old Rochester | 331 | Seekonk | 348 | +7.7 | -17.0 |
-| 2026-01-29 | Apponequet/Old Colony | 273 | Seekonk | 348 | +4.1 | -75.0 |
-| 2026-01-29 | Apponequet/Old Colony | 273 | Old Rochester | 331 | +0.3 | -58.0 |
-| 2026-01-29 | Marblehead | 92 | Swampscott | 75 | +2.0 | +17.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 

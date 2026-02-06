@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2026 Season
 
-Generated: 2026-02-05 11:33
+Generated: 2026-02-06 11:31
 
 ## Upcoming Games
 
@@ -18,9 +18,6 @@ Generated: 2026-02-05 11:33
 | 2026-02-01 | Scituate | 127 | Hanover | 124 | -0.7 | +3.5 |
 | 2026-02-01 | Newton North | 146 | Wellesley | 144 | +8.8 | +2.5 |
 | 2026-01-30 | Hingham/Hull | 139 | Marshfield | 130 | +4.7 | +9.0 |
-| 2026-01-29 | Hanover | 124 | Scituate | 121 | +3.6 | +3.8 |
-| 2026-01-29 | Lowell | 99 | Haverhill | 131 | -3.4 | -31.3 |
-| 2026-01-29 | Haverhill | 131 | Tewksbury | 129 | +3.1 | +1.9 |
 
 ## Current Elo Ratings
 

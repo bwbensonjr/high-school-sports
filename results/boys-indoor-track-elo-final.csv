@@ -28,6 +28,7 @@ Hingham,1549.8234392593833
 Duxbury,1548.550666625992
 Greater New Bedford,1546.9143774025868
 Weymouth,1546.3578179459118
+Beverly,1540.4244841983261
 King Philip,1531.8952904911725
 Latin Academy,1531.7554025382544
 Norton,1531.2491309486356
@@ -40,59 +41,58 @@ Pentucket,1523.446605171578
 Seekonk,1520.2171278102778
 Ipswich,1515.9790442377735
 Lynnfield,1512.239306466419
+Bourne,1502.7555
+Newton South,1502.7555
+Lexington,1502.7555
+Woburn,1502.7555
+Monomoy,1502.7555
+Randolph,1502.7555
+Malden,1502.7555
+Winchester,1502.7555
+Hopkinton,1502.7555
+Essex Tech,1502.7555
+Nantucket,1502.7555
+Andover,1502.7555
+Melrose,1502.7555
+Burlington,1502.7555
+Carver,1502.7555
+Stoneham,1502.7555
+Lincoln-Sudbury,1502.7555
+North Reading,1502.7555
+Abington,1502.7555
+Watertown,1502.7555
+Mashpee,1502.7555
+Lynn Classical,1502.7555
+Westford,1502.7555
+Chelsea,1502.7555
+Arlington,1502.7555
+Westwood,1502.7555
 Boston Latin,1502.7555
 Middleborough,1502.7555
-Monomoy,1502.7555
-Wayland,1502.7555
-Arlington,1502.7555
-Melrose,1502.7555
-North Reading,1502.7555
-Falmouth,1502.7555
-Randolph,1502.7555
-Lynn Classical,1502.7555
-Rockland,1502.7555
-Somerville,1502.7555
-Malden,1502.7555
-Sandwich,1502.7555
-Newburyport,1502.7555
-Mashpee,1502.7555
-Cambridge,1502.7555
-Wakefield,1502.7555
-Hull,1502.7555
-Andover,1502.7555
-Burlington,1502.7555
-Weston,1502.7555
-Woburn,1502.7555
-Revere,1502.7555
-Nantucket,1502.7555
-Bourne,1502.7555
-Concord-Carlisle,1502.7555
-Chelsea,1502.7555
-Stoneham,1502.7555
-Wilmington,1502.7555
-Lynn English,1502.7555
-Lexington,1502.7555
-Abington,1502.7555
-Hopkinton,1502.7555
-Danvers,1502.7555
-Waltham,1502.7555
-Westwood,1502.7555
-Reading,1502.7555
-Carver,1502.7555
-Bellingham,1502.7555
-Norwell,1502.7555
-Ashland,1502.7555
-Watertown,1502.7555
-Winchester,1502.7555
-Belmont,1502.7555
-Newton South,1502.7555
 St. John Paul II,1502.7555
-Lincoln-Sudbury,1502.7555
-Dedham,1502.7555
+Reading,1502.7555
+Hull,1502.7555
+Sandwich,1502.7555
+Wilmington,1502.7555
 Medway,1502.7555
+Wakefield,1502.7555
 Bedford,1502.7555
-Essex Tech,1502.7555
-Westford,1502.7555
+Falmouth,1502.7555
+Wayland,1502.7555
+Newburyport,1502.7555
+Concord-Carlisle,1502.7555
+Cambridge,1502.7555
+Waltham,1502.7555
+Belmont,1502.7555
+Ashland,1502.7555
+Revere,1502.7555
+Dedham,1502.7555
+Rockland,1502.7555
+Bellingham,1502.7555
+Somerville,1502.7555
+Weston,1502.7555
+Lynn English,1502.7555
+Norwell,1502.7555
 Tri-County,1484.3015526318934
 Triton,1482.0643948284219
 Martha’s Vineyard,1480.662074426796
@@ -104,6 +104,7 @@ Medfield,1474.2618690513643
 Somerset Berkley,1473.5211439584914
 Natick,1472.7911117883032
 Dighton-Rehoboth,1468.3960215607508
+Danvers,1465.0865158016738
 Manchester Essex,1463.614795366733
 Wellesley,1463.6117234993594
 Madison Park,1462.7864456808172

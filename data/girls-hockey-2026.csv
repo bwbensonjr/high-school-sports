@@ -581,9 +581,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-04,84307,FINAL,Natick,4270,4,1,Newton North,4279,1,0,Bay State,Bay State,5:40 P.M.,,0
 2026-02-04,84319,FINAL,Wellesley/L-S,4413,2,2,Brookline,4059,2,2,Bay State,Bay State,6:00 P.M.,,0
 2026-02-04,84343,FINAL,Auburn,4019,3,1,Longmeadow,4214,1,0,Independent,Central/West,,,0
-2026-02-05,72413,UPCOMING,Westford,4421,,,Algonquin,4005,,,Merrimack Valley/Dual County,Independent,5:45 P.M.,,0
-2026-02-05,82717,UPCOMING,Ashland/Medway,4243,,,Medfield,4241,,,Tri-Valley,Tri-Valley,4:00 P.M.,,0
-2026-02-05,82719,UPCOMING,Duxbury,4123,,,King Philip,4197,,,Patriot,Hockomock,7:20 P.M.,,0
+2026-02-04,84523,FINAL,Holderness,4173,6,1,Hebron (Maine),4168,3,0,Independent,Independent,,,0
+2026-02-04,84526,FINAL,Milton,4252,3,0,Lawrence Academy,4204,5,1,Bay State,ISL,,,0
+2026-02-05,72413,FINAL,Westford,4421,1,0,Algonquin,4005,4,1,Merrimack Valley/Dual County,Independent,5:45 P.M.,,0
+2026-02-05,82717,FINAL,Ashland/Medway,4243,2,0,Medfield,4241,6,1,Tri-Valley,Tri-Valley,4:00 P.M.,,0
+2026-02-05,82719,FINAL,Duxbury,4123,2,0,King Philip,4197,3,1,Patriot,Hockomock,7:20 P.M.,,0
+2026-02-05,84502,FINAL,Hopkinton/Dover-Sherborn,4118,5,1,Wayland/Weston,4411,1,0,Tri-Valley,Merrimack Valley/Dual County,7:10 P.M.,,0
 2026-02-06,72503,UPCOMING,Andover,4009,,,Bishop Feehan,4042,,,Merrimack Valley/Dual County,Catholic Central,8:00 P.M.,,0
 2026-02-07,72380,UPCOMING,Methuen/Tewksbury,4246,,,Billerica/Chelmsford,4040,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,5:00 P.M.,,0
 2026-02-07,72414,UPCOMING,Central Catholic,4081,,,Westford,4421,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,4:05 P.M.,,0
@@ -691,3 +694,5 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-14,84275,UPCOMING,Martha’s Vineyard,4235,,,Sandwich,4340,,,Cape & Islands,Cape & Islands,3:00 P.M.,,0
 2026-02-14,84277,UPCOMING,Westwood,4424,,,Medfield,4241,,,Tri-Valley,Tri-Valley,3:10 P.M.,,0
 2026-02-14,84279,UPCOMING,Algonquin,4005,,,Notre Dame (Hingham),4449,,,Independent,Independent,3:20 P.M.,,0
+2026-02-16,72389,UPCOMING,Methuen/Tewksbury,4246,,,Longmeadow,4214,,,Merrimack Valley/Dual County,Central/West,5:00 P.M.,,0
+2026-02-16,72446,UPCOMING,Billerica/Chelmsford,4040,,,Franklin,4144,,,Merrimack Valley/Dual County,Hockomock,3:00 P.M.,,0

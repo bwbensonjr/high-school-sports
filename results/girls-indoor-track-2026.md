@@ -1,6 +1,6 @@
 # Girls Indoor Track - 2026 Season
 
-Generated: 2026-02-05 11:33
+Generated: 2026-02-06 11:31
 
 ## Upcoming Games
 
@@ -12,11 +12,6 @@ Generated: 2026-02-05 11:33
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-01-30 | North Andover | 41 | Chelmsford | 58 | -3.9 | -17.0 |
-| 2026-01-29 | Latin Academy | 64 | O’Bryant | 33 | +1.7 | +31.0 |
-| 2026-01-29 | East Boston | 35 | TechBoston | 29 | +0.1 | +6.0 |
-| 2026-01-29 | New Mission | 13 | Charlestown | 19 | +3.0 | -6.0 |
-| 2026-01-29 | Snowden/Quincy Upper | 37 | CASH | 10 | +6.3 | +27.0 |
-| 2026-01-29 | Boston International | 66 | Madison Park | 6 | +8.6 | +60.0 |
 
 ## Current Elo Ratings
 
@@ -64,9 +59,9 @@ Generated: 2026-02-05 11:33
 | 40 | Natick | 1523.1 |
 | 41 | Holliston | 1522.0 |
 | 42 | Chelmsford | 1507.9 |
-| 43 | Essex Tech | 1502.8 |
+| 43 | North Reading | 1502.8 |
 | 44 | Newburyport | 1502.8 |
-| 45 | North Reading | 1502.8 |
+| 45 | Essex Tech | 1502.8 |
 | 46 | Billerica | 1495.9 |
 | 47 | Needham | 1493.8 |
 | 48 | Greater New Bedford | 1491.3 |
