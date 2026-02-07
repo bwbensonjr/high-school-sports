@@ -1,6 +1,6 @@
 # Girls Indoor Track - 2026 Season
 
-Generated: 2026-02-06 11:31
+Generated: 2026-02-07 11:19
 
 ## Upcoming Games
 
@@ -9,9 +9,8 @@ Generated: 2026-02-06 11:31
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-01-30 | North Andover | 41 | Chelmsford | 58 | -3.9 | -17.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 
@@ -59,9 +58,9 @@ Generated: 2026-02-06 11:31
 | 40 | Natick | 1523.1 |
 | 41 | Holliston | 1522.0 |
 | 42 | Chelmsford | 1507.9 |
-| 43 | North Reading | 1502.8 |
+| 43 | Essex Tech | 1502.8 |
 | 44 | Newburyport | 1502.8 |
-| 45 | Essex Tech | 1502.8 |
+| 45 | North Reading | 1502.8 |
 | 46 | Billerica | 1495.9 |
 | 47 | Needham | 1493.8 |
 | 48 | Greater New Bedford | 1491.3 |
