@@ -377,3 +377,37 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-06,84579,FINAL,Cohasset,4094,70,1,Weston,4423,6,0,South Shore,Dual County,,,0
 2026-02-06,84580,FINAL,Cohasset,4094,54,1,Wellesley,4413,30,0,South Shore,Bay State,,,0
 2026-02-06,84583,FINAL,Cohasset,4094,60,1,Mansfield,4230,18,0,South Shore,Hockomock,,,0
+2026-02-07,84612,FINAL,Weymouth,4425,36,1,Keene (N.H.),4192,34,0,Bay State,Independent,,,0
+2026-02-07,84614,FINAL,Weymouth,4425,35,0,Arlington,4013,41,1,Bay State,Middlesex,,,0
+2026-02-07,84616,FINAL,Weymouth,4425,40,0,Andover,4009,42,1,Bay State,Merrimack Valley,,,0
+2026-02-07,84619,FINAL,Weymouth,4425,30,0,Bishop Hendricken (R.I.),4044,52,1,Bay State,Independent,,,0
+2026-02-07,84622,FINAL,Braintree,4051,20,0,New Bedford,4273,56,1,Bay State,Big Three,,,0
+2026-02-07,84624,FINAL,Braintree,4051,23,1,Stoughton,4381,11,0,Bay State,Hockomock,,,0
+2026-02-07,84625,FINAL,Braintree,4051,43,1,Canton,4071,34,0,Bay State,Hockomock,,,0
+2026-02-07,84627,FINAL,Burlington,4065,70,1,Newton North,4279,10,0,Middlesex,Bay State,,,0
+2026-02-07,84628,FINAL,Burlington,4065,36,0,Waltham,4405,37,1,Middlesex,Dual County,,,0
+2026-02-07,84634,FINAL,Weston,4423,6,0,Cohasset,4094,76,1,Dual County,South Shore,,,0
+2026-02-07,84636,FINAL,Cohasset,4094,54,1,Wellesley,4413,30,0,South Shore,Bay State,,,0
+2026-02-07,84638,FINAL,Cohasset,4094,60,1,Mansfield,4230,18,0,South Shore,Hockomock,,,0
+2026-02-07,84641,FINAL,Dedham,4108,36,0,Lynnfield/North Reading,4223,46,1,Tri-Valley,Cape Ann,,,0
+2026-02-07,84643,FINAL,Brookline,4059,24,0,Lynnfield/North Reading,4223,54,1,Bay State,Cape Ann,,,0
+2026-02-07,84650,FINAL,Wayland,4411,42,1,Wakefield,4402,28,0,Dual County,Middlesex,,,0
+2026-02-07,84652,FINAL,Wayland,4411,57,1,Latin Academy,4202,6,0,Dual County,Boston City,,,0
+2026-02-07,84653,FINAL,Wayland,4411,36,1,Belmont,4034,23,0,Dual County,Middlesex,,,0
+2026-02-07,84673,FINAL,Brockton,4058,29,0,Taunton,4388,44,1,Big Three,Hockomock,,,0
+2026-02-07,84675,FINAL,Xaverian,4446,31,0,Taunton,4388,41,1,Catholic Conference,Hockomock,,,0
+2026-02-07,84676,FINAL,Quincy/North Quincy,4326,11,0,Taunton,4388,68,1,Patriot,Hockomock,,,0
+2026-02-07,84677,FINAL,Middleborough,4247,35,0,Taunton,4388,47,1,South Shore,Hockomock,,,0
+2026-02-07,84679,FINAL,West Springfield,4417,21,0,Milford,4249,53,1,Independent,Hockomock,,,0
+2026-02-07,84680,FINAL,Melrose,4244,36,0,Milford,4249,46,1,Middlesex,Hockomock,,,0
+2026-02-07,84681,FINAL,North Attleborough,4284,30,0,Milford,4249,42,1,Hockomock,Hockomock,,,0
+2026-02-07,84683,FINAL,Salem (N.H.),4337,32,0,Lowell,4216,42,1,Independent,Merrimack Valley,,,0
+2026-02-07,84686,FINAL,Haverhill,4167,36,0,Lowell,4216,43,1,Merrimack Valley,Merrimack Valley,,,0
+2026-02-07,84687,FINAL,Chicopee,4088,11,0,Lowell,4216,69,1,Independent,Merrimack Valley,,,0
+2026-02-07,84688,FINAL,Newton South,4280,20,0,Lowell,4216,46,1,Dual County,Merrimack Valley,,,0
+2026-02-07,84691,FINAL,Franklin County Tech,4145,33,0,Holliston,4174,46,1,Independent,Tri-Valley,,,0
+2026-02-07,84694,FINAL,Tewksbury,4389,36,0,Holliston,4174,43,1,Merrimack Valley,Tri-Valley,,,0
+2026-02-07,84696,FINAL,Tyngsborough/Dracut,4397,36,0,Holliston,4174,41,1,Mid-Wach,Tri-Valley,,,0
+2026-02-07,84698,FINAL,Greater Lawrence,4154,54,1,Reading,4328,27,0,Commonwealth,Middlesex,,,0
+2026-02-07,84701,FINAL,Greater Lawrence,4154,42,1,Winchester,4434,33,0,Commonwealth,Middlesex,,,0
+2026-02-07,84702,FINAL,Greater Lawrence,4154,55,1,Gloucester,4150,24,0,Commonwealth,Northeastern,,,0
