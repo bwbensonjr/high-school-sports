@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2026 Season
 
-Generated: 2026-02-08 11:21
+Generated: 2026-02-09 11:42
 
 ## Upcoming Games
 
@@ -12,11 +12,6 @@ Generated: 2026-02-08 11:21
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-02-03 | Winchester | 140 | Wakefield | 131 | +1.3 | +8.9 |
-| 2026-02-01 | Whitman-Hanson | 133 | Hingham/Hull | 136 | -3.1 | -2.9 |
-| 2026-02-01 | Marshfield | 134 | Scituate | 127 | +9.2 | +6.9 |
-| 2026-02-01 | Marshfield | 134 | Hanover | 124 | +6.7 | +10.4 |
-| 2026-02-01 | Scituate | 127 | Hanover | 124 | -0.7 | +3.5 |
-| 2026-02-01 | Newton North | 146 | Wellesley | 144 | +8.8 | +2.5 |
 
 ## Current Elo Ratings
 

@@ -146,11 +146,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-26,77725,UPCOMING,Mashpee,4237,,,Hull,4184,,,South Shore,South Shore,4:00 P.M.,,0
 2026-01-26,77729,UPCOMING,Randolph,4327,,,Middleborough,4247,,,South Shore,South Shore,4:00 P.M.,,0
 2026-01-27,77631,UPCOMING,Arlington,4013,,,Cardinal Spellman,4075,,,Middlesex,Tri-County,4:00 P.M.,,0
-2026-01-29,83780,FINAL,O’Bryant,4298,64,1,Latin Academy,4202,35,0,Boston City,Boston City,,,0
-2026-01-29,83783,FINAL,TechBoston,4117,73,1,East Boston,4125,18,0,Boston City,Boston City,,,0
-2026-01-29,83784,FINAL,New Mission,4494,26,1,Charlestown,4084,18,0,Boston City,Boston City,,,0
-2026-01-29,83787,FINAL,Snowden/Quincy Upper,4452,58,1,CASH,4187,11,0,Boston City,Boston City,,,0
-2026-01-29,83788,FINAL,Boston International,4547,45,1,Madison Park,4225,28,0,Boston City,Boston City,,,0
+2026-01-29,83780,FINAL,O’Bryant,4298,64.0,1.0,Latin Academy,4202,35.0,0.0,Boston City,Boston City,,,0
+2026-01-29,83783,FINAL,TechBoston,4117,73.0,1.0,East Boston,4125,18.0,0.0,Boston City,Boston City,,,0
+2026-01-29,83784,FINAL,New Mission,4494,26.0,1.0,Charlestown,4084,18.0,0.0,Boston City,Boston City,,,0
+2026-01-29,83787,FINAL,Snowden/Quincy Upper,4452,58.0,1.0,CASH,4187,11.0,0.0,Boston City,Boston City,,,0
+2026-01-29,83788,FINAL,Boston International,4547,45.0,1.0,Madison Park,4225,28.0,0.0,Boston City,Boston City,,,0
 2026-01-30,77784,UPCOMING,Somerville,4351,,,Lynn Classical,4220,,,Greater Boston,Greater Boston,4:00 P.M.,,0
 2026-01-30,77785,UPCOMING,Lynn English,4221,,,Lynn Classical,4220,,,Greater Boston,Greater Boston,4:00 P.M.,,0
 2026-02-05,84508,FINAL,Danvers,4103,39,0,Beverly,4038,47,1,Northeastern,Northeastern,,,0
