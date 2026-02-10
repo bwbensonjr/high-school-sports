@@ -1,6 +1,6 @@
 # Coed Swimming - 2026 Season
 
-Generated: 2026-02-09 11:42
+Generated: 2026-02-10 11:48
 
 ## Upcoming Games
 
@@ -9,9 +9,8 @@ Generated: 2026-02-09 11:42
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-02-02 | Somerville | 75 | Latin Academy | 90 | -4.5 | -15.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 
