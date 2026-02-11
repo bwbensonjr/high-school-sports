@@ -1,6 +1,6 @@
 # Wrestling - 2026 Season
 
-Generated: 2026-02-10 11:48
+Generated: 2026-02-11 11:42
 
 ## Upcoming Games
 
@@ -11,9 +11,8 @@ Generated: 2026-02-10 11:48
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-02-07 | Weymouth | 30 | Bishop Hendricken (R.I.) | 52 | +5.0 | -22.0 |
-| 2026-02-07 | Braintree | 20 | New Bedford | 56 | -5.2 | -36.0 |
-| 2026-02-07 | Braintree | 43 | Canton | 34 | +0.2 | +9.0 |
+| 2026-02-10 | Whitman-Hanson | 26 | Bristol-Plymouth | 50 | -7.3 | -24.0 |
+| 2026-02-07 | Braintree | 23 | Stoughton | 11 | +4.6 | +12.0 |
 | 2026-02-07 | Burlington | 70 | Newton North | 10 | +5.6 | +60.0 |
 | 2026-02-07 | Burlington | 36 | Waltham | 37 | +4.8 | -1.0 |
 | 2026-02-07 | Weston | 6 | Cohasset | 76 | -11.1 | -70.0 |
@@ -40,39 +39,40 @@ Generated: 2026-02-10 11:48
 | 2026-02-07 | Tyngsborough/Dracut | 36 | Holliston | 41 | -7.0 | -5.0 |
 | 2026-02-07 | Greater Lawrence | 54 | Reading | 27 | +8.0 | +27.0 |
 | 2026-02-07 | Greater Lawrence | 42 | Winchester | 33 | +0.4 | +9.0 |
-| 2026-02-07 | Braintree | 23 | Stoughton | 11 | +4.6 | +12.0 |
 | 2026-02-07 | Greater Lawrence | 55 | Gloucester | 24 | +11.8 | +31.0 |
+| 2026-02-07 | Braintree | 43 | Canton | 34 | +0.2 | +9.0 |
+| 2026-02-07 | Braintree | 20 | New Bedford | 56 | -5.2 | -36.0 |
+| 2026-02-07 | Weymouth | 30 | Bishop Hendricken (R.I.) | 52 | +5.0 | -22.0 |
+| 2026-02-07 | Weymouth | 40 | Andover | 42 | +0.8 | -2.0 |
 | 2026-02-07 | Weymouth | 35 | Arlington | 41 | +4.4 | -6.0 |
 | 2026-02-07 | Weymouth | 36 | Keene (N.H.) | 34 | +8.2 | +2.0 |
-| 2026-02-07 | Weymouth | 40 | Andover | 42 | +0.8 | -2.0 |
 | 2026-02-06 | Cohasset | 60 | Mansfield | 18 | +12.1 | +42.0 |
 | 2026-02-06 | Cohasset | 54 | Wellesley | 30 | +10.0 | +24.0 |
 | 2026-02-06 | Cohasset | 70 | Weston | 6 | +12.2 | +64.0 |
-| 2026-02-05 | Hanover | 60 | Pembroke | 21 | +11.5 | +39.0 |
+| 2026-02-05 | Melrose | 41 | Wakefield | 26 | +2.7 | +15.0 |
 | 2026-02-05 | Watertown | 42 | Burlington | 31 | +6.1 | +11.0 |
 | 2026-02-05 | Triton | 39 | Excel Academy | 34 | +6.7 | +5.0 |
-| 2026-02-05 | Melrose | 41 | Wakefield | 26 | +2.7 | +15.0 |
-| 2026-02-04 | St. John’s (Shrewsbury) | 42 | Westford | 36 | +1.2 | +6.0 |
+| 2026-02-05 | Hanover | 60 | Pembroke | 21 | +11.5 | +39.0 |
+| 2026-02-04 | Tewksbury | 57 | Billerica | 11 | +9.4 | +46.0 |
 | 2026-02-04 | Norwood | 19 | Dedham | 53 | -3.7 | -34.0 |
 | 2026-02-04 | Wilmington | 17 | Lynnfield/North Reading | 65 | -10.9 | -48.0 |
 | 2026-02-04 | Marshfield | 66 | Whitman-Hanson | 12 | +1.4 | +54.0 |
-| 2026-02-04 | Nauset | 61 | Falmouth/Mashpee | 10 | +7.5 | +51.0 |
+| 2026-02-04 | Wayland | 56 | Newton South | 17 | +15.7 | +39.0 |
+| 2026-02-04 | St. John’s (Shrewsbury) | 42 | Westford | 36 | +1.2 | +6.0 |
 | 2026-02-04 | Hingham | 75 | Plymouth North | 6 | +10.9 | +69.0 |
 | 2026-02-04 | Athol | 35 | Belchertown | 42 | +2.4 | -7.0 |
-| 2026-02-04 | Wayland | 56 | Newton South | 17 | +15.7 | +39.0 |
-| 2026-02-04 | Chelmsford | 23 | Methuen | 44 | -7.4 | -21.0 |
-| 2026-02-04 | Tewksbury | 57 | Billerica | 11 | +9.4 | +46.0 |
-| 2026-02-04 | Middleborough | 42 | Cohasset | 34 | -2.4 | +8.0 |
 | 2026-02-04 | Shawsheen | 61 | New Bedford | 8 | +15.6 | +53.0 |
+| 2026-02-04 | Chelmsford | 23 | Methuen | 44 | -7.4 | -21.0 |
+| 2026-02-04 | Woburn | 40 | Arlington | 30 | -1.0 | +10.0 |
 | 2026-02-04 | Weymouth | 59 | Walpole | 24 | +3.5 | +35.0 |
 | 2026-02-04 | Scituate | 40 | Plymouth South | 30 | +8.1 | +10.0 |
 | 2026-02-04 | Silver Lake | 24 | Duxbury | 56 | +0.3 | -32.0 |
 | 2026-02-04 | Lowell | 42 | Haverhill | 36 | +7.6 | +6.0 |
-| 2026-02-04 | Woburn | 40 | Arlington | 30 | -1.0 | +10.0 |
+| 2026-02-04 | Middleborough | 42 | Cohasset | 34 | -2.4 | +8.0 |
 | 2026-02-04 | Greater Lowell | 51 | Cambridge | 26 | -0.2 | +25.0 |
 | 2026-02-04 | St. John’s Prep | 59 | Salem | 15 | +15.9 | +44.0 |
 | 2026-02-04 | Newton North | 40 | Brookline | 41 | +9.7 | -1.0 |
-| 2026-02-03 | Newton North | 34 | Watertown | 43 | -3.9 | -9.0 |
+| 2026-02-04 | Nauset | 61 | Falmouth/Mashpee | 10 | +7.5 | +51.0 |
 
 ## Current Elo Ratings
 
@@ -89,11 +89,11 @@ Generated: 2026-02-10 11:48
 | 9 | Lynnfield/North Reading | 1745.6 |
 | 10 | St. John’s (Shrewsbury) | 1721.6 |
 | 11 | Lowell | 1702.0 |
-| 12 | Westford | 1688.8 |
-| 13 | Pentucket | 1681.8 |
-| 14 | Watertown | 1679.0 |
-| 15 | Greater Lawrence | 1674.6 |
-| 16 | Bristol-Plymouth | 1670.5 |
+| 12 | Bristol-Plymouth | 1695.6 |
+| 13 | Westford | 1688.8 |
+| 14 | Pentucket | 1681.8 |
+| 15 | Watertown | 1679.0 |
+| 16 | Greater Lawrence | 1674.6 |
 | 17 | Greater Lowell | 1663.4 |
 | 18 | Natick | 1662.2 |
 | 19 | Mt. Hope (R.I.) | 1659.9 |
@@ -214,29 +214,29 @@ Generated: 2026-02-10 11:48
 | 134 | Marianapolis | 1444.3 |
 | 135 | Durfee | 1443.9 |
 | 136 | Quabbin | 1438.8 |
-| 137 | Whitman-Hanson | 1438.6 |
-| 138 | Mahar | 1437.5 |
-| 139 | Canton | 1437.2 |
-| 140 | Middlebury (Vt.) | 1436.7 |
-| 141 | Franklin | 1434.4 |
-| 142 | Latin Academy | 1433.4 |
-| 143 | Chapel Hill | 1433.1 |
-| 144 | King Philip | 1432.4 |
-| 145 | Hyde | 1432.3 |
-| 146 | Concord-Carlisle | 1429.6 |
-| 147 | Marlborough | 1429.2 |
-| 148 | Falmouth/Mashpee | 1428.5 |
-| 149 | Keefe Tech | 1428.4 |
-| 150 | Reading | 1427.7 |
-| 151 | Mansfield | 1427.6 |
-| 152 | Lynn Tech | 1426.7 |
-| 153 | Chicopee | 1423.6 |
-| 154 | North Andover | 1423.1 |
-| 155 | Belmont | 1421.4 |
-| 156 | North Attleborough | 1420.8 |
-| 157 | Middlesex | 1420.6 |
-| 158 | Excel Academy | 1417.6 |
-| 159 | Boston Latin | 1414.7 |
+| 137 | Mahar | 1437.5 |
+| 138 | Canton | 1437.2 |
+| 139 | Middlebury (Vt.) | 1436.7 |
+| 140 | Franklin | 1434.4 |
+| 141 | Latin Academy | 1433.4 |
+| 142 | Chapel Hill | 1433.1 |
+| 143 | King Philip | 1432.4 |
+| 144 | Hyde | 1432.3 |
+| 145 | Concord-Carlisle | 1429.6 |
+| 146 | Marlborough | 1429.2 |
+| 147 | Falmouth/Mashpee | 1428.5 |
+| 148 | Keefe Tech | 1428.4 |
+| 149 | Reading | 1427.7 |
+| 150 | Mansfield | 1427.6 |
+| 151 | Lynn Tech | 1426.7 |
+| 152 | Chicopee | 1423.6 |
+| 153 | North Andover | 1423.1 |
+| 154 | Belmont | 1421.4 |
+| 155 | North Attleborough | 1420.8 |
+| 156 | Middlesex | 1420.6 |
+| 157 | Excel Academy | 1417.6 |
+| 158 | Boston Latin | 1414.7 |
+| 159 | Whitman-Hanson | 1413.5 |
 | 160 | Athol | 1411.6 |
 | 161 | Monty Tech/Fitchburg | 1409.7 |
 | 162 | BB&N | 1408.1 |

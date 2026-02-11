@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2026 Season
 
-Generated: 2026-02-10 11:48
+Generated: 2026-02-11 11:42
 
 ## Upcoming Games
 
@@ -9,9 +9,8 @@ Generated: 2026-02-10 11:48
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-02-03 | Winchester | 140 | Wakefield | 131 | +1.3 | +8.9 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 

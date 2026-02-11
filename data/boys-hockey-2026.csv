@@ -999,80 +999,80 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-30,72083,FINAL,Newton North,4279,2.0,0.0,Wellesley,4413,4.0,1.0,Bay State,Bay State,8:00 P.M.,,0
 2026-01-30,72882,FINAL,Concord-Carlisle,4097,3.0,1.0,Waltham,4405,0.0,0.0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,7:30 P.M.,,0
 2026-01-30,83832,FINAL,BB&N,4028,3.0,1.0,Austin Prep,4020,1.0,0.0,ISL,Independent,,,0
-2026-01-31,65006,FINAL,Hingham,4171,1,0,Pope Francis,4796,2,1,Independent,Independent,12:00 P.M.,,0
-2026-01-31,67527,FINAL,Quincy,4287,2,0,Duxbury,4123,4,1,Patriot,Patriot,6:00 P.M.,,0
-2026-01-31,67563,FINAL,Hanover,4164,1,2,Whitman-Hanson,4427,1,2,Patriot,Patriot,1:00 P.M.,,0
-2026-01-31,67599,FINAL,Silver Lake,4349,2,0,Pembroke,4308,6,1,Patriot,Patriot,5:00 P.M.,,0
-2026-01-31,67638,FINAL,Scituate,4343,2,1,Dartmouth,4105,1,0,Patriot,Pioneer,3:00 P.M.,,0
-2026-01-31,67684,FINAL,Bridgewater-Raynham,4053,6,1,Plymouth South,4316,3,0,Pioneer,Patriot,6:00 P.M.,,0
-2026-01-31,67794,FINAL,St. John’s Prep,4369,2,1,Xaverian,4446,1,0,Catholic Conference,Catholic Conference,2:50 P.M.,,0
-2026-01-31,67823,FINAL,BC High,4029,0,0,Catholic Memorial,4080,4,1,Catholic Conference,Catholic Conference,11:00 A.M.,,0
-2026-01-31,67881,FINAL,St. John’s (Shrewsbury),4368,10,1,Malden Catholic,4228,2,0,Catholic Conference,Catholic Conference,6:00 P.M.,,0
-2026-01-31,67964,FINAL,Hull/Cohasset,4094,2,0,Norwell,4296,5,1,South Shore,South Shore,4:00 P.M.,,0
-2026-01-31,67993,FINAL,Abington,4002,6,1,East/West Bridgewater,4126,2,0,South Shore,South Shore,5:00 P.M.,,0
-2026-01-31,68054,FINAL,Rockland,4331,1,0,Middleborough,4247,5,1,South Shore,South Shore,7:00 P.M.,,0
-2026-01-31,68190,FINAL,Falmouth,4134,1,1,Barnstable,4024,0,0,Cape & Islands,Pioneer,7:00 P.M.,,0
-2026-01-31,68256,FINAL,Essex Tech,4745,2,0,Nauset,4271,4,1,Cape Ann,Cape & Islands,12:10 P.M.,,0
-2026-01-31,68286,FINAL,Latin Academy,4202,4,1,Dennis-Yarmouth,4111,1,0,Boston City,Cape & Islands,5:00 P.M.,,0
-2026-01-31,68318,FINAL,Monomoy/Mashpee,4237,5,1,ORR/Fairhaven,4301,1,0,Cape & Islands,South Coast,3:30 P.M.,,0
-2026-01-31,68337,FINAL,St. John Paul II,4689,1,0,Hudson,4182,4,1,Cape & Islands,Quinn,6:00 P.M.,,0
-2026-01-31,68359,FINAL,Bishop Stang,4045,3,1,Apponequet/Old Colony,4011,1,0,Catholic Central,South Coast,3:30 P.M.,,0
-2026-01-31,68446,FINAL,Blue Hills,4047,7,1,Stoughton/Brockton,4381,4,0,Mayflower,Independent,8:40 P.M.,,0
-2026-01-31,68582,FINAL,Arlington,4013,5,1,Winchester,4434,1,0,Middlesex,Middlesex,12:40 P.M.,,0
-2026-01-31,68766,FINAL,Watertown,4409,1,0,Burlington,4065,4,1,Middlesex,Middlesex,4:20 P.M.,,0
-2026-01-31,68798,FINAL,Melrose,4244,6,1,Wakefield,4402,1,0,Middlesex,Middlesex,7:30 P.M.,,0
-2026-01-31,68855,FINAL,Belmont,4034,0,0,Reading,4328,5,1,Middlesex,Middlesex,3:00 P.M.,,0
-2026-01-31,68913,FINAL,Wilmington,4432,4,1,Stoneham,4380,3,0,Middlesex,Middlesex,2:45 P.M.,,0
-2026-01-31,69188,FINAL,Mansfield,4230,3,1,North Middlesex,4286,1,0,Hockomock,Roy,6:00 P.M.,,0
-2026-01-31,69238,FINAL,Oliver Ames,4302,2,0,Hopedale,4507,3,1,Hockomock,CMAC,6:30 P.M.,,0
-2026-01-31,69275,FINAL,Taunton,4388,2,0,Somerset Berkley,4350,7,1,Hockomock,South Coast,1:00 P.M.,,0
-2026-01-31,69286,FINAL,Tri-County,4392,4,1,Attleboro,4018,1,0,Mayflower,Hockomock,6:30 P.M.,,0
-2026-01-31,69356,FINAL,Greater New Bedford,4156,4,1,Upper Cape,4457,2,0,South Coast,Mayflower,7:30 P.M.,,0
-2026-01-31,69777,FINAL,Southeastern/B-P,4358,3,2,Diman,4115,3,2,Mayflower,Mayflower,7:00 P.M.,,0
-2026-01-31,69873,FINAL,Holliston/Ashland,4174,2,0,Norwood,4297,3,1,Tri-Valley,Tri-Valley,3:30 P.M.,1.0,0
-2026-01-31,69899,FINAL,Hopkinton,4180,0,0,Westwood,4424,1,1,Tri-Valley,Tri-Valley,4:00 P.M.,,0
-2026-01-31,69920,FINAL,Lynnfield,4223,1,0,Medfield,4241,4,1,Cape Ann,Tri-Valley,12:00 P.M.,,0
-2026-01-31,71936,FINAL,Archbishop Williams,4012,4,1,Bishop Fenwick,4043,0,0,Catholic Central,Catholic Central,7:40 P.M.,,0
-2026-01-31,71958,FINAL,Bishop Feehan,4042,1,0,St. Mary’s,4374,3,1,Catholic Central,Catholic Central,3:00 P.M.,,0
-2026-01-31,72030,FINAL,Natick,4270,3,0,Framingham,4143,4,1,Bay State,Bay State,4:30 P.M.,1.0,0
-2026-01-31,72046,FINAL,Brookline,4059,0,0,Milton,4252,2,1,Bay State,Bay State,12:20 P.M.,,0
-2026-01-31,72068,FINAL,Needham,4272,2,0,Weymouth,4425,7,1,Bay State,Bay State,2:00 P.M.,,0
-2026-01-31,72140,FINAL,Walpole,4404,2,1,Braintree,4051,1,0,Bay State,Bay State,6:15 P.M.,1.0,0
-2026-01-31,72172,FINAL,Lowell,4216,1,0,Methuen,4246,6,1,Merrimack Valley/Dual County,Merrimack Valley/Dual County,2:30 P.M.,,0
-2026-01-31,72202,FINAL,Bedford,4031,4,1,Cambridge,4067,3,0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,6:40 P.M.,1.0,0
-2026-01-31,72255,FINAL,Dracut/Tyngsborough,4119,4,1,Haverhill,4167,1,0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,5:00 P.M.,,0
-2026-01-31,72308,FINAL,Newton South,4280,1,0,North Andover,4283,5,1,Merrimack Valley/Dual County,Merrimack Valley/Dual County,2:20 P.M.,,0
-2026-01-31,72866,FINAL,Acton-Boxborough,4003,4,1,Boston Latin,4049,2,0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,6:15 P.M.,,0
-2026-01-31,74803,FINAL,Somerville,4351,1,0,Peabody,4306,7,1,Greater Boston,Northeastern,12:00 P.M.,,0
-2026-01-31,76829,FINAL,Lincoln-Sudbury,4211,1,1,Chelmsford,4085,0,0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,12:00 P.M.,,0
-2026-01-31,76832,FINAL,Worcester,4066,7,1,Keefe Tech,4191,0,0,CMAC,CMAC,12:00 P.M.,,0
-2026-01-31,76834,FINAL,North Reading,4288,4,1,Pentucket,4309,1,0,Cape Ann,Cape Ann,12:30 P.M.,,0
-2026-01-31,76837,FINAL,East Longmeadow,4127,3,1,Ludlow,4218,1,0,Berry Division,Fay Division,12:30 P.M.,,0
-2026-01-31,76839,FINAL,Oakmont,4299,10,1,Leominster,4208,2,0,Coughlin,Roy,1:00 P.M.,,0
-2026-01-31,76840,FINAL,Auburn,4019,3,0,Wachusett,4400,7,1,CMAC,Roy,1:30 P.M.,,0
-2026-01-31,76843,FINAL,Lunenburg/Ayer Shirley,4219,1,0,Littleton/Bromfield,4212,2,1,Coughlin,Coughlin,2:00 P.M.,1.0,0
-2026-01-31,76844,FINAL,Grafton,4153,1,0,Marlborough,4233,7,1,Mid-Wach,Quinn,2:00 P.M.,,0
-2026-01-31,76845,FINAL,Minnechaug,4254,8,1,West Springfield,4417,2,0,Berry Division,Berry Division,2:30 P.M.,,0
-2026-01-31,76850,FINAL,Northbridge,4292,2,0,Assabet,4016,5,1,CMAC,CMAC,3:00 P.M.,,0
-2026-01-31,76853,FINAL,Winthrop,4437,1,2,Danvers,4103,1,2,Northeastern,Northeastern,3:00 P.M.,1.0,0
-2026-01-31,76854,FINAL,East Boston,4125,1,0,Minuteman,4255,7,1,Boston City,Commonwealth,3:50 P.M.,,0
-2026-01-31,76857,FINAL,Agawam,4004,8,1,Chicopee,4088,5,0,Fay Division,Fay Division,4:30 P.M.,,0
-2026-01-31,76858,FINAL,Andover,4009,1,0,Billerica,4040,4,1,Merrimack Valley/Dual County,Merrimack Valley/Dual County,4:50 P.M.,,0
-2026-01-31,76859,FINAL,Central Catholic,4081,3,1,Westford,4421,1,0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,7:05 P.M.,,0
-2026-01-31,76862,FINAL,Amesbury/Whittier,4007,6,1,Rockport,4490,3,0,Cape Ann,Cape Ann,5:00 P.M.,,0
-2026-01-31,76864,FINAL,Gardner,4147,0,0,Amherst-Pelham,4008,4,1,Coughlin,Fay Division,5:30 P.M.,,0
-2026-01-31,76866,FINAL,Westborough,4418,1,0,Longmeadow,4214,4,1,Quinn,Berry Division,5:30 P.M.,,0
-2026-01-31,76867,FINAL,Westfield,4419,3,1,Blackstone Valley,4046,2,0,Berry Division,CMAC,5:30 P.M.,,0
-2026-01-31,76870,FINAL,Gloucester,4150,3,1,Masconomet,4236,0,0,Northeastern,Northeastern,6:00 P.M.,,0
-2026-01-31,76872,FINAL,Dover-Sherborn/Weston,4118,4,1,Norton,4295,0,0,Tri-Valley,Tri-Valley,6:00 P.M.,,0
-2026-01-31,76874,FINAL,Groton-Dunstable,4160,1,0,Greenfield,4157,2,1,Roy,Wright Division,6:30 P.M.,,0
-2026-01-31,76876,FINAL,Newburyport,4276,7,1,Triton,4395,3,0,Cape Ann,Cape Ann,6:30 P.M.,,0
+2026-01-31,65006,FINAL,Hingham,4171,1.0,0.0,Pope Francis,4796,2.0,1.0,Independent,Independent,12:00 P.M.,,0
+2026-01-31,67527,FINAL,Quincy,4287,2.0,0.0,Duxbury,4123,4.0,1.0,Patriot,Patriot,6:00 P.M.,,0
+2026-01-31,67563,FINAL,Hanover,4164,1.0,2.0,Whitman-Hanson,4427,1.0,2.0,Patriot,Patriot,1:00 P.M.,,0
+2026-01-31,67599,FINAL,Silver Lake,4349,2.0,0.0,Pembroke,4308,6.0,1.0,Patriot,Patriot,5:00 P.M.,,0
+2026-01-31,67638,FINAL,Scituate,4343,2.0,1.0,Dartmouth,4105,1.0,0.0,Patriot,Pioneer,3:00 P.M.,,0
+2026-01-31,67684,FINAL,Bridgewater-Raynham,4053,6.0,1.0,Plymouth South,4316,3.0,0.0,Pioneer,Patriot,6:00 P.M.,,0
+2026-01-31,67794,FINAL,St. John’s Prep,4369,2.0,1.0,Xaverian,4446,1.0,0.0,Catholic Conference,Catholic Conference,2:50 P.M.,,0
+2026-01-31,67823,FINAL,BC High,4029,0.0,0.0,Catholic Memorial,4080,4.0,1.0,Catholic Conference,Catholic Conference,11:00 A.M.,,0
+2026-01-31,67881,FINAL,St. John’s (Shrewsbury),4368,10.0,1.0,Malden Catholic,4228,2.0,0.0,Catholic Conference,Catholic Conference,6:00 P.M.,,0
+2026-01-31,67964,FINAL,Hull/Cohasset,4094,2.0,0.0,Norwell,4296,5.0,1.0,South Shore,South Shore,4:00 P.M.,,0
+2026-01-31,67993,FINAL,Abington,4002,6.0,1.0,East/West Bridgewater,4126,2.0,0.0,South Shore,South Shore,5:00 P.M.,,0
+2026-01-31,68054,FINAL,Rockland,4331,1.0,0.0,Middleborough,4247,5.0,1.0,South Shore,South Shore,7:00 P.M.,,0
+2026-01-31,68190,FINAL,Falmouth,4134,1.0,1.0,Barnstable,4024,0.0,0.0,Cape & Islands,Pioneer,7:00 P.M.,,0
+2026-01-31,68256,FINAL,Essex Tech,4745,2.0,0.0,Nauset,4271,4.0,1.0,Cape Ann,Cape & Islands,12:10 P.M.,,0
+2026-01-31,68286,FINAL,Latin Academy,4202,4.0,1.0,Dennis-Yarmouth,4111,1.0,0.0,Boston City,Cape & Islands,5:00 P.M.,,0
+2026-01-31,68318,FINAL,Monomoy/Mashpee,4237,5.0,1.0,ORR/Fairhaven,4301,1.0,0.0,Cape & Islands,South Coast,3:30 P.M.,,0
+2026-01-31,68337,FINAL,St. John Paul II,4689,1.0,0.0,Hudson,4182,4.0,1.0,Cape & Islands,Quinn,6:00 P.M.,,0
+2026-01-31,68359,FINAL,Bishop Stang,4045,3.0,1.0,Apponequet/Old Colony,4011,1.0,0.0,Catholic Central,South Coast,3:30 P.M.,,0
+2026-01-31,68446,FINAL,Blue Hills,4047,7.0,1.0,Stoughton/Brockton,4381,4.0,0.0,Mayflower,Independent,8:40 P.M.,,0
+2026-01-31,68582,FINAL,Arlington,4013,5.0,1.0,Winchester,4434,1.0,0.0,Middlesex,Middlesex,12:40 P.M.,,0
+2026-01-31,68766,FINAL,Watertown,4409,1.0,0.0,Burlington,4065,4.0,1.0,Middlesex,Middlesex,4:20 P.M.,,0
+2026-01-31,68798,FINAL,Melrose,4244,6.0,1.0,Wakefield,4402,1.0,0.0,Middlesex,Middlesex,7:30 P.M.,,0
+2026-01-31,68855,FINAL,Belmont,4034,0.0,0.0,Reading,4328,5.0,1.0,Middlesex,Middlesex,3:00 P.M.,,0
+2026-01-31,68913,FINAL,Wilmington,4432,4.0,1.0,Stoneham,4380,3.0,0.0,Middlesex,Middlesex,2:45 P.M.,,0
+2026-01-31,69188,FINAL,Mansfield,4230,3.0,1.0,North Middlesex,4286,1.0,0.0,Hockomock,Roy,6:00 P.M.,,0
+2026-01-31,69238,FINAL,Oliver Ames,4302,2.0,0.0,Hopedale,4507,3.0,1.0,Hockomock,CMAC,6:30 P.M.,,0
+2026-01-31,69275,FINAL,Taunton,4388,2.0,0.0,Somerset Berkley,4350,7.0,1.0,Hockomock,South Coast,1:00 P.M.,,0
+2026-01-31,69286,FINAL,Tri-County,4392,4.0,1.0,Attleboro,4018,1.0,0.0,Mayflower,Hockomock,6:30 P.M.,,0
+2026-01-31,69356,FINAL,Greater New Bedford,4156,4.0,1.0,Upper Cape,4457,2.0,0.0,South Coast,Mayflower,7:30 P.M.,,0
+2026-01-31,69777,FINAL,Southeastern/B-P,4358,3.0,2.0,Diman,4115,3.0,2.0,Mayflower,Mayflower,7:00 P.M.,,0
+2026-01-31,69873,FINAL,Holliston/Ashland,4174,2.0,0.0,Norwood,4297,3.0,1.0,Tri-Valley,Tri-Valley,3:30 P.M.,1.0,0
+2026-01-31,69899,FINAL,Hopkinton,4180,0.0,0.0,Westwood,4424,1.0,1.0,Tri-Valley,Tri-Valley,4:00 P.M.,,0
+2026-01-31,69920,FINAL,Lynnfield,4223,1.0,0.0,Medfield,4241,4.0,1.0,Cape Ann,Tri-Valley,12:00 P.M.,,0
+2026-01-31,71936,FINAL,Archbishop Williams,4012,4.0,1.0,Bishop Fenwick,4043,0.0,0.0,Catholic Central,Catholic Central,7:40 P.M.,,0
+2026-01-31,71958,FINAL,Bishop Feehan,4042,1.0,0.0,St. Mary’s,4374,3.0,1.0,Catholic Central,Catholic Central,3:00 P.M.,,0
+2026-01-31,72030,FINAL,Natick,4270,3.0,0.0,Framingham,4143,4.0,1.0,Bay State,Bay State,4:30 P.M.,1.0,0
+2026-01-31,72046,FINAL,Brookline,4059,0.0,0.0,Milton,4252,2.0,1.0,Bay State,Bay State,12:20 P.M.,,0
+2026-01-31,72068,FINAL,Needham,4272,2.0,0.0,Weymouth,4425,7.0,1.0,Bay State,Bay State,2:00 P.M.,,0
+2026-01-31,72140,FINAL,Walpole,4404,2.0,1.0,Braintree,4051,1.0,0.0,Bay State,Bay State,6:15 P.M.,1.0,0
+2026-01-31,72172,FINAL,Lowell,4216,1.0,0.0,Methuen,4246,6.0,1.0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,2:30 P.M.,,0
+2026-01-31,72202,FINAL,Bedford,4031,4.0,1.0,Cambridge,4067,3.0,0.0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,6:40 P.M.,1.0,0
+2026-01-31,72255,FINAL,Dracut/Tyngsborough,4119,4.0,1.0,Haverhill,4167,1.0,0.0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,5:00 P.M.,,0
+2026-01-31,72308,FINAL,Newton South,4280,1.0,0.0,North Andover,4283,5.0,1.0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,2:20 P.M.,,0
+2026-01-31,72866,FINAL,Acton-Boxborough,4003,4.0,1.0,Boston Latin,4049,2.0,0.0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,6:15 P.M.,,0
+2026-01-31,74803,FINAL,Somerville,4351,1.0,0.0,Peabody,4306,7.0,1.0,Greater Boston,Northeastern,12:00 P.M.,,0
+2026-01-31,76829,FINAL,Lincoln-Sudbury,4211,1.0,1.0,Chelmsford,4085,0.0,0.0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,12:00 P.M.,,0
+2026-01-31,76832,FINAL,Worcester,4066,7.0,1.0,Keefe Tech,4191,0.0,0.0,CMAC,CMAC,12:00 P.M.,,0
+2026-01-31,76834,FINAL,North Reading,4288,4.0,1.0,Pentucket,4309,1.0,0.0,Cape Ann,Cape Ann,12:30 P.M.,,0
+2026-01-31,76837,FINAL,East Longmeadow,4127,3.0,1.0,Ludlow,4218,1.0,0.0,Berry Division,Fay Division,12:30 P.M.,,0
+2026-01-31,76839,FINAL,Oakmont,4299,10.0,1.0,Leominster,4208,2.0,0.0,Coughlin,Roy,1:00 P.M.,,0
+2026-01-31,76840,FINAL,Auburn,4019,3.0,0.0,Wachusett,4400,7.0,1.0,CMAC,Roy,1:30 P.M.,,0
+2026-01-31,76843,FINAL,Lunenburg/Ayer Shirley,4219,1.0,0.0,Littleton/Bromfield,4212,2.0,1.0,Coughlin,Coughlin,2:00 P.M.,1.0,0
+2026-01-31,76844,FINAL,Grafton,4153,1.0,0.0,Marlborough,4233,7.0,1.0,Mid-Wach,Quinn,2:00 P.M.,,0
+2026-01-31,76845,FINAL,Minnechaug,4254,8.0,1.0,West Springfield,4417,2.0,0.0,Berry Division,Berry Division,2:30 P.M.,,0
+2026-01-31,76850,FINAL,Northbridge,4292,2.0,0.0,Assabet,4016,5.0,1.0,CMAC,CMAC,3:00 P.M.,,0
+2026-01-31,76853,FINAL,Winthrop,4437,1.0,2.0,Danvers,4103,1.0,2.0,Northeastern,Northeastern,3:00 P.M.,1.0,0
+2026-01-31,76854,FINAL,East Boston,4125,1.0,0.0,Minuteman,4255,7.0,1.0,Boston City,Commonwealth,3:50 P.M.,,0
+2026-01-31,76857,FINAL,Agawam,4004,8.0,1.0,Chicopee,4088,5.0,0.0,Fay Division,Fay Division,4:30 P.M.,,0
+2026-01-31,76858,FINAL,Andover,4009,1.0,0.0,Billerica,4040,4.0,1.0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,4:50 P.M.,,0
+2026-01-31,76859,FINAL,Central Catholic,4081,3.0,1.0,Westford,4421,1.0,0.0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,7:05 P.M.,,0
+2026-01-31,76862,FINAL,Amesbury/Whittier,4007,6.0,1.0,Rockport,4490,3.0,0.0,Cape Ann,Cape Ann,5:00 P.M.,,0
+2026-01-31,76864,FINAL,Gardner,4147,0.0,0.0,Amherst-Pelham,4008,4.0,1.0,Coughlin,Fay Division,5:30 P.M.,,0
+2026-01-31,76866,FINAL,Westborough,4418,1.0,0.0,Longmeadow,4214,4.0,1.0,Quinn,Berry Division,5:30 P.M.,,0
+2026-01-31,76867,FINAL,Westfield,4419,3.0,1.0,Blackstone Valley,4046,2.0,0.0,Berry Division,CMAC,5:30 P.M.,,0
+2026-01-31,76870,FINAL,Gloucester,4150,3.0,1.0,Masconomet,4236,0.0,0.0,Northeastern,Northeastern,6:00 P.M.,,0
+2026-01-31,76872,FINAL,Dover-Sherborn/Weston,4118,4.0,1.0,Norton,4295,0.0,0.0,Tri-Valley,Tri-Valley,6:00 P.M.,,0
+2026-01-31,76874,FINAL,Groton-Dunstable,4160,1.0,0.0,Greenfield,4157,2.0,1.0,Roy,Wright Division,6:30 P.M.,,0
+2026-01-31,76876,FINAL,Newburyport,4276,7.0,1.0,Triton,4395,3.0,0.0,Cape Ann,Cape Ann,6:30 P.M.,,0
 2026-01-31,76879,UPCOMING,Nashoba  Tech/Greater Lowell,4268,,,Northeast,4293,,,Commonwealth,Commonwealth,7:10 P.M.,,0
-2026-01-31,76881,FINAL,St. Bernard’s,4365,10,1,Monty Tech/Fitchburg,4139,0,0,CMAC,CMAC,7:10 P.M.,,0
-2026-01-31,76882,FINAL,Algonquin,4005,0,0,Shrewsbury,4348,6,1,Quinn,Merrimack Valley/Dual County,7:30 P.M.,,0
-2026-01-31,76884,FINAL,Beverly,4038,5,1,Marblehead,4231,1,0,Northeastern,Northeastern,8:00 P.M.,,0
-2026-01-31,76886,FINAL,Medway,4243,6,1,Bellingham,4033,2,0,Tri-Valley,Tri-Valley,8:30 P.M.,,0
-2026-01-31,83940,FINAL,Lawrence Academy,4204,4,1,Groton,4544,3,0,ISL,ISL,,,0
+2026-01-31,76881,FINAL,St. Bernard’s,4365,10.0,1.0,Monty Tech/Fitchburg,4139,0.0,0.0,CMAC,CMAC,7:10 P.M.,,0
+2026-01-31,76882,FINAL,Algonquin,4005,0.0,0.0,Shrewsbury,4348,6.0,1.0,Quinn,Merrimack Valley/Dual County,7:30 P.M.,,0
+2026-01-31,76884,FINAL,Beverly,4038,5.0,1.0,Marblehead,4231,1.0,0.0,Northeastern,Northeastern,8:00 P.M.,,0
+2026-01-31,76886,FINAL,Medway,4243,6.0,1.0,Bellingham,4033,2.0,0.0,Tri-Valley,Tri-Valley,8:30 P.M.,,0
+2026-01-31,83940,FINAL,Lawrence Academy,4204,4.0,1.0,Groton,4544,3.0,0.0,ISL,ISL,,,0
 2026-02-01,67743,POSTPONED,Nantucket,4265,,,Plymouth North,4315,,,Cape & Islands,Patriot,2:00 P.M.,,0
 2026-02-01,69021,FINAL,Triton,4395,0,0,Wilmington,4432,7,1,Cape Ann,Middlesex,6:00 P.M.,,0
 2026-02-01,69213,FINAL,North Attleborough,4284,5,1,Wellesley,4413,3,0,Hockomock,Bay State,2:10 P.M.,,0
@@ -1274,7 +1274,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-07,84703,FINAL,Salisbury (Conn.),4339,6,1,Winchendon,4433,4,0,Founders,Independent,,,0
 2026-02-08,67929,FINAL,BC High,4029,0,2,St. Mary’s,4374,0,2,Catholic Conference,Catholic Central,12:00 P.M.,,0
 2026-02-08,84589,FINAL,Reading,4328,4,1,Chelmsford,4085,0,0,Middlesex,Merrimack Valley/Dual County,10:15 A.M.,,0
-2026-02-08,84590,FINAL,Braintree,4051,2,1,Belmont,4034,0,0,Bay State,Middlesex,10:30 A.M.,,0
+2026-02-08,84590,FINAL,Braintree,4051,0,0,Belmont,4034,2,1,Bay State,Middlesex,10:30 A.M.,,0
 2026-02-08,84592,FINAL,Hingham,4171,3,2,Walpole,4404,3,2,Independent,Bay State,11:15 A.M.,,0
 2026-02-08,84595,FINAL,Tewksbury,4389,0,0,Canton,4071,5,1,Merrimack Valley/Dual County,Hockomock,12:15 P.M.,,0
 2026-02-08,84598,FINAL,Weymouth,4425,5,1,Franklin,4144,1,0,Bay State,Hockomock,12:30 P.M.,,0
@@ -1294,18 +1294,18 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-09,69902,FINAL,Medfield,4241,5,0,Westwood,4424,6,1,Tri-Valley,Tri-Valley,5:30 P.M.,,0
 2026-02-09,72259,FINAL,Dracut/Tyngsborough,4119,7,1,Grafton,4153,1,0,Merrimack Valley/Dual County,Mid-Wach,7:00 P.M.,,0
 2026-02-09,76764,FINAL,Marblehead,4231,1,0,Hopkinton,4180,7,1,Northeastern,Tri-Valley,7:30 P.M.,,0
-2026-02-09,76914,UPCOMING,Amherst-Pelham,4008,,,Easthampton,4130,,,Fay Division,Wright Division,8:30 P.M.,,0
+2026-02-09,76914,FINAL,Amherst-Pelham,4008,2,0,Easthampton,4130,3,1,Fay Division,Wright Division,8:30 P.M.,,0
 2026-02-09,76965,FINAL,Lynnfield,4223,7,1,Triton,4395,2,0,Cape Ann,Cape Ann,3:15 P.M.,,0
 2026-02-09,76968,FINAL,Winthrop,4437,3,1,Masconomet,4236,2,0,Northeastern,Northeastern,5:40 P.M.,,0
 2026-02-09,77022,FINAL,Gloucester,4150,4,1,Newburyport,4276,3,0,Northeastern,Cape Ann,5:00 P.M.,1.0,0
 2026-02-09,77025,FINAL,Somerville,4351,0,0,Nashoba  Tech/Greater Lowell,4268,1,1,Greater Boston,Commonwealth,5:30 P.M.,,0
 2026-02-09,77027,FINAL,Andover,4009,7,1,Westford,4421,2,0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,7:10 P.M.,,0
 2026-02-09,77029,FINAL,Hudson,4182,2,0,Lunenburg/Ayer Shirley,4219,3,1,Quinn,Coughlin,8:00 P.M.,,0
-2026-02-10,68460,UPCOMING,Stoughton/Brockton,4381,,,Blue Hills,4047,,,Independent,Mayflower,7:30 P.M.,,0
-2026-02-10,72034,UPCOMING,Framingham,4143,,,Brookline,4059,,,Bay State,Bay State,4:00 P.M.,,0
-2026-02-10,77032,UPCOMING,Medway,4243,,,Norton,4295,,,Tri-Valley,Tri-Valley,6:30 P.M.,,0
-2026-02-10,77033,UPCOMING,Northeast,4293,,,Everett/Revere,4132,,,Commonwealth,Greater Boston,7:00 P.M.,,0
-2026-02-10,77034,UPCOMING,Danvers,4103,,,Marblehead,4231,,,Northeastern,Northeastern,7:30 P.M.,,0
+2026-02-10,68460,FINAL,Stoughton/Brockton,4381,3,0,Blue Hills,4047,4,1,Independent,Mayflower,7:30 P.M.,,0
+2026-02-10,72034,FINAL,Framingham,4143,7,1,Brookline,4059,4,0,Bay State,Bay State,4:00 P.M.,,0
+2026-02-10,77032,FINAL,Medway,4243,4,1,Norton,4295,2,0,Tri-Valley,Tri-Valley,6:30 P.M.,,0
+2026-02-10,77033,FINAL,Northeast,4293,5,1,Everett/Revere,4132,0,0,Commonwealth,Greater Boston,7:00 P.M.,,0
+2026-02-10,77034,FINAL,Danvers,4103,3,0,Marblehead,4231,4,1,Northeastern,Northeastern,7:30 P.M.,,0
 2026-02-10,77036,UPCOMING,Northbridge,4292,,,St. Bernard’s,4365,,,CMAC,CMAC,7:30 P.M.,,0
 2026-02-11,65013,UPCOMING,Hingham,4171,,,Billerica,4040,,,Independent,Merrimack Valley/Dual County,6:00 P.M.,,0
 2026-02-11,67530,UPCOMING,Plymouth North,4315,,,Duxbury,4123,,,Patriot,Patriot,7:30 P.M.,,0
