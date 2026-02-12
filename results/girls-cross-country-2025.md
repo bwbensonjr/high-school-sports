@@ -1,6 +1,6 @@
 # Girls Cross Country - 2025 Season
 
-Generated: 2026-02-11 11:42
+Generated: 2026-02-12 11:37
 
 ## Upcoming Games
 
@@ -95,8 +95,8 @@ Generated: 2026-02-11 11:42
 | 77 | Douglas | 1542.8 |
 | 78 | Sizer | 1541.5 |
 | 79 | North Attleborough | 1540.6 |
-| 80 | South Lancaster | 1540.3 |
-| 81 | Maynard | 1540.3 |
+| 80 | Maynard | 1540.3 |
+| 81 | South Lancaster | 1540.3 |
 | 82 | Shawsheen | 1539.2 |
 | 83 | Tahanto | 1539.1 |
 | 84 | Millis | 1538.7 |
@@ -117,11 +117,11 @@ Generated: 2026-02-11 11:42
 | 99 | Blackstone-Millville | 1526.5 |
 | 100 | Abington | 1523.7 |
 | 101 | Southeastern | 1521.9 |
-| 102 | Groton-Dunstable | 1521.5 |
-| 103 | Brooks | 1521.5 |
+| 102 | Brooks | 1521.5 |
+| 103 | Groton-Dunstable | 1521.5 |
 | 104 | West Bridgewater | 1521.4 |
-| 105 | Chicopee Comprehensive | 1519.6 |
-| 106 | Rivers | 1519.6 |
+| 105 | Rivers | 1519.6 |
+| 106 | Chicopee Comprehensive | 1519.6 |
 | 107 | Wakefield | 1519.0 |
 | 108 | Minuteman | 1517.1 |
 | 109 | Medford | 1515.7 |
@@ -136,21 +136,21 @@ Generated: 2026-02-11 11:42
 | 118 | East Longmeadow | 1507.1 |
 | 119 | Holbrook/Avon | 1506.7 |
 | 120 | Westfield Tech | 1503.8 |
-| 121 | Wachusett | 1501.7 |
-| 122 | Bridgewater-Raynham | 1501.7 |
+| 121 | Cape Cod Tech | 1501.7 |
+| 122 | Greater Lowell | 1501.7 |
 | 123 | Boston Latin | 1501.7 |
-| 124 | Waltham | 1501.7 |
-| 125 | Longmeadow | 1501.7 |
-| 126 | Amherst-Pelham | 1501.7 |
-| 127 | Greater Lawrence | 1501.7 |
-| 128 | Cape Cod Tech | 1501.7 |
-| 129 | Bedford | 1501.7 |
-| 130 | Minnechaug | 1501.7 |
+| 124 | Longmeadow | 1501.7 |
+| 125 | Greater Lawrence | 1501.7 |
+| 126 | Bridgewater-Raynham | 1501.7 |
+| 127 | Westfield | 1501.7 |
+| 128 | Amherst-Pelham | 1501.7 |
+| 129 | Waltham | 1501.7 |
+| 130 | Saugus | 1501.7 |
 | 131 | Notre Dame (Tyngsborough) | 1501.7 |
-| 132 | Notre Dame (Worcester) | 1501.7 |
-| 133 | Greater Lowell | 1501.7 |
-| 134 | Westfield | 1501.7 |
-| 135 | Saugus | 1501.7 |
+| 132 | Bedford | 1501.7 |
+| 133 | Notre Dame (Worcester) | 1501.7 |
+| 134 | Minnechaug | 1501.7 |
+| 135 | Wachusett | 1501.7 |
 | 136 | Concord-Carlisle | 1499.6 |
 | 137 | Lexington Christian | 1498.2 |
 | 138 | Winthrop | 1497.4 |
@@ -191,8 +191,8 @@ Generated: 2026-02-11 11:42
 | 173 | Sutton | 1465.4 |
 | 174 | South Shore Voc-Tech | 1464.2 |
 | 175 | Amesbury | 1463.2 |
-| 176 | Clinton | 1463.0 |
-| 177 | Ayer Shirley | 1463.0 |
+| 176 | Ayer Shirley | 1463.0 |
+| 177 | Clinton | 1463.0 |
 | 178 | Blackstone Valley | 1462.7 |
 | 179 | Hampshire | 1460.5 |
 | 180 | Pope Francis | 1460.0 |
