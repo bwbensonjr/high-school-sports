@@ -1,6 +1,6 @@
 # Wrestling - 2026 Season
 
-Generated: 2026-02-12 11:37
+Generated: 2026-02-13 11:29
 
 ## Upcoming Games
 
@@ -19,31 +19,28 @@ Generated: 2026-02-12 11:37
 | 2026-02-11 | Lowell | 54 | Chelmsford | 13 | +5.4 | +41.0 |
 | 2026-02-11 | Wilmington | 17 | Triton | 52 | -7.3 | -35.0 |
 | 2026-02-10 | Whitman-Hanson | 26 | Bristol-Plymouth | 50 | -7.3 | -24.0 |
-| 2026-02-07 | Chicopee | 11 | Lowell | 69 | -4.4 | -58.0 |
-| 2026-02-07 | Middleborough | 35 | Taunton | 47 | -1.8 | -12.0 |
-| 2026-02-07 | West Springfield | 21 | Milford | 53 | +6.1 | -32.0 |
+| 2026-02-07 | Newton South | 20 | Lowell | 46 | -4.9 | -26.0 |
 | 2026-02-07 | Melrose | 36 | Milford | 46 | +6.1 | -10.0 |
 | 2026-02-07 | North Attleborough | 30 | Milford | 42 | -4.5 | -12.0 |
 | 2026-02-07 | Salem (N.H.) | 32 | Lowell | 42 | +1.4 | -10.0 |
 | 2026-02-07 | Haverhill | 36 | Lowell | 43 | -6.3 | -7.0 |
-| 2026-02-07 | Tyngsborough/Dracut | 36 | Holliston | 41 | -7.0 | -5.0 |
-| 2026-02-07 | Newton South | 20 | Lowell | 46 | -4.9 | -26.0 |
+| 2026-02-07 | Chicopee | 11 | Lowell | 69 | -4.4 | -58.0 |
+| 2026-02-07 | Greater Lawrence | 54 | Reading | 27 | +8.0 | +27.0 |
 | 2026-02-07 | Franklin County Tech | 33 | Holliston | 46 | -6.0 | -13.0 |
 | 2026-02-07 | Tewksbury | 36 | Holliston | 43 | -4.7 | -7.0 |
-| 2026-02-07 | Xaverian | 31 | Taunton | 41 | -6.6 | -10.0 |
-| 2026-02-07 | Greater Lawrence | 54 | Reading | 27 | +8.0 | +27.0 |
+| 2026-02-07 | Tyngsborough/Dracut | 36 | Holliston | 41 | -7.0 | -5.0 |
+| 2026-02-07 | Middleborough | 35 | Taunton | 47 | -1.8 | -12.0 |
 | 2026-02-07 | Greater Lawrence | 42 | Winchester | 33 | +0.4 | +9.0 |
 | 2026-02-07 | Greater Lawrence | 55 | Gloucester | 24 | +11.8 | +31.0 |
+| 2026-02-07 | West Springfield | 21 | Milford | 53 | +6.1 | -32.0 |
 | 2026-02-07 | Quincy/North Quincy | 11 | Taunton | 68 | -9.1 | -57.0 |
-| 2026-02-07 | Brockton | 29 | Taunton | 44 | -5.1 | -15.0 |
-| 2026-02-07 | Braintree | 23 | Stoughton | 11 | +4.6 | +12.0 |
 | 2026-02-07 | Burlington | 36 | Waltham | 37 | +4.8 | -1.0 |
-| 2026-02-07 | Weymouth | 36 | Keene (N.H.) | 34 | +8.2 | +2.0 |
+| 2026-02-07 | Xaverian | 31 | Taunton | 41 | -6.6 | -10.0 |
 | 2026-02-07 | Weymouth | 35 | Arlington | 41 | +4.4 | -6.0 |
 | 2026-02-07 | Weymouth | 40 | Andover | 42 | +0.8 | -2.0 |
 | 2026-02-07 | Weymouth | 30 | Bishop Hendricken (R.I.) | 52 | +5.0 | -22.0 |
 | 2026-02-07 | Braintree | 20 | New Bedford | 56 | -5.2 | -36.0 |
-| 2026-02-07 | Wayland | 36 | Belmont | 23 | +20.1 | +13.0 |
+| 2026-02-07 | Braintree | 23 | Stoughton | 11 | +4.6 | +12.0 |
 | 2026-02-07 | Braintree | 43 | Canton | 34 | +0.2 | +9.0 |
 | 2026-02-07 | Burlington | 70 | Newton North | 10 | +5.6 | +60.0 |
 | 2026-02-07 | Weston | 6 | Cohasset | 76 | -11.1 | -70.0 |
@@ -53,13 +50,12 @@ Generated: 2026-02-12 11:37
 | 2026-02-07 | Brookline | 24 | Lynnfield/North Reading | 54 | -16.1 | -30.0 |
 | 2026-02-07 | Wayland | 42 | Wakefield | 28 | +13.3 | +14.0 |
 | 2026-02-07 | Wayland | 57 | Latin Academy | 6 | +19.2 | +51.0 |
+| 2026-02-07 | Wayland | 36 | Belmont | 23 | +20.1 | +13.0 |
+| 2026-02-07 | Brockton | 29 | Taunton | 44 | -5.1 | -15.0 |
+| 2026-02-07 | Weymouth | 36 | Keene (N.H.) | 34 | +8.2 | +2.0 |
 | 2026-02-06 | Cohasset | 60 | Mansfield | 18 | +12.1 | +42.0 |
 | 2026-02-06 | Cohasset | 54 | Wellesley | 30 | +10.0 | +24.0 |
 | 2026-02-06 | Cohasset | 70 | Weston | 6 | +12.2 | +64.0 |
-| 2026-02-05 | Triton | 39 | Excel Academy | 34 | +6.7 | +5.0 |
-| 2026-02-05 | Melrose | 41 | Wakefield | 26 | +2.7 | +15.0 |
-| 2026-02-05 | Watertown | 42 | Burlington | 31 | +6.1 | +11.0 |
-| 2026-02-05 | Hanover | 60 | Pembroke | 21 | +11.5 | +39.0 |
 
 ## Current Elo Ratings
 

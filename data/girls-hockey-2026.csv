@@ -529,19 +529,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-31,82286,FINAL,Stoughton,4381,3.0,1.0,Franklin,4144,2.0,0.0,Independent,Hockomock,7:30 P.M.,1.0,0
 2026-02-01,82288,FINAL,Sandwich,4340,3.0,2.0,NSA,4343,3.0,2.0,Cape & Islands,Patriot,1:30 P.M.,1.0,0
 2026-02-01,82291,FINAL,Latin Academy/Fontbonne,4202,3.0,0.0,Wakefield/Wilmington,4402,7.0,1.0,Independent,Middlesex,4:00 P.M.,,0
-2026-02-02,65356,FINAL,King Philip,4197,0,0,Bishop Feehan,4042,3,1,Hockomock,Catholic Central,3:20 P.M.,,0
-2026-02-02,71225,FINAL,Barnstable,4024,1,0,Dennis-Yarmouth,4111,5,1,Cape & Islands,Cape & Islands,2:30 P.M.,,0
-2026-02-02,72436,FINAL,Leominster,4208,0,0,Billerica/Chelmsford,4040,2,1,Central/West,Merrimack Valley/Dual County,6:30 P.M.,,0
-2026-02-02,72498,FINAL,Andover,4009,1,0,Methuen/Tewksbury,4246,4,1,Merrimack Valley/Dual County,Merrimack Valley/Dual County,6:30 P.M.,,0
+2026-02-02,65356,FINAL,King Philip,4197,0.0,0.0,Bishop Feehan,4042,3.0,1.0,Hockomock,Catholic Central,3:20 P.M.,,0
+2026-02-02,71225,FINAL,Barnstable,4024,1.0,0.0,Dennis-Yarmouth,4111,5.0,1.0,Cape & Islands,Cape & Islands,2:30 P.M.,,0
+2026-02-02,72436,FINAL,Leominster,4208,0.0,0.0,Billerica/Chelmsford,4040,2.0,1.0,Central/West,Merrimack Valley/Dual County,6:30 P.M.,,0
+2026-02-02,72498,FINAL,Andover,4009,1.0,0.0,Methuen/Tewksbury,4246,4.0,1.0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,6:30 P.M.,,0
 2026-02-02,82294,POSTPONED,Auburn,4019,,,Brookline,4059,,,Independent,Bay State,6:00 P.M.,,0
-2026-02-02,82296,FINAL,Canton,4071,2,0,Notre Dame (Hingham),4449,4,1,Hockomock,Independent,4:00 P.M.,,0
-2026-02-02,82298,FINAL,Norwood,4297,0,0,Dedham,4108,4,1,Tri-Valley,Tri-Valley,4:00 P.M.,,0
-2026-02-02,82299,FINAL,Wellesley/L-S,4413,2,0,Milton,4252,4,1,Bay State,Bay State,4:20 P.M.,,0
-2026-02-02,82302,FINAL,Wayland/Weston,4411,2,2,Masconomet,4236,2,2,Merrimack Valley/Dual County,Northeast,6:30 P.M.,,0
-2026-02-02,82305,FINAL,Marblehead,4231,3,1,Concord-Carlisle,4097,2,0,Northeast,Merrimack Valley/Dual County,7:30 P.M.,,0
-2026-02-02,82308,FINAL,Natick,4270,1,0,Algonquin,4005,5,1,Bay State,Independent,7:40 P.M.,,0
-2026-02-02,82311,FINAL,Arlington Catholic,4014,3,1,Ursuline,4448,1,0,Catholic Central,Independent,8:00 P.M.,,0
-2026-02-02,83136,FINAL,Cambridge,4067,2,0,Lexington,4209,8,1,Merrimack Valley/Dual County,Middlesex,5:00 P.M.,,0
+2026-02-02,82296,FINAL,Canton,4071,2.0,0.0,Notre Dame (Hingham),4449,4.0,1.0,Hockomock,Independent,4:00 P.M.,,0
+2026-02-02,82298,FINAL,Norwood,4297,0.0,0.0,Dedham,4108,4.0,1.0,Tri-Valley,Tri-Valley,4:00 P.M.,,0
+2026-02-02,82299,FINAL,Wellesley/L-S,4413,2.0,0.0,Milton,4252,4.0,1.0,Bay State,Bay State,4:20 P.M.,,0
+2026-02-02,82302,FINAL,Wayland/Weston,4411,2.0,2.0,Masconomet,4236,2.0,2.0,Merrimack Valley/Dual County,Northeast,6:30 P.M.,,0
+2026-02-02,82305,FINAL,Marblehead,4231,3.0,1.0,Concord-Carlisle,4097,2.0,0.0,Northeast,Merrimack Valley/Dual County,7:30 P.M.,,0
+2026-02-02,82308,FINAL,Natick,4270,1.0,0.0,Algonquin,4005,5.0,1.0,Bay State,Independent,7:40 P.M.,,0
+2026-02-02,82311,FINAL,Arlington Catholic,4014,3.0,1.0,Ursuline,4448,1.0,0.0,Catholic Central,Independent,8:00 P.M.,,0
+2026-02-02,83136,FINAL,Cambridge,4067,2.0,0.0,Lexington,4209,8.0,1.0,Merrimack Valley/Dual County,Middlesex,5:00 P.M.,,0
 2026-02-03,82647,FINAL,Beverly/Danvers,4038,6,1,Stoneham,4380,1,0,Northeast,Middlesex,6:30 P.M.,,0
 2026-02-04,72378,FINAL,Methuen/Tewksbury,4246,3,1,Waltham,4405,2,0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,5:00 P.M.,,0
 2026-02-04,72439,FINAL,Billerica/Chelmsford,4040,7,1,Peabody,4306,0,0,Merrimack Valley/Dual County,Northeast,5:00 P.M.,,0
@@ -641,7 +641,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-09,82843,FINAL,NSA,4343,5,1,Dedham,4108,2,0,Patriot,Tri-Valley,7:30 P.M.,,0
 2026-02-09,82845,FINAL,Arlington Catholic,4014,0,0,Archbishop Williams,4012,2,1,Catholic Central,Catholic Central,8:00 P.M.,,0
 2026-02-09,82848,FINAL,St. Mary’s,4374,6,1,Peabody,4306,2,0,Catholic Central,Northeast,8:00 P.M.,,0
-2026-02-10,72504,POSTPONED,Hingham,4171,,,Andover,4009,,,Patriot,Merrimack Valley/Dual County,5:30 P.M.,,0
 2026-02-10,82731,FINAL,Pembroke,4308,4,1,NSA,4343,1,0,Patriot,Patriot,3:40 P.M.,,0
 2026-02-11,72386,FINAL,Shrewsbury,4348,1,0,Methuen/Tewksbury,4246,4,1,Merrimack Valley/Dual County,Merrimack Valley/Dual County,6:10 P.M.,,0
 2026-02-11,72441,FINAL,Boston Latin,4049,1,0,Billerica/Chelmsford,4040,6,1,Merrimack Valley/Dual County,Merrimack Valley/Dual County,5:00 P.M.,,0
@@ -679,9 +678,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-11,82919,FINAL,Walpole,4404,5,1,Needham,4272,4,0,Bay State,Bay State,8:00 P.M.,,0
 2026-02-11,82921,FINAL,Bishop Fenwick,4043,0,0,St. Mary’s,4374,3,1,Catholic Central,Catholic Central,8:40 P.M.,,0
 2026-02-11,85007,FINAL,Hanover,4164,6,1,Plymouth,4315,0,0,Patriot,Patriot,,,0
-2026-02-12,72416,UPCOMING,Westford,4421,,,Shawsheen/Bedford/Lowell,4346,,,Merrimack Valley/Dual County,Merrimack Valley/Dual County,5:45 P.M.,,0
-2026-02-12,82875,UPCOMING,Belmont,4034,,,Lexington,4209,,,Middlesex,Middlesex,5:00 P.M.,,0
-2026-02-12,84254,UPCOMING,King Philip,4197,,,Braintree,4051,,,Hockomock,Bay State,6:00 P.M.,,0
+2026-02-11,85049,FINAL,Central Catholic,4081,2,2,Wayland/Weston,4411,2,2,Merrimack Valley/Dual County,Merrimack Valley/Dual County,7:10 P.M.,,0
+2026-02-12,72416,FINAL,Westford,4421,5,1,Shawsheen/Bedford/Lowell,4346,3,0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,5:45 P.M.,,0
+2026-02-12,72504,FINAL,Hingham,4171,7,1,Andover,4009,0,0,Patriot,Merrimack Valley/Dual County,5:30 P.M.,,0
+2026-02-12,82875,FINAL,Belmont,4034,3,1,Lexington,4209,1,0,Middlesex,Middlesex,5:00 P.M.,,0
+2026-02-12,84254,FINAL,King Philip,4197,3,1,Braintree,4051,2,0,Hockomock,Bay State,6:00 P.M.,,0
+2026-02-12,85051,FINAL,Duxbury,4123,2,1,Marshfield,4234,0,0,Patriot,Patriot,8:20 P.M.,,0
 2026-02-13,82157,UPCOMING,Algonquin,4005,,,Grafton,4153,,,Independent,Independent,4:00 P.M.,,0
 2026-02-13,84257,UPCOMING,Hopkinton/Dover-Sherborn,4118,,,Norwood,4297,,,Tri-Valley,Tri-Valley,5:00 P.M.,,0
 2026-02-13,84258,UPCOMING,Auburn,4019,,,Brookline,4059,,,Independent,Bay State,8:30 P.M.,,0
