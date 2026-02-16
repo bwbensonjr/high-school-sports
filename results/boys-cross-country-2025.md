@@ -1,6 +1,6 @@
 # Boys Cross Country - 2025 Season
 
-Generated: 2026-02-15 11:20
+Generated: 2026-02-16 11:38
 
 ## Upcoming Games
 
@@ -143,18 +143,18 @@ Generated: 2026-02-15 11:20
 | 125 | Hampshire | 1503.8 |
 | 126 | Rising Tide Charter | 1502.3 |
 | 127 | Bellingham | 1501.9 |
-| 128 | Notre Dame (Tyngsborough) | 1501.7 |
-| 129 | Greater Lowell | 1501.7 |
-| 130 | Greater Lawrence | 1501.7 |
-| 131 | Riverview School | 1501.7 |
-| 132 | Wachusett | 1501.7 |
-| 133 | St. Sebastian’s | 1501.7 |
-| 134 | Tabor | 1501.7 |
-| 135 | Longmeadow | 1501.7 |
-| 136 | Watkinson | 1501.7 |
-| 137 | Minnechaug | 1501.7 |
-| 138 | Amherst-Pelham | 1501.7 |
-| 139 | Westfield | 1501.7 |
+| 128 | Riverview School | 1501.7 |
+| 129 | Longmeadow | 1501.7 |
+| 130 | St. Sebastian’s | 1501.7 |
+| 131 | Minnechaug | 1501.7 |
+| 132 | Tabor | 1501.7 |
+| 133 | Amherst-Pelham | 1501.7 |
+| 134 | Westfield | 1501.7 |
+| 135 | Notre Dame (Tyngsborough) | 1501.7 |
+| 136 | Greater Lowell | 1501.7 |
+| 137 | Greater Lawrence | 1501.7 |
+| 138 | Watkinson | 1501.7 |
+| 139 | Wachusett | 1501.7 |
 | 140 | Bridgewater-Raynham | 1501.7 |
 | 141 | East Bridgewater | 1500.4 |
 | 142 | Cambridge | 1499.0 |
