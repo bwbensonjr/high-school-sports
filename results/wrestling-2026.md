@@ -1,6 +1,6 @@
 # Wrestling - 2026 Season
 
-Generated: 2026-02-17 11:37
+Generated: 2026-02-18 11:37
 
 ## Upcoming Games
 
@@ -18,7 +18,6 @@ Generated: 2026-02-17 11:37
 | 2026-02-11 | Andover | 42 | Haverhill | 28 | +12.4 | +14.0 |
 | 2026-02-11 | Tewksbury | 38 | Lawrence | 33 | +8.8 | +5.0 |
 | 2026-02-11 | Shawsheen | 55 | Wellesley | 3 | +22.8 | +52.0 |
-| 2026-02-10 | Whitman-Hanson | 26 | Bristol-Plymouth | 50 | -7.3 | -24.0 |
 
 ## Current Elo Ratings
 
