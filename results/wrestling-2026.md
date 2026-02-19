@@ -1,6 +1,6 @@
 # Wrestling - 2026 Season
 
-Generated: 2026-02-18 11:37
+Generated: 2026-02-19 11:36
 
 ## Upcoming Games
 
@@ -9,15 +9,8 @@ Generated: 2026-02-18 11:37
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-02-11 | Wilmington | 17 | Triton | 52 | -7.3 | -35.0 |
-| 2026-02-11 | Lowell | 54 | Chelmsford | 13 | +5.4 | +41.0 |
-| 2026-02-11 | Quincy/North Quincy | 12 | Weymouth | 65 | -2.4 | -53.0 |
-| 2026-02-11 | Northeast/Bishop Fenwick | 23 | Gloucester | 57 | +5.5 | -34.0 |
-| 2026-02-11 | Andover | 42 | Haverhill | 28 | +12.4 | +14.0 |
-| 2026-02-11 | Tewksbury | 38 | Lawrence | 33 | +8.8 | +5.0 |
-| 2026-02-11 | Shawsheen | 55 | Wellesley | 3 | +22.8 | +52.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 
