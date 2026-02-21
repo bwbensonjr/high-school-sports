@@ -1294,11 +1294,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-09,77025,FINAL,Somerville,4351,0.0,0.0,Nashoba  Tech/Greater Lowell,4268,1.0,1.0,Greater Boston,Commonwealth,5:30 P.M.,,0
 2026-02-09,77027,FINAL,Andover,4009,7.0,1.0,Westford,4421,2.0,0.0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,7:10 P.M.,,0
 2026-02-09,77029,FINAL,Hudson,4182,2.0,0.0,Lunenburg/Ayer Shirley,4219,3.0,1.0,Quinn,Coughlin,8:00 P.M.,,0
-2026-02-10,68460,FINAL,Stoughton/Brockton,4381,3,0,Blue Hills,4047,4,1,Independent,Mayflower,7:30 P.M.,,0
-2026-02-10,72034,FINAL,Framingham,4143,7,1,Brookline,4059,4,0,Bay State,Bay State,4:00 P.M.,,0
-2026-02-10,77032,FINAL,Medway,4243,4,1,Norton,4295,2,0,Tri-Valley,Tri-Valley,6:30 P.M.,,0
-2026-02-10,77033,FINAL,Northeast,4293,5,1,Everett/Revere,4132,0,0,Commonwealth,Greater Boston,7:00 P.M.,,0
-2026-02-10,77034,FINAL,Danvers,4103,3,0,Marblehead,4231,4,1,Northeastern,Northeastern,7:30 P.M.,,0
+2026-02-10,68460,FINAL,Stoughton/Brockton,4381,3.0,0.0,Blue Hills,4047,4.0,1.0,Independent,Mayflower,7:30 P.M.,,0
+2026-02-10,72034,FINAL,Framingham,4143,7.0,1.0,Brookline,4059,4.0,0.0,Bay State,Bay State,4:00 P.M.,,0
+2026-02-10,77032,FINAL,Medway,4243,4.0,1.0,Norton,4295,2.0,0.0,Tri-Valley,Tri-Valley,6:30 P.M.,,0
+2026-02-10,77033,FINAL,Northeast,4293,5.0,1.0,Everett/Revere,4132,0.0,0.0,Commonwealth,Greater Boston,7:00 P.M.,,0
+2026-02-10,77034,FINAL,Danvers,4103,3.0,0.0,Marblehead,4231,4.0,1.0,Northeastern,Northeastern,7:30 P.M.,,0
 2026-02-10,77036,UPCOMING,Northbridge,4292,,,St. Bernard’s,4365,,,CMAC,CMAC,7:30 P.M.,,0
 2026-02-11,65013,FINAL,Hingham,4171,4,1,Billerica,4040,0,0,Independent,Merrimack Valley/Dual County,6:00 P.M.,,0
 2026-02-11,67530,FINAL,Plymouth North,4315,2,0,Duxbury,4123,8,1,Patriot,Patriot,7:30 P.M.,,0
