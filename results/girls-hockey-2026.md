@@ -1,161 +1,135 @@
 # Girls Hockey - 2026 Season
 
-Generated: 2026-02-25 11:38
+Generated: 2026-02-26 11:38
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-02-25 | 7:00 P.M. | Belmont | Shrewsbury | 59.6% | +2.7 |
-| 2026-02-25 | 5:00 P.M. | Westwood | Stoneham | 96.1% | +22.3 |
-| 2026-02-25 | 7:00 P.M. | Milton | Ashland/Medway | 95.2% | +20.8 |
-| 2026-02-25 | 5:15 P.M. | Falmouth | Leominster | 79.2% | +9.3 |
-| 2026-02-25 | 7:30 P.M. | Medfield | Wayland/Weston | 79.6% | +9.5 |
-| 2026-02-25 | 5:00 P.M. | Dennis-Yarmouth | Norwood | 85.2% | +12.1 |
-| 2026-02-25 | 7:30 P.M. | King Philip | Whitman-Hanson/Silver Lake | 91.9% | +16.9 |
-| 2026-02-25 | 5:30 P.M. | Sandwich | Melrose | 44.1% | -1.6 |
-| 2026-02-25 | 6:00 P.M. | St. Mary’s | Framingham | 76.4% | +8.2 |
-| 2026-02-25 | 6:00 P.M. | Bishop Feehan | Hopkinton/Dover-Sherborn | 74.7% | +7.5 |
-| 2026-02-25 | 6:10 P.M. | Nauset/Monomoy | Burlington | 77.6% | +8.7 |
-| 2026-02-25 | 5:00 P.M. | Woburn | Pope Francis | 77.2% | +8.5 |
-| 2026-02-25 | 7:00 P.M. | Reading | Grafton | 69.0% | +5.6 |
-| 2026-02-25 | 6:00 P.M. | HPNA | Braintree | 73.4% | +7.1 |
-| 2026-02-25 | 5:00 P.M. | Methuen/Tewksbury | Winthrop | 74.5% | +7.4 |
-| 2026-02-25 | 5:10 P.M. | Archbishop Williams | Boston Latin | 79.5% | +9.4 |
-| 2026-02-25 | 7:00 P.M. | Arlington Catholic | Acton-Boxboro | 52.5% | +0.7 |
-| 2026-02-25 | 5:00 P.M. | Malden Catholic | Beverly/Danvers | 31.5% | -5.4 |
-| 2026-02-25 | 7:40 P.M. | Natick | Winchester | 51.6% | +0.4 |
-| 2026-02-25 | 5:00 P.M. | Billerica/Chelmsford | Brookline | 64.2% | +4.0 |
+| 2026-02-26 | 7:00 P.M. | Malden Catholic | Beverly/Danvers | 31.5% | -5.4 |
 | 2026-02-26 | 6:30 P.M. | Pembroke | Barnstable | 91.9% | +16.8 |
 | 2026-02-26 | 5:00 P.M. | Canton | Quincy/North Quincy | 75.5% | +7.8 |
+| 2026-02-26 | 5:15 P.M. | Falmouth | Leominster | 79.2% | +9.3 |
 | 2026-02-26 | 3:20 P.M. | NSA | Gloucester | 74.7% | +7.5 |
 | 2026-02-26 | 6:00 P.M. | Auburn | Masconomet | 83.0% | +11.0 |
+| 2026-02-26 | 5:00 P.M. | Dennis-Yarmouth | Norwood | 85.2% | +12.1 |
 | 2026-02-26 | 3:30 P.M. | Hanover | Walpole | 75.6% | +7.9 |
-| 2026-02-26 | 8:10 P.M. | Algonquin | Westford | 81.8% | +10.5 |
-| 2026-02-26 | 3:00 P.M. | Dedham | Martha’s Vineyard | 61.3% | +3.2 |
-| 2026-02-26 | 5:30 P.M. | Notre Dame (Hingham) | Shawsheen/Bedford/Lowell | 80.6% | +9.9 |
-| 2026-02-26 | 5:00 P.M. | Hingham | Waltham | 64.1% | +4.0 |
 | 2026-02-26 | 7:20 P.M. | Marshfield | Wakefield/Wilmington | 42.4% | -2.1 |
-| 2026-02-27 | 6:00 P.M. | Bishop Stang | Bishop Fenwick | 78.3% | +8.9 |
-| 2026-02-27 | 3:20 P.M. | Duxbury | Marblehead | 85.5% | +12.3 |
+| 2026-02-26 | 5:30 P.M. | Notre Dame (Hingham) | Shawsheen/Bedford/Lowell | 80.6% | +9.9 |
+| 2026-02-26 | 8:10 P.M. | Algonquin | Westford | 81.8% | +10.5 |
+| 2026-02-26 | 5:00 P.M. | Hingham | Waltham | 64.1% | +4.0 |
+| 2026-02-26 | 3:30 P.M. | King Philip | Whitman-Hanson/Silver Lake | 91.9% | +16.9 |
+| 2026-02-27 | 5:20 P.M. | Duxbury | Marblehead | 85.5% | +12.3 |
+| 2026-02-27 | 5:30 P.M. | Sandwich | Melrose | 44.1% | -1.6 |
+| 2026-02-27 | 4:10 P.M. | Nauset/Monomoy | Burlington | 77.6% | +8.7 |
+| 2026-02-28 | 4:00 P.M. | Bishop Stang | Bishop Fenwick | 78.3% | +8.9 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-02-25 | Arlington Catholic | 1 | Acton-Boxboro | 2 | +0.7 | -1.0 |
+| 2026-02-25 | Archbishop Williams | 4 | Boston Latin | 0 | +9.4 | +4.0 |
+| 2026-02-25 | Westwood | 2 | Stoneham | 0 | +22.3 | +2.0 |
+| 2026-02-25 | Milton | 8 | Ashland/Medway | 1 | +20.8 | +7.0 |
+| 2026-02-25 | Medfield | 3 | Wayland/Weston | 1 | +9.5 | +2.0 |
+| 2026-02-25 | St. Mary’s | 5 | Framingham | 1 | +8.2 | +4.0 |
+| 2026-02-25 | Bishop Feehan | 3 | Hopkinton/Dover-Sherborn | 0 | +7.5 | +3.0 |
+| 2026-02-25 | Billerica/Chelmsford | 5 | Brookline | 1 | +4.0 | +4.0 |
+| 2026-02-25 | Woburn | 4 | Pope Francis | 0 | +8.5 | +4.0 |
+| 2026-02-25 | Reading | 3 | Grafton | 1 | +5.6 | +2.0 |
+| 2026-02-25 | HPNA | 5 | Braintree | 1 | +7.1 | +4.0 |
+| 2026-02-25 | Methuen/Tewksbury | 2 | Winthrop | 0 | +7.4 | +2.0 |
+| 2026-02-25 | Lawrence Academy | 0 | Rivers | 2 | -2.2 | -2.0 |
+| 2026-02-25 | Natick | 2 | Winchester | 3 | +0.4 | -1.0 |
+| 2026-02-25 | Belmont | 2 | Shrewsbury | 3 | +2.7 | -1.0 |
 | 2026-02-24 | Shawsheen/Bedford/Lowell | 3 | Central Catholic | 1 | +1.5 | +2.0 |
 | 2026-02-21 | Governor’s Academy | 3 | Lawrence Academy | 1 | +5.3 | +2.0 |
-| 2026-02-19 | Winthrop | 2 | Boston Latin | 1 | +6.6 | +1.0 |
-| 2026-02-19 | Andover | 3 | Winchester | 3 | -5.9 | 0.0 |
 | 2026-02-19 | Burlington | 0 | Central Catholic | 3 | -2.5 | -3.0 |
+| 2026-02-19 | Bishop Fenwick | 1 | Marblehead | 1 | +6.1 | 0.0 |
+| 2026-02-19 | Natick | 1 | Reading | 1 | -2.4 | 0.0 |
+| 2026-02-19 | Malden Catholic | 1 | St. Mary’s | 4 | -6.3 | -3.0 |
+| 2026-02-19 | Franklin | 1 | Leominster | 6 | +0.0 | -5.0 |
+| 2026-02-19 | Winthrop | 2 | Boston Latin | 1 | +6.6 | +1.0 |
 | 2026-02-19 | Sandwich | 2 | King Philip | 4 | -6.8 | -2.0 |
 | 2026-02-19 | Whitman-Hanson/Silver Lake | 1 | Auburn | 8 | -9.5 | -7.0 |
-| 2026-02-19 | Franklin | 1 | Leominster | 6 | +0.0 | -5.0 |
-| 2026-02-19 | Malden Catholic | 1 | St. Mary’s | 4 | -6.3 | -3.0 |
-| 2026-02-19 | Natick | 1 | Reading | 1 | -2.4 | 0.0 |
-| 2026-02-19 | Bishop Fenwick | 1 | Marblehead | 1 | +6.1 | 0.0 |
-| 2026-02-18 | Bishop Fenwick | 2 | Gloucester | 1 | +1.7 | +1.0 |
-| 2026-02-18 | Barnstable | 3 | Quincy/North Quincy | 3 | -2.2 | 0.0 |
-| 2026-02-18 | Methuen/Tewksbury | 2 | Arlington Catholic | 1 | +8.0 | +1.0 |
-| 2026-02-18 | Shawsheen/Bedford/Lowell | 1 | Longmeadow | 3 | +7.9 | -2.0 |
-| 2026-02-18 | Acton-Boxboro | 4 | Notre Dame (Hingham) | 7 | -2.0 | -3.0 |
-| 2026-02-18 | Masconomet | 2 | Grafton | 4 | -3.1 | -2.0 |
-| 2026-02-18 | Marshfield | 2 | Milton | 3 | -7.8 | -1.0 |
-| 2026-02-18 | Wellesley/L-S | 2 | Billerica/Chelmsford | 4 | -6.3 | -2.0 |
-| 2026-02-18 | Peabody | 2 | HPNA | 4 | -9.8 | -2.0 |
-| 2026-02-18 | Mansfield/OA/Foxboro | 3 | Walpole | 4 | +2.6 | -1.0 |
-| 2026-02-18 | Medford | 4 | Newburyport | 3 | +3.1 | +1.0 |
-| 2026-02-18 | Central Catholic | 0 | Pope Francis | 0 | +1.6 | 0.0 |
-| 2026-02-18 | Archbishop Williams | 3 | Braintree | 0 | +4.8 | +3.0 |
-| 2026-02-18 | Wakefield/Wilmington | 4 | Arlington | 1 | +7.6 | +3.0 |
-| 2026-02-18 | Pembroke | 2 | Sandwich | 1 | +10.6 | +1.0 |
-| 2026-02-18 | Westwood | 3 | Hingham | 2 | +5.4 | +1.0 |
-| 2026-02-18 | Leominster | 7 | Marblehead | 1 | -0.2 | +6.0 |
-| 2026-02-18 | Hanover | 7 | East/West Bridgewater | 0 | +11.7 | +7.0 |
-| 2026-02-18 | Martha’s Vineyard | 2 | Medfield | 1 | -2.3 | +1.0 |
-| 2026-02-18 | Cambridge | 7 | Latin Academy/Fontbonne | 5 | +0.3 | +2.0 |
-| 2026-02-18 | Bishop Feehan | 5 | Algonquin | 2 | -2.9 | +3.0 |
-| 2026-02-18 | Nantucket | 2 | Plymouth | 6 | +1.1 | -4.0 |
-| 2026-02-18 | Needham | 3 | Norwood | 2 | +2.5 | +1.0 |
-| 2026-02-18 | Bishop Stang | 2 | Dennis-Yarmouth | 0 | +3.1 | +2.0 |
-| 2026-02-18 | Woburn | 9 | Hanover (N.H.) | 1 | +8.2 | +8.0 |
-| 2026-02-18 | Newton North | 1 | Melrose | 2 | -4.1 | -1.0 |
+| 2026-02-19 | Andover | 3 | Winchester | 3 | -5.9 | 0.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Westwood | 1756.9 |
+| 1 | Westwood | 1758.2 |
 | 2 | Algonquin | 1749.8 |
-| 3 | Milton | 1742.5 |
-| 4 | Notre Dame (Hingham) | 1716.1 |
-| 5 | Methuen/Tewksbury | 1709.5 |
+| 3 | Milton | 1745.5 |
+| 4 | Methuen/Tewksbury | 1717.9 |
+| 5 | Notre Dame (Hingham) | 1716.1 |
 | 6 | King Philip | 1707.7 |
-| 7 | Pembroke | 1699.3 |
-| 8 | St. Mary’s | 1688.6 |
-| 9 | Bishop Feehan | 1678.0 |
-| 10 | Woburn | 1673.2 |
-| 11 | Reading | 1667.3 |
-| 12 | HPNA | 1660.2 |
+| 7 | St. Mary’s | 1700.0 |
+| 8 | Pembroke | 1699.3 |
+| 9 | Bishop Feehan | 1688.6 |
+| 10 | Woburn | 1684.2 |
+| 11 | Reading | 1677.5 |
+| 12 | HPNA | 1673.1 |
 | 13 | Hingham | 1657.7 |
 | 14 | Auburn | 1649.8 |
 | 15 | Beverly/Danvers | 1641.3 |
 | 16 | Bishop Stang | 1641.1 |
-| 17 | Archbishop Williams | 1630.9 |
-| 18 | Duxbury | 1624.2 |
-| 19 | Billerica/Chelmsford | 1619.6 |
+| 17 | Archbishop Williams | 1640.9 |
+| 18 | Billerica/Chelmsford | 1636.9 |
+| 19 | Duxbury | 1624.2 |
 | 20 | Waltham | 1607.3 |
-| 21 | Hanover | 1599.1 |
-| 22 | NSA | 1595.8 |
-| 23 | Winchester | 1595.4 |
-| 24 | Wakefield/Wilmington | 1590.5 |
-| 25 | Dennis-Yarmouth | 1587.2 |
-| 26 | Medfield | 1586.2 |
-| 27 | Thayer | 1583.8 |
-| 28 | Acton-Boxboro | 1581.4 |
+| 21 | Winchester | 1606.1 |
+| 22 | Hanover | 1599.1 |
+| 23 | NSA | 1595.8 |
+| 24 | Medfield | 1592.9 |
+| 25 | Acton-Boxboro | 1592.3 |
+| 26 | Wakefield/Wilmington | 1590.5 |
+| 27 | Dennis-Yarmouth | 1587.2 |
+| 28 | Thayer | 1583.8 |
 | 29 | Canton | 1580.2 |
 | 30 | Falmouth | 1579.4 |
-| 31 | Grafton | 1578.4 |
-| 32 | Belmont | 1574.8 |
-| 33 | Winthrop | 1573.5 |
-| 34 | Brookline | 1568.4 |
-| 35 | Nobles | 1566.9 |
+| 31 | Shrewsbury | 1569.8 |
+| 32 | Grafton | 1568.2 |
+| 33 | Nobles | 1566.9 |
+| 34 | Winthrop | 1565.1 |
+| 35 | Belmont | 1562.4 |
 | 36 | Melrose | 1559.9 |
-| 37 | Shrewsbury | 1557.4 |
-| 38 | Natick | 1556.5 |
-| 39 | Phillips Andover | 1552.5 |
-| 40 | Arlington Catholic | 1549.0 |
-| 41 | Hopkinton/Dover-Sherborn | 1540.4 |
-| 42 | Austin Prep | 1540.2 |
-| 43 | Westford | 1538.3 |
+| 37 | Phillips Andover | 1552.5 |
+| 38 | Rivers | 1551.2 |
+| 39 | Brookline | 1551.1 |
+| 40 | Natick | 1545.8 |
+| 41 | Austin Prep | 1540.2 |
+| 42 | Westford | 1538.3 |
+| 43 | Arlington Catholic | 1538.1 |
 | 44 | Governor’s Academy | 1537.3 |
-| 45 | Rivers | 1537.2 |
-| 46 | Nauset/Monomoy | 1536.7 |
-| 47 | Framingham | 1534.3 |
-| 48 | Holderness | 1534.0 |
-| 49 | Braintree | 1533.9 |
-| 50 | Dedham | 1532.5 |
-| 51 | Hoosac School | 1532.2 |
-| 52 | New Hampton | 1531.2 |
-| 53 | Dexter Southfield | 1524.0 |
-| 54 | Berkshire | 1522.9 |
-| 55 | Berwick | 1521.7 |
+| 45 | Nauset/Monomoy | 1536.7 |
+| 46 | Holderness | 1534.0 |
+| 47 | Dedham | 1532.5 |
+| 48 | Hoosac School | 1532.2 |
+| 49 | New Hampton | 1531.2 |
+| 50 | Hopkinton/Dover-Sherborn | 1529.8 |
+| 51 | Dexter Southfield | 1524.0 |
+| 52 | Framingham | 1522.9 |
+| 53 | Berkshire | 1522.9 |
+| 54 | Berwick | 1521.7 |
+| 55 | Braintree | 1521.0 |
 | 56 | ADK United | 1518.7 |
 | 57 | Shawsheen/Bedford/Lowell | 1518.5 |
 | 58 | St. Paul’s | 1516.9 |
 | 59 | Phillips Exeter | 1511.2 |
-| 60 | Pope Francis | 1510.9 |
-| 61 | Loomis Chaffee (Conn.) | 1508.1 |
+| 60 | Loomis Chaffee (Conn.) | 1508.1 |
+| 61 | Northfield Mt. Hermon | 1502.8 |
 | 62 | Tabor | 1502.8 |
-| 63 | Millbrook (N.Y.) | 1502.8 |
-| 64 | Vermont Academy | 1502.8 |
-| 65 | Northfield Mt. Hermon | 1502.8 |
-| 66 | Martha’s Vineyard | 1502.7 |
-| 67 | Kents Hill | 1502.7 |
-| 68 | Choate | 1502.1 |
-| 69 | Central Catholic | 1502.0 |
-| 70 | Williston Northampton | 1501.5 |
-| 71 | Cushing | 1501.3 |
+| 63 | Vermont Academy | 1502.8 |
+| 64 | Millbrook (N.Y.) | 1502.8 |
+| 65 | Martha’s Vineyard | 1502.7 |
+| 66 | Kents Hill | 1502.7 |
+| 67 | Choate | 1502.1 |
+| 68 | Central Catholic | 1502.0 |
+| 69 | Williston Northampton | 1501.5 |
+| 70 | Cushing | 1501.3 |
+| 71 | Pope Francis | 1499.9 |
 | 72 | Middlesex | 1498.6 |
 | 73 | St. George’s | 1497.9 |
 | 74 | Deerfield | 1497.4 |
@@ -191,23 +165,23 @@ Generated: 2026-02-25 11:38
 | 104 | Hebron (Maine) | 1456.2 |
 | 105 | Malden Catholic | 1456.1 |
 | 106 | Walpole | 1452.4 |
-| 107 | Boston Latin | 1445.8 |
-| 108 | Mansfield/OA/Foxboro | 1441.9 |
-| 109 | Winsor | 1438.2 |
-| 110 | Medford | 1437.2 |
+| 107 | Mansfield/OA/Foxboro | 1441.9 |
+| 108 | Winsor | 1438.2 |
+| 109 | Medford | 1437.2 |
+| 110 | Boston Latin | 1435.9 |
 | 111 | Quincy/North Quincy | 1434.4 |
-| 112 | Lawrence Academy | 1433.1 |
-| 113 | Arlington | 1428.6 |
-| 114 | Masconomet | 1424.8 |
-| 115 | Lexington | 1420.7 |
+| 112 | Arlington | 1428.6 |
+| 113 | Masconomet | 1424.8 |
+| 114 | Lexington | 1420.7 |
+| 115 | Lawrence Academy | 1419.2 |
 | 116 | Weymouth | 1406.3 |
 | 117 | Longmeadow | 1405.2 |
 | 118 | Stoneham/Wilmington | 1403.5 |
-| 119 | Wayland/Weston | 1399.9 |
-| 120 | Andover | 1399.0 |
-| 121 | Leominster | 1397.5 |
-| 122 | Wellesley/L-S | 1393.7 |
-| 123 | Newburyport | 1393.5 |
+| 119 | Andover | 1399.0 |
+| 120 | Leominster | 1397.5 |
+| 121 | Wellesley/L-S | 1393.7 |
+| 122 | Newburyport | 1393.5 |
+| 123 | Wayland/Weston | 1393.2 |
 | 124 | Newton North | 1392.9 |
 | 125 | Burlington | 1370.4 |
 | 126 | Stoughton | 1366.9 |
@@ -223,6 +197,6 @@ Generated: 2026-02-25 11:38
 | 136 | Cambridge | 1306.4 |
 | 137 | Franklin | 1294.3 |
 | 138 | Concord-Carlisle | 1276.4 |
-| 139 | Ashland/Medway | 1272.8 |
+| 139 | Ashland/Medway | 1269.8 |
 | 140 | Nantucket | 1266.4 |
-| 141 | Stoneham | 1249.0 |
+| 141 | Stoneham | 1247.7 |
