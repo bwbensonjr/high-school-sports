@@ -748,16 +748,16 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-16,85346,FINAL,Melrose,4244,4.0,1.0,Masconomet,4236,0.0,0.0,Middlesex,Northeast,6:00 P.M.,,0
 2026-02-16,85347,FINAL,Arlington Catholic,4014,3.0,1.0,Shawsheen/Bedford/Lowell,4346,1.0,0.0,Catholic Central,Merrimack Valley/Dual County,7:00 P.M.,,0
 2026-02-16,85348,POSTPONED,East/West Bridgewater,4126,,,Whitman-Hanson/Silver Lake,4427,,,Independent,Patriot,8:30 P.M.,,0
-2026-02-17,85263,FINAL,Archbishop Williams,4012,4,1,Hingham,4171,3,0,Catholic Central,Patriot,3:00 P.M.,,0
-2026-02-17,85349,FINAL,Ursuline,4448,4,0,Walpole,4404,8,1,Independent,Bay State,1:00 P.M.,,0
-2026-02-17,85352,FINAL,Waltham,4405,3,1,Belmont,4034,0,0,Merrimack Valley/Dual County,Middlesex,1:45 P.M.,,0
-2026-02-17,85354,FINAL,St. Mary’s,4374,0,0,Reading,4328,2,1,Catholic Central,Middlesex,2:00 P.M.,,0
-2026-02-17,85355,FINAL,Milton,4252,5,1,Duxbury,4123,1,0,Bay State,Patriot,3:00 P.M.,,0
-2026-02-17,85358,FINAL,Dedham,4108,2,1,Whitman-Hanson/Silver Lake,4427,0,0,Tri-Valley,Patriot,5:15 P.M.,,0
-2026-02-17,85504,FINAL,Newburyport,4276,2,0,NSA,4343,8,1,Northeast,Patriot,1:00 P.M.,,0
-2026-02-17,85506,FINAL,Shrewsbury,4348,3,2,Pope Francis,4796,3,2,Merrimack Valley/Dual County,Central/West,3:00 P.M.,,0
-2026-02-17,85510,FINAL,Malden Catholic,4228,0,0,Natick,4270,1,1,Independent,Bay State,4:00 P.M.,,0
-2026-02-17,85513,FINAL,Falmouth,4134,4,1,Boston Latin,4049,2,0,Cape & Islands,Merrimack Valley/Dual County,3:00 P.M.,,0
+2026-02-17,85263,FINAL,Archbishop Williams,4012,4.0,1.0,Hingham,4171,3.0,0.0,Catholic Central,Patriot,3:00 P.M.,,0
+2026-02-17,85349,FINAL,Ursuline,4448,4.0,0.0,Walpole,4404,8.0,1.0,Independent,Bay State,1:00 P.M.,,0
+2026-02-17,85352,FINAL,Waltham,4405,3.0,1.0,Belmont,4034,0.0,0.0,Merrimack Valley/Dual County,Middlesex,1:45 P.M.,,0
+2026-02-17,85354,FINAL,St. Mary’s,4374,0.0,0.0,Reading,4328,2.0,1.0,Catholic Central,Middlesex,2:00 P.M.,,0
+2026-02-17,85355,FINAL,Milton,4252,5.0,1.0,Duxbury,4123,1.0,0.0,Bay State,Patriot,3:00 P.M.,,0
+2026-02-17,85358,FINAL,Dedham,4108,2.0,1.0,Whitman-Hanson/Silver Lake,4427,0.0,0.0,Tri-Valley,Patriot,5:15 P.M.,,0
+2026-02-17,85504,FINAL,Newburyport,4276,2.0,0.0,NSA,4343,8.0,1.0,Northeast,Patriot,1:00 P.M.,,0
+2026-02-17,85506,FINAL,Shrewsbury,4348,3.0,2.0,Pope Francis,4796,3.0,2.0,Merrimack Valley/Dual County,Central/West,3:00 P.M.,,0
+2026-02-17,85510,FINAL,Malden Catholic,4228,0.0,0.0,Natick,4270,1.0,1.0,Independent,Bay State,4:00 P.M.,,0
+2026-02-17,85513,FINAL,Falmouth,4134,4.0,1.0,Boston Latin,4049,2.0,0.0,Cape & Islands,Merrimack Valley/Dual County,3:00 P.M.,,0
 2026-02-17,85514,POSTPONED,Burlington,4065,,,La Salle (R.I.),4201,,,Middlesex,Independent,1:00 P.M.,,0
 2026-02-18,72448,FINAL,Wellesley/L-S,4413,2,0,Billerica/Chelmsford,4040,4,1,Bay State,Merrimack Valley/Dual County,6:15 P.M.,,0
 2026-02-18,72471,FINAL,Peabody,4306,2,0,HPNA,4283,4,1,Northeast,Merrimack Valley/Dual County,5:15 P.M.,,0
@@ -821,19 +821,24 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-26,86318,FINAL,Auburn,4019,6,1,Masconomet,4236,2,0,Independent,Northeast,6:00 P.M.,,0
 2026-02-26,86330,FINAL,NSA,4343,2,1,Gloucester,4150,0,0,Patriot,Northeast,3:20 P.M.,,0
 2026-02-26,86336,FINAL,Canton,4071,4,1,Quincy/North Quincy,4287,1,0,Hockomock,Patriot,5:00 P.M.,,0
-2026-02-27,86303,UPCOMING,Dedham,4108,,,Martha’s Vineyard,4235,,,Tri-Valley,Cape & Islands,12:30 P.M.,,0
-2026-02-27,86309,UPCOMING,Sandwich,4340,,,Melrose,4244,,,Cape & Islands,Middlesex,5:30 P.M.,,0
-2026-02-27,86321,UPCOMING,Dennis-Yarmouth,4111,,,Norwood,4297,,,Cape & Islands,Tri-Valley,4:00 P.M.,,0
-2026-02-27,86324,UPCOMING,Nauset/Monomoy,4271,,,Burlington,4065,,,Cape & Islands,Middlesex,4:10 P.M.,,0
-2026-02-27,86333,UPCOMING,Falmouth,4134,,,Leominster,4208,,,Cape & Islands,Central/West,5:15 P.M.,,0
-2026-02-27,86342,UPCOMING,Duxbury,4123,,,Marblehead,4231,,,Patriot,Northeast,5:20 P.M.,,0
+2026-02-27,86303,FINAL,Dedham,4108,2,0,Martha’s Vineyard,4235,3,1,Tri-Valley,Cape & Islands,12:30 P.M.,,0
+2026-02-27,86309,FINAL,Sandwich,4340,1,0,Melrose,4244,3,1,Cape & Islands,Middlesex,5:30 P.M.,,0
+2026-02-27,86321,FINAL,Dennis-Yarmouth,4111,1,1,Norwood,4297,0,0,Cape & Islands,Tri-Valley,4:00 P.M.,,0
+2026-02-27,86324,FINAL,Nauset/Monomoy,4271,4,1,Burlington,4065,3,0,Cape & Islands,Middlesex,4:10 P.M.,,0
+2026-02-27,86333,FINAL,Falmouth,4134,3,1,Leominster,4208,1,0,Cape & Islands,Central/West,5:15 P.M.,,0
+2026-02-27,86342,FINAL,Duxbury,4123,5,1,Marblehead,4231,0,0,Patriot,Northeast,5:20 P.M.,,0
+2026-02-28,86186,UPCOMING,Reading,4328,,,Waltham,4405,,,Middlesex,Merrimack Valley/Dual County,4:30 P.M.,,0
 2026-02-28,86189,UPCOMING,Methuen/Tewksbury,4246,,,Woburn,4438,,,Merrimack Valley/Dual County,Middlesex,5:00 P.M.,,0
 2026-02-28,86192,UPCOMING,Archbishop Williams,4012,,,Billerica/Chelmsford,4040,,,Catholic Central,Merrimack Valley/Dual County,8:00 P.M.,,0
 2026-02-28,86195,UPCOMING,Bishop Feehan,4042,,,Acton-Boxboro,4003,,,Catholic Central,Merrimack Valley/Dual County,1:00 P.M.,,0
 2026-02-28,86201,UPCOMING,St. Mary’s,4374,,,Winchester,4434,,,Catholic Central,Middlesex,2:00 P.M.,,0
 2026-02-28,86204,UPCOMING,Notre Dame (Hingham),4449,,,Shrewsbury,4348,,,Independent,Merrimack Valley/Dual County,7:00 P.M.,,0
 2026-02-28,86228,UPCOMING,Bishop Stang,4045,,,Bishop Fenwick,4043,,,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-02-28,86294,UPCOMING,Duxbury,4123,,,Melrose,4244,,,Patriot,Middlesex,5:40 P.M.,,0
 2026-02-28,86297,UPCOMING,Milton,4252,,,Wakefield/Wilmington,4402,,,Bay State,Middlesex,6:00 P.M.,,0
 2026-02-28,86339,UPCOMING,Pembroke,4308,,,Barnstable,4024,,,Patriot,Cape & Islands,6:00 P.M.,,0
 2026-03-01,86198,UPCOMING,Algonquin,4005,,,Malden Catholic,4228,,,Independent,Independent,5:40 P.M.,,0
+2026-03-01,86279,UPCOMING,Nauset/Monomoy,4271,,,Medfield,4241,,,Cape & Islands,Tri-Valley,4:15 P.M.,,0
+2026-03-01,86282,UPCOMING,Dennis-Yarmouth,4111,,,NSA,4343,,,Cape & Islands,Patriot,3:00 P.M.,,0
 2026-03-01,86288,UPCOMING,King Philip,4197,,,Canton,4071,,,Hockomock,Hockomock,2:30 P.M.,,0
+2026-03-01,86300,UPCOMING,Westwood,4424,,,Martha’s Vineyard,4235,,,Tri-Valley,Cape & Islands,6:00 P.M.,,0
