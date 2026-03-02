@@ -2301,18 +2301,18 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-18,85669,FINAL,Lunenburg,4219,45.0,1.0,Blackstone-Millville,4486,41.0,0.0,Mid-Wach,CMAC,,,0
 2026-02-18,85672,FINAL,Auburn,4019,37.0,1.0,Groton-Dunstable,4160,36.0,0.0,CMAC,Mid-Wach,,,0
 2026-02-19,74109,UPCOMING,New Bedford,4273,,,Taunton,4388,,,Big Three,Hockomock,6:30 P.M.,,0
-2026-02-19,74127,FINAL,Old Rochester,4301,63,1,New Bedford,4273,31,0,South Coast,Big Three,5:00 P.M.,,0
-2026-02-19,76373,FINAL,Cohasset,4094,50,0,Silver Lake,4349,64,1,South Shore,Patriot,12:00 P.M.,,0
-2026-02-19,81173,FINAL,Newburyport,4276,35,0,North Reading,4288,67,1,Cape Ann,Cape Ann,6:30 P.M.,,0
+2026-02-19,74127,FINAL,Old Rochester,4301,63.0,1.0,New Bedford,4273,31.0,0.0,South Coast,Big Three,5:00 P.M.,,0
+2026-02-19,76373,FINAL,Cohasset,4094,50.0,0.0,Silver Lake,4349,64.0,1.0,South Shore,Patriot,12:00 P.M.,,0
+2026-02-19,81173,FINAL,Newburyport,4276,35.0,0.0,North Reading,4288,67.0,1.0,Cape Ann,Cape Ann,6:30 P.M.,,0
 2026-02-19,81871,UPCOMING,Everett,4132,,,Worcester North,4443,,,Greater Boston,CMAC,1:00 P.M.,,0
-2026-02-19,81912,FINAL,Bridgewater-Raynham,4053,31,0,Apponequet,4011,46,1,Pioneer,South Coast,6:30 P.M.,,0
-2026-02-19,85719,FINAL,O’Bryant,4298,49,1,New Mission,4494,21,0,Boston City,Boston City,1:00 P.M.,,0
-2026-02-19,85720,FINAL,Malden,4227,70,1,Chelsea,4086,39,0,Greater Boston,Greater Boston,2:00 P.M.,,0
-2026-02-19,85727,FINAL,Monty Tech,4259,41,1,Diman,4115,38,0,CMAC,Mayflower,,,0
-2026-02-19,85728,FINAL,Greater New Bedford,4156,57,1,Shawsheen,4346,38,0,South Coast,Commonwealth,,,0
-2026-02-19,85731,FINAL,Blue Hills,4047,58,1,Upper Cape,4457,30,0,Mayflower,Mayflower,,,0
-2026-02-19,85732,FINAL,Minuteman,4255,55,1,Cape Cod Tech,4073,29,0,Commonwealth,Mayflower,,,0
-2026-02-19,85738,FINAL,Southeastern,4358,52,1,Greater Lawrence,4154,48,0,Mayflower,Commonwealth,,,0
+2026-02-19,81912,FINAL,Bridgewater-Raynham,4053,31.0,0.0,Apponequet,4011,46.0,1.0,Pioneer,South Coast,6:30 P.M.,,0
+2026-02-19,85719,FINAL,O’Bryant,4298,49.0,1.0,New Mission,4494,21.0,0.0,Boston City,Boston City,1:00 P.M.,,0
+2026-02-19,85720,FINAL,Malden,4227,70.0,1.0,Chelsea,4086,39.0,0.0,Greater Boston,Greater Boston,2:00 P.M.,,0
+2026-02-19,85727,FINAL,Monty Tech,4259,41.0,1.0,Diman,4115,38.0,0.0,CMAC,Mayflower,,,0
+2026-02-19,85728,FINAL,Greater New Bedford,4156,57.0,1.0,Shawsheen,4346,38.0,0.0,South Coast,Commonwealth,,,0
+2026-02-19,85731,FINAL,Blue Hills,4047,58.0,1.0,Upper Cape,4457,30.0,0.0,Mayflower,Mayflower,,,0
+2026-02-19,85732,FINAL,Minuteman,4255,55.0,1.0,Cape Cod Tech,4073,29.0,0.0,Commonwealth,Mayflower,,,0
+2026-02-19,85738,FINAL,Southeastern,4358,52.0,1.0,Greater Lawrence,4154,48.0,0.0,Mayflower,Commonwealth,,,0
 2026-02-20,85748,FINAL,Greater New Bedford,4156,66,1,Southeastern,4358,44,0,South Coast,Mayflower,5:00 P.M.,,0
 2026-02-20,85751,FINAL,Minuteman,4255,72,1,Norfolk Aggie,4458,39,0,Commonwealth,Mayflower,5:00 P.M.,,0
 2026-02-21,85753,UPCOMING,Blue Hills,4047,,,Blackstone Valley,4046,,,Mayflower,CMAC,5:00 P.M.,,0
@@ -2437,34 +2437,54 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-28,87639,FINAL,Pingree,4312,45,1,Wheeler (R.I.),4426,44,0,EIL,EIL,3:30 P.M.,,0
 2026-02-28,87642,FINAL,Holderness,4173,51,1,Austin Prep,4020,31,0,Independent,Independent,,,0
 2026-02-28,87643,FINAL,New Hampton,4275,61,1,Worcester Academy,4441,51,0,Independent,Independent,3:00 P.M.,,0
-2026-03-01,87054,UPCOMING,Quincy,4326,,,Durfee,4122,,,Patriot,Big Three,3:00 P.M.,,0
-2026-03-01,87168,UPCOMING,Whitman-Hanson,4427,,,Dartmouth,4105,,,Patriot,Pioneer,12:00 P.M.,,0
-2026-03-01,87171,UPCOMING,Medfield,4241,,,Canton,4071,,,Tri-Valley,Hockomock,5:00 P.M.,,0
-2026-03-01,87258,UPCOMING,Norwell,4296,,,Sandwich,4340,,,South Shore,Cape & Islands,3:30 P.M.,,0
-2026-03-01,87273,UPCOMING,Hanover,4164,,,Lynn Classical,4220,,,Patriot,Greater Boston,3:30 P.M.,,0
-2026-03-01,87288,UPCOMING,Apponequet,4011,,,Ursuline,4448,,,South Coast,Catholic Conference,2:00 P.M.,,0
-2026-03-01,87369,UPCOMING,New Heights Charter,5088,,,Tahanto,4513,,,Charter School Athletic,Mid-Wach,1:00 P.M.,,0
-2026-03-01,87375,UPCOMING,West Bridgewater,4415,,,Mashpee,4237,,,South Coast,South Shore,4:30 P.M.,,0
-2026-03-01,87384,UPCOMING,Southwick,4519,,,O’Bryant,4298,,,Independent,Boston City,1:00 P.M.,,0
-2026-03-01,87393,UPCOMING,Tyngsborough,4397,,,Carver,4077,,,Mid-Wach,South Shore,4:00 P.M.,,0
-2026-03-01,87522,UPCOMING,Lee,4206,,,Atlantis Charter,4818,,,Independent,Independent,2:00 P.M.,,0
+2026-03-01,87054,FINAL,Quincy,4326,44,1,Durfee,4122,26,0,Patriot,Big Three,3:00 P.M.,,0
+2026-03-01,87168,FINAL,Whitman-Hanson,4427,61,1,Dartmouth,4105,35,0,Patriot,Pioneer,12:00 P.M.,,0
+2026-03-01,87171,FINAL,Medfield,4241,72,1,Canton,4071,20,0,Tri-Valley,Hockomock,5:00 P.M.,,0
+2026-03-01,87258,FINAL,Norwell,4296,59,1,Sandwich,4340,29,0,South Shore,Cape & Islands,3:30 P.M.,,0
+2026-03-01,87273,FINAL,Hanover,4164,60,1,Lynn Classical,4220,26,0,Patriot,Greater Boston,3:30 P.M.,,0
+2026-03-01,87288,FINAL,Apponequet,4011,53,1,Ursuline,4448,44,0,South Coast,Catholic Conference,2:00 P.M.,,0
+2026-03-01,87369,FINAL,New Heights Charter,5088,58,0,Tahanto,4513,75,1,Charter School Athletic,Mid-Wach,1:00 P.M.,,0
+2026-03-01,87375,FINAL,West Bridgewater,4415,48,1,Mashpee,4237,44,0,South Coast,South Shore,4:30 P.M.,,0
+2026-03-01,87384,FINAL,Southwick,4519,41,1,O’Bryant,4298,33,0,Independent,Boston City,1:00 P.M.,,0
+2026-03-01,87393,FINAL,Tyngsborough,4397,43,1,Carver,4077,41,0,Mid-Wach,South Shore,4:00 P.M.,,0
+2026-03-01,87522,FINAL,Lee,4206,61,1,Atlantis Charter,4818,22,0,Independent,Independent,2:00 P.M.,,0
 2026-03-02,87015,UPCOMING,Wachusett,4400,,,Acton-Boxborough,4003,,,Mid-Wach,Dual County,6:00 P.M.,,0
 2026-03-02,87105,UPCOMING,Oliver Ames,4302,,,North Attleborough,4284,,,Hockomock,Hockomock,6:00 P.M.,,0
+2026-03-02,87108,UPCOMING,Walpole,4404,,,Duxbury,4123,,,Bay State,Patriot,6:30 P.M.,,0
 2026-03-02,87117,UPCOMING,St. Mary’s,4374,,,Archbishop Williams,4012,,,Catholic Central,Catholic Central,5:15 P.M.,,0
+2026-03-02,87234,UPCOMING,Cathedral,4079,,,Greater New Bedford,4156,,,Catholic Central,South Coast,6:30 P.M.,,0
 2026-03-02,87243,UPCOMING,Pittsfield,4314,,,Tewksbury,4389,,,Independent,Merrimack Valley,6:00 P.M.,,0
 2026-03-02,87363,UPCOMING,Millis,4251,,,Uxbridge,4398,,,Tri-Valley,CMAC,6:00 P.M.,,0
 2026-03-02,87390,UPCOMING,Hampshire,4518,,,Wareham,4407,,,Independent,Mayflower,6:00 P.M.,,0
 2026-03-02,87486,UPCOMING,Granby,4520,,,Hoosac Valley,4178,,,Independent,Independent,6:00 P.M.,,0
 2026-03-02,87489,UPCOMING,Minuteman,4255,,,Mahar,4226,,,Commonwealth,Independent,6:00 P.M.,,0
+2026-03-02,87507,UPCOMING,Drury,4120,,,Ware,4406,,,Independent,Independent,7:00 P.M.,,0
 2026-03-03,87000,UPCOMING,Woburn,4438,,,Needham,4272,,,Middlesex,Bay State,6:00 P.M.,,0
 2026-03-03,87003,UPCOMING,Braintree,4051,,,Billerica,4040,,,Bay State,Merrimack Valley,6:30 P.M.,,0
+2026-03-03,87006,UPCOMING,Natick,4270,,,Quincy,4326,,,Bay State,Patriot,6:00 P.M.,,0
+2026-03-03,87009,UPCOMING,Worcester South,4444,,,Malden Catholic,4228,,,CMAC,Catholic Conference,6:30 P.M.,,0
 2026-03-03,87012,UPCOMING,Andover,4009,,,Westford,4421,,,Merrimack Valley,Dual County,5:00 P.M.,,0
 2026-03-03,87018,UPCOMING,Bishop Feehan,4042,,,Franklin,4144,,,Catholic Central,Hockomock,6:30 P.M.,,0
 2026-03-03,87102,UPCOMING,Norwood,4297,,,North Quincy,4287,,,Tri-Valley,Patriot,6:00 P.M.,,0
 2026-03-03,87111,UPCOMING,Minnechaug,4254,,,Mansfield,4230,,,Independent,Hockomock,6:30 P.M.,,0
 2026-03-03,87114,UPCOMING,Foxborough,4142,,,Northampton,4291,,,Hockomock,Independent,6:00 P.M.,,0
+2026-03-03,87123,UPCOMING,Medfield,4241,,,Hingham,4171,,,Tri-Valley,Patriot,7:00 P.M.,,0
+2026-03-03,87225,UPCOMING,Pentucket,4309,,,Hanover,4164,,,Cape Ann,Patriot,6:00 P.M.,,0
 2026-03-03,87231,UPCOMING,Pembroke,4308,,,East Bridgewater,4126,,,Patriot,South Shore,6:00 P.M.,,0
+2026-03-03,87237,UPCOMING,Medway,4243,,,Norwell,4296,,,Tri-Valley,South Shore,6:00 P.M.,,0
+2026-03-03,87240,UPCOMING,Apponequet,4011,,,Pope Francis,4796,,,South Coast,Independent,6:00 P.M.,,0
 2026-03-03,87246,UPCOMING,Bishop Fenwick,4043,,,Lynnfield,4223,,,Catholic Central,Cape Ann,6:00 P.M.,,0
+2026-03-03,87348,UPCOMING,Manchester Essex,4229,,,Sutton,4512,,,Cape Ann,CMAC,6:30 P.M.,,0
 2026-03-03,87354,UPCOMING,Wahconah,4401,,,Cohasset,4094,,,Independent,South Shore,5:00 P.M.,,0
 2026-03-03,87357,UPCOMING,Millbury,4250,,,Northbridge,4292,,,CMAC,CMAC,6:30 P.M.,,0
+2026-03-03,87366,UPCOMING,Frontier,4146,,,Tahanto,4513,,,Independent,Mid-Wach,6:00 P.M.,,0
+2026-03-03,87492,UPCOMING,Holbrook,4172,,,Renaissance,4664,,,Mayflower,Independent,6:00 P.M.,,0
+2026-03-03,87495,UPCOMING,Lee,4206,,,Lenox,4532,,,Independent,Independent,6:00 P.M.,,0
+2026-03-03,87498,UPCOMING,St. John Paul II,4689,,,Pioneer Valley Christian,4535,,,Cape & Islands,Independent,5:00 P.M.,,0
 2026-03-03,87501,UPCOMING,Douglas,4506,,,Norfolk Aggie,4458,,,CMAC,Mayflower,6:00 P.M.,,0
+2026-03-03,87504,UPCOMING,Hopedale,4507,,,Prospect Hill,4593,,,CMAC,Charter School Athletic,7:00 P.M.,,0
+2026-03-04,87021,UPCOMING,Springfield Central,4360,,,Bridgewater-Raynham,4053,,,Independent,Pioneer,6:00 P.M.,,0
+2026-03-04,87120,UPCOMING,Whitman-Hanson,4427,,,Fontbonne,4447,,,Patriot,Catholic Conference,6:00 P.M.,,0
+2026-03-04,87228,UPCOMING,North Reading,4288,,,Old Rochester,4301,,,Cape Ann,South Coast,6:00 P.M.,,0
+2026-03-04,87351,UPCOMING,Southwick,4519,,,Greater Lawrence,4154,,,Independent,Commonwealth,6:00 P.M.,,0
+2026-03-04,87360,UPCOMING,South Hadley,4353,,,West Bridgewater,4415,,,Independent,South Coast,6:00 P.M.,,0
