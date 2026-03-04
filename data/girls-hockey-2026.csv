@@ -794,7 +794,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-19,85583,FINAL,Malden Catholic,4228,1.0,0.0,St. Mary’s,4374,4.0,1.0,Independent,Catholic Central,2:00 P.M.,,0
 2026-02-19,85586,FINAL,Natick,4270,1.0,2.0,Reading,4328,1.0,2.0,Bay State,Middlesex,4:00 P.M.,1.0,0
 2026-02-19,85715,FINAL,Bishop Fenwick,4043,1.0,2.0,Marblehead,4231,1.0,2.0,Catholic Central,Northeast,12:50 P.M.,,0
-2026-02-21,87591,FINAL,Governor’s Academy,4152,3,1,Lawrence Academy,4204,1,0,ISL,ISL,,,0
+2026-02-21,87591,FINAL,Governor’s Academy,4152,3.0,1.0,Lawrence Academy,4204,1.0,0.0,ISL,ISL,,,0
 2026-02-24,86255,FINAL,Shawsheen/Bedford/Lowell,4346,3,1,Central Catholic,4081,1,0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,3:00 P.M.,,0
 2026-02-25,86207,FINAL,Belmont,4034,2,0,Shrewsbury,4348,3,1,Middlesex,Merrimack Valley/Dual County,7:00 P.M.,1.0,0
 2026-02-25,86210,FINAL,Natick,4270,2,0,Winchester,4434,3,1,Bay State,Middlesex,7:40 P.M.,,0
@@ -848,15 +848,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-04,86171,UPCOMING,Bishop Feehan,4042,,,Archbishop Williams,4012,,,Catholic Central,Catholic Central,5:30 P.M.,,0
 2026-03-04,86174,UPCOMING,St. Mary’s,4374,,,Reading,4328,,,Catholic Central,Middlesex,5:15 P.M.,,0
 2026-03-04,86177,UPCOMING,Algonquin,4005,,,Methuen/Tewksbury,4246,,,Independent,Merrimack Valley/Dual County,5:00 P.M.,,0
+2026-03-04,86267,UPCOMING,Pembroke,4308,,,King Philip,4197,,,Patriot,Hockomock,5:15 P.M.,,0
 2026-03-04,86270,UPCOMING,Milton,4252,,,NSA,4343,,,Bay State,Patriot,5:40 P.M.,,0
 2026-03-04,87646,UPCOMING,Nobles,4282,,,St. Paul’s,4375,,,ISL,Independent,3:30 P.M.,,0
 2026-03-04,87648,UPCOMING,Dexter Southfield,4113,,,Loomis Chaffee (Conn.),4215,,,Independent,Founders,3:00 P.M.,,0
 2026-03-04,87651,UPCOMING,Williston Northampton,4431,,,Deerfield,4110,,,Independent,Independent,4:15 P.M.,,0
 2026-03-04,87652,UPCOMING,Phillips Andover,4310,,,Tabor,4384,,,Independent,ISL,3:30 P.M.,,0
 2026-03-04,87654,UPCOMING,Phillips Exeter,4311,,,Middlesex,4248,,,Independent,ISL,,,0
-2026-03-04,87655,UPCOMING,BB&N,4028,,,Thayer,4390,,,ISL,ISL,,,0
-2026-03-04,87658,UPCOMING,Taft,4386,,,Berkshire,4036,,,Independent,Independent,,,0
-2026-03-04,87661,UPCOMING,Groton,4544,,,Frederick Gunn (Conn.),4161,,,ISL,Independent,,,0
-2026-03-04,87662,UPCOMING,Governor’s Academy,4152,,,St. Mark’s,4372,,,ISL,ISL,,,0
-2026-03-04,87665,UPCOMING,Cushing,4101,,,Portsmouth Abbey,4320,,,Independent,EIL,,,0
-2026-03-04,87666,UPCOMING,Rivers,4330,,,New Hampton,4275,,,ISL,Independent,,,0
+2026-03-04,87655,UPCOMING,BB&N,4028,,,Thayer,4390,,,ISL,ISL,4:00 P.M.,,0
+2026-03-04,87658,UPCOMING,Taft,4386,,,Berkshire,4036,,,Independent,Independent,3:00 P.M.,,0
+2026-03-04,87661,UPCOMING,Groton,4544,,,Frederick Gunn (Conn.),4161,,,ISL,Independent,3:00 P.M.,,0
+2026-03-04,87662,UPCOMING,Governor’s Academy,4152,,,St. Mark’s,4372,,,ISL,ISL,4:00 P.M.,,0
+2026-03-04,87665,UPCOMING,Cushing,4101,,,Portsmouth Abbey,4320,,,Independent,EIL,5:15 P.M.,,0
+2026-03-04,87666,UPCOMING,Rivers,4330,,,New Hampton,4275,,,ISL,Independent,5:30 P.M.,,0
+2026-03-05,86180,UPCOMING,Notre Dame (Hingham),4449,,,Bishop Stang,4045,,,Independent,Catholic Central,5:40 P.M.,,0
+2026-03-05,86273,UPCOMING,Duxbury,4123,,,Auburn,4019,,,Patriot,Independent,5:15 P.M.,,0
+2026-03-05,86276,UPCOMING,Westwood,4424,,,Medfield,4241,,,Tri-Valley,Tri-Valley,6:00 P.M.,,0

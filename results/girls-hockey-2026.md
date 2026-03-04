@@ -1,26 +1,30 @@
 # Girls Hockey - 2026 Season
 
-Generated: 2026-03-03 11:30
+Generated: 2026-03-04 11:28
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
 | 2026-03-04 | 5:30 P.M. | Bishop Feehan | Archbishop Williams | 62.1% | +3.4 |
-| 2026-03-04 | 5:15 P.M. | St. Mary’s | Reading | 60.1% | +2.9 |
-| 2026-03-04 | 5:00 P.M. | Algonquin | Methuen/Tewksbury | 60.8% | +3.0 |
-| 2026-03-04 | 5:40 P.M. | Milton | NSA | 73.9% | +7.2 |
-| 2026-03-04 | 3:30 P.M. | Nobles | St. Paul’s | 64.0% | +4.0 |
-| 2026-03-04 | 3:00 P.M. | Dexter Southfield | Loomis Chaffee (Conn.) | 59.4% | +2.6 |
-| 2026-03-04 | 4:15 P.M. | Williston Northampton | Deerfield | 57.7% | +2.2 |
+| 2026-03-04 | 5:30 P.M. | Rivers | New Hampton | 59.9% | +2.8 |
+| 2026-03-04 | 5:15 P.M. | Cushing | Portsmouth Abbey | 58.9% | +2.5 |
+| 2026-03-04 | 4:00 P.M. | Governor’s Academy | St. Mark’s | 63.1% | +3.7 |
+| 2026-03-04 | 3:00 P.M. | Groton | Frederick Gunn (Conn.) | 55.3% | +1.5 |
+| 2026-03-04 | 3:00 P.M. | Taft | Berkshire | 54.3% | +1.2 |
+| 2026-03-04 | 4:00 P.M. | BB&N | Thayer | 41.8% | -2.3 |
 | 2026-03-04 | 3:30 P.M. | Phillips Andover | Tabor | 64.0% | +4.0 |
 | 2026-03-04 | TBD | Phillips Exeter | Middlesex | 58.9% | +2.5 |
-| 2026-03-04 | TBD | BB&N | Thayer | 41.8% | -2.3 |
-| 2026-03-04 | TBD | Taft | Berkshire | 54.3% | +1.2 |
-| 2026-03-04 | TBD | Groton | Frederick Gunn (Conn.) | 55.3% | +1.5 |
-| 2026-03-04 | TBD | Governor’s Academy | St. Mark’s | 63.1% | +3.7 |
-| 2026-03-04 | TBD | Cushing | Portsmouth Abbey | 58.9% | +2.5 |
-| 2026-03-04 | TBD | Rivers | New Hampton | 59.9% | +2.8 |
+| 2026-03-04 | 3:00 P.M. | Dexter Southfield | Loomis Chaffee (Conn.) | 59.4% | +2.6 |
+| 2026-03-04 | 3:30 P.M. | Nobles | St. Paul’s | 64.0% | +4.0 |
+| 2026-03-04 | 5:40 P.M. | Milton | NSA | 73.9% | +7.2 |
+| 2026-03-04 | 5:15 P.M. | Pembroke | King Philip | 57.4% | +2.1 |
+| 2026-03-04 | 5:00 P.M. | Algonquin | Methuen/Tewksbury | 60.8% | +3.0 |
+| 2026-03-04 | 5:15 P.M. | St. Mary’s | Reading | 60.1% | +2.9 |
+| 2026-03-04 | 4:15 P.M. | Williston Northampton | Deerfield | 57.7% | +2.2 |
+| 2026-03-05 | 5:15 P.M. | Duxbury | Auburn | 53.1% | +0.9 |
+| 2026-03-05 | 5:40 P.M. | Notre Dame (Hingham) | Bishop Stang | 66.4% | +4.7 |
+| 2026-03-05 | 6:00 P.M. | Westwood | Medfield | 77.4% | +8.6 |
 
 ## Recent Games
 
@@ -51,22 +55,21 @@ Generated: 2026-03-03 11:30
 | 2026-02-27 | Dennis-Yarmouth | 1 | Norwood | 0 | +12.1 | +1.0 |
 | 2026-02-27 | Sandwich | 1 | Melrose | 3 | -1.6 | -2.0 |
 | 2026-02-26 | Canton | 4 | Quincy/North Quincy | 1 | +7.8 | +3.0 |
-| 2026-02-26 | Hingham | 2 | Waltham | 3 | +4.0 | -1.0 |
-| 2026-02-26 | NSA | 2 | Gloucester | 0 | +7.5 | +2.0 |
 | 2026-02-26 | Auburn | 6 | Masconomet | 2 | +11.0 | +4.0 |
 | 2026-02-26 | King Philip | 6 | Whitman-Hanson/Silver Lake | 0 | +16.9 | +6.0 |
 | 2026-02-26 | Hanover | 2 | Walpole | 1 | +7.9 | +1.0 |
 | 2026-02-26 | Marshfield | 2 | Wakefield/Wilmington | 3 | -2.1 | -1.0 |
 | 2026-02-26 | Notre Dame (Hingham) | 4 | Shawsheen/Bedford/Lowell | 0 | +9.9 | +4.0 |
 | 2026-02-26 | Algonquin | 3 | Westford | 0 | +10.5 | +3.0 |
+| 2026-02-26 | Hingham | 2 | Waltham | 3 | +4.0 | -1.0 |
 | 2026-02-26 | Malden Catholic | 3 | Beverly/Danvers | 2 | -5.4 | +1.0 |
-| 2026-02-25 | HPNA | 5 | Braintree | 1 | +7.1 | +4.0 |
-| 2026-02-25 | Methuen/Tewksbury | 2 | Winthrop | 0 | +7.4 | +2.0 |
-| 2026-02-25 | Archbishop Williams | 4 | Boston Latin | 0 | +9.4 | +4.0 |
-| 2026-02-25 | Belmont | 2 | Shrewsbury | 3 | +2.7 | -1.0 |
-| 2026-02-25 | Arlington Catholic | 1 | Acton-Boxboro | 2 | +0.7 | -1.0 |
+| 2026-02-26 | NSA | 2 | Gloucester | 0 | +7.5 | +2.0 |
 | 2026-02-25 | Natick | 2 | Winchester | 3 | +0.4 | -1.0 |
 | 2026-02-25 | Woburn | 4 | Pope Francis | 0 | +8.5 | +4.0 |
+| 2026-02-25 | Arlington Catholic | 1 | Acton-Boxboro | 2 | +0.7 | -1.0 |
+| 2026-02-25 | Archbishop Williams | 4 | Boston Latin | 0 | +9.4 | +4.0 |
+| 2026-02-25 | Methuen/Tewksbury | 2 | Winthrop | 0 | +7.4 | +2.0 |
+| 2026-02-25 | HPNA | 5 | Braintree | 1 | +7.1 | +4.0 |
 | 2026-02-25 | Reading | 3 | Grafton | 1 | +5.6 | +2.0 |
 | 2026-02-25 | Milton | 8 | Ashland/Medway | 1 | +20.8 | +7.0 |
 | 2026-02-25 | Billerica/Chelmsford | 5 | Brookline | 1 | +4.0 | +4.0 |
@@ -75,7 +78,7 @@ Generated: 2026-03-03 11:30
 | 2026-02-25 | Medfield | 3 | Wayland/Weston | 1 | +9.5 | +2.0 |
 | 2026-02-25 | Westwood | 2 | Stoneham | 0 | +22.3 | +2.0 |
 | 2026-02-25 | Lawrence Academy | 0 | Rivers | 2 | -2.2 | -2.0 |
-| 2026-02-24 | Shawsheen/Bedford/Lowell | 3 | Central Catholic | 1 | +1.5 | +2.0 |
+| 2026-02-25 | Belmont | 2 | Shrewsbury | 3 | +2.7 | -1.0 |
 
 ## Current Elo Ratings
 
@@ -143,11 +146,11 @@ Generated: 2026-03-03 11:30
 | 60 | Loomis Chaffee (Conn.) | 1508.1 |
 | 61 | Martha’s Vineyard | 1506.3 |
 | 62 | Millbrook (N.Y.) | 1502.8 |
-| 63 | Vermont Academy | 1502.8 |
-| 64 | Northfield Mt. Hermon | 1502.8 |
-| 65 | Tabor | 1502.8 |
-| 66 | Taft | 1502.8 |
-| 67 | Frederick Gunn (Conn.) | 1502.8 |
+| 63 | Tabor | 1502.8 |
+| 64 | Frederick Gunn (Conn.) | 1502.8 |
+| 65 | Taft | 1502.8 |
+| 66 | Vermont Academy | 1502.8 |
+| 67 | Northfield Mt. Hermon | 1502.8 |
 | 68 | Kents Hill | 1502.7 |
 | 69 | Choate | 1502.1 |
 | 70 | Central Catholic | 1502.0 |
