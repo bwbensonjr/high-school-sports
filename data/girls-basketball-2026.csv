@@ -2472,45 +2472,64 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-03,87237,FINAL,Medway,4243,50,1,Norwell,4296,28,0,Tri-Valley,South Shore,6:00 P.M.,,0
 2026-03-03,87246,FINAL,Bishop Fenwick,4043,56,1,Lynnfield,4223,29,0,Catholic Central,Cape Ann,6:00 P.M.,,0
 2026-03-03,87504,FINAL,Hopedale,4507,53,1,Prospect Hill,4593,43,0,CMAC,Charter School Athletic,7:30 P.M.,,0
-2026-03-04,87021,UPCOMING,Springfield Central,4360,,,Bridgewater-Raynham,4053,,,Independent,Pioneer,6:00 P.M.,,0
-2026-03-04,87111,UPCOMING,Minnechaug,4254,,,Mansfield,4230,,,Independent,Hockomock,6:30 P.M.,,0
-2026-03-04,87114,UPCOMING,Foxborough,4142,,,Northampton,4291,,,Hockomock,Independent,6:00 P.M.,,0
-2026-03-04,87120,UPCOMING,Whitman-Hanson,4427,,,Fontbonne,4447,,,Patriot,Catholic Conference,6:00 P.M.,,0
-2026-03-04,87228,UPCOMING,North Reading,4288,,,Old Rochester,4301,,,Cape Ann,South Coast,6:00 P.M.,,0
-2026-03-04,87240,UPCOMING,Apponequet,4011,,,Pope Francis,4796,,,South Coast,Independent,6:00 P.M.,,0
-2026-03-04,87345,UPCOMING,Hampshire,4518,,,Tyngsborough,4397,,,Independent,Mid-Wach,6:00 P.M.,,0
-2026-03-04,87348,UPCOMING,Manchester Essex,4229,,,Sutton,4512,,,Cape Ann,CMAC,6:00 P.M.,,0
-2026-03-04,87351,UPCOMING,Southwick,4519,,,Greater Lawrence,4154,,,Independent,Commonwealth,6:00 P.M.,,0
-2026-03-04,87354,UPCOMING,Wahconah,4401,,,Cohasset,4094,,,Independent,South Shore,5:00 P.M.,,0
-2026-03-04,87357,UPCOMING,Millbury,4250,,,Northbridge,4292,,,CMAC,CMAC,6:30 P.M.,,0
-2026-03-04,87360,UPCOMING,South Hadley,4353,,,West Bridgewater,4415,,,Independent,South Coast,6:00 P.M.,,0
-2026-03-04,87366,UPCOMING,Frontier,4146,,,Tahanto,4513,,,Independent,Mid-Wach,6:00 P.M.,,0
-2026-03-04,87492,UPCOMING,Holbrook,4172,,,Renaissance,4664,,,Mayflower,Independent,6:00 P.M.,,0
-2026-03-04,87495,UPCOMING,Lee,4206,,,Lenox,4532,,,Independent,Independent,6:30 P.M.,,0
-2026-03-04,87498,UPCOMING,St. John Paul II,4689,,,Pioneer Valley Christian,4535,,,Cape & Islands,Independent,5:00 P.M.,,0
-2026-03-04,87501,UPCOMING,Douglas,4506,,,Norfolk Aggie,4458,,,CMAC,Mayflower,6:00 P.M.,,0
-2026-03-04,87741,UPCOMING,Tilton,4391,,,St. Andrew’s,4364,,,Independent,Independent,3:30 P.M.,,0
-2026-03-04,87742,UPCOMING,New Hampton,4275,,,Nobles,4282,,,Independent,ISL,4:30 P.M.,,0
-2026-03-04,87743,UPCOMING,Tabor,4384,,,Dexter Southfield,4113,,,ISL,Independent,4:30 P.M.,,0
-2026-03-04,87746,UPCOMING,Hoosac School,4688,,,Newman School,4277,,,Independent,IGC,4:00 P.M.,,0
-2026-03-04,87748,UPCOMING,Northfield Mt. Hermon,4294,,,Marianapolis,4567,,,Independent,Independent,5:30 P.M.,,0
-2026-03-04,87754,UPCOMING,Loomis Chaffee (Conn.),4215,,,Thayer,4390,,,Founders,ISL,4:00 P.M.,,0
-2026-03-04,87755,UPCOMING,Phillips Andover,4310,,,Milton Academy,4253,,,Independent,ISL,4:00 P.M.,,0
-2026-03-04,87756,UPCOMING,Kent,4193,,,Taft,4386,,,Founders,Independent,4:00 P.M.,,0
-2026-03-04,87758,UPCOMING,Sacred Heart (Conn.),4586,,,Choate,4090,,,Independent,Founders,4:00 P.M.,,0
-2026-03-04,87759,UPCOMING,St. George’s,4367,,,St. Luke’s,4618,,,ISL,Independent,4:00 P.M.,,0
-2026-03-04,87761,UPCOMING,Lawrence Academy,4204,,,Governor’s Academy,4152,,,ISL,ISL,4:00 P.M.,,0
-2026-03-04,87763,UPCOMING,Brooks,4060,,,Proctor,4321,,,ISL,Independent,2:30 P.M.,,0
-2026-03-04,87766,UPCOMING,Suffield Academy,4382,,,Berkshire,4036,,,Independent,Independent,3:30 P.M.,,0
-2026-03-04,87769,UPCOMING,Kimball Union,4196,,,Holderness,4173,,,Independent,Independent,3:00 P.M.,,0
-2026-03-04,87772,UPCOMING,Kingswood-Oxford,4198,,,Mount St. Charles (R.I.),4488,,,Independent,Independent,4:30 P.M.,,0
-2026-03-04,87773,UPCOMING,Hamden Hall Country Day,4162,,,Cushing,4101,,,Independent,Independent,4:00 P.M.,,0
-2026-03-04,87776,UPCOMING,Ethel Walker,4131,,,King (Conn.),4199,,,Independent,Independent,5:00 P.M.,,0
-2026-03-04,87778,UPCOMING,Wheeler (R.I.),4426,,,Cambridge Weston,4069,,,EIL,IGC,6:00 P.M.,,0
-2026-03-04,87781,UPCOMING,Chapel Hill,4082,,,Lexington Christian,4210,,,IGC,EIL,4:00 P.M.,,0
-2026-03-04,87784,UPCOMING,Berwick,4037,,,Harvey (N.Y.),4166,,,EIL,Independent,4:00 P.M.,,0
-2026-03-04,87786,UPCOMING,Bancroft,4023,,,St. Thomas More,4379,,,EIL,Independent,4:00 P.M.,,0
+2026-03-04,87021,FINAL,Springfield Central,4360,77,1,Bridgewater-Raynham,4053,45,0,Independent,Pioneer,6:00 P.M.,,0
+2026-03-04,87111,FINAL,Minnechaug,4254,50,1,Mansfield,4230,33,0,Independent,Hockomock,6:30 P.M.,,0
+2026-03-04,87114,FINAL,Foxborough,4142,56,1,Northampton,4291,43,0,Hockomock,Independent,6:00 P.M.,,0
+2026-03-04,87120,FINAL,Whitman-Hanson,4427,71,1,Fontbonne,4447,47,0,Patriot,Catholic Conference,6:00 P.M.,,0
+2026-03-04,87228,FINAL,North Reading,4288,57,1,Old Rochester,4301,34,0,Cape Ann,South Coast,6:00 P.M.,,0
+2026-03-04,87240,FINAL,Apponequet,4011,38,1,Pope Francis,4796,37,0,South Coast,Independent,6:00 P.M.,,0
+2026-03-04,87345,FINAL,Hampshire,4518,33,0,Tyngsborough,4397,52,1,Independent,Mid-Wach,6:00 P.M.,,0
+2026-03-04,87348,FINAL,Manchester Essex,4229,45,1,Sutton,4512,36,0,Cape Ann,CMAC,6:00 P.M.,,0
+2026-03-04,87351,FINAL,Southwick,4519,53,1,Greater Lawrence,4154,36,0,Independent,Commonwealth,6:00 P.M.,,0
+2026-03-04,87354,FINAL,Wahconah,4401,50,0,Cohasset,4094,53,1,Independent,South Shore,5:00 P.M.,,0
+2026-03-04,87357,FINAL,Millbury,4250,54,1,Northbridge,4292,35,0,CMAC,CMAC,6:30 P.M.,,0
+2026-03-04,87360,FINAL,South Hadley,4353,80,1,West Bridgewater,4415,28,0,Independent,South Coast,6:00 P.M.,,0
+2026-03-04,87366,FINAL,Frontier,4146,81,1,Tahanto,4513,40,0,Independent,Mid-Wach,6:00 P.M.,,0
+2026-03-04,87492,FINAL,Holbrook,4172,28,0,Renaissance,4664,46,1,Mayflower,Independent,6:00 P.M.,,0
+2026-03-04,87495,FINAL,Lee,4206,57,0,Lenox,4532,64,1,Independent,Independent,6:30 P.M.,,0
+2026-03-04,87498,FINAL,St. John Paul II,4689,53,1,Pioneer Valley Christian,4535,50,0,Cape & Islands,Independent,5:00 P.M.,,0
+2026-03-04,87501,FINAL,Douglas,4506,53,1,Norfolk Aggie,4458,26,0,CMAC,Mayflower,6:00 P.M.,,0
+2026-03-04,87741,FINAL,Tilton,4391,85,1,St. Andrew’s,4364,55,0,Independent,Independent,3:30 P.M.,,0
+2026-03-04,87742,FINAL,New Hampton,4275,62,1,Nobles,4282,52,0,Independent,ISL,4:30 P.M.,,0
+2026-03-04,87743,FINAL,Tabor,4384,58,1,Dexter Southfield,4113,48,0,ISL,Independent,4:30 P.M.,,0
+2026-03-04,87746,FINAL,Hoosac School,4688,60,1,Newman School,4277,52,0,Independent,IGC,4:00 P.M.,,0
+2026-03-04,87748,FINAL,Northfield Mt. Hermon,4294,78,1,Marianapolis,4567,51,0,Independent,Independent,5:30 P.M.,,0
+2026-03-04,87754,FINAL,Loomis Chaffee (Conn.),4215,67,1,Thayer,4390,50,0,Founders,ISL,4:00 P.M.,,0
+2026-03-04,87755,FINAL,Phillips Andover,4310,60,1,Milton Academy,4253,52,0,Independent,ISL,4:00 P.M.,,0
+2026-03-04,87756,FINAL,Kent,4193,39,0,Taft,4386,42,1,Founders,Independent,4:00 P.M.,,0
+2026-03-04,87758,FINAL,Sacred Heart (Conn.),4586,57,1,Choate,4090,48,0,Independent,Founders,4:00 P.M.,,0
+2026-03-04,87759,FINAL,St. George’s,4367,56,1,St. Luke’s,4618,50,0,ISL,Independent,4:00 P.M.,,0
+2026-03-04,87761,FINAL,Lawrence Academy,4204,54,1,Governor’s Academy,4152,44,0,ISL,ISL,4:00 P.M.,,0
+2026-03-04,87763,FINAL,Brooks,4060,66,1,Proctor,4321,54,0,ISL,Independent,2:30 P.M.,,0
+2026-03-04,87766,FINAL,Suffield Academy,4382,45,1,Berkshire,4036,40,0,Independent,Independent,3:30 P.M.,,0
+2026-03-04,87769,FINAL,Kimball Union,4196,65,1,Holderness,4173,53,0,Independent,Independent,3:00 P.M.,,0
+2026-03-04,87772,FINAL,Kingswood-Oxford,4198,75,1,Mount St. Charles (R.I.),4488,49,0,Independent,Independent,4:30 P.M.,,0
+2026-03-04,87773,FINAL,Hamden Hall Country Day,4162,60,1,Cushing,4101,49,0,Independent,Independent,4:00 P.M.,,0
+2026-03-04,87776,FINAL,Ethel Walker,4131,76,1,King (Conn.),4199,28,0,Independent,Independent,5:00 P.M.,,0
+2026-03-04,87778,FINAL,Wheeler (R.I.),4426,60,1,Cambridge Weston,4069,42,0,EIL,IGC,6:00 P.M.,,0
+2026-03-04,87781,FINAL,Chapel Hill,4082,39,0,Lexington Christian,4210,56,1,IGC,EIL,4:00 P.M.,,0
+2026-03-04,87784,FINAL,Berwick,4037,64,1,Harvey (N.Y.),4166,38,0,EIL,Independent,4:00 P.M.,,0
+2026-03-04,87786,FINAL,Bancroft,4023,61,0,St. Thomas More,4379,62,1,EIL,Independent,4:00 P.M.,,0
 2026-03-05,86994,UPCOMING,Wachusett,4400,,,Natick,4270,,,Mid-Wach,Bay State,6:00 P.M.,,0
 2026-03-05,87096,UPCOMING,St. Mary’s,4374,,,Walpole,4404,,,Catholic Central,Bay State,6:30 P.M.,,0
+2026-03-06,86988,UPCOMING,Andover,4009,,,Worcester South,4444,,,Merrimack Valley,CMAC,5:00 P.M.,,0
+2026-03-06,86991,UPCOMING,Bishop Feehan,4042,,,Braintree,4051,,,Catholic Central,Bay State,6:00 P.M.,,0
+2026-03-06,87099,UPCOMING,Medfield,4241,,,Norwood,4297,,,Tri-Valley,Tri-Valley,6:00 P.M.,,0
+2026-03-06,87213,UPCOMING,Medway,4243,,,Cathedral,4079,,,Tri-Valley,Catholic Central,5:00 P.M.,,0
+2026-03-06,87216,UPCOMING,Pittsfield,4314,,,North Reading,4288,,,Independent,Cape Ann,6:00 P.M.,,0
+2026-03-06,87336,UPCOMING,Millis,4251,,,Manchester Essex,4229,,,Tri-Valley,Cape Ann,6:00 P.M.,,0
 2026-03-06,87483,UPCOMING,Drury,4120,,,Hoosac Valley,4178,,,Independent,Independent,6:00 P.M.,,0
+2026-03-07,87222,UPCOMING,Bishop Fenwick,4043,,,Pentucket,4309,,,Catholic Central,Cape Ann,3:00 P.M.,,0
+2026-03-07,87477,UPCOMING,Hopedale,4507,,,Minuteman,4255,,,CMAC,Commonwealth,7:30 P.M.,,0
+2026-03-07,87750,UPCOMING,Darrow,4104,,,Northfield Mt. Hermon,4294,,,Independent,Independent,,,0
 2026-03-07,87753,UPCOMING,Worcester Academy,4441,,,Wilbraham & Monson,4545,,,Independent,Independent,1:00 P.M.,,0
+2026-03-07,87806,UPCOMING,Tilton,4391,,,New Hampton,4275,,,Independent,Independent,,,0
+2026-03-07,87809,UPCOMING,Hoosac School,4688,,,Tabor,4384,,,Independent,ISL,,,0
+2026-03-07,87810,UPCOMING,Loomis Chaffee (Conn.),4215,,,Phillips Andover,4310,,,Founders,Independent,,,0
+2026-03-07,87811,UPCOMING,Taft,4386,,,Sacred Heart (Conn.),4586,,,Independent,Independent,,,0
+2026-03-07,87821,UPCOMING,St. George’s,4367,,,Lawrence Academy,4204,,,ISL,ISL,,,0
+2026-03-07,87823,UPCOMING,Brooks,4060,,,Berkshire,4036,,,ISL,Independent,,,0
+2026-03-07,87824,UPCOMING,Kimball Union,4196,,,Kingswood-Oxford,4198,,,Independent,Independent,,,0
+2026-03-07,87826,UPCOMING,Ethel Walker,4131,,,Hamden (Conn.),4704,,,Independent,Independent,,,0
+2026-03-07,87828,UPCOMING,Wheeler (R.I.),4426,,,Lexington Christian,4210,,,EIL,EIL,,,0
+2026-03-07,87831,UPCOMING,Berwick,4037,,,St. Thomas More,4379,,,EIL,Independent,,,0
