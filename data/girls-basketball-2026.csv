@@ -2510,26 +2510,34 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-04,87781,FINAL,Chapel Hill,4082,39,0,Lexington Christian,4210,56,1,IGC,EIL,4:00 P.M.,,0
 2026-03-04,87784,FINAL,Berwick,4037,64,1,Harvey (N.Y.),4166,38,0,EIL,Independent,4:00 P.M.,,0
 2026-03-04,87786,FINAL,Bancroft,4023,61,0,St. Thomas More,4379,62,1,EIL,Independent,4:00 P.M.,,0
-2026-03-05,86994,UPCOMING,Wachusett,4400,,,Natick,4270,,,Mid-Wach,Bay State,6:00 P.M.,,0
-2026-03-05,87096,UPCOMING,St. Mary’s,4374,,,Walpole,4404,,,Catholic Central,Bay State,6:30 P.M.,,0
+2026-03-05,86994,FINAL,Wachusett,4400,63,1,Natick,4270,26,0,Mid-Wach,Bay State,6:00 P.M.,,0
+2026-03-05,87096,FINAL,St. Mary’s,4374,75,1,Walpole,4404,43,0,Catholic Central,Bay State,6:30 P.M.,,0
 2026-03-06,86988,UPCOMING,Andover,4009,,,Worcester South,4444,,,Merrimack Valley,CMAC,5:00 P.M.,,0
 2026-03-06,86991,UPCOMING,Bishop Feehan,4042,,,Braintree,4051,,,Catholic Central,Bay State,6:00 P.M.,,0
+2026-03-06,87093,UPCOMING,Whitman-Hanson,4427,,,Oliver Ames,4302,,,Patriot,Hockomock,6:00 P.M.,,0
 2026-03-06,87099,UPCOMING,Medfield,4241,,,Norwood,4297,,,Tri-Valley,Tri-Valley,6:00 P.M.,,0
 2026-03-06,87213,UPCOMING,Medway,4243,,,Cathedral,4079,,,Tri-Valley,Catholic Central,5:00 P.M.,,0
 2026-03-06,87216,UPCOMING,Pittsfield,4314,,,North Reading,4288,,,Independent,Cape Ann,6:00 P.M.,,0
+2026-03-06,87219,UPCOMING,Apponequet,4011,,,Pembroke,4308,,,South Coast,Patriot,6:00 P.M.,,0
 2026-03-06,87336,UPCOMING,Millis,4251,,,Manchester Essex,4229,,,Tri-Valley,Cape Ann,6:00 P.M.,,0
+2026-03-06,87339,UPCOMING,South Hadley,4353,,,Southwick,4519,,,Independent,Independent,6:00 P.M.,,0
+2026-03-06,87342,UPCOMING,Frontier,4146,,,Tyngsborough,4397,,,Independent,Mid-Wach,6:00 P.M.,,0
+2026-03-06,87474,UPCOMING,St. John Paul II,4689,,,Lenox,4532,,,Cape & Islands,Independent,5:30 P.M.,,0
+2026-03-06,87480,UPCOMING,Douglas,4506,,,Renaissance,4664,,,CMAC,Independent,6:00 P.M.,,0
 2026-03-06,87483,UPCOMING,Drury,4120,,,Hoosac Valley,4178,,,Independent,Independent,6:00 P.M.,,0
+2026-03-07,86997,UPCOMING,Springfield Central,4360,,,Needham,4272,,,Independent,Bay State,1:00 P.M.,,0
+2026-03-07,87090,UPCOMING,Foxborough,4142,,,Minnechaug,4254,,,Hockomock,Independent,1:00 P.M.,,0
 2026-03-07,87222,UPCOMING,Bishop Fenwick,4043,,,Pentucket,4309,,,Catholic Central,Cape Ann,3:00 P.M.,,0
 2026-03-07,87477,UPCOMING,Hopedale,4507,,,Minuteman,4255,,,CMAC,Commonwealth,7:30 P.M.,,0
-2026-03-07,87750,UPCOMING,Darrow,4104,,,Northfield Mt. Hermon,4294,,,Independent,Independent,,,0
+2026-03-07,87750,UPCOMING,Darrow,4104,,,Northfield Mt. Hermon,4294,,,Independent,Independent,3:00 P.M.,,0
 2026-03-07,87753,UPCOMING,Worcester Academy,4441,,,Wilbraham & Monson,4545,,,Independent,Independent,1:00 P.M.,,0
-2026-03-07,87806,UPCOMING,Tilton,4391,,,New Hampton,4275,,,Independent,Independent,,,0
-2026-03-07,87809,UPCOMING,Hoosac School,4688,,,Tabor,4384,,,Independent,ISL,,,0
-2026-03-07,87810,UPCOMING,Loomis Chaffee (Conn.),4215,,,Phillips Andover,4310,,,Founders,Independent,,,0
-2026-03-07,87811,UPCOMING,Taft,4386,,,Sacred Heart (Conn.),4586,,,Independent,Independent,,,0
-2026-03-07,87821,UPCOMING,St. George’s,4367,,,Lawrence Academy,4204,,,ISL,ISL,,,0
-2026-03-07,87823,UPCOMING,Brooks,4060,,,Berkshire,4036,,,ISL,Independent,,,0
-2026-03-07,87824,UPCOMING,Kimball Union,4196,,,Kingswood-Oxford,4198,,,Independent,Independent,,,0
-2026-03-07,87826,UPCOMING,Ethel Walker,4131,,,Hamden (Conn.),4704,,,Independent,Independent,,,0
-2026-03-07,87828,UPCOMING,Wheeler (R.I.),4426,,,Lexington Christian,4210,,,EIL,EIL,,,0
-2026-03-07,87831,UPCOMING,Berwick,4037,,,St. Thomas More,4379,,,EIL,Independent,,,0
+2026-03-07,87806,UPCOMING,Tilton,4391,,,New Hampton,4275,,,Independent,Independent,1:30 P.M.,,0
+2026-03-07,87809,UPCOMING,Hoosac School,4688,,,Tabor,4384,,,Independent,ISL,1:30 P.M.,,0
+2026-03-07,87810,UPCOMING,Loomis Chaffee (Conn.),4215,,,Phillips Andover,4310,,,Founders,Independent,3:00 P.M.,,0
+2026-03-07,87811,UPCOMING,Sacred Heart (Conn.),4586,,,Taft,4386,,,Independent,Independent,2:00 P.M.,,0
+2026-03-07,87821,UPCOMING,St. George’s,4367,,,Lawrence Academy,4204,,,ISL,ISL,2:00 P.M.,,0
+2026-03-07,87823,UPCOMING,Brooks,4060,,,Berkshire,4036,,,ISL,Independent,3:00 P.M.,,0
+2026-03-07,87824,UPCOMING,Kimball Union,4196,,,Kingswood-Oxford,4198,,,Independent,Independent,2:30 P.M.,,0
+2026-03-07,87826,UPCOMING,Ethel Walker,4131,,,Hamden (Conn.),4704,,,Independent,Independent,2:00 P.M.,,0
+2026-03-07,87828,UPCOMING,Wheeler (R.I.),4426,,,Lexington Christian,4210,,,EIL,EIL,12:00 P.M.,,0
+2026-03-07,87831,UPCOMING,Berwick,4037,,,St. Thomas More,4379,,,EIL,Independent,1:00 P.M.,,0

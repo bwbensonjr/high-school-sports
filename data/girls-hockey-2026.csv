@@ -861,12 +861,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-04,87662,FINAL,Governor’s Academy,4152,0,0,St. Mark’s,4372,5,1,ISL,ISL,4:00 P.M.,,0
 2026-03-04,87665,FINAL,Cushing,4101,2,1,Portsmouth Abbey,4320,1,0,Independent,EIL,5:15 P.M.,1.0,0
 2026-03-04,87666,FINAL,Rivers,4330,1,0,New Hampton,4275,3,1,ISL,Independent,5:30 P.M.,,0
-2026-03-05,86180,UPCOMING,Notre Dame (Hingham),4449,,,Bishop Stang,4045,,,Independent,Catholic Central,5:40 P.M.,,0
-2026-03-05,86273,UPCOMING,Duxbury,4123,,,Auburn,4019,,,Patriot,Independent,5:15 P.M.,,0
-2026-03-05,86276,UPCOMING,Westwood,4424,,,Medfield,4241,,,Tri-Valley,Tri-Valley,6:00 P.M.,,0
-2026-03-07,87792,UPCOMING,Groton,4544,,,St. Mark’s,4372,,,ISL,ISL,,,0
-2026-03-07,87793,UPCOMING,Choate,4090,,,Taft,4386,,,Founders,Independent,,,0
-2026-03-07,87794,UPCOMING,Nobles,4282,,,Loomis Chaffee (Conn.),4215,,,ISL,Founders,,,0
-2026-03-07,87797,UPCOMING,Deerfield,4110,,,Tabor,4384,,,Independent,ISL,,,0
-2026-03-07,87802,UPCOMING,Cushing,4101,,,New Hampton,4275,,,Independent,Independent,,,0
-2026-03-07,87803,UPCOMING,Phillips Andover,4310,,,BB&N,4028,,,Independent,ISL,,,0
+2026-03-05,86180,FINAL,Notre Dame (Hingham),4449,2,1,Bishop Stang,4045,1,0,Independent,Catholic Central,5:40 P.M.,1.0,0
+2026-03-05,86273,FINAL,Duxbury,4123,5,1,Auburn,4019,0,0,Patriot,Independent,5:15 P.M.,,0
+2026-03-05,86276,FINAL,Westwood,4424,0,0,Medfield,4241,1,1,Tri-Valley,Tri-Valley,6:00 P.M.,1.0,0
+2026-03-07,87792,UPCOMING,Groton,4544,,,St. Mark’s,4372,,,ISL,ISL,3:00 P.M.,,0
+2026-03-07,87793,UPCOMING,Choate,4090,,,Taft,4386,,,Founders,Independent,1:30 P.M.,,0
+2026-03-07,87794,UPCOMING,Nobles,4282,,,Loomis Chaffee (Conn.),4215,,,ISL,Founders,2:00 P.M.,,0
+2026-03-07,87797,UPCOMING,Deerfield,4110,,,Tabor,4384,,,Independent,ISL,2:00 P.M.,,0
+2026-03-07,87802,UPCOMING,Cushing,4101,,,New Hampton,4275,,,Independent,Independent,1:30 P.M.,,0
+2026-03-07,87803,UPCOMING,Phillips Exeter,4311,,,BB&N,4028,,,Independent,ISL,3:30 P.M.,,0

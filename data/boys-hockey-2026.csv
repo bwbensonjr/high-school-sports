@@ -1762,16 +1762,16 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-04,87689,FINAL,St. Sebastian’s,4378,0,0,Hotchkiss,4181,3,1,ISL,Founders,4:00 P.M.,,0
 2026-03-04,87692,FINAL,Salisbury (Conn.),4339,0,0,Kimball Union,4196,1,1,Founders,Independent,5:00 P.M.,,0
 2026-03-04,87695,FINAL,St. Mark’s,4372,7,1,Belmont Hill,4035,2,0,ISL,ISL,5:00 P.M.,,0
-2026-03-05,85772,UPCOMING,Arlington,4013,,,Archbishop Williams,4012,,,Middlesex,Catholic Central,7:30 P.M.,,0
-2026-03-05,85871,UPCOMING,Burlington,4065,,,Concord-Carlisle,4097,,,Middlesex,Merrimack Valley/Dual County,6:00 P.M.,,0
-2026-03-05,85874,UPCOMING,Tewksbury,4389,,,Milton,4252,,,Merrimack Valley/Dual County,Bay State,7:30 P.M.,,0
-2026-03-05,85880,UPCOMING,Canton,4071,,,Walpole,4404,,,Hockomock,Bay State,7:30 P.M.,,0
-2026-03-05,85967,UPCOMING,Nauset,4271,,,Scituate,4343,,,Cape & Islands,Patriot,7:15 P.M.,,0
-2026-03-05,85973,UPCOMING,Hanover,4164,,,Essex Tech,4745,,,Patriot,Cape Ann,5:00 P.M.,,0
-2026-03-05,86072,UPCOMING,Littleton/Bromfield,4212,,,Martha’s Vineyard,4235,,,Coughlin,Cape & Islands,4:00 P.M.,,0
-2026-03-05,86078,UPCOMING,St. Bernard’s,4365,,,Monomoy/Mashpee,4237,,,CMAC,Cape & Islands,5:00 P.M.,,0
-2026-03-07,87832,UPCOMING,Tabor,4384,,,Brunswick,4062,,,ISL,Independent,,,0
-2026-03-07,87833,UPCOMING,Cushing,4101,,,Phillips Andover,4310,,,Independent,Independent,,,0
-2026-03-07,87839,UPCOMING,Holderness,4173,,,Berkshire,4036,,,Independent,Independent,,,0
-2026-03-07,87841,UPCOMING,Winchendon,4433,,,Canterbury,4070,,,Independent,Independent,,,0
-2026-03-07,87849,UPCOMING,St. Mark’s,4372,,,Kimball Union,4196,,,ISL,Independent,,,0
+2026-03-05,85772,FINAL,Arlington,4013,3,1,Archbishop Williams,4012,1,0,Middlesex,Catholic Central,7:30 P.M.,,0
+2026-03-05,85871,FINAL,Burlington,4065,4,1,Concord-Carlisle,4097,1,0,Middlesex,Merrimack Valley/Dual County,6:00 P.M.,,0
+2026-03-05,85874,FINAL,Tewksbury,4389,8,1,Milton,4252,0,0,Merrimack Valley/Dual County,Bay State,7:30 P.M.,,0
+2026-03-05,85880,FINAL,Canton,4071,1,1,Walpole,4404,0,0,Hockomock,Bay State,7:30 P.M.,,0
+2026-03-05,85967,FINAL,Nauset,4271,6,1,Scituate,4343,1,0,Cape & Islands,Patriot,7:15 P.M.,,0
+2026-03-05,85973,FINAL,Hanover,4164,4,1,Essex Tech,4745,3,0,Patriot,Cape Ann,5:00 P.M.,,0
+2026-03-05,86072,FINAL,Littleton/Bromfield,4212,6,1,Martha’s Vineyard,4235,1,0,Coughlin,Cape & Islands,4:00 P.M.,,0
+2026-03-05,86078,FINAL,St. Bernard’s,4365,6,1,Monomoy/Mashpee,4237,3,0,CMAC,Cape & Islands,5:00 P.M.,,0
+2026-03-07,87832,UPCOMING,Tabor,4384,,,Brunswick,4062,,,ISL,Independent,2:00 P.M.,,0
+2026-03-07,87833,UPCOMING,Cushing,4101,,,Phillips Andover,4310,,,Independent,Independent,3:30 P.M.,,0
+2026-03-07,87839,UPCOMING,Holderness,4173,,,Berkshire,4036,,,Independent,Independent,2:00 P.M.,,0
+2026-03-07,87841,UPCOMING,Winchendon,4433,,,Canterbury,4070,,,Independent,Independent,2:00 P.M.,,0
+2026-03-07,87849,UPCOMING,St. Mark’s,4372,,,Kimball Union,4196,,,ISL,Independent,4:00 P.M.,,0
