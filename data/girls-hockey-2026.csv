@@ -795,7 +795,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-19,85586,FINAL,Natick,4270,1.0,2.0,Reading,4328,1.0,2.0,Bay State,Middlesex,4:00 P.M.,1.0,0
 2026-02-19,85715,FINAL,Bishop Fenwick,4043,1.0,2.0,Marblehead,4231,1.0,2.0,Catholic Central,Northeast,12:50 P.M.,,0
 2026-02-21,87591,FINAL,Governor’s Academy,4152,3.0,1.0,Lawrence Academy,4204,1.0,0.0,ISL,ISL,,,0
-2026-02-24,86255,FINAL,Shawsheen/Bedford/Lowell,4346,3,1,Central Catholic,4081,1,0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,3:00 P.M.,,0
+2026-02-24,86255,FINAL,Shawsheen/Bedford/Lowell,4346,3.0,1.0,Central Catholic,4081,1.0,0.0,Merrimack Valley/Dual County,Merrimack Valley/Dual County,3:00 P.M.,,0
 2026-02-25,86207,FINAL,Belmont,4034,2,0,Shrewsbury,4348,3,1,Middlesex,Merrimack Valley/Dual County,7:00 P.M.,1.0,0
 2026-02-25,86210,FINAL,Natick,4270,2,0,Winchester,4434,3,1,Bay State,Middlesex,7:40 P.M.,,0
 2026-02-25,86216,FINAL,Arlington Catholic,4014,1,0,Acton-Boxboro,4003,2,1,Catholic Central,Merrimack Valley/Dual County,7:00 P.M.,,0
@@ -864,9 +864,13 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-05,86180,FINAL,Notre Dame (Hingham),4449,2,1,Bishop Stang,4045,1,0,Independent,Catholic Central,5:40 P.M.,1.0,0
 2026-03-05,86273,FINAL,Duxbury,4123,5,1,Auburn,4019,0,0,Patriot,Independent,5:15 P.M.,,0
 2026-03-05,86276,FINAL,Westwood,4424,0,0,Medfield,4241,1,1,Tri-Valley,Tri-Valley,6:00 P.M.,1.0,0
+2026-03-07,86168,UPCOMING,Notre Dame (Hingham),4449,,,Archbishop Williams,4012,,,Independent,Catholic Central,4:30 P.M.,,0
+2026-03-07,86264,UPCOMING,King Philip,4197,,,Medfield,4241,,,Hockomock,Tri-Valley,3:00 P.M.,,0
 2026-03-07,87792,UPCOMING,Groton,4544,,,St. Mark’s,4372,,,ISL,ISL,3:00 P.M.,,0
 2026-03-07,87793,UPCOMING,Choate,4090,,,Taft,4386,,,Founders,Independent,1:30 P.M.,,0
 2026-03-07,87794,UPCOMING,Nobles,4282,,,Loomis Chaffee (Conn.),4215,,,ISL,Founders,2:00 P.M.,,0
 2026-03-07,87797,UPCOMING,Deerfield,4110,,,Tabor,4384,,,Independent,ISL,2:00 P.M.,,0
 2026-03-07,87802,UPCOMING,Cushing,4101,,,New Hampton,4275,,,Independent,Independent,1:30 P.M.,,0
 2026-03-07,87803,UPCOMING,Phillips Exeter,4311,,,BB&N,4028,,,Independent,ISL,3:30 P.M.,,0
+2026-03-08,86165,UPCOMING,St. Mary’s,4374,,,Methuen/Tewksbury,4246,,,Catholic Central,Merrimack Valley/Dual County,4:30 P.M.,,0
+2026-03-08,86261,UPCOMING,Milton,4252,,,Duxbury,4123,,,Bay State,Patriot,7:45 P.M.,,0

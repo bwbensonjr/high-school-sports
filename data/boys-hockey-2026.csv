@@ -1630,8 +1630,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-22,86051,FINAL,Haverhill,4167,2.0,1.0,Southeastern/B-P,4358,1.0,0.0,Merrimack Valley/Dual County,Mayflower,5:00 P.M.,1.0,0
 2026-02-22,86054,FINAL,North Middlesex,4286,3.0,1.0,Assabet,4016,1.0,0.0,Roy,CMAC,2:00 P.M.,,0
 2026-02-22,86153,FINAL,East/West Bridgewater,4126,2.0,0.0,Blue Hills,4047,3.0,1.0,South Shore,Mayflower,5:00 P.M.,,0
-2026-02-24,85844,FINAL,Arlington,4013,6,1,Needham,4272,0,0,Middlesex,Bay State,5:00 P.M.,,0
-2026-02-24,85859,FINAL,Wellesley,4413,4,1,Medford,4242,1,0,Bay State,Greater Boston,4:05 P.M.,,0
+2026-02-24,85844,FINAL,Arlington,4013,6.0,1.0,Needham,4272,0.0,0.0,Middlesex,Bay State,5:00 P.M.,,0
+2026-02-24,85859,FINAL,Wellesley,4413,4.0,1.0,Medford,4242,1.0,0.0,Bay State,Greater Boston,4:05 P.M.,,0
 2026-02-25,85808,FINAL,Wachusett,4400,4,0,Winchester,4434,5,1,Roy,Middlesex,6:10 P.M.,,0
 2026-02-25,85814,FINAL,Arlington Catholic,4014,4,1,Chelmsford,4085,1,0,Catholic Central,Merrimack Valley/Dual County,5:00 P.M.,,0
 2026-02-25,85823,FINAL,Hingham,4171,6,1,Shrewsbury,4348,2,0,Independent,Merrimack Valley/Dual County,6:00 P.M.,,0
@@ -1770,8 +1770,16 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-05,85973,FINAL,Hanover,4164,4,1,Essex Tech,4745,3,0,Patriot,Cape Ann,5:00 P.M.,,0
 2026-03-05,86072,FINAL,Littleton/Bromfield,4212,6,1,Martha’s Vineyard,4235,1,0,Coughlin,Cape & Islands,4:00 P.M.,,0
 2026-03-05,86078,FINAL,St. Bernard’s,4365,6,1,Monomoy/Mashpee,4237,3,0,CMAC,Cape & Islands,5:00 P.M.,,0
+2026-03-07,85865,UPCOMING,Tewksbury,4389,,,Westwood,4424,,,Merrimack Valley/Dual County,Tri-Valley,6:50 P.M.,,0
+2026-03-07,86063,UPCOMING,Littleton/Bromfield,4212,,,Dover-Sherborn/Weston,4118,,,Coughlin,Tri-Valley,5:30 P.M.,,0
+2026-03-07,86066,UPCOMING,Winthrop,4437,,,St. Bernard’s,4365,,,Northeastern,CMAC,4:30 P.M.,,0
 2026-03-07,87832,UPCOMING,Tabor,4384,,,Brunswick,4062,,,ISL,Independent,2:00 P.M.,,0
 2026-03-07,87833,UPCOMING,Cushing,4101,,,Phillips Andover,4310,,,Independent,Independent,3:30 P.M.,,0
 2026-03-07,87839,UPCOMING,Holderness,4173,,,Berkshire,4036,,,Independent,Independent,2:00 P.M.,,0
 2026-03-07,87841,UPCOMING,Winchendon,4433,,,Canterbury,4070,,,Independent,Independent,2:00 P.M.,,0
 2026-03-07,87849,UPCOMING,St. Mark’s,4372,,,Kimball Union,4196,,,ISL,Independent,4:00 P.M.,,0
+2026-03-08,85766,UPCOMING,Hingham,4171,,,Pope Francis,4796,,,Independent,Independent,3:15 P.M.,,0
+2026-03-08,85769,UPCOMING,Arlington,4013,,,St. John’s (Shrewsbury),4368,,,Middlesex,Catholic Conference,6:50 P.M.,,0
+2026-03-08,85868,UPCOMING,Canton,4071,,,Burlington,4065,,,Hockomock,Middlesex,1:00 P.M.,,0
+2026-03-08,85958,UPCOMING,Nauset,4271,,,Medfield,4241,,,Cape & Islands,Tri-Valley,2:30 P.M.,,0
+2026-03-08,85961,UPCOMING,Hanover,4164,,,Shawsheen,4346,,,Patriot,Commonwealth,5:30 P.M.,,0

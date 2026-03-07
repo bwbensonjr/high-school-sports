@@ -1,17 +1,21 @@
 # Girls Hockey - 2026 Season
 
-Generated: 2026-03-06 11:27
+Generated: 2026-03-07 11:18
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
+| 2026-03-07 | 4:30 P.M. | Notre Dame (Hingham) | Archbishop Williams | 63.1% | +3.7 |
+| 2026-03-07 | 3:00 P.M. | King Philip | Medfield | 71.6% | +6.4 |
 | 2026-03-07 | 3:00 P.M. | Groton | St. Mark’s | 53.1% | +0.9 |
 | 2026-03-07 | 1:30 P.M. | Choate | Taft | 54.3% | +1.2 |
 | 2026-03-07 | 2:00 P.M. | Nobles | Loomis Chaffee (Conn.) | 62.4% | +3.5 |
 | 2026-03-07 | 2:00 P.M. | Deerfield | Tabor | 56.2% | +1.7 |
 | 2026-03-07 | 1:30 P.M. | Cushing | New Hampton | 51.3% | +0.4 |
 | 2026-03-07 | 3:30 P.M. | Phillips Exeter | BB&N | 60.5% | +3.0 |
+| 2026-03-08 | 4:30 P.M. | St. Mary’s | Methuen/Tewksbury | 52.6% | +0.7 |
+| 2026-03-08 | 7:45 P.M. | Milton | Duxbury | 69.5% | +5.7 |
 
 ## Recent Games
 
@@ -20,46 +24,40 @@ Generated: 2026-03-06 11:27
 | 2026-03-05 | Westwood | 0 | Medfield | 1 | +8.6 | -1.0 |
 | 2026-03-05 | Duxbury | 5 | Auburn | 0 | +0.9 | +5.0 |
 | 2026-03-05 | Notre Dame (Hingham) | 2 | Bishop Stang | 1 | +4.7 | +1.0 |
-| 2026-03-04 | Williston Northampton | 2 | Deerfield | 3 | +2.2 | -1.0 |
-| 2026-03-04 | Bishop Feehan | 0 | Archbishop Williams | 5 | +3.4 | -5.0 |
-| 2026-03-04 | St. Mary’s | 1 | Reading | 0 | +2.9 | +1.0 |
-| 2026-03-04 | Algonquin | 1 | Methuen/Tewksbury | 2 | +3.0 | -1.0 |
+| 2026-03-04 | Phillips Exeter | 4 | Middlesex | 3 | +2.5 | +1.0 |
 | 2026-03-04 | Pembroke | 0 | King Philip | 1 | +2.1 | -1.0 |
 | 2026-03-04 | Milton | 2 | NSA | 0 | +7.2 | +2.0 |
 | 2026-03-04 | Nobles | 5 | St. Paul’s | 4 | +4.0 | +1.0 |
 | 2026-03-04 | Dexter Southfield | 3 | Loomis Chaffee (Conn.) | 7 | +2.6 | -4.0 |
-| 2026-03-04 | Phillips Exeter | 4 | Middlesex | 3 | +2.5 | +1.0 |
+| 2026-03-04 | Williston Northampton | 2 | Deerfield | 3 | +2.2 | -1.0 |
 | 2026-03-04 | Phillips Andover | 1 | Tabor | 2 | +4.0 | -1.0 |
 | 2026-03-04 | BB&N | 3 | Thayer | 1 | -2.3 | +2.0 |
+| 2026-03-04 | St. Mary’s | 1 | Reading | 0 | +2.9 | +1.0 |
 | 2026-03-04 | Taft | 4 | Berkshire | 1 | +1.2 | +3.0 |
 | 2026-03-04 | Groton | 2 | Frederick Gunn (Conn.) | 1 | +1.5 | +1.0 |
 | 2026-03-04 | Governor’s Academy | 0 | St. Mark’s | 5 | +3.7 | -5.0 |
 | 2026-03-04 | Cushing | 2 | Portsmouth Abbey | 1 | +2.5 | +1.0 |
 | 2026-03-04 | Rivers | 1 | New Hampton | 3 | +2.8 | -2.0 |
+| 2026-03-04 | Algonquin | 1 | Methuen/Tewksbury | 2 | +3.0 | -1.0 |
+| 2026-03-04 | Bishop Feehan | 0 | Archbishop Williams | 5 | +3.4 | -5.0 |
 | 2026-03-02 | Auburn | 4 | Falmouth | 1 | +4.9 | +3.0 |
-| 2026-03-02 | Pembroke | 8 | Hanover | 3 | +6.0 | +5.0 |
 | 2026-03-02 | Bishop Stang | 5 | HPNA | 1 | +0.9 | +4.0 |
+| 2026-03-02 | Pembroke | 8 | Hanover | 3 | +6.0 | +5.0 |
+| 2026-03-01 | Westwood | 6 | Martha’s Vineyard | 0 | +11.7 | +6.0 |
 | 2026-03-01 | King Philip | 2 | Canton | 1 | +6.9 | +1.0 |
 | 2026-03-01 | Dennis-Yarmouth | 0 | NSA | 2 | +1.4 | -2.0 |
 | 2026-03-01 | Nauset/Monomoy | 2 | Medfield | 3 | -0.1 | -1.0 |
 | 2026-03-01 | Algonquin | 2 | Malden Catholic | 1 | +13.5 | +1.0 |
-| 2026-03-01 | Westwood | 6 | Martha’s Vineyard | 0 | +11.7 | +6.0 |
-| 2026-02-28 | Notre Dame (Hingham) | 4 | Shrewsbury | 0 | +8.2 | +4.0 |
-| 2026-02-28 | St. Mary’s | 3 | Winchester | 2 | +5.8 | +1.0 |
-| 2026-02-28 | Reading | 3 | Waltham | 2 | +4.3 | +1.0 |
 | 2026-02-28 | Methuen/Tewksbury | 4 | Woburn | 1 | +3.3 | +3.0 |
+| 2026-02-28 | Notre Dame (Hingham) | 4 | Shrewsbury | 0 | +8.2 | +4.0 |
 | 2026-02-28 | Archbishop Williams | 7 | Billerica/Chelmsford | 0 | +2.2 | +7.0 |
 | 2026-02-28 | Bishop Feehan | 6 | Acton-Boxboro | 2 | +5.9 | +4.0 |
-| 2026-02-28 | Duxbury | 4 | Melrose | 2 | +4.3 | +2.0 |
-| 2026-02-28 | Bishop Stang | 1 | Bishop Fenwick | 0 | +8.9 | +1.0 |
-| 2026-02-28 | Milton | 2 | Wakefield/Wilmington | 0 | +7.8 | +2.0 |
+| 2026-02-28 | St. Mary’s | 3 | Winchester | 2 | +5.8 | +1.0 |
 | 2026-02-28 | Pembroke | 8 | Barnstable | 2 | +16.8 | +6.0 |
-| 2026-02-27 | Nauset/Monomoy | 4 | Burlington | 3 | +8.7 | +1.0 |
-| 2026-02-27 | Dennis-Yarmouth | 1 | Norwood | 0 | +12.1 | +1.0 |
-| 2026-02-27 | Sandwich | 1 | Melrose | 3 | -1.6 | -2.0 |
-| 2026-02-27 | Falmouth | 3 | Leominster | 1 | +9.3 | +2.0 |
-| 2026-02-27 | Duxbury | 5 | Marblehead | 0 | +12.3 | +5.0 |
-| 2026-02-27 | Dedham | 2 | Martha’s Vineyard | 3 | +3.2 | -1.0 |
+| 2026-02-28 | Bishop Stang | 1 | Bishop Fenwick | 0 | +8.9 | +1.0 |
+| 2026-02-28 | Duxbury | 4 | Melrose | 2 | +4.3 | +2.0 |
+| 2026-02-28 | Milton | 2 | Wakefield/Wilmington | 0 | +7.8 | +2.0 |
+| 2026-02-28 | Reading | 3 | Waltham | 2 | +4.3 | +1.0 |
 
 ## Current Elo Ratings
 
@@ -130,9 +128,9 @@ Generated: 2026-03-06 11:27
 | 63 | Martha’s Vineyard | 1506.3 |
 | 64 | Berkshire | 1503.9 |
 | 65 | Governor’s Academy | 1503.4 |
-| 66 | Millbrook (N.Y.) | 1502.8 |
-| 67 | Vermont Academy | 1502.8 |
-| 68 | Northfield Mt. Hermon | 1502.8 |
+| 66 | Vermont Academy | 1502.8 |
+| 67 | Northfield Mt. Hermon | 1502.8 |
+| 68 | Millbrook (N.Y.) | 1502.8 |
 | 69 | Kents Hill | 1502.7 |
 | 70 | Choate | 1502.1 |
 | 71 | Central Catholic | 1502.0 |
