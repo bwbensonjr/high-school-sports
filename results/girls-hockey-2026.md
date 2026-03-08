@@ -1,63 +1,56 @@
 # Girls Hockey - 2026 Season
 
-Generated: 2026-03-07 11:18
+Generated: 2026-03-08 11:19
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-03-07 | 4:30 P.M. | Notre Dame (Hingham) | Archbishop Williams | 63.1% | +3.7 |
-| 2026-03-07 | 3:00 P.M. | King Philip | Medfield | 71.6% | +6.4 |
-| 2026-03-07 | 3:00 P.M. | Groton | St. Mark’s | 53.1% | +0.9 |
-| 2026-03-07 | 1:30 P.M. | Choate | Taft | 54.3% | +1.2 |
-| 2026-03-07 | 2:00 P.M. | Nobles | Loomis Chaffee (Conn.) | 62.4% | +3.5 |
-| 2026-03-07 | 2:00 P.M. | Deerfield | Tabor | 56.2% | +1.7 |
-| 2026-03-07 | 1:30 P.M. | Cushing | New Hampton | 51.3% | +0.4 |
-| 2026-03-07 | 3:30 P.M. | Phillips Exeter | BB&N | 60.5% | +3.0 |
 | 2026-03-08 | 4:30 P.M. | St. Mary’s | Methuen/Tewksbury | 52.6% | +0.7 |
 | 2026-03-08 | 7:45 P.M. | Milton | Duxbury | 69.5% | +5.7 |
+| 2026-03-08 | 4:00 P.M. | Loomis Chaffee (Conn.) | Deerfield | 61.5% | +3.2 |
+| 2026-03-08 | 11:00 A.M. | Phillips Exeter | Choate | 60.2% | +2.9 |
+| 2026-03-08 | 1:30 P.M. | Groton | New Hampton | 49.5% | -0.1 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-03-07 | Phillips Exeter | 5 | BB&N | 1 | +3.0 | +4.0 |
+| 2026-03-07 | Choate | 3 | Taft | 1 | +1.2 | +2.0 |
+| 2026-03-07 | King Philip | 2 | Medfield | 0 | +6.4 | +2.0 |
+| 2026-03-07 | Groton | 2 | St. Mark’s | 0 | +0.9 | +2.0 |
+| 2026-03-07 | Notre Dame (Hingham) | 0 | Archbishop Williams | 1 | +3.7 | -1.0 |
+| 2026-03-07 | Nobles | 4 | Loomis Chaffee (Conn.) | 5 | +3.5 | -1.0 |
+| 2026-03-07 | Deerfield | 3 | Tabor | 2 | +1.7 | +1.0 |
+| 2026-03-07 | Cushing | 2 | New Hampton | 4 | +0.4 | -2.0 |
 | 2026-03-05 | Westwood | 0 | Medfield | 1 | +8.6 | -1.0 |
 | 2026-03-05 | Duxbury | 5 | Auburn | 0 | +0.9 | +5.0 |
 | 2026-03-05 | Notre Dame (Hingham) | 2 | Bishop Stang | 1 | +4.7 | +1.0 |
-| 2026-03-04 | Phillips Exeter | 4 | Middlesex | 3 | +2.5 | +1.0 |
-| 2026-03-04 | Pembroke | 0 | King Philip | 1 | +2.1 | -1.0 |
-| 2026-03-04 | Milton | 2 | NSA | 0 | +7.2 | +2.0 |
-| 2026-03-04 | Nobles | 5 | St. Paul’s | 4 | +4.0 | +1.0 |
-| 2026-03-04 | Dexter Southfield | 3 | Loomis Chaffee (Conn.) | 7 | +2.6 | -4.0 |
-| 2026-03-04 | Williston Northampton | 2 | Deerfield | 3 | +2.2 | -1.0 |
-| 2026-03-04 | Phillips Andover | 1 | Tabor | 2 | +4.0 | -1.0 |
 | 2026-03-04 | BB&N | 3 | Thayer | 1 | -2.3 | +2.0 |
-| 2026-03-04 | St. Mary’s | 1 | Reading | 0 | +2.9 | +1.0 |
-| 2026-03-04 | Taft | 4 | Berkshire | 1 | +1.2 | +3.0 |
-| 2026-03-04 | Groton | 2 | Frederick Gunn (Conn.) | 1 | +1.5 | +1.0 |
-| 2026-03-04 | Governor’s Academy | 0 | St. Mark’s | 5 | +3.7 | -5.0 |
-| 2026-03-04 | Cushing | 2 | Portsmouth Abbey | 1 | +2.5 | +1.0 |
 | 2026-03-04 | Rivers | 1 | New Hampton | 3 | +2.8 | -2.0 |
+| 2026-03-04 | Cushing | 2 | Portsmouth Abbey | 1 | +2.5 | +1.0 |
+| 2026-03-04 | Governor’s Academy | 0 | St. Mark’s | 5 | +3.7 | -5.0 |
+| 2026-03-04 | Groton | 2 | Frederick Gunn (Conn.) | 1 | +1.5 | +1.0 |
+| 2026-03-04 | Taft | 4 | Berkshire | 1 | +1.2 | +3.0 |
+| 2026-03-04 | Phillips Exeter | 4 | Middlesex | 3 | +2.5 | +1.0 |
+| 2026-03-04 | St. Mary’s | 1 | Reading | 0 | +2.9 | +1.0 |
+| 2026-03-04 | Williston Northampton | 2 | Deerfield | 3 | +2.2 | -1.0 |
+| 2026-03-04 | Dexter Southfield | 3 | Loomis Chaffee (Conn.) | 7 | +2.6 | -4.0 |
+| 2026-03-04 | Nobles | 5 | St. Paul’s | 4 | +4.0 | +1.0 |
+| 2026-03-04 | Milton | 2 | NSA | 0 | +7.2 | +2.0 |
+| 2026-03-04 | Pembroke | 0 | King Philip | 1 | +2.1 | -1.0 |
 | 2026-03-04 | Algonquin | 1 | Methuen/Tewksbury | 2 | +3.0 | -1.0 |
+| 2026-03-04 | Phillips Andover | 1 | Tabor | 2 | +4.0 | -1.0 |
 | 2026-03-04 | Bishop Feehan | 0 | Archbishop Williams | 5 | +3.4 | -5.0 |
+| 2026-03-02 | Pembroke | 8 | Hanover | 3 | +6.0 | +5.0 |
 | 2026-03-02 | Auburn | 4 | Falmouth | 1 | +4.9 | +3.0 |
 | 2026-03-02 | Bishop Stang | 5 | HPNA | 1 | +0.9 | +4.0 |
-| 2026-03-02 | Pembroke | 8 | Hanover | 3 | +6.0 | +5.0 |
-| 2026-03-01 | Westwood | 6 | Martha’s Vineyard | 0 | +11.7 | +6.0 |
 | 2026-03-01 | King Philip | 2 | Canton | 1 | +6.9 | +1.0 |
 | 2026-03-01 | Dennis-Yarmouth | 0 | NSA | 2 | +1.4 | -2.0 |
 | 2026-03-01 | Nauset/Monomoy | 2 | Medfield | 3 | -0.1 | -1.0 |
+| 2026-03-01 | Westwood | 6 | Martha’s Vineyard | 0 | +11.7 | +6.0 |
 | 2026-03-01 | Algonquin | 2 | Malden Catholic | 1 | +13.5 | +1.0 |
-| 2026-02-28 | Methuen/Tewksbury | 4 | Woburn | 1 | +3.3 | +3.0 |
-| 2026-02-28 | Notre Dame (Hingham) | 4 | Shrewsbury | 0 | +8.2 | +4.0 |
-| 2026-02-28 | Archbishop Williams | 7 | Billerica/Chelmsford | 0 | +2.2 | +7.0 |
-| 2026-02-28 | Bishop Feehan | 6 | Acton-Boxboro | 2 | +5.9 | +4.0 |
-| 2026-02-28 | St. Mary’s | 3 | Winchester | 2 | +5.8 | +1.0 |
-| 2026-02-28 | Pembroke | 8 | Barnstable | 2 | +16.8 | +6.0 |
-| 2026-02-28 | Bishop Stang | 1 | Bishop Fenwick | 0 | +8.9 | +1.0 |
-| 2026-02-28 | Duxbury | 4 | Melrose | 2 | +4.3 | +2.0 |
-| 2026-02-28 | Milton | 2 | Wakefield/Wilmington | 0 | +7.8 | +2.0 |
-| 2026-02-28 | Reading | 3 | Waltham | 2 | +4.3 | +1.0 |
 
 ## Current Elo Ratings
 
@@ -67,11 +60,11 @@ Generated: 2026-03-07 11:18
 | 2 | Westwood | 1751.2 |
 | 3 | Algonquin | 1747.4 |
 | 4 | Methuen/Tewksbury | 1746.4 |
-| 5 | Notre Dame (Hingham) | 1743.7 |
-| 6 | King Philip | 1730.1 |
+| 5 | King Philip | 1739.4 |
+| 6 | Notre Dame (Hingham) | 1730.6 |
 | 7 | St. Mary’s | 1714.6 |
-| 8 | Pembroke | 1708.0 |
-| 9 | Archbishop Williams | 1700.6 |
+| 8 | Archbishop Williams | 1713.7 |
+| 9 | Pembroke | 1708.0 |
 | 10 | Reading | 1676.5 |
 | 11 | Bishop Feehan | 1669.7 |
 | 12 | Duxbury | 1668.7 |
@@ -81,83 +74,83 @@ Generated: 2026-03-07 11:18
 | 16 | Auburn | 1646.6 |
 | 17 | Hingham | 1644.3 |
 | 18 | Beverly/Danvers | 1627.0 |
-| 19 | Medfield | 1619.4 |
-| 20 | NSA | 1613.8 |
-| 21 | Waltham | 1613.3 |
-| 22 | Billerica/Chelmsford | 1610.6 |
+| 19 | NSA | 1613.8 |
+| 20 | Waltham | 1613.3 |
+| 21 | Billerica/Chelmsford | 1610.6 |
+| 22 | Medfield | 1610.0 |
 | 23 | Winchester | 1599.8 |
 | 24 | Wakefield/Wilmington | 1591.2 |
 | 25 | Hanover | 1588.2 |
 | 26 | Canton | 1584.8 |
 | 27 | Acton-Boxboro | 1577.8 |
-| 28 | Nobles | 1574.4 |
-| 29 | Falmouth | 1572.5 |
-| 30 | Dennis-Yarmouth | 1572.1 |
-| 31 | Grafton | 1568.2 |
+| 28 | Falmouth | 1572.5 |
+| 29 | Dennis-Yarmouth | 1572.1 |
+| 30 | Grafton | 1568.2 |
+| 31 | New Hampton | 1567.8 |
 | 32 | Winthrop | 1565.1 |
 | 33 | Thayer | 1564.7 |
 | 34 | Melrose | 1562.9 |
 | 35 | Belmont | 1562.4 |
-| 36 | Shrewsbury | 1558.5 |
-| 37 | Brookline | 1551.1 |
-| 38 | New Hampton | 1550.9 |
-| 39 | Natick | 1545.8 |
-| 40 | Austin Prep | 1540.2 |
-| 41 | Phillips Andover | 1539.2 |
-| 42 | Arlington Catholic | 1538.1 |
-| 43 | Loomis Chaffee (Conn.) | 1536.8 |
-| 44 | Holderness | 1534.0 |
-| 45 | Hoosac School | 1532.2 |
-| 46 | Rivers | 1531.4 |
-| 47 | Nauset/Monomoy | 1531.0 |
-| 48 | Westford | 1530.7 |
-| 49 | Hopkinton/Dover-Sherborn | 1529.8 |
-| 50 | St. Mark’s | 1527.8 |
+| 36 | Nobles | 1561.4 |
+| 37 | Shrewsbury | 1558.5 |
+| 38 | Brookline | 1551.1 |
+| 39 | Loomis Chaffee (Conn.) | 1549.7 |
+| 40 | Natick | 1545.8 |
+| 41 | Austin Prep | 1540.2 |
+| 42 | Phillips Andover | 1539.2 |
+| 43 | Phillips Exeter | 1538.8 |
+| 44 | Arlington Catholic | 1538.1 |
+| 45 | Holderness | 1534.0 |
+| 46 | Hoosac School | 1532.2 |
+| 47 | Rivers | 1531.4 |
+| 48 | Nauset/Monomoy | 1531.0 |
+| 49 | Westford | 1530.7 |
+| 50 | Hopkinton/Dover-Sherborn | 1529.8 |
 | 51 | Framingham | 1522.9 |
-| 52 | Taft | 1521.8 |
-| 53 | Berwick | 1521.7 |
-| 54 | Braintree | 1521.0 |
-| 55 | Dedham | 1519.8 |
-| 56 | Phillips Exeter | 1519.7 |
-| 57 | ADK United | 1518.7 |
-| 58 | Tabor | 1516.1 |
-| 59 | Cushing | 1509.8 |
+| 52 | Berwick | 1521.7 |
+| 53 | Braintree | 1521.0 |
+| 54 | Dedham | 1519.8 |
+| 55 | ADK United | 1518.7 |
+| 56 | Deerfield | 1518.5 |
+| 57 | Choate | 1517.1 |
+| 58 | Groton | 1514.7 |
+| 59 | St. Mark’s | 1512.3 |
 | 60 | St. Paul’s | 1509.5 |
-| 61 | Deerfield | 1509.4 |
-| 62 | Shawsheen/Bedford/Lowell | 1509.1 |
-| 63 | Martha’s Vineyard | 1506.3 |
-| 64 | Berkshire | 1503.9 |
-| 65 | Governor’s Academy | 1503.4 |
-| 66 | Vermont Academy | 1502.8 |
-| 67 | Northfield Mt. Hermon | 1502.8 |
-| 68 | Millbrook (N.Y.) | 1502.8 |
-| 69 | Kents Hill | 1502.7 |
-| 70 | Choate | 1502.1 |
+| 61 | Shawsheen/Bedford/Lowell | 1509.1 |
+| 62 | Tabor | 1507.0 |
+| 63 | Taft | 1506.7 |
+| 64 | Martha’s Vineyard | 1506.3 |
+| 65 | Berkshire | 1503.9 |
+| 66 | Governor’s Academy | 1503.4 |
+| 67 | Millbrook (N.Y.) | 1502.8 |
+| 68 | Vermont Academy | 1502.8 |
+| 69 | Northfield Mt. Hermon | 1502.8 |
+| 70 | Kents Hill | 1502.7 |
 | 71 | Central Catholic | 1502.0 |
 | 72 | Pope Francis | 1499.9 |
-| 73 | Groton | 1499.2 |
-| 74 | St. George’s | 1497.9 |
-| 75 | Greenwich CD (Conn.) | 1496.1 |
-| 76 | BB&N | 1495.8 |
-| 77 | Dexter Southfield | 1495.4 |
-| 78 | Worcester Academy | 1495.0 |
-| 79 | Wakefield | 1494.1 |
-| 80 | Frederick Gunn (Conn.) | 1493.5 |
-| 81 | Pomfret | 1491.9 |
-| 82 | Middlesex | 1490.0 |
-| 83 | Mount St. Charles (R.I.) | 1489.7 |
-| 84 | Williston Northampton | 1489.4 |
-| 85 | Newton Country Day | 1489.2 |
-| 86 | Norwell | 1488.9 |
-| 87 | Hanover (N.H.) | 1487.3 |
-| 88 | North Yarmouth (Maine) | 1485.8 |
-| 89 | Glens Falls (N.Y.) | 1483.5 |
-| 90 | Tilton | 1482.6 |
-| 91 | Brewster Academy | 1482.0 |
-| 92 | Portsmouth Abbey | 1480.5 |
-| 93 | South County Storm (R.I.). | 1479.4 |
-| 94 | Hopkinton | 1479.0 |
-| 95 | Marshfield | 1478.3 |
+| 73 | St. George’s | 1497.9 |
+| 74 | Greenwich CD (Conn.) | 1496.1 |
+| 75 | Dexter Southfield | 1495.4 |
+| 76 | Worcester Academy | 1495.0 |
+| 77 | Wakefield | 1494.1 |
+| 78 | Frederick Gunn (Conn.) | 1493.5 |
+| 79 | Cushing | 1492.9 |
+| 80 | Pomfret | 1491.9 |
+| 81 | Middlesex | 1490.0 |
+| 82 | Mount St. Charles (R.I.) | 1489.7 |
+| 83 | Williston Northampton | 1489.4 |
+| 84 | Newton Country Day | 1489.2 |
+| 85 | Norwell | 1488.9 |
+| 86 | Hanover (N.H.) | 1487.3 |
+| 87 | North Yarmouth (Maine) | 1485.8 |
+| 88 | Glens Falls (N.Y.) | 1483.5 |
+| 89 | Tilton | 1482.6 |
+| 90 | Brewster Academy | 1482.0 |
+| 91 | Portsmouth Abbey | 1480.5 |
+| 92 | South County Storm (R.I.). | 1479.4 |
+| 93 | Hopkinton | 1479.0 |
+| 94 | Marshfield | 1478.3 |
+| 95 | BB&N | 1476.7 |
 | 96 | Brooks | 1471.6 |
 | 97 | Milton Academy | 1468.9 |
 | 98 | Malden Catholic | 1467.8 |

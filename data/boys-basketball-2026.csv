@@ -2450,31 +2450,31 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-24,86818,FINAL,Whitinsville Christian,4487,74.0,1.0,Tahanto,4513,64.0,0.0,CMAC,Mid-Wach,6:00 P.M.,,0
 2026-02-24,86950,FINAL,Duggan Academy,4843,66.0,0.0,Hopkins,4531,71.0,1.0,Independent,Independent,6:00 P.M.,,0
 2026-02-24,86962,FINAL,Ware,4406,61.0,1.0,Renaissance,4664,29.0,0.0,Independent,Independent,7:00 P.M.,,0
-2026-02-25,86443,FINAL,Natick,4270,67,1,Haverhill,4167,51,0,Bay State,Merrimack Valley,5:00 P.M.,,0
-2026-02-25,86452,FINAL,Lowell,4216,64,1,Franklin,4144,47,0,Merrimack Valley,Hockomock,6:00 P.M.,,0
-2026-02-25,86458,FINAL,Lawrence,4203,43,1,Billerica,4040,35,0,Merrimack Valley,Merrimack Valley,7:00 P.M.,,0
-2026-02-25,86461,FINAL,Lincoln-Sudbury,4211,71,1,Wachusett,4400,44,0,Dual County,Mid-Wach,6:00 P.M.,,0
-2026-02-25,86467,FINAL,Algonquin,4005,50,1,Boston Latin,4049,41,0,Mid-Wach,Dual County,6:30 P.M.,,0
-2026-02-25,86470,FINAL,Methuen,4246,63,1,Everett,4132,41,0,Merrimack Valley,Greater Boston,6:00 P.M.,,0
-2026-02-25,86578,FINAL,Walpole,4404,63,1,Fitchburg,4139,46,0,Bay State,Mid-Wach,5:30 P.M.,,0
-2026-02-25,86677,FINAL,Saugus,4341,53,0,Lowell Catholic,4217,65,1,Northeastern,Commonwealth,6:00 P.M.,,0
-2026-02-25,86692,FINAL,Chelsea,4086,56,0,Hudson,4182,57,1,Greater Boston,Mid-Wach,7:00 P.M.,1.0,0
-2026-02-25,86701,FINAL,North Reading,4288,46,0,Auburn,4019,63,1,Cape Ann,CMAC,6:30 P.M.,,0
-2026-02-25,86707,FINAL,Pittsfield,4314,49,0,Medway,4243,54,1,Independent,Tri-Valley,6:00 P.M.,,0
-2026-02-25,86719,FINAL,Lynnfield,4223,57,1,Ludlow,4218,47,0,Cape Ann,Independent,5:30 P.M.,,0
-2026-02-25,86830,FINAL,Winthrop,4437,81,1,Smith Voc.,4539,51,0,Northeastern,Independent,6:00 P.M.,,0
-2026-02-25,86833,FINAL,Narragansett,4266,39,1,Assabet,4016,35,0,Mid-Wach,CMAC,5:30 P.M.,,0
-2026-02-25,86836,FINAL,Lunenburg,4219,62,0,Bromfield,4505,63,1,Mid-Wach,Mid-Wach,7:00 P.M.,,0
-2026-02-25,86845,FINAL,Blackstone-Millville,4486,78,1,Mystic Valley,4264,70,0,CMAC,Commonwealth,7:30 P.M.,,0
-2026-02-25,86941,FINAL,Salem Academy,4604,49,1,Minuteman,4255,39,0,Charter School Athletic,Commonwealth,6:00 P.M.,,0
-2026-02-25,86947,FINAL,Collegiate Charter,4986,57,1,Keefe Tech,4191,53,0,Charter School Athletic,CMAC,4:45 P.M.,,0
-2026-02-25,86953,FINAL,Boston United,4798,70,1,Sizer,4509,36,0,Boston City,Worcester County,5:30 P.M.,,0
-2026-02-25,86959,FINAL,Palmer,4304,63,1,Baystate Academy,4846,54,0,Independent,Independent,6:00 P.M.,,0
-2026-02-25,86971,FINAL,Boston Prep,4655,56,1,McCann Tech,4240,36,0,Charter School Athletic,Independent,5:00 P.M.,,0
-2026-02-25,86974,FINAL,Southbridge,4357,55,1,Athol,4017,50,0,CMAC,Independent,6:30 P.M.,,0
-2026-02-25,87595,FINAL,St. Mark’s,4372,57,1,Brooks,4060,39,0,ISL,ISL,,,0
-2026-02-25,87598,FINAL,Proctor,4321,82,1,Austin Prep,4020,68,0,Independent,Independent,,,0
-2026-02-25,87599,FINAL,Lawrence Academy,4204,73,1,Roxbury Latin,4334,61,0,ISL,ISL,,,0
+2026-02-25,86443,FINAL,Natick,4270,67.0,1.0,Haverhill,4167,51.0,0.0,Bay State,Merrimack Valley,5:00 P.M.,,0
+2026-02-25,86452,FINAL,Lowell,4216,64.0,1.0,Franklin,4144,47.0,0.0,Merrimack Valley,Hockomock,6:00 P.M.,,0
+2026-02-25,86458,FINAL,Lawrence,4203,43.0,1.0,Billerica,4040,35.0,0.0,Merrimack Valley,Merrimack Valley,7:00 P.M.,,0
+2026-02-25,86461,FINAL,Lincoln-Sudbury,4211,71.0,1.0,Wachusett,4400,44.0,0.0,Dual County,Mid-Wach,6:00 P.M.,,0
+2026-02-25,86467,FINAL,Algonquin,4005,50.0,1.0,Boston Latin,4049,41.0,0.0,Mid-Wach,Dual County,6:30 P.M.,,0
+2026-02-25,86470,FINAL,Methuen,4246,63.0,1.0,Everett,4132,41.0,0.0,Merrimack Valley,Greater Boston,6:00 P.M.,,0
+2026-02-25,86578,FINAL,Walpole,4404,63.0,1.0,Fitchburg,4139,46.0,0.0,Bay State,Mid-Wach,5:30 P.M.,,0
+2026-02-25,86677,FINAL,Saugus,4341,53.0,0.0,Lowell Catholic,4217,65.0,1.0,Northeastern,Commonwealth,6:00 P.M.,,0
+2026-02-25,86692,FINAL,Chelsea,4086,56.0,0.0,Hudson,4182,57.0,1.0,Greater Boston,Mid-Wach,7:00 P.M.,1.0,0
+2026-02-25,86701,FINAL,North Reading,4288,46.0,0.0,Auburn,4019,63.0,1.0,Cape Ann,CMAC,6:30 P.M.,,0
+2026-02-25,86707,FINAL,Pittsfield,4314,49.0,0.0,Medway,4243,54.0,1.0,Independent,Tri-Valley,6:00 P.M.,,0
+2026-02-25,86719,FINAL,Lynnfield,4223,57.0,1.0,Ludlow,4218,47.0,0.0,Cape Ann,Independent,5:30 P.M.,,0
+2026-02-25,86830,FINAL,Winthrop,4437,81.0,1.0,Smith Voc.,4539,51.0,0.0,Northeastern,Independent,6:00 P.M.,,0
+2026-02-25,86833,FINAL,Narragansett,4266,39.0,1.0,Assabet,4016,35.0,0.0,Mid-Wach,CMAC,5:30 P.M.,,0
+2026-02-25,86836,FINAL,Lunenburg,4219,62.0,0.0,Bromfield,4505,63.0,1.0,Mid-Wach,Mid-Wach,7:00 P.M.,,0
+2026-02-25,86845,FINAL,Blackstone-Millville,4486,78.0,1.0,Mystic Valley,4264,70.0,0.0,CMAC,Commonwealth,7:30 P.M.,,0
+2026-02-25,86941,FINAL,Salem Academy,4604,49.0,1.0,Minuteman,4255,39.0,0.0,Charter School Athletic,Commonwealth,6:00 P.M.,,0
+2026-02-25,86947,FINAL,Collegiate Charter,4986,57.0,1.0,Keefe Tech,4191,53.0,0.0,Charter School Athletic,CMAC,4:45 P.M.,,0
+2026-02-25,86953,FINAL,Boston United,4798,70.0,1.0,Sizer,4509,36.0,0.0,Boston City,Worcester County,5:30 P.M.,,0
+2026-02-25,86959,FINAL,Palmer,4304,63.0,1.0,Baystate Academy,4846,54.0,0.0,Independent,Independent,6:00 P.M.,,0
+2026-02-25,86971,FINAL,Boston Prep,4655,56.0,1.0,McCann Tech,4240,36.0,0.0,Charter School Athletic,Independent,5:00 P.M.,,0
+2026-02-25,86974,FINAL,Southbridge,4357,55.0,1.0,Athol,4017,50.0,0.0,CMAC,Independent,6:30 P.M.,,0
+2026-02-25,87595,FINAL,St. Mark’s,4372,57.0,1.0,Brooks,4060,39.0,0.0,ISL,ISL,,,0
+2026-02-25,87598,FINAL,Proctor,4321,82.0,1.0,Austin Prep,4020,68.0,0.0,Independent,Independent,,,0
+2026-02-25,87599,FINAL,Lawrence Academy,4204,73.0,1.0,Roxbury Latin,4334,61.0,0.0,ISL,ISL,,,0
 2026-02-26,86395,FINAL,Catholic Memorial,4080,54,0,St. John’s (Shrewsbury),4368,56,1,Catholic Conference,Catholic Conference,6:30 P.M.,,0
 2026-02-26,86428,FINAL,Springfield Central,4360,65,1,Newton North,4279,53,0,Independent,Bay State,7:00 P.M.,,0
 2026-02-26,86464,FINAL,Quincy,4326,81,1,Hopkinton,4180,58,0,Patriot,Tri-Valley,6:30 P.M.,,0
@@ -2661,22 +2661,38 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-06,86731,FINAL,West Bridgewater,4415,61,1,Clinton,4093,54,0,South Coast,Mid-Wach,5:30 P.M.,,0
 2026-03-06,86734,FINAL,Millbury,4250,59,1,Lynn Tech,4222,28,0,CMAC,Commonwealth,6:30 P.M.,,0
 2026-03-06,86857,FINAL,David Prouty,4106,55,0,Roxbury Prep,4847,62,1,CMAC,Charter School Athletic,6:00 P.M.,,0
-2026-03-07,86368,UPCOMING,Central Catholic,4081,,,Beverly,4038,,,Merrimack Valley,Northeastern,5:00 P.M.,,0
-2026-03-07,86485,UPCOMING,Pope Francis,4796,,,Oliver Ames,4302,,,Independent,Hockomock,1:00 P.M.,,0
-2026-03-07,86590,UPCOMING,Greater Lawrence,4154,,,Norwell,4296,,,Commonwealth,South Shore,3:00 P.M.,,0
-2026-03-07,86599,UPCOMING,Hanover,4164,,,Medfield,4241,,,Patriot,Tri-Valley,6:00 P.M.,,0
-2026-03-07,86740,UPCOMING,Wareham,4407,,,Wahconah,4401,,,Independent,Independent,6:00 P.M.,,0
-2026-03-07,86860,UPCOMING,Hopedale,4507,,,Prospect Hill,4593,,,CMAC,Charter School Athletic,5:00 P.M.,,0
-2026-03-07,86863,UPCOMING,KIPP,4703,,,Holbrook,4172,,,Commonwealth,Mayflower,7:00 P.M.,,0
-2026-03-07,86866,UPCOMING,Drury,4120,,,Hoosac Valley,4178,,,Independent,Independent,4:00 P.M.,,0
-2026-03-07,87800,UPCOMING,Newman School,4277,,,New Hampton,4275,,,MBIL,Independent,2:00 P.M.,,0
-2026-03-07,87855,UPCOMING,Vermont Academy,4399,,,Hoosac School,4688,,,Independent,Independent,3:00 P.M.,,0
-2026-03-07,87856,UPCOMING,Cushing,4101,,,Kimball Union,4196,,,Independent,Independent,3:00 P.M.,,0
-2026-03-07,87857,UPCOMING,St. George’s,4367,,,Cheshire Academy,4087,,,ISL,Independent,4:00 P.M.,,0
-2026-03-07,87860,UPCOMING,Hotchkiss,4181,,,Phillips Exeter,4311,,,Founders,Independent,2:00 P.M.,,0
-2026-03-07,87861,UPCOMING,Phillips Andover,4310,,,Deerfield,4110,,,Independent,Independent,3:00 P.M.,,0
-2026-03-07,87864,UPCOMING,St. Mark’s,4372,,,Master’s (Conn.),4622,,,ISL,Independent,2:00 P.M.,,0
-2026-03-07,87867,UPCOMING,Canterbury,4070,,,Rivers,4330,,,Independent,ISL,3:00 P.M.,,0
-2026-03-07,87869,UPCOMING,Kingswood-Oxford,4198,,,N.Y. Military Academy,4659,,,Independent,Independent,1:00 P.M.,,0
-2026-03-07,87871,UPCOMING,Holderness,4173,,,King (Conn.),4199,,,Independent,Independent,2:00 P.M.,,0
-2026-03-07,87873,UPCOMING,Bancroft,4023,,,Wheeler (R.I.),4426,,,EIL,EIL,1:00 P.M.,,0
+2026-03-07,86368,FINAL,Central Catholic,4081,55,1,Beverly,4038,53,0,Merrimack Valley,Northeastern,5:00 P.M.,,0
+2026-03-07,86485,FINAL,Pope Francis,4796,68,1,Oliver Ames,4302,56,0,Independent,Hockomock,1:00 P.M.,,0
+2026-03-07,86590,FINAL,Greater Lawrence,4154,57,1,Norwell,4296,27,0,Commonwealth,South Shore,3:00 P.M.,,0
+2026-03-07,86599,FINAL,Hanover,4164,65,1,Medfield,4241,40,0,Patriot,Tri-Valley,6:00 P.M.,,0
+2026-03-07,86740,FINAL,Wareham,4407,74,1,Wahconah,4401,51,0,Independent,Independent,6:00 P.M.,,0
+2026-03-07,86860,FINAL,Hopedale,4507,51,0,Prospect Hill,4593,67,1,CMAC,Charter School Athletic,6:00 P.M.,,0
+2026-03-07,86863,FINAL,KIPP,4703,70,0,Holbrook,4172,73,1,Commonwealth,Mayflower,6:30 P.M.,,0
+2026-03-07,86866,FINAL,Drury,4120,67,0,Hoosac Valley,4178,73,1,Independent,Independent,4:00 P.M.,,0
+2026-03-07,87800,FINAL,Newman School,4277,84,1,New Hampton,4275,55,0,MBIL,Independent,2:00 P.M.,,0
+2026-03-07,87855,FINAL,Vermont Academy,4399,78,0,Hoosac School,4688,87,1,Independent,Independent,3:00 P.M.,,0
+2026-03-07,87856,FINAL,Cushing,4101,58,1,Kimball Union,4196,41,0,Independent,Independent,3:00 P.M.,,0
+2026-03-07,87857,FINAL,St. George’s,4367,74,0,Cheshire Academy,4087,78,1,ISL,Independent,4:00 P.M.,,0
+2026-03-07,87860,FINAL,Hotchkiss,4181,69,1,Phillips Exeter,4311,52,0,Founders,Independent,2:00 P.M.,,0
+2026-03-07,87861,FINAL,Phillips Andover,4310,71,1,Deerfield,4110,58,0,Independent,Independent,3:00 P.M.,,0
+2026-03-07,87864,FINAL,St. Mark’s,4372,65,1,Master’s (Conn.),4622,47,0,ISL,Independent,2:00 P.M.,,0
+2026-03-07,87867,FINAL,Canterbury,4070,48,1,Rivers,4330,45,0,Independent,ISL,3:00 P.M.,,0
+2026-03-07,87869,FINAL,Kingswood-Oxford,4198,67,1,N.Y. Military Academy,4659,51,0,Independent,Independent,1:00 P.M.,,0
+2026-03-07,87871,FINAL,Holderness,4173,80,1,King (Conn.),4199,58,0,Independent,Independent,2:00 P.M.,,0
+2026-03-07,87873,FINAL,Bancroft,4023,92,1,Wheeler (R.I.),4426,80,0,EIL,EIL,1:00 P.M.,,0
+2026-03-08,87896,UPCOMING,Newman School,4277,,,Hoosac School,4688,,,MBIL,Independent,3:15 P.M.,,0
+2026-03-08,87898,UPCOMING,Cheshire Academy,4087,,,St. George’s,4367,,,Independent,ISL,5:30 P.M.,,0
+2026-03-08,87901,UPCOMING,Phillips Andover,4310,,,Hotchkiss,4181,,,Independent,Founders,3:15 P.M.,,0
+2026-03-08,87903,UPCOMING,St. Mark’s,4372,,,Canterbury,4070,,,ISL,Independent,5:30 P.M.,,0
+2026-03-08,87904,UPCOMING,Kingswood-Oxford,4198,,,Holderness,4173,,,Independent,Independent,1:00 P.M.,,0
+2026-03-08,87905,UPCOMING,Bancroft,4023,,,Rocky Hill Country Day,4332,,,EIL,Independent,1:00 P.M.,,0
+2026-03-09,86479,UPCOMING,St. Mary’s,4374,,,Plymouth South,4316,,,Catholic Central,Patriot,7:00 P.M.,,0
+2026-03-10,86476,UPCOMING,Pope Francis,4796,,,Masconomet,4236,,,Independent,Northeastern,5:30 P.M.,,0
+2026-03-10,86584,UPCOMING,Salem,4336,,,Lynn Classical,4220,,,Northeastern,Greater Boston,7:15 P.M.,,0
+2026-03-10,86587,UPCOMING,Hanover,4164,,,Greater Lawrence,4154,,,Patriot,Commonwealth,7:15 P.M.,,0
+2026-03-10,86725,UPCOMING,Millbury,4250,,,Georgetown,4148,,,CMAC,Cape Ann,5:00 P.M.,,0
+2026-03-10,86728,UPCOMING,Wareham,4407,,,West Bridgewater,4415,,,Independent,South Coast,6:30 P.M.,,0
+2026-03-11,86353,UPCOMING,Andover,4009,,,Bishop Feehan,4042,,,Merrimack Valley,Catholic Central,7:00 P.M.,,0
+2026-03-11,86356,UPCOMING,Central Catholic,4081,,,Springfield Central,4360,,,Merrimack Valley,Independent,7:15 P.M.,,0
+2026-03-11,86851,UPCOMING,Holbrook,4172,,,Prospect Hill,4593,,,Mayflower,Charter School Athletic,5:00 P.M.,,0
+2026-03-11,86854,UPCOMING,Roxbury Prep,4847,,,Hoosac Valley,4178,,,Charter School Athletic,Independent,7:00 P.M.,,0
