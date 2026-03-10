@@ -821,12 +821,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-26,86318,FINAL,Auburn,4019,6.0,1.0,Masconomet,4236,2.0,0.0,Independent,Northeast,6:00 P.M.,,0
 2026-02-26,86330,FINAL,NSA,4343,2.0,1.0,Gloucester,4150,0.0,0.0,Patriot,Northeast,3:20 P.M.,,0
 2026-02-26,86336,FINAL,Canton,4071,4.0,1.0,Quincy/North Quincy,4287,1.0,0.0,Hockomock,Patriot,5:00 P.M.,,0
-2026-02-27,86303,FINAL,Dedham,4108,2,0,Martha’s Vineyard,4235,3,1,Tri-Valley,Cape & Islands,12:30 P.M.,,0
-2026-02-27,86309,FINAL,Sandwich,4340,1,0,Melrose,4244,3,1,Cape & Islands,Middlesex,5:30 P.M.,,0
-2026-02-27,86321,FINAL,Dennis-Yarmouth,4111,1,1,Norwood,4297,0,0,Cape & Islands,Tri-Valley,4:00 P.M.,,0
-2026-02-27,86324,FINAL,Nauset/Monomoy,4271,4,1,Burlington,4065,3,0,Cape & Islands,Middlesex,4:10 P.M.,,0
-2026-02-27,86333,FINAL,Falmouth,4134,3,1,Leominster,4208,1,0,Cape & Islands,Central/West,5:15 P.M.,,0
-2026-02-27,86342,FINAL,Duxbury,4123,5,1,Marblehead,4231,0,0,Patriot,Northeast,5:20 P.M.,,0
+2026-02-27,86303,FINAL,Dedham,4108,2.0,0.0,Martha’s Vineyard,4235,3.0,1.0,Tri-Valley,Cape & Islands,12:30 P.M.,,0
+2026-02-27,86309,FINAL,Sandwich,4340,1.0,0.0,Melrose,4244,3.0,1.0,Cape & Islands,Middlesex,5:30 P.M.,,0
+2026-02-27,86321,FINAL,Dennis-Yarmouth,4111,1.0,1.0,Norwood,4297,0.0,0.0,Cape & Islands,Tri-Valley,4:00 P.M.,,0
+2026-02-27,86324,FINAL,Nauset/Monomoy,4271,4.0,1.0,Burlington,4065,3.0,0.0,Cape & Islands,Middlesex,4:10 P.M.,,0
+2026-02-27,86333,FINAL,Falmouth,4134,3.0,1.0,Leominster,4208,1.0,0.0,Cape & Islands,Central/West,5:15 P.M.,,0
+2026-02-27,86342,FINAL,Duxbury,4123,5.0,1.0,Marblehead,4231,0.0,0.0,Patriot,Northeast,5:20 P.M.,,0
 2026-02-28,86186,FINAL,Reading,4328,3,1,Waltham,4405,2,0,Middlesex,Merrimack Valley/Dual County,4:30 P.M.,1.0,0
 2026-02-28,86189,FINAL,Methuen/Tewksbury,4246,4,1,Woburn,4438,1,0,Merrimack Valley/Dual County,Middlesex,5:00 P.M.,,0
 2026-02-28,86192,FINAL,Archbishop Williams,4012,7,1,Billerica/Chelmsford,4040,0,0,Catholic Central,Merrimack Valley/Dual County,8:00 P.M.,,0
@@ -877,5 +877,5 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-08,87890,FINAL,Loomis Chaffee (Conn.),4215,5,1,Deerfield,4110,1,0,Founders,Independent,4:00 P.M.,,0
 2026-03-08,87892,FINAL,Phillips Exeter,4311,4,1,Choate,4090,2,0,Independent,Founders,11:00 A.M.,,0
 2026-03-08,87893,FINAL,Groton,4544,1,1,New Hampton,4275,0,0,ISL,Independent,1:30 P.M.,,0
-2026-03-15,86162,UPCOMING,Methuen/Tewksbury,4246,,,Archbishop Williams,4012,,,Merrimack Valley/Dual County,Catholic Central,,,0
-2026-03-15,86258,UPCOMING,Milton,4252,,,King Philip,4197,,,Bay State,Hockomock,,,0
+2026-03-15,86162,UPCOMING,Methuen/Tewksbury,4246,,,Archbishop Williams,4012,,,Merrimack Valley/Dual County,Catholic Central,5:30 P.M.,,0
+2026-03-15,86258,UPCOMING,Milton,4252,,,King Philip,4197,,,Bay State,Hockomock,9:00 A.M.,,0
