@@ -827,16 +827,16 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-27,86324,FINAL,Nauset/Monomoy,4271,4.0,1.0,Burlington,4065,3.0,0.0,Cape & Islands,Middlesex,4:10 P.M.,,0
 2026-02-27,86333,FINAL,Falmouth,4134,3.0,1.0,Leominster,4208,1.0,0.0,Cape & Islands,Central/West,5:15 P.M.,,0
 2026-02-27,86342,FINAL,Duxbury,4123,5.0,1.0,Marblehead,4231,0.0,0.0,Patriot,Northeast,5:20 P.M.,,0
-2026-02-28,86186,FINAL,Reading,4328,3,1,Waltham,4405,2,0,Middlesex,Merrimack Valley/Dual County,4:30 P.M.,1.0,0
-2026-02-28,86189,FINAL,Methuen/Tewksbury,4246,4,1,Woburn,4438,1,0,Merrimack Valley/Dual County,Middlesex,5:00 P.M.,,0
-2026-02-28,86192,FINAL,Archbishop Williams,4012,7,1,Billerica/Chelmsford,4040,0,0,Catholic Central,Merrimack Valley/Dual County,8:00 P.M.,,0
-2026-02-28,86195,FINAL,Bishop Feehan,4042,6,1,Acton-Boxboro,4003,2,0,Catholic Central,Merrimack Valley/Dual County,1:00 P.M.,,0
-2026-02-28,86201,FINAL,St. Mary’s,4374,3,1,Winchester,4434,2,0,Catholic Central,Middlesex,2:00 P.M.,,0
-2026-02-28,86204,FINAL,Notre Dame (Hingham),4449,4,1,Shrewsbury,4348,0,0,Independent,Merrimack Valley/Dual County,7:00 P.M.,,0
-2026-02-28,86228,FINAL,Bishop Stang,4045,1,1,Bishop Fenwick,4043,0,0,Catholic Central,Catholic Central,4:00 P.M.,,0
-2026-02-28,86294,FINAL,Duxbury,4123,4,1,Melrose,4244,2,0,Patriot,Middlesex,5:40 P.M.,,0
-2026-02-28,86297,FINAL,Milton,4252,2,1,Wakefield/Wilmington,4402,0,0,Bay State,Middlesex,6:00 P.M.,,0
-2026-02-28,86339,FINAL,Pembroke,4308,8,1,Barnstable,4024,2,0,Patriot,Cape & Islands,6:00 P.M.,,0
+2026-02-28,86186,FINAL,Reading,4328,3.0,1.0,Waltham,4405,2.0,0.0,Middlesex,Merrimack Valley/Dual County,4:30 P.M.,1.0,0
+2026-02-28,86189,FINAL,Methuen/Tewksbury,4246,4.0,1.0,Woburn,4438,1.0,0.0,Merrimack Valley/Dual County,Middlesex,5:00 P.M.,,0
+2026-02-28,86192,FINAL,Archbishop Williams,4012,7.0,1.0,Billerica/Chelmsford,4040,0.0,0.0,Catholic Central,Merrimack Valley/Dual County,8:00 P.M.,,0
+2026-02-28,86195,FINAL,Bishop Feehan,4042,6.0,1.0,Acton-Boxboro,4003,2.0,0.0,Catholic Central,Merrimack Valley/Dual County,1:00 P.M.,,0
+2026-02-28,86201,FINAL,St. Mary’s,4374,3.0,1.0,Winchester,4434,2.0,0.0,Catholic Central,Middlesex,2:00 P.M.,,0
+2026-02-28,86204,FINAL,Notre Dame (Hingham),4449,4.0,1.0,Shrewsbury,4348,0.0,0.0,Independent,Merrimack Valley/Dual County,7:00 P.M.,,0
+2026-02-28,86228,FINAL,Bishop Stang,4045,1.0,1.0,Bishop Fenwick,4043,0.0,0.0,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-02-28,86294,FINAL,Duxbury,4123,4.0,1.0,Melrose,4244,2.0,0.0,Patriot,Middlesex,5:40 P.M.,,0
+2026-02-28,86297,FINAL,Milton,4252,2.0,1.0,Wakefield/Wilmington,4402,0.0,0.0,Bay State,Middlesex,6:00 P.M.,,0
+2026-02-28,86339,FINAL,Pembroke,4308,8.0,1.0,Barnstable,4024,2.0,0.0,Patriot,Cape & Islands,6:00 P.M.,,0
 2026-03-01,86198,FINAL,Algonquin,4005,2,1,Malden Catholic,4228,1,0,Independent,Independent,5:40 P.M.,2.0,0
 2026-03-01,86279,FINAL,Nauset/Monomoy,4271,2,0,Medfield,4241,3,1,Cape & Islands,Tri-Valley,4:15 P.M.,2.0,0
 2026-03-01,86282,FINAL,Dennis-Yarmouth,4111,0,0,NSA,4343,2,1,Cape & Islands,Patriot,3:00 P.M.,,0

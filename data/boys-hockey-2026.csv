@@ -1705,25 +1705,25 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-27,86123,FINAL,Martha’s Vineyard,4235,6.0,1.0,Dennis-Yarmouth,4111,0.0,0.0,Cape & Islands,Cape & Islands,3:30 P.M.,,0
 2026-02-27,86126,FINAL,Sandwich,4340,5.0,1.0,Hull/Cohasset,4094,1.0,0.0,Cape & Islands,South Shore,7:30 P.M.,,0
 2026-02-27,86144,FINAL,Dover-Sherborn/Weston,4118,3.0,1.0,ORR/Fairhaven,4301,1.0,0.0,Tri-Valley,South Coast,8:00 P.M.,,0
-2026-02-28,85784,FINAL,St. John’s (Shrewsbury),4368,2,1,BC High,4029,1,0,Catholic Conference,Catholic Conference,7:00 P.M.,,0
-2026-02-28,85790,FINAL,Hingham,4171,6,1,Weymouth,4425,0,0,Independent,Bay State,2:30 P.M.,,0
-2026-02-28,85796,FINAL,Arlington,4013,4,1,Lincoln-Sudbury,4211,0,0,Middlesex,Merrimack Valley/Dual County,6:00 P.M.,,0
-2026-02-28,85799,FINAL,St. John’s Prep,4369,1,0,Arlington Catholic,4014,2,1,Catholic Conference,Catholic Central,3:20 P.M.,,0
-2026-02-28,85805,FINAL,Catholic Memorial,4080,5,1,Winchester,4434,2,0,Catholic Conference,Middlesex,1:30 P.M.,,0
-2026-02-28,85889,FINAL,Westwood,4424,3,1,Billerica,4040,1,0,Tri-Valley,Merrimack Valley/Dual County,4:00 P.M.,,0
-2026-02-28,85892,FINAL,Woburn,4438,1,0,Concord-Carlisle,4097,2,1,Middlesex,Merrimack Valley/Dual County,12:00 P.M.,,0
-2026-02-28,85928,FINAL,Barnstable,4024,5,1,Minnechaug,4254,2,0,Pioneer,Berry Division,5:00 P.M.,,0
-2026-02-28,85931,FINAL,Walpole,4404,3,1,Dartmouth,4105,2,0,Bay State,Pioneer,7:30 P.M.,,0
-2026-02-28,85952,FINAL,Canton,4071,9,1,Somerset Berkley,4350,0,0,Hockomock,South Coast,7:00 P.M.,,0
-2026-02-28,85979,FINAL,Scituate,4343,3,1,Groton-Dunstable,4160,2,0,Patriot,Roy,4:00 P.M.,,0
-2026-02-28,85985,FINAL,Shawsheen,4346,4,1,Danvers,4103,0,0,Commonwealth,Northeastern,7:30 P.M.,,0
-2026-02-28,85988,FINAL,Pembroke,4308,1,0,Norwood,4297,3,1,Patriot,Tri-Valley,8:00 P.M.,,0
-2026-02-28,85991,FINAL,Medfield,4241,5,1,Wakefield,4402,2,0,Tri-Valley,Middlesex,4:30 P.M.,,0
-2026-02-28,85997,FINAL,Hanover,4164,6,1,Lynnfield,4223,1,0,Patriot,Cape Ann,2:00 P.M.,,0
-2026-02-28,86003,FINAL,Middleborough,4247,2,0,Taunton,4388,3,1,South Shore,Hockomock,8:20 P.M.,,0
-2026-02-28,86090,FINAL,Winthrop,4437,3,1,Abington,4002,1,0,Northeastern,South Shore,3:10 P.M.,,0
-2026-02-28,86093,FINAL,Wilmington,4432,4,1,Greenfield,4157,3,0,Middlesex,Wright Division,2:45 P.M.,,0
-2026-02-28,86132,FINAL,Hudson,4182,2,0,Bourne,4050,3,1,Quinn,South Coast,7:00 P.M.,,0
+2026-02-28,85784,FINAL,St. John’s (Shrewsbury),4368,2.0,1.0,BC High,4029,1.0,0.0,Catholic Conference,Catholic Conference,7:00 P.M.,,0
+2026-02-28,85790,FINAL,Hingham,4171,6.0,1.0,Weymouth,4425,0.0,0.0,Independent,Bay State,2:30 P.M.,,0
+2026-02-28,85796,FINAL,Arlington,4013,4.0,1.0,Lincoln-Sudbury,4211,0.0,0.0,Middlesex,Merrimack Valley/Dual County,6:00 P.M.,,0
+2026-02-28,85799,FINAL,St. John’s Prep,4369,1.0,0.0,Arlington Catholic,4014,2.0,1.0,Catholic Conference,Catholic Central,3:20 P.M.,,0
+2026-02-28,85805,FINAL,Catholic Memorial,4080,5.0,1.0,Winchester,4434,2.0,0.0,Catholic Conference,Middlesex,1:30 P.M.,,0
+2026-02-28,85889,FINAL,Westwood,4424,3.0,1.0,Billerica,4040,1.0,0.0,Tri-Valley,Merrimack Valley/Dual County,4:00 P.M.,,0
+2026-02-28,85892,FINAL,Woburn,4438,1.0,0.0,Concord-Carlisle,4097,2.0,1.0,Middlesex,Merrimack Valley/Dual County,12:00 P.M.,,0
+2026-02-28,85928,FINAL,Barnstable,4024,5.0,1.0,Minnechaug,4254,2.0,0.0,Pioneer,Berry Division,5:00 P.M.,,0
+2026-02-28,85931,FINAL,Walpole,4404,3.0,1.0,Dartmouth,4105,2.0,0.0,Bay State,Pioneer,7:30 P.M.,,0
+2026-02-28,85952,FINAL,Canton,4071,9.0,1.0,Somerset Berkley,4350,0.0,0.0,Hockomock,South Coast,7:00 P.M.,,0
+2026-02-28,85979,FINAL,Scituate,4343,3.0,1.0,Groton-Dunstable,4160,2.0,0.0,Patriot,Roy,4:00 P.M.,,0
+2026-02-28,85985,FINAL,Shawsheen,4346,4.0,1.0,Danvers,4103,0.0,0.0,Commonwealth,Northeastern,7:30 P.M.,,0
+2026-02-28,85988,FINAL,Pembroke,4308,1.0,0.0,Norwood,4297,3.0,1.0,Patriot,Tri-Valley,8:00 P.M.,,0
+2026-02-28,85991,FINAL,Medfield,4241,5.0,1.0,Wakefield,4402,2.0,0.0,Tri-Valley,Middlesex,4:30 P.M.,,0
+2026-02-28,85997,FINAL,Hanover,4164,6.0,1.0,Lynnfield,4223,1.0,0.0,Patriot,Cape Ann,2:00 P.M.,,0
+2026-02-28,86003,FINAL,Middleborough,4247,2.0,0.0,Taunton,4388,3.0,1.0,South Shore,Hockomock,8:20 P.M.,,0
+2026-02-28,86090,FINAL,Winthrop,4437,3.0,1.0,Abington,4002,1.0,0.0,Northeastern,South Shore,3:10 P.M.,,0
+2026-02-28,86093,FINAL,Wilmington,4432,4.0,1.0,Greenfield,4157,3.0,0.0,Middlesex,Wright Division,2:45 P.M.,,0
+2026-02-28,86132,FINAL,Hudson,4182,2.0,0.0,Bourne,4050,3.0,1.0,Quinn,South Coast,7:00 P.M.,,0
 2026-03-01,85787,FINAL,Pope Francis,4796,4,1,St. Mary’s,4374,0,0,Independent,Catholic Central,2:00 P.M.,,0
 2026-03-01,85802,FINAL,Xaverian,4446,0,0,Marshfield,4234,2,1,Catholic Conference,Patriot,2:45 P.M.,,0
 2026-03-01,85886,FINAL,Milton,4252,3,1,King Philip,4197,2,0,Bay State,Hockomock,6:00 P.M.,,0
