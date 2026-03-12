@@ -1,6 +1,6 @@
 # Boys Hockey - 2026 Season
 
-Generated: 2026-03-11 11:31
+Generated: 2026-03-12 11:30
 
 ## Upcoming Games
 
@@ -23,42 +23,22 @@ Generated: 2026-03-11 11:31
 | 2026-03-08 | Canton | 6 | Burlington | 2 | +8.9 | +4.0 |
 | 2026-03-08 | Arlington | 2 | St. John’s (Shrewsbury) | 3 | +6.9 | -1.0 |
 | 2026-03-08 | Hingham | 4 | Pope Francis | 5 | +2.8 | -1.0 |
-| 2026-03-07 | Tabor | 4 | Brunswick | 5 | +4.0 | -1.0 |
-| 2026-03-07 | Tewksbury | 5 | Westwood | 3 | +5.4 | +2.0 |
-| 2026-03-07 | Littleton/Bromfield | 5 | Dover-Sherborn/Weston | 1 | +8.1 | +4.0 |
-| 2026-03-07 | Winthrop | 3 | St. Bernard’s | 6 | -2.3 | -3.0 |
-| 2026-03-07 | Winchendon | 2 | Canterbury | 1 | +6.2 | +1.0 |
-| 2026-03-07 | Cushing | 6 | Phillips Andover | 1 | +0.6 | +5.0 |
 | 2026-03-07 | Holderness | 1 | Berkshire | 0 | +3.1 | +1.0 |
 | 2026-03-07 | St. Mark’s | 7 | Kimball Union | 3 | +8.2 | +4.0 |
-| 2026-03-05 | Canton | 1 | Walpole | 0 | +13.3 | +1.0 |
+| 2026-03-07 | Winchendon | 2 | Canterbury | 1 | +6.2 | +1.0 |
+| 2026-03-07 | Cushing | 6 | Phillips Andover | 1 | +0.6 | +5.0 |
+| 2026-03-07 | Tabor | 4 | Brunswick | 5 | +4.0 | -1.0 |
+| 2026-03-07 | Winthrop | 3 | St. Bernard’s | 6 | -2.3 | -3.0 |
+| 2026-03-07 | Littleton/Bromfield | 5 | Dover-Sherborn/Weston | 1 | +8.1 | +4.0 |
+| 2026-03-07 | Tewksbury | 5 | Westwood | 3 | +5.4 | +2.0 |
+| 2026-03-05 | Burlington | 4 | Concord-Carlisle | 1 | +4.5 | +3.0 |
 | 2026-03-05 | St. Bernard’s | 6 | Monomoy/Mashpee | 3 | +7.0 | +3.0 |
 | 2026-03-05 | Littleton/Bromfield | 6 | Martha’s Vineyard | 1 | +8.8 | +5.0 |
 | 2026-03-05 | Hanover | 4 | Essex Tech | 3 | +7.2 | +1.0 |
 | 2026-03-05 | Nauset | 6 | Scituate | 1 | +10.4 | +5.0 |
+| 2026-03-05 | Canton | 1 | Walpole | 0 | +13.3 | +1.0 |
 | 2026-03-05 | Tewksbury | 8 | Milton | 0 | +11.6 | +8.0 |
 | 2026-03-05 | Arlington | 3 | Archbishop Williams | 1 | +7.7 | +2.0 |
-| 2026-03-05 | Burlington | 4 | Concord-Carlisle | 1 | +4.5 | +3.0 |
-| 2026-03-04 | Hingham | 3 | Arlington Catholic | 0 | +5.4 | +3.0 |
-| 2026-03-04 | Phillips Andover | 5 | St. Paul’s | 1 | +4.4 | +4.0 |
-| 2026-03-04 | Catholic Memorial | 3 | St. John’s (Shrewsbury) | 4 | +9.5 | -1.0 |
-| 2026-03-04 | Falmouth | 2 | Westwood | 3 | +1.9 | -1.0 |
-| 2026-03-04 | Shawsheen | 7 | Norwood | 1 | +8.4 | +6.0 |
-| 2026-03-04 | Medfield | 7 | Dracut/Tyngsborough | 3 | -0.0 | +4.0 |
-| 2026-03-04 | Wilmington | 1 | Winthrop | 2 | +0.3 | -1.0 |
-| 2026-03-04 | Dover-Sherborn/Weston | 2 | North Reading | 1 | +2.4 | +1.0 |
-| 2026-03-04 | Tabor | 2 | Choate | 1 | +2.6 | +1.0 |
-| 2026-03-04 | Brunswick | 2 | Thayer | 1 | +0.3 | +1.0 |
-| 2026-03-04 | Cushing | 2 | Deerfield | 1 | +3.2 | +1.0 |
-| 2026-03-04 | Holderness | 9 | Pomfret | 6 | +5.4 | +3.0 |
-| 2026-03-04 | Rivers | 0 | Berkshire | 5 | +3.9 | -5.0 |
-| 2026-03-04 | Canterbury | 4 | St. George’s | 1 | -1.0 | +3.0 |
-| 2026-03-04 | Winchendon | 7 | New Hampton | 1 | +6.4 | +6.0 |
-| 2026-03-04 | Dexter Southfield | 2 | Avon Old Farms | 4 | +5.3 | -2.0 |
-| 2026-03-04 | St. Sebastian’s | 0 | Hotchkiss | 3 | +5.5 | -3.0 |
-| 2026-03-04 | Salisbury (Conn.) | 0 | Kimball Union | 1 | +2.1 | -1.0 |
-| 2026-03-04 | St. Mark’s | 7 | Belmont Hill | 2 | +8.3 | +5.0 |
-| 2026-03-04 | Pope Francis | 5 | Marshfield | 0 | +1.9 | +5.0 |
 
 ## Current Elo Ratings
 

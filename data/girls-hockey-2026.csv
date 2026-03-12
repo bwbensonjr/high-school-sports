@@ -837,11 +837,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-28,86294,FINAL,Duxbury,4123,4.0,1.0,Melrose,4244,2.0,0.0,Patriot,Middlesex,5:40 P.M.,,0
 2026-02-28,86297,FINAL,Milton,4252,2.0,1.0,Wakefield/Wilmington,4402,0.0,0.0,Bay State,Middlesex,6:00 P.M.,,0
 2026-02-28,86339,FINAL,Pembroke,4308,8.0,1.0,Barnstable,4024,2.0,0.0,Patriot,Cape & Islands,6:00 P.M.,,0
-2026-03-01,86198,FINAL,Algonquin,4005,2,1,Malden Catholic,4228,1,0,Independent,Independent,5:40 P.M.,2.0,0
-2026-03-01,86279,FINAL,Nauset/Monomoy,4271,2,0,Medfield,4241,3,1,Cape & Islands,Tri-Valley,4:15 P.M.,2.0,0
-2026-03-01,86282,FINAL,Dennis-Yarmouth,4111,0,0,NSA,4343,2,1,Cape & Islands,Patriot,3:00 P.M.,,0
-2026-03-01,86288,FINAL,King Philip,4197,2,1,Canton,4071,1,0,Hockomock,Hockomock,2:30 P.M.,2.0,0
-2026-03-01,86300,FINAL,Westwood,4424,6,1,Martha’s Vineyard,4235,0,0,Tri-Valley,Cape & Islands,6:00 P.M.,,0
+2026-03-01,86198,FINAL,Algonquin,4005,2.0,1.0,Malden Catholic,4228,1.0,0.0,Independent,Independent,5:40 P.M.,2.0,0
+2026-03-01,86279,FINAL,Nauset/Monomoy,4271,2.0,0.0,Medfield,4241,3.0,1.0,Cape & Islands,Tri-Valley,4:15 P.M.,2.0,0
+2026-03-01,86282,FINAL,Dennis-Yarmouth,4111,0.0,0.0,NSA,4343,2.0,1.0,Cape & Islands,Patriot,3:00 P.M.,,0
+2026-03-01,86288,FINAL,King Philip,4197,2.0,1.0,Canton,4071,1.0,0.0,Hockomock,Hockomock,2:30 P.M.,2.0,0
+2026-03-01,86300,FINAL,Westwood,4424,6.0,1.0,Martha’s Vineyard,4235,0.0,0.0,Tri-Valley,Cape & Islands,6:00 P.M.,,0
 2026-03-02,86183,FINAL,Bishop Stang,4045,5,1,HPNA,4283,1,0,Catholic Central,Merrimack Valley/Dual County,4:30 P.M.,,0
 2026-03-02,86285,FINAL,Auburn,4019,4,1,Falmouth,4134,1,0,Independent,Cape & Islands,6:00 P.M.,,0
 2026-03-02,86291,FINAL,Pembroke,4308,8,1,Hanover,4164,3,0,Patriot,Patriot,7:30 P.M.,,0

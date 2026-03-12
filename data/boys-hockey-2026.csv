@@ -1724,16 +1724,16 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-02-28,86090,FINAL,Winthrop,4437,3.0,1.0,Abington,4002,1.0,0.0,Northeastern,South Shore,3:10 P.M.,,0
 2026-02-28,86093,FINAL,Wilmington,4432,4.0,1.0,Greenfield,4157,3.0,0.0,Middlesex,Wright Division,2:45 P.M.,,0
 2026-02-28,86132,FINAL,Hudson,4182,2.0,0.0,Bourne,4050,3.0,1.0,Quinn,South Coast,7:00 P.M.,,0
-2026-03-01,85787,FINAL,Pope Francis,4796,4,1,St. Mary’s,4374,0,0,Independent,Catholic Central,2:00 P.M.,,0
-2026-03-01,85802,FINAL,Xaverian,4446,0,0,Marshfield,4234,2,1,Catholic Conference,Patriot,2:45 P.M.,,0
-2026-03-01,85886,FINAL,Milton,4252,3,1,King Philip,4197,2,0,Bay State,Hockomock,6:00 P.M.,,0
-2026-03-01,85898,FINAL,Falmouth,4134,4,1,Whitman-Hanson,4427,3,0,Cape & Islands,Patriot,2:00 P.M.,,0
-2026-03-01,85901,FINAL,Tewksbury,4389,5,1,North Attleborough,4284,0,0,Merrimack Valley/Dual County,Hockomock,4:00 P.M.,,0
-2026-03-01,86081,FINAL,Sandwich,4340,1,0,St. Bernard’s,4365,4,1,Cape & Islands,CMAC,3:30 P.M.,,0
-2026-03-01,86087,FINAL,Norwell,4296,1,0,North Reading,4288,2,1,South Shore,Cape Ann,1:30 P.M.,1.0,0
-2026-03-01,86096,FINAL,Dover-Sherborn/Weston,4118,2,1,Medway,4243,1,0,Tri-Valley,Tri-Valley,7:10 P.M.,,0
-2026-03-01,86099,FINAL,Littleton/Bromfield,4212,5,1,Pentucket,4309,2,0,Coughlin,Cape Ann,4:30 P.M.,,0
-2026-03-01,86102,FINAL,Stoneham,4380,2,0,Monomoy/Mashpee,4237,3,1,Middlesex,Cape & Islands,5:00 P.M.,,0
+2026-03-01,85787,FINAL,Pope Francis,4796,4.0,1.0,St. Mary’s,4374,0.0,0.0,Independent,Catholic Central,2:00 P.M.,,0
+2026-03-01,85802,FINAL,Xaverian,4446,0.0,0.0,Marshfield,4234,2.0,1.0,Catholic Conference,Patriot,2:45 P.M.,,0
+2026-03-01,85886,FINAL,Milton,4252,3.0,1.0,King Philip,4197,2.0,0.0,Bay State,Hockomock,6:00 P.M.,,0
+2026-03-01,85898,FINAL,Falmouth,4134,4.0,1.0,Whitman-Hanson,4427,3.0,0.0,Cape & Islands,Patriot,2:00 P.M.,,0
+2026-03-01,85901,FINAL,Tewksbury,4389,5.0,1.0,North Attleborough,4284,0.0,0.0,Merrimack Valley/Dual County,Hockomock,4:00 P.M.,,0
+2026-03-01,86081,FINAL,Sandwich,4340,1.0,0.0,St. Bernard’s,4365,4.0,1.0,Cape & Islands,CMAC,3:30 P.M.,,0
+2026-03-01,86087,FINAL,Norwell,4296,1.0,0.0,North Reading,4288,2.0,1.0,South Shore,Cape Ann,1:30 P.M.,1.0,0
+2026-03-01,86096,FINAL,Dover-Sherborn/Weston,4118,2.0,1.0,Medway,4243,1.0,0.0,Tri-Valley,Tri-Valley,7:10 P.M.,,0
+2026-03-01,86099,FINAL,Littleton/Bromfield,4212,5.0,1.0,Pentucket,4309,2.0,0.0,Coughlin,Cape Ann,4:30 P.M.,,0
+2026-03-01,86102,FINAL,Stoneham,4380,2.0,0.0,Monomoy/Mashpee,4237,3.0,1.0,Middlesex,Cape & Islands,5:00 P.M.,,0
 2026-03-02,85793,FINAL,Reading,4328,2,0,Archbishop Williams,4012,3,1,Middlesex,Catholic Central,7:30 P.M.,1.0,0
 2026-03-02,85883,FINAL,Barnstable,4024,3,0,Walpole,4404,4,1,Pioneer,Bay State,6:00 P.M.,,0
 2026-03-02,85895,FINAL,Burlington,4065,3,1,Duxbury,4123,1,0,Middlesex,Patriot,6:10 P.M.,,0

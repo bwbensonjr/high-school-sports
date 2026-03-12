@@ -1,6 +1,6 @@
 # Girls Hockey - 2026 Season
 
-Generated: 2026-03-11 11:31
+Generated: 2026-03-12 11:30
 
 ## Upcoming Games
 
@@ -13,38 +13,22 @@ Generated: 2026-03-11 11:31
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-03-08 | Groton | 1 | New Hampton | 0 | -0.1 | +1.0 |
-| 2026-03-08 | Phillips Exeter | 4 | Choate | 2 | +2.9 | +2.0 |
-| 2026-03-08 | Loomis Chaffee (Conn.) | 5 | Deerfield | 1 | +3.2 | +4.0 |
-| 2026-03-08 | Milton | 2 | Duxbury | 1 | +5.7 | +1.0 |
 | 2026-03-08 | St. Mary’s | 1 | Methuen/Tewksbury | 2 | +0.7 | -1.0 |
-| 2026-03-07 | Phillips Exeter | 5 | BB&N | 1 | +3.0 | +4.0 |
-| 2026-03-07 | Cushing | 2 | New Hampton | 4 | +0.4 | -2.0 |
-| 2026-03-07 | Deerfield | 3 | Tabor | 2 | +1.7 | +1.0 |
-| 2026-03-07 | Nobles | 4 | Loomis Chaffee (Conn.) | 5 | +3.5 | -1.0 |
-| 2026-03-07 | Choate | 3 | Taft | 1 | +1.2 | +2.0 |
-| 2026-03-07 | Groton | 2 | St. Mark’s | 0 | +0.9 | +2.0 |
-| 2026-03-07 | King Philip | 2 | Medfield | 0 | +6.4 | +2.0 |
+| 2026-03-08 | Milton | 2 | Duxbury | 1 | +5.7 | +1.0 |
+| 2026-03-08 | Loomis Chaffee (Conn.) | 5 | Deerfield | 1 | +3.2 | +4.0 |
+| 2026-03-08 | Phillips Exeter | 4 | Choate | 2 | +2.9 | +2.0 |
+| 2026-03-08 | Groton | 1 | New Hampton | 0 | -0.1 | +1.0 |
 | 2026-03-07 | Notre Dame (Hingham) | 0 | Archbishop Williams | 1 | +3.7 | -1.0 |
+| 2026-03-07 | King Philip | 2 | Medfield | 0 | +6.4 | +2.0 |
+| 2026-03-07 | Groton | 2 | St. Mark’s | 0 | +0.9 | +2.0 |
+| 2026-03-07 | Choate | 3 | Taft | 1 | +1.2 | +2.0 |
+| 2026-03-07 | Nobles | 4 | Loomis Chaffee (Conn.) | 5 | +3.5 | -1.0 |
+| 2026-03-07 | Deerfield | 3 | Tabor | 2 | +1.7 | +1.0 |
+| 2026-03-07 | Cushing | 2 | New Hampton | 4 | +0.4 | -2.0 |
+| 2026-03-07 | Phillips Exeter | 5 | BB&N | 1 | +3.0 | +4.0 |
+| 2026-03-05 | Notre Dame (Hingham) | 2 | Bishop Stang | 1 | +4.7 | +1.0 |
 | 2026-03-05 | Duxbury | 5 | Auburn | 0 | +0.9 | +5.0 |
 | 2026-03-05 | Westwood | 0 | Medfield | 1 | +8.6 | -1.0 |
-| 2026-03-05 | Notre Dame (Hingham) | 2 | Bishop Stang | 1 | +4.7 | +1.0 |
-| 2026-03-04 | St. Mary’s | 1 | Reading | 0 | +2.9 | +1.0 |
-| 2026-03-04 | Rivers | 1 | New Hampton | 3 | +2.8 | -2.0 |
-| 2026-03-04 | Cushing | 2 | Portsmouth Abbey | 1 | +2.5 | +1.0 |
-| 2026-03-04 | Governor’s Academy | 0 | St. Mark’s | 5 | +3.7 | -5.0 |
-| 2026-03-04 | Groton | 2 | Frederick Gunn (Conn.) | 1 | +1.5 | +1.0 |
-| 2026-03-04 | Taft | 4 | Berkshire | 1 | +1.2 | +3.0 |
-| 2026-03-04 | BB&N | 3 | Thayer | 1 | -2.3 | +2.0 |
-| 2026-03-04 | Phillips Exeter | 4 | Middlesex | 3 | +2.5 | +1.0 |
-| 2026-03-04 | Phillips Andover | 1 | Tabor | 2 | +4.0 | -1.0 |
-| 2026-03-04 | Williston Northampton | 2 | Deerfield | 3 | +2.2 | -1.0 |
-| 2026-03-04 | Dexter Southfield | 3 | Loomis Chaffee (Conn.) | 7 | +2.6 | -4.0 |
-| 2026-03-04 | Nobles | 5 | St. Paul’s | 4 | +4.0 | +1.0 |
-| 2026-03-04 | Milton | 2 | NSA | 0 | +7.2 | +2.0 |
-| 2026-03-04 | Pembroke | 0 | King Philip | 1 | +2.1 | -1.0 |
-| 2026-03-04 | Algonquin | 1 | Methuen/Tewksbury | 2 | +3.0 | -1.0 |
-| 2026-03-04 | Bishop Feehan | 0 | Archbishop Williams | 5 | +3.4 | -5.0 |
 
 ## Current Elo Ratings
 
@@ -115,8 +99,8 @@ Generated: 2026-03-11 11:31
 | 63 | Choate | 1504.0 |
 | 64 | Berkshire | 1503.9 |
 | 65 | Governor’s Academy | 1503.4 |
-| 66 | Vermont Academy | 1502.8 |
-| 67 | Millbrook (N.Y.) | 1502.8 |
+| 66 | Millbrook (N.Y.) | 1502.8 |
+| 67 | Vermont Academy | 1502.8 |
 | 68 | Northfield Mt. Hermon | 1502.8 |
 | 69 | Kents Hill | 1502.7 |
 | 70 | Central Catholic | 1502.0 |
