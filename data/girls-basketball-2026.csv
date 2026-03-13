@@ -2448,17 +2448,17 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-01,87384,FINAL,Southwick,4519,41.0,1.0,O’Bryant,4298,33.0,0.0,Independent,Boston City,1:00 P.M.,,0
 2026-03-01,87393,FINAL,Tyngsborough,4397,43.0,1.0,Carver,4077,41.0,0.0,Mid-Wach,South Shore,4:00 P.M.,,0
 2026-03-01,87522,FINAL,Lee,4206,61.0,1.0,Atlantis Charter,4818,22.0,0.0,Independent,Independent,2:00 P.M.,,0
-2026-03-02,87015,FINAL,Wachusett,4400,67,1,Acton-Boxborough,4003,29,0,Mid-Wach,Dual County,6:00 P.M.,,0
-2026-03-02,87105,FINAL,Oliver Ames,4302,48,1,North Attleborough,4284,47,0,Hockomock,Hockomock,6:00 P.M.,,0
-2026-03-02,87108,FINAL,Walpole,4404,63,1,Duxbury,4123,52,0,Bay State,Patriot,6:30 P.M.,,0
-2026-03-02,87117,FINAL,St. Mary’s,4374,69,1,Archbishop Williams,4012,51,0,Catholic Central,Catholic Central,5:15 P.M.,,0
-2026-03-02,87234,FINAL,Cathedral,4079,72,1,Greater New Bedford,4156,56,0,Catholic Central,South Coast,6:30 P.M.,,0
-2026-03-02,87243,FINAL,Pittsfield,4314,48,1,Tewksbury,4389,22,0,Independent,Merrimack Valley,6:00 P.M.,,0
-2026-03-02,87363,FINAL,Millis,4251,79,1,Uxbridge,4398,36,0,Tri-Valley,CMAC,6:00 P.M.,,0
-2026-03-02,87390,FINAL,Hampshire,4518,54,1,Wareham,4407,51,0,Independent,Mayflower,6:00 P.M.,1.0,0
-2026-03-02,87486,FINAL,Granby,4520,40,0,Hoosac Valley,4178,50,1,Independent,Independent,6:00 P.M.,,0
-2026-03-02,87489,FINAL,Minuteman,4255,46,1,Mahar,4226,43,0,Commonwealth,Independent,6:00 P.M.,,0
-2026-03-02,87507,FINAL,Drury,4120,61,1,Ware,4406,21,0,Independent,Independent,7:00 P.M.,,0
+2026-03-02,87015,FINAL,Wachusett,4400,67.0,1.0,Acton-Boxborough,4003,29.0,0.0,Mid-Wach,Dual County,6:00 P.M.,,0
+2026-03-02,87105,FINAL,Oliver Ames,4302,48.0,1.0,North Attleborough,4284,47.0,0.0,Hockomock,Hockomock,6:00 P.M.,,0
+2026-03-02,87108,FINAL,Walpole,4404,63.0,1.0,Duxbury,4123,52.0,0.0,Bay State,Patriot,6:30 P.M.,,0
+2026-03-02,87117,FINAL,St. Mary’s,4374,69.0,1.0,Archbishop Williams,4012,51.0,0.0,Catholic Central,Catholic Central,5:15 P.M.,,0
+2026-03-02,87234,FINAL,Cathedral,4079,72.0,1.0,Greater New Bedford,4156,56.0,0.0,Catholic Central,South Coast,6:30 P.M.,,0
+2026-03-02,87243,FINAL,Pittsfield,4314,48.0,1.0,Tewksbury,4389,22.0,0.0,Independent,Merrimack Valley,6:00 P.M.,,0
+2026-03-02,87363,FINAL,Millis,4251,79.0,1.0,Uxbridge,4398,36.0,0.0,Tri-Valley,CMAC,6:00 P.M.,,0
+2026-03-02,87390,FINAL,Hampshire,4518,54.0,1.0,Wareham,4407,51.0,0.0,Independent,Mayflower,6:00 P.M.,1.0,0
+2026-03-02,87486,FINAL,Granby,4520,40.0,0.0,Hoosac Valley,4178,50.0,1.0,Independent,Independent,6:00 P.M.,,0
+2026-03-02,87489,FINAL,Minuteman,4255,46.0,1.0,Mahar,4226,43.0,0.0,Commonwealth,Independent,6:00 P.M.,,0
+2026-03-02,87507,FINAL,Drury,4120,61.0,1.0,Ware,4406,21.0,0.0,Independent,Independent,7:00 P.M.,,0
 2026-03-03,87000,FINAL,Woburn,4438,46,0,Needham,4272,54,1,Middlesex,Bay State,6:00 P.M.,,0
 2026-03-03,87003,FINAL,Braintree,4051,45,1,Billerica,4040,33,0,Bay State,Merrimack Valley,6:30 P.M.,,0
 2026-03-03,87006,FINAL,Natick,4270,65,1,Quincy,4326,37,0,Bay State,Patriot,6:00 P.M.,,0
@@ -2562,3 +2562,4 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-14,86979,UPCOMING,Springfield Central,4360,,,Wachusett,4400,,,Independent,Mid-Wach,4:00 P.M.,,0
 2026-03-14,87324,UPCOMING,Frontier,4146,,,South Hadley,4353,,,Independent,Independent,12:00 P.M.,,0
 2026-03-15,87204,UPCOMING,Bishop Fenwick,4043,,,Pittsfield,4314,,,Catholic Central,Independent,4:00 P.M.,,0
+2026-03-15,87465,UPCOMING,Drury,4120,,,Hopedale,4507,,,Independent,CMAC,12:00 P.M.,,0

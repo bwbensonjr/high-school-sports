@@ -1,6 +1,6 @@
 # Boys Cross Country - 2025 Season
 
-Generated: 2026-03-12 11:30
+Generated: 2026-03-13 11:29
 
 ## Upcoming Games
 
@@ -143,19 +143,19 @@ Generated: 2026-03-12 11:30
 | 125 | Hampshire | 1503.8 |
 | 126 | Rising Tide Charter | 1502.3 |
 | 127 | Bellingham | 1501.9 |
-| 128 | Westfield | 1501.7 |
-| 129 | Greater Lawrence | 1501.7 |
-| 130 | Bridgewater-Raynham | 1501.7 |
-| 131 | Amherst-Pelham | 1501.7 |
-| 132 | Riverview School | 1501.7 |
-| 133 | Watkinson | 1501.7 |
-| 134 | Minnechaug | 1501.7 |
+| 128 | Bridgewater-Raynham | 1501.7 |
+| 129 | Minnechaug | 1501.7 |
+| 130 | Longmeadow | 1501.7 |
+| 131 | Wachusett | 1501.7 |
+| 132 | Greater Lowell | 1501.7 |
+| 133 | Amherst-Pelham | 1501.7 |
+| 134 | Westfield | 1501.7 |
 | 135 | St. Sebastian’s | 1501.7 |
-| 136 | Longmeadow | 1501.7 |
-| 137 | Wachusett | 1501.7 |
-| 138 | Tabor | 1501.7 |
-| 139 | Notre Dame (Tyngsborough) | 1501.7 |
-| 140 | Greater Lowell | 1501.7 |
+| 136 | Watkinson | 1501.7 |
+| 137 | Greater Lawrence | 1501.7 |
+| 138 | Notre Dame (Tyngsborough) | 1501.7 |
+| 139 | Tabor | 1501.7 |
+| 140 | Riverview School | 1501.7 |
 | 141 | East Bridgewater | 1500.4 |
 | 142 | Cambridge | 1499.0 |
 | 143 | Lynn Classical | 1497.6 |

@@ -2584,10 +2584,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-01,86791,FINAL,New Heights Charter,5088,89.0,1.0,Bromfield,4505,56.0,0.0,Charter School Athletic,Mid-Wach,3:00 P.M.,,0
 2026-03-01,86923,FINAL,Mt. Everett,4533,65.0,1.0,Argosy Collegiate,5032,57.0,0.0,Independent,Charter School Athletic,1:00 P.M.,,0
 2026-03-01,86935,FINAL,Hopedale,4507,59.0,1.0,Cape Cod Academy,4072,50.0,0.0,CMAC,Cape & Islands,2:00 P.M.,,0
-2026-03-02,86515,FINAL,St. Mary’s,4374,81,1,Foxborough,4142,54,0,Catholic Central,Hockomock,7:00 P.M.,,0
-2026-03-02,86758,FINAL,Georgetown,4148,56,1,Sutton,4512,28,0,Cape Ann,CMAC,6:00 P.M.,,0
-2026-03-02,86761,FINAL,Millbury,4250,60,1,Hamilton-Wenham,4163,44,0,CMAC,Cape Ann,6:30 P.M.,,0
-2026-03-02,86881,FINAL,David Prouty,4106,78,1,Hull,4184,47,0,CMAC,South Shore,6:00 P.M.,,0
+2026-03-02,86515,FINAL,St. Mary’s,4374,81.0,1.0,Foxborough,4142,54.0,0.0,Catholic Central,Hockomock,7:00 P.M.,,0
+2026-03-02,86758,FINAL,Georgetown,4148,56.0,1.0,Sutton,4512,28.0,0.0,Cape Ann,CMAC,6:00 P.M.,,0
+2026-03-02,86761,FINAL,Millbury,4250,60.0,1.0,Hamilton-Wenham,4163,44.0,0.0,CMAC,Cape Ann,6:30 P.M.,,0
+2026-03-02,86881,FINAL,David Prouty,4106,78.0,1.0,Hull,4184,47.0,0.0,CMAC,South Shore,6:00 P.M.,,0
 2026-03-03,86371,FINAL,Malden Catholic,4228,64,0,Beverly,4038,68,1,Catholic Conference,Northeastern,6:30 P.M.,,0
 2026-03-03,86374,FINAL,Attleboro,4018,67,0,Xaverian,4446,74,1,Hockomock,Catholic Conference,6:30 P.M.,,0
 2026-03-03,86377,FINAL,Bridgewater-Raynham,4053,71,1,Winchester,4434,42,0,Pioneer,Middlesex,6:45 P.M.,,0

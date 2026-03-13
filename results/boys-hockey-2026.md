@@ -1,6 +1,6 @@
 # Boys Hockey - 2026 Season
 
-Generated: 2026-03-12 11:30
+Generated: 2026-03-13 11:29
 
 ## Upcoming Games
 
@@ -15,30 +15,22 @@ Generated: 2026-03-12 11:30
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-03-08 | Avon Old Farms | 4 | St. Mark’s | 2 | -5.4 | +2.0 |
-| 2026-03-08 | Holderness | 2 | Winchendon | 5 | +1.3 | -3.0 |
-| 2026-03-08 | Cushing | 7 | Brunswick | 0 | +4.8 | +7.0 |
-| 2026-03-08 | Hanover | 3 | Shawsheen | 1 | +1.0 | +2.0 |
-| 2026-03-08 | Nauset | 0 | Medfield | 5 | +3.4 | -5.0 |
-| 2026-03-08 | Canton | 6 | Burlington | 2 | +8.9 | +4.0 |
-| 2026-03-08 | Arlington | 2 | St. John’s (Shrewsbury) | 3 | +6.9 | -1.0 |
 | 2026-03-08 | Hingham | 4 | Pope Francis | 5 | +2.8 | -1.0 |
-| 2026-03-07 | Holderness | 1 | Berkshire | 0 | +3.1 | +1.0 |
-| 2026-03-07 | St. Mark’s | 7 | Kimball Union | 3 | +8.2 | +4.0 |
-| 2026-03-07 | Winchendon | 2 | Canterbury | 1 | +6.2 | +1.0 |
-| 2026-03-07 | Cushing | 6 | Phillips Andover | 1 | +0.6 | +5.0 |
-| 2026-03-07 | Tabor | 4 | Brunswick | 5 | +4.0 | -1.0 |
-| 2026-03-07 | Winthrop | 3 | St. Bernard’s | 6 | -2.3 | -3.0 |
-| 2026-03-07 | Littleton/Bromfield | 5 | Dover-Sherborn/Weston | 1 | +8.1 | +4.0 |
+| 2026-03-08 | Arlington | 2 | St. John’s (Shrewsbury) | 3 | +6.9 | -1.0 |
+| 2026-03-08 | Canton | 6 | Burlington | 2 | +8.9 | +4.0 |
+| 2026-03-08 | Nauset | 0 | Medfield | 5 | +3.4 | -5.0 |
+| 2026-03-08 | Hanover | 3 | Shawsheen | 1 | +1.0 | +2.0 |
+| 2026-03-08 | Cushing | 7 | Brunswick | 0 | +4.8 | +7.0 |
+| 2026-03-08 | Holderness | 2 | Winchendon | 5 | +1.3 | -3.0 |
+| 2026-03-08 | Avon Old Farms | 4 | St. Mark’s | 2 | -5.4 | +2.0 |
 | 2026-03-07 | Tewksbury | 5 | Westwood | 3 | +5.4 | +2.0 |
-| 2026-03-05 | Burlington | 4 | Concord-Carlisle | 1 | +4.5 | +3.0 |
-| 2026-03-05 | St. Bernard’s | 6 | Monomoy/Mashpee | 3 | +7.0 | +3.0 |
-| 2026-03-05 | Littleton/Bromfield | 6 | Martha’s Vineyard | 1 | +8.8 | +5.0 |
-| 2026-03-05 | Hanover | 4 | Essex Tech | 3 | +7.2 | +1.0 |
-| 2026-03-05 | Nauset | 6 | Scituate | 1 | +10.4 | +5.0 |
-| 2026-03-05 | Canton | 1 | Walpole | 0 | +13.3 | +1.0 |
-| 2026-03-05 | Tewksbury | 8 | Milton | 0 | +11.6 | +8.0 |
-| 2026-03-05 | Arlington | 3 | Archbishop Williams | 1 | +7.7 | +2.0 |
+| 2026-03-07 | Littleton/Bromfield | 5 | Dover-Sherborn/Weston | 1 | +8.1 | +4.0 |
+| 2026-03-07 | Winthrop | 3 | St. Bernard’s | 6 | -2.3 | -3.0 |
+| 2026-03-07 | Tabor | 4 | Brunswick | 5 | +4.0 | -1.0 |
+| 2026-03-07 | Cushing | 6 | Phillips Andover | 1 | +0.6 | +5.0 |
+| 2026-03-07 | Holderness | 1 | Berkshire | 0 | +3.1 | +1.0 |
+| 2026-03-07 | Winchendon | 2 | Canterbury | 1 | +6.2 | +1.0 |
+| 2026-03-07 | St. Mark’s | 7 | Kimball Union | 3 | +8.2 | +4.0 |
 
 ## Current Elo Ratings
 
@@ -177,8 +169,8 @@ Generated: 2026-03-12 11:30
 | 131 | Northwood (N.Y.) | 1491.6 |
 | 132 | Amesbury/Whittier | 1491.3 |
 | 133 | Central Catholic | 1491.1 |
-| 134 | Stanstead (Canada) | 1490.8 |
-| 135 | La Salle (R.I.) | 1490.8 |
+| 134 | La Salle (R.I.) | 1490.8 |
+| 135 | Stanstead (Canada) | 1490.8 |
 | 136 | Loomis Chaffee (Conn.) | 1490.8 |
 | 137 | Hoosac School | 1490.2 |
 | 138 | Fairfield Prep (Conn.) | 1489.9 |

@@ -1,6 +1,6 @@
 # Girls Hockey - 2026 Season
 
-Generated: 2026-03-12 11:30
+Generated: 2026-03-13 11:29
 
 ## Upcoming Games
 
@@ -26,9 +26,6 @@ Generated: 2026-03-12 11:30
 | 2026-03-07 | Deerfield | 3 | Tabor | 2 | +1.7 | +1.0 |
 | 2026-03-07 | Cushing | 2 | New Hampton | 4 | +0.4 | -2.0 |
 | 2026-03-07 | Phillips Exeter | 5 | BB&N | 1 | +3.0 | +4.0 |
-| 2026-03-05 | Notre Dame (Hingham) | 2 | Bishop Stang | 1 | +4.7 | +1.0 |
-| 2026-03-05 | Duxbury | 5 | Auburn | 0 | +0.9 | +5.0 |
-| 2026-03-05 | Westwood | 0 | Medfield | 1 | +8.6 | -1.0 |
 
 ## Current Elo Ratings
 
@@ -100,8 +97,8 @@ Generated: 2026-03-12 11:30
 | 64 | Berkshire | 1503.9 |
 | 65 | Governor’s Academy | 1503.4 |
 | 66 | Millbrook (N.Y.) | 1502.8 |
-| 67 | Vermont Academy | 1502.8 |
-| 68 | Northfield Mt. Hermon | 1502.8 |
+| 67 | Northfield Mt. Hermon | 1502.8 |
+| 68 | Vermont Academy | 1502.8 |
 | 69 | Kents Hill | 1502.7 |
 | 70 | Central Catholic | 1502.0 |
 | 71 | Deerfield | 1499.9 |

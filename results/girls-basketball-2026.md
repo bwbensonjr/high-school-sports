@@ -1,6 +1,6 @@
 # Girls Basketball - 2026 Season
 
-Generated: 2026-03-12 11:30
+Generated: 2026-03-13 11:29
 
 ## Upcoming Games
 
@@ -10,6 +10,7 @@ Generated: 2026-03-12 11:30
 | 2026-03-14 | 4:00 P.M. | Springfield Central | Wachusett | 35.3% | -5.3 |
 | 2026-03-14 | 12:00 P.M. | Frontier | South Hadley | 71.0% | +7.8 |
 | 2026-03-15 | 4:00 P.M. | Bishop Fenwick | Pittsfield | 61.6% | +4.1 |
+| 2026-03-15 | 12:00 P.M. | Drury | Hopedale | 59.4% | +3.3 |
 
 ## Recent Games
 
@@ -31,14 +32,14 @@ Generated: 2026-03-12 11:30
 | 2026-03-08 | Wheeler (R.I.) | 35 | Berwick | 45 | +1.7 | -10.0 |
 | 2026-03-08 | Loomis Chaffee (Conn.) | 43 | Sacred Heart (Conn.) | 53 | +0.7 | -10.0 |
 | 2026-03-08 | Kimball Union | 47 | Hamden Hall Country Day | 55 | +2.0 | -8.0 |
-| 2026-03-07 | Sacred Heart (Conn.) | 58 | Taft | 35 | +3.3 | +23.0 |
+| 2026-03-07 | St. George’s | 47 | Lawrence Academy | 53 | -2.8 | -6.0 |
 | 2026-03-07 | Berwick | 51 | St. Thomas More | 47 | +4.6 | +4.0 |
 | 2026-03-07 | Wheeler (R.I.) | 63 | Lexington Christian | 55 | +3.8 | +8.0 |
 | 2026-03-07 | Ethel Walker | 44 | Hamden Hall Country Day | 57 | +3.3 | -13.0 |
 | 2026-03-07 | Kimball Union | 68 | Kingswood-Oxford | 59 | +2.3 | +9.0 |
 | 2026-03-07 | Brooks | 32 | Berkshire | 58 | +3.9 | -26.0 |
-| 2026-03-07 | St. George’s | 47 | Lawrence Academy | 53 | -2.8 | -6.0 |
-| 2026-03-07 | Loomis Chaffee (Conn.) | 42 | Phillips Andover | 40 | -0.2 | +2.0 |
+| 2026-03-07 | Sacred Heart (Conn.) | 58 | Taft | 35 | +3.3 | +23.0 |
+| 2026-03-07 | Hoosac School | 70 | Tabor | 60 | +0.6 | +10.0 |
 | 2026-03-07 | Tilton | 63 | New Hampton | 68 | +2.8 | -5.0 |
 | 2026-03-07 | Worcester Academy | 44 | Wilbraham & Monson | 38 | +3.1 | +6.0 |
 | 2026-03-07 | Darrow | 67 | Northfield Mt. Hermon | 66 | +0.7 | +1.0 |
@@ -47,22 +48,20 @@ Generated: 2026-03-12 11:30
 | 2026-03-07 | Bishop Fenwick | 39 | Pentucket | 23 | +4.9 | +16.0 |
 | 2026-03-07 | Foxborough | 39 | Minnechaug | 45 | +11.2 | -6.0 |
 | 2026-03-07 | Springfield Central | 57 | Needham | 36 | +3.3 | +21.0 |
-| 2026-03-07 | Hoosac School | 70 | Tabor | 60 | +0.6 | +10.0 |
-| 2026-03-06 | St. John Paul II | 47 | Lenox | 37 | +14.4 | +10.0 |
+| 2026-03-07 | Loomis Chaffee (Conn.) | 42 | Phillips Andover | 40 | -0.2 | +2.0 |
+| 2026-03-06 | Bishop Feehan | 53 | Braintree | 44 | +6.9 | +9.0 |
 | 2026-03-06 | Apponequet | 44 | Pembroke | 40 | +15.7 | +4.0 |
 | 2026-03-06 | Whitman-Hanson | 51 | Oliver Ames | 47 | +7.1 | +4.0 |
 | 2026-03-06 | Medfield | 66 | Norwood | 46 | +11.3 | +20.0 |
 | 2026-03-06 | Medway | 53 | Cathedral | 41 | -1.5 | +12.0 |
 | 2026-03-06 | Pittsfield | 76 | North Reading | 46 | -6.5 | +30.0 |
-| 2026-03-06 | Douglas | 52 | Renaissance | 47 | +13.9 | +5.0 |
+| 2026-03-06 | Drury | 47 | Hoosac Valley | 41 | +15.4 | +6.0 |
 | 2026-03-06 | Millis | 50 | Manchester Essex | 35 | +6.3 | +15.0 |
 | 2026-03-06 | South Hadley | 54 | Southwick | 34 | -0.2 | +20.0 |
 | 2026-03-06 | Frontier | 59 | Tyngsborough | 46 | +11.4 | +13.0 |
+| 2026-03-06 | St. John Paul II | 47 | Lenox | 37 | +14.4 | +10.0 |
+| 2026-03-06 | Douglas | 52 | Renaissance | 47 | +13.9 | +5.0 |
 | 2026-03-06 | Andover | 44 | Worcester South | 36 | +12.9 | +8.0 |
-| 2026-03-06 | Drury | 47 | Hoosac Valley | 41 | +15.4 | +6.0 |
-| 2026-03-06 | Bishop Feehan | 53 | Braintree | 44 | +6.9 | +9.0 |
-| 2026-03-05 | St. Mary’s | 75 | Walpole | 43 | +12.0 | +32.0 |
-| 2026-03-05 | Wachusett | 63 | Natick | 26 | +5.7 | +37.0 |
 
 ## Current Elo Ratings
 
@@ -263,9 +262,9 @@ Generated: 2026-03-12 11:30
 | 193 | Monomoy | 1503.5 |
 | 194 | Winchester | 1503.3 |
 | 195 | Community Charter | 1502.8 |
-| 196 | Gann Academy | 1502.8 |
+| 196 | TechBoston/Henderson Inclusion School | 1502.8 |
 | 197 | Trivium | 1502.8 |
-| 198 | TechBoston/Henderson Inclusion School | 1502.8 |
+| 198 | Gann Academy | 1502.8 |
 | 199 | Wilbraham & Monson | 1501.4 |
 | 200 | Fenway | 1500.8 |
 | 201 | St. Thomas More | 1499.4 |
