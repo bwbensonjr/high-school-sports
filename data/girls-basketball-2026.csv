@@ -2459,19 +2459,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-02,87486,FINAL,Granby,4520,40.0,0.0,Hoosac Valley,4178,50.0,1.0,Independent,Independent,6:00 P.M.,,0
 2026-03-02,87489,FINAL,Minuteman,4255,46.0,1.0,Mahar,4226,43.0,0.0,Commonwealth,Independent,6:00 P.M.,,0
 2026-03-02,87507,FINAL,Drury,4120,61.0,1.0,Ware,4406,21.0,0.0,Independent,Independent,7:00 P.M.,,0
-2026-03-03,87000,FINAL,Woburn,4438,46,0,Needham,4272,54,1,Middlesex,Bay State,6:00 P.M.,,0
-2026-03-03,87003,FINAL,Braintree,4051,45,1,Billerica,4040,33,0,Bay State,Merrimack Valley,6:30 P.M.,,0
-2026-03-03,87006,FINAL,Natick,4270,65,1,Quincy,4326,37,0,Bay State,Patriot,6:00 P.M.,,0
-2026-03-03,87009,FINAL,Worcester South,4444,50,1,Malden Catholic,4228,29,0,CMAC,Catholic Conference,6:30 P.M.,,0
-2026-03-03,87012,FINAL,Andover,4009,55,1,Westford,4421,43,0,Merrimack Valley,Dual County,5:00 P.M.,,0
-2026-03-03,87018,FINAL,Bishop Feehan,4042,74,1,Franklin,4144,32,0,Catholic Central,Hockomock,6:30 P.M.,,0
-2026-03-03,87102,FINAL,Norwood,4297,61,1,North Quincy,4287,51,0,Tri-Valley,Patriot,6:00 P.M.,,0
-2026-03-03,87123,FINAL,Medfield,4241,80,1,Hingham,4171,33,0,Tri-Valley,Patriot,7:00 P.M.,,0
-2026-03-03,87225,FINAL,Pentucket,4309,51,1,Hanover,4164,30,0,Cape Ann,Patriot,6:00 P.M.,,0
-2026-03-03,87231,FINAL,Pembroke,4308,44,1,East Bridgewater,4126,43,0,Patriot,South Shore,6:00 P.M.,,0
-2026-03-03,87237,FINAL,Medway,4243,50,1,Norwell,4296,28,0,Tri-Valley,South Shore,6:00 P.M.,,0
-2026-03-03,87246,FINAL,Bishop Fenwick,4043,56,1,Lynnfield,4223,29,0,Catholic Central,Cape Ann,6:00 P.M.,,0
-2026-03-03,87504,FINAL,Hopedale,4507,53,1,Prospect Hill,4593,43,0,CMAC,Charter School Athletic,7:30 P.M.,,0
+2026-03-03,87000,FINAL,Woburn,4438,46.0,0.0,Needham,4272,54.0,1.0,Middlesex,Bay State,6:00 P.M.,,0
+2026-03-03,87003,FINAL,Braintree,4051,45.0,1.0,Billerica,4040,33.0,0.0,Bay State,Merrimack Valley,6:30 P.M.,,0
+2026-03-03,87006,FINAL,Natick,4270,65.0,1.0,Quincy,4326,37.0,0.0,Bay State,Patriot,6:00 P.M.,,0
+2026-03-03,87009,FINAL,Worcester South,4444,50.0,1.0,Malden Catholic,4228,29.0,0.0,CMAC,Catholic Conference,6:30 P.M.,,0
+2026-03-03,87012,FINAL,Andover,4009,55.0,1.0,Westford,4421,43.0,0.0,Merrimack Valley,Dual County,5:00 P.M.,,0
+2026-03-03,87018,FINAL,Bishop Feehan,4042,74.0,1.0,Franklin,4144,32.0,0.0,Catholic Central,Hockomock,6:30 P.M.,,0
+2026-03-03,87102,FINAL,Norwood,4297,61.0,1.0,North Quincy,4287,51.0,0.0,Tri-Valley,Patriot,6:00 P.M.,,0
+2026-03-03,87123,FINAL,Medfield,4241,80.0,1.0,Hingham,4171,33.0,0.0,Tri-Valley,Patriot,7:00 P.M.,,0
+2026-03-03,87225,FINAL,Pentucket,4309,51.0,1.0,Hanover,4164,30.0,0.0,Cape Ann,Patriot,6:00 P.M.,,0
+2026-03-03,87231,FINAL,Pembroke,4308,44.0,1.0,East Bridgewater,4126,43.0,0.0,Patriot,South Shore,6:00 P.M.,,0
+2026-03-03,87237,FINAL,Medway,4243,50.0,1.0,Norwell,4296,28.0,0.0,Tri-Valley,South Shore,6:00 P.M.,,0
+2026-03-03,87246,FINAL,Bishop Fenwick,4043,56.0,1.0,Lynnfield,4223,29.0,0.0,Catholic Central,Cape Ann,6:00 P.M.,,0
+2026-03-03,87504,FINAL,Hopedale,4507,53.0,1.0,Prospect Hill,4593,43.0,0.0,CMAC,Charter School Athletic,7:30 P.M.,,0
 2026-03-04,87021,FINAL,Springfield Central,4360,77,1,Bridgewater-Raynham,4053,45,0,Independent,Pioneer,6:00 P.M.,,0
 2026-03-04,87111,FINAL,Minnechaug,4254,50,1,Mansfield,4230,33,0,Independent,Hockomock,6:30 P.M.,,0
 2026-03-04,87114,FINAL,Foxborough,4142,56,1,Northampton,4291,43,0,Hockomock,Independent,6:00 P.M.,,0
@@ -2558,7 +2558,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-11,87327,FINAL,Millis,4251,47,0,South Hadley,4353,59,1,Tri-Valley,Independent,5:00 P.M.,,0
 2026-03-11,87330,FINAL,Frontier,4146,43,1,Millbury,4250,28,0,Independent,CMAC,6:00 P.M.,,0
 2026-03-11,87471,FINAL,Drury,4120,45,1,St. John Paul II,4689,27,0,Independent,Cape & Islands,5:00 P.M.,,0
-2026-03-13,87081,UPCOMING,Medfield,4241,,,St. Mary’s,4374,,,Tri-Valley,Catholic Central,6:15 P.M.,,0
+2026-03-13,87081,FINAL,Medfield,4241,72,1,St. Mary’s,4374,38,0,Tri-Valley,Catholic Central,6:15 P.M.,,0
 2026-03-14,86979,UPCOMING,Springfield Central,4360,,,Wachusett,4400,,,Independent,Mid-Wach,4:00 P.M.,,0
 2026-03-14,87324,UPCOMING,Frontier,4146,,,South Hadley,4353,,,Independent,Independent,12:00 P.M.,,0
 2026-03-15,87204,UPCOMING,Bishop Fenwick,4043,,,Pittsfield,4314,,,Catholic Central,Independent,4:00 P.M.,,0

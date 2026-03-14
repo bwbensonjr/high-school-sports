@@ -1,12 +1,11 @@
 # Boys Basketball - 2026 Season
 
-Generated: 2026-03-13 11:29
+Generated: 2026-03-14 11:22
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-03-13 | 8:00 P.M. | St. Mary’s | Masconomet | 58.1% | +2.8 |
 | 2026-03-14 | 6:00 P.M. | Hanover | Salem | 61.8% | +4.2 |
 | 2026-03-14 | 2:00 P.M. | Wareham | Georgetown | 57.5% | +2.6 |
 | 2026-03-15 | 6:00 P.M. | Central Catholic | Bishop Feehan | 70.6% | +7.6 |
@@ -16,52 +15,42 @@ Generated: 2026-03-13 11:29
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-03-13 | St. Mary’s | 59 | Masconomet | 58 | +2.8 | +1.0 |
 | 2026-03-11 | Roxbury Prep | 52 | Hoosac Valley | 56 | +3.2 | -4.0 |
 | 2026-03-11 | Holbrook | 68 | Prospect Hill | 65 | +8.5 | +3.0 |
 | 2026-03-11 | Central Catholic | 74 | Springfield Central | 64 | +16.4 | +10.0 |
 | 2026-03-11 | Andover | 73 | Bishop Feehan | 89 | +9.6 | -16.0 |
-| 2026-03-10 | Wareham | 80 | West Bridgewater | 66 | +5.4 | +14.0 |
-| 2026-03-10 | Millbury | 51 | Georgetown | 53 | +0.8 | -2.0 |
 | 2026-03-10 | Hanover | 46 | Greater Lawrence | 33 | +9.9 | +13.0 |
-| 2026-03-10 | Salem | 68 | Lynn Classical | 50 | +4.3 | +18.0 |
 | 2026-03-10 | Pope Francis | 48 | Masconomet | 50 | -7.4 | -2.0 |
+| 2026-03-10 | Salem | 68 | Lynn Classical | 50 | +4.3 | +18.0 |
+| 2026-03-10 | Millbury | 51 | Georgetown | 53 | +0.8 | -2.0 |
+| 2026-03-10 | Wareham | 80 | West Bridgewater | 66 | +5.4 | +14.0 |
 | 2026-03-09 | St. Mary’s | 38 | Plymouth South | 35 | +4.6 | +3.0 |
-| 2026-03-08 | Phillips Andover | 54 | Hotchkiss | 66 | +7.6 | -12.0 |
-| 2026-03-08 | Newman School | 101 | Hoosac School | 68 | +8.5 | +33.0 |
-| 2026-03-08 | Cushing | 64 | Cheshire Academy | 55 | +3.2 | +9.0 |
 | 2026-03-08 | Bancroft | 59 | Rocky Hill Country Day | 56 | +7.8 | +3.0 |
-| 2026-03-08 | St. Mark’s | 69 | Canterbury | 58 | +12.2 | +11.0 |
 | 2026-03-08 | Kingswood-Oxford | 52 | Holderness | 74 | +3.6 | -22.0 |
-| 2026-03-07 | Phillips Andover | 71 | Deerfield | 58 | +4.8 | +13.0 |
-| 2026-03-07 | Bancroft | 92 | Wheeler (R.I.) | 80 | +8.3 | +12.0 |
-| 2026-03-07 | Holderness | 80 | King (Conn.) | 58 | +4.0 | +22.0 |
-| 2026-03-07 | Kingswood-Oxford | 67 | N.Y. Military Academy | 51 | +2.9 | +16.0 |
-| 2026-03-07 | Canterbury | 48 | Rivers | 45 | -3.1 | +3.0 |
-| 2026-03-07 | St. Mark’s | 65 | Master’s (Conn.) | 47 | +14.1 | +18.0 |
-| 2026-03-07 | Hotchkiss | 69 | Phillips Exeter | 52 | -0.2 | +17.0 |
+| 2026-03-08 | St. Mark’s | 69 | Canterbury | 58 | +12.2 | +11.0 |
+| 2026-03-08 | Phillips Andover | 54 | Hotchkiss | 66 | +7.6 | -12.0 |
+| 2026-03-08 | Cushing | 64 | Cheshire Academy | 55 | +3.2 | +9.0 |
+| 2026-03-08 | Newman School | 101 | Hoosac School | 68 | +8.5 | +33.0 |
 | 2026-03-07 | Pope Francis | 68 | Oliver Ames | 56 | -0.7 | +12.0 |
-| 2026-03-07 | Hopedale | 51 | Prospect Hill | 67 | -1.0 | -16.0 |
 | 2026-03-07 | Central Catholic | 55 | Beverly | 53 | +4.1 | +2.0 |
-| 2026-03-07 | St. George’s | 74 | Cheshire Academy | 78 | +8.0 | -4.0 |
+| 2026-03-07 | Holderness | 80 | King (Conn.) | 58 | +4.0 | +22.0 |
+| 2026-03-07 | Newman School | 84 | New Hampton | 55 | +8.9 | +29.0 |
 | 2026-03-07 | Greater Lawrence | 57 | Norwell | 27 | +5.2 | +30.0 |
 | 2026-03-07 | Hanover | 65 | Medfield | 40 | +10.2 | +25.0 |
 | 2026-03-07 | Wareham | 74 | Wahconah | 51 | +9.1 | +23.0 |
+| 2026-03-07 | Hopedale | 51 | Prospect Hill | 67 | -1.0 | -16.0 |
 | 2026-03-07 | KIPP | 70 | Holbrook | 73 | -4.3 | -3.0 |
 | 2026-03-07 | Drury | 67 | Hoosac Valley | 73 | +11.5 | -6.0 |
-| 2026-03-07 | Newman School | 84 | New Hampton | 55 | +8.9 | +29.0 |
 | 2026-03-07 | Vermont Academy | 78 | Hoosac School | 87 | +4.6 | -9.0 |
+| 2026-03-07 | Kingswood-Oxford | 67 | N.Y. Military Academy | 51 | +2.9 | +16.0 |
 | 2026-03-07 | Cushing | 58 | Kimball Union | 41 | +2.6 | +17.0 |
-| 2026-03-06 | Salem | 56 | Cathedral | 40 | +9.7 | +16.0 |
-| 2026-03-06 | Bridgewater-Raynham | 60 | Bishop Feehan | 65 | +7.2 | -5.0 |
-| 2026-03-06 | Plymouth South | 50 | Mansfield | 42 | +1.6 | +8.0 |
-| 2026-03-06 | Masconomet | 61 | Burlington | 35 | +4.6 | +26.0 |
-| 2026-03-06 | St. Mary’s | 57 | Chicopee Comprehensive | 56 | +12.4 | +1.0 |
-| 2026-03-06 | Andover | 56 | Xaverian | 42 | +6.4 | +14.0 |
-| 2026-03-06 | Tewksbury | 59 | Lynn Classical | 68 | +2.2 | -9.0 |
-| 2026-03-06 | West Bridgewater | 61 | Clinton | 54 | +5.2 | +7.0 |
-| 2026-03-06 | Millbury | 59 | Lynn Tech | 28 | +1.9 | +31.0 |
-| 2026-03-06 | David Prouty | 55 | Roxbury Prep | 62 | +9.4 | -7.0 |
-| 2026-03-06 | BC High | 56 | Springfield Central | 62 | +12.0 | -6.0 |
+| 2026-03-07 | St. George’s | 74 | Cheshire Academy | 78 | +8.0 | -4.0 |
+| 2026-03-07 | Hotchkiss | 69 | Phillips Exeter | 52 | -0.2 | +17.0 |
+| 2026-03-07 | Phillips Andover | 71 | Deerfield | 58 | +4.8 | +13.0 |
+| 2026-03-07 | St. Mark’s | 65 | Master’s (Conn.) | 47 | +14.1 | +18.0 |
+| 2026-03-07 | Canterbury | 48 | Rivers | 45 | -3.1 | +3.0 |
+| 2026-03-07 | Bancroft | 92 | Wheeler (R.I.) | 80 | +8.3 | +12.0 |
 
 ## Current Elo Ratings
 
@@ -69,9 +58,9 @@ Generated: 2026-03-13 11:29
 |------|------|------------|
 | 1 | Hanover | 1955.1 |
 | 2 | Central Catholic | 1938.6 |
-| 3 | St. Mary’s | 1922.5 |
+| 3 | St. Mary’s | 1931.2 |
 | 4 | Salem | 1921.5 |
-| 5 | Masconomet | 1915.5 |
+| 5 | Masconomet | 1906.8 |
 | 6 | Beverly | 1871.4 |
 | 7 | Andover | 1851.1 |
 | 8 | Plymouth South | 1850.3 |
@@ -289,12 +278,12 @@ Generated: 2026-03-13 11:29
 | 220 | Newton South | 1503.5 |
 | 221 | Minnechaug | 1503.2 |
 | 222 | Frederick Gunn (Conn.) | 1503.0 |
-| 223 | North Haven (Conn.) | 1502.8 |
-| 224 | International School | 1502.8 |
-| 225 | Ruth Batson Academy | 1502.8 |
-| 226 | Waring | 1502.8 |
-| 227 | Bishop Connolly | 1502.8 |
-| 228 | Marie Philip | 1502.8 |
+| 223 | International School | 1502.8 |
+| 224 | Waring | 1502.8 |
+| 225 | North Haven (Conn.) | 1502.8 |
+| 226 | Ruth Batson Academy | 1502.8 |
+| 227 | Marie Philip | 1502.8 |
+| 228 | Bishop Connolly | 1502.8 |
 | 229 | Collegiate Charter | 1502.3 |
 | 230 | Pelham (N.H.) | 1502.3 |
 | 231 | Kimball Union | 1501.9 |

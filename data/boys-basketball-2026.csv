@@ -2588,26 +2588,26 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-02,86758,FINAL,Georgetown,4148,56.0,1.0,Sutton,4512,28.0,0.0,Cape Ann,CMAC,6:00 P.M.,,0
 2026-03-02,86761,FINAL,Millbury,4250,60.0,1.0,Hamilton-Wenham,4163,44.0,0.0,CMAC,Cape Ann,6:30 P.M.,,0
 2026-03-02,86881,FINAL,David Prouty,4106,78.0,1.0,Hull,4184,47.0,0.0,CMAC,South Shore,6:00 P.M.,,0
-2026-03-03,86371,FINAL,Malden Catholic,4228,64,0,Beverly,4038,68,1,Catholic Conference,Northeastern,6:30 P.M.,,0
-2026-03-03,86374,FINAL,Attleboro,4018,67,0,Xaverian,4446,74,1,Hockomock,Catholic Conference,6:30 P.M.,,0
-2026-03-03,86377,FINAL,Bridgewater-Raynham,4053,71,1,Winchester,4434,42,0,Pioneer,Middlesex,6:45 P.M.,,0
-2026-03-03,86383,FINAL,BC High,4029,64,1,Brockton,4058,45,0,Catholic Conference,Big Three,5:00 P.M.,,0
-2026-03-03,86389,FINAL,Andover,4009,72,1,Marshfield,4234,47,0,Merrimack Valley,Patriot,7:00 P.M.,,0
-2026-03-03,86497,FINAL,Oliver Ames,4302,70,1,Archbishop Williams,4012,66,0,Hockomock,Catholic Central,6:00 P.M.,,0
-2026-03-03,86503,FINAL,Mansfield,4230,63,1,Holland (Burke),4064,49,0,Hockomock,Boston City,6:30 P.M.,,0
-2026-03-03,86506,FINAL,Plymouth South,4316,60,1,Doherty,4116,54,0,Patriot,CMAC,6:00 P.M.,,0
-2026-03-03,86509,FINAL,Masconomet,4236,71,1,Nashoba,4267,50,0,Northeastern,Mid-Wach,6:30 P.M.,,0
-2026-03-03,86602,FINAL,Medfield,4241,50,1,Pembroke,4308,41,0,Tri-Valley,Patriot,5:00 P.M.,,0
-2026-03-03,86605,FINAL,Old Rochester,4301,46,0,Cathedral,4079,70,1,South Coast,Catholic Central,6:00 P.M.,,0
-2026-03-03,86608,FINAL,Lynn Classical,4220,55,1,Stoneham,4380,48,0,Greater Boston,Middlesex,7:00 P.M.,,0
-2026-03-03,86614,FINAL,Swampscott,4383,42,0,Norwell,4296,43,1,Northeastern,South Shore,6:00 P.M.,,0
-2026-03-03,86617,FINAL,Tewksbury,4389,73,1,Abington,4002,61,0,Merrimack Valley,South Shore,7:30 P.M.,,0
-2026-03-03,86620,FINAL,Salem,4336,53,1,Charlestown,4084,50,0,Northeastern,Boston City,6:30 P.M.,,0
-2026-03-03,86749,FINAL,Blue Hills,4047,62,1,Ipswich,4190,55,0,Mayflower,Cape Ann,6:30 P.M.,,0
-2026-03-03,86752,FINAL,New Mission,4494,56,0,Clinton,4093,62,1,Boston City,Mid-Wach,5:30 P.M.,,0
-2026-03-03,86872,FINAL,Prospect Hill,4593,27,0,Pioneer Charter I,4701,56,1,Charter School Athletic,Charter School Athletic,6:30 P.M.,,0
-2026-03-03,86878,FINAL,Roxbury Prep,4847,69,1,Boston United,4798,34,0,Charter School Athletic,Boston City,5:45 P.M.,,0
-2026-03-03,86887,FINAL,Hopedale,4507,58,1,Bethany Christian,4504,53,0,CMAC,Worcester County,5:00 P.M.,,0
+2026-03-03,86371,FINAL,Malden Catholic,4228,64.0,0.0,Beverly,4038,68.0,1.0,Catholic Conference,Northeastern,6:30 P.M.,,0
+2026-03-03,86374,FINAL,Attleboro,4018,67.0,0.0,Xaverian,4446,74.0,1.0,Hockomock,Catholic Conference,6:30 P.M.,,0
+2026-03-03,86377,FINAL,Bridgewater-Raynham,4053,71.0,1.0,Winchester,4434,42.0,0.0,Pioneer,Middlesex,6:45 P.M.,,0
+2026-03-03,86383,FINAL,BC High,4029,64.0,1.0,Brockton,4058,45.0,0.0,Catholic Conference,Big Three,5:00 P.M.,,0
+2026-03-03,86389,FINAL,Andover,4009,72.0,1.0,Marshfield,4234,47.0,0.0,Merrimack Valley,Patriot,7:00 P.M.,,0
+2026-03-03,86497,FINAL,Oliver Ames,4302,70.0,1.0,Archbishop Williams,4012,66.0,0.0,Hockomock,Catholic Central,6:00 P.M.,,0
+2026-03-03,86503,FINAL,Mansfield,4230,63.0,1.0,Holland (Burke),4064,49.0,0.0,Hockomock,Boston City,6:30 P.M.,,0
+2026-03-03,86506,FINAL,Plymouth South,4316,60.0,1.0,Doherty,4116,54.0,0.0,Patriot,CMAC,6:00 P.M.,,0
+2026-03-03,86509,FINAL,Masconomet,4236,71.0,1.0,Nashoba,4267,50.0,0.0,Northeastern,Mid-Wach,6:30 P.M.,,0
+2026-03-03,86602,FINAL,Medfield,4241,50.0,1.0,Pembroke,4308,41.0,0.0,Tri-Valley,Patriot,5:00 P.M.,,0
+2026-03-03,86605,FINAL,Old Rochester,4301,46.0,0.0,Cathedral,4079,70.0,1.0,South Coast,Catholic Central,6:00 P.M.,,0
+2026-03-03,86608,FINAL,Lynn Classical,4220,55.0,1.0,Stoneham,4380,48.0,0.0,Greater Boston,Middlesex,7:00 P.M.,,0
+2026-03-03,86614,FINAL,Swampscott,4383,42.0,0.0,Norwell,4296,43.0,1.0,Northeastern,South Shore,6:00 P.M.,,0
+2026-03-03,86617,FINAL,Tewksbury,4389,73.0,1.0,Abington,4002,61.0,0.0,Merrimack Valley,South Shore,7:30 P.M.,,0
+2026-03-03,86620,FINAL,Salem,4336,53.0,1.0,Charlestown,4084,50.0,0.0,Northeastern,Boston City,6:30 P.M.,,0
+2026-03-03,86749,FINAL,Blue Hills,4047,62.0,1.0,Ipswich,4190,55.0,0.0,Mayflower,Cape Ann,6:30 P.M.,,0
+2026-03-03,86752,FINAL,New Mission,4494,56.0,0.0,Clinton,4093,62.0,1.0,Boston City,Mid-Wach,5:30 P.M.,,0
+2026-03-03,86872,FINAL,Prospect Hill,4593,27.0,0.0,Pioneer Charter I,4701,56.0,1.0,Charter School Athletic,Charter School Athletic,6:30 P.M.,,0
+2026-03-03,86878,FINAL,Roxbury Prep,4847,69.0,1.0,Boston United,4798,34.0,0.0,Charter School Athletic,Boston City,5:45 P.M.,,0
+2026-03-03,86887,FINAL,Hopedale,4507,58.0,1.0,Bethany Christian,4504,53.0,0.0,CMAC,Worcester County,5:00 P.M.,,0
 2026-03-04,86380,FINAL,New Bedford,4273,82,0,Springfield Central,4360,93,1,Big Three,Independent,6:00 P.M.,,0
 2026-03-04,86386,FINAL,Bishop Feehan,4042,94,1,Needham,4272,87,0,Catholic Central,Bay State,6:15 P.M.,4.0,0
 2026-03-04,86392,FINAL,Central Catholic,4081,55,1,St. John’s (Shrewsbury),4368,52,0,Merrimack Valley,Catholic Conference,6:30 P.M.,,0
@@ -2696,7 +2696,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-11,86356,FINAL,Central Catholic,4081,74,1,Springfield Central,4360,64,0,Merrimack Valley,Independent,7:15 P.M.,1.0,0
 2026-03-11,86851,FINAL,Holbrook,4172,68,1,Prospect Hill,4593,65,0,Mayflower,Charter School Athletic,5:00 P.M.,,0
 2026-03-11,86854,FINAL,Roxbury Prep,4847,52,0,Hoosac Valley,4178,56,1,Charter School Athletic,Independent,7:00 P.M.,,0
-2026-03-13,86473,UPCOMING,St. Mary’s,4374,,,Masconomet,4236,,,Catholic Central,Northeastern,8:00 P.M.,,0
+2026-03-13,86473,FINAL,St. Mary’s,4374,59,1,Masconomet,4236,58,0,Catholic Central,Northeastern,8:00 P.M.,,0
 2026-03-14,86581,UPCOMING,Hanover,4164,,,Salem,4336,,,Patriot,Northeastern,6:00 P.M.,,0
 2026-03-14,86722,UPCOMING,Wareham,4407,,,Georgetown,4148,,,Independent,Cape Ann,2:00 P.M.,,0
 2026-03-15,86350,UPCOMING,Central Catholic,4081,,,Bishop Feehan,4042,,,Merrimack Valley,Catholic Central,6:00 P.M.,,0
