@@ -1,6 +1,6 @@
 # Girls Hockey - 2026 Season
 
-Generated: 2026-03-14 11:22
+Generated: 2026-03-15 11:24
 
 ## Upcoming Games
 
@@ -18,14 +18,6 @@ Generated: 2026-03-14 11:22
 | 2026-03-08 | Loomis Chaffee (Conn.) | 5 | Deerfield | 1 | +3.2 | +4.0 |
 | 2026-03-08 | Phillips Exeter | 4 | Choate | 2 | +2.9 | +2.0 |
 | 2026-03-08 | Groton | 1 | New Hampton | 0 | -0.1 | +1.0 |
-| 2026-03-07 | Notre Dame (Hingham) | 0 | Archbishop Williams | 1 | +3.7 | -1.0 |
-| 2026-03-07 | King Philip | 2 | Medfield | 0 | +6.4 | +2.0 |
-| 2026-03-07 | Groton | 2 | St. Mark’s | 0 | +0.9 | +2.0 |
-| 2026-03-07 | Choate | 3 | Taft | 1 | +1.2 | +2.0 |
-| 2026-03-07 | Nobles | 4 | Loomis Chaffee (Conn.) | 5 | +3.5 | -1.0 |
-| 2026-03-07 | Deerfield | 3 | Tabor | 2 | +1.7 | +1.0 |
-| 2026-03-07 | Cushing | 2 | New Hampton | 4 | +0.4 | -2.0 |
-| 2026-03-07 | Phillips Exeter | 5 | BB&N | 1 | +3.0 | +4.0 |
 
 ## Current Elo Ratings
 
@@ -96,9 +88,9 @@ Generated: 2026-03-14 11:22
 | 63 | Choate | 1504.0 |
 | 64 | Berkshire | 1503.9 |
 | 65 | Governor’s Academy | 1503.4 |
-| 66 | Millbrook (N.Y.) | 1502.8 |
+| 66 | Vermont Academy | 1502.8 |
 | 67 | Northfield Mt. Hermon | 1502.8 |
-| 68 | Vermont Academy | 1502.8 |
+| 68 | Millbrook (N.Y.) | 1502.8 |
 | 69 | Kents Hill | 1502.7 |
 | 70 | Central Catholic | 1502.0 |
 | 71 | Deerfield | 1499.9 |

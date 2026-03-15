@@ -845,22 +845,22 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-02,86183,FINAL,Bishop Stang,4045,5.0,1.0,HPNA,4283,1.0,0.0,Catholic Central,Merrimack Valley/Dual County,4:30 P.M.,,0
 2026-03-02,86285,FINAL,Auburn,4019,4.0,1.0,Falmouth,4134,1.0,0.0,Independent,Cape & Islands,6:00 P.M.,,0
 2026-03-02,86291,FINAL,Pembroke,4308,8.0,1.0,Hanover,4164,3.0,0.0,Patriot,Patriot,7:30 P.M.,,0
-2026-03-04,86171,FINAL,Bishop Feehan,4042,0,0,Archbishop Williams,4012,5,1,Catholic Central,Catholic Central,5:30 P.M.,,0
-2026-03-04,86174,FINAL,St. Mary’s,4374,1,1,Reading,4328,0,0,Catholic Central,Middlesex,5:15 P.M.,,0
-2026-03-04,86177,FINAL,Algonquin,4005,1,0,Methuen/Tewksbury,4246,2,1,Independent,Merrimack Valley/Dual County,5:00 P.M.,,0
-2026-03-04,86267,FINAL,Pembroke,4308,0,0,King Philip,4197,1,1,Patriot,Hockomock,5:15 P.M.,2.0,0
-2026-03-04,86270,FINAL,Milton,4252,2,1,NSA,4343,0,0,Bay State,Patriot,5:40 P.M.,,0
-2026-03-04,87646,FINAL,Nobles,4282,5,1,St. Paul’s,4375,4,0,ISL,Independent,3:30 P.M.,,0
-2026-03-04,87648,FINAL,Dexter Southfield,4113,3,0,Loomis Chaffee (Conn.),4215,7,1,Independent,Founders,3:00 P.M.,,0
-2026-03-04,87651,FINAL,Williston Northampton,4431,2,0,Deerfield,4110,3,1,Independent,Independent,4:15 P.M.,,0
-2026-03-04,87652,FINAL,Phillips Andover,4310,1,0,Tabor,4384,2,1,Independent,ISL,3:30 P.M.,1.0,0
-2026-03-04,87654,FINAL,Phillips Exeter,4311,4,1,Middlesex,4248,3,0,Independent,ISL,4:30 P.M.,1.0,0
-2026-03-04,87655,FINAL,BB&N,4028,3,1,Thayer,4390,1,0,ISL,ISL,4:00 P.M.,,0
-2026-03-04,87658,FINAL,Taft,4386,4,1,Berkshire,4036,1,0,Independent,Independent,3:00 P.M.,,0
-2026-03-04,87661,FINAL,Groton,4544,2,1,Frederick Gunn (Conn.),4161,1,0,ISL,Independent,3:00 P.M.,,0
-2026-03-04,87662,FINAL,Governor’s Academy,4152,0,0,St. Mark’s,4372,5,1,ISL,ISL,4:00 P.M.,,0
-2026-03-04,87665,FINAL,Cushing,4101,2,1,Portsmouth Abbey,4320,1,0,Independent,EIL,5:15 P.M.,1.0,0
-2026-03-04,87666,FINAL,Rivers,4330,1,0,New Hampton,4275,3,1,ISL,Independent,5:30 P.M.,,0
+2026-03-04,86171,FINAL,Bishop Feehan,4042,0.0,0.0,Archbishop Williams,4012,5.0,1.0,Catholic Central,Catholic Central,5:30 P.M.,,0
+2026-03-04,86174,FINAL,St. Mary’s,4374,1.0,1.0,Reading,4328,0.0,0.0,Catholic Central,Middlesex,5:15 P.M.,,0
+2026-03-04,86177,FINAL,Algonquin,4005,1.0,0.0,Methuen/Tewksbury,4246,2.0,1.0,Independent,Merrimack Valley/Dual County,5:00 P.M.,,0
+2026-03-04,86267,FINAL,Pembroke,4308,0.0,0.0,King Philip,4197,1.0,1.0,Patriot,Hockomock,5:15 P.M.,2.0,0
+2026-03-04,86270,FINAL,Milton,4252,2.0,1.0,NSA,4343,0.0,0.0,Bay State,Patriot,5:40 P.M.,,0
+2026-03-04,87646,FINAL,Nobles,4282,5.0,1.0,St. Paul’s,4375,4.0,0.0,ISL,Independent,3:30 P.M.,,0
+2026-03-04,87648,FINAL,Dexter Southfield,4113,3.0,0.0,Loomis Chaffee (Conn.),4215,7.0,1.0,Independent,Founders,3:00 P.M.,,0
+2026-03-04,87651,FINAL,Williston Northampton,4431,2.0,0.0,Deerfield,4110,3.0,1.0,Independent,Independent,4:15 P.M.,,0
+2026-03-04,87652,FINAL,Phillips Andover,4310,1.0,0.0,Tabor,4384,2.0,1.0,Independent,ISL,3:30 P.M.,1.0,0
+2026-03-04,87654,FINAL,Phillips Exeter,4311,4.0,1.0,Middlesex,4248,3.0,0.0,Independent,ISL,4:30 P.M.,1.0,0
+2026-03-04,87655,FINAL,BB&N,4028,3.0,1.0,Thayer,4390,1.0,0.0,ISL,ISL,4:00 P.M.,,0
+2026-03-04,87658,FINAL,Taft,4386,4.0,1.0,Berkshire,4036,1.0,0.0,Independent,Independent,3:00 P.M.,,0
+2026-03-04,87661,FINAL,Groton,4544,2.0,1.0,Frederick Gunn (Conn.),4161,1.0,0.0,ISL,Independent,3:00 P.M.,,0
+2026-03-04,87662,FINAL,Governor’s Academy,4152,0.0,0.0,St. Mark’s,4372,5.0,1.0,ISL,ISL,4:00 P.M.,,0
+2026-03-04,87665,FINAL,Cushing,4101,2.0,1.0,Portsmouth Abbey,4320,1.0,0.0,Independent,EIL,5:15 P.M.,1.0,0
+2026-03-04,87666,FINAL,Rivers,4330,1.0,0.0,New Hampton,4275,3.0,1.0,ISL,Independent,5:30 P.M.,,0
 2026-03-05,86180,FINAL,Notre Dame (Hingham),4449,2,1,Bishop Stang,4045,1,0,Independent,Catholic Central,5:40 P.M.,1.0,0
 2026-03-05,86273,FINAL,Duxbury,4123,5,1,Auburn,4019,0,0,Patriot,Independent,5:15 P.M.,,0
 2026-03-05,86276,FINAL,Westwood,4424,0,0,Medfield,4241,1,1,Tri-Valley,Tri-Valley,6:00 P.M.,1.0,0

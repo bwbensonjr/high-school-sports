@@ -1,6 +1,6 @@
 # Boys Hockey - 2026 Season
 
-Generated: 2026-03-14 11:22
+Generated: 2026-03-15 11:23
 
 ## Upcoming Games
 
@@ -23,14 +23,6 @@ Generated: 2026-03-14 11:22
 | 2026-03-08 | Cushing | 7 | Brunswick | 0 | +4.8 | +7.0 |
 | 2026-03-08 | Holderness | 2 | Winchendon | 5 | +1.3 | -3.0 |
 | 2026-03-08 | Avon Old Farms | 4 | St. Mark’s | 2 | -5.4 | +2.0 |
-| 2026-03-07 | Tewksbury | 5 | Westwood | 3 | +5.4 | +2.0 |
-| 2026-03-07 | Littleton/Bromfield | 5 | Dover-Sherborn/Weston | 1 | +8.1 | +4.0 |
-| 2026-03-07 | Winthrop | 3 | St. Bernard’s | 6 | -2.3 | -3.0 |
-| 2026-03-07 | Tabor | 4 | Brunswick | 5 | +4.0 | -1.0 |
-| 2026-03-07 | Cushing | 6 | Phillips Andover | 1 | +0.6 | +5.0 |
-| 2026-03-07 | Holderness | 1 | Berkshire | 0 | +3.1 | +1.0 |
-| 2026-03-07 | Winchendon | 2 | Canterbury | 1 | +6.2 | +1.0 |
-| 2026-03-07 | St. Mark’s | 7 | Kimball Union | 3 | +8.2 | +4.0 |
 
 ## Current Elo Ratings
 
@@ -154,8 +146,8 @@ Generated: 2026-03-14 11:22
 | 116 | Governor’s Academy | 1506.6 |
 | 117 | Deerfield | 1504.2 |
 | 118 | Billerica | 1503.0 |
-| 119 | Timberlane (N.H.) | 1502.8 |
-| 120 | Darien (Conn.) | 1502.8 |
+| 119 | Darien (Conn.) | 1502.8 |
+| 120 | Timberlane (N.H.) | 1502.8 |
 | 121 | Worcester | 1502.3 |
 | 122 | Canterbury | 1499.4 |
 | 123 | Weston | 1497.5 |
@@ -169,9 +161,9 @@ Generated: 2026-03-14 11:22
 | 131 | Northwood (N.Y.) | 1491.6 |
 | 132 | Amesbury/Whittier | 1491.3 |
 | 133 | Central Catholic | 1491.1 |
-| 134 | Stanstead (Canada) | 1490.8 |
-| 135 | La Salle (R.I.) | 1490.8 |
-| 136 | Loomis Chaffee (Conn.) | 1490.8 |
+| 134 | La Salle (R.I.) | 1490.8 |
+| 135 | Loomis Chaffee (Conn.) | 1490.8 |
+| 136 | Stanstead (Canada) | 1490.8 |
 | 137 | Hoosac School | 1490.2 |
 | 138 | Fairfield Prep (Conn.) | 1489.9 |
 | 139 | St. Paul’s | 1489.7 |
