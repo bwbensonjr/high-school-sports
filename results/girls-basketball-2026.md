@@ -1,37 +1,31 @@
 # Girls Basketball - 2026 Season
 
-Generated: 2026-03-15 11:24
+Generated: 2026-03-16 11:44
 
 ## Upcoming Games
 
-| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
-|------|------|-----------|-----------|------------|------------------|
-| 2026-03-15 | 4:00 P.M. | Bishop Fenwick | Pittsfield | 61.6% | +4.1 |
-| 2026-03-15 | 12:00 P.M. | Drury | Hopedale | 59.4% | +3.3 |
+*No upcoming games scheduled*
+
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-03-14 | Frontier | 38 | South Hadley | 49 | +7.8 | -11.0 |
+| 2026-03-15 | Bishop Fenwick | 49 | Pittsfield | 44 | +4.1 | +5.0 |
+| 2026-03-15 | Drury | 35 | Hopedale | 48 | +3.3 | -13.0 |
 | 2026-03-14 | Springfield Central | 47 | Wachusett | 55 | -5.3 | -8.0 |
+| 2026-03-14 | Frontier | 38 | South Hadley | 49 | +7.8 | -11.0 |
 | 2026-03-13 | Medfield | 72 | St. Mary’s | 38 | +7.3 | +34.0 |
-| 2026-03-11 | Drury | 45 | St. John Paul II | 27 | +3.5 | +18.0 |
-| 2026-03-11 | Frontier | 43 | Millbury | 28 | +5.4 | +15.0 |
 | 2026-03-11 | Millis | 47 | South Hadley | 59 | +4.6 | -12.0 |
-| 2026-03-10 | Medfield | 53 | Minnechaug | 32 | +17.4 | +21.0 |
-| 2026-03-10 | Hopedale | 45 | Douglas | 41 | -3.3 | +4.0 |
-| 2026-03-10 | Bishop Fenwick | 55 | Medway | 38 | +3.9 | +17.0 |
+| 2026-03-11 | Frontier | 43 | Millbury | 28 | +5.4 | +15.0 |
+| 2026-03-11 | Drury | 45 | St. John Paul II | 27 | +3.5 | +18.0 |
 | 2026-03-10 | Springfield Central | 69 | Andover | 29 | -7.8 | +40.0 |
-| 2026-03-09 | Pittsfield | 56 | Apponequet | 26 | -6.4 | +30.0 |
-| 2026-03-09 | Whitman-Hanson | 40 | St. Mary’s | 41 | -1.2 | -1.0 |
+| 2026-03-10 | Medfield | 53 | Minnechaug | 32 | +17.4 | +21.0 |
+| 2026-03-10 | Bishop Fenwick | 55 | Medway | 38 | +3.9 | +17.0 |
+| 2026-03-10 | Hopedale | 45 | Douglas | 41 | -3.3 | +4.0 |
 | 2026-03-09 | Bishop Feehan | 44 | Wachusett | 54 | +0.2 | -10.0 |
-| 2026-03-08 | Hoosac School | 39 | New Hampton | 37 | +0.5 | +2.0 |
-| 2026-03-08 | Wheeler (R.I.) | 35 | Berwick | 45 | +1.7 | -10.0 |
-| 2026-03-08 | Kimball Union | 47 | Hamden Hall Country Day | 55 | +2.0 | -8.0 |
-| 2026-03-08 | Loomis Chaffee (Conn.) | 43 | Sacred Heart (Conn.) | 53 | +0.7 | -10.0 |
-| 2026-03-08 | Darrow | 55 | Worcester Academy | 40 | +0.0 | +15.0 |
-| 2026-03-08 | Berkshire | 61 | Lawrence Academy | 57 | -6.8 | +4.0 |
+| 2026-03-09 | Whitman-Hanson | 40 | St. Mary’s | 41 | -1.2 | -1.0 |
+| 2026-03-09 | Pittsfield | 56 | Apponequet | 26 | -6.4 | +30.0 |
 
 ## Current Elo Ratings
 
@@ -40,33 +34,33 @@ Generated: 2026-03-15 11:24
 | 1 | Medfield | 2106.1 |
 | 2 | Wachusett | 2026.0 |
 | 3 | St. Mary’s | 1945.2 |
-| 4 | Andover | 1895.1 |
-| 5 | Apponequet | 1893.8 |
-| 6 | Bishop Fenwick | 1886.7 |
+| 4 | Bishop Fenwick | 1907.4 |
+| 5 | Andover | 1895.1 |
+| 6 | Apponequet | 1893.8 |
 | 7 | Bishop Feehan | 1884.6 |
 | 8 | Whitman-Hanson | 1884.5 |
-| 9 | Pittsfield | 1854.8 |
-| 10 | Douglas | 1848.7 |
-| 11 | Norwood | 1848.5 |
-| 12 | Foxborough | 1847.5 |
-| 13 | Minuteman | 1846.0 |
-| 14 | South Hadley | 1840.3 |
-| 15 | Frontier | 1839.7 |
-| 16 | Natick | 1827.2 |
-| 17 | North Reading | 1825.3 |
-| 18 | Springfield Central | 1824.3 |
-| 19 | Cathedral | 1820.4 |
-| 20 | Danvers | 1812.2 |
-| 21 | Drury | 1805.5 |
+| 9 | Douglas | 1848.7 |
+| 10 | Norwood | 1848.5 |
+| 11 | Foxborough | 1847.5 |
+| 12 | Minuteman | 1846.0 |
+| 13 | South Hadley | 1840.3 |
+| 14 | Frontier | 1839.7 |
+| 15 | Hopedale | 1836.4 |
+| 16 | Pittsfield | 1834.1 |
+| 17 | Natick | 1827.2 |
+| 18 | North Reading | 1825.3 |
+| 19 | Springfield Central | 1824.3 |
+| 20 | Cathedral | 1820.4 |
+| 21 | Danvers | 1812.2 |
 | 22 | O’Bryant | 1803.4 |
 | 23 | Medway | 1790.7 |
 | 24 | Braintree | 1790.4 |
-| 25 | Hopedale | 1789.4 |
-| 26 | Old Rochester | 1778.4 |
-| 27 | Millbury | 1776.2 |
-| 28 | Oliver Ames | 1771.8 |
-| 29 | Greater New Bedford | 1771.2 |
-| 30 | Woburn | 1765.2 |
+| 25 | Old Rochester | 1778.4 |
+| 26 | Millbury | 1776.2 |
+| 27 | Oliver Ames | 1771.8 |
+| 28 | Greater New Bedford | 1771.2 |
+| 29 | Woburn | 1765.2 |
+| 30 | Drury | 1758.5 |
 | 31 | Westford | 1755.1 |
 | 32 | Minnechaug | 1753.6 |
 | 33 | Tahanto | 1752.5 |
@@ -232,8 +226,8 @@ Generated: 2026-03-15 11:24
 | 193 | Monomoy | 1503.5 |
 | 194 | Winchester | 1503.3 |
 | 195 | Community Charter | 1502.8 |
-| 196 | Trivium | 1502.8 |
-| 197 | Gann Academy | 1502.8 |
+| 196 | Gann Academy | 1502.8 |
+| 197 | Trivium | 1502.8 |
 | 198 | TechBoston/Henderson Inclusion School | 1502.8 |
 | 199 | Wilbraham & Monson | 1501.4 |
 | 200 | Fenway | 1500.8 |

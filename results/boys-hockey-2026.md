@@ -1,48 +1,40 @@
 # Boys Hockey - 2026 Season
 
-Generated: 2026-03-15 11:23
+Generated: 2026-03-16 11:44
 
 ## Upcoming Games
 
-| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
-|------|------|-----------|-----------|------------|------------------|
-| 2026-03-15 | 1:00 P.M. | Pope Francis | St. John’s (Shrewsbury) | 66.8% | +4.9 |
-| 2026-03-15 | 3:00 P.M. | Canton | Tewksbury | 63.2% | +3.8 |
-| 2026-03-15 | 11:00 A.M. | Hanover | Medfield | 58.5% | +2.4 |
-| 2026-03-15 | 7:30 P.M. | Littleton/Bromfield | St. Bernard’s | 65.0% | +4.3 |
+*No upcoming games scheduled*
+
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-03-08 | Hingham | 4 | Pope Francis | 5 | +2.8 | -1.0 |
-| 2026-03-08 | Arlington | 2 | St. John’s (Shrewsbury) | 3 | +6.9 | -1.0 |
-| 2026-03-08 | Canton | 6 | Burlington | 2 | +8.9 | +4.0 |
-| 2026-03-08 | Nauset | 0 | Medfield | 5 | +3.4 | -5.0 |
-| 2026-03-08 | Hanover | 3 | Shawsheen | 1 | +1.0 | +2.0 |
-| 2026-03-08 | Cushing | 7 | Brunswick | 0 | +4.8 | +7.0 |
-| 2026-03-08 | Holderness | 2 | Winchendon | 5 | +1.3 | -3.0 |
-| 2026-03-08 | Avon Old Farms | 4 | St. Mark’s | 2 | -5.4 | +2.0 |
+| 2026-03-15 | Pope Francis | 2 | St. John’s (Shrewsbury) | 1 | +4.9 | +1.0 |
+| 2026-03-15 | Canton | 2 | Tewksbury | 1 | +3.8 | +1.0 |
+| 2026-03-15 | Hanover | 7 | Medfield | 5 | +2.4 | +2.0 |
+| 2026-03-15 | Littleton/Bromfield | 5 | St. Bernard’s | 1 | +4.3 | +4.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Canton | 1840.9 |
-| 2 | Tewksbury | 1796.8 |
-| 3 | Littleton/Bromfield | 1793.9 |
-| 4 | Hanover | 1774.7 |
+| 1 | Canton | 1848.6 |
+| 2 | Littleton/Bromfield | 1810.8 |
+| 3 | Tewksbury | 1789.2 |
+| 4 | Hanover | 1788.4 |
 | 5 | Shawsheen | 1769.1 |
-| 6 | Medfield | 1764.8 |
-| 7 | Catholic Memorial | 1762.5 |
-| 8 | St. Bernard’s | 1736.3 |
-| 9 | Dracut/Tyngsborough | 1733.8 |
-| 10 | Wachusett | 1732.6 |
-| 11 | Nauset | 1732.5 |
+| 6 | Catholic Memorial | 1762.5 |
+| 7 | Medfield | 1751.1 |
+| 8 | Dracut/Tyngsborough | 1733.8 |
+| 9 | Wachusett | 1732.6 |
+| 10 | Nauset | 1732.5 |
+| 11 | St. Bernard’s | 1719.4 |
 | 12 | Arlington | 1714.2 |
 | 13 | St. John’s Prep | 1705.2 |
-| 14 | St. Mark’s | 1698.0 |
-| 15 | Pope Francis | 1694.0 |
+| 14 | Pope Francis | 1700.8 |
+| 15 | St. Mark’s | 1698.0 |
 | 16 | Westwood | 1691.4 |
 | 17 | Hingham | 1689.5 |
 | 18 | Reading | 1682.2 |
@@ -58,15 +50,15 @@ Generated: 2026-03-15 11:23
 | 28 | Marshfield | 1637.4 |
 | 29 | McCann Tech | 1636.1 |
 | 30 | Methuen | 1623.2 |
-| 31 | St. John’s (Shrewsbury) | 1622.1 |
-| 32 | North Attleborough | 1620.4 |
-| 33 | Gloucester | 1620.2 |
-| 34 | Hopkinton | 1619.2 |
-| 35 | Dover-Sherborn/Weston | 1618.8 |
-| 36 | Marlborough | 1618.4 |
-| 37 | Essex Tech | 1617.8 |
-| 38 | Nashoba | 1615.9 |
-| 39 | King Philip | 1615.6 |
+| 31 | North Attleborough | 1620.4 |
+| 32 | Gloucester | 1620.2 |
+| 33 | Hopkinton | 1619.2 |
+| 34 | Dover-Sherborn/Weston | 1618.8 |
+| 35 | Marlborough | 1618.4 |
+| 36 | Essex Tech | 1617.8 |
+| 37 | Nashoba | 1615.9 |
+| 38 | King Philip | 1615.6 |
+| 39 | St. John’s (Shrewsbury) | 1615.2 |
 | 40 | Stoneham | 1614.8 |
 | 41 | North Reading | 1603.6 |
 | 42 | Middleborough | 1602.3 |
@@ -146,8 +138,8 @@ Generated: 2026-03-15 11:23
 | 116 | Governor’s Academy | 1506.6 |
 | 117 | Deerfield | 1504.2 |
 | 118 | Billerica | 1503.0 |
-| 119 | Darien (Conn.) | 1502.8 |
-| 120 | Timberlane (N.H.) | 1502.8 |
+| 119 | Timberlane (N.H.) | 1502.8 |
+| 120 | Darien (Conn.) | 1502.8 |
 | 121 | Worcester | 1502.3 |
 | 122 | Canterbury | 1499.4 |
 | 123 | Weston | 1497.5 |

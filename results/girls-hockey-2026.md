@@ -1,37 +1,32 @@
 # Girls Hockey - 2026 Season
 
-Generated: 2026-03-15 11:24
+Generated: 2026-03-16 11:44
 
 ## Upcoming Games
 
-| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
-|------|------|-----------|-----------|------------|------------------|
-| 2026-03-15 | 5:30 P.M. | Methuen/Tewksbury | Archbishop Williams | 63.2% | +3.7 |
-| 2026-03-15 | 9:00 A.M. | Milton | King Philip | 61.2% | +3.2 |
+*No upcoming games scheduled*
+
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-03-08 | St. Mary’s | 1 | Methuen/Tewksbury | 2 | +0.7 | -1.0 |
-| 2026-03-08 | Milton | 2 | Duxbury | 1 | +5.7 | +1.0 |
-| 2026-03-08 | Loomis Chaffee (Conn.) | 5 | Deerfield | 1 | +3.2 | +4.0 |
-| 2026-03-08 | Phillips Exeter | 4 | Choate | 2 | +2.9 | +2.0 |
-| 2026-03-08 | Groton | 1 | New Hampton | 0 | -0.1 | +1.0 |
+| 2026-03-15 | Methuen/Tewksbury | 2 | Archbishop Williams | 0 | +3.7 | +2.0 |
+| 2026-03-15 | Milton | 2 | King Philip | 1 | +3.2 | +1.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Milton | 1768.4 |
-| 2 | Methuen/Tewksbury | 1757.4 |
+| 1 | Milton | 1776.5 |
+| 2 | Methuen/Tewksbury | 1769.5 |
 | 3 | Westwood | 1751.2 |
 | 4 | Algonquin | 1747.4 |
-| 5 | King Philip | 1739.4 |
+| 5 | King Philip | 1731.3 |
 | 6 | Notre Dame (Hingham) | 1730.6 |
-| 7 | Archbishop Williams | 1713.7 |
-| 8 | Pembroke | 1708.0 |
-| 9 | St. Mary’s | 1703.7 |
+| 7 | Pembroke | 1708.0 |
+| 8 | St. Mary’s | 1703.7 |
+| 9 | Archbishop Williams | 1701.6 |
 | 10 | Reading | 1676.5 |
 | 11 | Bishop Feehan | 1669.7 |
 | 12 | Woburn | 1668.3 |
@@ -88,9 +83,9 @@ Generated: 2026-03-15 11:24
 | 63 | Choate | 1504.0 |
 | 64 | Berkshire | 1503.9 |
 | 65 | Governor’s Academy | 1503.4 |
-| 66 | Vermont Academy | 1502.8 |
+| 66 | Millbrook (N.Y.) | 1502.8 |
 | 67 | Northfield Mt. Hermon | 1502.8 |
-| 68 | Millbrook (N.Y.) | 1502.8 |
+| 68 | Vermont Academy | 1502.8 |
 | 69 | Kents Hill | 1502.7 |
 | 70 | Central Catholic | 1502.0 |
 | 71 | Deerfield | 1499.9 |

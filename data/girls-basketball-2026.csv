@@ -2510,8 +2510,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-04,87781,FINAL,Chapel Hill,4082,39.0,0.0,Lexington Christian,4210,56.0,1.0,IGC,EIL,4:00 P.M.,,0
 2026-03-04,87784,FINAL,Berwick,4037,64.0,1.0,Harvey (N.Y.),4166,38.0,0.0,EIL,Independent,4:00 P.M.,,0
 2026-03-04,87786,FINAL,Bancroft,4023,61.0,0.0,St. Thomas More,4379,62.0,1.0,EIL,Independent,4:00 P.M.,,0
-2026-03-05,86994,FINAL,Wachusett,4400,63,1,Natick,4270,26,0,Mid-Wach,Bay State,6:00 P.M.,,0
-2026-03-05,87096,FINAL,St. Mary’s,4374,75,1,Walpole,4404,43,0,Catholic Central,Bay State,6:30 P.M.,,0
+2026-03-05,86994,FINAL,Wachusett,4400,63.0,1.0,Natick,4270,26.0,0.0,Mid-Wach,Bay State,6:00 P.M.,,0
+2026-03-05,87096,FINAL,St. Mary’s,4374,75.0,1.0,Walpole,4404,43.0,0.0,Catholic Central,Bay State,6:30 P.M.,,0
 2026-03-06,86988,FINAL,Andover,4009,44,1,Worcester South,4444,36,0,Merrimack Valley,CMAC,5:00 P.M.,,0
 2026-03-06,86991,FINAL,Bishop Feehan,4042,53,1,Braintree,4051,44,0,Catholic Central,Bay State,5:00 P.M.,,0
 2026-03-06,87093,FINAL,Whitman-Hanson,4427,51,1,Oliver Ames,4302,47,0,Patriot,Hockomock,6:00 P.M.,,0
@@ -2561,5 +2561,5 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-13,87081,FINAL,Medfield,4241,72,1,St. Mary’s,4374,38,0,Tri-Valley,Catholic Central,6:15 P.M.,,0
 2026-03-14,86979,FINAL,Springfield Central,4360,47,0,Wachusett,4400,55,1,Independent,Mid-Wach,4:00 P.M.,,0
 2026-03-14,87324,FINAL,Frontier,4146,38,0,South Hadley,4353,49,1,Independent,Independent,12:00 P.M.,,0
-2026-03-15,87204,UPCOMING,Bishop Fenwick,4043,,,Pittsfield,4314,,,Catholic Central,Independent,4:00 P.M.,,0
-2026-03-15,87465,UPCOMING,Drury,4120,,,Hopedale,4507,,,Independent,CMAC,12:00 P.M.,,0
+2026-03-15,87204,FINAL,Bishop Fenwick,4043,49,1,Pittsfield,4314,44,0,Catholic Central,Independent,4:00 P.M.,,0
+2026-03-15,87465,FINAL,Drury,4120,35,0,Hopedale,4507,48,1,Independent,CMAC,12:00 P.M.,,0

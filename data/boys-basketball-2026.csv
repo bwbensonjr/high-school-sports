@@ -2648,8 +2648,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-04,87737,FINAL,Wheeler (R.I.),4426,68.0,1.0,Chapel Hill,4082,47.0,0.0,EIL,MBIL,4:00 P.M.,,0
 2026-03-04,87738,FINAL,Gann Academy,4541,57.0,1.0,Harvey (N.Y.),4166,52.0,0.0,MBIL,Independent,6:00 P.M.,,0
 2026-03-04,87739,FINAL,Rocky Hill Country Day,4332,69.0,1.0,Watkinson,4410,53.0,0.0,Independent,Independent,5:00 P.M.,,0
-2026-03-05,86737,FINAL,Georgetown,4148,66,1,Blue Hills,4047,63,0,Cape Ann,Mayflower,6:00 P.M.,,0
-2026-03-05,87799,FINAL,Rocky Hill Country Day,4332,61,1,Gann Academy,4541,41,0,Independent,MBIL,,,0
+2026-03-05,86737,FINAL,Georgetown,4148,66.0,1.0,Blue Hills,4047,63.0,0.0,Cape Ann,Mayflower,6:00 P.M.,,0
+2026-03-05,87799,FINAL,Rocky Hill Country Day,4332,61.0,1.0,Gann Academy,4541,41.0,0.0,Independent,MBIL,,,0
 2026-03-06,86359,FINAL,BC High,4029,56,0,Springfield Central,4360,62,1,Catholic Conference,Independent,6:00 P.M.,,0
 2026-03-06,86362,FINAL,Andover,4009,56,1,Xaverian,4446,42,0,Merrimack Valley,Catholic Conference,7:00 P.M.,,0
 2026-03-06,86365,FINAL,Bridgewater-Raynham,4053,60,0,Bishop Feehan,4042,65,1,Pioneer,Catholic Central,7:30 P.M.,2.0,0
@@ -2699,5 +2699,5 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-13,86473,FINAL,St. Mary’s,4374,59,1,Masconomet,4236,58,0,Catholic Central,Northeastern,8:00 P.M.,,0
 2026-03-14,86581,FINAL,Hanover,4164,51,0,Salem,4336,57,1,Patriot,Northeastern,6:00 P.M.,,0
 2026-03-14,86722,FINAL,Wareham,4407,80,1,Georgetown,4148,73,0,Independent,Cape Ann,2:00 P.M.,,0
-2026-03-15,86350,UPCOMING,Central Catholic,4081,,,Bishop Feehan,4042,,,Merrimack Valley,Catholic Central,6:00 P.M.,,0
-2026-03-15,86848,UPCOMING,Hoosac Valley,4178,,,Holbrook,4172,,,Independent,Mayflower,2:00 P.M.,,0
+2026-03-15,86350,FINAL,Central Catholic,4081,63,0,Bishop Feehan,4042,66,1,Merrimack Valley,Catholic Central,6:00 P.M.,,0
+2026-03-15,86848,FINAL,Hoosac Valley,4178,91,1,Holbrook,4172,76,0,Independent,Mayflower,2:00 P.M.,,0
