@@ -2512,19 +2512,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-04,87786,FINAL,Bancroft,4023,61.0,0.0,St. Thomas More,4379,62.0,1.0,EIL,Independent,4:00 P.M.,,0
 2026-03-05,86994,FINAL,Wachusett,4400,63.0,1.0,Natick,4270,26.0,0.0,Mid-Wach,Bay State,6:00 P.M.,,0
 2026-03-05,87096,FINAL,St. Mary’s,4374,75.0,1.0,Walpole,4404,43.0,0.0,Catholic Central,Bay State,6:30 P.M.,,0
-2026-03-06,86988,FINAL,Andover,4009,44,1,Worcester South,4444,36,0,Merrimack Valley,CMAC,5:00 P.M.,,0
-2026-03-06,86991,FINAL,Bishop Feehan,4042,53,1,Braintree,4051,44,0,Catholic Central,Bay State,5:00 P.M.,,0
-2026-03-06,87093,FINAL,Whitman-Hanson,4427,51,1,Oliver Ames,4302,47,0,Patriot,Hockomock,6:00 P.M.,,0
-2026-03-06,87099,FINAL,Medfield,4241,66,1,Norwood,4297,46,0,Tri-Valley,Tri-Valley,6:00 P.M.,,0
-2026-03-06,87213,FINAL,Medway,4243,53,1,Cathedral,4079,41,0,Tri-Valley,Catholic Central,5:00 P.M.,,0
-2026-03-06,87216,FINAL,Pittsfield,4314,76,1,North Reading,4288,46,0,Independent,Cape Ann,6:00 P.M.,,0
-2026-03-06,87219,FINAL,Apponequet,4011,44,1,Pembroke,4308,40,0,South Coast,Patriot,6:00 P.M.,,0
-2026-03-06,87336,FINAL,Millis,4251,50,1,Manchester Essex,4229,35,0,Tri-Valley,Cape Ann,6:00 P.M.,,0
-2026-03-06,87339,FINAL,South Hadley,4353,54,1,Southwick,4519,34,0,Independent,Independent,6:00 P.M.,,0
-2026-03-06,87342,FINAL,Frontier,4146,59,1,Tyngsborough,4397,46,0,Independent,Mid-Wach,6:00 P.M.,,0
-2026-03-06,87474,FINAL,St. John Paul II,4689,47,1,Lenox,4532,37,0,Cape & Islands,Independent,5:30 P.M.,,0
-2026-03-06,87480,FINAL,Douglas,4506,52,1,Renaissance,4664,47,0,CMAC,Independent,6:00 P.M.,,0
-2026-03-06,87483,FINAL,Drury,4120,47,1,Hoosac Valley,4178,41,0,Independent,Independent,6:00 P.M.,,0
+2026-03-06,86988,FINAL,Andover,4009,44.0,1.0,Worcester South,4444,36.0,0.0,Merrimack Valley,CMAC,5:00 P.M.,,0
+2026-03-06,86991,FINAL,Bishop Feehan,4042,53.0,1.0,Braintree,4051,44.0,0.0,Catholic Central,Bay State,5:00 P.M.,,0
+2026-03-06,87093,FINAL,Whitman-Hanson,4427,51.0,1.0,Oliver Ames,4302,47.0,0.0,Patriot,Hockomock,6:00 P.M.,,0
+2026-03-06,87099,FINAL,Medfield,4241,66.0,1.0,Norwood,4297,46.0,0.0,Tri-Valley,Tri-Valley,6:00 P.M.,,0
+2026-03-06,87213,FINAL,Medway,4243,53.0,1.0,Cathedral,4079,41.0,0.0,Tri-Valley,Catholic Central,5:00 P.M.,,0
+2026-03-06,87216,FINAL,Pittsfield,4314,76.0,1.0,North Reading,4288,46.0,0.0,Independent,Cape Ann,6:00 P.M.,,0
+2026-03-06,87219,FINAL,Apponequet,4011,44.0,1.0,Pembroke,4308,40.0,0.0,South Coast,Patriot,6:00 P.M.,,0
+2026-03-06,87336,FINAL,Millis,4251,50.0,1.0,Manchester Essex,4229,35.0,0.0,Tri-Valley,Cape Ann,6:00 P.M.,,0
+2026-03-06,87339,FINAL,South Hadley,4353,54.0,1.0,Southwick,4519,34.0,0.0,Independent,Independent,6:00 P.M.,,0
+2026-03-06,87342,FINAL,Frontier,4146,59.0,1.0,Tyngsborough,4397,46.0,0.0,Independent,Mid-Wach,6:00 P.M.,,0
+2026-03-06,87474,FINAL,St. John Paul II,4689,47.0,1.0,Lenox,4532,37.0,0.0,Cape & Islands,Independent,5:30 P.M.,,0
+2026-03-06,87480,FINAL,Douglas,4506,52.0,1.0,Renaissance,4664,47.0,0.0,CMAC,Independent,6:00 P.M.,,0
+2026-03-06,87483,FINAL,Drury,4120,47.0,1.0,Hoosac Valley,4178,41.0,0.0,Independent,Independent,6:00 P.M.,,0
 2026-03-07,86997,FINAL,Springfield Central,4360,57,1,Needham,4272,36,0,Independent,Bay State,1:00 P.M.,,0
 2026-03-07,87090,FINAL,Foxborough,4142,39,0,Minnechaug,4254,45,1,Hockomock,Independent,1:00 P.M.,,0
 2026-03-07,87222,FINAL,Bishop Fenwick,4043,39,1,Pentucket,4309,23,0,Catholic Central,Cape Ann,3:00 P.M.,,0

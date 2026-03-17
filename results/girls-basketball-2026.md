@@ -1,6 +1,6 @@
 # Girls Basketball - 2026 Season
 
-Generated: 2026-03-16 11:44
+Generated: 2026-03-17 11:41
 
 ## Upcoming Games
 
@@ -23,9 +23,6 @@ Generated: 2026-03-16 11:44
 | 2026-03-10 | Medfield | 53 | Minnechaug | 32 | +17.4 | +21.0 |
 | 2026-03-10 | Bishop Fenwick | 55 | Medway | 38 | +3.9 | +17.0 |
 | 2026-03-10 | Hopedale | 45 | Douglas | 41 | -3.3 | +4.0 |
-| 2026-03-09 | Bishop Feehan | 44 | Wachusett | 54 | +0.2 | -10.0 |
-| 2026-03-09 | Whitman-Hanson | 40 | St. Mary’s | 41 | -1.2 | -1.0 |
-| 2026-03-09 | Pittsfield | 56 | Apponequet | 26 | -6.4 | +30.0 |
 
 ## Current Elo Ratings
 
@@ -227,8 +224,8 @@ Generated: 2026-03-16 11:44
 | 194 | Winchester | 1503.3 |
 | 195 | Community Charter | 1502.8 |
 | 196 | Gann Academy | 1502.8 |
-| 197 | Trivium | 1502.8 |
-| 198 | TechBoston/Henderson Inclusion School | 1502.8 |
+| 197 | TechBoston/Henderson Inclusion School | 1502.8 |
+| 198 | Trivium | 1502.8 |
 | 199 | Wilbraham & Monson | 1501.4 |
 | 200 | Fenway | 1500.8 |
 | 201 | St. Thomas More | 1499.4 |
