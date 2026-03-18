@@ -2525,23 +2525,23 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-06,87474,FINAL,St. John Paul II,4689,47.0,1.0,Lenox,4532,37.0,0.0,Cape & Islands,Independent,5:30 P.M.,,0
 2026-03-06,87480,FINAL,Douglas,4506,52.0,1.0,Renaissance,4664,47.0,0.0,CMAC,Independent,6:00 P.M.,,0
 2026-03-06,87483,FINAL,Drury,4120,47.0,1.0,Hoosac Valley,4178,41.0,0.0,Independent,Independent,6:00 P.M.,,0
-2026-03-07,86997,FINAL,Springfield Central,4360,57,1,Needham,4272,36,0,Independent,Bay State,1:00 P.M.,,0
-2026-03-07,87090,FINAL,Foxborough,4142,39,0,Minnechaug,4254,45,1,Hockomock,Independent,1:00 P.M.,,0
-2026-03-07,87222,FINAL,Bishop Fenwick,4043,39,1,Pentucket,4309,23,0,Catholic Central,Cape Ann,3:00 P.M.,,0
-2026-03-07,87333,FINAL,Millbury,4250,46,1,Cohasset,4094,31,0,CMAC,South Shore,5:00 P.M.,,0
-2026-03-07,87477,FINAL,Hopedale,4507,54,1,Minuteman,4255,36,0,CMAC,Commonwealth,7:30 P.M.,,0
-2026-03-07,87750,FINAL,Darrow,4104,67,1,Northfield Mt. Hermon,4294,66,0,Independent,Independent,3:00 P.M.,,0
-2026-03-07,87753,FINAL,Worcester Academy,4441,44,1,Wilbraham & Monson,4545,38,0,Independent,Independent,1:00 P.M.,,0
-2026-03-07,87806,FINAL,Tilton,4391,63,0,New Hampton,4275,68,1,Independent,Independent,1:30 P.M.,,0
-2026-03-07,87809,FINAL,Hoosac School,4688,70,1,Tabor,4384,60,0,Independent,ISL,1:30 P.M.,,0
-2026-03-07,87810,FINAL,Loomis Chaffee (Conn.),4215,42,1,Phillips Andover,4310,40,0,Founders,Independent,3:00 P.M.,,0
-2026-03-07,87811,FINAL,Sacred Heart (Conn.),4586,58,1,Taft,4386,35,0,Independent,Independent,2:00 P.M.,,0
-2026-03-07,87821,FINAL,St. George’s,4367,47,0,Lawrence Academy,4204,53,1,ISL,ISL,2:00 P.M.,,0
-2026-03-07,87823,FINAL,Brooks,4060,32,0,Berkshire,4036,58,1,ISL,Independent,3:00 P.M.,,0
-2026-03-07,87824,FINAL,Kimball Union,4196,68,1,Kingswood-Oxford,4198,59,0,Independent,Independent,2:30 P.M.,1.0,0
-2026-03-07,87826,FINAL,Ethel Walker,4131,44,0,Hamden Hall Country Day,4162,57,1,Independent,Independent,2:00 P.M.,,0
-2026-03-07,87828,FINAL,Wheeler (R.I.),4426,63,1,Lexington Christian,4210,55,0,EIL,EIL,12:00 P.M.,,0
-2026-03-07,87831,FINAL,Berwick,4037,51,1,St. Thomas More,4379,47,0,EIL,Independent,1:00 P.M.,,0
+2026-03-07,86997,FINAL,Springfield Central,4360,57.0,1.0,Needham,4272,36.0,0.0,Independent,Bay State,1:00 P.M.,,0
+2026-03-07,87090,FINAL,Foxborough,4142,39.0,0.0,Minnechaug,4254,45.0,1.0,Hockomock,Independent,1:00 P.M.,,0
+2026-03-07,87222,FINAL,Bishop Fenwick,4043,39.0,1.0,Pentucket,4309,23.0,0.0,Catholic Central,Cape Ann,3:00 P.M.,,0
+2026-03-07,87333,FINAL,Millbury,4250,46.0,1.0,Cohasset,4094,31.0,0.0,CMAC,South Shore,5:00 P.M.,,0
+2026-03-07,87477,FINAL,Hopedale,4507,54.0,1.0,Minuteman,4255,36.0,0.0,CMAC,Commonwealth,7:30 P.M.,,0
+2026-03-07,87750,FINAL,Darrow,4104,67.0,1.0,Northfield Mt. Hermon,4294,66.0,0.0,Independent,Independent,3:00 P.M.,,0
+2026-03-07,87753,FINAL,Worcester Academy,4441,44.0,1.0,Wilbraham & Monson,4545,38.0,0.0,Independent,Independent,1:00 P.M.,,0
+2026-03-07,87806,FINAL,Tilton,4391,63.0,0.0,New Hampton,4275,68.0,1.0,Independent,Independent,1:30 P.M.,,0
+2026-03-07,87809,FINAL,Hoosac School,4688,70.0,1.0,Tabor,4384,60.0,0.0,Independent,ISL,1:30 P.M.,,0
+2026-03-07,87810,FINAL,Loomis Chaffee (Conn.),4215,42.0,1.0,Phillips Andover,4310,40.0,0.0,Founders,Independent,3:00 P.M.,,0
+2026-03-07,87811,FINAL,Sacred Heart (Conn.),4586,58.0,1.0,Taft,4386,35.0,0.0,Independent,Independent,2:00 P.M.,,0
+2026-03-07,87821,FINAL,St. George’s,4367,47.0,0.0,Lawrence Academy,4204,53.0,1.0,ISL,ISL,2:00 P.M.,,0
+2026-03-07,87823,FINAL,Brooks,4060,32.0,0.0,Berkshire,4036,58.0,1.0,ISL,Independent,3:00 P.M.,,0
+2026-03-07,87824,FINAL,Kimball Union,4196,68.0,1.0,Kingswood-Oxford,4198,59.0,0.0,Independent,Independent,2:30 P.M.,1.0,0
+2026-03-07,87826,FINAL,Ethel Walker,4131,44.0,0.0,Hamden Hall Country Day,4162,57.0,1.0,Independent,Independent,2:00 P.M.,,0
+2026-03-07,87828,FINAL,Wheeler (R.I.),4426,63.0,1.0,Lexington Christian,4210,55.0,0.0,EIL,EIL,12:00 P.M.,,0
+2026-03-07,87831,FINAL,Berwick,4037,51.0,1.0,St. Thomas More,4379,47.0,0.0,EIL,Independent,1:00 P.M.,,0
 2026-03-08,87874,FINAL,Berkshire,4036,61,1,Lawrence Academy,4204,57,0,Independent,ISL,11:35 A.M.,1.0,0
 2026-03-08,87879,FINAL,Hoosac School,4688,39,1,New Hampton,4275,37,0,Independent,Independent,2:45 P.M.,,0
 2026-03-08,87880,FINAL,Darrow,4104,55,1,Worcester Academy,4441,40,0,Independent,Independent,1:10 P.M.,,0

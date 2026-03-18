@@ -1,6 +1,6 @@
 # Girls Basketball - 2026 Season
 
-Generated: 2026-03-17 11:41
+Generated: 2026-03-18 11:43
 
 ## Upcoming Games
 
@@ -19,10 +19,6 @@ Generated: 2026-03-17 11:41
 | 2026-03-11 | Millis | 47 | South Hadley | 59 | +4.6 | -12.0 |
 | 2026-03-11 | Frontier | 43 | Millbury | 28 | +5.4 | +15.0 |
 | 2026-03-11 | Drury | 45 | St. John Paul II | 27 | +3.5 | +18.0 |
-| 2026-03-10 | Springfield Central | 69 | Andover | 29 | -7.8 | +40.0 |
-| 2026-03-10 | Medfield | 53 | Minnechaug | 32 | +17.4 | +21.0 |
-| 2026-03-10 | Bishop Fenwick | 55 | Medway | 38 | +3.9 | +17.0 |
-| 2026-03-10 | Hopedale | 45 | Douglas | 41 | -3.3 | +4.0 |
 
 ## Current Elo Ratings
 
@@ -223,9 +219,9 @@ Generated: 2026-03-17 11:41
 | 193 | Monomoy | 1503.5 |
 | 194 | Winchester | 1503.3 |
 | 195 | Community Charter | 1502.8 |
-| 196 | Gann Academy | 1502.8 |
-| 197 | TechBoston/Henderson Inclusion School | 1502.8 |
-| 198 | Trivium | 1502.8 |
+| 196 | Trivium | 1502.8 |
+| 197 | Gann Academy | 1502.8 |
+| 198 | TechBoston/Henderson Inclusion School | 1502.8 |
 | 199 | Wilbraham & Monson | 1501.4 |
 | 200 | Fenway | 1500.8 |
 | 201 | St. Thomas More | 1499.4 |

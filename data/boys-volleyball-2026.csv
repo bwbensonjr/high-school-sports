@@ -1,0 +1,30 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
+2026-03-19,88111,UPCOMING,Taunton,4388,,,Weymouth,4425,,,Hockomock,Bay State,5:00 P.M.,,0
+2026-03-23,88226,UPCOMING,King Philip,4197,,,Dighton-Rehoboth,4114,,,Hockomock,Tri-Valley,5:00 P.M.,,0
+2026-03-23,88256,UPCOMING,Greater Lawrence,4154,,,Nipmuc,4281,,,Commonwealth,Tri-Valley,4:30 P.M.,,0
+2026-03-24,88112,UPCOMING,Weymouth,4425,,,BC High,4029,,,Bay State,Catholic Conference,4:00 P.M.,,0
+2026-03-24,88284,UPCOMING,Norwood,4297,,,Randolph,4327,,,Tri-Valley,Independent,4:00 P.M.,,0
+2026-03-25,88051,UPCOMING,Milford,4249,,,Natick,4270,,,Hockomock,Bay State,4:30 P.M.,,0
+2026-03-25,88172,UPCOMING,Phillips Andover,4310,,,St. John’s Prep,4369,,,Independent,Catholic Conference,4:30 P.M.,,0
+2026-03-26,87908,UPCOMING,Scituate,4343,,,Braintree,4051,,,Patriot,Bay State,4:00 P.M.,,0
+2026-03-26,87950,UPCOMING,Wayland,4411,,,Brookline,4059,,,Dual County,Bay State,5:45 P.M.,,0
+2026-03-26,87987,UPCOMING,Framingham,4143,,,Weymouth,4425,,,Bay State,Bay State,4:00 P.M.,,0
+2026-03-26,88020,UPCOMING,Milton,4252,,,Southeastern,4358,,,Bay State,Independent,5:00 P.M.,,0
+2026-03-26,88079,UPCOMING,Excel Academy,4969,,,Boston United,4798,,,Charter School Athletic,Boston City,4:00 P.M.,,0
+2026-03-26,88119,UPCOMING,Brooke Charter,5071,,,Madison Park,4225,,,Charter School Athletic,Boston City,4:00 P.M.,,0
+2026-03-26,88127,UPCOMING,BC High,4029,,,North Quincy,4287,,,Catholic Conference,Patriot,5:15 P.M.,,0
+2026-03-26,88175,UPCOMING,Woburn,4438,,,St. John’s Prep,4369,,,Middlesex,Catholic Conference,4:30 P.M.,,0
+2026-03-26,88196,UPCOMING,Pioneer Charter I,4701,,,Georgetown,4148,,,Charter School Athletic,Independent,4:15 P.M.,,0
+2026-03-26,88204,UPCOMING,KIPP,4703,,,Pioneer Charter II,4964,,,Commonwealth,Charter School Athletic,5:30 P.M.,,0
+2026-03-26,88242,UPCOMING,Hopkinton,4180,,,King Philip,4197,,,Tri-Valley,Hockomock,4:00 P.M.,,0
+2026-03-27,88023,UPCOMING,Westwood,4424,,,Milton,4252,,,Tri-Valley,Bay State,6:00 P.M.,,0
+2026-03-27,88085,UPCOMING,Boston United,4798,,,Excel Academy,4969,,,Boston City,Charter School Athletic,4:00 P.M.,,0
+2026-03-27,88139,UPCOMING,KIPP,4703,,,Academy/Pacific Rim,5038,,,Commonwealth,Charter School Athletic,2:00 P.M.,,0
+2026-03-27,88144,UPCOMING,Belmont,4034,,,Catholic Memorial,4080,,,Middlesex,Catholic Conference,4:00 P.M.,,0
+2026-03-27,88177,UPCOMING,St. John’s Prep,4369,,,Greater Lawrence,4154,,,Catholic Conference,Commonwealth,5:00 P.M.,,0
+2026-03-27,88183,UPCOMING,King Philip,4197,,,Xaverian,4446,,,Hockomock,Catholic Conference,5:00 P.M.,,0
+2026-03-27,88272,UPCOMING,Southeastern,4358,,,Norton,4295,,,Independent,Tri-Valley,5:00 P.M.,,0
+2026-03-28,87951,UPCOMING,Newton South,4280,,,Brookline,4059,,,Dual County,Bay State,11:30 A.M.,,0
+2026-03-28,88077,UPCOMING,Needham,4272,,,Agawam,4004,,,Bay State,Independent,11:00 A.M.,,0
+2026-03-28,88096,UPCOMING,Newton North,4279,,,Westfield,4419,,,Bay State,Independent,11:00 A.M.,,0
+2026-03-28,88100,UPCOMING,Latin Academy,4202,,,Longmeadow,4214,,,Boston City,Independent,1:00 P.M.,,0

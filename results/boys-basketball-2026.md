@@ -1,6 +1,6 @@
 # Boys Basketball - 2026 Season
 
-Generated: 2026-03-17 11:41
+Generated: 2026-03-18 11:43
 
 ## Upcoming Games
 
@@ -20,11 +20,6 @@ Generated: 2026-03-17 11:41
 | 2026-03-11 | Central Catholic | 74 | Springfield Central | 64 | +16.4 | +10.0 |
 | 2026-03-11 | Holbrook | 68 | Prospect Hill | 65 | +8.5 | +3.0 |
 | 2026-03-11 | Roxbury Prep | 52 | Hoosac Valley | 56 | +3.2 | -4.0 |
-| 2026-03-10 | Pope Francis | 48 | Masconomet | 50 | -7.4 | -2.0 |
-| 2026-03-10 | Salem | 68 | Lynn Classical | 50 | +4.3 | +18.0 |
-| 2026-03-10 | Hanover | 46 | Greater Lawrence | 33 | +9.9 | +13.0 |
-| 2026-03-10 | Millbury | 51 | Georgetown | 53 | +0.8 | -2.0 |
-| 2026-03-10 | Wareham | 80 | West Bridgewater | 66 | +5.4 | +14.0 |
 
 ## Current Elo Ratings
 
@@ -252,12 +247,12 @@ Generated: 2026-03-17 11:41
 | 220 | Newton South | 1503.5 |
 | 221 | Minnechaug | 1503.2 |
 | 222 | Frederick Gunn (Conn.) | 1503.0 |
-| 223 | Marie Philip | 1502.8 |
-| 224 | North Haven (Conn.) | 1502.8 |
-| 225 | Waring | 1502.8 |
-| 226 | International School | 1502.8 |
-| 227 | Ruth Batson Academy | 1502.8 |
-| 228 | Bishop Connolly | 1502.8 |
+| 223 | Ruth Batson Academy | 1502.8 |
+| 224 | Bishop Connolly | 1502.8 |
+| 225 | Marie Philip | 1502.8 |
+| 226 | Waring | 1502.8 |
+| 227 | International School | 1502.8 |
+| 228 | North Haven (Conn.) | 1502.8 |
 | 229 | Collegiate Charter | 1502.3 |
 | 230 | Pelham (N.H.) | 1502.3 |
 | 231 | Kimball Union | 1501.9 |

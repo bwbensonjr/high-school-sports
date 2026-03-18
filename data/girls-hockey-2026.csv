@@ -864,14 +864,14 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-05,86180,FINAL,Notre Dame (Hingham),4449,2.0,1.0,Bishop Stang,4045,1.0,0.0,Independent,Catholic Central,5:40 P.M.,1.0,0
 2026-03-05,86273,FINAL,Duxbury,4123,5.0,1.0,Auburn,4019,0.0,0.0,Patriot,Independent,5:15 P.M.,,0
 2026-03-05,86276,FINAL,Westwood,4424,0.0,0.0,Medfield,4241,1.0,1.0,Tri-Valley,Tri-Valley,6:00 P.M.,1.0,0
-2026-03-07,86168,FINAL,Notre Dame (Hingham),4449,0,0,Archbishop Williams,4012,1,1,Independent,Catholic Central,4:30 P.M.,,0
-2026-03-07,86264,FINAL,King Philip,4197,2,1,Medfield,4241,0,0,Hockomock,Tri-Valley,3:00 P.M.,,0
-2026-03-07,87792,FINAL,Groton,4544,2,1,St. Mark’s,4372,0,0,ISL,ISL,3:00 P.M.,,0
-2026-03-07,87793,FINAL,Choate,4090,3,1,Taft,4386,1,0,Founders,Independent,1:30 P.M.,,0
-2026-03-07,87794,FINAL,Nobles,4282,4,0,Loomis Chaffee (Conn.),4215,5,1,ISL,Founders,2:00 P.M.,1.0,0
-2026-03-07,87797,FINAL,Deerfield,4110,3,1,Tabor,4384,2,0,Independent,ISL,2:00 P.M.,,0
-2026-03-07,87802,FINAL,Cushing,4101,2,0,New Hampton,4275,4,1,Independent,Independent,1:30 P.M.,,0
-2026-03-07,87803,FINAL,Phillips Exeter,4311,5,1,BB&N,4028,1,0,Independent,ISL,3:30 P.M.,,0
+2026-03-07,86168,FINAL,Notre Dame (Hingham),4449,0.0,0.0,Archbishop Williams,4012,1.0,1.0,Independent,Catholic Central,4:30 P.M.,,0
+2026-03-07,86264,FINAL,King Philip,4197,2.0,1.0,Medfield,4241,0.0,0.0,Hockomock,Tri-Valley,3:00 P.M.,,0
+2026-03-07,87792,FINAL,Groton,4544,2.0,1.0,St. Mark’s,4372,0.0,0.0,ISL,ISL,3:00 P.M.,,0
+2026-03-07,87793,FINAL,Choate,4090,3.0,1.0,Taft,4386,1.0,0.0,Founders,Independent,1:30 P.M.,,0
+2026-03-07,87794,FINAL,Nobles,4282,4.0,0.0,Loomis Chaffee (Conn.),4215,5.0,1.0,ISL,Founders,2:00 P.M.,1.0,0
+2026-03-07,87797,FINAL,Deerfield,4110,3.0,1.0,Tabor,4384,2.0,0.0,Independent,ISL,2:00 P.M.,,0
+2026-03-07,87802,FINAL,Cushing,4101,2.0,0.0,New Hampton,4275,4.0,1.0,Independent,Independent,1:30 P.M.,,0
+2026-03-07,87803,FINAL,Phillips Exeter,4311,5.0,1.0,BB&N,4028,1.0,0.0,Independent,ISL,3:30 P.M.,,0
 2026-03-08,86165,FINAL,St. Mary’s,4374,1,0,Methuen/Tewksbury,4246,2,1,Catholic Central,Merrimack Valley/Dual County,4:30 P.M.,1.0,0
 2026-03-08,86261,FINAL,Milton,4252,2,1,Duxbury,4123,1,0,Bay State,Patriot,7:45 P.M.,,0
 2026-03-08,87890,FINAL,Loomis Chaffee (Conn.),4215,5,1,Deerfield,4110,1,0,Founders,Independent,4:00 P.M.,,0
