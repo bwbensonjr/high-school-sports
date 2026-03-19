@@ -1,6 +1,6 @@
 # Girls Basketball - 2026 Season
 
-Generated: 2026-03-18 11:43
+Generated: 2026-03-19 11:33
 
 ## Upcoming Games
 
@@ -16,9 +16,6 @@ Generated: 2026-03-18 11:43
 | 2026-03-14 | Springfield Central | 47 | Wachusett | 55 | -5.3 | -8.0 |
 | 2026-03-14 | Frontier | 38 | South Hadley | 49 | +7.8 | -11.0 |
 | 2026-03-13 | Medfield | 72 | St. Mary’s | 38 | +7.3 | +34.0 |
-| 2026-03-11 | Millis | 47 | South Hadley | 59 | +4.6 | -12.0 |
-| 2026-03-11 | Frontier | 43 | Millbury | 28 | +5.4 | +15.0 |
-| 2026-03-11 | Drury | 45 | St. John Paul II | 27 | +3.5 | +18.0 |
 
 ## Current Elo Ratings
 

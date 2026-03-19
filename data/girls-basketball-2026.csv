@@ -2542,12 +2542,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-07,87826,FINAL,Ethel Walker,4131,44.0,0.0,Hamden Hall Country Day,4162,57.0,1.0,Independent,Independent,2:00 P.M.,,0
 2026-03-07,87828,FINAL,Wheeler (R.I.),4426,63.0,1.0,Lexington Christian,4210,55.0,0.0,EIL,EIL,12:00 P.M.,,0
 2026-03-07,87831,FINAL,Berwick,4037,51.0,1.0,St. Thomas More,4379,47.0,0.0,EIL,Independent,1:00 P.M.,,0
-2026-03-08,87874,FINAL,Berkshire,4036,61,1,Lawrence Academy,4204,57,0,Independent,ISL,11:35 A.M.,1.0,0
-2026-03-08,87879,FINAL,Hoosac School,4688,39,1,New Hampton,4275,37,0,Independent,Independent,2:45 P.M.,,0
-2026-03-08,87880,FINAL,Darrow,4104,55,1,Worcester Academy,4441,40,0,Independent,Independent,1:10 P.M.,,0
-2026-03-08,87882,FINAL,Loomis Chaffee (Conn.),4215,43,0,Sacred Heart (Conn.),4586,53,1,Founders,Independent,4:20 P.M.,,0
-2026-03-08,87884,FINAL,Kimball Union,4196,47,0,Hamden Hall Country Day,4162,55,1,Independent,Independent,5:55 P.M.,,0
-2026-03-08,87887,FINAL,Wheeler (R.I.),4426,35,0,Berwick,4037,45,1,EIL,EIL,10:00 A.M.,,0
+2026-03-08,87874,FINAL,Berkshire,4036,61.0,1.0,Lawrence Academy,4204,57.0,0.0,Independent,ISL,11:35 A.M.,1.0,0
+2026-03-08,87879,FINAL,Hoosac School,4688,39.0,1.0,New Hampton,4275,37.0,0.0,Independent,Independent,2:45 P.M.,,0
+2026-03-08,87880,FINAL,Darrow,4104,55.0,1.0,Worcester Academy,4441,40.0,0.0,Independent,Independent,1:10 P.M.,,0
+2026-03-08,87882,FINAL,Loomis Chaffee (Conn.),4215,43.0,0.0,Sacred Heart (Conn.),4586,53.0,1.0,Founders,Independent,4:20 P.M.,,0
+2026-03-08,87884,FINAL,Kimball Union,4196,47.0,0.0,Hamden Hall Country Day,4162,55.0,1.0,Independent,Independent,5:55 P.M.,,0
+2026-03-08,87887,FINAL,Wheeler (R.I.),4426,35.0,0.0,Berwick,4037,45.0,1.0,EIL,EIL,10:00 A.M.,,0
 2026-03-09,86982,FINAL,Bishop Feehan,4042,44,0,Wachusett,4400,54,1,Catholic Central,Mid-Wach,7:15 P.M.,,0
 2026-03-09,87084,FINAL,Whitman-Hanson,4427,40,0,St. Mary’s,4374,41,1,Patriot,Catholic Central,5:00 P.M.,,0
 2026-03-09,87207,FINAL,Pittsfield,4314,56,1,Apponequet,4011,26,0,Independent,South Coast,5:00 P.M.,,0

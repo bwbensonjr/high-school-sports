@@ -1,6 +1,6 @@
 # Boys Basketball - 2026 Season
 
-Generated: 2026-03-18 11:43
+Generated: 2026-03-19 11:33
 
 ## Upcoming Games
 
@@ -16,10 +16,6 @@ Generated: 2026-03-18 11:43
 | 2026-03-14 | Hanover | 51 | Salem | 57 | +4.2 | -6.0 |
 | 2026-03-14 | Wareham | 80 | Georgetown | 73 | +2.6 | +7.0 |
 | 2026-03-13 | St. Mary’s | 59 | Masconomet | 58 | +2.8 | +1.0 |
-| 2026-03-11 | Andover | 73 | Bishop Feehan | 89 | +9.6 | -16.0 |
-| 2026-03-11 | Central Catholic | 74 | Springfield Central | 64 | +16.4 | +10.0 |
-| 2026-03-11 | Holbrook | 68 | Prospect Hill | 65 | +8.5 | +3.0 |
-| 2026-03-11 | Roxbury Prep | 52 | Hoosac Valley | 56 | +3.2 | -4.0 |
 
 ## Current Elo Ratings
 
@@ -247,12 +243,12 @@ Generated: 2026-03-18 11:43
 | 220 | Newton South | 1503.5 |
 | 221 | Minnechaug | 1503.2 |
 | 222 | Frederick Gunn (Conn.) | 1503.0 |
-| 223 | Ruth Batson Academy | 1502.8 |
-| 224 | Bishop Connolly | 1502.8 |
-| 225 | Marie Philip | 1502.8 |
+| 223 | North Haven (Conn.) | 1502.8 |
+| 224 | Ruth Batson Academy | 1502.8 |
+| 225 | International School | 1502.8 |
 | 226 | Waring | 1502.8 |
-| 227 | International School | 1502.8 |
-| 228 | North Haven (Conn.) | 1502.8 |
+| 227 | Marie Philip | 1502.8 |
+| 228 | Bishop Connolly | 1502.8 |
 | 229 | Collegiate Charter | 1502.3 |
 | 230 | Pelham (N.H.) | 1502.3 |
 | 231 | Kimball Union | 1501.9 |

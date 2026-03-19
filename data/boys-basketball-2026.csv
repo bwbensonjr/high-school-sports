@@ -2680,12 +2680,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-07,87869,FINAL,Kingswood-Oxford,4198,67.0,1.0,N.Y. Military Academy,4659,51.0,0.0,Independent,Independent,1:00 P.M.,,0
 2026-03-07,87871,FINAL,Holderness,4173,80.0,1.0,King (Conn.),4199,58.0,0.0,Independent,Independent,2:00 P.M.,,0
 2026-03-07,87873,FINAL,Bancroft,4023,92.0,1.0,Wheeler (R.I.),4426,80.0,0.0,EIL,EIL,1:00 P.M.,,0
-2026-03-08,87896,FINAL,Newman School,4277,101,1,Hoosac School,4688,68,0,MBIL,Independent,3:15 P.M.,,0
-2026-03-08,87898,FINAL,Cushing,4101,64,1,Cheshire Academy,4087,55,0,Independent,Independent,5:30 P.M.,,0
-2026-03-08,87901,FINAL,Phillips Andover,4310,54,0,Hotchkiss,4181,66,1,Independent,Founders,3:15 P.M.,,0
-2026-03-08,87903,FINAL,St. Mark’s,4372,69,1,Canterbury,4070,58,0,ISL,Independent,5:30 P.M.,,0
-2026-03-08,87904,FINAL,Kingswood-Oxford,4198,52,0,Holderness,4173,74,1,Independent,Independent,1:00 P.M.,,0
-2026-03-08,87905,FINAL,Bancroft,4023,59,1,Rocky Hill Country Day,4332,56,0,EIL,Independent,1:00 P.M.,,0
+2026-03-08,87896,FINAL,Newman School,4277,101.0,1.0,Hoosac School,4688,68.0,0.0,MBIL,Independent,3:15 P.M.,,0
+2026-03-08,87898,FINAL,Cushing,4101,64.0,1.0,Cheshire Academy,4087,55.0,0.0,Independent,Independent,5:30 P.M.,,0
+2026-03-08,87901,FINAL,Phillips Andover,4310,54.0,0.0,Hotchkiss,4181,66.0,1.0,Independent,Founders,3:15 P.M.,,0
+2026-03-08,87903,FINAL,St. Mark’s,4372,69.0,1.0,Canterbury,4070,58.0,0.0,ISL,Independent,5:30 P.M.,,0
+2026-03-08,87904,FINAL,Kingswood-Oxford,4198,52.0,0.0,Holderness,4173,74.0,1.0,Independent,Independent,1:00 P.M.,,0
+2026-03-08,87905,FINAL,Bancroft,4023,59.0,1.0,Rocky Hill Country Day,4332,56.0,0.0,EIL,Independent,1:00 P.M.,,0
 2026-03-09,86479,FINAL,St. Mary’s,4374,38,1,Plymouth South,4316,35,0,Catholic Central,Patriot,7:00 P.M.,,0
 2026-03-10,86476,FINAL,Pope Francis,4796,48,0,Masconomet,4236,50,1,Independent,Northeastern,7:15 P.M.,,0
 2026-03-10,86584,FINAL,Salem,4336,68,1,Lynn Classical,4220,50,0,Northeastern,Greater Boston,7:15 P.M.,,0
