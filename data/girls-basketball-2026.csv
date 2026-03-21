@@ -2551,10 +2551,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-09,86982,FINAL,Bishop Feehan,4042,44.0,0.0,Wachusett,4400,54.0,1.0,Catholic Central,Mid-Wach,7:15 P.M.,,0
 2026-03-09,87084,FINAL,Whitman-Hanson,4427,40.0,0.0,St. Mary’s,4374,41.0,1.0,Patriot,Catholic Central,5:00 P.M.,,0
 2026-03-09,87207,FINAL,Pittsfield,4314,56.0,1.0,Apponequet,4011,26.0,0.0,Independent,South Coast,5:00 P.M.,,0
-2026-03-10,86985,FINAL,Springfield Central,4360,69,1,Andover,4009,29,0,Independent,Merrimack Valley,5:00 P.M.,,0
-2026-03-10,87087,FINAL,Medfield,4241,53,1,Minnechaug,4254,32,0,Tri-Valley,Independent,6:00 P.M.,,0
-2026-03-10,87210,FINAL,Bishop Fenwick,4043,55,1,Medway,4243,38,0,Catholic Central,Tri-Valley,5:00 P.M.,,0
-2026-03-10,87468,FINAL,Hopedale,4507,45,1,Douglas,4506,41,0,CMAC,CMAC,6:00 P.M.,,0
+2026-03-10,86985,FINAL,Springfield Central,4360,69.0,1.0,Andover,4009,29.0,0.0,Independent,Merrimack Valley,5:00 P.M.,,0
+2026-03-10,87087,FINAL,Medfield,4241,53.0,1.0,Minnechaug,4254,32.0,0.0,Tri-Valley,Independent,6:00 P.M.,,0
+2026-03-10,87210,FINAL,Bishop Fenwick,4043,55.0,1.0,Medway,4243,38.0,0.0,Catholic Central,Tri-Valley,5:00 P.M.,,0
+2026-03-10,87468,FINAL,Hopedale,4507,45.0,1.0,Douglas,4506,41.0,0.0,CMAC,CMAC,6:00 P.M.,,0
 2026-03-11,87327,FINAL,Millis,4251,47,0,South Hadley,4353,59,1,Tri-Valley,Independent,5:00 P.M.,,0
 2026-03-11,87330,FINAL,Frontier,4146,43,1,Millbury,4250,28,0,Independent,CMAC,6:00 P.M.,,0
 2026-03-11,87471,FINAL,Drury,4120,45,1,St. John Paul II,4689,27,0,Independent,Cape & Islands,5:00 P.M.,,0

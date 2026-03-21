@@ -2687,11 +2687,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-08,87904,FINAL,Kingswood-Oxford,4198,52.0,0.0,Holderness,4173,74.0,1.0,Independent,Independent,1:00 P.M.,,0
 2026-03-08,87905,FINAL,Bancroft,4023,59.0,1.0,Rocky Hill Country Day,4332,56.0,0.0,EIL,Independent,1:00 P.M.,,0
 2026-03-09,86479,FINAL,St. Mary’s,4374,38.0,1.0,Plymouth South,4316,35.0,0.0,Catholic Central,Patriot,7:00 P.M.,,0
-2026-03-10,86476,FINAL,Pope Francis,4796,48,0,Masconomet,4236,50,1,Independent,Northeastern,7:15 P.M.,,0
-2026-03-10,86584,FINAL,Salem,4336,68,1,Lynn Classical,4220,50,0,Northeastern,Greater Boston,7:15 P.M.,,0
-2026-03-10,86587,FINAL,Hanover,4164,46,1,Greater Lawrence,4154,33,0,Patriot,Commonwealth,7:15 P.M.,,0
-2026-03-10,86725,FINAL,Millbury,4250,51,0,Georgetown,4148,53,1,CMAC,Cape Ann,5:00 P.M.,,0
-2026-03-10,86728,FINAL,Wareham,4407,80,1,West Bridgewater,4415,66,0,Independent,South Coast,6:30 P.M.,,0
+2026-03-10,86476,FINAL,Pope Francis,4796,48.0,0.0,Masconomet,4236,50.0,1.0,Independent,Northeastern,7:15 P.M.,,0
+2026-03-10,86584,FINAL,Salem,4336,68.0,1.0,Lynn Classical,4220,50.0,0.0,Northeastern,Greater Boston,7:15 P.M.,,0
+2026-03-10,86587,FINAL,Hanover,4164,46.0,1.0,Greater Lawrence,4154,33.0,0.0,Patriot,Commonwealth,7:15 P.M.,,0
+2026-03-10,86725,FINAL,Millbury,4250,51.0,0.0,Georgetown,4148,53.0,1.0,CMAC,Cape Ann,5:00 P.M.,,0
+2026-03-10,86728,FINAL,Wareham,4407,80.0,1.0,West Bridgewater,4415,66.0,0.0,Independent,South Coast,6:30 P.M.,,0
 2026-03-11,86353,FINAL,Andover,4009,73,0,Bishop Feehan,4042,89,1,Merrimack Valley,Catholic Central,7:00 P.M.,,0
 2026-03-11,86356,FINAL,Central Catholic,4081,74,1,Springfield Central,4360,64,0,Merrimack Valley,Independent,7:15 P.M.,1.0,0
 2026-03-11,86851,FINAL,Holbrook,4172,68,1,Prospect Hill,4593,65,0,Mayflower,Charter School Athletic,5:00 P.M.,,0
