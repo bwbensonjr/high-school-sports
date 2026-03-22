@@ -1,6 +1,6 @@
 # Boys Hockey - 2026 Season
 
-Generated: 2026-03-21 11:21
+Generated: 2026-03-22 11:21
 
 ## Upcoming Games
 
@@ -138,8 +138,8 @@ Generated: 2026-03-21 11:21
 | 116 | Governor’s Academy | 1506.6 |
 | 117 | Deerfield | 1504.2 |
 | 118 | Billerica | 1503.0 |
-| 119 | Timberlane (N.H.) | 1502.8 |
-| 120 | Darien (Conn.) | 1502.8 |
+| 119 | Darien (Conn.) | 1502.8 |
+| 120 | Timberlane (N.H.) | 1502.8 |
 | 121 | Worcester | 1502.3 |
 | 122 | Canterbury | 1499.4 |
 | 123 | Weston | 1497.5 |

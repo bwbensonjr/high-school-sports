@@ -6,13 +6,22 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-21,88754,UPCOMING,Hamilton-Wenham,4163,,,Wakefield,4402,,,Cape Ann,Middlesex,10:00 A.M.,,0
 2026-03-23,88675,UPCOMING,Bourne,4050,,,Martha’s Vineyard,4235,,,South Coast,Cape & Islands,3:30 P.M.,,0
 2026-03-23,88743,UPCOMING,Essex Tech,4745,,,Haverhill,4167,,,Cape Ann,Merrimack Valley,6:00 P.M.,,0
+2026-03-23,88801,UPCOMING,Ashland,4015,,,Framingham,4143,,,Tri-Valley,Bay State,4:30 P.M.,,0
+2026-03-23,88886,UPCOMING,Whitman-Hanson,4427,,,Middleborough,4247,,,Patriot,South Shore,6:00 P.M.,,0
+2026-03-23,88902,UPCOMING,Rockland,4331,,,South Shore Voc-Tech,4356,,,South Shore,Mayflower,5:00 P.M.,,0
 2026-03-24,88702,UPCOMING,Nauset,4271,,,Plymouth South,4316,,,Cape & Islands,Patriot,4:00 P.M.,,0
 2026-03-24,88710,UPCOMING,Sandwich,4340,,,Monomoy,4706,,,Cape & Islands,Cape & Islands,3:30 P.M.,,0
 2026-03-24,88755,UPCOMING,Beverly,4038,,,Hamilton-Wenham,4163,,,Northeastern,Cape Ann,4:00 P.M.,,0
 2026-03-24,88762,UPCOMING,Lynnfield,4223,,,St. Mary’s,4374,,,Cape Ann,Catholic Central,3:45 P.M.,,0
 2026-03-24,88782,UPCOMING,Cohasset,4094,,,King Philip,4197,,,South Shore,Hockomock,4:30 P.M.,,0
+2026-03-24,88843,UPCOMING,Bellingham,4033,,,Tri-County,4392,,,Tri-Valley,Mayflower,4:15 P.M.,,0
+2026-03-24,88854,UPCOMING,Newton South,4280,,,Norwood,4297,,,Dual County,Tri-Valley,5:00 P.M.,,0
+2026-03-24,88858,UPCOMING,Milton,4252,,,Abington,4002,,,Bay State,South Shore,4:30 P.M.,,0
 2026-03-25,88524,UPCOMING,Natick,4270,,,Medway,4243,,,Bay State,Tri-Valley,6:00 P.M.,,0
 2026-03-25,88745,UPCOMING,Essex Tech,4745,,,Swampscott,4383,,,Cape Ann,Northeastern,6:00 P.M.,,0
+2026-03-25,88803,UPCOMING,Ashland,4015,,,Shepherd Hill,4347,,,Tri-Valley,Mid-Wach,4:30 P.M.,,0
+2026-03-25,88888,UPCOMING,Middleborough,4247,,,Old Rochester,4301,,,South Shore,South Coast,3:30 P.M.,,0
+2026-03-25,88894,UPCOMING,Hingham,4171,,,Norwell,4296,,,Patriot,South Shore,5:30 P.M.,,0
 2026-03-26,88559,UPCOMING,Catholic Memorial,4080,,,Wellesley,4413,,,Catholic Conference,Bay State,6:00 P.M.,,0
 2026-03-26,88619,UPCOMING,New Bedford,4273,,,Norton,4295,,,Big Three,Tri-Valley,4:00 P.M.,,0
 2026-03-26,88636,UPCOMING,Dennis-Yarmouth,4111,,,St. John Paul II,4689,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
@@ -21,10 +30,17 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-26,88757,UPCOMING,Hamilton-Wenham,4163,,,Salem,4336,,,Cape Ann,Northeastern,6:00 P.M.,,0
 2026-03-26,88765,UPCOMING,Danvers,4103,,,Lynnfield,4223,,,Northeastern,Cape Ann,4:30 P.M.,,0
 2026-03-26,88772,UPCOMING,Franklin,4144,,,BC High,4029,,,Hockomock,Catholic Conference,3:45 P.M.,,0
+2026-03-26,88859,UPCOMING,Whitman-Hanson,4427,,,Abington,4002,,,Patriot,South Shore,4:00 P.M.,,0
+2026-03-26,88865,UPCOMING,Archbishop Williams,4012,,,Cohasset,4094,,,Catholic Central,South Shore,4:30 P.M.,,0
 2026-03-27,88608,UPCOMING,Braintree,4051,,,North Quincy/Quincy,4287,,,Bay State,Patriot,4:00 P.M.,,0
 2026-03-27,88677,UPCOMING,Cardinal Spellman,4075,,,Martha’s Vineyard,4235,,,Catholic Central,Cape & Islands,3:30 P.M.,,0
 2026-03-27,88712,UPCOMING,Scituate,4343,,,Sandwich,4340,,,Patriot,Cape & Islands,4:30 P.M.,,0
 2026-03-27,88735,UPCOMING,Mashpee,4237,,,Monomoy,4706,,,South Shore,Cape & Islands,4:00 P.M.,,0
+2026-03-27,88804,UPCOMING,Ashland,4015,,,Hopkinton,4180,,,Tri-Valley,Tri-Valley,4:30 P.M.,,0
+2026-03-27,88810,UPCOMING,Westwood,4424,,,Dedham,4108,,,Tri-Valley,Tri-Valley,5:30 P.M.,,0
+2026-03-27,88824,UPCOMING,Holliston,4174,,,Norwood,4297,,,Tri-Valley,Tri-Valley,5:00 P.M.,,0
+2026-03-27,88871,UPCOMING,Hull,4184,,,East Bridgewater,4126,,,South Shore,South Shore,4:00 P.M.,,0
+2026-03-27,88890,UPCOMING,Greater New Bedford,4156,,,Middleborough,4247,,,South Coast,South Shore,3:45 P.M.,,0
 2026-03-28,88493,UPCOMING,Minnechaug,4254,,,Framingham,4143,,,Independent,Bay State,11:00 P.M.,,0
 2026-03-28,88528,UPCOMING,Natick,4270,,,Algonquin,4005,,,Bay State,Mid-Wach,11:00 P.M.,,0
 2026-03-28,88544,UPCOMING,Winchester,4434,,,Newton North,4279,,,Middlesex,Bay State,10:00 P.M.,,0
@@ -37,6 +53,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-30,88715,UPCOMING,Pembroke,4308,,,Sandwich,4340,,,Patriot,Cape & Islands,4:00 P.M.,,0
 2026-03-30,88767,UPCOMING,Lynnfield,4223,,,Melrose,4244,,,Cape Ann,Middlesex,4:00 P.M.,,0
 2026-03-30,88776,UPCOMING,Oliver Ames,4302,,,Franklin,4144,,,Hockomock,Hockomock,4:30 P.M.,,0
+2026-03-30,88805,UPCOMING,Norwood,4297,,,Ashland,4015,,,Tri-Valley,Tri-Valley,4:30 P.M.,,0
+2026-03-30,88811,UPCOMING,Holliston,4174,,,Dedham,4108,,,Tri-Valley,Tri-Valley,5:00 P.M.,,0
+2026-03-30,88835,UPCOMING,Hopkinton,4180,,,Westwood,4424,,,Tri-Valley,Tri-Valley,6:45 P.M.,,0
+2026-03-30,88849,UPCOMING,Medway,4243,,,Dover-Sherborn,4118,,,Tri-Valley,Tri-Valley,4:00 P.M.,,0
+2026-03-30,88904,UPCOMING,Rockland,4331,,,Whitman-Hanson,4427,,,South Shore,Patriot,4:00 P.M.,,0
 2026-03-31,88367,UPCOMING,Brookline,4059,,,Natick,4270,,,Bay State,Bay State,4:00 P.M.,,0
 2026-03-31,88497,UPCOMING,Newton North,4279,,,Framingham,4143,,,Bay State,Bay State,4:30 P.M.,,0
 2026-03-31,88560,UPCOMING,Milton,4252,,,Wellesley,4413,,,Bay State,Bay State,4:30 P.M.,,0
@@ -51,3 +72,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-31,88749,UPCOMING,Essex Tech,4745,,,Triton,4395,,,Cape Ann,Cape Ann,4:00 P.M.,,0
 2026-03-31,88758,UPCOMING,Hamilton-Wenham,4163,,,Danvers,4103,,,Cape Ann,Northeastern,4:00 P.M.,,0
 2026-03-31,88769,UPCOMING,Amesbury,4007,,,Lynnfield,4223,,,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-03-31,88808,UPCOMING,Ashland,4015,,,Advanced Math and Science,4595,,,Tri-Valley,Independent,4:30 P.M.,,0
+2026-03-31,88860,UPCOMING,Cohasset,4094,,,Abington,4002,,,South Shore,South Shore,4:00 P.M.,,0
+2026-03-31,88893,UPCOMING,Middleborough,4247,,,Seekonk,4344,,,South Shore,South Coast,4:00 P.M.,,0
+2026-04-01,88718,UPCOMING,Sandwich,4340,,,Apponequet,4011,,,Cape & Islands,South Coast,4:00 P.M.,,0
+2026-04-01,88896,UPCOMING,Sharon,4345,,,Norwell,4296,,,Hockomock,South Shore,3:45 P.M.,,0
+2026-04-01,88905,UPCOMING,Cardinal Spellman,4075,,,Rockland,4331,,,Catholic Central,South Shore,6:00 P.M.,,0

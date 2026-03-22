@@ -1,6 +1,6 @@
 # Girls Basketball - 2026 Season
 
-Generated: 2026-03-21 11:21
+Generated: 2026-03-22 11:21
 
 ## Upcoming Games
 
@@ -13,8 +13,6 @@ Generated: 2026-03-21 11:21
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-03-15 | Bishop Fenwick | 49 | Pittsfield | 44 | +4.1 | +5.0 |
 | 2026-03-15 | Drury | 35 | Hopedale | 48 | +3.3 | -13.0 |
-| 2026-03-14 | Springfield Central | 47 | Wachusett | 55 | -5.3 | -8.0 |
-| 2026-03-14 | Frontier | 38 | South Hadley | 49 | +7.8 | -11.0 |
 
 ## Current Elo Ratings
 
