@@ -1,6 +1,6 @@
 # Girls Hockey - 2026 Season
 
-Generated: 2026-03-22 11:21
+Generated: 2026-03-23 11:41
 
 ## Upcoming Games
 
@@ -9,10 +9,8 @@ Generated: 2026-03-22 11:21
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-03-15 | Methuen/Tewksbury | 2 | Archbishop Williams | 0 | +3.7 | +2.0 |
-| 2026-03-15 | Milton | 2 | King Philip | 1 | +3.2 | +1.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 

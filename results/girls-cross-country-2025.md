@@ -1,6 +1,6 @@
 # Girls Cross Country - 2025 Season
 
-Generated: 2026-03-22 11:21
+Generated: 2026-03-23 11:41
 
 ## Upcoming Games
 
@@ -104,8 +104,8 @@ Generated: 2026-03-22 11:21
 | 86 | Agawam | 1535.7 |
 | 87 | Masconomet | 1534.9 |
 | 88 | Norfolk Aggie | 1533.3 |
-| 89 | Hudson | 1532.5 |
-| 90 | Renaissance | 1532.5 |
+| 89 | Renaissance | 1532.5 |
+| 90 | Hudson | 1532.5 |
 | 91 | Sturgis West | 1531.6 |
 | 92 | North Reading | 1531.2 |
 | 93 | Natick | 1531.0 |
@@ -136,20 +136,20 @@ Generated: 2026-03-22 11:21
 | 118 | East Longmeadow | 1507.1 |
 | 119 | Holbrook/Avon | 1506.7 |
 | 120 | Westfield Tech | 1503.8 |
-| 121 | Bedford | 1501.7 |
-| 122 | Greater Lowell | 1501.7 |
-| 123 | Cape Cod Tech | 1501.7 |
+| 121 | Notre Dame (Worcester) | 1501.7 |
+| 122 | Waltham | 1501.7 |
+| 123 | Westfield | 1501.7 |
 | 124 | Amherst-Pelham | 1501.7 |
-| 125 | Notre Dame (Tyngsborough) | 1501.7 |
-| 126 | Westfield | 1501.7 |
-| 127 | Waltham | 1501.7 |
-| 128 | Wachusett | 1501.7 |
-| 129 | Notre Dame (Worcester) | 1501.7 |
-| 130 | Saugus | 1501.7 |
+| 125 | Bedford | 1501.7 |
+| 126 | Bridgewater-Raynham | 1501.7 |
+| 127 | Saugus | 1501.7 |
+| 128 | Greater Lawrence | 1501.7 |
+| 129 | Greater Lowell | 1501.7 |
+| 130 | Notre Dame (Tyngsborough) | 1501.7 |
 | 131 | Minnechaug | 1501.7 |
-| 132 | Boston Latin | 1501.7 |
-| 133 | Greater Lawrence | 1501.7 |
-| 134 | Bridgewater-Raynham | 1501.7 |
+| 132 | Wachusett | 1501.7 |
+| 133 | Cape Cod Tech | 1501.7 |
+| 134 | Boston Latin | 1501.7 |
 | 135 | Longmeadow | 1501.7 |
 | 136 | Concord-Carlisle | 1499.6 |
 | 137 | Lexington Christian | 1498.2 |
@@ -191,8 +191,8 @@ Generated: 2026-03-22 11:21
 | 173 | Sutton | 1465.4 |
 | 174 | South Shore Voc-Tech | 1464.2 |
 | 175 | Amesbury | 1463.2 |
-| 176 | Ayer Shirley | 1463.0 |
-| 177 | Clinton | 1463.0 |
+| 176 | Clinton | 1463.0 |
+| 177 | Ayer Shirley | 1463.0 |
 | 178 | Blackstone Valley | 1462.7 |
 | 179 | Hampshire | 1460.5 |
 | 180 | Pope Francis | 1460.0 |

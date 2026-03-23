@@ -1,6 +1,6 @@
 # Boys Hockey - 2026 Season
 
-Generated: 2026-03-22 11:21
+Generated: 2026-03-23 11:41
 
 ## Upcoming Games
 
@@ -9,12 +9,8 @@ Generated: 2026-03-22 11:21
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-03-15 | Pope Francis | 2 | St. John’s (Shrewsbury) | 1 | +4.9 | +1.0 |
-| 2026-03-15 | Canton | 2 | Tewksbury | 1 | +3.8 | +1.0 |
-| 2026-03-15 | Hanover | 7 | Medfield | 5 | +2.4 | +2.0 |
-| 2026-03-15 | Littleton/Bromfield | 5 | St. Bernard’s | 1 | +4.3 | +4.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 
@@ -138,8 +134,8 @@ Generated: 2026-03-22 11:21
 | 116 | Governor’s Academy | 1506.6 |
 | 117 | Deerfield | 1504.2 |
 | 118 | Billerica | 1503.0 |
-| 119 | Darien (Conn.) | 1502.8 |
-| 120 | Timberlane (N.H.) | 1502.8 |
+| 119 | Timberlane (N.H.) | 1502.8 |
+| 120 | Darien (Conn.) | 1502.8 |
 | 121 | Worcester | 1502.3 |
 | 122 | Canterbury | 1499.4 |
 | 123 | Weston | 1497.5 |
@@ -153,9 +149,9 @@ Generated: 2026-03-22 11:21
 | 131 | Northwood (N.Y.) | 1491.6 |
 | 132 | Amesbury/Whittier | 1491.3 |
 | 133 | Central Catholic | 1491.1 |
-| 134 | Stanstead (Canada) | 1490.8 |
+| 134 | Loomis Chaffee (Conn.) | 1490.8 |
 | 135 | La Salle (R.I.) | 1490.8 |
-| 136 | Loomis Chaffee (Conn.) | 1490.8 |
+| 136 | Stanstead (Canada) | 1490.8 |
 | 137 | Hoosac School | 1490.2 |
 | 138 | Fairfield Prep (Conn.) | 1489.9 |
 | 139 | St. Paul’s | 1489.7 |

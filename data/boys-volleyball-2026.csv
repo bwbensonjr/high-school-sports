@@ -110,3 +110,28 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-01,88573,UPCOMING,Hingham,4171,,,Durfee,4122,,,Patriot,Patriot,5:15 P.M.,,0
 2026-04-01,88588,UPCOMING,Scituate,4343,,,New Bedford,4273,,,Patriot,Patriot,4:00 P.M.,,0
 2026-04-01,88601,UPCOMING,Randolph,4327,,,Quincy,4326,,,Independent,Patriot,5:00 P.M.,,0
+2026-04-02,87957,UPCOMING,Framingham,4143,,,Brookline,4059,,,Bay State,Bay State,4:30 P.M.,,0
+2026-04-02,88030,UPCOMING,Milton,4252,,,Hingham,4171,,,Bay State,Patriot,4:30 P.M.,,0
+2026-04-02,88053,UPCOMING,Natick,4270,,,Wellesley,4413,,,Bay State,Bay State,4:00 P.M.,,0
+2026-04-02,88082,UPCOMING,Walpole,4404,,,Needham,4272,,,Bay State,Bay State,4:00 P.M.,,0
+2026-04-02,88094,UPCOMING,Boston United,4798,,,Madison Park,4225,,,Boston City,Boston City,4:00 P.M.,,0
+2026-04-02,88109,UPCOMING,O’Bryant,4298,,,Latin Academy,4202,,,Boston City,Boston City,5:00 P.M.,,0
+2026-04-02,88116,UPCOMING,Quincy,4326,,,Weymouth,4425,,,Patriot,Bay State,5:15 P.M.,,0
+2026-04-02,88151,UPCOMING,Catholic Memorial,4080,,,Xaverian,4446,,,Catholic Conference,Catholic Conference,4:00 P.M.,,0
+2026-04-02,88160,UPCOMING,St. John’s Prep,4369,,,St. John’s (Shrewsbury),4368,,,Catholic Conference,Catholic Conference,5:30 P.M.,,0
+2026-04-02,88188,UPCOMING,Collegiate Charter,4986,,,Worcester Tech,4445,,,Charter School Athletic,Independent,5:45 P.M.,,0
+2026-04-02,88192,UPCOMING,Innovation Academy,4690,,,Excel Academy,4969,,,Commonwealth,Charter School Athletic,4:00 P.M.,,0
+2026-04-02,88217,UPCOMING,Norton,4295,,,Bellingham,4033,,,Tri-Valley,Tri-Valley,5:00 P.M.,,0
+2026-04-02,88286,UPCOMING,Millis,4251,,,Norwood,4297,,,Tri-Valley,Tri-Valley,5:00 P.M.,,0
+2026-04-02,88302,UPCOMING,Milford,4249,,,Medfield,4241,,,Hockomock,Tri-Valley,6:00 P.M.,,0
+2026-04-02,88309,UPCOMING,Greater Lawrence,4154,,,Nashoba Valley Tech,4268,,,Commonwealth,Commonwealth,4:00 P.M.,,0
+2026-04-02,88317,UPCOMING,Arlington,4013,,,Lexington,4209,,,Middlesex,Middlesex,5:15 P.M.,,0
+2026-04-02,88324,UPCOMING,Belmont,4034,,,Burlington,4065,,,Middlesex,Middlesex,5:15 P.M.,,0
+2026-04-02,88335,UPCOMING,Wakefield,4402,,,Essex Tech,4745,,,Middlesex,Commonwealth,6:00 P.M.,,0
+2026-04-02,88344,UPCOMING,Winchester,4434,,,Woburn,4438,,,Middlesex,Middlesex,5:15 P.M.,,0
+2026-04-02,88423,UPCOMING,Everett,4132,,,Lawrence,4203,,,Greater Boston,Merrimack Valley,5:15 P.M.,,0
+2026-04-02,88435,UPCOMING,Lynn English,4221,,,Lynn Classical,4220,,,Greater Boston,Greater Boston,4:00 P.M.,,0
+2026-04-02,88473,UPCOMING,Phillips Andover,4310,,,Andover,4009,,,Independent,Merrimack Valley,4:30 P.M.,,0
+2026-04-02,88485,UPCOMING,Central Catholic,4081,,,Whittier,4428,,,Merrimack Valley,Commonwealth,5:00 P.M.,,0
+2026-04-02,88507,UPCOMING,Chelmsford,4085,,,Acton-Boxborough,4003,,,Merrimack Valley,Dual County,5:00 P.M.,,0
+2026-04-02,88518,UPCOMING,South Lancaster,4484,,,Dracut,4119,,,Independent,Merrimack Valley,5:15 P.M.,,0
