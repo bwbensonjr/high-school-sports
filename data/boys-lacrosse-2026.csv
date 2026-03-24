@@ -41,6 +41,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-27,88824,UPCOMING,Holliston,4174,,,Norwood,4297,,,Tri-Valley,Tri-Valley,5:00 P.M.,,0
 2026-03-27,88871,UPCOMING,Hull,4184,,,East Bridgewater,4126,,,South Shore,South Shore,4:00 P.M.,,0
 2026-03-27,88890,UPCOMING,Greater New Bedford,4156,,,Middleborough,4247,,,South Coast,South Shore,3:45 P.M.,,0
+2026-03-27,89104,UPCOMING,Plymouth North,4315,,,Barnstable,4024,,,Patriot,Pioneer,4:00 P.M.,,0
 2026-03-28,88493,UPCOMING,Minnechaug,4254,,,Framingham,4143,,,Independent,Bay State,11:00 P.M.,,0
 2026-03-28,88528,UPCOMING,Natick,4270,,,Algonquin,4005,,,Bay State,Mid-Wach,11:00 P.M.,,0
 2026-03-28,88544,UPCOMING,Winchester,4434,,,Newton North,4279,,,Middlesex,Bay State,10:00 P.M.,,0
@@ -58,6 +59,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-30,88835,UPCOMING,Hopkinton,4180,,,Westwood,4424,,,Tri-Valley,Tri-Valley,6:45 P.M.,,0
 2026-03-30,88849,UPCOMING,Medway,4243,,,Dover-Sherborn,4118,,,Tri-Valley,Tri-Valley,4:00 P.M.,,0
 2026-03-30,88904,UPCOMING,Rockland,4331,,,Whitman-Hanson,4427,,,South Shore,Patriot,4:00 P.M.,,0
+2026-03-30,89087,UPCOMING,Silver Lake,4349,,,Barnstable,4024,,,Patriot,Pioneer,4:30 P.M.,,0
+2026-03-30,89106,UPCOMING,Archbishop Williams,4012,,,Plymouth North,4315,,,Catholic Central,Patriot,4:00 P.M.,,0
 2026-03-31,88367,UPCOMING,Brookline,4059,,,Natick,4270,,,Bay State,Bay State,4:00 P.M.,,0
 2026-03-31,88497,UPCOMING,Newton North,4279,,,Framingham,4143,,,Bay State,Bay State,4:30 P.M.,,0
 2026-03-31,88560,UPCOMING,Milton,4252,,,Wellesley,4413,,,Bay State,Bay State,4:30 P.M.,,0
@@ -78,6 +81,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-01,88718,UPCOMING,Sandwich,4340,,,Apponequet,4011,,,Cape & Islands,South Coast,4:00 P.M.,,0
 2026-04-01,88896,UPCOMING,Sharon,4345,,,Norwell,4296,,,Hockomock,South Shore,3:45 P.M.,,0
 2026-04-01,88905,UPCOMING,Cardinal Spellman,4075,,,Rockland,4331,,,Catholic Central,South Shore,6:00 P.M.,,0
+2026-04-01,88943,UPCOMING,Plymouth North,4315,,,Hanover,4164,,,Patriot,Patriot,4:00 P.M.,,0
+2026-04-01,88970,UPCOMING,Silver Lake,4349,,,Scituate,4343,,,Patriot,Patriot,4:30 P.M.,,0
+2026-04-01,88991,UPCOMING,Duxbury,4123,,,Marshfield,4234,,,Patriot,Patriot,4:00 P.M.,,0
+2026-04-01,89034,UPCOMING,Pembroke,4308,,,Plymouth South,4316,,,Patriot,Patriot,4:00 P.M.,,0
+2026-04-01,89048,UPCOMING,Whitman-Hanson,4427,,,North Quincy/Quincy,4287,,,Patriot,Patriot,4:00 P.M.,,0
 2026-04-02,88368,UPCOMING,Brookline,4059,,,Needham,4272,,,Bay State,Bay State,4:00 P.M.,,0
 2026-04-02,88499,UPCOMING,Framingham,4143,,,Natick,4270,,,Bay State,Bay State,4:00 P.M.,,0
 2026-04-02,88563,UPCOMING,Wellesley,4413,,,Newton North,4279,,,Bay State,Bay State,4:30 P.M.,,0
@@ -97,3 +105,5 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-02,88844,UPCOMING,Bellingham,4033,,,Norwood,4297,,,Tri-Valley,Tri-Valley,4:30 P.M.,,0
 2026-04-02,88877,UPCOMING,North Quincy/Quincy,4287,,,Hull,4184,,,Patriot,South Shore,4:00 P.M.,,0
 2026-04-02,88882,UPCOMING,Rockland,4331,,,Mashpee,4237,,,South Shore,South Shore,4:30 P.M.,,0
+2026-04-03,88720,UPCOMING,Sandwich,4340,,,Hanover,4164,,,Cape & Islands,Patriot,4:00 P.M.,,0
+2026-04-03,88884,UPCOMING,Mashpee,4237,,,Bourne,4050,,,South Shore,South Coast,3:45 P.M.,,0
