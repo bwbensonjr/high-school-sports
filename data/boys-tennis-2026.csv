@@ -1,0 +1,32 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
+2026-03-26,90534,UPCOMING,Dennis-Yarmouth,4111,,,Nantucket,4265,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-03-27,90174,UPCOMING,Newton North,4279,,,Newton South,4280,,,Bay State,Dual County,4:30 P.M.,,0
+2026-03-27,90364,UPCOMING,Seekonk,4344,,,New Bedford,4273,,,South Coast,Big Three,3:30 P.M.,,0
+2026-03-30,90061,UPCOMING,Braintree,4051,,,Natick,4270,,,Bay State,Bay State,4:00 P.M.,,0
+2026-03-30,90180,UPCOMING,Weston,4423,,,Wellesley,4413,,,Dual County,Bay State,4:00 P.M.,,0
+2026-03-30,90354,UPCOMING,Middleborough,4247,,,Durfee,4122,,,South Shore,Big Three,4:00 P.M.,,0
+2026-03-30,90627,UPCOMING,Martha’s Vineyard,4235,,,Cape Cod Academy,4072,,,Cape & Islands,Cape & Islands,3:00 P.M.,,0
+2026-03-30,90667,UPCOMING,Sandwich,4340,,,Mashpee,4237,,,Cape & Islands,South Shore,4:00 P.M.,,0
+2026-03-31,90229,UPCOMING,Needham,4272,,,Newton North,4279,,,Bay State,Bay State,4:30 P.M.,,0
+2026-03-31,90244,UPCOMING,Quincy,4326,,,Weymouth,4425,,,Patriot,Bay State,4:00 P.M.,,0
+2026-03-31,90365,UPCOMING,New Bedford,4273,,,Bishop Stang,4045,,,Big Three,Catholic Central,3:30 P.M.,,0
+2026-03-31,90536,UPCOMING,Nauset,4271,,,Dennis-Yarmouth,4111,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-03-31,90567,UPCOMING,Plymouth North,4315,,,Dennis-Yarmouth,4111,,,Patriot,Cape & Islands,4:00 P.M.,,0
+2026-03-31,90571,UPCOMING,Plymouth North,4315,,,Falmouth,4134,,,Patriot,Cape & Islands,4:00 P.M.,,0
+2026-03-31,90697,UPCOMING,Bourne,4050,,,Monomoy,4706,,,South Coast,Cape & Islands,4:00 P.M.,,0
+2026-04-01,90356,UPCOMING,Durfee,4122,,,Diman,4115,,,Big Three,Mayflower,4:00 P.M.,,0
+2026-04-01,90396,UPCOMING,Cambridge,4067,,,Latin Academy,4202,,,Dual County,Boston City,4:30 P.M.,,0
+2026-04-01,90670,UPCOMING,Plymouth North,4315,,,Sandwich,4340,,,Patriot,Cape & Islands,4:00 P.M.,,0
+2026-04-01,90681,UPCOMING,Monomoy,4706,,,Cape Cod Academy,4072,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-04-02,90156,UPCOMING,Natick,4270,,,Walpole,4404,,,Bay State,Bay State,4:00 P.M.,,0
+2026-04-02,90185,UPCOMING,Needham,4272,,,Wellesley,4413,,,Bay State,Bay State,4:00 P.M.,,0
+2026-04-02,90210,UPCOMING,Brookline,4059,,,Bishop Feehan,4042,,,Bay State,Catholic Central,4:00 P.M.,,0
+2026-04-02,90245,UPCOMING,Weymouth,4425,,,Brockton,4058,,,Bay State,Big Three,4:00 P.M.,,0
+2026-04-02,90357,UPCOMING,Durfee,4122,,,Taunton,4388,,,Big Three,Hockomock,4:00 P.M.,,0
+2026-04-02,90366,UPCOMING,Apponequet,4011,,,New Bedford,4273,,,South Coast,Big Three,3:45 P.M.,,0
+2026-04-02,90401,UPCOMING,Latin Academy,4202,,,Medford,4242,,,Boston City,Greater Boston,4:00 P.M.,,0
+2026-04-02,90539,UPCOMING,Rising Tide Charter,4746,,,Dennis-Yarmouth,4111,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-04-02,90628,UPCOMING,Sharon,4345,,,Martha’s Vineyard,4235,,,Hockomock,Cape & Islands,4:00 P.M.,,0
+2026-04-02,90654,UPCOMING,Cape Cod Academy,4072,,,Nauset,4271,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-04-03,90673,UPCOMING,Sandwich,4340,,,Plymouth South,4316,,,Cape & Islands,Patriot,4:00 P.M.,,0
+2026-04-04,90633,UPCOMING,Martha’s Vineyard,4235,,,Nantucket,4265,,,Cape & Islands,Cape & Islands,12:30 P.M.,,0
