@@ -1,6 +1,6 @@
 # Girls Hockey - 2026 Season
 
-Generated: 2026-03-26 11:48
+Generated: 2026-03-27 11:40
 
 ## Upcoming Games
 
@@ -81,8 +81,8 @@ Generated: 2026-03-26 11:48
 | 63 | Choate | 1504.0 |
 | 64 | Berkshire | 1503.9 |
 | 65 | Governor’s Academy | 1503.4 |
-| 66 | Vermont Academy | 1502.8 |
-| 67 | Northfield Mt. Hermon | 1502.8 |
+| 66 | Northfield Mt. Hermon | 1502.8 |
+| 67 | Vermont Academy | 1502.8 |
 | 68 | Millbrook (N.Y.) | 1502.8 |
 | 69 | Kents Hill | 1502.7 |
 | 70 | Central Catholic | 1502.0 |

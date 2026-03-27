@@ -1,0 +1,5 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win,season,home_elo_pre,away_elo_pre,home_elo_post,away_elo_post,home_win_prob,away_win_prob,pred_point_spread,actual_point_spread
+2026-03-26,92954,FINAL,Wellesley,4413,1,0,Winchester,4434,4,1,Bay State,Middlesex,,,0,2026,1500.0,1500.0,1476.233517082463,1523.766482917537,0.5714631174083814,0.4285368825916186,2.0,-3.0
+2026-03-26,92963,FINAL,North Andover,4283,0,0,Chelmsford,4085,5,1,Merrimack Valley,Merrimack Valley,,,0,2026,1500.0,1500.0,1469.2822664420685,1530.7177335579315,0.5714631174083814,0.4285368825916186,2.0,-5.0
+2026-03-26,92985,FINAL,Tewksbury,4389,0,0,Central Catholic,4081,5,1,Merrimack Valley,Merrimack Valley,,,0,2026,1500.0,1500.0,1469.2822664420685,1530.7177335579315,0.5714631174083814,0.4285368825916186,2.0,-5.0
+2026-03-26,93000,FINAL,Methuen,4246,5,1,Haverhill,4167,0,0,Merrimack Valley,Merrimack Valley,,,0,2026,1500.0,1500.0,1523.03505051891,1476.96494948109,0.5714631174083814,0.4285368825916186,2.0,5.0
