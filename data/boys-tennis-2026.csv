@@ -172,3 +172,43 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-07,93119,UPCOMING,Chelmsford,4085,,,Central Catholic,4081,,,Merrimack Valley,Merrimack Valley,3:45 P.M.,,0
 2026-04-07,93229,UPCOMING,Methuen,4246,,,Tewksbury,4389,,,Merrimack Valley,Merrimack Valley,3:30 P.M.,,0
 2026-04-07,93336,UPCOMING,Haverhill,4167,,,Billerica,4040,,,Merrimack Valley,Merrimack Valley,3:30 P.M.,,0
+2026-04-08,90069,UPCOMING,Weymouth,4425,,,Braintree,4051,,,Bay State,Bay State,4:00 P.M.,,0
+2026-04-08,90100,UPCOMING,Framingham,4143,,,Natick,4270,,,Bay State,Bay State,4:00 P.M.,,0
+2026-04-08,90213,UPCOMING,Brookline,4059,,,Needham,4272,,,Bay State,Bay State,4:00 P.M.,,0
+2026-04-08,90215,UPCOMING,Walpole,4404,,,Milton,4252,,,Bay State,Bay State,4:00 P.M.,,0
+2026-04-08,90359,UPCOMING,Bridgewater-Raynham,4053,,,Durfee,4122,,,Pioneer,Big Three,4:00 P.M.,,0
+2026-04-08,90369,UPCOMING,Dartmouth,4105,,,New Bedford,4273,,,Pioneer,Big Three,4:00 P.M.,,0
+2026-04-08,90541,UPCOMING,Dennis-Yarmouth,4111,,,Martha’s Vineyard,4235,,,Cape & Islands,Cape & Islands,3:30 P.M.,,0
+2026-04-08,90580,UPCOMING,Sandwich,4340,,,Falmouth,4134,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-04-08,90646,UPCOMING,Nantucket,4265,,,Rising Tide Charter,4746,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-04-08,90659,UPCOMING,Monomoy,4706,,,Nauset,4271,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-04-08,90683,UPCOMING,Sturgis West,4735,,,Cape Cod Academy,4072,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-04-08,90686,UPCOMING,St. John Paul II,4689,,,Falmouth Academy,4135,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-04-08,91004,UPCOMING,Ipswich,4190,,,Lynnfield,4223,,,Cape Ann,Cape Ann,3:30 P.M.,,0
+2026-04-08,91014,UPCOMING,Rockport,4490,,,Mystic Valley,4264,,,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-04-08,91044,UPCOMING,Hamilton-Wenham,4163,,,Newburyport,4276,,,Cape Ann,Cape Ann,3:30 P.M.,,0
+2026-04-08,91069,UPCOMING,Amesbury,4007,,,Pentucket,4309,,,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-04-08,91138,UPCOMING,St. John’s Prep,4369,,,Malden Catholic,4228,,,Catholic Conference,Catholic Conference,5:00 P.M.,,0
+2026-04-08,91190,UPCOMING,Manchester Essex,4229,,,North Reading,4288,,,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-04-08,91360,UPCOMING,Marblehead,4231,,,Bishop Fenwick,4043,,,Northeastern,Catholic Central,,,0
+2026-04-08,91441,UPCOMING,St. John’s (Shrewsbury),4368,,,Catholic Memorial,4080,,,Catholic Conference,Catholic Conference,4:00 P.M.,,0
+2026-04-08,91532,UPCOMING,BC High,4029,,,Xaverian,4446,,,Catholic Conference,Catholic Conference,4:00 P.M.,,0
+2026-04-08,91725,UPCOMING,Northeast/Saugus,4293,,,Greater Lawrence,4154,,,Commonwealth,Commonwealth,4:00 P.M.,,0
+2026-04-08,91760,UPCOMING,Greater Lowell,4155,,,Nashoba Valley Tech,4268,,,Commonwealth,Commonwealth,4:00 P.M.,,0
+2026-04-08,92129,UPCOMING,Weston,4423,,,Newton South,4280,,,Dual County,Dual County,4:00 P.M.,,0
+2026-04-08,92175,UPCOMING,Boston Latin,4049,,,Cambridge,4067,,,Dual County,Dual County,3:30 P.M.,,0
+2026-04-08,92250,UPCOMING,Westford,4421,,,Waltham,4405,,,Dual County,Dual County,4:00 P.M.,,0
+2026-04-08,92314,UPCOMING,Acton-Boxborough,4003,,,Lincoln-Sudbury,4211,,,Dual County,Dual County,4:30 P.M.,,0
+2026-04-08,92322,UPCOMING,Bedford,4031,,,Concord-Carlisle,4097,,,Dual County,Dual County,4:00 P.M.,,0
+2026-04-08,92869,UPCOMING,Attleboro,4018,,,Oliver Ames,4302,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-04-08,92886,UPCOMING,Milford,4249,,,Canton,4071,,,Hockomock,Hockomock,4:00 P.M.,,0
+2026-04-08,92896,UPCOMING,Franklin,4144,,,North Attleborough,4284,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-04-08,92904,UPCOMING,King Philip,4197,,,Foxborough,4142,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-04-08,92929,UPCOMING,Stoughton,4381,,,Mansfield,4230,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-04-08,92931,UPCOMING,Taunton,4388,,,Stoughton,4381,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-04-08,93406,UPCOMING,Arlington,4013,,,Belmont,4034,,,Middlesex,Middlesex,4:15 P.M.,,0
+2026-04-08,93456,UPCOMING,Lexington,4209,,,Reading,4328,,,Middlesex,Middlesex,4:15 P.M.,,0
+2026-04-08,93498,UPCOMING,Woburn,4438,,,Winchester,4434,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-04-08,93524,UPCOMING,Burlington,4065,,,Melrose,4244,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-04-08,93537,UPCOMING,Stoneham,4380,,,Wakefield,4402,,,Middlesex,Middlesex,4:15 P.M.,,0
+2026-04-08,93545,UPCOMING,Wilmington,4432,,,Watertown,4409,,,Middlesex,Middlesex,4:15 P.M.,,0

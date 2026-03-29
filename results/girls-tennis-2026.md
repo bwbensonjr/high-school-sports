@@ -1,6 +1,6 @@
 # Girls Tennis - 2026 Season
 
-Generated: 2026-03-28 11:26
+Generated: 2026-03-29 11:27
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-03-28 11:26
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-03-28 | Thayer | 9 | Portsmouth Abbey | 0 | +2.0 | +9.0 |
 | 2026-03-27 | Millis | 5 | Mohawk Trail | 0 | +2.4 | +5.0 |
 | 2026-03-27 | Pope Francis | 0 | East Longmeadow | 5 | +2.0 | -5.0 |
 | 2026-03-27 | Fontbonne | 0 | North Quincy | 5 | +2.0 | -5.0 |
@@ -29,24 +30,26 @@ Generated: 2026-03-28 11:26
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Millis | 1531.3 |
-| 2 | East Longmeadow | 1530.7 |
+| 2 | Central Catholic | 1530.7 |
 | 3 | North Quincy | 1530.7 |
-| 4 | Central Catholic | 1530.7 |
-| 5 | Chelmsford | 1530.7 |
-| 6 | Winchester | 1523.8 |
+| 4 | Chelmsford | 1530.7 |
+| 5 | East Longmeadow | 1530.7 |
+| 6 | Thayer | 1529.6 |
 | 7 | Franklin | 1523.8 |
-| 8 | Methuen | 1523.0 |
-| 9 | Andover | 1521.3 |
-| 10 | Randolph | 1518.8 |
-| 11 | Swampscott | 1511.9 |
-| 12 | Ashland | 1491.1 |
-| 13 | Bishop Fenwick | 1488.1 |
-| 14 | Lowell Catholic | 1481.2 |
-| 15 | Mohawk Trail | 1477.6 |
-| 16 | Wellesley | 1476.2 |
-| 17 | Oliver Ames | 1476.2 |
-| 18 | Tewksbury | 1469.3 |
-| 19 | North Andover | 1469.3 |
+| 8 | Winchester | 1523.8 |
+| 9 | Methuen | 1523.0 |
+| 10 | Andover | 1521.3 |
+| 11 | Randolph | 1518.8 |
+| 12 | Swampscott | 1511.9 |
+| 13 | Ashland | 1491.1 |
+| 14 | Bishop Fenwick | 1488.1 |
+| 15 | Lowell Catholic | 1481.2 |
+| 16 | Mohawk Trail | 1477.6 |
+| 17 | Wellesley | 1476.2 |
+| 18 | Oliver Ames | 1476.2 |
+| 19 | Portsmouth Abbey | 1470.4 |
 | 20 | Pope Francis | 1469.3 |
 | 21 | Fontbonne | 1469.3 |
-| 22 | Haverhill | 1455.7 |
+| 22 | North Andover | 1469.3 |
+| 23 | Tewksbury | 1469.3 |
+| 24 | Haverhill | 1455.7 |

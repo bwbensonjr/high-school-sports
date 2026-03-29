@@ -1,5 +1,6 @@
 team,elo
 Mansfield,1546.426524300608
+St. John’s Prep,1543.9732186742879
 Leominster,1542.6009750167
 Medway,1541.4109253982301
 Stoneham,1541.1092612343652
@@ -11,14 +12,19 @@ BC High,1533.3604763992728
 St. John Paul II,1533.3604763992728
 Hoosac Valley,1532.9752620495583
 Scituate,1531.94622447694
+Natick,1531.94622447694
 North Andover,1530.7177335579315
 Southeastern,1529.951657757351
 Westborough,1529.602279129608
 Milford,1529.602279129608
+Advanced Math and Science,1529.602279129608
 Cape Cod Tech,1529.132546433491
+Middlesex,1527.592032201445
 Abington,1527.592032201445
+Lowell,1526.7335218740895
 Monson,1525.0168280723867
 North Quincy/Quincy,1523.766482917537
+Brookline,1523.03505051891
 Catholic Memorial,1523.03505051891
 Hopkinton,1518.834492099163
 Shepherd Hill,1518.834492099163
@@ -26,165 +32,166 @@ Tewksbury,1518.834492099163
 Sturgis East,1518.834492099163
 Littleton,1517.8223479160597
 Holliston,1514.1238765608803
+Winchester,1514.1238765608803
+Tabor,1514.1238765608803
+St. Sebastian’s,1511.8832414587685
 Old Colony,1511.8832414587685
 Fairhaven,1511.8832414587685
+Beverly,1511.8832414587685
+Weymouth,1508.9111739580298
+Minnechaug,1508.9111739580298
 Hull,1508.9111739580298
-Lincoln-Sudbury,1508.9111739580298
 Plymouth North,1508.9111739580298
-Concord-Carlisle,1500.0
-Plymouth South,1500.0
-Groton-Dunstable,1500.0
-Masconomet,1500.0
-Dover-Sherborn,1500.0
-Medfield,1500.0
-Marblehead,1500.0
-Monty Tech,1500.0
-Lynnfield,1500.0
-Foxborough,1500.0
-Newton North,1500.0
-Medford,1500.0
-North Attleborough,1500.0
-Hamilton-Wenham,1500.0
-Arlington Catholic,1500.0
-Hanover,1500.0
-Newburyport,1500.0
-Bourne/Mashpee,1500.0
-Blackstone Valley,1500.0
-Canton,1500.0
-Haverhill,1500.0
-Longmeadow,1500.0
-Lynn,1500.0
-St. John’s (Shrewsbury),1500.0
-Lowell,1500.0
-Walpole,1500.0
-Nantucket,1500.0
-Newton South,1500.0
-Acton-Boxborough,1500.0
-Beverly,1500.0
-Stoughton,1500.0
-Bishop Feehan,1500.0
-Danvers,1500.0
-Chelmsford,1500.0
-Rockland,1500.0
-Auburn,1500.0
-Manchester Essex,1500.0
-Bellingham,1500.0
-Cohasset,1500.0
-Bergen Catholic (N.J.),1500.0
-Taunton,1500.0
-Swampscott,1500.0
-Greater Lowell,1500.0
-Methuen,1500.0
-Wilmington,1500.0
-Nashoba Valley Tech,1500.0
-Natick,1500.0
-Silver Lake,1500.0
-Weston,1500.0
-Dartmouth,1500.0
-Malden,1500.0
-Burlington,1500.0
-Mashpee,1500.0
+Lincoln-Sudbury,1508.9111739580298
+Reading,1500.0
 Duxbury,1500.0
-Gloucester,1500.0
-Marshfield,1500.0
-Pentucket,1500.0
-Winchester,1500.0
-King Philip,1500.0
-Somerville,1500.0
-Lowell Catholic,1500.0
-Bishop Fenwick,1500.0
-Algonquin,1500.0
-Somerset Berkley,1500.0
-Winthrop,1500.0
-Saugus,1500.0
-St. Mary’s,1500.0
-Attleboro,1500.0
-St. Anthony’s (N.Y.),1500.0
-Dighton-Rehoboth,1500.0
-Needham,1500.0
-Latin Academy,1500.0
-Belmont,1500.0
-Bedford,1500.0
-Seekonk,1500.0
-Westford,1500.0
-Central Catholic,1500.0
-Archbishop Williams,1500.0
-Peabody,1500.0
-Revere,1500.0
-St. Bernard’s,1500.0
-Wakefield,1500.0
-Milton,1500.0
+Marblehead,1500.0
+Walpole,1500.0
 Arlington,1500.0
-Ipswich,1500.0
-Salem,1500.0
-Advanced Math and Science,1500.0
-Watertown,1500.0
-Wayland,1500.0
-Minnechaug,1500.0
-Mystic Valley,1500.0
-Hingham,1500.0
+Attleboro,1500.0
+Malden,1500.0
+Auburn,1500.0
+Tri-County,1500.0
+Cohasset,1500.0
+Silver Lake,1500.0
+Foxborough,1500.0
+Lowell Catholic,1500.0
+Gloucester,1500.0
+Revere,1500.0
+Martha’s Vineyard,1500.0
+Dighton-Rehoboth,1500.0
+Groton-Dunstable,1500.0
+Norwell,1500.0
+Peabody,1500.0
+Lynn,1500.0
+Canton,1500.0
+Masconomet,1500.0
+King Philip,1500.0
+Melrose,1500.0
+Dover-Sherborn,1500.0
+Bridgewater-Raynham,1500.0
+Needham,1500.0
+Dracut,1500.0
+North Attleborough,1500.0
+Manchester Essex,1500.0
+Latin Academy,1500.0
+Stoughton,1500.0
+Concord-Carlisle,1500.0
+St. Bernard’s,1500.0
+Bedford,1500.0
+Nashoba Valley Tech,1500.0
+Nantucket,1500.0
+Dartmouth,1500.0
+Somerville,1500.0
+Minuteman,1500.0
+Greater Lowell,1500.0
+Rockland,1500.0
+St. Anthony’s (N.Y.),1500.0
+Blackstone Valley,1500.0
+Belmont,1500.0
+Hanover,1500.0
+Wilmington,1500.0
+Westford,1500.0
+Saugus,1500.0
 Malden Catholic,1500.0
 Whittier,1500.0
-Bourne,1500.0
-Dracut,1500.0
-St. John’s Prep,1500.0
-Bishop Stang,1500.0
 Andover,1500.0
-Martha’s Vineyard,1500.0
-Cambridge,1500.0
 South Shore Voc-Tech,1500.0
-Bridgewater-Raynham,1500.0
-Woburn,1500.0
-Weymouth,1500.0
-Falmouth,1500.0
-Norwell,1500.0
-Tri-County,1500.0
-Framingham,1500.0
-Xaverian,1500.0
-Moses Brown (R.I.),1500.0
-Melrose,1500.0
-Pembroke,1500.0
-Brookline,1500.0
+Hamilton-Wenham,1500.0
+Ipswich,1500.0
+Winthrop,1500.0
 Triton,1500.0
-Cardinal Spellman,1500.0
-Apponequet,1500.0
-Upper Cape,1500.0
-Reading,1500.0
-Essex Tech,1500.0
+Newton South,1500.0
+Bourne,1500.0
+Cambridge,1500.0
+Bishop Stang,1500.0
+Falmouth,1500.0
+Xaverian,1500.0
+Mashpee,1500.0
+Moses Brown (R.I.),1500.0
+Bishop Fenwick,1500.0
+Bellingham,1500.0
 Amesbury,1500.0
-Minuteman,1500.0
-Shawsheen,1500.0
+Central Catholic,1500.0
+St. Mary’s,1500.0
+Apponequet,1500.0
+Lynnfield,1500.0
+Burlington,1500.0
+Plymouth South,1500.0
+Wakefield,1500.0
+Bourne/Mashpee,1500.0
+Archbishop Williams,1500.0
+Mystic Valley,1500.0
+Upper Cape,1500.0
+Pembroke,1500.0
+Haverhill,1500.0
 Sharon,1500.0
+Watertown,1500.0
+St. John’s (Shrewsbury),1500.0
+Taunton,1500.0
+Hingham,1500.0
+Methuen,1500.0
+Milton,1500.0
+Arlington Catholic,1500.0
+Shawsheen,1500.0
+Weston,1500.0
+Seekonk,1500.0
+Bergen Catholic (N.J.),1500.0
+Cardinal Spellman,1500.0
+Swampscott,1500.0
+Newburyport,1500.0
+Bishop Feehan,1500.0
+Danvers,1500.0
+Essex Tech,1500.0
+Chelmsford,1500.0
+Pentucket,1500.0
+Marshfield,1500.0
+Longmeadow,1500.0
+Medfield,1500.0
+Monty Tech,1500.0
 Norton,1499.6983358361351
 East Bridgewater,1491.0888260419702
+Framingham,1491.0888260419702
 Billerica,1491.0888260419702
+Medford,1491.0888260419702
 Barnstable,1491.0888260419702
 Oliver Ames,1488.1167585412315
 Blue Hills,1488.1167585412315
+Taft,1488.1167585412315
+Woburn,1488.1167585412315
+Dennis-Yarmouth,1486.9984076945777
+Newton North,1485.8761234391197
+Avon Old Farms,1485.8761234391197
 Norwood,1485.8761234391197
 North Middlesex,1482.1776520839403
-Ashland,1481.165507900837
-Cape Cod Academy,1481.165507900837
-North Reading,1481.165507900837
 Assabet,1481.165507900837
+North Reading,1481.165507900837
+Cape Cod Academy,1481.165507900837
+Ashland,1481.165507900837
+Somerset Berkley,1479.6411159061495
+Wayland,1476.96494948109
 Wellesley,1476.96494948109
 Braintree,1476.233517082463
 Pittsfield,1474.9831719276133
+Salem,1473.2664781259105
 Whitman-Hanson,1472.407967798555
+Pingree,1472.407967798555
 Monomoy,1471.6335293670895
-Old Rochester,1470.397720870392
 Nashoba,1470.397720870392
-Lexington,1469.2822664420685
+Tyngsborough,1470.397720870392
+Old Rochester,1470.397720870392
 Falmouth Academy,1469.2822664420685
+Lexington,1469.2822664420685
 Sandwich,1468.05377552306
+Algonquin,1468.05377552306
 McCann Tech,1467.0247379504417
 Franklin,1466.6395236007272
-Dennis-Yarmouth,1466.6395236007272
 Dedham,1466.0719979695834
 Boston Latin,1466.0719979695834
-Greater New Bedford,1460.5247263397866
 Westport,1460.5247263397866
+Greater New Bedford,1460.5247263397866
 Northeast,1458.8907387656348
 New Bedford,1458.8907387656348
 Doherty,1457.3990249833
+Acton-Boxborough,1456.0267813257121
 Nauset,1453.573475699392
