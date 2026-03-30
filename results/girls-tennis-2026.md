@@ -1,6 +1,6 @@
 # Girls Tennis - 2026 Season
 
-Generated: 2026-03-29 11:27
+Generated: 2026-03-30 11:53
 
 ## Upcoming Games
 
@@ -30,10 +30,10 @@ Generated: 2026-03-29 11:27
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Millis | 1531.3 |
-| 2 | Central Catholic | 1530.7 |
+| 2 | East Longmeadow | 1530.7 |
 | 3 | North Quincy | 1530.7 |
-| 4 | Chelmsford | 1530.7 |
-| 5 | East Longmeadow | 1530.7 |
+| 4 | Central Catholic | 1530.7 |
+| 5 | Chelmsford | 1530.7 |
 | 6 | Thayer | 1529.6 |
 | 7 | Franklin | 1523.8 |
 | 8 | Winchester | 1523.8 |
@@ -45,11 +45,11 @@ Generated: 2026-03-29 11:27
 | 14 | Bishop Fenwick | 1488.1 |
 | 15 | Lowell Catholic | 1481.2 |
 | 16 | Mohawk Trail | 1477.6 |
-| 17 | Wellesley | 1476.2 |
-| 18 | Oliver Ames | 1476.2 |
+| 17 | Oliver Ames | 1476.2 |
+| 18 | Wellesley | 1476.2 |
 | 19 | Portsmouth Abbey | 1470.4 |
-| 20 | Pope Francis | 1469.3 |
+| 20 | North Andover | 1469.3 |
 | 21 | Fontbonne | 1469.3 |
-| 22 | North Andover | 1469.3 |
-| 23 | Tewksbury | 1469.3 |
+| 22 | Tewksbury | 1469.3 |
+| 23 | Pope Francis | 1469.3 |
 | 24 | Haverhill | 1455.7 |
