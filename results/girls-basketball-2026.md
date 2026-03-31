@@ -1,6 +1,6 @@
 # Girls Basketball - 2026 Season
 
-Generated: 2026-03-30 11:53
+Generated: 2026-03-31 11:47
 
 ## Upcoming Games
 
@@ -211,8 +211,8 @@ Generated: 2026-03-30 11:53
 | 193 | Monomoy | 1503.5 |
 | 194 | Winchester | 1503.3 |
 | 195 | Community Charter | 1502.8 |
-| 196 | Gann Academy | 1502.8 |
-| 197 | TechBoston/Henderson Inclusion School | 1502.8 |
+| 196 | TechBoston/Henderson Inclusion School | 1502.8 |
+| 197 | Gann Academy | 1502.8 |
 | 198 | Trivium | 1502.8 |
 | 199 | Wilbraham & Monson | 1501.4 |
 | 200 | Fenway | 1500.8 |
