@@ -1,6 +1,6 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-03-31 11:46
+Generated: 2026-04-01 11:51
 
 ## Upcoming Games
 
@@ -31,20 +31,20 @@ Generated: 2026-03-31 11:46
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Weymouth | 1500.0 |
-| 2 | Cambridge | 1500.0 |
-| 3 | Belmont | 1500.0 |
-| 4 | St. John’s Prep | 1500.0 |
-| 5 | Catholic Memorial | 1500.0 |
-| 6 | Algonquin/Westboro | 1500.0 |
-| 7 | Brookline | 1500.0 |
-| 8 | Hingham/Norwell | 1500.0 |
-| 9 | Xaverian | 1500.0 |
-| 10 | Malden Catholic | 1500.0 |
-| 11 | Chelmsford | 1500.0 |
-| 12 | Lincoln-Sudbury | 1500.0 |
-| 13 | Blue Hills | 1500.0 |
-| 14 | Marshfield/SST | 1500.0 |
-| 15 | Milton | 1500.0 |
-| 16 | BC High | 1500.0 |
-| 17 | Hanover | 1500.0 |
+| 1 | Hanover | 1500.0 |
+| 2 | Algonquin/Westboro | 1500.0 |
+| 3 | BC High | 1500.0 |
+| 4 | Marshfield/SST | 1500.0 |
+| 5 | Chelmsford | 1500.0 |
+| 6 | Catholic Memorial | 1500.0 |
+| 7 | Malden Catholic | 1500.0 |
+| 8 | Milton | 1500.0 |
+| 9 | Weymouth | 1500.0 |
+| 10 | Brookline | 1500.0 |
+| 11 | Belmont | 1500.0 |
+| 12 | Cambridge | 1500.0 |
+| 13 | St. John’s Prep | 1500.0 |
+| 14 | Hingham/Norwell | 1500.0 |
+| 15 | Lincoln-Sudbury | 1500.0 |
+| 16 | Xaverian | 1500.0 |
+| 17 | Blue Hills | 1500.0 |
