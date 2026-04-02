@@ -1,3 +1,6 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
 2026-03-26,93675,FINAL,Apponequet,4011,96,1,Bourne,4050,16,0,South Coast,South Coast,,,0
 2026-03-31,94960,FINAL,Ashland,4015,43,0,Hopkinton,4180,93,1,Tri-Valley,Tri-Valley,,,0
+2026-04-01,95437,FINAL,Masconomet,4236,99,1,Beverly,4038,37,0,Northeastern,Northeastern,,,0
+2026-04-01,95440,FINAL,Masconomet,4236,120,1,Salem,4336,16,0,Northeastern,Northeastern,,,0
+2026-04-01,95461,FINAL,Central Catholic,4081,102,1,Andover,4009,43,0,Merrimack Valley,Merrimack Valley,,,0

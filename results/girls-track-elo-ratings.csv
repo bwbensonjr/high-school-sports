@@ -1,3 +1,6 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win,season,home_elo_pre,away_elo_pre,home_elo_post,away_elo_post,home_win_prob,away_win_prob,pred_point_spread,actual_point_spread
 2026-03-26,93675,FINAL,Apponequet,4011,96,1,Bourne,4050,16,0,South Coast,South Coast,,,0,2026,1500.0,1500.0,1556.495506243521,1443.504493756479,0.5714631174083814,0.4285368825916186,2.0,80.0
 2026-03-31,94960,FINAL,Ashland,4015,43,0,Hopkinton,4180,93,1,Tri-Valley,Tri-Valley,,,0,2026,1500.0,1500.0,1432.5932000045152,1567.4067999954848,0.5714631174083814,0.4285368825916186,2.0,-50.0
+2026-04-01,95437,FINAL,Masconomet,4236,99,1,Beverly,4038,37,0,Northeastern,Northeastern,,,0,2026,1500.0,1500.0,1553.2645811941472,1446.7354188058528,0.5714631174083814,0.4285368825916186,2.0,62.0
+2026-04-01,95440,FINAL,Masconomet,4236,120,1,Salem,4336,16,0,Northeastern,Northeastern,,,0,2026,1553.2645811941472,1500.0,1602.9154116503275,1450.3491695438197,0.6443829432675215,0.35561705673247845,4.130583247765889,104.0
+2026-04-01,95461,FINAL,Central Catholic,4081,102,1,Andover,4009,43,0,Merrimack Valley,Merrimack Valley,,,0,2026,1500.0,1500.0,1552.637329648518,1447.362670351482,0.5714631174083814,0.4285368825916186,2.0,59.0

@@ -1,13 +1,11 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-04-01 11:51
+Generated: 2026-04-02 11:42
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-04-01 | 6:00 P.M. | Milton | Blue Hills | 57.1% | +2.0 |
-| 2026-04-01 | 6:30 P.M. | Algonquin/Westboro | Hanover | 57.1% | +2.0 |
 | 2026-04-02 | 5:30 P.M. | Weymouth | BC High | 57.1% | +2.0 |
 | 2026-04-02 | 6:30 P.M. | Xaverian | Belmont | 57.1% | +2.0 |
 | 2026-04-02 | 4:30 P.M. | Brookline | Lincoln-Sudbury | 57.1% | +2.0 |
@@ -32,19 +30,19 @@ Generated: 2026-04-01 11:51
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Hanover | 1500.0 |
-| 2 | Algonquin/Westboro | 1500.0 |
-| 3 | BC High | 1500.0 |
-| 4 | Marshfield/SST | 1500.0 |
+| 2 | Belmont | 1500.0 |
+| 3 | Malden Catholic | 1500.0 |
+| 4 | Blue Hills | 1500.0 |
 | 5 | Chelmsford | 1500.0 |
-| 6 | Catholic Memorial | 1500.0 |
-| 7 | Malden Catholic | 1500.0 |
-| 8 | Milton | 1500.0 |
-| 9 | Weymouth | 1500.0 |
+| 6 | Milton | 1500.0 |
+| 7 | Xaverian | 1500.0 |
+| 8 | St. John’s Prep | 1500.0 |
+| 9 | Catholic Memorial | 1500.0 |
 | 10 | Brookline | 1500.0 |
-| 11 | Belmont | 1500.0 |
-| 12 | Cambridge | 1500.0 |
-| 13 | St. John’s Prep | 1500.0 |
+| 11 | Cambridge | 1500.0 |
+| 12 | Lincoln-Sudbury | 1500.0 |
+| 13 | Marshfield/SST | 1500.0 |
 | 14 | Hingham/Norwell | 1500.0 |
-| 15 | Lincoln-Sudbury | 1500.0 |
-| 16 | Xaverian | 1500.0 |
-| 17 | Blue Hills | 1500.0 |
+| 15 | BC High | 1500.0 |
+| 16 | Weymouth | 1500.0 |
+| 17 | Algonquin/Westboro | 1500.0 |

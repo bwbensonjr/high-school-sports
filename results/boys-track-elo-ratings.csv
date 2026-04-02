@@ -1,3 +1,4 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win,season,home_elo_pre,away_elo_pre,home_elo_post,away_elo_post,home_win_prob,away_win_prob,pred_point_spread,actual_point_spread
 2026-03-26,93673,FINAL,Apponequet,4011,75,1,Bourne,4050,43,0,South Coast,South Coast,,,0,2026,1500.0,1500.0,1544.951473510466,1455.048526489534,0.5714631174083814,0.4285368825916186,2.0,32.0
 2026-03-31,94963,FINAL,Diman,4115,97,1,Bristol-Plymouth,4057,39,0,Mayflower,Mayflower,,,0,2026,1500.0,1500.0,1552.4212555458587,1447.5787444541413,0.5714631174083814,0.4285368825916186,2.0,58.0
+2026-04-01,95451,FINAL,Central Catholic,4081,91,1,Andover,4009,54,0,Merrimack Valley,Merrimack Valley,,,0,2026,1500.0,1500.0,1546.7651949914268,1453.2348050085732,0.5714631174083814,0.4285368825916186,2.0,37.0

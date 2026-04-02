@@ -33,10 +33,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-03-31,94966,UPCOMING,Dennis-Yarmouth,4111,,,Randolph,4327,,,Cape & Islands,South Shore,4:30 P.M.,,0
 2026-03-31,95039,FINAL,Monomoy,4706,5,1,Bourne,4050,0,0,Cape & Islands,South Coast,,,0
 2026-03-31,95059,POSTPONED,Lynnfield,4223,,,Bishop Fenwick,4043,,,Cape Ann,Catholic Central,3:30 P.M.,,0
-2026-04-01,94853,UPCOMING,Latin Academy/East Boston/O’Bryant,4202,,,Cambridge,4067,,,Boston City,Dual County,4:30 P.M.,,0
-2026-04-01,94939,UPCOMING,Sandwich,4340,,,Plymouth North,4315,,,Cape & Islands,Patriot,4:00 P.M.,,0
+2026-03-31,95218,FINAL,Middleborough,4247,0,0,Norwell,4296,5,1,South Shore,South Shore,,,0
+2026-04-01,94853,FINAL,Latin Academy/East Boston/O’Bryant,4202,3,1,Cambridge,4067,2,0,Boston City,Dual County,4:30 P.M.,,0
+2026-04-01,94939,POSTPONED,Sandwich,4340,,,Plymouth North,4315,,,Cape & Islands,Patriot,4:00 P.M.,,0
 2026-04-01,94997,UPCOMING,St. John Paul II,4689,,,Nantucket,4265,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
-2026-04-01,95089,UPCOMING,Newburyport,4276,,,Manchester Essex,4229,,,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-04-01,95089,FINAL,Newburyport,4276,2,0,Manchester Essex,4229,3,1,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-04-01,95363,POSTPONED,Norton,4295,,,Medway,4243,,,Tri-Valley,Tri-Valley,3:45 P.M.,,0
+2026-04-01,95365,POSTPONED,Lowell Catholic,4217,,,Gloucester,4150,,,Commonwealth,Northeastern,4:30 P.M.,,0
+2026-04-01,95394,FINAL,Nashoba,4267,4,1,Fitchburg,4139,0,0,Mid-Wach,Independent,,,0
+2026-04-01,95398,POSTPONED,Westwood,4424,,,Hopkinton,4180,,,Tri-Valley,Tri-Valley,,,0
+2026-04-01,95416,FINAL,Governor’s Academy,4152,3,0,Pingree,4312,4,1,ISL,EIL,,,0
+2026-04-01,95423,FINAL,Wilbraham & Monson,4545,6,1,Cushing,4101,0,0,Independent,Independent,,,0
+2026-04-01,95434,FINAL,Thayer,4390,9,1,St. George’s,4367,0,0,ISL,ISL,,,0
+2026-04-01,95464,FINAL,Haverhill,4167,3,1,Lawrence,4203,2,0,Merrimack Valley,Merrimack Valley,,,0
 2026-04-02,94450,UPCOMING,Wellesley,4413,,,Needham,4272,,,Bay State,Bay State,4:00 P.M.,,0
 2026-04-02,94479,UPCOMING,Walpole,4404,,,Natick,4270,,,Bay State,Bay State,4:00 P.M.,,0
 2026-04-02,94491,UPCOMING,Brockton,4058,,,Weymouth,4425,,,Big Three,Bay State,4:00 P.M.,,0
@@ -47,6 +56,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-03,94943,UPCOMING,Plymouth South,4316,,,Sandwich,4340,,,Patriot,Cape & Islands,12:30 P.M.,,0
 2026-04-03,95000,UPCOMING,Nantucket,4265,,,Barnstable,4024,,,Cape & Islands,Pioneer,4:00 P.M.,,0
 2026-04-03,95094,UPCOMING,Masconomet,4236,,,Newburyport,4276,,,Northeastern,Cape Ann,4:00 P.M.,,0
+2026-04-03,95361,UPCOMING,Rockport,4490,,,Manchester Essex,4229,,,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-04-03,95383,UPCOMING,Gloucester,4150,,,Ipswich,4190,,,Northeastern,Cape Ann,3:30 P.M.,,0
 2026-04-04,94979,UPCOMING,Nantucket,4265,,,Martha’s Vineyard,4235,,,Cape & Islands,Cape & Islands,10:45 A.M.,,0
 2026-04-06,94451,UPCOMING,Wellesley,4413,,,Milton,4252,,,Bay State,Bay State,4:00 P.M.,,0
 2026-04-06,94464,UPCOMING,Natick,4270,,,Brookline,4059,,,Bay State,Bay State,4:30 P.M.,,0
@@ -60,6 +71,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-06,95054,UPCOMING,Rising Tide Charter,4746,,,Carver,4077,,,Cape & Islands,South Shore,4:30 P.M.,,0
 2026-04-06,95065,UPCOMING,Newburyport,4276,,,Lynnfield,4223,,,Cape Ann,Cape Ann,4:00 P.M.,,0
 2026-04-06,95129,UPCOMING,Triton,4395,,,North Reading,4288,,,Cape Ann,Cape Ann,4:15 P.M.,,0
+2026-04-06,95368,UPCOMING,Ipswich,4190,,,Manchester Essex,4229,,,Cape Ann,Cape Ann,3:30 P.M.,,0
+2026-04-06,95380,UPCOMING,Hamilton-Wenham,4163,,,Amesbury,4007,,,Cape Ann,Cape Ann,3:30 P.M.,,0
 2026-04-07,94744,UPCOMING,Rockland,4331,,,Brockton,4058,,,South Shore,Big Three,4:00 P.M.,,0
 2026-04-07,94857,UPCOMING,Latin Academy/East Boston/O’Bryant,4202,,,Bishop Feehan,4042,,,Boston City,Catholic Central,4:00 P.M.,,0
 2026-04-07,94969,UPCOMING,Dennis-Yarmouth,4111,,,Randolph,4327,,,Cape & Islands,South Shore,4:00 P.M.,,0
@@ -78,11 +91,13 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-08,95025,UPCOMING,Cape Cod Academy,4072,,,Sturgis West,4735,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-04-08,95070,UPCOMING,Ipswich,4190,,,Lynnfield,4223,,,Cape Ann,Cape Ann,3:30 P.M.,,0
 2026-04-08,95095,UPCOMING,Newburyport,4276,,,Hamilton-Wenham,4163,,,Cape Ann,Cape Ann,3:30 P.M.,,0
-2026-04-08,95119,UPCOMING,Pentucket,4309,,,Amesbury,4007,,,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-04-08,95119,UPCOMING,Amesbury,4007,,,Pentucket,4309,,,Cape Ann,Cape Ann,4:00 P.M.,,0
 2026-04-08,95132,UPCOMING,Triton,4395,,,Rockport,4490,,,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-04-08,95369,UPCOMING,North Reading,4288,,,Manchester Essex,4229,,,Cape Ann,Cape Ann,4:00 P.M.,,0
 2026-04-09,94971,UPCOMING,Dennis-Yarmouth,4111,,,Sturgis East,4456,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-04-09,95045,UPCOMING,Mashpee,4237,,,Monomoy,4706,,,South Shore,Cape & Islands,4:00 P.M.,,0
 2026-04-09,95071,UPCOMING,Lynnfield,4223,,,Swampscott,4383,,,Cape Ann,Northeastern,4:15 P.M.,,0
+2026-04-09,95371,UPCOMING,Masconomet,4236,,,Manchester Essex,4229,,,Northeastern,Cape Ann,4:00 P.M.,,0
 2026-04-10,94455,UPCOMING,Wellesley,4413,,,Brookline,4059,,,Bay State,Bay State,4:00 P.M.,,0
 2026-04-10,94476,UPCOMING,Framingham,4143,,,Walpole,4404,,,Bay State,Bay State,4:00 P.M.,,0
 2026-04-10,94481,UPCOMING,Newton North,4279,,,Natick,4270,,,Bay State,Bay State,4:30 P.M.,,0
@@ -95,4 +110,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-10,95006,UPCOMING,Nantucket,4265,,,Cape Cod Academy,4072,,,Cape & Islands,Cape & Islands,3:30 P.M.,,0
 2026-04-10,95022,UPCOMING,Nauset,4271,,,Longmeadow,4214,,,Cape & Islands,Independent,4:00 P.M.,,0
 2026-04-10,95029,UPCOMING,Sturgis West,4735,,,Sturgis East,4456,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-04-10,95382,UPCOMING,Marblehead,4231,,,Hamilton-Wenham,4163,,,Northeastern,Cape Ann,4:00 P.M.,,0
+2026-04-10,95384,UPCOMING,Ipswich,4190,,,Gloucester,4150,,,Cape Ann,Northeastern,4:00 P.M.,,0
 2026-04-11,94985,UPCOMING,Martha’s Vineyard,4235,,,Dover-Sherborn,4118,,,Cape & Islands,Tri-Valley,2:00 P.M.,,0

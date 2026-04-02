@@ -1,6 +1,6 @@
 # Boys Track - 2026 Season
 
-Generated: 2026-04-01 11:51
+Generated: 2026-04-02 11:42
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-04-01 11:51
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-04-01 | Central Catholic | 91 | Andover | 54 | +2.0 | +37.0 |
 | 2026-03-31 | Diman | 97 | Bristol-Plymouth | 39 | +2.0 | +58.0 |
 | 2026-03-26 | Apponequet | 75 | Bourne | 43 | +2.0 | +32.0 |
 
@@ -19,6 +20,8 @@ Generated: 2026-04-01 11:51
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Diman | 1552.4 |
-| 2 | Apponequet | 1545.0 |
-| 3 | Bourne | 1455.0 |
-| 4 | Bristol-Plymouth | 1447.6 |
+| 2 | Central Catholic | 1546.8 |
+| 3 | Apponequet | 1545.0 |
+| 4 | Bourne | 1455.0 |
+| 5 | Andover | 1453.2 |
+| 6 | Bristol-Plymouth | 1447.6 |
