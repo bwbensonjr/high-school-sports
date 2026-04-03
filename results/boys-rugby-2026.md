@@ -1,48 +1,47 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-04-02 11:42
+Generated: 2026-04-03 11:35
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-04-02 | 5:30 P.M. | Weymouth | BC High | 57.1% | +2.0 |
-| 2026-04-02 | 6:30 P.M. | Xaverian | Belmont | 57.1% | +2.0 |
-| 2026-04-02 | 4:30 P.M. | Brookline | Lincoln-Sudbury | 57.1% | +2.0 |
-| 2026-04-02 | 5:00 P.M. | Hingham/Norwell | Chelmsford | 57.1% | +2.0 |
 | 2026-04-04 | 12:00 P.M. | Malden Catholic | Marshfield/SST | 57.1% | +2.0 |
-| 2026-04-08 | 5:00 P.M. | St. John’s Prep | Weymouth | 57.1% | +2.0 |
-| 2026-04-09 | 5:30 P.M. | BC High | Xaverian | 57.1% | +2.0 |
+| 2026-04-08 | 5:00 P.M. | St. John’s Prep | Weymouth | 66.4% | +4.7 |
+| 2026-04-09 | 5:30 P.M. | BC High | Xaverian | 66.4% | +4.7 |
 | 2026-04-09 | 6:00 P.M. | Algonquin/Westboro | Catholic Memorial | 57.1% | +2.0 |
-| 2026-04-09 | 5:30 P.M. | Chelmsford | Cambridge | 57.1% | +2.0 |
-| 2026-04-09 | 6:00 P.M. | Marshfield/SST | Hingham/Norwell | 57.1% | +2.0 |
+| 2026-04-09 | 5:30 P.M. | Chelmsford | Cambridge | 53.1% | +0.9 |
+| 2026-04-09 | 6:00 P.M. | Marshfield/SST | Hingham/Norwell | 53.1% | +0.9 |
 | 2026-04-10 | 6:00 P.M. | Belmont | Milton | 57.1% | +2.0 |
-| 2026-04-10 | 4:30 P.M. | Lincoln-Sudbury | Blue Hills | 57.1% | +2.0 |
-| 2026-04-10 | 5:00 P.M. | Hanover | Brookline | 57.1% | +2.0 |
+| 2026-04-10 | 4:30 P.M. | Lincoln-Sudbury | Blue Hills | 54.6% | +1.3 |
+| 2026-04-10 | 5:00 P.M. | Hanover | Brookline | 54.6% | +1.3 |
 
 ## Recent Games
 
-*No games in the last 7 days*
-
+| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
+|------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-04-02 | Weymouth | 12 | BC High | 65 | +2.0 | -53.0 |
+| 2026-04-02 | Brookline | 15 | Lincoln-Sudbury | 12 | +2.0 | +3.0 |
+| 2026-04-02 | Hingham/Norwell | 28 | Chelmsford | 20 | +2.0 | +8.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Hanover | 1500.0 |
-| 2 | Belmont | 1500.0 |
-| 3 | Malden Catholic | 1500.0 |
-| 4 | Blue Hills | 1500.0 |
-| 5 | Chelmsford | 1500.0 |
-| 6 | Milton | 1500.0 |
-| 7 | Xaverian | 1500.0 |
+| 1 | BC High | 1568.4 |
+| 2 | Hingham/Norwell | 1528.2 |
+| 3 | Brookline | 1517.8 |
+| 4 | Belmont | 1500.0 |
+| 5 | Cambridge | 1500.0 |
+| 6 | Algonquin/Westboro | 1500.0 |
+| 7 | Milton | 1500.0 |
 | 8 | St. John’s Prep | 1500.0 |
-| 9 | Catholic Memorial | 1500.0 |
-| 10 | Brookline | 1500.0 |
-| 11 | Cambridge | 1500.0 |
-| 12 | Lincoln-Sudbury | 1500.0 |
-| 13 | Marshfield/SST | 1500.0 |
-| 14 | Hingham/Norwell | 1500.0 |
-| 15 | BC High | 1500.0 |
-| 16 | Weymouth | 1500.0 |
-| 17 | Algonquin/Westboro | 1500.0 |
+| 9 | Hanover | 1500.0 |
+| 10 | Catholic Memorial | 1500.0 |
+| 11 | Malden Catholic | 1500.0 |
+| 12 | Marshfield/SST | 1500.0 |
+| 13 | Blue Hills | 1500.0 |
+| 14 | Xaverian | 1500.0 |
+| 15 | Lincoln-Sudbury | 1482.2 |
+| 16 | Chelmsford | 1471.8 |
+| 17 | Weymouth | 1431.6 |

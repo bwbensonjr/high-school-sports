@@ -1,10 +1,10 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
 2026-04-01,93128,UPCOMING,Milton,4252,,,Blue Hills,4047,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,6:00 P.M.,,0
 2026-04-01,93181,UPCOMING,Algonquin/Westboro,4005,,,Hanover,4164,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,6:30 P.M.,,0
-2026-04-02,93096,UPCOMING,Weymouth,4425,,,BC High,4029,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,5:30 P.M.,,0
-2026-04-02,93108,UPCOMING,Xaverian,4446,,,Belmont,4034,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,6:30 P.M.,,0
-2026-04-02,93228,UPCOMING,Brookline,4059,,,Lincoln-Sudbury,4211,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,4:30 P.M.,,0
-2026-04-02,93289,UPCOMING,Hingham/Norwell,4171,,,Chelmsford,4085,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,5:00 P.M.,,0
+2026-04-02,93096,FINAL,Weymouth,4425,12,0,BC High,4029,65,1,Commonwealth Rugby Conference,Commonwealth Rugby Conference,5:30 P.M.,,0
+2026-04-02,93108,POSTPONED,Xaverian,4446,,,Belmont,4034,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,6:30 P.M.,,0
+2026-04-02,93228,FINAL,Brookline,4059,15,1,Lincoln-Sudbury,4211,12,0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,4:30 P.M.,,0
+2026-04-02,93289,FINAL,Hingham/Norwell,4171,28,1,Chelmsford,4085,20,0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,5:00 P.M.,,0
 2026-04-04,93317,UPCOMING,Malden Catholic,4228,,,Marshfield/SST,4234,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,12:00 P.M.,,0
 2026-04-08,93149,UPCOMING,St. John’s Prep,4369,,,Weymouth,4425,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,5:00 P.M.,,0
 2026-04-09,93100,UPCOMING,BC High,4029,,,Xaverian,4446,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,5:30 P.M.,,0
