@@ -1,6 +1,6 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-04-03 11:35
+Generated: 2026-04-04 11:27
 
 ## Upcoming Games
 
@@ -31,17 +31,17 @@ Generated: 2026-04-03 11:35
 | 1 | BC High | 1568.4 |
 | 2 | Hingham/Norwell | 1528.2 |
 | 3 | Brookline | 1517.8 |
-| 4 | Belmont | 1500.0 |
-| 5 | Cambridge | 1500.0 |
-| 6 | Algonquin/Westboro | 1500.0 |
-| 7 | Milton | 1500.0 |
-| 8 | St. John’s Prep | 1500.0 |
-| 9 | Hanover | 1500.0 |
-| 10 | Catholic Memorial | 1500.0 |
-| 11 | Malden Catholic | 1500.0 |
-| 12 | Marshfield/SST | 1500.0 |
-| 13 | Blue Hills | 1500.0 |
-| 14 | Xaverian | 1500.0 |
+| 4 | Milton | 1500.0 |
+| 5 | Algonquin/Westboro | 1500.0 |
+| 6 | Malden Catholic | 1500.0 |
+| 7 | Xaverian | 1500.0 |
+| 8 | Marshfield/SST | 1500.0 |
+| 9 | St. John’s Prep | 1500.0 |
+| 10 | Hanover | 1500.0 |
+| 11 | Blue Hills | 1500.0 |
+| 12 | Cambridge | 1500.0 |
+| 13 | Catholic Memorial | 1500.0 |
+| 14 | Belmont | 1500.0 |
 | 15 | Lincoln-Sudbury | 1482.2 |
 | 16 | Chelmsford | 1471.8 |
 | 17 | Weymouth | 1431.6 |
