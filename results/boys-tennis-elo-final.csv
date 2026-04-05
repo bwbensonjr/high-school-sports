@@ -2,32 +2,32 @@ team,elo
 Westford,1580.109131862273
 Lexington,1554.9008367611511
 Andover,1553.6780571447912
-Sharon,1549.621151700607
 Central Catholic,1546.128027175948
 North Attleborough,1545.4806590436422
 Tyngsborough,1545.440116234815
 Mashpee,1545.3968898716498
 Boston Latin,1545.062278190036
+Duxbury,1543.1503008735458
+Sharon,1537.1885843849927
 Canton,1535.852887028052
 Newton South,1532.1534011883275
 Xaverian,1531.2735824719662
-Duxbury,1530.7177335579315
 Sutton,1530.7177335579315
 Bishop Stang,1528.9581273509036
 St. George’s,1526.7335218740895
 Westport,1524.794656725938
 Marshfield,1523.9395870247347
-Durfee,1523.766482917537
-Hopkinton,1523.766482917537
 Mansfield,1523.766482917537
+Hopkinton,1523.766482917537
 Somerset Berkley,1523.766482917537
+Durfee,1523.766482917537
 Wilmington,1523.7126411650618
 Rockland/EB,1523.4165604310126
-St. John’s Prep,1523.03505051891
-Holliston,1523.03505051891
 Amherst-Pelham,1523.03505051891
-Winchester,1523.03505051891
 Lenox,1523.03505051891
+Holliston,1523.03505051891
+St. John’s Prep,1523.03505051891
+Winchester,1523.03505051891
 Weston,1523.03505051891
 Medfield,1522.4792016048755
 Medway,1520.6930180541237
@@ -38,107 +38,107 @@ Westwood,1517.8223479160597
 Manchester Essex,1514.801467207032
 BC High,1514.801467207032
 Monomoy,1512.1536294241637
-Falmouth,1511.8832414587685
 Weymouth,1511.8832414587685
-Nantucket,1511.8832414587685
 St. Mary’s,1511.8832414587685
 Cape Cod Academy,1511.8832414587685
+Nantucket,1511.8832414587685
+Falmouth,1511.8832414587685
 Norwell,1510.0959414749598
 Scituate,1508.9111739580298
-Gloucester,1508.9111739580298
-Bridgewater-Raynham,1508.9111739580298
 Pingree,1508.9111739580298
+Bridgewater-Raynham,1508.9111739580298
+Gloucester,1508.9111739580298
 Nauset,1508.5646546762855
 Latin Academy,1508.5194592511627
 Attleboro,1506.4230710862278
 North Andover,1502.73501832896
 Wareham,1502.6221450142143
-Bishop Fenwick,1500.0
-Acton-Boxborough,1500.0
-Lincoln-Sudbury,1500.0
-Burlington,1500.0
-Walpole,1500.0
-Lynn English,1500.0
 Lynnfield,1500.0
-Milton,1500.0
-Somerville,1500.0
-Franklin,1500.0
-Greater Lawrence,1500.0
-Rising Tide Charter,1500.0
-Hamilton-Wenham,1500.0
-Maimonides,1500.0
+Newburyport,1500.0
+Old Rochester,1500.0
+Lynn English,1500.0
+Walpole,1500.0
+Arlington,1500.0
+Joseph Case,1500.0
+Acton-Boxborough,1500.0
+Northeast/Saugus,1500.0
+Apponequet,1500.0
+Dighton-Rehoboth,1500.0
+Westborough,1500.0
+Hingham,1500.0
+Shawsheen,1500.0
+Amesbury,1500.0
+Reading,1500.0
+Danvers,1500.0
+Medford,1500.0
+Mystic Valley,1500.0
+Bishop Fenwick,1500.0
+Concord-Carlisle,1500.0
+Algonquin,1500.0
+Salem,1500.0
+Carver,1500.0
+Brockton,1500.0
+Winthrop,1500.0
 Revere,1500.0
+Franklin,1500.0
+Lowell Catholic,1500.0
+Lincoln-Sudbury,1500.0
+Pentucket,1500.0
+Waltham,1500.0
+Billerica,1500.0
+Burlington,1500.0
+Hanover,1500.0
 Wakefield,1500.0
+Rising Tide Charter,1500.0
+Bishop Feehan,1500.0
+Maimonides,1500.0
+Masconomet,1500.0
+Sturgis West,1500.0
+Nashoba Valley Tech,1500.0
+Brookline,1500.0
+Shrewsbury,1500.0
+Ipswich,1500.0
+Somerville,1500.0
 Malden,1500.0
 King Philip,1500.0
-Dighton-Rehoboth,1500.0
-Brookline,1500.0
-Reading,1500.0
-Melrose,1500.0
-Mystic Valley,1500.0
-Brockton,1500.0
-Hanover,1500.0
-Fairhaven,1500.0
-Belmont,1500.0
-Randolph,1500.0
-Joseph Case,1500.0
-Newburyport,1500.0
-Medford,1500.0
-Everett,1500.0
-Apponequet,1500.0
-Westborough,1500.0
-Newton North,1500.0
-Shawsheen,1500.0
-Cardinal Spellman,1500.0
-Bedford,1500.0
-Arlington,1500.0
 Arlington Catholic,1500.0
-Wachusett,1500.0
-Pentucket,1500.0
-Ipswich,1500.0
-Lynn Classical,1500.0
-Greater Lowell,1500.0
-Billerica,1500.0
-Amesbury,1500.0
-Carver,1500.0
-Fellowship Christian,1500.0
-Lowell Catholic,1500.0
-Wayland,1500.0
-Dartmouth,1500.0
-Nashoba Valley Tech,1500.0
-Waltham,1500.0
-Shrewsbury,1500.0
-North Reading,1500.0
-Salem,1500.0
-Concord-Carlisle,1500.0
-Winthrop,1500.0
-West Bridgewater,1500.0
-Northeast/Saugus,1500.0
-Masconomet,1500.0
-Falmouth Academy,1500.0
 Dover-Sherborn,1500.0
-Bishop Feehan,1500.0
-Old Rochester,1500.0
-Hingham,1500.0
-Danvers,1500.0
-Sturgis West,1500.0
+Fellowship Christian,1500.0
+West Bridgewater,1500.0
+Fairhaven,1500.0
+Greater Lowell,1500.0
+Lynn Classical,1500.0
+North Reading,1500.0
+Dartmouth,1500.0
+Melrose,1500.0
+Everett,1500.0
+Milton,1500.0
+Randolph,1500.0
 Framingham,1500.0
-Algonquin,1500.0
+Wayland,1500.0
+Belmont,1500.0
+Wachusett,1500.0
+Bedford,1500.0
+Hamilton-Wenham,1500.0
+Newton North,1500.0
+Cardinal Spellman,1500.0
 Beverly,1500.0
+Falmouth Academy,1500.0
+Greater Lawrence,1500.0
 Lowell,1499.8667612365123
 Haverhill,1499.5913445134934
 Seekonk,1498.240393792972
 Bourne,1497.1074670203905
+Cohasset,1491.0888260419702
 St. John Paul II,1491.0888260419702
 Governor’s Academy,1491.0888260419702
-Cohasset,1491.0888260419702
 Marblehead,1488.8192278707945
 Whitman-Hanson,1488.4666810277558
 Plymouth North,1488.1167585412315
-Quincy,1488.1167585412315
-Swampscott,1488.1167585412315
 Silver Lake,1488.1167585412315
+Swampscott,1488.1167585412315
 Pembroke,1488.1167585412315
+Quincy,1488.1167585412315
 Martha’s Vineyard,1488.1167585412315
 Stoneham,1485.198532792968
 Dedham,1482.1776520839403
@@ -150,28 +150,28 @@ Methuen,1477.6384557415888
 Catholic Memorial,1477.6375914860637
 Nashoba,1477.5949342840952
 Monument Mtn.,1476.96494948109
-West Boylston,1476.96494948109
+St. John’s (Shrewsbury),1476.96494948109
 Norwood,1476.96494948109
 Wellesley,1476.96494948109
+West Boylston,1476.96494948109
 Belchertown,1476.96494948109
-St. John’s (Shrewsbury),1476.96494948109
 Needham,1476.7577727697023
 Rockport,1476.2873588349382
 Malden Catholic,1476.2873588349382
-Diman,1476.233517082463
 Ashland,1476.233517082463
+Diman,1476.233517082463
 Oliver Ames,1476.233517082463
 Thayer,1473.2664781259105
-Plymouth South,1469.2822664420685
 Bartlett,1469.2822664420685
+Plymouth South,1469.2822664420685
 Sandwich,1468.3865270929825
 Woburn,1466.1761927225991
 Stoughton,1462.2020239953792
 Watertown,1460.4199139993739
 Tewksbury,1457.5027149844143
 North Quincy,1454.937721809964
-New Bedford,1448.0068221301863
 Chelmsford,1448.0068221301863
+New Bedford,1448.0068221301863
 Norton,1447.916606382971
 Lawrence,1445.9244390110382
 Milford,1442.6961652603716

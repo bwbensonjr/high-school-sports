@@ -199,9 +199,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-03,96876,FINAL,Marlborough,4233,3,1,Doherty,4116,0,0,Mid-Wach,CMAC,,,0
 2026-04-03,96885,FINAL,Madison Park,4225,3,1,Brooke Charter,5071,0,0,Boston City,Charter School Athletic,,,0
 2026-04-03,96895,FINAL,Nashoba,4267,0,0,Bay Path,4027,3,1,Mid-Wach,CMAC,,,0
-2026-04-04,88086,UPCOMING,Needham,4272,,,St. John’s (Shrewsbury),4368,,,Bay State,Catholic Conference,12:00 P.M.,,0
-2026-04-04,88263,UPCOMING,Nipmuc,4281,,,Dighton-Rehoboth,4114,,,CMAC,Tri-Valley,10:30 A.M.,,0
-2026-04-04,88352,UPCOMING,Barnstable,4024,,,O’Bryant,4298,,,Independent,Boston City,12:00 P.M.,,0
+2026-04-04,88086,FINAL,Needham,4272,3,1,St. John’s (Shrewsbury),4368,0,0,Bay State,Catholic Conference,12:00 P.M.,,0
+2026-04-04,88263,FINAL,Nipmuc,4281,3,1,Dighton-Rehoboth,4114,0,0,CMAC,Tri-Valley,10:30 A.M.,,0
+2026-04-04,88352,FINAL,Barnstable,4024,3,1,O’Bryant,4298,0,0,Independent,Boston City,12:00 P.M.,,0
 2026-04-06,87914,UPCOMING,Lincoln-Sudbury,4211,,,Braintree,4051,,,Dual County,Bay State,4:30 P.M.,,0
 2026-04-06,88054,UPCOMING,Newton South,4280,,,Natick,4270,,,Dual County,Bay State,5:30 P.M.,,0
 2026-04-06,88133,UPCOMING,Catholic Memorial,4080,,,BC High,4029,,,Catholic Conference,Catholic Conference,4:00 P.M.,,0
@@ -309,3 +309,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-14,88036,UPCOMING,Milton,4252,,,Newton North,4279,,,Bay State,Bay State,5:30 P.M.,,0
 2026-04-14,88056,UPCOMING,Natick,4270,,,Needham,4272,,,Bay State,Bay State,4:00 P.M.,,0
 2026-04-14,88190,UPCOMING,Medfield,4241,,,Xaverian,4446,,,Tri-Valley,Catholic Conference,6:00 P.M.,,0
+2026-04-15,88039,UPCOMING,Norwood,4297,,,Milton,4252,,,Tri-Valley,Bay State,4:00 P.M.,,0
+2026-04-15,88169,UPCOMING,St. John’s (Shrewsbury),4368,,,Agawam,4004,,,Catholic Conference,Independent,6:00 P.M.,,0
+2026-04-15,88225,UPCOMING,Bellingham,4033,,,Barnstable,4024,,,Tri-Valley,Independent,5:00 P.M.,,0
+2026-04-15,88271,UPCOMING,Nipmuc,4281,,,King Philip,4197,,,CMAC,Hockomock,5:00 P.M.,,0
+2026-04-15,88279,UPCOMING,Norton,4295,,,Millis,4251,,,Tri-Valley,Tri-Valley,5:00 P.M.,,0
