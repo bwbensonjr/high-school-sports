@@ -1,6 +1,6 @@
 # Boys Volleyball - 2026 Season
 
-Generated: 2026-04-05 11:28
+Generated: 2026-04-06 11:47
 
 ## Upcoming Games
 
@@ -26,13 +26,13 @@ Generated: 2026-04-05 11:28
 | 2026-04-06 | 5:00 P.M. | O’Bryant | Greater New Bedford | 51.2% | +0.3 |
 | 2026-04-06 | 4:00 P.M. | Catholic Memorial | BC High | 60.9% | +3.1 |
 | 2026-04-06 | 4:00 P.M. | Codman Charter | Argosy Collegiate | 60.6% | +3.0 |
-| 2026-04-06 | 5:30 P.M. | Xaverian | St. John’s Prep | 62.3% | +3.5 |
+| 2026-04-06 | 5:30 P.M. | Xaverian | St. John’s Prep | 62.2% | +3.5 |
 | 2026-04-06 | 6:00 P.M. | Bellingham | Millis | 61.2% | +3.2 |
 | 2026-04-06 | 5:00 P.M. | Barnstable | Dighton-Rehoboth | 68.5% | +5.4 |
 | 2026-04-06 | 5:30 P.M. | Newton South | Natick | 51.3% | +0.4 |
 | 2026-04-06 | 5:00 P.M. | King Philip | Hopkinton | 53.0% | +0.8 |
-| 2026-04-06 | 5:00 P.M. | Norton | Medfield | 64.4% | +4.1 |
-| 2026-04-06 | 4:30 P.M. | Norwood | Westwood | 53.6% | +1.0 |
+| 2026-04-06 | 5:00 P.M. | Norton | Medfield | 61.7% | +3.3 |
+| 2026-04-06 | 4:30 P.M. | Norwood | Westwood | 56.6% | +1.9 |
 | 2026-04-06 | 5:45 P.M. | Cambridge | Arlington | 57.2% | +2.0 |
 | 2026-04-06 | 5:15 P.M. | Belmont | Woburn | 60.7% | +3.0 |
 | 2026-04-06 | 5:30 P.M. | Lexington | Wakefield | 58.0% | +2.2 |
@@ -41,83 +41,91 @@ Generated: 2026-04-05 11:28
 | 2026-04-06 | 5:15 P.M. | Salem | Greater Lawrence | 53.0% | +0.8 |
 | 2026-04-07 | 5:30 P.M. | Acton-Boxborough | Greater Lowell | 50.0% | -0.0 |
 | 2026-04-07 | 5:15 P.M. | Durfee | North Quincy | 54.9% | +1.4 |
-| 2026-04-07 | 3:45 P.M. | Milford | Attleboro | 64.6% | +4.2 |
+| 2026-04-07 | 3:45 P.M. | Milford | Attleboro | 64.7% | +4.2 |
 | 2026-04-07 | 4:30 P.M. | Nipmuc | Keefe Tech | 63.9% | +4.0 |
 | 2026-04-07 | 5:15 P.M. | Taunton | King Philip | 63.0% | +3.7 |
-| 2026-04-07 | 6:00 P.M. | Medfield | Bellingham | 55.8% | +1.6 |
+| 2026-04-07 | 6:00 P.M. | Medfield | Bellingham | 58.7% | +2.4 |
 | 2026-04-07 | 4:00 P.M. | Needham | Framingham | 71.6% | +6.4 |
 | 2026-04-07 | 4:00 P.M. | Madison Park | Academy/Pacific Rim | 60.6% | +3.0 |
 | 2026-04-07 | 5:15 P.M. | Milton | Natick | 57.8% | +2.2 |
 | 2026-04-07 | 5:45 P.M. | Brookline | Newton North | 66.1% | +4.6 |
 | 2026-04-07 | 4:00 P.M. | Wellesley | Braintree | 45.6% | -1.2 |
 | 2026-04-07 | 5:30 P.M. | St. John’s (Shrewsbury) | Wayland | 47.7% | -0.6 |
-| 2026-04-08 | 5:30 P.M. | Medford | Somerville | 57.8% | +2.2 |
+| 2026-04-08 | 5:15 P.M. | Malden | Lynn Classical | 53.3% | +0.9 |
 | 2026-04-08 | 4:30 P.M. | Silver Lake | Randolph | 52.9% | +0.8 |
 | 2026-04-08 | 5:15 P.M. | Quincy | New Bedford | 61.7% | +3.3 |
 | 2026-04-08 | 5:15 P.M. | Brockton | Hingham | 67.3% | +5.0 |
 | 2026-04-08 | 5:00 P.M. | Lowell | Lawrence | 61.4% | +3.2 |
 | 2026-04-08 | 5:00 P.M. | Chelmsford | Methuen | 54.7% | +1.3 |
 | 2026-04-08 | 5:00 P.M. | Haverhill | Central Catholic | 59.7% | +2.7 |
-| 2026-04-08 | 5:00 P.M. | Andover | Dracut | 54.0% | +1.1 |
 | 2026-04-08 | 5:00 P.M. | Andover | North Andover | 55.5% | +1.5 |
-| 2026-04-08 | 5:15 P.M. | Malden | Lynn Classical | 53.3% | +0.9 |
+| 2026-04-08 | 5:30 P.M. | Medford | Somerville | 57.8% | +2.2 |
 | 2026-04-08 | 5:15 P.M. | Everett | Lynn English | 48.2% | -0.5 |
-| 2026-04-08 | 5:30 P.M. | Chelsea | Revere | 54.4% | +1.2 |
+| 2026-04-08 | 5:00 P.M. | Andover | Dracut | 54.0% | +1.1 |
+| 2026-04-08 | 5:15 P.M. | Greater Lawrence | Lowell Catholic | 59.4% | +2.6 |
 | 2026-04-08 | 4:30 P.M. | Nashoba Valley Tech | Catholic Memorial | 54.5% | +1.3 |
-| 2026-04-08 | 5:00 P.M. | Millis | Westwood | 56.0% | +1.7 |
-| 2026-04-08 | 5:30 P.M. | Arlington | Woburn | 54.3% | +1.2 |
-| 2026-04-08 | 5:15 P.M. | Westford | Belmont | 60.3% | +2.9 |
 | 2026-04-08 | 5:00 P.M. | Dighton-Rehoboth | Greater New Bedford | 50.1% | +0.0 |
+| 2026-04-08 | 5:00 P.M. | Millis | Westwood | 59.1% | +2.6 |
+| 2026-04-08 | 5:30 P.M. | Arlington | Woburn | 54.3% | +1.2 |
+| 2026-04-08 | 5:30 P.M. | Chelsea | Revere | 54.4% | +1.2 |
+| 2026-04-08 | 6:00 P.M. | Wakefield | Burlington | 48.2% | -0.5 |
 | 2026-04-08 | 5:15 P.M. | Winchester | Lexington | 60.5% | +3.0 |
 | 2026-04-08 | 5:45 P.M. | Salem | Greater Lowell | 49.5% | -0.1 |
-| 2026-04-08 | 5:15 P.M. | Greater Lawrence | Lowell Catholic | 59.4% | +2.6 |
-| 2026-04-08 | 6:00 P.M. | Wakefield | Burlington | 48.2% | -0.5 |
-| 2026-04-09 | 5:00 P.M. | King Philip | Norwood | 62.3% | +3.5 |
+| 2026-04-08 | 5:15 P.M. | Westford | Belmont | 60.3% | +2.9 |
 | 2026-04-09 | 5:15 P.M. | Durfee | Quincy | 53.7% | +1.0 |
 | 2026-04-09 | 5:00 P.M. | Lawrence | Central Catholic | 59.3% | +2.6 |
 | 2026-04-09 | 5:00 P.M. | Southeastern | Attleboro | 61.7% | +3.3 |
 | 2026-04-09 | 5:15 P.M. | Taunton | Boston Latin | 63.1% | +3.7 |
 | 2026-04-09 | 4:00 P.M. | Madison Park | O’Bryant | 56.1% | +1.7 |
 | 2026-04-09 | 5:15 P.M. | Winchester | Barnstable | 48.1% | -0.5 |
-| 2026-04-09 | 6:00 P.M. | Medfield | Nipmuc | 50.2% | +0.1 |
-| 2026-04-09 | 5:30 P.M. | Xaverian | St. John’s (Shrewsbury) | 55.9% | +1.6 |
-| 2026-04-09 | 4:30 P.M. | Westwood | Bellingham | 54.1% | +1.1 |
+| 2026-04-09 | 5:00 P.M. | King Philip | Norwood | 62.3% | +3.5 |
+| 2026-04-09 | 6:00 P.M. | Medfield | Nipmuc | 53.1% | +0.9 |
+| 2026-04-09 | 4:30 P.M. | Westwood | Bellingham | 51.0% | +0.3 |
 | 2026-04-09 | 5:30 P.M. | St. John’s Prep | BC High | 51.8% | +0.5 |
 | 2026-04-09 | 4:30 P.M. | Newton North | Wellesley | 61.8% | +3.3 |
 | 2026-04-09 | 4:00 P.M. | Needham | Weymouth | 53.9% | +1.1 |
 | 2026-04-09 | 5:30 P.M. | Milton | Framingham | 71.9% | +6.5 |
 | 2026-04-09 | 5:15 P.M. | Brookline | Natick | 61.7% | +3.3 |
 | 2026-04-09 | 5:00 P.M. | Hopkinton | Norton | 53.8% | +1.1 |
-| 2026-04-10 | 5:00 P.M. | Dracut | Andover | 60.3% | +2.9 |
+| 2026-04-09 | 5:30 P.M. | Xaverian | St. John’s (Shrewsbury) | 55.8% | +1.6 |
+| 2026-04-10 | 5:30 P.M. | Burlington | Malden | 58.2% | +2.3 |
 | 2026-04-10 | 4:00 P.M. | New Bedford | Silver Lake | 61.3% | +3.2 |
 | 2026-04-10 | 5:15 P.M. | North Quincy | Hingham | 63.0% | +3.7 |
 | 2026-04-10 | 5:00 P.M. | Billerica | Haverhill | 56.5% | +1.8 |
 | 2026-04-10 | 5:00 P.M. | Lowell | Chelmsford | 62.1% | +3.4 |
-| 2026-04-10 | 5:30 P.M. | Burlington | Malden | 58.2% | +2.3 |
-| 2026-04-10 | 4:45 P.M. | Milton | Norwood | 67.3% | +5.0 |
-| 2026-04-10 | 4:00 P.M. | Foxborough Charter | Dighton-Rehoboth | 59.2% | +2.6 |
+| 2026-04-10 | 5:00 P.M. | Dracut | Andover | 60.3% | +2.9 |
+| 2026-04-10 | 5:15 P.M. | Arlington | Somerville | 53.5% | +1.0 |
 | 2026-04-10 | 4:00 P.M. | Catholic Memorial | Boston Latin | 57.1% | +2.0 |
 | 2026-04-10 | 4:30 P.M. | Wellesley | Lincoln-Sudbury | 51.9% | +0.5 |
+| 2026-04-10 | 4:45 P.M. | Milton | Norwood | 67.3% | +5.0 |
 | 2026-04-10 | 4:30 P.M. | Braintree | Newton North | 63.7% | +3.9 |
-| 2026-04-10 | 5:15 P.M. | Arlington | Somerville | 53.5% | +1.0 |
-| 2026-04-13 | 3:45 P.M. | King Philip | Attleboro | 61.8% | +3.3 |
-| 2026-04-13 | 4:45 P.M. | Doherty | Nipmuc | 46.5% | -1.0 |
-| 2026-04-13 | 5:30 P.M. | Hopkinton | Medfield | 61.2% | +3.2 |
-| 2026-04-13 | 5:00 P.M. | Norton | Norwood | 69.2% | +5.6 |
-| 2026-04-13 | 5:30 P.M. | Westwood | Xaverian | 59.3% | +2.6 |
-| 2026-04-13 | 5:15 P.M. | BC High | St. John’s (Shrewsbury) | 55.9% | +1.6 |
+| 2026-04-10 | 4:00 P.M. | Foxborough Charter | Dighton-Rehoboth | 59.2% | +2.6 |
 | 2026-04-13 | 5:00 P.M. | Latin Academy | Brookline | 43.3% | -1.9 |
+| 2026-04-13 | 5:15 P.M. | BC High | St. John’s (Shrewsbury) | 55.9% | +1.6 |
+| 2026-04-13 | 5:30 P.M. | Westwood | Xaverian | 56.3% | +1.8 |
 | 2026-04-13 | 5:00 P.M. | Southeastern | Dighton-Rehoboth | 59.2% | +2.6 |
+| 2026-04-13 | 5:30 P.M. | Hopkinton | Medfield | 58.4% | +2.4 |
+| 2026-04-13 | 4:45 P.M. | Doherty | Nipmuc | 46.5% | -1.0 |
+| 2026-04-13 | 5:00 P.M. | Norton | Norwood | 69.2% | +5.6 |
+| 2026-04-13 | 3:45 P.M. | King Philip | Attleboro | 61.8% | +3.3 |
+| 2026-04-14 | 6:00 P.M. | Medfield | Xaverian | 63.8% | +3.9 |
+| 2026-04-14 | 4:00 P.M. | Natick | Needham | 56.9% | +1.9 |
+| 2026-04-14 | 5:30 P.M. | Milton | Newton North | 62.3% | +3.5 |
 | 2026-04-14 | 4:00 P.M. | Braintree | Weymouth | 55.7% | +1.6 |
 | 2026-04-14 | 5:15 P.M. | Brookline | Wellesley | 70.2% | +6.0 |
-| 2026-04-14 | 5:30 P.M. | Milton | Newton North | 62.3% | +3.5 |
-| 2026-04-14 | 4:00 P.M. | Natick | Needham | 56.9% | +1.9 |
-| 2026-04-14 | 6:00 P.M. | Medfield | Xaverian | 61.0% | +3.1 |
-| 2026-04-15 | 5:00 P.M. | Nipmuc | King Philip | 63.8% | +3.9 |
 | 2026-04-15 | 4:00 P.M. | Norwood | Milton | 46.3% | -1.0 |
 | 2026-04-15 | 6:00 P.M. | St. John’s (Shrewsbury) | Agawam | 52.0% | +0.6 |
 | 2026-04-15 | 5:00 P.M. | Bellingham | Barnstable | 48.5% | -0.4 |
+| 2026-04-15 | 5:00 P.M. | Nipmuc | King Philip | 63.8% | +3.9 |
 | 2026-04-15 | 5:00 P.M. | Norton | Millis | 67.0% | +4.9 |
+| 2026-04-16 | 5:30 P.M. | St. John’s (Shrewsbury) | Catholic Memorial | 54.6% | +1.3 |
+| 2026-04-16 | 4:00 P.M. | Needham | Braintree | 55.3% | +1.5 |
+| 2026-04-16 | 4:30 P.M. | Weymouth | Brookline | 56.0% | +1.7 |
+| 2026-04-16 | 4:00 P.M. | Framingham | Wellesley | 51.1% | +0.3 |
+| 2026-04-16 | 6:00 P.M. | Milton | Bellingham | 61.2% | +3.2 |
+| 2026-04-16 | 4:30 P.M. | Newton North | Natick | 52.5% | +0.7 |
+| 2026-04-16 | 5:15 P.M. | BC High | Xaverian | 57.2% | +2.0 |
+| 2026-04-16 | 4:30 P.M. | Norwood | Medfield | 48.9% | -0.3 |
 
 ## Recent Games
 
@@ -140,7 +148,7 @@ Generated: 2026-04-05 11:28
 | 2026-04-02 | Collegiate Charter | 3 | Worcester Tech | 1 | +2.2 | +2.0 |
 | 2026-04-02 | Arlington | 1 | Lexington | 3 | +2.7 | -2.0 |
 | 2026-04-02 | Greater Lawrence | 3 | Nashoba Valley Tech | 0 | +1.4 | +3.0 |
-| 2026-04-02 | Milford | 3 | Medfield | 1 | +1.7 | +2.0 |
+| 2026-04-02 | Milford | 3 | Medfield | 1 | +0.8 | +2.0 |
 | 2026-04-02 | Millis | 3 | Norwood | 0 | +1.2 | +3.0 |
 | 2026-04-02 | Norton | 3 | Bellingham | 2 | +3.1 | +1.0 |
 | 2026-04-02 | Innovation Academy | 3 | Excel Academy | 1 | +2.4 | +2.0 |
@@ -153,35 +161,36 @@ Generated: 2026-04-05 11:28
 | 2026-04-02 | Milton | 3 | Hingham | 0 | +4.0 | +3.0 |
 | 2026-04-02 | Winchester | 3 | Woburn | 0 | +1.5 | +3.0 |
 | 2026-04-02 | Belmont | 3 | Burlington | 0 | -1.1 | +3.0 |
-| 2026-04-02 | Lynn Classical | 3 | KIPP | 1 | +3.8 | +2.0 |
+| 2026-04-02 | Everett | 0 | Lawrence | 3 | +1.0 | -3.0 |
 | 2026-04-02 | Salem | 0 | Pioneer Charter I | 3 | +3.0 | -3.0 |
 | 2026-04-02 | Holyoke | 0 | Belchertown | 3 | +0.5 | -3.0 |
 | 2026-04-02 | Shrewsbury | 0 | Marlborough | 3 | +0.4 | -3.0 |
 | 2026-04-02 | Lynn English | 3 | Lynn Tech | 0 | +2.9 | +3.0 |
-| 2026-04-02 | Everett | 0 | Lawrence | 3 | +1.0 | -3.0 |
 | 2026-04-02 | Duggan Academy | 1 | Ware | 3 | +2.7 | -2.0 |
 | 2026-04-02 | Pioneer Valley Christian | 3 | Frontier | 0 | +3.7 | +3.0 |
 | 2026-04-02 | North Middlesex | 3 | Fitchburg | 0 | +0.9 | +3.0 |
 | 2026-04-02 | Wachusett | 3 | Leominster | 2 | +1.6 | +1.0 |
 | 2026-04-02 | Athol | 3 | Libertas Academy | 0 | +1.3 | +3.0 |
-| 2026-04-02 | Doherty | 2 | Lincoln-Sudbury | 3 | +2.3 | -1.0 |
 | 2026-04-02 | South Lancaster | 0 | Dracut | 3 | +1.0 | -3.0 |
 | 2026-04-02 | Chelmsford | 3 | Acton-Boxborough | 0 | +2.2 | +3.0 |
 | 2026-04-02 | Central Catholic | 3 | Whittier | 0 | +0.7 | +3.0 |
-| 2026-04-01 | Bay Path | 2 | Algonquin | 3 | +2.8 | -1.0 |
-| 2026-04-01 | Somerville | 2 | Waltham/Weston | 3 | +2.4 | -1.0 |
-| 2026-04-01 | Southwick | 0 | Longmeadow | 3 | +2.9 | -3.0 |
-| 2026-04-01 | Granby | 3 | Ludlow | 1 | +2.7 | +2.0 |
-| 2026-04-01 | Frontier | 0 | East Longmeadow | 3 | +2.7 | -3.0 |
+| 2026-04-02 | Lynn Classical | 3 | KIPP | 1 | +3.8 | +2.0 |
+| 2026-04-02 | Doherty | 2 | Lincoln-Sudbury | 3 | +2.3 | -1.0 |
 | 2026-04-01 | Marlborough | 3 | Doherty | 0 | +2.2 | +3.0 |
-| 2026-04-01 | Collegiate Charter | 1 | Whittier | 3 | +2.0 | -2.0 |
-| 2026-04-01 | Commerce | 1 | Chicopee | 3 | +1.3 | -2.0 |
-| 2026-04-01 | Worcester Tech | 0 | Assabet | 3 | +2.0 | -3.0 |
 | 2026-04-01 | Ayer Shirley | 3 | Burncoat | 0 | +2.0 | +3.0 |
+| 2026-04-01 | Worcester Tech | 0 | Assabet | 3 | +2.0 | -3.0 |
+| 2026-04-01 | Commerce | 1 | Chicopee | 3 | +1.3 | -2.0 |
+| 2026-04-01 | Collegiate Charter | 1 | Whittier | 3 | +2.0 | -2.0 |
+| 2026-04-01 | Southwick | 0 | Longmeadow | 3 | +2.9 | -3.0 |
+| 2026-04-01 | Frontier | 0 | East Longmeadow | 3 | +2.7 | -3.0 |
+| 2026-04-01 | Granby | 3 | Ludlow | 1 | +2.7 | +2.0 |
+| 2026-04-01 | Somerville | 2 | Waltham/Weston | 3 | +2.3 | -1.0 |
 | 2026-04-01 | West Springfield | 1 | Agawam | 3 | +2.0 | -2.0 |
-| 2026-04-01 | Xaverian | 2 | Westwood | 3 | +2.4 | -1.0 |
-| 2026-04-01 | Attleboro | 0 | Norton | 3 | +0.6 | -3.0 |
+| 2026-04-01 | Bay Path | 2 | Algonquin | 3 | +2.8 | -1.0 |
 | 2026-04-01 | Minnechaug | 0 | Westfield | 3 | +0.2 | -3.0 |
+| 2026-04-01 | Xaverian | 2 | Westwood | 3 | +3.3 | -1.0 |
+| 2026-04-01 | Nipmuc | 3 | Wachusett | 0 | +2.4 | +3.0 |
+| 2026-04-01 | Springfield Central | 0 | Chicopee Comprehensive | 3 | +2.1 | -3.0 |
 | 2026-04-01 | Taunton | 3 | Framingham | 0 | +4.9 | +3.0 |
 | 2026-04-01 | Latin Academy | 0 | Wayland | 3 | +1.0 | -3.0 |
 | 2026-04-01 | BC High | 0 | Methuen | 3 | +1.4 | -3.0 |
@@ -190,7 +199,7 @@ Generated: 2026-04-05 11:28
 | 2026-04-01 | Chelsea | 3 | Georgetown | 0 | +2.1 | +3.0 |
 | 2026-04-01 | Bellingham | 3 | Norwood | 0 | +2.0 | +3.0 |
 | 2026-04-01 | Hopkinton | 3 | Millis | 0 | +3.5 | +3.0 |
-| 2026-04-01 | Nipmuc | 3 | Wachusett | 0 | +2.4 | +3.0 |
+| 2026-04-01 | Attleboro | 0 | Norton | 3 | +0.6 | -3.0 |
 | 2026-04-01 | Greater Lawrence | 1 | Greater Lowell | 3 | +1.1 | -2.0 |
 | 2026-04-01 | Malden | 3 | North Quincy | 2 | +1.6 | +1.0 |
 | 2026-04-01 | Lowell | 3 | Westford | 1 | +1.2 | +2.0 |
@@ -199,12 +208,11 @@ Generated: 2026-04-05 11:28
 | 2026-04-01 | Scituate | 1 | New Bedford | 3 | +0.8 | -2.0 |
 | 2026-04-01 | Randolph | 0 | Quincy | 3 | +1.8 | -3.0 |
 | 2026-04-01 | Barnstable | 3 | Greater New Bedford | 0 | +2.0 | +3.0 |
-| 2026-04-01 | Springfield Central | 0 | Chicopee Comprehensive | 3 | +2.1 | -3.0 |
 | 2026-03-31 | Lexington | 1 | Natick | 3 | +1.2 | -2.0 |
 | 2026-03-31 | Weymouth | 3 | Wellesley | 0 | +3.0 | +3.0 |
 | 2026-03-31 | Newton North | 3 | St. John’s (Shrewsbury) | 0 | +1.3 | +3.0 |
 | 2026-03-31 | Boston United | 3 | Brooke Charter | 0 | +2.2 | +3.0 |
-| 2026-03-31 | Winchester | 2 | North Andover | 3 | +2.0 | -1.0 |
+| 2026-03-31 | Medford | 3 | Belmont | 1 | +1.0 | +2.0 |
 | 2026-03-31 | Lincoln-Sudbury | 0 | Milford | 3 | +3.5 | -3.0 |
 | 2026-03-31 | Framingham | 0 | Burlington | 3 | -0.6 | -3.0 |
 | 2026-03-31 | Brookline | 3 | Cambridge | 0 | +4.4 | +3.0 |
@@ -213,21 +221,22 @@ Generated: 2026-04-05 11:28
 | 2026-03-31 | Madison Park | 1 | Excel Academy | 3 | +2.2 | -2.0 |
 | 2026-03-31 | Lynn Tech | 0 | Lynn Classical | 3 | +1.0 | -3.0 |
 | 2026-03-31 | St. John’s Prep | 0 | Methuen | 3 | +1.5 | -3.0 |
-| 2026-03-31 | Medfield | 3 | Waltham/Weston | 1 | +1.3 | +2.0 |
-| 2026-03-31 | Medford | 3 | Belmont | 1 | +1.0 | +2.0 |
+| 2026-03-31 | Medfield | 3 | Waltham/Weston | 1 | +2.2 | +2.0 |
+| 2026-03-31 | Winchester | 2 | North Andover | 3 | +2.0 | -1.0 |
 | 2026-03-31 | Holyoke | 1 | Springfield International | 3 | +2.0 | -2.0 |
 | 2026-03-31 | Libertas Academy | 3 | Commerce | 0 | +2.0 | +3.0 |
 | 2026-03-31 | Pioneer Valley Christian | 3 | Putnam | 0 | +2.7 | +3.0 |
 | 2026-03-31 | Silver Lake | 1 | Quincy | 3 | +1.6 | -2.0 |
 | 2026-03-31 | King Philip | 3 | Xaverian | 1 | +1.4 | +2.0 |
-| 2026-03-30 | Central Catholic | 0 | Greater Lowell | 3 | +2.5 | -3.0 |
+| 2026-03-30 | Wakefield | 0 | Lynn Classical | 3 | +2.0 | -3.0 |
 | 2026-03-30 | Georgetown | 0 | Haverhill | 3 | +3.0 | -3.0 |
 | 2026-03-30 | Dighton-Rehoboth | 0 | Norton | 3 | +2.0 | -3.0 |
+| 2026-03-30 | Westwood | 0 | Medfield | 3 | +1.0 | -3.0 |
 | 2026-03-30 | Greater Lawrence | 1 | Billerica | 3 | +3.7 | -2.0 |
 | 2026-03-30 | Durfee | 0 | Brockton | 3 | +1.3 | -3.0 |
 | 2026-03-30 | Acton-Boxborough | 3 | Arlington | 0 | +1.0 | +3.0 |
-| 2026-03-30 | Wakefield | 0 | Lynn Classical | 3 | +2.0 | -3.0 |
 | 2026-03-30 | Newton South | 3 | Latin Academy | 1 | +0.4 | +2.0 |
+| 2026-03-30 | Central Catholic | 0 | Greater Lowell | 3 | +2.5 | -3.0 |
 | 2026-03-30 | Attleboro | 2 | Taunton | 3 | +1.3 | -1.0 |
 | 2026-03-30 | New Bedford | 0 | North Quincy | 3 | +2.6 | -3.0 |
 | 2026-03-30 | Randolph | 3 | Scituate | 0 | +2.2 | +3.0 |
@@ -272,50 +281,50 @@ Generated: 2026-04-05 11:28
 | 30 | Greater Lowell | 1528.0 |
 | 31 | Haverhill | 1525.1 |
 | 32 | Assabet | 1523.8 |
-| 33 | Dracut | 1522.4 |
-| 34 | Lawrence | 1522.4 |
-| 35 | Milford | 1521.6 |
-| 36 | Billerica | 1520.6 |
-| 37 | Chicopee Comprehensive | 1520.4 |
-| 38 | Athol | 1518.9 |
-| 39 | Springfield International | 1518.8 |
-| 40 | Chicopee | 1518.0 |
-| 41 | Agawam | 1517.8 |
-| 42 | Chelsea | 1517.7 |
-| 43 | Chelmsford | 1517.6 |
-| 44 | Lynn English | 1516.5 |
-| 45 | Waltham/Weston | 1515.0 |
-| 46 | North Andover | 1511.9 |
-| 47 | North Middlesex | 1510.6 |
-| 48 | Bellingham | 1509.7 |
-| 49 | Quincy | 1509.5 |
-| 50 | Bay Path | 1509.4 |
-| 51 | Belmont | 1507.1 |
-| 52 | Central Catholic | 1507.1 |
-| 53 | East Longmeadow | 1507.0 |
-| 54 | Winchester | 1506.6 |
-| 55 | Lincoln-Sudbury | 1504.6 |
-| 56 | Greater Lawrence | 1503.9 |
-| 57 | Ware | 1501.8 |
-| 58 | Pioneer Charter I | 1501.4 |
-| 59 | North Quincy | 1501.2 |
-| 60 | Newton North | 1501.1 |
-| 61 | King Philip | 1500.7 |
-| 62 | Medfield | 1500.5 |
+| 33 | Milford | 1522.6 |
+| 34 | Dracut | 1522.4 |
+| 35 | Lawrence | 1522.4 |
+| 36 | Medfield | 1520.8 |
+| 37 | Billerica | 1520.6 |
+| 38 | Chicopee Comprehensive | 1520.4 |
+| 39 | Athol | 1518.9 |
+| 40 | Springfield International | 1518.8 |
+| 41 | Chicopee | 1518.0 |
+| 42 | Agawam | 1517.8 |
+| 43 | Chelsea | 1517.7 |
+| 44 | Chelmsford | 1517.6 |
+| 45 | Lynn English | 1516.5 |
+| 46 | Waltham/Weston | 1516.0 |
+| 47 | North Andover | 1511.9 |
+| 48 | North Middlesex | 1510.6 |
+| 49 | Bellingham | 1509.7 |
+| 50 | Quincy | 1509.5 |
+| 51 | Bay Path | 1509.4 |
+| 52 | Belmont | 1507.1 |
+| 53 | Central Catholic | 1507.1 |
+| 54 | East Longmeadow | 1507.0 |
+| 55 | Winchester | 1506.6 |
+| 56 | Lincoln-Sudbury | 1504.6 |
+| 57 | Greater Lawrence | 1503.9 |
+| 58 | Ware | 1501.8 |
+| 59 | Pioneer Charter I | 1501.4 |
+| 60 | North Quincy | 1501.2 |
+| 61 | Newton North | 1501.1 |
+| 62 | King Philip | 1500.7 |
 | 63 | Excel Academy | 1500.1 |
 | 64 | Codman Charter | 1500.0 |
-| 65 | Catholic Memorial | 1500.0 |
-| 66 | Southeastern | 1500.0 |
-| 67 | Pioneer Charter II | 1500.0 |
-| 68 | Boston Latin | 1500.0 |
-| 69 | Prospect Hill | 1500.0 |
-| 70 | Andover | 1500.0 |
-| 71 | Foxborough Charter | 1500.0 |
-| 72 | Walpole | 1500.0 |
-| 73 | Keefe Tech | 1500.0 |
-| 74 | Phillips Andover | 1500.0 |
-| 75 | Worcester South | 1500.0 |
-| 76 | Salem Academy | 1500.0 |
+| 65 | Andover | 1500.0 |
+| 66 | Foxborough Charter | 1500.0 |
+| 67 | Walpole | 1500.0 |
+| 68 | Prospect Hill | 1500.0 |
+| 69 | Salem Academy | 1500.0 |
+| 70 | Keefe Tech | 1500.0 |
+| 71 | Phillips Andover | 1500.0 |
+| 72 | Pioneer Charter II | 1500.0 |
+| 73 | Worcester South | 1500.0 |
+| 74 | Boston Latin | 1500.0 |
+| 75 | Southeastern | 1500.0 |
+| 76 | Catholic Memorial | 1500.0 |
 | 77 | Fitchburg | 1499.4 |
 | 78 | Whittier | 1499.2 |
 | 79 | Libertas Academy | 1498.9 |
@@ -325,38 +334,38 @@ Generated: 2026-04-05 11:28
 | 83 | O’Bryant | 1493.1 |
 | 84 | Newton South | 1492.9 |
 | 85 | Medford | 1491.5 |
-| 86 | Westwood | 1488.4 |
-| 87 | Lowell Catholic | 1488.1 |
-| 88 | KIPP | 1488.0 |
-| 89 | Somerville | 1486.7 |
-| 90 | Ludlow | 1486.7 |
-| 91 | Durfee | 1485.6 |
-| 92 | Madison Park | 1485.4 |
-| 93 | Dighton-Rehoboth | 1485.4 |
-| 94 | Longmeadow | 1484.9 |
-| 95 | Lexington | 1482.4 |
-| 96 | St. John’s (Shrewsbury) | 1482.0 |
-| 97 | Woburn | 1481.5 |
-| 98 | Brooke Charter | 1481.4 |
-| 99 | Nashoba Valley Tech | 1481.3 |
-| 100 | West Springfield | 1481.1 |
-| 101 | Millis | 1480.4 |
-| 102 | Duggan Academy | 1480.3 |
-| 103 | Shrewsbury | 1478.7 |
-| 104 | Acton-Boxborough | 1477.9 |
-| 105 | New Bedford | 1476.5 |
-| 106 | Wakefield | 1476.2 |
-| 107 | Randolph | 1476.2 |
-| 108 | Springfield Central | 1476.0 |
-| 109 | Salem | 1474.9 |
-| 110 | Argosy Collegiate | 1474.9 |
-| 111 | Doherty | 1474.6 |
-| 112 | BC High | 1473.1 |
-| 113 | Xaverian | 1473.1 |
-| 114 | Leominster | 1473.0 |
-| 115 | Latin Academy | 1469.9 |
-| 116 | Wellesley | 1467.7 |
-| 117 | Attleboro | 1467.0 |
+| 86 | Lowell Catholic | 1488.1 |
+| 87 | KIPP | 1488.0 |
+| 88 | Somerville | 1486.7 |
+| 89 | Ludlow | 1486.7 |
+| 90 | Durfee | 1485.6 |
+| 91 | Madison Park | 1485.4 |
+| 92 | Dighton-Rehoboth | 1485.4 |
+| 93 | Longmeadow | 1484.9 |
+| 94 | Lexington | 1482.4 |
+| 95 | St. John’s (Shrewsbury) | 1482.0 |
+| 96 | Woburn | 1481.5 |
+| 97 | Brooke Charter | 1481.4 |
+| 98 | Nashoba Valley Tech | 1481.3 |
+| 99 | West Springfield | 1481.1 |
+| 100 | Millis | 1480.4 |
+| 101 | Duggan Academy | 1480.3 |
+| 102 | Shrewsbury | 1478.7 |
+| 103 | Acton-Boxborough | 1477.9 |
+| 104 | New Bedford | 1476.5 |
+| 105 | Wakefield | 1476.2 |
+| 106 | Randolph | 1476.2 |
+| 107 | Springfield Central | 1476.0 |
+| 108 | Salem | 1474.9 |
+| 109 | Argosy Collegiate | 1474.9 |
+| 110 | Doherty | 1474.6 |
+| 111 | BC High | 1473.1 |
+| 112 | Leominster | 1473.0 |
+| 113 | Xaverian | 1472.4 |
+| 114 | Latin Academy | 1469.9 |
+| 115 | Wellesley | 1467.7 |
+| 116 | Attleboro | 1467.0 |
+| 117 | Westwood | 1466.7 |
 | 118 | Wachusett | 1466.6 |
 | 119 | Burncoat | 1466.4 |
 | 120 | Putnam | 1465.4 |

@@ -1,6 +1,6 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-04-05 11:28
+Generated: 2026-04-06 11:47
 
 ## Upcoming Games
 
@@ -16,6 +16,7 @@ Generated: 2026-04-05 11:28
 | 2026-04-10 | 5:00 P.M. | Hanover | Brookline | 54.6% | +1.3 |
 | 2026-04-15 | 6:00 P.M. | Catholic Memorial | Blue Hills | 57.1% | +2.0 |
 | 2026-04-15 | 5:00 P.M. | Chelmsford | Burncoat | 53.1% | +0.9 |
+| 2026-04-16 | 6:00 P.M. | Xaverian | Weymouth | 66.4% | +4.7 |
 
 ## Recent Games
 
@@ -34,16 +35,16 @@ Generated: 2026-04-05 11:28
 | 2 | Malden Catholic | 1548.6 |
 | 3 | Hingham/Norwell | 1528.2 |
 | 4 | Brookline | 1517.8 |
-| 5 | Hanover | 1500.0 |
-| 6 | Catholic Memorial | 1500.0 |
-| 7 | Milton | 1500.0 |
+| 5 | Xaverian | 1500.0 |
+| 6 | Hanover | 1500.0 |
+| 7 | Algonquin/Westboro | 1500.0 |
 | 8 | St. John’s Prep | 1500.0 |
-| 9 | Cambridge | 1500.0 |
-| 10 | Xaverian | 1500.0 |
-| 11 | Belmont | 1500.0 |
-| 12 | Burncoat | 1500.0 |
-| 13 | Algonquin/Westboro | 1500.0 |
-| 14 | Blue Hills | 1500.0 |
+| 9 | Blue Hills | 1500.0 |
+| 10 | Belmont | 1500.0 |
+| 11 | Burncoat | 1500.0 |
+| 12 | Cambridge | 1500.0 |
+| 13 | Milton | 1500.0 |
+| 14 | Catholic Memorial | 1500.0 |
 | 15 | Lincoln-Sudbury | 1482.2 |
 | 16 | Chelmsford | 1471.8 |
 | 17 | Marshfield/SST | 1451.4 |
