@@ -1,6 +1,6 @@
 # Girls Golf - 2026 Season
 
-Generated: 2026-04-06 11:47
+Generated: 2026-04-07 11:52
 
 ## Upcoming Games
 
@@ -11,6 +11,8 @@ Generated: 2026-04-06 11:47
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-04-06 | Hingham | 6 | Silver Lake | 0 | +2.5 | +6.0 |
+| 2026-04-06 | Quabbin | 17 | Nashoba | 18 | +2.0 | -1.0 |
 | 2026-04-02 | Worcester | 4 | Hopkinton | 27 | +2.0 | -23.0 |
 | 2026-04-01 | Silver Lake | 2 | Marshfield | 3 | +2.0 | -1.0 |
 
@@ -19,6 +21,9 @@ Generated: 2026-04-06 11:47
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Hopkinton | 1554.5 |
-| 2 | Marshfield | 1511.9 |
-| 3 | Silver Lake | 1488.1 |
-| 4 | Worcester | 1445.5 |
+| 2 | Hingham | 1524.0 |
+| 3 | Nashoba | 1511.9 |
+| 4 | Marshfield | 1511.9 |
+| 5 | Quabbin | 1488.1 |
+| 6 | Silver Lake | 1464.1 |
+| 7 | Worcester | 1445.5 |

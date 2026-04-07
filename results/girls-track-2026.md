@@ -1,6 +1,6 @@
 # Girls Track - 2026 Season
 
-Generated: 2026-04-06 11:47
+Generated: 2026-04-07 11:52
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-04-06 11:47
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-04-06 | Greater New Bedford | 82 | West Bridgewater | 53 | +2.0 | +28.7 |
 | 2026-04-04 | Archbishop Williams | 98 | Bishop Stang | 24 | +2.0 | +74.0 |
 | 2026-04-04 | Archbishop Williams | 114 | Cristo Rey | 7 | +4.2 | +107.0 |
 | 2026-04-04 | Archbishop Williams | 55 | Cardinal Spellman | 80 | +6.2 | -25.0 |
@@ -33,12 +34,14 @@ Generated: 2026-04-06 11:47
 | 4 | Hopkinton | 1567.4 |
 | 5 | Apponequet | 1556.5 |
 | 6 | Central Catholic | 1552.6 |
-| 7 | Archbishop Williams | 1535.7 |
-| 8 | Salem | 1450.3 |
-| 9 | Andover | 1447.4 |
-| 10 | Beverly | 1446.7 |
-| 11 | Bourne | 1443.5 |
-| 12 | Bishop Stang | 1441.1 |
-| 13 | Ashland | 1432.6 |
-| 14 | Assabet | 1423.2 |
-| 15 | Cristo Rey | 1351.7 |
+| 7 | Greater New Bedford | 1543.6 |
+| 8 | Archbishop Williams | 1535.7 |
+| 9 | West Bridgewater | 1456.4 |
+| 10 | Salem | 1450.3 |
+| 11 | Andover | 1447.4 |
+| 12 | Beverly | 1446.7 |
+| 13 | Bourne | 1443.5 |
+| 14 | Bishop Stang | 1441.1 |
+| 15 | Ashland | 1432.6 |
+| 16 | Assabet | 1423.2 |
+| 17 | Cristo Rey | 1351.7 |

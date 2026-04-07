@@ -1,6 +1,6 @@
 # Boys Track - 2026 Season
 
-Generated: 2026-04-06 11:47
+Generated: 2026-04-07 11:52
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-04-06 11:47
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-04-06 | Greater New Bedford | 80 | West Bridgewater | 56 | +2.0 | +24.0 |
 | 2026-04-04 | Archbishop Williams | 112 | Bishop Stang | 12 | +2.0 | +100.0 |
 | 2026-04-04 | Archbishop Williams | 90 | Cardinal Spellman | 44 | +4.4 | +46.0 |
 | 2026-04-04 | Archbishop Williams | 119 | Cristo Rey | 10 | +6.0 | +109.0 |
@@ -31,9 +32,11 @@ Generated: 2026-04-06 11:47
 | 4 | Diman | 1552.4 |
 | 5 | Central Catholic | 1546.8 |
 | 6 | Apponequet | 1545.0 |
-| 7 | Bourne | 1455.0 |
-| 8 | Andover | 1453.2 |
-| 9 | Bishop Stang | 1451.5 |
-| 10 | Bristol-Plymouth | 1447.6 |
-| 11 | Assabet | 1425.3 |
-| 12 | Cristo Rey | 1350.0 |
+| 7 | Greater New Bedford | 1541.4 |
+| 8 | West Bridgewater | 1458.6 |
+| 9 | Bourne | 1455.0 |
+| 10 | Andover | 1453.2 |
+| 11 | Bishop Stang | 1451.5 |
+| 12 | Bristol-Plymouth | 1447.6 |
+| 13 | Assabet | 1425.3 |
+| 14 | Cristo Rey | 1350.0 |

@@ -1,6 +1,6 @@
 # Girls Rugby - 2026 Season
 
-Generated: 2026-04-06 11:47
+Generated: 2026-04-07 11:52
 
 ## Upcoming Games
 
@@ -9,6 +9,9 @@ Generated: 2026-04-06 11:47
 | 2026-04-10 | 6:00 P.M. | Algonquin | Brookline | 50.7% | +0.2 |
 | 2026-04-10 | 4:30 P.M. | Needham | Belmont | 57.1% | +2.0 |
 | 2026-04-10 | 6:00 P.M. | Cambridge | Weymouth | 63.4% | +3.8 |
+| 2026-04-17 | 6:00 P.M. | Algonquin | Weymouth | 50.7% | +0.2 |
+| 2026-04-17 | 4:30 P.M. | Lincoln-Sudbury | Belmont | 57.1% | +2.0 |
+| 2026-04-17 | 4:30 P.M. | Brookline | Cambridge | 50.7% | +0.2 |
 
 ## Recent Games
 
@@ -21,9 +24,9 @@ Generated: 2026-04-06 11:47
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Cambridge | 1545.3 |
-| 2 | Belmont | 1500.0 |
+| 2 | Weymouth | 1500.0 |
 | 3 | Lincoln-Sudbury | 1500.0 |
 | 4 | Needham | 1500.0 |
 | 5 | Brookline | 1500.0 |
-| 6 | Weymouth | 1500.0 |
+| 6 | Belmont | 1500.0 |
 | 7 | Algonquin | 1454.7 |
