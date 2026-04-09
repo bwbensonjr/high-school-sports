@@ -267,26 +267,29 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-07,88577,FINAL,Durfee,4122,0,0,North Quincy,4287,3,1,Patriot,Patriot,5:15 P.M.,,0
 2026-04-07,98460,FINAL,Boston United,4798,3,1,Prospect Hill,4593,0,0,Boston City,Charter School Athletic,,,0
 2026-04-08,88154,UPCOMING,Nashoba Valley Tech,4268,,,Catholic Memorial,4080,,,Commonwealth,Catholic Conference,4:30 P.M.,,0
-2026-04-08,88234,UPCOMING,Dighton-Rehoboth,4114,,,Greater New Bedford,4156,,,Tri-Valley,Independent,5:00 P.M.,,0
-2026-04-08,88296,UPCOMING,Millis,4251,,,Westwood,4424,,,Tri-Valley,Tri-Valley,5:00 P.M.,,0
-2026-04-08,88320,UPCOMING,Arlington,4013,,,Woburn,4438,,,Middlesex,Middlesex,5:30 P.M.,,0
-2026-04-08,88327,UPCOMING,Westford,4421,,,Belmont,4034,,,Dual County,Middlesex,5:15 P.M.,,0
+2026-04-08,88234,FINAL,Dighton-Rehoboth,4114,0,0,Greater New Bedford,4156,3,1,Tri-Valley,Independent,5:00 P.M.,,0
+2026-04-08,88296,FINAL,Millis,4251,3,1,Westwood,4424,2,0,Tri-Valley,Tri-Valley,5:00 P.M.,,0
+2026-04-08,88320,FINAL,Arlington,4013,3,1,Woburn,4438,0,0,Middlesex,Middlesex,5:30 P.M.,,0
+2026-04-08,88327,FINAL,Westford,4421,3,1,Belmont,4034,1,0,Dual County,Middlesex,5:15 P.M.,,0
 2026-04-08,88338,UPCOMING,Wakefield,4402,,,Burlington,4065,,,Middlesex,Middlesex,6:00 P.M.,,0
-2026-04-08,88347,UPCOMING,Winchester,4434,,,Lexington,4209,,,Middlesex,Middlesex,5:15 P.M.,,0
+2026-04-08,88347,FINAL,Winchester,4434,0,0,Lexington,4209,3,1,Middlesex,Middlesex,5:15 P.M.,,0
 2026-04-08,88378,UPCOMING,Salem,4336,,,Greater Lowell,4155,,,Commonwealth,Commonwealth,5:45 P.M.,,0
-2026-04-08,88395,UPCOMING,Greater Lawrence,4154,,,Lowell Catholic,4217,,,Commonwealth,Commonwealth,5:15 P.M.,,0
-2026-04-08,88410,UPCOMING,Chelsea,4086,,,Revere,4329,,,Greater Boston,Greater Boston,5:30 P.M.,,0
+2026-04-08,88395,FINAL,Greater Lawrence,4154,3,1,Lowell Catholic,4217,2,0,Commonwealth,Commonwealth,5:15 P.M.,,0
+2026-04-08,88410,FINAL,Chelsea,4086,0,0,Revere,4329,3,1,Greater Boston,Greater Boston,5:30 P.M.,,0
 2026-04-08,88429,UPCOMING,Everett,4132,,,Lynn English,4221,,,Greater Boston,Greater Boston,5:15 P.M.,,0
-2026-04-08,88449,UPCOMING,Malden,4227,,,Lynn Classical,4220,,,Greater Boston,Greater Boston,5:15 P.M.,,0
+2026-04-08,88449,FINAL,Malden,4227,1,0,Lynn Classical,4220,3,1,Greater Boston,Greater Boston,5:15 P.M.,,0
 2026-04-08,88453,UPCOMING,Medford,4242,,,Somerville,4351,,,Greater Boston,Greater Boston,5:30 P.M.,,0
 2026-04-08,88477,UPCOMING,Andover,4009,,,North Andover,4283,,,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
-2026-04-08,88484,UPCOMING,Andover,4009,,,Dracut,4119,,,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
-2026-04-08,88490,UPCOMING,Haverhill,4167,,,Central Catholic,4081,,,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
-2026-04-08,88508,UPCOMING,Chelmsford,4085,,,Methuen,4246,,,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
-2026-04-08,88530,UPCOMING,Lowell,4216,,,Lawrence,4203,,,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
+2026-04-08,88484,FINAL,Dracut,4119,3,1,Billerica,4040,1,0,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
+2026-04-08,88490,FINAL,Haverhill,4167,3,1,Central Catholic,4081,2,0,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
+2026-04-08,88508,FINAL,Chelmsford,4085,3,1,Methuen,4246,0,0,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
+2026-04-08,88530,FINAL,Lowell,4216,3,1,Lawrence,4203,0,0,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
 2026-04-08,88572,UPCOMING,Brockton,4058,,,Hingham,4171,,,Patriot,Patriot,5:15 P.M.,,0
 2026-04-08,88592,UPCOMING,Quincy,4326,,,New Bedford,4273,,,Patriot,Patriot,5:15 P.M.,,0
 2026-04-08,88611,UPCOMING,Silver Lake,4349,,,Randolph,4327,,,Patriot,Independent,4:30 P.M.,,0
+2026-04-08,99228,FINAL,Cambridge,4067,0,0,Latin Academy,4202,3,1,Dual County,Boston City,,,0
+2026-04-08,99239,FINAL,Wayland,4411,3,1,Marlborough,4233,0,0,Dual County,Mid-Wach,,,0
+2026-04-08,99330,FINAL,Westfield,4419,3,1,Agawam,4004,2,0,Independent,Independent,,,0
 2026-04-09,87962,UPCOMING,Brookline,4059,,,Natick,4270,,,Bay State,Bay State,5:15 P.M.,,0
 2026-04-09,87995,UPCOMING,Milton,4252,,,Framingham,4143,,,Bay State,Bay State,5:30 P.M.,,0
 2026-04-09,88088,UPCOMING,Needham,4272,,,Weymouth,4425,,,Bay State,Bay State,4:00 P.M.,,0
