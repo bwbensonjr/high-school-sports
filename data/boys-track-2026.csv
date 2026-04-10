@@ -17,3 +17,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-08,99367,FINAL,North Middlesex,4286,56,0,Nashoba,4267,87,1,Mid-Wach,Mid-Wach,,,0
 2026-04-08,99372,FINAL,Hingham,4171,73,1,Plymouth North,4315,63,0,Patriot,Patriot,,,0
 2026-04-08,99375,FINAL,Central Catholic,4081,106,1,Billerica,4040,39,0,Merrimack Valley,Merrimack Valley,,,0
+2026-04-08,99378,FINAL,Burlington,4065,104,1,Wilmington,4432,32,0,Middlesex,Middlesex,,,0
+2026-04-08,99380,FINAL,Brookline,4059,83.67,1,Framingham,4143,52.33,0,Bay State,Bay State,,,0
+2026-04-08,99381,FINAL,Brookline,4059,97,1,Natick,4270,39,0,Bay State,Bay State,,,0
+2026-04-08,99382,FINAL,Framingham,4143,67.33,0,Natick,4270,67.67,1,Bay State,Bay State,,,0

@@ -1,6 +1,6 @@
 # Girls Basketball - 2026 Season
 
-Generated: 2026-04-09 11:53
+Generated: 2026-04-10 11:46
 
 ## Upcoming Games
 
@@ -212,8 +212,8 @@ Generated: 2026-04-09 11:53
 | 194 | Winchester | 1503.3 |
 | 195 | Community Charter | 1502.8 |
 | 196 | Gann Academy | 1502.8 |
-| 197 | Trivium | 1502.8 |
-| 198 | TechBoston/Henderson Inclusion School | 1502.8 |
+| 197 | TechBoston/Henderson Inclusion School | 1502.8 |
+| 198 | Trivium | 1502.8 |
 | 199 | Wilbraham & Monson | 1501.4 |
 | 200 | Fenway | 1500.8 |
 | 201 | St. Thomas More | 1499.4 |
