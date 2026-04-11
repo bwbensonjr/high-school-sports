@@ -1,6 +1,6 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
-2026-03-26,93673,FINAL,Apponequet,4011,75,1,Bourne,4050,43,0,South Coast,South Coast,,,0
-2026-03-31,94963,FINAL,Diman,4115,97,1,Bristol-Plymouth,4057,39,0,Mayflower,Mayflower,,,0
+2026-03-26,93673,FINAL,Apponequet,4011,75.0,1,Bourne,4050,43.0,0,South Coast,South Coast,,,0
+2026-03-31,94963,FINAL,Diman,4115,97.0,1,Bristol-Plymouth,4057,39.0,0,Mayflower,Mayflower,,,0
 2026-04-01,95451,FINAL,Central Catholic,4081,91,1,Andover,4009,54,0,Merrimack Valley,Merrimack Valley,,,0
 2026-04-01,95540,FINAL,Assabet,4016,25,0,Keefe Tech,4191,102,1,Independent,Independent,,,0
 2026-04-04,97689,FINAL,Archbishop Williams,4012,112,1,Bishop Stang,4045,12,0,Catholic Central,Catholic Central,,,0
@@ -21,3 +21,4 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-08,99380,FINAL,Brookline,4059,83.67,1,Framingham,4143,52.33,0,Bay State,Bay State,,,0
 2026-04-08,99381,FINAL,Brookline,4059,97,1,Natick,4270,39,0,Bay State,Bay State,,,0
 2026-04-08,99382,FINAL,Framingham,4143,67.33,0,Natick,4270,67.67,1,Bay State,Bay State,,,0
+2026-04-10,99944,FINAL,Ashland,4015,60,0,Westwood,4424,74,1,Tri-Valley,Tri-Valley,,,0

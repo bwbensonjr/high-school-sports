@@ -1,6 +1,6 @@
 # Girls Track - 2026 Season
 
-Generated: 2026-04-10 11:46
+Generated: 2026-04-11 11:28
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-04-10 11:46
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-04-10 | Ashland | 57 | Westwood | 79 | -0.7 | -22.0 |
 | 2026-04-08 | Ipswich | 97 | Essex Tech | 46 | +2.0 | +51.3 |
 | 2026-04-08 | Nashoba | 115 | North Middlesex | 30 | +2.0 | +85.0 |
 | 2026-04-08 | Brookline | 81 | Framingham | 54 | +2.0 | +27.0 |
@@ -41,22 +42,23 @@ Generated: 2026-04-10 11:46
 | 8 | Central Catholic | 1552.6 |
 | 9 | Ipswich | 1550.9 |
 | 10 | Norton | 1546.8 |
-| 11 | Greater New Bedford | 1543.6 |
-| 12 | Silver Lake | 1537.7 |
-| 13 | Archbishop Williams | 1535.7 |
-| 14 | Brookline | 1467.0 |
-| 15 | Whitman-Hanson | 1462.3 |
-| 16 | Holliston | 1461.1 |
-| 17 | West Bridgewater | 1456.4 |
-| 18 | Millis | 1453.2 |
-| 19 | Salem | 1450.3 |
-| 20 | Essex Tech | 1449.1 |
-| 21 | Andover | 1447.4 |
-| 22 | Beverly | 1446.7 |
-| 23 | Bourne | 1443.5 |
-| 24 | North Middlesex | 1442.7 |
-| 25 | Bishop Stang | 1441.1 |
-| 26 | Ashland | 1432.6 |
+| 11 | Westwood | 1544.7 |
+| 12 | Greater New Bedford | 1543.6 |
+| 13 | Silver Lake | 1537.7 |
+| 14 | Archbishop Williams | 1535.7 |
+| 15 | Brookline | 1467.0 |
+| 16 | Whitman-Hanson | 1462.3 |
+| 17 | Holliston | 1461.1 |
+| 18 | West Bridgewater | 1456.4 |
+| 19 | Millis | 1453.2 |
+| 20 | Salem | 1450.3 |
+| 21 | Essex Tech | 1449.1 |
+| 22 | Andover | 1447.4 |
+| 23 | Beverly | 1446.7 |
+| 24 | Bourne | 1443.5 |
+| 25 | North Middlesex | 1442.7 |
+| 26 | Bishop Stang | 1441.1 |
 | 27 | Assabet | 1423.2 |
 | 28 | Framingham | 1408.1 |
-| 29 | Cristo Rey | 1351.7 |
+| 29 | Ashland | 1387.9 |
+| 30 | Cristo Rey | 1351.7 |

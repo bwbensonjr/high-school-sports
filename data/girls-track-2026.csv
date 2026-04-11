@@ -1,6 +1,6 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
 2026-03-26,93675,FINAL,Apponequet,4011,96.0,1,Bourne,4050,16.0,0,South Coast,South Coast,,,0
-2026-03-31,94960,FINAL,Ashland,4015,43,0,Hopkinton,4180,93,1,Tri-Valley,Tri-Valley,,,0
+2026-03-31,94960,FINAL,Ashland,4015,43.0,0,Hopkinton,4180,93.0,1,Tri-Valley,Tri-Valley,,,0
 2026-04-01,95437,FINAL,Masconomet,4236,99,1,Beverly,4038,37,0,Northeastern,Northeastern,,,0
 2026-04-01,95440,FINAL,Masconomet,4236,120,1,Salem,4336,16,0,Northeastern,Northeastern,,,0
 2026-04-01,95461,FINAL,Central Catholic,4081,102,1,Andover,4009,43,0,Merrimack Valley,Merrimack Valley,,,0
@@ -20,3 +20,4 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-08,99384,FINAL,Brookline,4059,81.5,1,Framingham,4143,54.5,0,Bay State,Bay State,,,0
 2026-04-08,99387,FINAL,Brookline,4059,41,0,Natick,4270,95,1,Bay State,Bay State,,,0
 2026-04-08,99390,FINAL,Framingham,4143,39,0,Natick,4270,96,1,Bay State,Bay State,,,0
+2026-04-10,99947,FINAL,Ashland,4015,57,0,Westwood,4424,79,1,Tri-Valley,Tri-Valley,,,0
