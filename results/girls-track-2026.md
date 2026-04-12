@@ -1,6 +1,6 @@
 # Girls Track - 2026 Season
 
-Generated: 2026-04-11 11:28
+Generated: 2026-04-12 11:32
 
 ## Upcoming Games
 
@@ -21,12 +21,6 @@ Generated: 2026-04-11 11:28
 | 2026-04-07 | Whitman-Hanson | 64 | Silver Lake | 72 | +2.0 | -8.0 |
 | 2026-04-07 | Hopkinton | 91 | Holliston | 45 | +4.7 | +46.0 |
 | 2026-04-06 | Greater New Bedford | 82 | West Bridgewater | 53 | +2.0 | +28.7 |
-| 2026-04-04 | Archbishop Williams | 98 | Bishop Stang | 24 | +2.0 | +74.0 |
-| 2026-04-04 | Archbishop Williams | 114 | Cristo Rey | 7 | +4.2 | +107.0 |
-| 2026-04-04 | Archbishop Williams | 55 | Cardinal Spellman | 80 | +6.2 | -25.0 |
-| 2026-04-04 | Bishop Stang | 16 | Cardinal Spellman | 115 | -3.0 | -99.0 |
-| 2026-04-04 | Cristo Rey | 3 | Cardinal Spellman | 127 | -4.9 | -124.0 |
-| 2026-04-04 | Bishop Stang | 55 | Cristo Rey | 11 | +1.5 | +44.0 |
 
 ## Current Elo Ratings
 

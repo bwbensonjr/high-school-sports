@@ -1,6 +1,6 @@
 # Boys Track - 2026 Season
 
-Generated: 2026-04-11 11:28
+Generated: 2026-04-12 11:32
 
 ## Upcoming Games
 
@@ -13,23 +13,17 @@ Generated: 2026-04-11 11:28
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-04-10 | Ashland | 60 | Westwood | 74 | +2.0 | -14.0 |
 | 2026-04-08 | Essex Tech | 72 | Ipswich | 70 | +2.0 | +2.0 |
-| 2026-04-08 | Framingham | 67 | Natick | 67 | +2.0 | -0.3 |
-| 2026-04-08 | Brookline | 97 | Natick | 39 | +3.8 | +58.0 |
-| 2026-04-08 | Brookline | 83 | Framingham | 52 | +2.0 | +31.3 |
-| 2026-04-08 | Burlington | 104 | Wilmington | 32 | +2.0 | +72.0 |
-| 2026-04-08 | Central Catholic | 106 | Billerica | 39 | +3.9 | +67.0 |
-| 2026-04-08 | Hingham | 73 | Plymouth North | 63 | +2.0 | +10.0 |
 | 2026-04-08 | North Middlesex | 56 | Nashoba | 87 | +2.0 | -31.0 |
-| 2026-04-07 | Silver Lake | 75 | Whitman-Hanson | 61 | +2.0 | +14.0 |
-| 2026-04-07 | Foxborough | 52 | Canton | 84 | +2.0 | -32.0 |
+| 2026-04-08 | Hingham | 73 | Plymouth North | 63 | +2.0 | +10.0 |
+| 2026-04-08 | Central Catholic | 106 | Billerica | 39 | +3.9 | +67.0 |
+| 2026-04-08 | Burlington | 104 | Wilmington | 32 | +2.0 | +72.0 |
+| 2026-04-08 | Brookline | 83 | Framingham | 52 | +2.0 | +31.3 |
+| 2026-04-08 | Brookline | 97 | Natick | 39 | +3.8 | +58.0 |
+| 2026-04-08 | Framingham | 67 | Natick | 67 | +2.0 | -0.3 |
 | 2026-04-07 | Norton | 87 | Millis | 39 | +2.0 | +48.0 |
+| 2026-04-07 | Foxborough | 52 | Canton | 84 | +2.0 | -32.0 |
+| 2026-04-07 | Silver Lake | 75 | Whitman-Hanson | 61 | +2.0 | +14.0 |
 | 2026-04-06 | Greater New Bedford | 80 | West Bridgewater | 56 | +2.0 | +24.0 |
-| 2026-04-04 | Archbishop Williams | 90 | Cardinal Spellman | 44 | +4.4 | +46.0 |
-| 2026-04-04 | Bishop Stang | 81 | Cristo Rey | 8 | +1.4 | +73.0 |
-| 2026-04-04 | Cardinal Spellman | 112 | Cristo Rey | 11 | +4.0 | +101.0 |
-| 2026-04-04 | Cardinal Spellman | 87 | Bishop Stang | 38 | +2.8 | +49.0 |
-| 2026-04-04 | Archbishop Williams | 119 | Cristo Rey | 10 | +6.0 | +109.0 |
-| 2026-04-04 | Archbishop Williams | 112 | Bishop Stang | 12 | +2.0 | +100.0 |
 
 ## Current Elo Ratings
 
