@@ -1,6 +1,6 @@
 # Girls Lacrosse - 2026 Season
 
-Generated: 2026-04-12 11:32
+Generated: 2026-04-13 12:01
 
 ## Upcoming Games
 
@@ -132,33 +132,34 @@ Generated: 2026-04-12 11:32
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-04-11 | Middlesex | 7 | Nobles | 16 | -1.7 | -9.0 |
+| 2026-04-11 | Brooks | 10 | Governor’s Academy | 7 | -0.2 | +3.0 |
 | 2026-04-11 | Ursuline | 22 | St. John Paul II | 15 | +2.8 | +7.0 |
-| 2026-04-11 | Reading | 12 | Medfield | 5 | +4.6 | +7.0 |
+| 2026-04-11 | Wellesley | 11 | Cohasset | 15 | +2.3 | -4.0 |
 | 2026-04-11 | Needham | 12 | Lincoln-Sudbury | 19 | +1.8 | -7.0 |
 | 2026-04-11 | Longmeadow | 9 | Chelmsford | 6 | -1.5 | +3.0 |
 | 2026-04-11 | Nauset | 18 | Sharon | 7 | -1.0 | +11.0 |
 | 2026-04-11 | Martha’s Vineyard | 9 | Bourne | 4 | +3.4 | +5.0 |
-| 2026-04-11 | Wellesley | 11 | Cohasset | 15 | +2.3 | -4.0 |
+| 2026-04-11 | Reading | 12 | Medfield | 5 | +4.6 | +7.0 |
 | 2026-04-11 | Georgetown | 8 | Gloucester | 12 | -0.7 | -4.0 |
 | 2026-04-11 | Austin Prep | 14 | Winchendon | 2 | +4.2 | +12.0 |
 | 2026-04-11 | Billerica | 11 | Northampton | 8 | +3.1 | +3.0 |
 | 2026-04-11 | Phillips Andover | 13 | Pingree | 8 | +4.4 | +5.0 |
+| 2026-04-11 | Middlesex | 7 | Nobles | 16 | -1.7 | -9.0 |
 | 2026-04-11 | Stoneham | 13 | Arlington Catholic | 10 | +1.7 | +3.0 |
 | 2026-04-10 | Taunton | 11 | New Bedford | 6 | -0.9 | +5.0 |
 | 2026-04-10 | Holliston | 9 | Mansfield | 12 | -0.1 | -3.0 |
 | 2026-04-10 | Arlington | 8 | Weston | 7 | -0.5 | +1.0 |
 | 2026-04-10 | Northeast | 0 | Saugus | 11 | -0.7 | -11.0 |
-| 2026-04-10 | Fontbonne | 7 | Cardinal Spellman | 8 | +0.3 | -1.0 |
+| 2026-04-10 | Seekonk | 8 | Fairhaven | 9 | -0.2 | -1.0 |
 | 2026-04-10 | Barnstable | 5 | Plymouth North | 8 | +0.1 | -3.0 |
-| 2026-04-10 | North Andover | 8 | Andover | 6 | +9.7 | +2.0 |
-| 2026-04-10 | Hamilton-Wenham | 16 | North Reading | 6 | +5.5 | +10.0 |
 | 2026-04-10 | Westford | 18 | Newton North | 8 | -2.5 | +10.0 |
+| 2026-04-10 | Hamilton-Wenham | 16 | North Reading | 6 | +5.5 | +10.0 |
+| 2026-04-10 | North Andover | 8 | Andover | 6 | +9.7 | +2.0 |
 | 2026-04-10 | Weymouth | 3 | Norwell | 18 | -6.1 | -15.0 |
 | 2026-04-10 | Westwood | 8 | Duxbury | 9 | +1.3 | -1.0 |
 | 2026-04-10 | Oliver Ames | 13 | Ursuline | 17 | -0.8 | -4.0 |
 | 2026-04-10 | Sharon | 15 | North Quincy | 13 | +2.5 | +2.0 |
-| 2026-04-10 | Seekonk | 8 | Fairhaven | 9 | -0.2 | -1.0 |
+| 2026-04-10 | Fontbonne | 7 | Cardinal Spellman | 8 | +0.3 | -1.0 |
 | 2026-04-10 | Bristol-Plymouth | 17 | Southeastern | 6 | +3.2 | +11.0 |
 | 2026-04-10 | Lowell | 10 | Haverhill | 13 | +1.1 | -3.0 |
 | 2026-04-10 | Beverly | 19 | Winthrop | 4 | +6.2 | +15.0 |
@@ -168,9 +169,9 @@ Generated: 2026-04-12 11:32
 | 2026-04-10 | Granby | 9 | Pope Francis | 16 | +5.0 | -7.0 |
 | 2026-04-10 | Braintree | 12 | Quincy | 2 | +5.6 | +10.0 |
 | 2026-04-10 | Upper Cape | 5 | Cape Cod Tech | 6 | +3.6 | -1.0 |
-| 2026-04-10 | Notre Dame (Worcester) | 7 | Hudson | 16 | +0.3 | -9.0 |
 | 2026-04-10 | Somerset Berkley | 7 | Dighton-Rehoboth | 12 | +1.8 | -5.0 |
 | 2026-04-10 | Danvers | 15 | Gloucester | 9 | -1.2 | +6.0 |
+| 2026-04-10 | Notre Dame (Worcester) | 7 | Hudson | 16 | +0.3 | -9.0 |
 | 2026-04-10 | Marblehead | 9 | Swampscott | 15 | -1.1 | -6.0 |
 | 2026-04-09 | St. Mary’s | 14 | Archbishop Williams | 4 | +3.3 | +10.0 |
 | 2026-04-09 | Milton | 8 | Braintree | 7 | +0.7 | +1.0 |
@@ -179,10 +180,10 @@ Generated: 2026-04-12 11:32
 | 2026-04-09 | Bishop Fenwick | 10 | Bishop Stang | 6 | -4.1 | +4.0 |
 | 2026-04-09 | Hanover | 10 | Whitman-Hanson | 9 | +2.8 | +1.0 |
 | 2026-04-09 | Quincy | 7 | Marshfield | 10 | -0.6 | -3.0 |
-| 2026-04-09 | Arlington Catholic | 9 | Cardinal Spellman | 7 | +4.7 | +2.0 |
 | 2026-04-09 | Bridgewater-Raynham | 11 | Barnstable | 6 | +3.3 | +5.0 |
 | 2026-04-09 | Mashpee | 14 | Dennis-Yarmouth | 9 | +2.0 | +5.0 |
 | 2026-04-09 | Wayland | 9 | Weston | 11 | -1.0 | -2.0 |
+| 2026-04-09 | Arlington Catholic | 9 | Cardinal Spellman | 7 | +4.7 | +2.0 |
 | 2026-04-09 | Natick | 15 | Weymouth | 5 | +3.6 | +10.0 |
 | 2026-04-09 | North Quincy | 4 | Duxbury | 15 | -0.3 | -11.0 |
 | 2026-04-09 | Pentucket | 6 | Masconomet | 11 | +0.8 | -5.0 |
@@ -198,7 +199,7 @@ Generated: 2026-04-12 11:32
 | 2026-04-09 | Concord-Carlisle | 12 | Chelmsford | 9 | +1.6 | +3.0 |
 | 2026-04-09 | Northeast | 7 | Nashoba Valley Tech | 15 | +3.4 | -8.0 |
 | 2026-04-09 | Shawsheen | 11 | Mystic Valley | 4 | +7.4 | +7.0 |
-| 2026-04-09 | Shepherd Hill | 14 | Marlborough | 6 | +6.5 | +8.0 |
+| 2026-04-09 | Algonquin | 17 | Leominster | 4 | +1.2 | +13.0 |
 | 2026-04-09 | Waltham | 5 | Acton-Boxborough | 20 | +1.9 | -15.0 |
 | 2026-04-09 | Wachusett | 4 | Grafton | 18 | -0.6 | -14.0 |
 | 2026-04-09 | West Springfield | 8 | Northampton | 7 | +4.1 | +1.0 |
@@ -208,59 +209,58 @@ Generated: 2026-04-12 11:32
 | 2026-04-09 | Belchertown | 18 | Chicopee Comprehensive | 12 | +2.0 | +6.0 |
 | 2026-04-09 | Westfield | 4 | Minnechaug | 15 | -1.4 | -11.0 |
 | 2026-04-09 | Pope Francis | 9 | South Hadley | 10 | -0.6 | -1.0 |
-| 2026-04-09 | Algonquin | 17 | Leominster | 4 | +1.2 | +13.0 |
+| 2026-04-09 | Shepherd Hill | 14 | Marlborough | 6 | +6.5 | +8.0 |
 | 2026-04-09 | Northbridge | 15 | Notre Dame (Worcester) | 9 | +3.5 | +6.0 |
 | 2026-04-09 | Newton South | 13 | Peabody | 6 | -1.7 | +7.0 |
 | 2026-04-09 | Oakmont | 12 | North Middlesex | 16 | +2.5 | -4.0 |
 | 2026-04-09 | Westborough | 16 | Tyngsborough | 3 | +3.3 | +13.0 |
 | 2026-04-09 | Bromfield | 16 | Groton-Dunstable | 5 | +2.6 | +11.0 |
-| 2026-04-09 | Plymouth South | 11 | Silver Lake | 12 | +5.1 | -1.0 |
-| 2026-04-09 | Medford | 12 | Tewksbury | 2 | +5.5 | +10.0 |
-| 2026-04-09 | Everett | 10 | Malden | 5 | +3.3 | +5.0 |
-| 2026-04-09 | Revere | 2 | Somerville | 11 | +0.1 | -9.0 |
 | 2026-04-09 | Assabet | 3 | Monty Tech/Sizer | 11 | +3.7 | -8.0 |
-| 2026-04-09 | Norwood | 12 | Canton | 20 | -0.6 | -8.0 |
-| 2026-04-09 | Dedham | 10 | Medway | 8 | +6.6 | +2.0 |
-| 2026-04-09 | Winchester | 15 | Stoneham | 7 | +3.5 | +8.0 |
-| 2026-04-09 | Latin Academy | 10 | Fontbonne | 8 | +4.8 | +2.0 |
 | 2026-04-09 | St. Bernard’s | 10 | Advanced Math and Science | 9 | +0.8 | +1.0 |
-| 2026-04-08 | Norton | 5 | Dedham | 16 | -5.2 | -11.0 |
+| 2026-04-09 | Latin Academy | 10 | Fontbonne | 8 | +4.8 | +2.0 |
+| 2026-04-09 | Winchester | 15 | Stoneham | 7 | +3.5 | +8.0 |
+| 2026-04-09 | Dedham | 10 | Medway | 8 | +6.6 | +2.0 |
+| 2026-04-09 | Plymouth South | 11 | Silver Lake | 12 | +5.1 | -1.0 |
+| 2026-04-09 | Norwood | 12 | Canton | 20 | -0.6 | -8.0 |
+| 2026-04-09 | Revere | 2 | Somerville | 11 | +0.1 | -9.0 |
+| 2026-04-09 | Everett | 10 | Malden | 5 | +3.3 | +5.0 |
+| 2026-04-09 | Medford | 12 | Tewksbury | 2 | +5.5 | +10.0 |
+| 2026-04-08 | St. Mark’s | 13 | BB&N | 14 | +2.1 | -1.0 |
 | 2026-04-08 | Nobles | 16 | Lawrence Academy | 1 | +2.8 | +15.0 |
 | 2026-04-08 | Phillips Andover | 15 | Deerfield | 6 | +7.6 | +9.0 |
 | 2026-04-08 | Pingree | 12 | St. Paul’s | 8 | +3.6 | +4.0 |
 | 2026-04-08 | Deerfield | 6 | Phillips Andover | 15 | -1.1 | -9.0 |
-| 2026-04-08 | St. Mark’s | 13 | BB&N | 14 | +2.1 | -1.0 |
-| 2026-04-08 | Dana Hall | 17 | Austin Prep | 7 | +1.5 | +10.0 |
-| 2026-04-08 | Mansfield | 5 | King Philip | 13 | -1.2 | -8.0 |
-| 2026-04-08 | Winthrop | 3 | Swampscott | 18 | +1.8 | -15.0 |
+| 2026-04-08 | Norton | 5 | Dedham | 16 | -5.2 | -11.0 |
 | 2026-04-08 | Concord-Carlisle | 15 | Cambridge | 0 | +8.6 | +15.0 |
+| 2026-04-08 | Winthrop | 3 | Swampscott | 18 | +1.8 | -15.0 |
+| 2026-04-08 | Dana Hall | 17 | Austin Prep | 7 | +1.5 | +10.0 |
 | 2026-04-08 | Bishop Fenwick | 1 | Notre Dame (Hingham) | 15 | -2.1 | -14.0 |
 | 2026-04-08 | East Bridgewater | 0 | Norwell | 21 | -5.0 | -21.0 |
 | 2026-04-08 | Lynnfield | 7 | Ipswich | 14 | -0.1 | -7.0 |
 | 2026-04-08 | Foxborough | 8 | Franklin | 12 | +1.5 | -4.0 |
-| 2026-04-08 | Bristol-Plymouth | 10 | Tri-County | 5 | -2.5 | +5.0 |
-| 2026-04-08 | Triton | 9 | Pentucket | 8 | -0.1 | +1.0 |
+| 2026-04-08 | Mansfield | 5 | King Philip | 13 | -1.2 | -8.0 |
 | 2026-04-08 | Essex Tech | 1 | North Reading | 11 | +3.8 | -10.0 |
 | 2026-04-08 | Taunton | 3 | Canton | 16 | -4.2 | -13.0 |
+| 2026-04-08 | Triton | 9 | Pentucket | 8 | -0.1 | +1.0 |
 | 2026-04-08 | Greater New Bedford | 4 | Somerset Berkley | 10 | -0.2 | -6.0 |
-| 2026-04-08 | Dighton-Rehoboth | 16 | Bourne | 6 | +4.6 | +10.0 |
 | 2026-04-08 | Rockland | 13 | Abington | 6 | +4.7 | +7.0 |
 | 2026-04-08 | Middleborough | 2 | Hull | 10 | -0.7 | -8.0 |
 | 2026-04-08 | Joseph Case | 1 | Seekonk | 16 | +0.3 | -15.0 |
 | 2026-04-08 | Georgetown | 5 | Hamilton-Wenham | 20 | -5.6 | -15.0 |
 | 2026-04-08 | Bishop Feehan | 17 | Guilderland (N.Y.) | 5 | +4.7 | +12.0 |
 | 2026-04-08 | Sharon | 9 | Milford | 10 | +7.1 | -1.0 |
-| 2026-04-07 | Nauset | 10 | Falmouth | 12 | +0.5 | -2.0 |
-| 2026-04-07 | Newton South | 8 | Weston | 11 | +1.2 | -3.0 |
-| 2026-04-07 | Newton North | 10 | Natick | 6 | +3.7 | +4.0 |
+| 2026-04-08 | Dighton-Rehoboth | 16 | Bourne | 6 | +4.6 | +10.0 |
+| 2026-04-08 | Bristol-Plymouth | 10 | Tri-County | 5 | -2.5 | +5.0 |
 | 2026-04-07 | New Bedford | 5 | Bridgewater-Raynham | 9 | +0.6 | -4.0 |
 | 2026-04-07 | Needham | 9 | Braintree | 5 | +1.4 | +4.0 |
+| 2026-04-07 | Newton North | 10 | Natick | 6 | +3.7 | +4.0 |
+| 2026-04-07 | Dennis-Yarmouth | 20 | Sturgis East | 5 | +5.7 | +15.0 |
+| 2026-04-07 | Nauset | 10 | Falmouth | 12 | +0.5 | -2.0 |
 | 2026-04-07 | Sturgis West | 2 | Nantucket | 14 | -1.0 | -12.0 |
 | 2026-04-07 | St. John Paul II | 16 | Monomoy | 7 | +7.6 | +9.0 |
-| 2026-04-07 | Dennis-Yarmouth | 20 | Sturgis East | 5 | +5.7 | +15.0 |
 | 2026-04-07 | Woburn | 4 | Lexington | 18 | +2.0 | -14.0 |
 | 2026-04-07 | Billerica | 4 | North Andover | 13 | -1.8 | -9.0 |
-| 2026-04-07 | Concord-Carlisle | 14 | Bedford | 7 | +0.4 | +7.0 |
+| 2026-04-07 | Newton South | 8 | Weston | 11 | +1.2 | -3.0 |
 | 2026-04-07 | Chelmsford | 9 | Central Catholic | 2 | +3.4 | +7.0 |
 | 2026-04-07 | Belmont | 5 | Reading | 16 | -0.4 | -11.0 |
 | 2026-04-07 | Waltham | 7 | Westford | 17 | +7.1 | -10.0 |
@@ -269,28 +269,29 @@ Generated: 2026-04-12 11:32
 | 2026-04-07 | Lincoln-Sudbury | 8 | Acton-Boxborough | 12 | +2.6 | -4.0 |
 | 2026-04-07 | Wellesley | 19 | Brookline | 4 | +1.9 | +15.0 |
 | 2026-04-07 | Framingham | 9 | Walpole | 20 | -3.4 | -11.0 |
+| 2026-04-07 | Concord-Carlisle | 14 | Bedford | 7 | +0.4 | +7.0 |
 | 2026-04-07 | Cambridge | 4 | Boston Latin | 10 | -2.2 | -6.0 |
 | 2026-04-07 | Cardinal Spellman | 6 | Bishop Stang | 13 | -0.3 | -7.0 |
+| 2026-04-07 | Upper Cape | 2 | Tri-County | 9 | -0.5 | -7.0 |
 | 2026-04-07 | Northeast | 13 | Malden | 6 | +2.8 | +7.0 |
-| 2026-04-07 | Methuen | 12 | Malden Catholic | 13 | +1.8 | -1.0 |
 | 2026-04-07 | Whitman-Hanson | 8 | Scituate | 18 | +0.8 | -10.0 |
 | 2026-04-07 | North Middlesex | 9 | Bromfield | 15 | +2.5 | -6.0 |
-| 2026-04-07 | Upper Cape | 2 | Tri-County | 9 | -0.5 | -7.0 |
 | 2026-04-07 | Pope Francis | 5 | Wahconah | 15 | +1.0 | -10.0 |
 | 2026-04-07 | Advanced Math and Science | 9 | Hudson | 9 | +1.2 | 0.0 |
 | 2026-04-07 | Somerville | 12 | Everett | 1 | +0.5 | +11.0 |
 | 2026-04-07 | Revere | 1 | Medford | 15 | +3.3 | -14.0 |
+| 2026-04-07 | Barnstable | 11 | Dartmouth | 10 | -0.4 | +1.0 |
 | 2026-04-07 | Pembroke | 11 | Marshfield | 14 | +4.8 | -3.0 |
 | 2026-04-07 | Silver Lake | 7 | Hanover | 9 | +2.8 | -2.0 |
-| 2026-04-07 | Barnstable | 11 | Dartmouth | 10 | -0.4 | +1.0 |
+| 2026-04-07 | Methuen | 12 | Malden Catholic | 13 | +1.8 | -1.0 |
 | 2026-04-07 | Plymouth North | 8 | Plymouth South | 6 | +1.1 | +2.0 |
-| 2026-04-07 | Ursuline | 21 | Fontbonne | 10 | +5.5 | +11.0 |
 | 2026-04-07 | Gloucester | 5 | Saugus | 6 | +0.7 | -1.0 |
 | 2026-04-07 | Danvers | 4 | Masconomet | 18 | +2.5 | -14.0 |
 | 2026-04-07 | Burlington | 13 | Watertown | 12 | +4.7 | +1.0 |
 | 2026-04-07 | Wilmington | 9 | Stoneham | 11 | +1.1 | -2.0 |
 | 2026-04-07 | Tewksbury | 11 | Lowell | 14 | +0.5 | -3.0 |
 | 2026-04-07 | Haverhill | 7 | Dracut | 6 | +2.6 | +1.0 |
+| 2026-04-07 | Ursuline | 21 | Fontbonne | 10 | +5.5 | +11.0 |
 | 2026-04-06 | Greater New Bedford | 4 | New Bedford | 15 | +3.3 | -11.0 |
 | 2026-04-06 | Northeast | 5 | Whittier | 4 | +4.5 | +1.0 |
 | 2026-04-06 | Waltham | 12 | Methuen | 10 | +6.1 | +2.0 |
@@ -299,15 +300,15 @@ Generated: 2026-04-12 11:32
 | 2026-04-06 | Triton | 3 | Ipswich | 15 | -3.0 | -12.0 |
 | 2026-04-06 | North Reading | 12 | Manchester Essex | 16 | +4.3 | -4.0 |
 | 2026-04-06 | Martha’s Vineyard | 9 | Monomoy | 5 | +1.6 | +4.0 |
-| 2026-04-06 | Oliver Ames | 9 | Canton | 12 | -0.4 | -3.0 |
+| 2026-04-06 | Franklin | 20 | Taunton | 4 | +7.7 | +16.0 |
 | 2026-04-06 | Pentucket | 17 | Georgetown | 5 | +1.6 | +12.0 |
 | 2026-04-06 | King Philip | 19 | Sharon | 4 | +2.0 | +15.0 |
 | 2026-04-06 | Essex Tech | 5 | Hamilton-Wenham | 14 | +2.8 | -9.0 |
-| 2026-04-06 | Franklin | 20 | Taunton | 4 | +7.7 | +16.0 |
 | 2026-04-06 | Milford | 9 | Foxborough | 22 | -3.2 | -13.0 |
 | 2026-04-06 | Newburyport | 16 | Lynnfield | 13 | +0.4 | +3.0 |
 | 2026-04-06 | Norwell | 19 | Rockland | 1 | +3.9 | +18.0 |
 | 2026-04-06 | Bellingham | 0 | Westwood | 17 | -2.9 | -17.0 |
+| 2026-04-06 | Oliver Ames | 9 | Canton | 12 | -0.4 | -3.0 |
 | 2026-04-06 | North Attleborough | 9 | Mansfield | 12 | +0.6 | -3.0 |
 | 2026-04-06 | Medfield | 18 | Ashland | 3 | +4.3 | +15.0 |
 | 2026-04-06 | Old Colony | 7 | Tri-County | 8 | +1.7 | -1.0 |
@@ -448,10 +449,10 @@ Generated: 2026-04-12 11:32
 | 112 | Brookline | 1502.9 |
 | 113 | Mansfield | 1502.2 |
 | 114 | Salem | 1500.8 |
-| 115 | Blackstone Valley | 1500.0 |
-| 116 | La Salle (R.I.) | 1500.0 |
-| 117 | Winnacunnet (N.H.) | 1500.0 |
-| 118 | Cape Cod Academy | 1500.0 |
+| 115 | Cape Cod Academy | 1500.0 |
+| 116 | Blackstone Valley | 1500.0 |
+| 117 | La Salle (R.I.) | 1500.0 |
+| 118 | Winnacunnet (N.H.) | 1500.0 |
 | 119 | Nipmuc | 1500.0 |
 | 120 | Longmeadow | 1499.3 |
 | 121 | Holderness | 1499.3 |
@@ -477,102 +478,103 @@ Generated: 2026-04-12 11:32
 | 141 | BB&N | 1479.5 |
 | 142 | North Quincy | 1479.2 |
 | 143 | St. Bernard’s | 1479.0 |
-| 144 | Sharon | 1478.9 |
-| 145 | Hanover | 1478.6 |
-| 146 | Somerset Berkley | 1478.3 |
-| 147 | Belmont | 1477.7 |
-| 148 | Portsmouth (R.I.) | 1477.6 |
-| 149 | Upper Cape | 1475.9 |
-| 150 | Chicopee Comprehensive | 1475.0 |
-| 151 | Central Catholic | 1474.4 |
-| 152 | Guilderland (N.Y.) | 1474.0 |
-| 153 | Hoosac Valley | 1473.3 |
-| 154 | Southeastern | 1471.9 |
-| 155 | Oakmont | 1471.5 |
-| 156 | Littleton | 1471.2 |
-| 157 | Braintree | 1470.2 |
-| 158 | Middlesex | 1469.5 |
-| 159 | Barnstable | 1469.2 |
-| 160 | New Hampton | 1469.2 |
-| 161 | St. George’s | 1468.1 |
-| 162 | Methuen | 1468.0 |
-| 163 | Pope Francis | 1467.9 |
-| 164 | Lexington Christian | 1466.1 |
-| 165 | Gloucester | 1466.0 |
-| 166 | Auburn | 1465.9 |
-| 167 | Silver Lake | 1464.6 |
-| 168 | Burlington | 1464.6 |
-| 169 | Hotchkiss | 1464.4 |
-| 170 | Marshfield | 1463.6 |
-| 171 | Monty Tech/Sizer | 1462.3 |
-| 172 | Portsmouth Abbey | 1462.1 |
-| 173 | Mount St. Charles (R.I.) | 1462.0 |
-| 174 | Cape Cod Tech | 1461.6 |
-| 175 | Pembroke | 1458.7 |
-| 176 | St. Mark’s | 1458.6 |
-| 177 | Granby | 1458.1 |
-| 178 | Bristol Aggie | 1456.0 |
-| 179 | Sturgis West | 1455.3 |
-| 180 | Marblehead | 1455.0 |
-| 181 | Martha’s Vineyard | 1454.6 |
-| 182 | Waltham | 1453.2 |
-| 183 | Mystic Valley | 1452.9 |
-| 184 | Northampton | 1452.7 |
-| 185 | Dracut | 1451.9 |
-| 186 | Tyngsborough | 1449.0 |
-| 187 | Malden Catholic | 1447.1 |
-| 188 | Medway | 1446.6 |
-| 189 | Cardinal Spellman | 1445.3 |
-| 190 | Brooks | 1445.2 |
-| 191 | Bishop Fenwick | 1444.4 |
-| 192 | Deerfield | 1442.9 |
-| 193 | Whitman-Hanson | 1442.7 |
-| 194 | Notre Dame (Worcester) | 1442.7 |
-| 195 | Oliver Ames | 1442.5 |
-| 196 | Melrose | 1441.8 |
-| 197 | Winthrop | 1436.6 |
-| 198 | Winchendon | 1435.7 |
-| 199 | Milton | 1435.1 |
-| 200 | Wayland | 1433.8 |
-| 201 | Ashland | 1433.6 |
-| 202 | North Attleborough | 1433.1 |
-| 203 | Leominster | 1431.8 |
-| 204 | New Bedford | 1429.4 |
-| 205 | Wachusett | 1429.1 |
-| 206 | Agawam | 1428.1 |
-| 207 | Danvers | 1427.4 |
-| 208 | Andover | 1426.3 |
-| 209 | Northeast | 1425.3 |
-| 210 | Assabet | 1422.0 |
-| 211 | Needham | 1421.6 |
-| 212 | Weymouth | 1421.4 |
-| 213 | Lowell Catholic | 1420.7 |
-| 214 | Abington | 1420.4 |
-| 215 | Pentucket | 1420.0 |
-| 216 | South Shore Voc-Tech | 1417.5 |
-| 217 | Triton | 1417.3 |
-| 218 | Westfield | 1416.1 |
-| 219 | Revere | 1415.0 |
-| 220 | Taunton | 1413.3 |
-| 221 | Watertown | 1412.8 |
-| 222 | East Bridgewater | 1412.6 |
-| 223 | Malden | 1411.7 |
-| 224 | Milford | 1408.7 |
-| 225 | Holliston | 1407.5 |
-| 226 | Tewksbury | 1405.5 |
-| 227 | Whittier | 1400.3 |
-| 228 | Bellingham | 1399.1 |
-| 229 | Marlborough | 1398.2 |
-| 230 | Joseph Case | 1395.9 |
-| 231 | Greater New Bedford | 1395.5 |
-| 232 | Middleborough | 1386.9 |
-| 233 | Framingham | 1386.1 |
-| 234 | Monomoy | 1383.4 |
-| 235 | Fontbonne | 1380.9 |
-| 236 | Stoughton | 1380.6 |
-| 237 | Bourne | 1379.6 |
-| 238 | Sturgis East | 1375.1 |
-| 239 | Cambridge | 1370.5 |
-| 240 | Georgetown | 1352.6 |
-| 241 | Quincy | 1335.8 |
-| 242 | Norton | 1328.9 |
+| 144 | Governor’s Academy | 1478.9 |
+| 145 | Sharon | 1478.9 |
+| 146 | Hanover | 1478.6 |
+| 147 | Somerset Berkley | 1478.3 |
+| 148 | Belmont | 1477.7 |
+| 149 | Portsmouth (R.I.) | 1477.6 |
+| 150 | Upper Cape | 1475.9 |
+| 151 | Chicopee Comprehensive | 1475.0 |
+| 152 | Central Catholic | 1474.4 |
+| 153 | Guilderland (N.Y.) | 1474.0 |
+| 154 | Hoosac Valley | 1473.3 |
+| 155 | Southeastern | 1471.9 |
+| 156 | Oakmont | 1471.5 |
+| 157 | Littleton | 1471.2 |
+| 158 | Braintree | 1470.2 |
+| 159 | Middlesex | 1469.5 |
+| 160 | Barnstable | 1469.2 |
+| 161 | New Hampton | 1469.2 |
+| 162 | St. George’s | 1468.1 |
+| 163 | Methuen | 1468.0 |
+| 164 | Pope Francis | 1467.9 |
+| 165 | Brooks | 1466.3 |
+| 166 | Lexington Christian | 1466.1 |
+| 167 | Gloucester | 1466.0 |
+| 168 | Auburn | 1465.9 |
+| 169 | Silver Lake | 1464.6 |
+| 170 | Burlington | 1464.6 |
+| 171 | Hotchkiss | 1464.4 |
+| 172 | Marshfield | 1463.6 |
+| 173 | Monty Tech/Sizer | 1462.3 |
+| 174 | Portsmouth Abbey | 1462.1 |
+| 175 | Mount St. Charles (R.I.) | 1462.0 |
+| 176 | Cape Cod Tech | 1461.6 |
+| 177 | Pembroke | 1458.7 |
+| 178 | St. Mark’s | 1458.6 |
+| 179 | Granby | 1458.1 |
+| 180 | Bristol Aggie | 1456.0 |
+| 181 | Sturgis West | 1455.3 |
+| 182 | Marblehead | 1455.0 |
+| 183 | Martha’s Vineyard | 1454.6 |
+| 184 | Waltham | 1453.2 |
+| 185 | Mystic Valley | 1452.9 |
+| 186 | Northampton | 1452.7 |
+| 187 | Dracut | 1451.9 |
+| 188 | Tyngsborough | 1449.0 |
+| 189 | Malden Catholic | 1447.1 |
+| 190 | Medway | 1446.6 |
+| 191 | Cardinal Spellman | 1445.3 |
+| 192 | Bishop Fenwick | 1444.4 |
+| 193 | Deerfield | 1442.9 |
+| 194 | Whitman-Hanson | 1442.7 |
+| 195 | Notre Dame (Worcester) | 1442.7 |
+| 196 | Oliver Ames | 1442.5 |
+| 197 | Melrose | 1441.8 |
+| 198 | Winthrop | 1436.6 |
+| 199 | Winchendon | 1435.7 |
+| 200 | Milton | 1435.1 |
+| 201 | Wayland | 1433.8 |
+| 202 | Ashland | 1433.6 |
+| 203 | North Attleborough | 1433.1 |
+| 204 | Leominster | 1431.8 |
+| 205 | New Bedford | 1429.4 |
+| 206 | Wachusett | 1429.1 |
+| 207 | Agawam | 1428.1 |
+| 208 | Danvers | 1427.4 |
+| 209 | Andover | 1426.3 |
+| 210 | Northeast | 1425.3 |
+| 211 | Assabet | 1422.0 |
+| 212 | Needham | 1421.6 |
+| 213 | Weymouth | 1421.4 |
+| 214 | Lowell Catholic | 1420.7 |
+| 215 | Abington | 1420.4 |
+| 216 | Pentucket | 1420.0 |
+| 217 | South Shore Voc-Tech | 1417.5 |
+| 218 | Triton | 1417.3 |
+| 219 | Westfield | 1416.1 |
+| 220 | Revere | 1415.0 |
+| 221 | Taunton | 1413.3 |
+| 222 | Watertown | 1412.8 |
+| 223 | East Bridgewater | 1412.6 |
+| 224 | Malden | 1411.7 |
+| 225 | Milford | 1408.7 |
+| 226 | Holliston | 1407.5 |
+| 227 | Tewksbury | 1405.5 |
+| 228 | Whittier | 1400.3 |
+| 229 | Bellingham | 1399.1 |
+| 230 | Marlborough | 1398.2 |
+| 231 | Joseph Case | 1395.9 |
+| 232 | Greater New Bedford | 1395.5 |
+| 233 | Middleborough | 1386.9 |
+| 234 | Framingham | 1386.1 |
+| 235 | Monomoy | 1383.4 |
+| 236 | Fontbonne | 1380.9 |
+| 237 | Stoughton | 1380.6 |
+| 238 | Bourne | 1379.6 |
+| 239 | Sturgis East | 1375.1 |
+| 240 | Cambridge | 1370.5 |
+| 241 | Georgetown | 1352.6 |
+| 242 | Quincy | 1335.8 |
+| 243 | Norton | 1328.9 |

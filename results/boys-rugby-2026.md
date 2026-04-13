@@ -1,6 +1,6 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-04-12 11:32
+Generated: 2026-04-13 12:00
 
 ## Upcoming Games
 
@@ -37,10 +37,10 @@ Generated: 2026-04-12 11:32
 | 6 | Chelmsford | 1525.9 |
 | 7 | Blue Hills | 1520.1 |
 | 8 | Brookline | 1517.8 |
-| 9 | Belmont | 1500.0 |
-| 10 | St. John’s Prep | 1500.0 |
-| 11 | Hanover | 1500.0 |
-| 12 | Burncoat | 1500.0 |
+| 9 | Burncoat | 1500.0 |
+| 10 | Hanover | 1500.0 |
+| 11 | St. John’s Prep | 1500.0 |
+| 12 | Belmont | 1500.0 |
 | 13 | Xaverian | 1480.4 |
 | 14 | Catholic Memorial | 1451.9 |
 | 15 | Cambridge | 1445.9 |

@@ -1,6 +1,6 @@
 # Girls Rugby - 2026 Season
 
-Generated: 2026-04-12 11:32
+Generated: 2026-04-13 12:01
 
 ## Upcoming Games
 
@@ -23,8 +23,8 @@ Generated: 2026-04-12 11:32
 |------|------|------------|
 | 1 | Weymouth | 1564.7 |
 | 2 | Belmont | 1563.2 |
-| 3 | Lincoln-Sudbury | 1500.0 |
-| 4 | Brookline | 1500.0 |
+| 3 | Brookline | 1500.0 |
+| 4 | Lincoln-Sudbury | 1500.0 |
 | 5 | Cambridge | 1480.7 |
 | 6 | Algonquin | 1454.7 |
 | 7 | Needham | 1436.8 |

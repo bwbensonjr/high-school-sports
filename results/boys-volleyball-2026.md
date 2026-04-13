@@ -1,6 +1,6 @@
 # Boys Volleyball - 2026 Season
 
-Generated: 2026-04-12 11:32
+Generated: 2026-04-13 12:01
 
 ## Upcoming Games
 
@@ -215,12 +215,12 @@ Generated: 2026-04-12 11:32
 | 60 | Southeastern | 1501.1 |
 | 61 | Newton South | 1500.3 |
 | 62 | Excel Academy | 1500.1 |
-| 63 | Salem Academy | 1500.0 |
-| 64 | Boston Latin | 1500.0 |
-| 65 | Codman Charter | 1500.0 |
-| 66 | Walpole | 1500.0 |
-| 67 | Phillips Andover | 1500.0 |
-| 68 | Pioneer Charter II | 1500.0 |
+| 63 | Boston Latin | 1500.0 |
+| 64 | Salem Academy | 1500.0 |
+| 65 | Pioneer Charter II | 1500.0 |
+| 66 | Codman Charter | 1500.0 |
+| 67 | Walpole | 1500.0 |
+| 68 | Phillips Andover | 1500.0 |
 | 69 | Doherty | 1499.8 |
 | 70 | Athol | 1499.3 |
 | 71 | O’Bryant | 1499.1 |
