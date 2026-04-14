@@ -149,17 +149,17 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-02,96158,FINAL,St. George’s,4367,7.0,1.0,Thayer,4390,0.0,0.0,ISL,ISL,,,0
 2026-04-03,90673,POSTPONED,Sandwich,4340,,,Plymouth South,4316,,,Cape & Islands,Patriot,4:00 P.M.,,0
 2026-04-03,91041,UPCOMING,Newburyport,4276,,,Masconomet,4236,,,Cape Ann,Northeastern,4:00 P.M.,,0
-2026-04-03,91188,FINAL,Manchester Essex,4229,5,1,Rockport,4490,0,0,Cape Ann,Cape Ann,4:00 P.M.,,0
-2026-04-03,92973,FINAL,Andover,4009,5,1,Tewksbury,4389,0,0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
-2026-04-03,93534,FINAL,Wilmington,4432,5,1,Stoneham,4380,0,0,Middlesex,Middlesex,4:15 P.M.,,0
+2026-04-03,91188,FINAL,Manchester Essex,4229,5.0,1.0,Rockport,4490,0.0,0.0,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-04-03,92973,FINAL,Andover,4009,5.0,1.0,Tewksbury,4389,0.0,0.0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
+2026-04-03,93534,FINAL,Wilmington,4432,5.0,1.0,Stoneham,4380,0.0,0.0,Middlesex,Middlesex,4:15 P.M.,,0
 2026-04-03,94044,POSTPONED,Joseph Case,4078,,,Dighton-Rehoboth,4114,,,South Coast,South Coast,1:00 P.M.,,0
-2026-04-03,94283,FINAL,Middleborough,4247,0,0,Mashpee,4237,5,1,South Shore,South Shore,4:00 P.M.,,0
-2026-04-03,96560,FINAL,Plymouth South,4316,0,0,Duxbury,4123,5,1,Patriot,Patriot,,,0
-2026-04-03,96692,FINAL,Nashoba,4267,1,0,Tyngsborough,4397,4,1,Mid-Wach,Mid-Wach,,,0
-2026-04-03,96841,FINAL,Marlborough,4233,1,0,Grafton,4153,3,1,Mid-Wach,Independent,,,0
-2026-04-03,96845,FINAL,Bartlett,4026,0,0,Sutton,4512,5,1,Independent,Independent,,,0
-2026-04-03,96848,FINAL,Lenox,4532,5,1,Monument Mtn.,4260,0,0,Independent,Independent,,,0
-2026-04-03,96849,FINAL,Amherst-Pelham,4008,5,1,Belchertown,4032,0,0,Independent,Independent,,,0
+2026-04-03,94283,FINAL,Middleborough,4247,0.0,0.0,Mashpee,4237,5.0,1.0,South Shore,South Shore,4:00 P.M.,,0
+2026-04-03,96560,FINAL,Plymouth South,4316,0.0,0.0,Duxbury,4123,5.0,1.0,Patriot,Patriot,,,0
+2026-04-03,96692,FINAL,Nashoba,4267,1.0,0.0,Tyngsborough,4397,4.0,1.0,Mid-Wach,Mid-Wach,,,0
+2026-04-03,96841,FINAL,Marlborough,4233,1.0,0.0,Grafton,4153,3.0,1.0,Mid-Wach,Independent,,,0
+2026-04-03,96845,FINAL,Bartlett,4026,0.0,0.0,Sutton,4512,5.0,1.0,Independent,Independent,,,0
+2026-04-03,96848,FINAL,Lenox,4532,5.0,1.0,Monument Mtn.,4260,0.0,0.0,Independent,Independent,,,0
+2026-04-03,96849,FINAL,Amherst-Pelham,4008,5.0,1.0,Belchertown,4032,0.0,0.0,Independent,Independent,,,0
 2026-04-04,90633,UPCOMING,Martha’s Vineyard,4235,,,Nantucket,4265,,,Cape & Islands,Cape & Islands,12:30 P.M.,,0
 2026-04-04,93917,FINAL,Sharon,4345,2,0,Duxbury,4123,3,1,Hockomock,Patriot,12:00 P.M.,,0
 2026-04-06,90065,FINAL,Braintree,4051,1,0,Walpole,4404,4,1,Bay State,Bay State,4:00 P.M.,,0
@@ -382,7 +382,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-13,90178,UPCOMING,Newton North,4279,,,Brookline,4059,,,Bay State,Bay State,4:30 P.M.,,0
 2026-04-13,90238,UPCOMING,Walpole,4404,,,Needham,4272,,,Bay State,Bay State,4:00 P.M.,,0
 2026-04-13,90360,UPCOMING,Durfee,4122,,,Westport,4461,,,Big Three,Mayflower,4:00 P.M.,,0
-2026-04-13,90422,UPCOMING,Latin Academy,4202,,,Lowell Catholic,4217,,,Boston City,Commonwealth,4:00 P.M.,,0
+2026-04-13,90422,FINAL,Latin Academy,4202,5,1,Lowell Catholic,4217,0,0,Boston City,Commonwealth,4:00 P.M.,,0
 2026-04-13,90546,UPCOMING,Nantucket,4265,,,Dennis-Yarmouth,4111,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-04-13,90592,UPCOMING,Falmouth,4134,,,Monomoy,4706,,,Cape & Islands,Cape & Islands,4:30 P.M.,,0
 2026-04-13,90662,UPCOMING,Nauset,4271,,,Wareham,4407,,,Cape & Islands,Mayflower,4:30 P.M.,,0
@@ -396,7 +396,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-13,91316,UPCOMING,Bishop Stang,4045,,,Apponequet,4011,,,Catholic Central,South Coast,3:30 P.M.,,0
 2026-04-13,91403,UPCOMING,Salem,4336,,,St. Mary’s,4374,,,Northeastern,Catholic Central,4:00 P.M.,,0
 2026-04-13,91469,UPCOMING,Catholic Memorial,4080,,,Xaverian,4446,,,Catholic Conference,Catholic Conference,4:00 P.M.,,0
-2026-04-13,91543,UPCOMING,Malden Catholic,4228,,,BC High,4029,,,Catholic Conference,Catholic Conference,4:00 P.M.,,0
+2026-04-13,91543,FINAL,Malden Catholic,4228,0,0,BC High,4029,5,1,Catholic Conference,Catholic Conference,4:00 P.M.,,0
 2026-04-13,91604,UPCOMING,St. John’s (Shrewsbury),4368,,,St. John’s Prep,4369,,,Catholic Conference,Catholic Conference,4:00 P.M.,,0
 2026-04-13,91729,UPCOMING,Greater Lawrence,4154,,,Greater Lowell,4155,,,Commonwealth,Commonwealth,4:00 P.M.,,0
 2026-04-13,91769,UPCOMING,Northeast/Saugus,4293,,,Nashoba Valley Tech,4268,,,Commonwealth,Commonwealth,4:00 P.M.,,0
@@ -421,7 +421,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-13,93857,UPCOMING,Winthrop,4437,,,Beverly,4038,,,Northeastern,Northeastern,4:30 P.M.,,0
 2026-04-13,93864,UPCOMING,Gloucester,4150,,,Danvers,4103,,,Northeastern,Northeastern,4:00 P.M.,,0
 2026-04-13,93878,UPCOMING,Swampscott,4383,,,Marblehead,4231,,,Northeastern,Northeastern,4:00 P.M.,,0
-2026-04-13,93892,UPCOMING,Silver Lake,4349,,,Scituate,4343,,,Patriot,Patriot,4:00 P.M.,,0
+2026-04-13,93892,FINAL,Silver Lake,4349,0,0,Scituate,4343,5,1,Patriot,Patriot,4:00 P.M.,,0
 2026-04-13,94050,UPCOMING,Joseph Case,4078,,,Diman,4115,,,South Coast,Mayflower,3:30 P.M.,,0
 2026-04-13,94228,UPCOMING,West Bridgewater,4415,,,Bridgewater-Raynham,4053,,,South Coast,Pioneer,3:00 P.M.,,0
 2026-04-13,94277,UPCOMING,Rockland/EB,4331,,,Middleborough,4247,,,South Shore,South Shore,4:00 P.M.,,0
@@ -581,3 +581,5 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-23,93992,UPCOMING,Apponequet,4011,,,Bourne,4050,,,South Coast,South Coast,11:00 P.M.,,0
 2026-04-23,94038,UPCOMING,Joseph Case,4078,,,Seekonk,4344,,,South Coast,South Coast,10:00 A.M.,,0
 2026-04-23,94080,UPCOMING,Old Rochester,4301,,,Dighton-Rehoboth,4114,,,South Coast,South Coast,3:45 P.M.,,0
+2026-04-24,92803,UPCOMING,Medford,4242,,,Revere,4329,,,Greater Boston,Greater Boston,10:00 P.M.,,0
+2026-04-24,92821,UPCOMING,Lynn English,4221,,,Lynn Classical,4220,,,Greater Boston,Greater Boston,10:00 A.M.,,0

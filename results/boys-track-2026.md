@@ -1,6 +1,6 @@
 # Boys Track - 2026 Season
 
-Generated: 2026-04-13 12:01
+Generated: 2026-04-14 11:55
 
 ## Upcoming Games
 
@@ -23,7 +23,6 @@ Generated: 2026-04-13 12:01
 | 2026-04-07 | Norton | 87 | Millis | 39 | +2.0 | +48.0 |
 | 2026-04-07 | Foxborough | 52 | Canton | 84 | +2.0 | -32.0 |
 | 2026-04-07 | Silver Lake | 75 | Whitman-Hanson | 61 | +2.0 | +14.0 |
-| 2026-04-06 | Greater New Bedford | 80 | West Bridgewater | 56 | +2.0 | +24.0 |
 
 ## Current Elo Ratings
 

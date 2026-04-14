@@ -20,4 +20,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-08,99384,FINAL,Brookline,4059,81.5,1,Framingham,4143,54.5,0,Bay State,Bay State,,,0
 2026-04-08,99387,FINAL,Brookline,4059,41,0,Natick,4270,95,1,Bay State,Bay State,,,0
 2026-04-08,99390,FINAL,Framingham,4143,39,0,Natick,4270,96,1,Bay State,Bay State,,,0
+2026-04-08,101510,FINAL,Weymouth,4425,69,1,Walpole,4404,62,0,Bay State,Bay State,,,0
+2026-04-08,101511,FINAL,Weymouth,4425,72.5,1,Wellesley,4413,58.5,0,Bay State,Bay State,,,0
+2026-04-08,101512,FINAL,Newton North,4279,94,1,Weymouth,4425,36,0,Bay State,Bay State,,,0
+2026-04-08,101513,FINAL,Wellesley,4413,84,1,Walpole,4404,47,0,Bay State,Bay State,,,0
+2026-04-08,101514,FINAL,Newton North,4279,84,1,Wellesley,4413,47,0,Bay State,Bay State,,,0
 2026-04-10,99947,FINAL,Ashland,4015,57,0,Westwood,4424,79,1,Tri-Valley,Tri-Valley,,,0
