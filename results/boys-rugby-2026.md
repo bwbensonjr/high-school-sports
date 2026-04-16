@@ -1,13 +1,11 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-04-15 11:54
+Generated: 2026-04-16 11:57
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-04-15 | 6:00 P.M. | Catholic Memorial | Blue Hills | 47.4% | -0.7 |
-| 2026-04-15 | 5:00 P.M. | Chelmsford | Burncoat | 60.8% | +3.0 |
 | 2026-04-16 | 6:00 P.M. | Xaverian | Weymouth | 63.8% | +4.0 |
 | 2026-04-17 | 5:00 P.M. | St. John’s Prep | Belmont | 57.1% | +2.0 |
 | 2026-04-17 | 5:30 P.M. | Milton | Algonquin/Westboro | 56.1% | +1.7 |
@@ -19,6 +17,8 @@ Generated: 2026-04-15 11:54
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-04-15 | Catholic Memorial | 5 | Blue Hills | 59 | -0.7 | -54.0 |
+| 2026-04-15 | Chelmsford | 50 | Burncoat | 7 | +3.0 | +43.0 |
 | 2026-04-10 | Lincoln-Sudbury | 14 | Blue Hills | 42 | +2.9 | -28.0 |
 | 2026-04-09 | BC High | 27 | Xaverian | 21 | +4.7 | +6.0 |
 | 2026-04-09 | Algonquin/Westboro | 53 | Catholic Memorial | 12 | +2.0 | +41.0 |
@@ -30,20 +30,20 @@ Generated: 2026-04-15 11:54
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | BC High | 1588.0 |
-| 2 | Hingham/Norwell | 1557.0 |
-| 3 | Malden Catholic | 1548.6 |
-| 4 | Algonquin/Westboro | 1548.1 |
-| 5 | Milton | 1540.9 |
-| 6 | Chelmsford | 1525.9 |
-| 7 | Blue Hills | 1520.1 |
+| 2 | Blue Hills | 1577.1 |
+| 3 | Chelmsford | 1570.5 |
+| 4 | Hingham/Norwell | 1557.0 |
+| 5 | Malden Catholic | 1548.6 |
+| 6 | Algonquin/Westboro | 1548.1 |
+| 7 | Milton | 1540.9 |
 | 8 | Brookline | 1517.8 |
-| 9 | Belmont | 1500.0 |
-| 10 | Burncoat | 1500.0 |
-| 11 | St. John’s Prep | 1500.0 |
-| 12 | Hanover | 1500.0 |
-| 13 | Xaverian | 1480.4 |
-| 14 | Catholic Memorial | 1451.9 |
-| 15 | Cambridge | 1445.9 |
-| 16 | Weymouth | 1431.6 |
-| 17 | Marshfield/SST | 1422.6 |
-| 18 | Lincoln-Sudbury | 1421.2 |
+| 9 | St. John’s Prep | 1500.0 |
+| 10 | Belmont | 1500.0 |
+| 11 | Hanover | 1500.0 |
+| 12 | Xaverian | 1480.4 |
+| 13 | Burncoat | 1455.4 |
+| 14 | Cambridge | 1445.9 |
+| 15 | Weymouth | 1431.6 |
+| 16 | Marshfield/SST | 1422.6 |
+| 17 | Lincoln-Sudbury | 1421.2 |
+| 18 | Catholic Memorial | 1395.0 |

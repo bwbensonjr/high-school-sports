@@ -377,10 +377,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-14,101695,FINAL,Norton,4295,3,1,Millis,4251,1,0,Tri-Valley,Tri-Valley,,,0
 2026-04-14,101787,FINAL,Hampden Charter East,4712,0,0,Athol,4017,3,1,Independent,Independent,,,0
 2026-04-15,88039,UPCOMING,Norwood,4297,,,Milton,4252,,,Tri-Valley,Bay State,4:00 P.M.,,0
-2026-04-15,88169,UPCOMING,St. John’s (Shrewsbury),4368,,,Agawam,4004,,,Catholic Conference,Independent,6:00 P.M.,,0
-2026-04-15,88225,UPCOMING,Bellingham,4033,,,Barnstable,4024,,,Tri-Valley,Independent,5:00 P.M.,,0
+2026-04-15,88169,FINAL,St. John’s (Shrewsbury),4368,0,0,Agawam,4004,3,1,Catholic Conference,Independent,6:00 P.M.,,0
+2026-04-15,88225,FINAL,Bellingham,4033,0,0,Barnstable,4024,3,1,Tri-Valley,Independent,5:00 P.M.,,0
 2026-04-15,88271,UPCOMING,Nipmuc,4281,,,King Philip,4197,,,CMAC,Hockomock,5:00 P.M.,,0
 2026-04-15,88279,UPCOMING,Norton,4295,,,Millis,4251,,,Tri-Valley,Tri-Valley,5:00 P.M.,,0
+2026-04-15,102419,FINAL,Dracut,4119,0,0,Lowell,4216,3,1,Merrimack Valley,Merrimack Valley,5:30 P.M.,,0
+2026-04-15,102423,FINAL,Cambridge,4067,3,1,Boston Latin,4049,0,0,Dual County,Dual County,,,0
+2026-04-15,102426,FINAL,Central Catholic,4081,2,0,Billerica,4040,3,1,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
+2026-04-15,102443,FINAL,Revere,4329,3,1,Everett,4132,0,0,Greater Boston,Greater Boston,,,0
+2026-04-15,102445,FINAL,Somerville,4351,0,0,Lynn Classical,4220,3,1,Greater Boston,Greater Boston,5:15 P.M.,,0
+2026-04-15,102448,FINAL,Methuen,4246,3,1,Haverhill,4167,0,0,Merrimack Valley,Merrimack Valley,,,0
+2026-04-15,102458,FINAL,Andover,4009,0,0,Chelmsford,4085,3,1,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
+2026-04-15,102465,FINAL,Waltham/Weston,4405,1,0,Westford,4421,3,1,Dual County,Dual County,6:00 P.M.,,0
+2026-04-15,102513,FINAL,Newton South,4280,2,0,Wayland,4411,3,1,Dual County,Dual County,,,0
 2026-04-16,87924,UPCOMING,Needham,4272,,,Braintree,4051,,,Bay State,Bay State,4:00 P.M.,,0
 2026-04-16,87970,UPCOMING,Weymouth,4425,,,Brookline,4059,,,Bay State,Bay State,4:30 P.M.,,0
 2026-04-16,87997,UPCOMING,Framingham,4143,,,Wellesley,4413,,,Bay State,Bay State,4:00 P.M.,,0

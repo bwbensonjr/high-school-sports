@@ -1,6 +1,6 @@
 # Girls Indoor Track - 2026 Season
 
-Generated: 2026-04-15 11:54
+Generated: 2026-04-16 11:57
 
 ## Upcoming Games
 
@@ -9,8 +9,9 @@ Generated: 2026-04-15 11:54
 
 ## Recent Games
 
-*No games in the last 7 days*
-
+| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
+|------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-04-15 | Danvers | 26 | Masconomet | 110 | +0.5 | -84.0 |
 
 ## Current Elo Ratings
 
@@ -35,52 +36,52 @@ Generated: 2026-04-15 11:54
 | 17 | Plymouth North | 1578.8 |
 | 18 | Old Rochester | 1576.3 |
 | 19 | Latin Academy / O'Bryant | 1572.9 |
-| 20 | Duxbury | 1570.5 |
-| 21 | Brighton | 1569.3 |
-| 22 | Dover-Sherborn | 1567.6 |
-| 23 | Lowell | 1558.1 |
-| 24 | Gloucester | 1557.9 |
-| 25 | Scituate | 1556.8 |
-| 26 | Manchester Essex | 1556.5 |
-| 27 | Sharon | 1553.9 |
-| 28 | Triton | 1550.3 |
-| 29 | Latin Academy | 1548.3 |
-| 30 | Archbishop Williams | 1543.2 |
-| 31 | Andover | 1542.3 |
-| 32 | Malden Catholic | 1542.1 |
-| 33 | Franklin | 1537.3 |
-| 34 | Hopkinton | 1537.2 |
-| 35 | Norton | 1536.1 |
-| 36 | Arlington Catholic | 1529.1 |
-| 37 | Somerset Berkley | 1527.8 |
-| 38 | Marshfield | 1527.2 |
-| 39 | Southeastern | 1523.9 |
-| 40 | Natick | 1523.1 |
-| 41 | Holliston | 1522.0 |
-| 42 | Chelmsford | 1507.9 |
-| 43 | Newburyport | 1502.8 |
+| 20 | Masconomet | 1571.6 |
+| 21 | Duxbury | 1570.5 |
+| 22 | Brighton | 1569.3 |
+| 23 | Dover-Sherborn | 1567.6 |
+| 24 | Lowell | 1558.1 |
+| 25 | Gloucester | 1557.9 |
+| 26 | Scituate | 1556.8 |
+| 27 | Manchester Essex | 1556.5 |
+| 28 | Sharon | 1553.9 |
+| 29 | Triton | 1550.3 |
+| 30 | Latin Academy | 1548.3 |
+| 31 | Archbishop Williams | 1543.2 |
+| 32 | Andover | 1542.3 |
+| 33 | Malden Catholic | 1542.1 |
+| 34 | Franklin | 1537.3 |
+| 35 | Hopkinton | 1537.2 |
+| 36 | Norton | 1536.1 |
+| 37 | Arlington Catholic | 1529.1 |
+| 38 | Somerset Berkley | 1527.8 |
+| 39 | Marshfield | 1527.2 |
+| 40 | Southeastern | 1523.9 |
+| 41 | Natick | 1523.1 |
+| 42 | Holliston | 1522.0 |
+| 43 | Chelmsford | 1507.9 |
 | 44 | North Reading | 1502.8 |
-| 45 | Essex Tech | 1502.8 |
-| 46 | Billerica | 1495.9 |
-| 47 | Needham | 1493.8 |
-| 48 | Greater New Bedford | 1491.3 |
-| 49 | Canton | 1488.7 |
-| 50 | Dighton-Rehoboth | 1487.3 |
-| 51 | Milton | 1485.4 |
-| 52 | Nauset | 1479.4 |
-| 53 | Taunton | 1476.9 |
-| 54 | Hanover | 1476.3 |
-| 55 | Charlestown | 1475.7 |
-| 56 | North Quincy/Quincy | 1475.2 |
-| 57 | Marblehead | 1473.2 |
-| 58 | Martha’s Vineyard | 1471.9 |
-| 59 | Whitman-Hanson | 1471.1 |
-| 60 | Stoughton | 1470.2 |
-| 61 | Joseph Case | 1470.1 |
-| 62 | Tri-County | 1470.0 |
-| 63 | Medfield | 1469.4 |
-| 64 | Bishop Fenwick | 1467.5 |
-| 65 | Danvers | 1464.3 |
+| 45 | Newburyport | 1502.8 |
+| 46 | Essex Tech | 1502.8 |
+| 47 | Billerica | 1495.9 |
+| 48 | Needham | 1493.8 |
+| 49 | Greater New Bedford | 1491.3 |
+| 50 | Canton | 1488.7 |
+| 51 | Dighton-Rehoboth | 1487.3 |
+| 52 | Milton | 1485.4 |
+| 53 | Nauset | 1479.4 |
+| 54 | Taunton | 1476.9 |
+| 55 | Hanover | 1476.3 |
+| 56 | Charlestown | 1475.7 |
+| 57 | North Quincy/Quincy | 1475.2 |
+| 58 | Marblehead | 1473.2 |
+| 59 | Martha’s Vineyard | 1471.9 |
+| 60 | Whitman-Hanson | 1471.1 |
+| 61 | Stoughton | 1470.2 |
+| 62 | Joseph Case | 1470.1 |
+| 63 | Tri-County | 1470.0 |
+| 64 | Medfield | 1469.4 |
+| 65 | Bishop Fenwick | 1467.5 |
 | 66 | O’Bryant | 1464.1 |
 | 67 | Beverly | 1462.4 |
 | 68 | West Bridgewater | 1460.7 |
@@ -112,7 +113,8 @@ Generated: 2026-04-15 11:54
 | 94 | Ursuline | 1412.4 |
 | 95 | Brookline | 1406.8 |
 | 96 | Framingham | 1397.0 |
-| 97 | Fontbonne | 1355.9 |
-| 98 | Weymouth | 1340.3 |
-| 99 | North Andover | 1296.9 |
-| 100 | Cristo Rey | 1237.1 |
+| 97 | Danvers | 1395.5 |
+| 98 | Fontbonne | 1355.9 |
+| 99 | Weymouth | 1340.3 |
+| 100 | North Andover | 1296.9 |
+| 101 | Cristo Rey | 1237.1 |

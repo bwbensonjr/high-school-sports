@@ -1,6 +1,6 @@
 # Girls Golf - 2026 Season
 
-Generated: 2026-04-15 11:54
+Generated: 2026-04-16 11:57
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-04-15 11:54
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-04-15 | Braintree | 6 | Framingham | 0 | +2.0 | +6.0 |
 | 2026-04-14 | Wellesley | 4 | Ursuline | 1 | +1.6 | +3.0 |
 | 2026-04-14 | Duxbury | 6 | Silver Lake | 0 | +6.5 | +6.0 |
 | 2026-04-14 | Archbishop Williams | 1 | Malden Catholic | 4 | +1.4 | -3.0 |
@@ -21,7 +22,6 @@ Generated: 2026-04-15 11:54
 | 2026-04-13 | Walpole | 3 | Wellesley | 2 | +2.0 | +1.0 |
 | 2026-04-09 | Duxbury | 6 | Marshfield | 0 | +3.8 | +6.0 |
 | 2026-04-09 | Malden Catholic | 4 | Fontbonne | 2 | +2.0 | +2.0 |
-| 2026-04-08 | Duxbury | 6 | Cohasset | 0 | +3.3 | +6.0 |
 
 ## Current Elo Ratings
 
@@ -31,21 +31,23 @@ Generated: 2026-04-15 11:54
 | 2 | Duxbury | 1593.6 |
 | 3 | Malden Catholic | 1537.1 |
 | 4 | Bishop Feehan | 1530.8 |
-| 5 | Nauset | 1525.0 |
-| 6 | Hingham | 1524.0 |
-| 7 | Wellesley | 1509.4 |
-| 8 | Walpole | 1508.9 |
-| 9 | Marshfield | 1499.6 |
-| 10 | Quincy | 1490.8 |
-| 11 | Wachusett | 1490.1 |
-| 12 | Quabbin | 1488.1 |
-| 13 | Fontbonne | 1485.9 |
-| 14 | Ursuline | 1481.7 |
-| 15 | Cohasset | 1477.7 |
-| 16 | Archbishop Williams | 1477.1 |
-| 17 | Nashoba | 1476.7 |
-| 18 | Falmouth | 1475.0 |
-| 19 | Notre Dame (Worcester) | 1469.2 |
-| 20 | North Quincy/Quincy | 1466.6 |
-| 21 | Silver Lake | 1447.7 |
-| 22 | Worcester | 1445.5 |
+| 5 | Braintree | 1525.0 |
+| 6 | Nauset | 1525.0 |
+| 7 | Hingham | 1524.0 |
+| 8 | Wellesley | 1509.4 |
+| 9 | Walpole | 1508.9 |
+| 10 | Marshfield | 1499.6 |
+| 11 | Quincy | 1490.8 |
+| 12 | Wachusett | 1490.1 |
+| 13 | Quabbin | 1488.1 |
+| 14 | Fontbonne | 1485.9 |
+| 15 | Ursuline | 1481.7 |
+| 16 | Cohasset | 1477.7 |
+| 17 | Archbishop Williams | 1477.1 |
+| 18 | Nashoba | 1476.7 |
+| 19 | Framingham | 1475.0 |
+| 20 | Falmouth | 1475.0 |
+| 21 | Notre Dame (Worcester) | 1469.2 |
+| 22 | North Quincy/Quincy | 1466.6 |
+| 23 | Silver Lake | 1447.7 |
+| 24 | Worcester | 1445.5 |
