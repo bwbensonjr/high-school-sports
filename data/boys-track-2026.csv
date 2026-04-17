@@ -9,7 +9,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-04,97697,FINAL,Cardinal Spellman,4075,87.0,1,Bishop Stang,4045,38.0,0,Catholic Central,Catholic Central,,,0
 2026-04-04,97698,FINAL,Cardinal Spellman,4075,112.0,1,Cristo Rey,4453,11.0,0,Catholic Central,Independent,,,0
 2026-04-04,97700,FINAL,Bishop Stang,4045,81.0,1,Cristo Rey,4453,8.0,0,Catholic Central,Independent,,,0
-2026-04-06,98075,FINAL,Greater New Bedford,4156,80,1,West Bridgewater,4415,56,0,South Coast,South Coast,,,0
+2026-04-06,98075,FINAL,Greater New Bedford,4156,80.0,1,West Bridgewater,4415,56.0,0,South Coast,South Coast,,,0
 2026-04-07,98562,FINAL,Norton,4295,87,1,Millis,4251,39,0,Tri-Valley,Tri-Valley,,,0
 2026-04-07,98570,FINAL,Foxborough,4142,52,0,Canton,4071,84,1,Hockomock,Hockomock,,,0
 2026-04-07,98652,FINAL,Silver Lake,4349,75,1,Whitman-Hanson,4427,61,0,Patriot,Patriot,,,0
@@ -43,3 +43,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-15,102629,FINAL,Braintree,4051,52,0,Newton North,4279,84,1,Bay State,Bay State,,,0
 2026-04-15,102630,FINAL,Braintree,4051,59,0,Natick,4270,77,1,Bay State,Bay State,,,0
 2026-04-15,102631,FINAL,Newton North,4279,74,1,Natick,4270,62,0,Bay State,Bay State,,,0
+2026-04-16,102683,FINAL,West Bridgewater,4415,109,1,Bourne,4050,25,0,South Coast,South Coast,,,0
+2026-04-16,102717,FINAL,Apponequet,4011,35,0,Greater New Bedford,4156,89,1,South Coast,South Coast,,,0
+2026-04-16,102724,FINAL,Keefe Tech,4191,78,1,Parker Charter,4483,56,0,Independent,Independent,,,0
+2026-04-16,102729,FINAL,Somerset Berkley,4350,74,1,Dighton-Rehoboth,4114,62,0,South Coast,South Coast,,,0
+2026-04-16,102745,FINAL,Diman,4115,74,1,Blue Hills,4047,56,0,Mayflower,Mayflower,,,0
+2026-04-16,102892,FINAL,Hingham,4171,76,1,Silver Lake,4349,60,0,Patriot,Patriot,,,0
+2026-04-16,102908,FINAL,Burlington,4065,134,1,Watertown,4409,2,0,Middlesex,Middlesex,,,0
+2026-04-16,102914,FINAL,Nauset,4271,104,1,Sandwich,4340,28.5,0,Cape & Islands,Cape & Islands,,,0

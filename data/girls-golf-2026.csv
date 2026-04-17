@@ -1,7 +1,7 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
 2026-04-01,95645,FINAL,Silver Lake,4349,2.5,0,Marshfield,4234,3.5,1,Patriot,Independent,,,0
 2026-04-02,96304,FINAL,Worcester,4066,4.5,0,Hopkinton,4180,27.5,1,Independent,Independent,,,0
-2026-04-06,98022,FINAL,Hingham,4171,6,1,Silver Lake,4349,0,0,Patriot,Patriot,,,0
+2026-04-06,98022,FINAL,Hingham,4171,6.0,1,Silver Lake,4349,0.0,0,Patriot,Patriot,,,0
 2026-04-06,98034,FINAL,Quabbin,4325,17.5,0,Nashoba,4267,18.5,1,Mid-Wach,Independent,,,0
 2026-04-07,98542,FINAL,North Quincy/Quincy,4287,0,0,Duxbury,4123,6,1,Patriot,Patriot,,,0
 2026-04-07,98560,FINAL,Nashoba,4267,12,0,Hopkinton,4180,30,1,Independent,Independent,,,0
@@ -17,3 +17,5 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-14,101791,FINAL,Marshfield,4234,3.5,1,Quincy,4326,2.5,0,Independent,Patriot,,,0
 2026-04-14,101797,FINAL,Nauset,4271,6,1,Falmouth,4134,0,0,Cape & Islands,Cape & Islands,,,0
 2026-04-15,102461,FINAL,Braintree,4051,6,1,Framingham,4143,0,0,Bay State,Bay State,,,0
+2026-04-16,102655,FINAL,Dennis-Yarmouth,4111,0,0,Bishop Feehan,4042,6,1,Cape & Islands,Independent,,,0
+2026-04-16,102924,FINAL,Worcester,4066,8.5,0,Nashoba,4267,27.5,1,Independent,Independent,,,0

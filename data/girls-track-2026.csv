@@ -21,7 +21,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-08,99387,FINAL,Brookline,4059,41,0,Natick,4270,95,1,Bay State,Bay State,,,0
 2026-04-08,99390,FINAL,Framingham,4143,39,0,Natick,4270,96,1,Bay State,Bay State,,,0
 2026-04-08,101510,FINAL,Weymouth,4425,69,1,Walpole,4404,62,0,Bay State,Bay State,,,0
-2026-04-08,101511,FINAL,Weymouth,4425,72.5,1,Wellesley,4413,58.5,0,Bay State,Bay State,,,0
+2026-04-08,101511,FINAL,Weymouth,4425,58.5,0,Wellesley,4413,72.5,1,Bay State,Bay State,,,0
 2026-04-08,101512,FINAL,Newton North,4279,94,1,Weymouth,4425,36,0,Bay State,Bay State,,,0
 2026-04-08,101513,FINAL,Wellesley,4413,84,1,Walpole,4404,47,0,Bay State,Bay State,,,0
 2026-04-08,101514,FINAL,Newton North,4279,84,1,Wellesley,4413,47,0,Bay State,Bay State,,,0
@@ -42,3 +42,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-15,102434,FINAL,Ipswich,4190,74,1,Lynnfield,4223,70,0,Cape Ann,Cape Ann,,,0
 2026-04-15,102438,FINAL,Central Catholic,4081,74,1,North Andover,4283,71,0,Merrimack Valley,Merrimack Valley,,,0
 2026-04-15,102620,FINAL,Hopkinton,4180,99,1,Norwood,4297,37,0,Tri-Valley,Tri-Valley,,,0
+2026-04-15,102636,FINAL,Weymouth,4425,68,1,Framingham,4143,67,0,Bay State,Bay State,,,0
+2026-04-15,102638,FINAL,Weymouth,4425,70,1,Milton,4252,65,0,Bay State,Bay State,,,0
+2026-04-15,102639,FINAL,Framingham,4143,72,1,Milton,4252,63,0,Bay State,Bay State,,,0
+2026-04-15,102642,FINAL,Wellesley,4413,85,1,Framingham,4143,51,0,Bay State,Bay State,,,0
+2026-04-15,102645,FINAL,Wellesley,4413,80.5,1,Milton,4252,55.5,0,Bay State,Bay State,,,0
+2026-04-15,102646,FINAL,Newton North,4279,84,1,Braintree,4051,52,0,Bay State,Bay State,,,0
+2026-04-15,102647,FINAL,Newton North,4279,74,1,Natick,4270,62,0,Bay State,Bay State,,,0
+2026-04-15,102649,FINAL,Natick,4270,77,1,Braintree,4051,59,0,Bay State,Bay State,,,0
+2026-04-15,102652,FINAL,Needham,4272,69,1,Walpole,4404,67,0,Bay State,Bay State,,,0
+2026-04-15,102653,FINAL,Needham,4272,75,1,Brookline,4059,61,0,Bay State,Bay State,,,0
+2026-04-15,102654,FINAL,Brookline,4059,75,1,Walpole,4404,61,0,Bay State,Bay State,,,0
+2026-04-16,102726,FINAL,Keefe Tech,4191,81,1,Parker Charter,4483,55,0,Independent,Independent,,,0
+2026-04-16,102728,FINAL,Somerset Berkley,4350,66,0,Dighton-Rehoboth,4114,70,1,South Coast,South Coast,,,0
+2026-04-16,102746,FINAL,Peabody,4306,79,1,Swampscott,4383,57,0,Northeastern,Northeastern,,,0
+2026-04-16,102893,FINAL,Hingham,4171,75,1,Silver Lake,4349,61,0,Patriot,Patriot,,,0
+2026-04-16,102912,FINAL,Nauset,4271,88.5,1,Sandwich,4340,46.5,0,Cape & Islands,Cape & Islands,,,0
