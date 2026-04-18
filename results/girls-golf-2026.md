@@ -1,6 +1,6 @@
 # Girls Golf - 2026 Season
 
-Generated: 2026-04-17 11:50
+Generated: 2026-04-18 11:32
 
 ## Upcoming Games
 
@@ -45,8 +45,8 @@ Generated: 2026-04-17 11:50
 | 16 | Ursuline | 1481.7 |
 | 17 | Cohasset | 1477.7 |
 | 18 | Archbishop Williams | 1477.1 |
-| 19 | Framingham | 1475.0 |
-| 20 | Falmouth | 1475.0 |
+| 19 | Falmouth | 1475.0 |
+| 20 | Framingham | 1475.0 |
 | 21 | Dennis-Yarmouth | 1469.2 |
 | 22 | Notre Dame (Worcester) | 1469.2 |
 | 23 | North Quincy/Quincy | 1466.6 |

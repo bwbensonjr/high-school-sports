@@ -1,6 +1,6 @@
 # Girls Track - 2026 Season
 
-Generated: 2026-04-17 11:50
+Generated: 2026-04-18 11:32
 
 ## Upcoming Games
 
@@ -16,7 +16,7 @@ Generated: 2026-04-17 11:50
 | 2026-04-16 | Peabody | 79 | Swampscott | 57 | +2.0 | +22.0 |
 | 2026-04-16 | Somerset Berkley | 66 | Dighton-Rehoboth | 70 | +2.0 | -4.0 |
 | 2026-04-16 | Keefe Tech | 81 | Parker Charter | 55 | +5.1 | +26.0 |
-| 2026-04-15 | Framingham | 72 | Milton | 63 | -0.6 | +9.0 |
+| 2026-04-15 | Wellesley | 85 | Framingham | 51 | +5.9 | +34.0 |
 | 2026-04-15 | Brookline | 75 | Walpole | 61 | +3.6 | +14.0 |
 | 2026-04-15 | Needham | 75 | Brookline | 61 | +6.0 | +14.0 |
 | 2026-04-15 | Needham | 69 | Walpole | 67 | +7.9 | +2.0 |
@@ -24,22 +24,21 @@ Generated: 2026-04-17 11:50
 | 2026-04-15 | Newton North | 74 | Natick | 62 | +3.0 | +12.0 |
 | 2026-04-15 | Newton North | 84 | Braintree | 52 | +9.1 | +32.0 |
 | 2026-04-15 | Wellesley | 80 | Milton | 55 | +7.4 | +25.0 |
-| 2026-04-15 | Wellesley | 85 | Framingham | 51 | +5.9 | +34.0 |
+| 2026-04-15 | Framingham | 72 | Milton | 63 | -0.6 | +9.0 |
 | 2026-04-15 | Weymouth | 70 | Milton | 65 | -0.2 | +5.0 |
 | 2026-04-15 | Weymouth | 68 | Framingham | 67 | +2.8 | +1.0 |
 | 2026-04-15 | Hopkinton | 99 | Norwood | 37 | +6.3 | +62.0 |
 | 2026-04-15 | Central Catholic | 74 | North Andover | 71 | +4.1 | +3.0 |
 | 2026-04-15 | Ipswich | 74 | Lynnfield | 70 | +4.0 | +4.0 |
 | 2026-04-15 | Nashoba | 120 | Marlborough | 24 | +4.3 | +96.0 |
-| 2026-04-14 | Marshfield | 97 | Whitman-Hanson | 39 | +3.5 | +58.0 |
+| 2026-04-14 | Norwell | 101 | Middleborough | 34 | +2.0 | +67.0 |
 | 2026-04-14 | Norton | 60 | Dover-Sherborn | 74 | +3.9 | -14.0 |
 | 2026-04-14 | Milford | 44 | Sharon | 92 | +2.0 | -48.0 |
 | 2026-04-14 | Hudson | 37 | Advanced Math and Science | 106 | +2.0 | -69.0 |
 | 2026-04-14 | Wayland | 55 | Weston | 89 | +1.0 | -34.0 |
 | 2026-04-14 | Waltham | 71 | Weston | 74 | +2.0 | -3.0 |
 | 2026-04-14 | Tri-County | 73 | Blue Hills | 63 | +2.0 | +10.0 |
-| 2026-04-14 | Norwell | 101 | Middleborough | 34 | +2.0 | +67.0 |
-| 2026-04-10 | Ashland | 57 | Westwood | 79 | -0.7 | -22.0 |
+| 2026-04-14 | Marshfield | 97 | Whitman-Hanson | 39 | +3.5 | +58.0 |
 
 ## Current Elo Ratings
 

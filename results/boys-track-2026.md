@@ -1,6 +1,6 @@
 # Boys Track - 2026 Season
 
-Generated: 2026-04-17 11:50
+Generated: 2026-04-18 11:32
 
 ## Upcoming Games
 
@@ -33,14 +33,13 @@ Generated: 2026-04-17 11:50
 | 2026-04-15 | Brookline | 90 | Needham | 46 | +5.6 | +44.0 |
 | 2026-04-15 | Brookline | 68 | Walpole | 68 | +5.6 | 0.0 |
 | 2026-04-15 | North Reading | 91 | Essex Tech | 53 | +1.4 | +38.0 |
-| 2026-04-14 | Stoughton | 79 | Canton | 57 | -0.4 | +22.0 |
+| 2026-04-14 | Norwell | 87 | Middleborough | 49 | +2.0 | +38.0 |
 | 2026-04-14 | Norton | 47 | Dover-Sherborn | 89 | +4.0 | -42.0 |
 | 2026-04-14 | Milford | 51 | Sharon | 85 | +2.0 | -34.0 |
 | 2026-04-14 | Hudson | 105 | Advanced Math and Science | 36 | +2.0 | +69.0 |
 | 2026-04-14 | Wayland | 56 | Weston | 88 | -0.4 | -31.7 |
 | 2026-04-14 | Waltham | 55 | Weston | 89 | +2.0 | -33.7 |
-| 2026-04-14 | Norwell | 87 | Middleborough | 49 | +2.0 | +38.0 |
-| 2026-04-10 | Ashland | 60 | Westwood | 74 | +2.0 | -14.0 |
+| 2026-04-14 | Stoughton | 79 | Canton | 57 | -0.4 | +22.0 |
 
 ## Current Elo Ratings
 
