@@ -13,13 +13,13 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-07,98562,FINAL,Norton,4295,87.0,1,Millis,4251,39.0,0,Tri-Valley,Tri-Valley,,,0
 2026-04-07,98570,FINAL,Foxborough,4142,52.0,0,Canton,4071,84.0,1,Hockomock,Hockomock,,,0
 2026-04-07,98652,FINAL,Silver Lake,4349,75.0,1,Whitman-Hanson,4427,61.0,0,Patriot,Patriot,,,0
-2026-04-08,99199,FINAL,Essex Tech,4745,72,1,Ipswich,4190,70,0,Cape Ann,Cape Ann,,,0
-2026-04-08,99367,FINAL,North Middlesex,4286,56,0,Nashoba,4267,87,1,Mid-Wach,Mid-Wach,,,0
-2026-04-08,99372,FINAL,Hingham,4171,73,1,Plymouth North,4315,63,0,Patriot,Patriot,,,0
-2026-04-08,99375,FINAL,Central Catholic,4081,106,1,Billerica,4040,39,0,Merrimack Valley,Merrimack Valley,,,0
-2026-04-08,99378,FINAL,Burlington,4065,104,1,Wilmington,4432,32,0,Middlesex,Middlesex,,,0
+2026-04-08,99199,FINAL,Essex Tech,4745,72.0,1,Ipswich,4190,70.0,0,Cape Ann,Cape Ann,,,0
+2026-04-08,99367,FINAL,North Middlesex,4286,56.0,0,Nashoba,4267,87.0,1,Mid-Wach,Mid-Wach,,,0
+2026-04-08,99372,FINAL,Hingham,4171,73.0,1,Plymouth North,4315,63.0,0,Patriot,Patriot,,,0
+2026-04-08,99375,FINAL,Central Catholic,4081,106.0,1,Billerica,4040,39.0,0,Merrimack Valley,Merrimack Valley,,,0
+2026-04-08,99378,FINAL,Burlington,4065,104.0,1,Wilmington,4432,32.0,0,Middlesex,Middlesex,,,0
 2026-04-08,99380,FINAL,Brookline,4059,83.67,1,Framingham,4143,52.33,0,Bay State,Bay State,,,0
-2026-04-08,99381,FINAL,Brookline,4059,97,1,Natick,4270,39,0,Bay State,Bay State,,,0
+2026-04-08,99381,FINAL,Brookline,4059,97.0,1,Natick,4270,39.0,0,Bay State,Bay State,,,0
 2026-04-08,99382,FINAL,Framingham,4143,67.33,0,Natick,4270,67.67,1,Bay State,Bay State,,,0
 2026-04-10,99944,FINAL,Ashland,4015,60,0,Westwood,4424,74,1,Tri-Valley,Tri-Valley,,,0
 2026-04-14,101676,FINAL,Stoughton,4381,79,1,Canton,4071,57,0,Hockomock,Hockomock,,,0

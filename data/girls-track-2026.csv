@@ -16,19 +16,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-07,99110,FINAL,Whitman-Hanson,4427,64.0,0,Silver Lake,4349,72.0,1,Patriot,Patriot,,,0
 2026-04-07,99113,FINAL,Hopkinton,4180,91.0,1,Holliston,4174,45.0,0,Tri-Valley,Tri-Valley,,,0
 2026-04-08,99201,FINAL,Ipswich,4190,97.66,1,Essex Tech,4745,46.33,0,Cape Ann,Cape Ann,,,0
-2026-04-08,99219,FINAL,Nashoba,4267,115,1,North Middlesex,4286,30,0,Mid-Wach,Mid-Wach,,,0
+2026-04-08,99219,FINAL,Nashoba,4267,115.0,1,North Middlesex,4286,30.0,0,Mid-Wach,Mid-Wach,,,0
 2026-04-08,99384,FINAL,Brookline,4059,81.5,1,Framingham,4143,54.5,0,Bay State,Bay State,,,0
-2026-04-08,99387,FINAL,Brookline,4059,41,0,Natick,4270,95,1,Bay State,Bay State,,,0
-2026-04-08,99390,FINAL,Framingham,4143,39,0,Natick,4270,96,1,Bay State,Bay State,,,0
-2026-04-08,101510,FINAL,Weymouth,4425,69,1,Walpole,4404,62,0,Bay State,Bay State,,,0
+2026-04-08,99387,FINAL,Brookline,4059,41.0,0,Natick,4270,95.0,1,Bay State,Bay State,,,0
+2026-04-08,99390,FINAL,Framingham,4143,39.0,0,Natick,4270,96.0,1,Bay State,Bay State,,,0
+2026-04-08,101510,FINAL,Weymouth,4425,69.0,1,Walpole,4404,62.0,0,Bay State,Bay State,,,0
 2026-04-08,101511,FINAL,Weymouth,4425,58.5,0,Wellesley,4413,72.5,1,Bay State,Bay State,,,0
-2026-04-08,101512,FINAL,Newton North,4279,94,1,Weymouth,4425,36,0,Bay State,Bay State,,,0
-2026-04-08,101513,FINAL,Wellesley,4413,84,1,Walpole,4404,47,0,Bay State,Bay State,,,0
-2026-04-08,101514,FINAL,Newton North,4279,84,1,Wellesley,4413,47,0,Bay State,Bay State,,,0
-2026-04-08,101519,FINAL,Milton,4252,70,1,Braintree,4051,60,0,Bay State,Bay State,,,0
-2026-04-08,101520,FINAL,Needham,4272,70,1,Braintree,4051,65,0,Bay State,Bay State,,,0
-2026-04-08,101523,FINAL,Needham,4272,76,1,Milton,4252,59,0,Bay State,Bay State,,,0
-2026-04-08,102635,FINAL,Newton North,4279,92,1,Walpole,4404,49,0,Bay State,Bay State,,,0
+2026-04-08,101512,FINAL,Newton North,4279,94.0,1,Weymouth,4425,36.0,0,Bay State,Bay State,,,0
+2026-04-08,101513,FINAL,Wellesley,4413,84.0,1,Walpole,4404,47.0,0,Bay State,Bay State,,,0
+2026-04-08,101514,FINAL,Newton North,4279,84.0,1,Wellesley,4413,47.0,0,Bay State,Bay State,,,0
+2026-04-08,101519,FINAL,Milton,4252,70.0,1,Braintree,4051,60.0,0,Bay State,Bay State,,,0
+2026-04-08,101520,FINAL,Needham,4272,70.0,1,Braintree,4051,65.0,0,Bay State,Bay State,,,0
+2026-04-08,101523,FINAL,Needham,4272,76.0,1,Milton,4252,59.0,0,Bay State,Bay State,,,0
+2026-04-08,102635,FINAL,Newton North,4279,92.0,1,Walpole,4404,49.0,0,Bay State,Bay State,,,0
 2026-04-10,99947,FINAL,Ashland,4015,57,0,Westwood,4424,79,1,Tri-Valley,Tri-Valley,,,0
 2026-04-14,101697,FINAL,Marshfield,4234,97,1,Whitman-Hanson,4427,39,0,Patriot,Patriot,,,0
 2026-04-14,101702,FINAL,Norwell,4296,101,1,Middleborough,4247,34,0,South Shore,South Shore,,,0
@@ -58,3 +58,4 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-16,102746,FINAL,Peabody,4306,79,1,Swampscott,4383,57,0,Northeastern,Northeastern,,,0
 2026-04-16,102893,FINAL,Hingham,4171,75,1,Silver Lake,4349,61,0,Patriot,Patriot,,,0
 2026-04-16,102912,FINAL,Nauset,4271,88.5,1,Sandwich,4340,46.5,0,Cape & Islands,Cape & Islands,,,0
+2026-04-18,103564,FINAL,Greater New Bedford,4156,87,1,Apponequet,4011,43,0,South Coast,South Coast,,,0

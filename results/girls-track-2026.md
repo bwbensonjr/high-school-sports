@@ -1,6 +1,6 @@
 # Girls Track - 2026 Season
 
-Generated: 2026-04-18 11:32
+Generated: 2026-04-19 11:33
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-04-18 11:32
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-04-18 | Greater New Bedford | 87 | Apponequet | 43 | +1.5 | +44.0 |
 | 2026-04-16 | Nauset | 88 | Sandwich | 46 | +2.0 | +42.0 |
 | 2026-04-16 | Hingham | 75 | Silver Lake | 61 | +0.5 | +14.0 |
 | 2026-04-16 | Peabody | 79 | Swampscott | 57 | +2.0 | +22.0 |
@@ -51,25 +52,25 @@ Generated: 2026-04-18 11:32
 | 5 | Keefe Tech | 1608.9 |
 | 6 | Nashoba | 1605.3 |
 | 7 | Masconomet | 1602.9 |
-| 8 | Needham | 1591.2 |
-| 9 | Wellesley | 1589.6 |
-| 10 | Weston | 1581.1 |
-| 11 | Advanced Math and Science | 1572.8 |
-| 12 | Ipswich | 1568.2 |
-| 13 | Central Catholic | 1567.5 |
-| 14 | Sharon | 1566.7 |
-| 15 | Apponequet | 1556.5 |
+| 8 | Greater New Bedford | 1594.6 |
+| 9 | Needham | 1591.2 |
+| 10 | Wellesley | 1589.6 |
+| 11 | Weston | 1581.1 |
+| 12 | Advanced Math and Science | 1572.8 |
+| 13 | Ipswich | 1568.2 |
+| 14 | Central Catholic | 1567.5 |
+| 15 | Sharon | 1566.7 |
 | 16 | Norwell | 1554.2 |
 | 17 | Dover-Sherborn | 1551.7 |
 | 18 | Nauset | 1548.4 |
 | 19 | Marshfield | 1546.0 |
 | 20 | Westwood | 1544.7 |
-| 21 | Greater New Bedford | 1543.6 |
-| 22 | Peabody | 1540.3 |
-| 23 | Hingham | 1539.2 |
-| 24 | Archbishop Williams | 1535.7 |
-| 25 | Tri-County | 1530.8 |
-| 26 | Dighton-Rehoboth | 1527.6 |
+| 21 | Peabody | 1540.3 |
+| 22 | Hingham | 1539.2 |
+| 23 | Archbishop Williams | 1535.7 |
+| 24 | Tri-County | 1530.8 |
+| 25 | Dighton-Rehoboth | 1527.6 |
+| 26 | Apponequet | 1505.5 |
 | 27 | Silver Lake | 1498.5 |
 | 28 | Norton | 1495.1 |
 | 29 | North Andover | 1485.2 |
