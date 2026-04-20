@@ -1,6 +1,6 @@
 # Girls Lacrosse - 2026 Season
 
-Generated: 2026-04-19 11:33
+Generated: 2026-04-20 12:02
 
 ## Upcoming Games
 
@@ -38,32 +38,32 @@ Generated: 2026-04-19 11:33
 | 2026-04-23 | 4:30 P.M. | Medford | Revere | 79.7% | +9.5 |
 | 2026-04-23 | 2:00 P.M. | Scituate | Falmouth | 49.9% | -0.0 |
 | 2026-04-23 | 12:00 P.M. | Sandwich | Hanover | 71.6% | +6.4 |
-| 2026-04-24 | 11:00 A.M. | Joseph Case | Old Rochester | 38.7% | -3.2 |
-| 2026-04-24 | 12:00 P.M. | Bridgewater-Raynham | Pembroke | 82.8% | +10.9 |
+| 2026-04-24 | 11:00 A.M. | Greater New Bedford | Upper Cape | 37.6% | -3.5 |
 | 2026-04-24 | 11:00 A.M. | Marshfield | Nauset | 53.1% | +0.9 |
 | 2026-04-24 | 11:00 A.M. | Hingham | Lincoln-Sudbury | 76.5% | +8.2 |
 | 2026-04-24 | 11:00 A.M. | Walpole | Duxbury | 56.9% | +1.9 |
-| 2026-04-24 | 11:00 A.M. | Greater New Bedford | Upper Cape | 37.6% | -3.5 |
+| 2026-04-24 | 11:00 A.M. | Joseph Case | Old Rochester | 38.7% | -3.2 |
 | 2026-04-24 | 4:00 P.M. | Dighton-Rehoboth | Apponequet | 50.6% | +0.2 |
-| 2026-04-24 | 4:00 P.M. | Fairhaven | Somerset Berkley | 70.2% | +6.0 |
+| 2026-04-24 | 12:00 P.M. | Bridgewater-Raynham | Pembroke | 82.8% | +10.9 |
 | 2026-04-24 | 11:00 A.M. | East Bridgewater | Hull | 26.3% | -7.1 |
 | 2026-04-24 | 11:30 A.M. | King Philip | Medfield | 73.6% | +7.1 |
 | 2026-04-24 | 3:30 P.M. | Medway | Holliston | 64.1% | +4.0 |
 | 2026-04-24 | 4:30 P.M. | Mansfield | Hopkinton | 41.4% | -2.4 |
 | 2026-04-24 | 10:00 A.M. | Bedford | Burlington | 53.8% | +1.1 |
+| 2026-04-24 | 4:00 P.M. | Fairhaven | Somerset Berkley | 70.2% | +6.0 |
 | 2026-04-25 | 11:00 A.M. | East Bridgewater | Nauset | 30.5% | -5.7 |
 | 2026-04-25 | 11:00 A.M. | Concord-Carlisle | Westwood | 64.7% | +4.2 |
 | 2026-04-25 | 11:00 A.M. | Notre Dame (Hingham) | Belmont | 69.4% | +5.7 |
 | 2026-04-25 | 11:00 A.M. | Melrose | Billerica | 55.1% | +1.4 |
-| 2026-04-27 | 4:00 P.M. | St. John Paul II | East Bridgewater | 74.8% | +7.6 |
-| 2026-04-27 | 4:00 P.M. | Weymouth | Quincy | 67.1% | +4.9 |
+| 2026-04-27 | 4:00 P.M. | Plymouth South | Abington | 67.2% | +5.0 |
 | 2026-04-27 | 4:00 P.M. | Somerset Berkley | Southeastern | 59.7% | +2.7 |
-| 2026-04-27 | 4:00 P.M. | New Bedford | Greater New Bedford | 61.4% | +3.2 |
+| 2026-04-27 | 4:00 P.M. | Weymouth | Quincy | 67.1% | +4.9 |
 | 2026-04-27 | 4:00 P.M. | Apponequet | Dartmouth | 67.5% | +5.1 |
 | 2026-04-27 | 4:00 P.M. | Silver Lake | Fairhaven | 45.2% | -1.3 |
 | 2026-04-27 | 4:00 P.M. | Medford | Arlington Catholic | 66.6% | +4.8 |
+| 2026-04-27 | 4:00 P.M. | St. John Paul II | East Bridgewater | 74.8% | +7.6 |
 | 2026-04-27 | 4:00 P.M. | Rockland | Pembroke | 75.1% | +7.7 |
-| 2026-04-27 | 4:00 P.M. | Plymouth South | Abington | 67.2% | +5.0 |
+| 2026-04-27 | 4:00 P.M. | New Bedford | Greater New Bedford | 61.4% | +3.2 |
 | 2026-04-27 | 4:00 P.M. | Marshfield | Norwell | 30.9% | -5.6 |
 | 2026-04-27 | 6:00 P.M. | Medfield | Medway | 63.7% | +3.9 |
 | 2026-04-27 | 4:30 P.M. | Bellingham | Dover-Sherborn | 20.0% | -9.6 |
@@ -72,18 +72,29 @@ Generated: 2026-04-19 11:33
 | 2026-04-27 | 4:00 P.M. | Greater Lowell | Nashoba Valley Tech | 51.0% | +0.3 |
 | 2026-04-27 | 4:15 P.M. | North Reading | Shawsheen | 46.1% | -1.1 |
 | 2026-04-27 | 4:00 P.M. | Cohasset | Scituate | 64.3% | +4.1 |
-| 2026-04-28 | 3:45 P.M. | Mashpee | Bourne | 83.1% | +11.0 |
+| 2026-04-28 | 4:00 P.M. | North Quincy | Plymouth North | 53.0% | +0.8 |
 | 2026-04-28 | 4:00 P.M. | Pembroke | Hanover | 40.1% | -2.8 |
 | 2026-04-28 | 4:00 P.M. | Marshfield | Whitman-Hanson | 57.1% | +2.0 |
 | 2026-04-28 | 5:45 P.M. | Scituate | Plymouth South | 70.6% | +6.1 |
-| 2026-04-28 | 4:30 P.M. | Bellingham | Norton | 61.6% | +3.3 |
-| 2026-04-28 | 6:00 P.M. | Sharon | Joseph Case | 66.9% | +4.9 |
 | 2026-04-28 | 4:00 P.M. | Quincy | Silver Lake | 33.2% | -4.9 |
+| 2026-04-28 | 6:00 P.M. | Sharon | Joseph Case | 66.9% | +4.9 |
+| 2026-04-28 | 3:45 P.M. | Mashpee | Bourne | 83.1% | +11.0 |
+| 2026-04-28 | 4:30 P.M. | Bellingham | Norton | 61.6% | +3.3 |
 | 2026-04-28 | 6:00 P.M. | Duxbury | Hingham | 58.5% | +2.4 |
-| 2026-04-28 | 4:00 P.M. | North Quincy | Plymouth North | 53.0% | +0.8 |
-| 2026-04-29 | 5:15 P.M. | Norwell | Foxborough | 66.3% | +4.7 |
 | 2026-04-29 | 4:00 P.M. | Mashpee | Middleborough | 84.4% | +11.7 |
+| 2026-04-29 | 5:15 P.M. | Norwell | Foxborough | 66.3% | +4.7 |
 | 2026-04-29 | 4:00 P.M. | Dartmouth | Old Rochester | 66.0% | +4.6 |
+| 2026-04-30 | 4:00 P.M. | Plymouth South | Hanover | 52.3% | +0.7 |
+| 2026-04-30 | 4:00 P.M. | Hingham | Marshfield | 78.3% | +8.9 |
+| 2026-04-30 | 4:00 P.M. | Plymouth North | Scituate | 48.2% | -0.5 |
+| 2026-04-30 | 3:30 P.M. | Upper Cape | Bourne | 75.9% | +8.0 |
+| 2026-04-30 | 4:30 P.M. | Norwood | Medway | 52.4% | +0.7 |
+| 2026-04-30 | 3:45 P.M. | Somerset Berkley | New Bedford | 65.5% | +4.4 |
+| 2026-04-30 | 6:30 P.M. | Greater New Bedford | Joseph Case | 58.7% | +2.5 |
+| 2026-04-30 | 5:00 P.M. | Shawsheen | Nashoba Valley Tech | 61.1% | +3.1 |
+| 2026-04-30 | 4:00 P.M. | Whitman-Hanson | Quincy | 80.1% | +9.7 |
+| 2026-04-30 | 4:00 P.M. | Middleborough | Seekonk | 25.4% | -7.5 |
+| 2026-04-30 | 4:00 P.M. | Silver Lake | North Quincy | 55.9% | +1.6 |
 
 ## Recent Games
 
@@ -442,9 +453,9 @@ Generated: 2026-04-19 11:33
 | 119 | Granby | 1502.4 |
 | 120 | Waltham | 1502.2 |
 | 121 | Governor’s Academy | 1500.4 |
-| 122 | Cape Cod Academy | 1500.0 |
-| 123 | Winnacunnet (N.H.) | 1500.0 |
-| 124 | Bishop England (S.C.) | 1500.0 |
+| 122 | Winnacunnet (N.H.) | 1500.0 |
+| 123 | Bishop England (S.C.) | 1500.0 |
+| 124 | Cape Cod Academy | 1500.0 |
 | 125 | Holderness | 1499.3 |
 | 126 | Woburn | 1498.5 |
 | 127 | Lee | 1497.1 |
@@ -469,8 +480,8 @@ Generated: 2026-04-19 11:33
 | 146 | Old Rochester | 1485.0 |
 | 147 | North Quincy | 1482.6 |
 | 148 | Latin Academy | 1482.5 |
-| 149 | Pittsfield | 1482.2 |
-| 150 | Monson | 1482.2 |
+| 149 | Monson | 1482.2 |
+| 150 | Pittsfield | 1482.2 |
 | 151 | Bishop Fenwick | 1481.7 |
 | 152 | Barnstable | 1481.5 |
 | 153 | Chicopee | 1480.4 |

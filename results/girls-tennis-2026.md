@@ -1,6 +1,6 @@
 # Girls Tennis - 2026 Season
 
-Generated: 2026-04-19 11:33
+Generated: 2026-04-20 12:02
 
 ## Upcoming Games
 
@@ -13,10 +13,10 @@ Generated: 2026-04-19 11:33
 | 2026-04-21 | 10:00 P.M. | Bourne | Seekonk | 61.5% | +3.3 |
 | 2026-04-21 | 3:45 P.M. | Old Rochester | Fairhaven | 71.0% | +6.2 |
 | 2026-04-21 | 3:30 P.M. | Somerset Berkley | Apponequet | 67.5% | +5.1 |
-| 2026-04-22 | 10:00 A.M. | Revere | Winthrop | 62.4% | +3.5 |
 | 2026-04-22 | 10:00 A.M. | Malden | Lynn Classical | 65.5% | +4.5 |
-| 2026-04-22 | 10:00 A.M. | Everett | Lynn English | 47.7% | -0.6 |
+| 2026-04-22 | 10:00 A.M. | Revere | Winthrop | 62.4% | +3.5 |
 | 2026-04-22 | 5:00 P.M. | Medford | Somerville | 60.9% | +3.1 |
+| 2026-04-22 | 10:00 A.M. | Everett | Lynn English | 47.7% | -0.6 |
 | 2026-04-23 | 10:00 P.M. | Seekonk | Joseph Case | 71.9% | +6.5 |
 | 2026-04-23 | 3:30 P.M. | Dighton-Rehoboth | Old Rochester | 48.8% | -0.3 |
 | 2026-04-24 | 10:00 A.M. | Malden | Somerville | 59.8% | +2.8 |
@@ -24,6 +24,9 @@ Generated: 2026-04-19 11:33
 | 2026-04-24 | 10:00 A.M. | Revere | Medford | 51.8% | +0.5 |
 | 2026-04-25 | 10:00 A.M. | Swampscott | St. Mary’s | 78.7% | +9.1 |
 | 2026-04-29 | 4:00 P.M. | Rockport | Triton | 60.4% | +2.9 |
+| 2026-04-30 | 4:00 P.M. | Winthrop | Swampscott | 39.7% | -2.9 |
+| 2026-04-30 | 4:00 P.M. | Everett | Somerville | 45.3% | -1.3 |
+| 2026-04-30 | 4:00 P.M. | Marshfield | Norwell | 39.8% | -2.9 |
 
 ## Recent Games
 
@@ -266,8 +269,8 @@ Generated: 2026-04-19 11:33
 | 54 | Taunton | 1534.7 |
 | 55 | Dedham | 1533.4 |
 | 56 | Somerset Berkley | 1531.0 |
-| 57 | East Longmeadow | 1530.7 |
-| 58 | Berwick | 1530.7 |
+| 57 | Berwick | 1530.7 |
+| 58 | East Longmeadow | 1530.7 |
 | 59 | Latin Academy/East Boston/O’Bryant | 1530.6 |
 | 60 | Uxbridge | 1528.4 |
 | 61 | Phillips Andover | 1528.0 |
@@ -292,8 +295,8 @@ Generated: 2026-04-19 11:33
 | 80 | Algonquin | 1512.7 |
 | 81 | Chelmsford | 1512.5 |
 | 82 | Hopedale | 1512.2 |
-| 83 | Diman | 1511.9 |
-| 84 | Pingree | 1511.9 |
+| 83 | Pingree | 1511.9 |
+| 84 | Diman | 1511.9 |
 | 85 | Worcester Academy | 1510.0 |
 | 86 | Billerica | 1509.9 |
 | 87 | Millis | 1509.9 |

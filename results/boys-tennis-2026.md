@@ -1,6 +1,6 @@
 # Boys Tennis - 2026 Season
 
-Generated: 2026-04-19 11:33
+Generated: 2026-04-20 12:02
 
 ## Upcoming Games
 
@@ -13,14 +13,14 @@ Generated: 2026-04-19 11:33
 | 2026-04-21 | 10:00 P.M. | Seekonk | Bourne | 48.9% | -0.3 |
 | 2026-04-21 | 3:30 P.M. | Fairhaven | Old Rochester | 63.5% | +3.8 |
 | 2026-04-21 | 11:00 A.M. | Apponequet | Somerset Berkley | 24.4% | -7.8 |
-| 2026-04-22 | 10:00 A.M. | Lynn Classical | Malden | 46.4% | -1.0 |
-| 2026-04-22 | 4:00 P.M. | Everett | Medford | 49.5% | -0.1 |
-| 2026-04-22 | 11:00 A.M. | Winthrop | Revere | 70.2% | +6.0 |
 | 2026-04-22 | 5:00 P.M. | Somerville | Medford | 67.4% | +5.1 |
 | 2026-04-22 | 10:00 A.M. | Everett | Lynn English | 40.1% | -2.8 |
+| 2026-04-22 | 4:00 P.M. | Everett | Medford | 49.5% | -0.1 |
+| 2026-04-22 | 10:00 A.M. | Lynn Classical | Malden | 46.4% | -1.0 |
+| 2026-04-22 | 11:00 A.M. | Winthrop | Revere | 70.2% | +6.0 |
+| 2026-04-23 | 3:45 P.M. | Old Rochester | Dighton-Rehoboth | 62.7% | +3.6 |
 | 2026-04-23 | 11:00 P.M. | Apponequet | Bourne | 43.4% | -1.8 |
 | 2026-04-23 | 10:00 A.M. | Joseph Case | Seekonk | 67.9% | +5.2 |
-| 2026-04-23 | 3:45 P.M. | Old Rochester | Dighton-Rehoboth | 62.7% | +3.6 |
 | 2026-04-24 | 10:00 P.M. | Medford | Revere | 64.4% | +4.1 |
 | 2026-04-24 | 10:00 A.M. | Lynn English | Lynn Classical | 63.7% | +3.9 |
 | 2026-04-27 | 3:30 P.M. | Diman | Fairhaven | 43.2% | -1.9 |
@@ -30,6 +30,8 @@ Generated: 2026-04-19 11:33
 | 2026-04-28 | 4:00 P.M. | Beverly | North Andover | 51.8% | +0.5 |
 | 2026-04-29 | 4:00 P.M. | Bridgewater-Raynham | Bishop Feehan | 58.5% | +2.4 |
 | 2026-04-29 | 3:30 P.M. | Bishop Fenwick | Bishop Stang | 50.9% | +0.2 |
+| 2026-04-30 | 4:00 P.M. | Masconomet | Manchester Essex | 55.1% | +1.4 |
+| 2026-04-30 | 4:00 P.M. | Xaverian | King Philip | 66.3% | +4.7 |
 
 ## Recent Games
 
@@ -282,8 +284,8 @@ Generated: 2026-04-19 11:33
 | 70 | Dover-Sherborn | 1526.2 |
 | 71 | Randolph | 1525.8 |
 | 72 | Newburyport | 1524.2 |
-| 73 | Lenox | 1523.0 |
-| 74 | Amherst-Pelham | 1523.0 |
+| 73 | Amherst-Pelham | 1523.0 |
+| 74 | Lenox | 1523.0 |
 | 75 | Hopkinton | 1522.4 |
 | 76 | Bedford | 1521.2 |
 | 77 | Berwick | 1520.0 |
@@ -303,11 +305,11 @@ Generated: 2026-04-19 11:33
 | 91 | Lynnfield | 1502.9 |
 | 92 | Sturgis West | 1502.4 |
 | 93 | Cohasset | 1500.2 |
-| 94 | Nashoba Valley Tech | 1500.0 |
-| 95 | Wachusett | 1500.0 |
+| 94 | Greater Lowell | 1500.0 |
+| 95 | Greater Lawrence | 1500.0 |
 | 96 | Fellowship Christian | 1500.0 |
-| 97 | Greater Lawrence | 1500.0 |
-| 98 | Greater Lowell | 1500.0 |
+| 97 | Wachusett | 1500.0 |
+| 98 | Nashoba Valley Tech | 1500.0 |
 | 99 | Bishop Stang | 1499.1 |
 | 100 | Winthrop | 1498.5 |
 | 101 | Amesbury | 1496.2 |
@@ -336,10 +338,10 @@ Generated: 2026-04-19 11:33
 | 124 | Doherty | 1478.2 |
 | 125 | Carver | 1478.1 |
 | 126 | Nashoba | 1477.6 |
-| 127 | West Boylston | 1477.0 |
-| 128 | Suffield Academy | 1477.0 |
-| 129 | Monument Mtn. | 1477.0 |
-| 130 | Belchertown | 1477.0 |
+| 127 | Suffield Academy | 1477.0 |
+| 128 | Monument Mtn. | 1477.0 |
+| 129 | Belchertown | 1477.0 |
+| 130 | West Boylston | 1477.0 |
 | 131 | Diman | 1476.2 |
 | 132 | Wilmington | 1474.6 |
 | 133 | St. John Paul II | 1474.6 |

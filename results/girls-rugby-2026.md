@@ -1,11 +1,12 @@
 # Girls Rugby - 2026 Season
 
-Generated: 2026-04-19 11:33
+Generated: 2026-04-20 12:02
 
 ## Upcoming Games
 
-*No upcoming games scheduled*
-
+| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
+|------|------|-----------|-----------|------------|------------------|
+| 2026-04-30 | 6:00 P.M. | Belmont | Algonquin | 78.7% | +9.1 |
 
 ## Recent Games
 
