@@ -29,7 +29,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-08,101520,FINAL,Needham,4272,70.0,1,Braintree,4051,65.0,0,Bay State,Bay State,,,0
 2026-04-08,101523,FINAL,Needham,4272,76.0,1,Milton,4252,59.0,0,Bay State,Bay State,,,0
 2026-04-08,102635,FINAL,Newton North,4279,92.0,1,Walpole,4404,49.0,0,Bay State,Bay State,,,0
-2026-04-10,99947,FINAL,Ashland,4015,57,0,Westwood,4424,79,1,Tri-Valley,Tri-Valley,,,0
+2026-04-10,99947,FINAL,Ashland,4015,57.0,0,Westwood,4424,79.0,1,Tri-Valley,Tri-Valley,,,0
 2026-04-14,101697,FINAL,Marshfield,4234,97,1,Whitman-Hanson,4427,39,0,Patriot,Patriot,,,0
 2026-04-14,101702,FINAL,Norwell,4296,101,1,Middleborough,4247,34,0,South Shore,South Shore,,,0
 2026-04-14,101762,FINAL,Tri-County,4392,73,1,Blue Hills,4047,63,0,Mayflower,Mayflower,,,0

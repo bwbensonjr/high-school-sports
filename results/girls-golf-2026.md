@@ -1,6 +1,6 @@
 # Girls Golf - 2026 Season
 
-Generated: 2026-04-20 12:02
+Generated: 2026-04-21 11:58
 
 ## Upcoming Games
 
@@ -19,9 +19,6 @@ Generated: 2026-04-20 12:02
 | 2026-04-14 | Archbishop Williams | 1 | Malden Catholic | 4 | +1.4 | -3.0 |
 | 2026-04-14 | Marshfield | 3 | Quincy | 2 | +1.6 | +1.0 |
 | 2026-04-14 | Nauset | 6 | Falmouth | 0 | +2.0 | +6.0 |
-| 2026-04-13 | Bishop Feehan | 30 | Notre Dame (Worcester) | 20 | +2.0 | +10.0 |
-| 2026-04-13 | Nashoba | 22 | Wachusett | 21 | +0.7 | +1.0 |
-| 2026-04-13 | Walpole | 3 | Wellesley | 2 | +2.0 | +1.0 |
 
 ## Current Elo Ratings
 
@@ -31,8 +28,8 @@ Generated: 2026-04-20 12:02
 | 2 | Duxbury | 1593.6 |
 | 3 | Bishop Feehan | 1561.6 |
 | 4 | Malden Catholic | 1537.1 |
-| 5 | Nauset | 1525.0 |
-| 6 | Braintree | 1525.0 |
+| 5 | Braintree | 1525.0 |
+| 6 | Nauset | 1525.0 |
 | 7 | Hingham | 1524.0 |
 | 8 | Nashoba | 1524.0 |
 | 9 | Wellesley | 1509.4 |

@@ -1,12 +1,18 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-04-20 12:02
+Generated: 2026-04-21 11:58
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
 | 2026-04-30 | 4:30 P.M. | Burncoat | Malden Catholic | 37.6% | -3.5 |
+| 2026-05-01 | 7:00 P.M. | Belmont | Hanover | 41.6% | -2.4 |
+| 2026-05-01 | 5:30 P.M. | Milton | St. John’s Prep | 69.1% | +5.6 |
+| 2026-05-01 | 5:30 P.M. | Weymouth | Hingham/Norwell | 30.6% | -5.7 |
+| 2026-05-01 | 5:00 P.M. | Lincoln-Sudbury | Algonquin/Westboro | 35.7% | -4.1 |
+| 2026-05-01 | 4:00 P.M. | Blue Hills | Chelmsford | 58.1% | +2.3 |
+| 2026-05-01 | 6:00 P.M. | Marshfield/SST | Cambridge | 56.8% | +1.9 |
 
 ## Recent Games
 
