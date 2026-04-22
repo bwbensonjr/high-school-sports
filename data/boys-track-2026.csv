@@ -51,3 +51,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-16,102892,FINAL,Hingham,4171,76,1,Silver Lake,4349,60,0,Patriot,Patriot,,,0
 2026-04-16,102908,FINAL,Burlington,4065,134,1,Watertown,4409,2,0,Middlesex,Middlesex,,,0
 2026-04-16,102914,FINAL,Nauset,4271,104,1,Sandwich,4340,28.5,0,Cape & Islands,Cape & Islands,,,0
+2026-04-21,103954,FINAL,Attleboro,4018,89,1,Bishop Feehan,4042,43,0,Hockomock,Catholic Central,,,0
+2026-04-21,103956,FINAL,North Attleborough,4284,53,0,Bishop Feehan,4042,78,1,Hockomock,Catholic Central,,,0
+2026-04-21,103958,FINAL,North Attleborough,4284,30,0,Attleboro,4018,102,1,Hockomock,Hockomock,,,0

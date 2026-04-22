@@ -1,6 +1,6 @@
 # Girls Golf - 2026 Season
 
-Generated: 2026-04-21 11:58
+Generated: 2026-04-22 11:58
 
 ## Upcoming Games
 
@@ -14,11 +14,6 @@ Generated: 2026-04-21 11:58
 | 2026-04-16 | Dennis-Yarmouth | 0 | Bishop Feehan | 6 | +0.8 | -6.0 |
 | 2026-04-16 | Worcester | 8 | Nashoba | 27 | +0.8 | -19.0 |
 | 2026-04-15 | Braintree | 6 | Framingham | 0 | +2.0 | +6.0 |
-| 2026-04-14 | Wellesley | 4 | Ursuline | 1 | +1.6 | +3.0 |
-| 2026-04-14 | Duxbury | 6 | Silver Lake | 0 | +6.5 | +6.0 |
-| 2026-04-14 | Archbishop Williams | 1 | Malden Catholic | 4 | +1.4 | -3.0 |
-| 2026-04-14 | Marshfield | 3 | Quincy | 2 | +1.6 | +1.0 |
-| 2026-04-14 | Nauset | 6 | Falmouth | 0 | +2.0 | +6.0 |
 
 ## Current Elo Ratings
 
@@ -28,8 +23,8 @@ Generated: 2026-04-21 11:58
 | 2 | Duxbury | 1593.6 |
 | 3 | Bishop Feehan | 1561.6 |
 | 4 | Malden Catholic | 1537.1 |
-| 5 | Braintree | 1525.0 |
-| 6 | Nauset | 1525.0 |
+| 5 | Nauset | 1525.0 |
+| 6 | Braintree | 1525.0 |
 | 7 | Hingham | 1524.0 |
 | 8 | Nashoba | 1524.0 |
 | 9 | Wellesley | 1509.4 |
@@ -42,8 +37,8 @@ Generated: 2026-04-21 11:58
 | 16 | Ursuline | 1481.7 |
 | 17 | Cohasset | 1477.7 |
 | 18 | Archbishop Williams | 1477.1 |
-| 19 | Falmouth | 1475.0 |
-| 20 | Framingham | 1475.0 |
+| 19 | Framingham | 1475.0 |
+| 20 | Falmouth | 1475.0 |
 | 21 | Dennis-Yarmouth | 1469.2 |
 | 22 | Notre Dame (Worcester) | 1469.2 |
 | 23 | North Quincy/Quincy | 1466.6 |
