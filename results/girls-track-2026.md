@@ -1,6 +1,6 @@
 # Girls Track - 2026 Season
 
-Generated: 2026-04-22 11:58
+Generated: 2026-04-23 11:57
 
 ## Upcoming Games
 
@@ -11,30 +11,15 @@ Generated: 2026-04-22 11:58
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-04-21 | North Attleborough | 71 | Attleboro | 61 | -0.1 | +10.0 |
-| 2026-04-21 | North Attleborough | 62 | Bishop Feehan | 66 | +2.9 | -4.0 |
 | 2026-04-21 | Attleboro | 68 | Bishop Feehan | 63 | +2.0 | +5.0 |
+| 2026-04-21 | North Attleborough | 62 | Bishop Feehan | 66 | +2.9 | -4.0 |
+| 2026-04-21 | North Attleborough | 71 | Attleboro | 61 | -0.1 | +10.0 |
 | 2026-04-18 | Greater New Bedford | 87 | Apponequet | 43 | +1.5 | +44.0 |
-| 2026-04-16 | Nauset | 88 | Sandwich | 46 | +2.0 | +42.0 |
-| 2026-04-16 | Hingham | 75 | Silver Lake | 61 | +0.5 | +14.0 |
-| 2026-04-16 | Peabody | 79 | Swampscott | 57 | +2.0 | +22.0 |
-| 2026-04-16 | Somerset Berkley | 66 | Dighton-Rehoboth | 70 | +2.0 | -4.0 |
 | 2026-04-16 | Keefe Tech | 81 | Parker Charter | 55 | +5.1 | +26.0 |
-| 2026-04-15 | Ipswich | 74 | Lynnfield | 70 | +4.0 | +4.0 |
-| 2026-04-15 | Brookline | 75 | Walpole | 61 | +3.6 | +14.0 |
-| 2026-04-15 | Needham | 75 | Brookline | 61 | +6.0 | +14.0 |
-| 2026-04-15 | Nashoba | 120 | Marlborough | 24 | +4.3 | +96.0 |
-| 2026-04-15 | Natick | 77 | Braintree | 59 | +8.7 | +18.0 |
-| 2026-04-15 | Newton North | 74 | Natick | 62 | +3.0 | +12.0 |
-| 2026-04-15 | Newton North | 84 | Braintree | 52 | +9.1 | +32.0 |
-| 2026-04-15 | Wellesley | 80 | Milton | 55 | +7.4 | +25.0 |
-| 2026-04-15 | Wellesley | 85 | Framingham | 51 | +5.9 | +34.0 |
-| 2026-04-15 | Framingham | 72 | Milton | 63 | -0.6 | +9.0 |
-| 2026-04-15 | Weymouth | 70 | Milton | 65 | -0.2 | +5.0 |
-| 2026-04-15 | Weymouth | 68 | Framingham | 67 | +2.8 | +1.0 |
-| 2026-04-15 | Hopkinton | 99 | Norwood | 37 | +6.3 | +62.0 |
-| 2026-04-15 | Central Catholic | 74 | North Andover | 71 | +4.1 | +3.0 |
-| 2026-04-15 | Needham | 69 | Walpole | 67 | +7.9 | +2.0 |
+| 2026-04-16 | Somerset Berkley | 66 | Dighton-Rehoboth | 70 | +2.0 | -4.0 |
+| 2026-04-16 | Peabody | 79 | Swampscott | 57 | +2.0 | +22.0 |
+| 2026-04-16 | Hingham | 75 | Silver Lake | 61 | +0.5 | +14.0 |
+| 2026-04-16 | Nauset | 88 | Sandwich | 46 | +2.0 | +42.0 |
 
 ## Current Elo Ratings
 

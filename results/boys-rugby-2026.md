@@ -1,6 +1,6 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-04-22 11:58
+Generated: 2026-04-23 11:57
 
 ## Upcoming Games
 
@@ -23,9 +23,6 @@ Generated: 2026-04-22 11:58
 | 2026-04-16 | Xaverian | 57 | Weymouth | 7 | +4.0 | +50.0 |
 | 2026-04-16 | Cambridge | 14 | Malden Catholic | 46 | -2.1 | -32.0 |
 | 2026-04-16 | Hingham/Norwell | 50 | Marshfield/SST | 29 | +7.4 | +21.0 |
-| 2026-04-15 | Milton | 23 | Algonquin/Westboro | 21 | +3.9 | +2.0 |
-| 2026-04-15 | Catholic Memorial | 5 | Blue Hills | 59 | -0.7 | -54.0 |
-| 2026-04-15 | Chelmsford | 50 | Burncoat | 7 | +3.0 | +43.0 |
 
 ## Current Elo Ratings
 

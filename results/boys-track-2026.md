@@ -1,6 +1,6 @@
 # Boys Track - 2026 Season
 
-Generated: 2026-04-22 11:58
+Generated: 2026-04-23 11:57
 
 ## Upcoming Games
 
@@ -11,31 +11,17 @@ Generated: 2026-04-22 11:58
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-04-21 | North Attleborough | 30 | Attleboro | 102 | -2.5 | -72.0 |
-| 2026-04-21 | North Attleborough | 53 | Bishop Feehan | 78 | +4.0 | -25.0 |
 | 2026-04-21 | Attleboro | 89 | Bishop Feehan | 43 | +2.0 | +46.0 |
-| 2026-04-16 | Nauset | 104 | Sandwich | 28 | +2.0 | +75.5 |
-| 2026-04-16 | Burlington | 134 | Watertown | 2 | +4.2 | +132.0 |
-| 2026-04-16 | Hingham | 76 | Silver Lake | 60 | +1.8 | +16.0 |
-| 2026-04-16 | Diman | 74 | Blue Hills | 56 | +4.1 | +18.0 |
-| 2026-04-16 | Somerset Berkley | 74 | Dighton-Rehoboth | 62 | +2.0 | +12.0 |
-| 2026-04-16 | Keefe Tech | 78 | Parker Charter | 56 | +5.0 | +22.0 |
-| 2026-04-16 | Apponequet | 35 | Greater New Bedford | 89 | +2.1 | -54.0 |
+| 2026-04-21 | North Attleborough | 53 | Bishop Feehan | 78 | +4.0 | -25.0 |
+| 2026-04-21 | North Attleborough | 30 | Attleboro | 102 | -2.5 | -72.0 |
 | 2026-04-16 | West Bridgewater | 109 | Bourne | 25 | +2.1 | +84.0 |
-| 2026-04-15 | Newton North | 74 | Natick | 62 | +4.1 | +12.0 |
-| 2026-04-15 | North Reading | 91 | Essex Tech | 53 | +1.4 | +38.0 |
-| 2026-04-15 | Brookline | 68 | Walpole | 68 | +5.6 | 0.0 |
-| 2026-04-15 | Braintree | 52 | Newton North | 84 | +2.0 | -32.0 |
-| 2026-04-15 | Milton | 55 | Wellesley | 80 | -2.5 | -25.0 |
-| 2026-04-15 | Framingham | 51 | Wellesley | 85 | +1.0 | -34.0 |
-| 2026-04-15 | Framingham | 72 | Milton | 63 | +0.6 | +9.0 |
-| 2026-04-15 | Weymouth | 70 | Milton | 65 | +2.3 | +5.0 |
-| 2026-04-15 | Weymouth | 68 | Framingham | 67 | +4.0 | +1.0 |
-| 2026-04-15 | North Andover | 95 | Central Catholic | 50 | -1.7 | +45.0 |
-| 2026-04-15 | Ipswich | 72 | Lynnfield | 73 | +1.4 | -1.0 |
-| 2026-04-15 | Walpole | 87 | Needham | 49 | +3.4 | +38.0 |
-| 2026-04-15 | Brookline | 90 | Needham | 46 | +5.6 | +44.0 |
-| 2026-04-15 | Braintree | 59 | Natick | 77 | +1.2 | -18.0 |
+| 2026-04-16 | Apponequet | 35 | Greater New Bedford | 89 | +2.1 | -54.0 |
+| 2026-04-16 | Keefe Tech | 78 | Parker Charter | 56 | +5.0 | +22.0 |
+| 2026-04-16 | Somerset Berkley | 74 | Dighton-Rehoboth | 62 | +2.0 | +12.0 |
+| 2026-04-16 | Diman | 74 | Blue Hills | 56 | +4.1 | +18.0 |
+| 2026-04-16 | Hingham | 76 | Silver Lake | 60 | +1.8 | +16.0 |
+| 2026-04-16 | Burlington | 134 | Watertown | 2 | +4.2 | +132.0 |
+| 2026-04-16 | Nauset | 104 | Sandwich | 28 | +2.0 | +75.5 |
 
 ## Current Elo Ratings
 
