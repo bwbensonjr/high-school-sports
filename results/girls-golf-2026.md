@@ -1,6 +1,6 @@
 # Girls Golf - 2026 Season
 
-Generated: 2026-04-23 11:57
+Generated: 2026-04-24 11:55
 
 ## Upcoming Games
 
@@ -9,10 +9,8 @@ Generated: 2026-04-23 11:57
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-04-16 | Dennis-Yarmouth | 0 | Bishop Feehan | 6 | +0.8 | -6.0 |
-| 2026-04-16 | Worcester | 8 | Nashoba | 27 | +0.8 | -19.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 
@@ -22,8 +20,8 @@ Generated: 2026-04-23 11:57
 | 2 | Duxbury | 1593.6 |
 | 3 | Bishop Feehan | 1561.6 |
 | 4 | Malden Catholic | 1537.1 |
-| 5 | Nauset | 1525.0 |
-| 6 | Braintree | 1525.0 |
+| 5 | Braintree | 1525.0 |
+| 6 | Nauset | 1525.0 |
 | 7 | Hingham | 1524.0 |
 | 8 | Nashoba | 1524.0 |
 | 9 | Wellesley | 1509.4 |

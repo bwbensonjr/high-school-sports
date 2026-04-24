@@ -1,6 +1,6 @@
 # Girls Track - 2026 Season
 
-Generated: 2026-04-23 11:57
+Generated: 2026-04-24 11:55
 
 ## Upcoming Games
 
@@ -15,11 +15,6 @@ Generated: 2026-04-23 11:57
 | 2026-04-21 | North Attleborough | 62 | Bishop Feehan | 66 | +2.9 | -4.0 |
 | 2026-04-21 | North Attleborough | 71 | Attleboro | 61 | -0.1 | +10.0 |
 | 2026-04-18 | Greater New Bedford | 87 | Apponequet | 43 | +1.5 | +44.0 |
-| 2026-04-16 | Keefe Tech | 81 | Parker Charter | 55 | +5.1 | +26.0 |
-| 2026-04-16 | Somerset Berkley | 66 | Dighton-Rehoboth | 70 | +2.0 | -4.0 |
-| 2026-04-16 | Peabody | 79 | Swampscott | 57 | +2.0 | +22.0 |
-| 2026-04-16 | Hingham | 75 | Silver Lake | 61 | +0.5 | +14.0 |
-| 2026-04-16 | Nauset | 88 | Sandwich | 46 | +2.0 | +42.0 |
 
 ## Current Elo Ratings
 

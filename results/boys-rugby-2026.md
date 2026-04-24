@@ -1,6 +1,6 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-04-23 11:57
+Generated: 2026-04-24 11:55
 
 ## Upcoming Games
 
@@ -20,9 +20,6 @@ Generated: 2026-04-23 11:57
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-04-17 | St. John’s Prep | 26 | Belmont | 22 | +4.2 | +4.0 |
 | 2026-04-17 | Hanover | 53 | Lincoln-Sudbury | 5 | +5.2 | +48.0 |
-| 2026-04-16 | Xaverian | 57 | Weymouth | 7 | +4.0 | +50.0 |
-| 2026-04-16 | Cambridge | 14 | Malden Catholic | 46 | -2.1 | -32.0 |
-| 2026-04-16 | Hingham/Norwell | 50 | Marshfield/SST | 29 | +7.4 | +21.0 |
 
 ## Current Elo Ratings
 

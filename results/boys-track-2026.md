@@ -1,6 +1,6 @@
 # Boys Track - 2026 Season
 
-Generated: 2026-04-23 11:57
+Generated: 2026-04-24 11:55
 
 ## Upcoming Games
 
@@ -14,14 +14,6 @@ Generated: 2026-04-23 11:57
 | 2026-04-21 | Attleboro | 89 | Bishop Feehan | 43 | +2.0 | +46.0 |
 | 2026-04-21 | North Attleborough | 53 | Bishop Feehan | 78 | +4.0 | -25.0 |
 | 2026-04-21 | North Attleborough | 30 | Attleboro | 102 | -2.5 | -72.0 |
-| 2026-04-16 | West Bridgewater | 109 | Bourne | 25 | +2.1 | +84.0 |
-| 2026-04-16 | Apponequet | 35 | Greater New Bedford | 89 | +2.1 | -54.0 |
-| 2026-04-16 | Keefe Tech | 78 | Parker Charter | 56 | +5.0 | +22.0 |
-| 2026-04-16 | Somerset Berkley | 74 | Dighton-Rehoboth | 62 | +2.0 | +12.0 |
-| 2026-04-16 | Diman | 74 | Blue Hills | 56 | +4.1 | +18.0 |
-| 2026-04-16 | Hingham | 76 | Silver Lake | 60 | +1.8 | +16.0 |
-| 2026-04-16 | Burlington | 134 | Watertown | 2 | +4.2 | +132.0 |
-| 2026-04-16 | Nauset | 104 | Sandwich | 28 | +2.0 | +75.5 |
 
 ## Current Elo Ratings
 
