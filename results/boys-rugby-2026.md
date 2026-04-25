@@ -1,6 +1,6 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-04-24 11:55
+Generated: 2026-04-25 11:36
 
 ## Upcoming Games
 
@@ -16,10 +16,8 @@ Generated: 2026-04-24 11:55
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-04-17 | St. John’s Prep | 26 | Belmont | 22 | +4.2 | +4.0 |
-| 2026-04-17 | Hanover | 53 | Lincoln-Sudbury | 5 | +5.2 | +48.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 

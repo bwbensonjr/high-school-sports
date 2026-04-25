@@ -30,14 +30,14 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-08,101523,FINAL,Needham,4272,76.0,1,Milton,4252,59.0,0,Bay State,Bay State,,,0
 2026-04-08,102635,FINAL,Newton North,4279,92.0,1,Walpole,4404,49.0,0,Bay State,Bay State,,,0
 2026-04-10,99947,FINAL,Ashland,4015,57.0,0,Westwood,4424,79.0,1,Tri-Valley,Tri-Valley,,,0
-2026-04-14,101697,FINAL,Marshfield,4234,97,1,Whitman-Hanson,4427,39,0,Patriot,Patriot,,,0
-2026-04-14,101702,FINAL,Norwell,4296,101,1,Middleborough,4247,34,0,South Shore,South Shore,,,0
-2026-04-14,101762,FINAL,Tri-County,4392,73,1,Blue Hills,4047,63,0,Mayflower,Mayflower,,,0
-2026-04-14,101777,FINAL,Waltham,4405,71,0,Weston,4423,74,1,Dual County,Dual County,,,0
-2026-04-14,101778,FINAL,Wayland,4411,55,0,Weston,4423,89,1,Dual County,Dual County,,,0
+2026-04-14,101697,FINAL,Marshfield,4234,97.0,1,Whitman-Hanson,4427,39.0,0,Patriot,Patriot,,,0
+2026-04-14,101702,FINAL,Norwell,4296,101.0,1,Middleborough,4247,34.0,0,South Shore,South Shore,,,0
+2026-04-14,101762,FINAL,Tri-County,4392,73.0,1,Blue Hills,4047,63.0,0,Mayflower,Mayflower,,,0
+2026-04-14,101777,FINAL,Waltham,4405,71.0,0,Weston,4423,74.0,1,Dual County,Dual County,,,0
+2026-04-14,101778,FINAL,Wayland,4411,55.0,0,Weston,4423,89.0,1,Dual County,Dual County,,,0
 2026-04-14,101781,FINAL,Hudson,4182,37.5,0,Advanced Math and Science,4595,106.5,1,Mid-Wach,Independent,,,0
-2026-04-14,101782,FINAL,Milford,4249,44,0,Sharon,4345,92,1,Hockomock,Hockomock,,,0
-2026-04-14,101796,FINAL,Norton,4295,60,0,Dover-Sherborn,4118,74,1,Tri-Valley,Tri-Valley,,,0
+2026-04-14,101782,FINAL,Milford,4249,44.0,0,Sharon,4345,92.0,1,Hockomock,Hockomock,,,0
+2026-04-14,101796,FINAL,Norton,4295,60.0,0,Dover-Sherborn,4118,74.0,1,Tri-Valley,Tri-Valley,,,0
 2026-04-15,102413,FINAL,Nashoba,4267,120.5,1,Marlborough,4233,24.5,0,Mid-Wach,Mid-Wach,,,0
 2026-04-15,102434,FINAL,Ipswich,4190,74,1,Lynnfield,4223,70,0,Cape Ann,Cape Ann,,,0
 2026-04-15,102438,FINAL,Central Catholic,4081,74,1,North Andover,4283,71,0,Merrimack Valley,Merrimack Valley,,,0
