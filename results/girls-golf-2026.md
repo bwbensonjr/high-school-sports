@@ -1,6 +1,6 @@
 # Girls Golf - 2026 Season
 
-Generated: 2026-04-25 11:36
+Generated: 2026-04-26 11:37
 
 ## Upcoming Games
 
@@ -20,8 +20,8 @@ Generated: 2026-04-25 11:36
 | 2 | Duxbury | 1593.6 |
 | 3 | Bishop Feehan | 1561.6 |
 | 4 | Malden Catholic | 1537.1 |
-| 5 | Nauset | 1525.0 |
-| 6 | Braintree | 1525.0 |
+| 5 | Braintree | 1525.0 |
+| 6 | Nauset | 1525.0 |
 | 7 | Hingham | 1524.0 |
 | 8 | Nashoba | 1524.0 |
 | 9 | Wellesley | 1509.4 |
@@ -34,8 +34,8 @@ Generated: 2026-04-25 11:36
 | 16 | Ursuline | 1481.7 |
 | 17 | Cohasset | 1477.7 |
 | 18 | Archbishop Williams | 1477.1 |
-| 19 | Falmouth | 1475.0 |
-| 20 | Framingham | 1475.0 |
+| 19 | Framingham | 1475.0 |
+| 20 | Falmouth | 1475.0 |
 | 21 | Dennis-Yarmouth | 1469.2 |
 | 22 | Notre Dame (Worcester) | 1469.2 |
 | 23 | North Quincy/Quincy | 1466.6 |

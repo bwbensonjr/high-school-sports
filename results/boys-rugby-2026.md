@@ -1,6 +1,6 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-04-25 11:36
+Generated: 2026-04-26 11:37
 
 ## Upcoming Games
 
@@ -13,6 +13,7 @@ Generated: 2026-04-25 11:36
 | 2026-05-01 | 5:00 P.M. | Lincoln-Sudbury | Algonquin/Westboro | 35.7% | -4.1 |
 | 2026-05-01 | 4:00 P.M. | Blue Hills | Chelmsford | 58.1% | +2.3 |
 | 2026-05-01 | 6:00 P.M. | Marshfield/SST | Cambridge | 56.8% | +1.9 |
+| 2026-05-06 | 5:00 P.M. | St. John’s Prep | BC High | 47.0% | -0.8 |
 
 ## Recent Games
 

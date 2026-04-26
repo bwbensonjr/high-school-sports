@@ -1,6 +1,6 @@
 # Girls Track - 2026 Season
 
-Generated: 2026-04-25 11:36
+Generated: 2026-04-26 11:37
 
 ## Upcoming Games
 
@@ -14,7 +14,6 @@ Generated: 2026-04-25 11:36
 | 2026-04-21 | Attleboro | 68 | Bishop Feehan | 63 | +2.0 | +5.0 |
 | 2026-04-21 | North Attleborough | 62 | Bishop Feehan | 66 | +2.9 | -4.0 |
 | 2026-04-21 | North Attleborough | 71 | Attleboro | 61 | -0.1 | +10.0 |
-| 2026-04-18 | Greater New Bedford | 87 | Apponequet | 43 | +1.5 | +44.0 |
 
 ## Current Elo Ratings
 

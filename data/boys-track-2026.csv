@@ -30,19 +30,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-14,101785,FINAL,Milford,4249,51.0,0,Sharon,4345,85.0,1,Hockomock,Hockomock,,,0
 2026-04-14,101793,FINAL,Norton,4295,47.0,0,Dover-Sherborn,4118,89.0,1,Tri-Valley,Tri-Valley,,,0
 2026-04-15,102420,FINAL,North Reading,4288,91.5,1,Essex Tech,4745,53.5,0,Cape Ann,Cape Ann,,,0
-2026-04-15,102427,FINAL,Brookline,4059,68,2,Walpole,4404,68,2,Bay State,Bay State,,,0
-2026-04-15,102428,FINAL,Brookline,4059,90,1,Needham,4272,46,0,Bay State,Bay State,,,0
-2026-04-15,102431,FINAL,Walpole,4404,87,1,Needham,4272,49,0,Bay State,Bay State,,,0
-2026-04-15,102437,FINAL,Ipswich,4190,72,0,Lynnfield,4223,73,1,Cape Ann,Cape Ann,,,0
-2026-04-15,102533,FINAL,North Andover,4283,95,1,Central Catholic,4081,50,0,Merrimack Valley,Merrimack Valley,,,0
-2026-04-15,102622,FINAL,Weymouth,4425,68,1,Framingham,4143,67,0,Bay State,Bay State,,,0
-2026-04-15,102624,FINAL,Weymouth,4425,70,1,Milton,4252,65,0,Bay State,Bay State,,,0
-2026-04-15,102625,FINAL,Framingham,4143,72,1,Milton,4252,63,0,Bay State,Bay State,,,0
-2026-04-15,102627,FINAL,Framingham,4143,51,0,Wellesley,4413,85,1,Bay State,Bay State,,,0
+2026-04-15,102427,FINAL,Brookline,4059,68.0,2,Walpole,4404,68.0,2,Bay State,Bay State,,,0
+2026-04-15,102428,FINAL,Brookline,4059,90.0,1,Needham,4272,46.0,0,Bay State,Bay State,,,0
+2026-04-15,102431,FINAL,Walpole,4404,87.0,1,Needham,4272,49.0,0,Bay State,Bay State,,,0
+2026-04-15,102437,FINAL,Ipswich,4190,72.0,0,Lynnfield,4223,73.0,1,Cape Ann,Cape Ann,,,0
+2026-04-15,102533,FINAL,North Andover,4283,95.0,1,Central Catholic,4081,50.0,0,Merrimack Valley,Merrimack Valley,,,0
+2026-04-15,102622,FINAL,Weymouth,4425,68.0,1,Framingham,4143,67.0,0,Bay State,Bay State,,,0
+2026-04-15,102624,FINAL,Weymouth,4425,70.0,1,Milton,4252,65.0,0,Bay State,Bay State,,,0
+2026-04-15,102625,FINAL,Framingham,4143,72.0,1,Milton,4252,63.0,0,Bay State,Bay State,,,0
+2026-04-15,102627,FINAL,Framingham,4143,51.0,0,Wellesley,4413,85.0,1,Bay State,Bay State,,,0
 2026-04-15,102628,FINAL,Milton,4252,55.5,0,Wellesley,4413,80.5,1,Bay State,Bay State,,,0
-2026-04-15,102629,FINAL,Braintree,4051,52,0,Newton North,4279,84,1,Bay State,Bay State,,,0
-2026-04-15,102630,FINAL,Braintree,4051,59,0,Natick,4270,77,1,Bay State,Bay State,,,0
-2026-04-15,102631,FINAL,Newton North,4279,74,1,Natick,4270,62,0,Bay State,Bay State,,,0
+2026-04-15,102629,FINAL,Braintree,4051,52.0,0,Newton North,4279,84.0,1,Bay State,Bay State,,,0
+2026-04-15,102630,FINAL,Braintree,4051,59.0,0,Natick,4270,77.0,1,Bay State,Bay State,,,0
+2026-04-15,102631,FINAL,Newton North,4279,74.0,1,Natick,4270,62.0,0,Bay State,Bay State,,,0
 2026-04-16,102683,FINAL,West Bridgewater,4415,109,1,Bourne,4050,25,0,South Coast,South Coast,,,0
 2026-04-16,102717,FINAL,Apponequet,4011,35,0,Greater New Bedford,4156,89,1,South Coast,South Coast,,,0
 2026-04-16,102724,FINAL,Keefe Tech,4191,78,1,Parker Charter,4483,56,0,Independent,Independent,,,0
