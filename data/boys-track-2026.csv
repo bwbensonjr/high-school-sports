@@ -43,14 +43,14 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-15,102629,FINAL,Braintree,4051,52.0,0,Newton North,4279,84.0,1,Bay State,Bay State,,,0
 2026-04-15,102630,FINAL,Braintree,4051,59.0,0,Natick,4270,77.0,1,Bay State,Bay State,,,0
 2026-04-15,102631,FINAL,Newton North,4279,74.0,1,Natick,4270,62.0,0,Bay State,Bay State,,,0
-2026-04-16,102683,FINAL,West Bridgewater,4415,109,1,Bourne,4050,25,0,South Coast,South Coast,,,0
-2026-04-16,102717,FINAL,Apponequet,4011,35,0,Greater New Bedford,4156,89,1,South Coast,South Coast,,,0
-2026-04-16,102724,FINAL,Keefe Tech,4191,78,1,Parker Charter,4483,56,0,Independent,Independent,,,0
-2026-04-16,102729,FINAL,Somerset Berkley,4350,74,1,Dighton-Rehoboth,4114,62,0,South Coast,South Coast,,,0
-2026-04-16,102745,FINAL,Diman,4115,74,1,Blue Hills,4047,56,0,Mayflower,Mayflower,,,0
-2026-04-16,102892,FINAL,Hingham,4171,76,1,Silver Lake,4349,60,0,Patriot,Patriot,,,0
-2026-04-16,102908,FINAL,Burlington,4065,134,1,Watertown,4409,2,0,Middlesex,Middlesex,,,0
-2026-04-16,102914,FINAL,Nauset,4271,104,1,Sandwich,4340,28.5,0,Cape & Islands,Cape & Islands,,,0
+2026-04-16,102683,FINAL,West Bridgewater,4415,109.0,1,Bourne,4050,25.0,0,South Coast,South Coast,,,0
+2026-04-16,102717,FINAL,Apponequet,4011,35.0,0,Greater New Bedford,4156,89.0,1,South Coast,South Coast,,,0
+2026-04-16,102724,FINAL,Keefe Tech,4191,78.0,1,Parker Charter,4483,56.0,0,Independent,Independent,,,0
+2026-04-16,102729,FINAL,Somerset Berkley,4350,74.0,1,Dighton-Rehoboth,4114,62.0,0,South Coast,South Coast,,,0
+2026-04-16,102745,FINAL,Diman,4115,74.0,1,Blue Hills,4047,56.0,0,Mayflower,Mayflower,,,0
+2026-04-16,102892,FINAL,Hingham,4171,76.0,1,Silver Lake,4349,60.0,0,Patriot,Patriot,,,0
+2026-04-16,102908,FINAL,Burlington,4065,134.0,1,Watertown,4409,2.0,0,Middlesex,Middlesex,,,0
+2026-04-16,102914,FINAL,Nauset,4271,104.0,1,Sandwich,4340,28.5,0,Cape & Islands,Cape & Islands,,,0
 2026-04-21,103954,FINAL,Attleboro,4018,89,1,Bishop Feehan,4042,43,0,Hockomock,Catholic Central,,,0
 2026-04-21,103956,FINAL,North Attleborough,4284,53,0,Bishop Feehan,4042,78,1,Hockomock,Catholic Central,,,0
 2026-04-21,103958,FINAL,North Attleborough,4284,30,0,Attleboro,4018,102,1,Hockomock,Hockomock,,,0

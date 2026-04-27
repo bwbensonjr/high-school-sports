@@ -1,6 +1,6 @@
 # Baseball - 2026 Season
 
-Generated: 2026-04-26 11:37
+Generated: 2026-04-27 12:18
 
 ## Upcoming Games
 
@@ -93,19 +93,19 @@ Generated: 2026-04-26 11:37
 | 2026-04-28 | 4:00 P.M. | Dennis-Yarmouth | New Bedford | 81.2% | +10.2 |
 | 2026-04-28 | 4:00 P.M. | East Bridgewater | Sandwich | 76.3% | +8.1 |
 | 2026-04-28 | 4:00 P.M. | Chicopee | Chicopee Comprehensive | 47.8% | -0.6 |
+| 2026-04-29 | 3:30 P.M. | Rising Tide Charter | Neighborhood House Charter | 35.8% | -4.1 |
 | 2026-04-29 | 3:30 P.M. | Madison Park | Brighton | 77.8% | +8.7 |
 | 2026-04-29 | 3:30 P.M. | Charlestown | Boston International | 55.2% | +1.5 |
 | 2026-04-29 | 3:30 P.M. | New Mission | O’Bryant | 68.2% | +5.3 |
-| 2026-04-29 | 4:00 P.M. | St. Mary’s | Arlington Catholic | 71.6% | +6.4 |
 | 2026-04-29 | 4:00 P.M. | Xaverian | BC High | 49.3% | -0.2 |
 | 2026-04-29 | 4:30 P.M. | Norwood | Dedham | 67.5% | +5.1 |
 | 2026-04-29 | 4:00 P.M. | St. John’s Prep | Malden Catholic | 75.4% | +7.8 |
 | 2026-04-29 | 4:15 P.M. | Westwood | Ashland | 53.9% | +1.1 |
 | 2026-04-29 | 5:00 P.M. | Hopkinton | Holliston | 75.6% | +7.9 |
-| 2026-04-29 | 3:30 P.M. | Rising Tide Charter | Neighborhood House Charter | 35.8% | -4.1 |
+| 2026-04-29 | 4:30 P.M. | Newton North | Milton | 39.4% | -3.0 |
 | 2026-04-29 | 4:00 P.M. | Catholic Memorial | St. John’s (Shrewsbury) | 48.5% | -0.4 |
 | 2026-04-29 | 4:00 P.M. | Wellesley | Needham | 72.5% | +6.7 |
-| 2026-04-29 | 4:30 P.M. | Newton North | Milton | 39.4% | -3.0 |
+| 2026-04-29 | 4:00 P.M. | St. Mary’s | Arlington Catholic | 71.6% | +6.4 |
 | 2026-04-29 | 4:00 P.M. | Framingham | Weymouth | 55.5% | +1.5 |
 | 2026-04-29 | 4:00 P.M. | Duxbury | Hingham | 51.5% | +0.4 |
 | 2026-04-29 | 4:00 P.M. | Marshfield | Plymouth North | 44.6% | -1.5 |
@@ -113,12 +113,12 @@ Generated: 2026-04-26 11:37
 | 2026-04-29 | 4:00 P.M. | Plymouth South | North Quincy | 54.9% | +1.4 |
 | 2026-04-29 | 4:00 P.M. | Quincy | Pembroke | 41.9% | -2.3 |
 | 2026-04-29 | 4:00 P.M. | Whitman-Hanson | Silver Lake | 70.1% | +5.9 |
+| 2026-04-29 | 4:30 P.M. | Nauset | Falmouth | 42.7% | -2.0 |
 | 2026-04-29 | 4:00 P.M. | Sandwich | Dennis-Yarmouth | 30.5% | -5.7 |
 | 2026-04-29 | 4:00 P.M. | Monomoy | Martha’s Vineyard | 69.5% | +5.7 |
 | 2026-04-29 | 4:00 P.M. | St. John Paul II | Nantucket | 70.4% | +6.0 |
 | 2026-04-29 | 4:00 P.M. | Natick | Braintree | 68.0% | +5.2 |
 | 2026-04-29 | 4:30 P.M. | Walpole | Brookline | 81.0% | +10.1 |
-| 2026-04-29 | 4:30 P.M. | Nauset | Falmouth | 42.7% | -2.0 |
 | 2026-04-30 | 4:00 P.M. | Brooke Charter | Roxbury Prep | 43.6% | -1.8 |
 | 2026-04-30 | 4:00 P.M. | Somerville | Peabody | 71.1% | +6.3 |
 | 2026-04-30 | 4:00 P.M. | Danvers | Beverly | 64.1% | +4.0 |
@@ -160,55 +160,66 @@ Generated: 2026-04-26 11:37
 | 2026-05-04 | 3:30 P.M. | Boston International | Madison Park | 32.8% | -5.0 |
 | 2026-05-04 | 3:30 P.M. | New Mission | TechBoston | 84.7% | +11.9 |
 | 2026-05-04 | 3:30 P.M. | O’Bryant | Charlestown | 44.2% | -1.6 |
-| 2026-05-04 | 4:00 P.M. | Archbishop Williams | St. Mary’s | 37.6% | -3.5 |
+| 2026-05-04 | 4:30 P.M. | Bellingham | Hopkinton | 32.3% | -5.1 |
 | 2026-05-04 | 4:30 P.M. | Dover-Sherborn | Norwood | 39.1% | -3.1 |
+| 2026-05-04 | 4:00 P.M. | BC High | Malden Catholic | 87.6% | +13.6 |
 | 2026-05-04 | 4:00 P.M. | Xaverian | Catholic Memorial | 64.7% | +4.2 |
 | 2026-05-04 | 4:00 P.M. | St. John’s Prep | St. John’s (Shrewsbury) | 43.5% | -1.8 |
 | 2026-05-04 | 4:30 P.M. | Medfield | Westwood | 64.0% | +4.0 |
-| 2026-05-04 | 4:30 P.M. | Bellingham | Hopkinton | 32.3% | -5.1 |
 | 2026-05-04 | 7:00 P.M. | Natick | Needham | 82.3% | +10.7 |
-| 2026-05-04 | 4:00 P.M. | BC High | Malden Catholic | 87.6% | +13.6 |
+| 2026-05-04 | 4:00 P.M. | Archbishop Williams | St. Mary’s | 37.6% | -3.5 |
 | 2026-05-04 | 4:00 P.M. | Walpole | Newton North | 79.1% | +9.3 |
-| 2026-05-04 | 4:00 P.M. | Hanover | Whitman-Hanson | 59.3% | +2.6 |
+| 2026-05-04 | 4:00 P.M. | Fairhaven | Nauset | 69.7% | +5.8 |
 | 2026-05-04 | 7:00 P.M. | Bishop Feehan | La Salle (R.I.) | 73.1% | +6.9 |
 | 2026-05-04 | 4:00 P.M. | Braintree | Brookline | 74.3% | +7.4 |
 | 2026-05-04 | TBD | Bourne | Monomoy | 49.7% | -0.1 |
 | 2026-05-04 | 4:00 P.M. | Nantucket | Rising Tide Charter | 82.1% | +10.6 |
 | 2026-05-04 | 4:00 P.M. | Martha’s Vineyard | Sandwich | 52.2% | +0.6 |
-| 2026-05-04 | 4:00 P.M. | Fairhaven | Nauset | 69.7% | +5.8 |
 | 2026-05-04 | 4:00 P.M. | Dennis-Yarmouth | Barnstable | 60.8% | +3.0 |
 | 2026-05-04 | 4:00 P.M. | Falmouth | St. John Paul II | 48.8% | -0.3 |
 | 2026-05-04 | 4:00 P.M. | Brockton | Quincy | 68.4% | +5.4 |
 | 2026-05-04 | 4:00 P.M. | Bristol-Plymouth | Duxbury | 55.1% | +1.4 |
+| 2026-05-04 | 4:00 P.M. | Hanover | Whitman-Hanson | 59.3% | +2.6 |
 | 2026-05-04 | 4:15 P.M. | Masconomet | Hamilton-Wenham | 32.1% | -5.2 |
 | 2026-05-04 | 4:00 P.M. | Weymouth | Wellesley | 49.4% | -0.2 |
+| 2026-05-05 | 4:00 P.M. | St. Mary’s | Bishop Stang | 78.4% | +8.9 |
 | 2026-05-05 | 4:00 P.M. | Somerville | Medford | 65.6% | +4.5 |
 | 2026-05-05 | 4:00 P.M. | Plymouth South | Pembroke | 55.7% | +1.6 |
 | 2026-05-05 | 4:00 P.M. | Hanover | Quincy | 82.2% | +10.6 |
-| 2026-05-05 | 4:00 P.M. | St. Mary’s | Bishop Stang | 78.4% | +8.9 |
 | 2026-05-05 | 4:00 P.M. | Plymouth North | Whitman-Hanson | 61.5% | +3.2 |
 | 2026-05-05 | 4:00 P.M. | Marshfield | Duxbury | 54.2% | +1.2 |
 | 2026-05-05 | 4:00 P.M. | Silver Lake | Hingham | 42.7% | -2.0 |
 | 2026-05-05 | 4:00 P.M. | North Quincy | Scituate | 50.4% | +0.1 |
+| 2026-05-06 | 3:30 P.M. | Boston International | O’Bryant | 70.8% | +6.2 |
+| 2026-05-06 | 7:00 P.M. | Holliston | Norwood | 48.1% | -0.5 |
 | 2026-05-06 | 4:15 P.M. | Westwood | Dover-Sherborn | 79.6% | +9.4 |
 | 2026-05-06 | 7:00 P.M. | Xaverian | St. John’s Prep | 69.1% | +5.6 |
 | 2026-05-06 | 4:00 P.M. | St. John’s (Shrewsbury) | Malden Catholic | 84.2% | +11.6 |
+| 2026-05-06 | 7:00 P.M. | Hopkinton | Medway | 60.6% | +3.0 |
 | 2026-05-06 | 4:00 P.M. | Catholic Memorial | BC High | 41.4% | -2.4 |
 | 2026-05-06 | 3:30 P.M. | New Mission | Batson Academy | 52.6% | +0.7 |
-| 2026-05-06 | 3:30 P.M. | Boston International | O’Bryant | 70.8% | +6.2 |
 | 2026-05-06 | 3:30 P.M. | Madison Park | TechBoston | 94.5% | +19.7 |
-| 2026-05-06 | 3:30 P.M. | Rising Tide Charter | Wareham | 47.1% | -0.8 |
+| 2026-05-06 | 4:00 P.M. | Walpole | Weymouth | 74.8% | +7.6 |
+| 2026-05-06 | 4:00 P.M. | Sturgis West | St. John Paul II | 28.9% | -6.2 |
 | 2026-05-06 | 4:00 P.M. | Milton | Needham | 75.6% | +7.9 |
 | 2026-05-06 | 4:00 P.M. | Framingham | Newton North | 61.4% | +3.2 |
 | 2026-05-06 | 7:00 P.M. | Natick | Brookline | 82.2% | +10.6 |
-| 2026-05-06 | 4:00 P.M. | Walpole | Weymouth | 74.8% | +7.6 |
 | 2026-05-06 | 4:00 P.M. | Wellesley | Braintree | 54.6% | +1.3 |
 | 2026-05-06 | 4:00 P.M. | Sandwich | Nauset | 45.9% | -1.1 |
 | 2026-05-06 | 4:00 P.M. | Dennis-Yarmouth | Martha’s Vineyard | 83.2% | +11.1 |
 | 2026-05-06 | 4:00 P.M. | Falmouth | New Bedford | 80.0% | +9.6 |
-| 2026-05-06 | 7:00 P.M. | Holliston | Norwood | 48.1% | -0.5 |
-| 2026-05-06 | 4:00 P.M. | Sturgis West | St. John Paul II | 28.9% | -6.2 |
-| 2026-05-06 | 7:00 P.M. | Hopkinton | Medway | 60.6% | +3.0 |
+| 2026-05-06 | 3:30 P.M. | Rising Tide Charter | Wareham | 47.1% | -0.8 |
+| 2026-05-07 | 4:00 P.M. | Malden Catholic | Bishop Fenwick | 32.9% | -4.9 |
+| 2026-05-07 | 4:00 P.M. | Catholic Memorial | Newton North | 71.9% | +6.5 |
+| 2026-05-07 | 4:00 P.M. | Bishop Feehan | English High | 63.0% | +3.7 |
+| 2026-05-07 | 4:00 P.M. | Plymouth North | Scituate | 66.9% | +4.9 |
+| 2026-05-07 | 4:00 P.M. | Pembroke | Hingham | 43.3% | -1.9 |
+| 2026-05-07 | 4:00 P.M. | Whitman-Hanson | Quincy | 80.8% | +10.0 |
+| 2026-05-07 | 4:00 P.M. | Marshfield | Plymouth South | 63.7% | +3.9 |
+| 2026-05-07 | 4:00 P.M. | Duxbury | Hanover | 49.8% | -0.1 |
+| 2026-05-07 | 4:30 P.M. | Dedham | Westwood | 37.9% | -3.4 |
+| 2026-05-07 | 4:00 P.M. | North Quincy | Silver Lake | 58.5% | +2.4 |
+| 2026-05-07 | 4:30 P.M. | Holliston | Hopkinton | 36.4% | -3.9 |
 
 ## Recent Games
 
@@ -709,12 +720,12 @@ Generated: 2026-04-26 11:37
 | 175 | Hopedale | 1503.8 |
 | 176 | Medford | 1502.7 |
 | 177 | Lenox | 1502.1 |
-| 178 | KIPP | 1500.0 |
-| 179 | Cristo Rey | 1500.0 |
-| 180 | Cape Cod Academy | 1500.0 |
-| 181 | Portsmouth (R.I.) | 1500.0 |
-| 182 | South Shore Christian | 1500.0 |
-| 183 | Sturgis East | 1500.0 |
+| 178 | Cristo Rey | 1500.0 |
+| 179 | Cape Cod Academy | 1500.0 |
+| 180 | KIPP | 1500.0 |
+| 181 | Sturgis East | 1500.0 |
+| 182 | Portsmouth (R.I.) | 1500.0 |
+| 183 | South Shore Christian | 1500.0 |
 | 184 | North Middlesex | 1499.6 |
 | 185 | Bristol Aggie | 1499.6 |
 | 186 | Bristol-Plymouth | 1498.1 |

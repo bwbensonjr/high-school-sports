@@ -1,6 +1,6 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-04-26 11:37
+Generated: 2026-04-27 12:18
 
 ## Upcoming Games
 
@@ -14,6 +14,12 @@ Generated: 2026-04-26 11:37
 | 2026-05-01 | 4:00 P.M. | Blue Hills | Chelmsford | 58.1% | +2.3 |
 | 2026-05-01 | 6:00 P.M. | Marshfield/SST | Cambridge | 56.8% | +1.9 |
 | 2026-05-06 | 5:00 P.M. | St. John’s Prep | BC High | 47.0% | -0.8 |
+| 2026-05-07 | 5:30 P.M. | Weymouth | Hanover | 36.2% | -3.9 |
+| 2026-05-07 | 5:00 P.M. | Blue Hills | Algonquin/Westboro | 62.8% | +3.6 |
+| 2026-05-07 | 4:30 P.M. | Lincoln-Sudbury | Catholic Memorial | 55.5% | +1.5 |
+| 2026-05-07 | 5:00 P.M. | Burncoat | Marshfield/SST | 64.9% | +4.3 |
+| 2026-05-07 | 6:30 P.M. | Cambridge | Hingham/Norwell | 32.2% | -5.2 |
+| 2026-05-07 | 4:30 P.M. | Malden Catholic | Chelmsford | 60.3% | +2.9 |
 
 ## Recent Games
 

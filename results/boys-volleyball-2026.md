@@ -1,6 +1,6 @@
 # Boys Volleyball - 2026 Season
 
-Generated: 2026-04-26 11:37
+Generated: 2026-04-27 12:18
 
 ## Upcoming Games
 
@@ -38,12 +38,12 @@ Generated: 2026-04-26 11:37
 | 2026-04-30 | 5:30 P.M. | Weymouth | Newton North | 68.7% | +5.5 |
 | 2026-04-30 | 6:00 P.M. | Medfield | Westwood | 76.5% | +8.2 |
 | 2026-05-01 | 5:00 P.M. | Latin Academy | O’Bryant | 52.1% | +0.6 |
-| 2026-05-01 | 5:00 P.M. | Haverhill | Chelmsford | 33.4% | -4.8 |
 | 2026-05-01 | 6:15 P.M. | Milford | Newton North | 59.0% | +2.5 |
-| 2026-05-01 | 4:00 P.M. | Braintree | St. John’s (Shrewsbury) | 71.8% | +6.5 |
-| 2026-05-01 | 5:30 P.M. | Westford | Newton South | 58.6% | +2.4 |
-| 2026-05-01 | 4:30 P.M. | Milton | Needham | 57.1% | +2.0 |
 | 2026-05-01 | 5:30 P.M. | Lexington | Arlington | 67.9% | +5.2 |
+| 2026-05-01 | 5:00 P.M. | Haverhill | Chelmsford | 33.4% | -4.8 |
+| 2026-05-01 | 4:30 P.M. | Milton | Needham | 57.1% | +2.0 |
+| 2026-05-01 | 5:30 P.M. | Westford | Newton South | 58.6% | +2.4 |
+| 2026-05-01 | 4:00 P.M. | Braintree | St. John’s (Shrewsbury) | 71.8% | +6.5 |
 | 2026-05-02 | 11:45 A.M. | Chicopee Comprehensive | Barnstable | 34.2% | -4.5 |
 | 2026-05-02 | 1:30 P.M. | Longmeadow | O’Bryant | 51.0% | +0.3 |
 | 2026-05-04 | 5:00 P.M. | North Andover | Haverhill | 65.9% | +4.6 |
@@ -55,21 +55,31 @@ Generated: 2026-04-26 11:37
 | 2026-05-04 | 5:15 P.M. | Milton | Wellesley | 78.2% | +8.9 |
 | 2026-05-04 | 4:00 P.M. | Framingham | Southeastern | 41.6% | -2.3 |
 | 2026-05-04 | 4:30 P.M. | Lexington | Needham | 57.5% | +2.1 |
-| 2026-05-05 | 6:00 P.M. | Wakefield | Lexington | 33.9% | -4.6 |
-| 2026-05-05 | 6:00 P.M. | Medfield | King Philip | 67.8% | +5.2 |
 | 2026-05-05 | 4:00 P.M. | Wellesley | Needham | 33.1% | -4.9 |
+| 2026-05-05 | 6:00 P.M. | Medfield | King Philip | 67.8% | +5.2 |
+| 2026-05-05 | 5:45 P.M. | Milford | Wayland | 43.1% | -1.9 |
+| 2026-05-05 | 6:00 P.M. | Wakefield | Lexington | 33.9% | -4.6 |
+| 2026-05-05 | 5:15 P.M. | Brookline | Milton | 62.3% | +3.5 |
 | 2026-05-05 | 4:00 P.M. | Framingham | Braintree | 33.2% | -4.9 |
 | 2026-05-05 | 4:00 P.M. | Natick | Weymouth | 62.0% | +3.4 |
-| 2026-05-05 | 5:15 P.M. | Brookline | Milton | 62.3% | +3.5 |
-| 2026-05-05 | 5:45 P.M. | Milford | Wayland | 43.1% | -1.9 |
 | 2026-05-06 | 5:30 P.M. | Acton-Boxborough | Wellesley | 71.6% | +6.4 |
-| 2026-05-06 | 6:00 P.M. | Waltham/Weston | Newton South | 48.5% | -0.4 |
-| 2026-05-06 | 5:45 P.M. | Cambridge | Milford | 56.9% | +1.9 |
-| 2026-05-06 | 5:00 P.M. | Chelmsford | Andover | 78.1% | +8.8 |
-| 2026-05-06 | 5:00 P.M. | Dighton-Rehoboth | Barnstable | 26.5% | -7.1 |
-| 2026-05-06 | 5:00 P.M. | Greater New Bedford | Taunton | 70.9% | +6.2 |
 | 2026-05-06 | 5:15 P.M. | Malden | Revere | 42.2% | -2.2 |
+| 2026-05-06 | 5:00 P.M. | Greater New Bedford | Taunton | 70.9% | +6.2 |
 | 2026-05-06 | 5:00 P.M. | Methuen | North Andover | 56.6% | +1.9 |
+| 2026-05-06 | 5:00 P.M. | Chelmsford | Andover | 78.1% | +8.8 |
+| 2026-05-06 | 5:45 P.M. | Cambridge | Milford | 56.9% | +1.9 |
+| 2026-05-06 | 6:00 P.M. | Waltham/Weston | Newton South | 48.5% | -0.4 |
+| 2026-05-06 | 5:00 P.M. | Dighton-Rehoboth | Barnstable | 26.5% | -7.1 |
+| 2026-05-07 | 6:00 P.M. | Medfield | Norton | 65.7% | +4.5 |
+| 2026-05-07 | 4:30 P.M. | Braintree | Brookline | 46.6% | -0.9 |
+| 2026-05-07 | 4:00 P.M. | Weymouth | Framingham | 79.6% | +9.5 |
+| 2026-05-07 | 4:00 P.M. | Wellesley | Milton | 33.1% | -4.9 |
+| 2026-05-07 | 4:00 P.M. | Newton North | Needham | 41.6% | -2.4 |
+| 2026-05-07 | 5:30 P.M. | Lexington | Winchester | 70.9% | +6.2 |
+| 2026-05-07 | 3:45 P.M. | Attleboro | Milford | 52.6% | +0.7 |
+| 2026-05-07 | 5:00 P.M. | Chelmsford | Lowell | 58.2% | +2.3 |
+| 2026-05-07 | 5:30 P.M. | Revere | Academy/Pacific Rim | 78.3% | +8.9 |
+| 2026-05-07 | 4:00 P.M. | O’Bryant | Madison Park | 69.3% | +5.7 |
 
 ## Recent Games
 
@@ -180,10 +190,10 @@ Generated: 2026-04-26 11:37
 | 60 | Pioneer Charter I | 1501.4 |
 | 61 | Cambridge | 1500.8 |
 | 62 | Codman Charter | 1500.0 |
-| 63 | Phillips Andover | 1500.0 |
-| 64 | Walpole | 1500.0 |
-| 65 | Salem Academy | 1500.0 |
-| 66 | Pioneer Charter II | 1500.0 |
+| 63 | Salem Academy | 1500.0 |
+| 64 | Pioneer Charter II | 1500.0 |
+| 65 | Walpole | 1500.0 |
+| 66 | Phillips Andover | 1500.0 |
 | 67 | Doherty | 1499.8 |
 | 68 | Taunton | 1499.3 |
 | 69 | Libertas Academy | 1498.9 |
