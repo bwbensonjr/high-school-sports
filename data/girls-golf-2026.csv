@@ -17,5 +17,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-14,101791,FINAL,Marshfield,4234,3.5,1,Quincy,4326,2.5,0,Independent,Patriot,,,0
 2026-04-14,101797,FINAL,Nauset,4271,6.0,1,Falmouth,4134,0.0,0,Cape & Islands,Cape & Islands,,,0
 2026-04-15,102461,FINAL,Braintree,4051,6.0,1,Framingham,4143,0.0,0,Bay State,Bay State,,,0
-2026-04-16,102655,FINAL,Dennis-Yarmouth,4111,0,0,Bishop Feehan,4042,6,1,Cape & Islands,Independent,,,0
+2026-04-16,102655,FINAL,Dennis-Yarmouth,4111,0.0,0,Bishop Feehan,4042,6.0,1,Cape & Islands,Independent,,,0
 2026-04-16,102924,FINAL,Worcester,4066,8.5,0,Nashoba,4267,27.5,1,Independent,Independent,,,0
+2026-04-27,107379,FINAL,Bishop Feehan,4042,31,1,Auburn,4019,23,0,Independent,Independent,,,0
+2026-04-27,107423,FINAL,North Quincy/Quincy,4287,3.5,1,Marshfield,4234,2.5,0,Patriot,Independent,3:15 P.M.,,0

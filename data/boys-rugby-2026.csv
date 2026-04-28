@@ -20,8 +20,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-16,93166,FINAL,Xaverian,4446,57.0,1.0,Weymouth,4425,7.0,0.0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,6:00 P.M.,,0
 2026-04-16,93272,FINAL,Cambridge,4067,14.0,0.0,Malden Catholic,4228,46.0,1.0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,6:00 P.M.,,0
 2026-04-16,102692,FINAL,Hingham/Norwell,4171,50.0,1.0,Marshfield/SST,4234,29.0,0.0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,,,0
-2026-04-17,93116,FINAL,St. John’s Prep,4369,26,1,Belmont,4034,22,0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,5:00 P.M.,,0
-2026-04-17,93250,FINAL,Hanover,4164,53,1,Lincoln-Sudbury,4211,5,0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,5:00 P.M.,,0
+2026-04-17,93116,FINAL,St. John’s Prep,4369,26.0,1.0,Belmont,4034,22.0,0.0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,5:00 P.M.,,0
+2026-04-17,93250,FINAL,Hanover,4164,53.0,1.0,Lincoln-Sudbury,4211,5.0,0.0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,5:00 P.M.,,0
 2026-04-17,93309,UPCOMING,Hingham/Norwell,4171,,,Marshfield/SST,4234,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,5:00 P.M.,,0
 2026-04-30,93258,UPCOMING,Burncoat,4066,,,Malden Catholic,4228,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,4:30 P.M.,,0
 2026-05-01,93122,UPCOMING,Belmont,4034,,,Hanover,4164,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,7:00 P.M.,,0
@@ -37,3 +37,4 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-07,93261,UPCOMING,Burncoat,4066,,,Marshfield/SST,4234,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,5:00 P.M.,,0
 2026-05-07,93278,UPCOMING,Cambridge,4067,,,Hingham/Norwell,4171,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,6:30 P.M.,,0
 2026-05-07,93294,UPCOMING,Malden Catholic,4228,,,Chelmsford,4085,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,4:30 P.M.,,0
+2026-05-08,93139,UPCOMING,Brookline,4059,,,Milton,4252,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,4:30 P.M.,,0

@@ -1,6 +1,6 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-04-27 12:18
+Generated: 2026-04-28 12:22
 
 ## Upcoming Games
 
@@ -20,6 +20,7 @@ Generated: 2026-04-27 12:18
 | 2026-05-07 | 5:00 P.M. | Burncoat | Marshfield/SST | 64.9% | +4.3 |
 | 2026-05-07 | 6:30 P.M. | Cambridge | Hingham/Norwell | 32.2% | -5.2 |
 | 2026-05-07 | 4:30 P.M. | Malden Catholic | Chelmsford | 60.3% | +2.9 |
+| 2026-05-08 | 4:30 P.M. | Brookline | Milton | 44.4% | -1.6 |
 
 ## Recent Games
 
