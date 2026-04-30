@@ -506,19 +506,51 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-28,87929,FINAL,Braintree,4051,0,0,Natick,4270,3,1,Bay State,Bay State,4:00 P.M.,,0
 2026-04-28,88000,UPCOMING,Framingham,4143,,,Newton North,4279,,,Bay State,Bay State,4:30 P.M.,,0
 2026-04-28,103121,FINAL,Wellesley,4413,0,0,Weymouth,4425,3,1,Bay State,Bay State,4:00 P.M.,,0
-2026-04-28,103236,UPCOMING,North Andover,4283,,,St. John’s Prep,4369,,,Merrimack Valley,Catholic Conference,5:00 P.M.,,0
+2026-04-28,103236,FINAL,North Andover,4283,3,1,St. John’s Prep,4369,0,0,Merrimack Valley,Catholic Conference,5:00 P.M.,,0
 2026-04-28,107806,FINAL,Essex Tech,4745,0,0,Dracut,4119,3,1,Commonwealth,Merrimack Valley,,,0
 2026-04-28,107819,FINAL,Quincy,4326,3,1,North Quincy,4287,1,0,Patriot,Patriot,,,0
-2026-04-29,102939,UPCOMING,Wayland,4411,,,Waltham/Weston,4405,,,Dual County,Dual County,4:00 P.M.,,0
-2026-04-29,102960,UPCOMING,Acton-Boxborough,4003,,,Newton South,4280,,,Dual County,Dual County,5:30 P.M.,,0
-2026-04-29,103010,UPCOMING,Lexington,4209,,,Woburn,4438,,,Middlesex,Middlesex,5:30 P.M.,,0
-2026-04-29,103037,UPCOMING,Milford,4249,,,Latin Academy,4202,,,Hockomock,Boston City,5:30 P.M.,,0
-2026-04-29,103056,UPCOMING,Chelmsford,4085,,,Dracut,4119,,,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
-2026-04-29,103084,UPCOMING,Lowell,4216,,,Andover,4009,,,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
-2026-04-29,103103,UPCOMING,Barnstable,4024,,,Taunton,4388,,,Independent,Hockomock,5:15 P.M.,,0
-2026-04-29,103139,UPCOMING,King Philip,4197,,,Greater New Bedford,4156,,,Hockomock,Independent,5:00 P.M.,,0
-2026-04-29,103156,UPCOMING,Revere,4329,,,Medford,4242,,,Greater Boston,Greater Boston,5:30 P.M.,,0
-2026-04-29,103239,UPCOMING,Billerica,4040,,,North Andover,4283,,,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
+2026-04-28,107927,FINAL,Madison Park,4225,3,1,Boston Collegiate,4592,2,0,Boston City,Charter School Athletic,,,0
+2026-04-28,107928,FINAL,Boston United,4798,3,1,Prospect Hill,4593,0,0,Boston City,Charter School Athletic,,,0
+2026-04-29,102939,FINAL,Wayland,4411,3,1,Waltham/Weston,4405,0,0,Dual County,Dual County,4:00 P.M.,,0
+2026-04-29,102960,FINAL,Acton-Boxborough,4003,3,1,Newton South,4280,2,0,Dual County,Dual County,5:30 P.M.,,0
+2026-04-29,103010,FINAL,Lexington,4209,3,1,Woburn,4438,0,0,Middlesex,Middlesex,5:30 P.M.,,0
+2026-04-29,103037,FINAL,Milford,4249,3,1,Latin Academy,4202,1,0,Hockomock,Boston City,5:30 P.M.,,0
+2026-04-29,103056,FINAL,Chelmsford,4085,3,1,Dracut,4119,0,0,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
+2026-04-29,103084,FINAL,Lowell,4216,3,1,Andover,4009,0,0,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
+2026-04-29,103103,FINAL,Barnstable,4024,3,1,Taunton,4388,0,0,Independent,Hockomock,5:15 P.M.,,0
+2026-04-29,103139,FINAL,King Philip,4197,1,0,Greater New Bedford,4156,3,1,Hockomock,Independent,5:00 P.M.,,0
+2026-04-29,103156,FINAL,Revere,4329,3,1,Medford,4242,0,0,Greater Boston,Greater Boston,5:30 P.M.,,0
+2026-04-29,103239,FINAL,Billerica,4040,3,1,North Andover,4283,2,0,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
+2026-04-29,108361,FINAL,Central Catholic,4081,0,0,Methuen,4246,3,1,Merrimack Valley,Merrimack Valley,,,0
+2026-04-29,108369,FINAL,Norton,4295,3,1,Attleboro,4018,1,0,Tri-Valley,Hockomock,,,0
+2026-04-29,108371,FINAL,Arlington,4013,2,0,Winchester,4434,3,1,Middlesex,Middlesex,,,0
+2026-04-29,108374,FINAL,Wakefield,4402,2,0,Belmont,4034,3,1,Middlesex,Middlesex,,,0
+2026-04-29,108376,FINAL,Randolph,4327,3,1,Hingham,4171,0,0,Independent,Patriot,,,0
+2026-04-29,108380,FINAL,Westford,4421,0,0,Cambridge,4067,3,1,Dual County,Dual County,,,0
+2026-04-29,108404,FINAL,Braintree,4051,3,1,Milton,4252,0,0,Bay State,Bay State,,,0
+2026-04-29,108407,FINAL,Haverhill,4167,2,0,Lawrence,4203,3,1,Merrimack Valley,Merrimack Valley,,,0
+2026-04-29,108412,FINAL,Everett,4132,0,0,Lynn Classical,4220,3,1,Greater Boston,Greater Boston,,,0
+2026-04-29,108524,FINAL,Worcester Tech,4445,3,1,Abby Kelley Foster,4503,0,0,CMAC,CMAC,,,0
+2026-04-29,108527,FINAL,Assabet,4016,3,1,Nashoba,4267,0,0,CMAC,Mid-Wach,,,0
+2026-04-29,108530,FINAL,Ware,4406,3,1,Athol,4017,0,0,Independent,Independent,,,0
+2026-04-29,108532,FINAL,Ayer Shirley,4022,3,1,Innovation Academy,4690,0,0,Mid-Wach,Commonwealth,,,0
+2026-04-29,108533,FINAL,University Park/Claremont,4514,3,1,Bay Path,4027,0,0,CMAC,CMAC,,,0
+2026-04-29,108535,FINAL,Putnam,4362,1,0,Belchertown,4032,3,1,Independent,Independent,,,0
+2026-04-29,108538,FINAL,Burncoat,4066,3,1,Worcester North,4443,1,0,CMAC,CMAC,,,0
+2026-04-29,108540,FINAL,Malden,4227,3,1,Chelsea,4086,0,0,Greater Boston,Greater Boston,,,0
+2026-04-29,108543,FINAL,Springfield International,4480,3,1,Chicopee,4088,0,0,Independent,Independent,,,0
+2026-04-29,108545,FINAL,Dighton-Rehoboth,4114,0,0,Millis,4251,3,1,Tri-Valley,Tri-Valley,,,0
+2026-04-29,108548,FINAL,Doherty,4116,3,1,Keefe Tech,4191,0,0,CMAC,CMAC,,,0
+2026-04-29,108549,FINAL,Excel Academy,4969,3,1,Salem Academy,4604,0,0,Charter School Athletic,Charter School Athletic,,,0
+2026-04-29,108552,FINAL,Whittier,4428,3,1,Georgetown,4148,0,0,Commonwealth,Independent,,,0
+2026-04-29,108553,FINAL,Greater Lowell,4155,3,1,Lynn Tech,4222,1,0,Commonwealth,Commonwealth,,,0
+2026-04-29,108555,FINAL,Hampden Charter East,4712,0,0,Veritas Prep,5040,3,1,Independent,Independent,,,0
+2026-04-29,108557,FINAL,Holyoke,4176,0,0,Springfield Sci-Tech,4363,3,1,Independent,Independent,,,0
+2026-04-29,108564,FINAL,Shrewsbury,4348,3,1,Leominster,4208,0,0,Mid-Wach,Mid-Wach,,,0
+2026-04-29,108565,FINAL,Salem,4336,1,0,Nashoba Valley Tech,4268,3,1,Commonwealth,Commonwealth,,,0
+2026-04-29,108568,FINAL,Nipmuc,4281,3,1,Worcester South,4444,1,0,CMAC,CMAC,,,0
+2026-04-29,108570,FINAL,Westwood,4424,3,1,Academy/Pacific Rim,5038,0,0,Tri-Valley,Charter School Athletic,,,0
+2026-04-29,108571,FINAL,Scituate,4343,1,0,Silver Lake,4349,3,1,Patriot,Patriot,,,0
 2026-04-30,87932,UPCOMING,Braintree,4051,,,Milton,4252,,,Bay State,Bay State,4:00 P.M.,,0
 2026-04-30,87972,UPCOMING,Needham,4272,,,Brookline,4059,,,Bay State,Bay State,4:00 P.M.,,0
 2026-04-30,88002,UPCOMING,Natick,4270,,,Framingham,4143,,,Bay State,Bay State,4:00 P.M.,,0
