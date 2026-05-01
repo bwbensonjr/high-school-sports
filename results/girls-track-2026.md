@@ -1,6 +1,6 @@
 # Girls Track - 2026 Season
 
-Generated: 2026-04-30 12:14
+Generated: 2026-05-01 11:57
 
 ## Upcoming Games
 
@@ -11,16 +11,18 @@ Generated: 2026-04-30 12:14
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-04-29 | Braintree | 80 | Brookline | 56 | +2.1 | +24.0 |
-| 2026-04-29 | Wellesley | 80 | Braintree | 56 | +6.4 | +24.0 |
+| 2026-04-30 | Peabody | 88 | Danvers | 44 | +3.6 | +44.3 |
+| 2026-04-30 | Hingham | 76 | Whitman-Hanson | 53 | +6.9 | +23.0 |
+| 2026-04-29 | Wellesley | 105 | Brookline | 35 | +10.8 | +70.0 |
+| 2026-04-29 | Masconomet | 101 | Marblehead | 35 | +6.1 | +66.0 |
 | 2026-04-29 | Milton | 78 | Walpole | 57 | +3.7 | +21.0 |
 | 2026-04-29 | Natick | 76 | Milton | 60 | +11.4 | +16.0 |
 | 2026-04-29 | Walpole | 55 | Natick | 81 | -7.6 | -26.0 |
 | 2026-04-29 | Newton North | 94 | Framingham | 42 | +14.6 | +52.0 |
 | 2026-04-29 | Newton North | 78 | Needham | 54 | +5.2 | +24.0 |
 | 2026-04-29 | Needham | 69 | Framingham | 66 | +9.5 | +3.0 |
-| 2026-04-29 | Wellesley | 105 | Brookline | 35 | +10.8 | +70.0 |
-| 2026-04-29 | Masconomet | 101 | Marblehead | 35 | +6.1 | +66.0 |
+| 2026-04-29 | Wellesley | 80 | Braintree | 56 | +6.4 | +24.0 |
+| 2026-04-29 | Braintree | 80 | Brookline | 56 | +2.1 | +24.0 |
 | 2026-04-29 | Braintree | 71 | Weymouth | 65 | -1.7 | +6.0 |
 | 2026-04-29 | Weymouth | 75 | Brookline | 61 | +1.6 | +14.0 |
 | 2026-04-29 | Somerset Berkley | 71 | Apponequet | 64 | +0.7 | +7.0 |
@@ -47,19 +49,19 @@ Generated: 2026-04-30 12:14
 | 9 | Ipswich | 1616.5 |
 | 10 | Nashoba | 1605.3 |
 | 11 | Greater New Bedford | 1594.6 |
-| 12 | Needham | 1568.6 |
-| 13 | Central Catholic | 1567.5 |
-| 14 | Sharon | 1566.7 |
-| 15 | Ayer Shirley | 1555.3 |
-| 16 | Norwell | 1554.2 |
-| 17 | Seekonk | 1553.8 |
-| 18 | Dover-Sherborn | 1551.7 |
-| 19 | Keefe Tech | 1550.2 |
-| 20 | Nauset | 1548.4 |
-| 21 | Marshfield | 1546.0 |
-| 22 | Westwood | 1544.7 |
-| 23 | Peabody | 1540.3 |
-| 24 | Hingham | 1539.2 |
+| 12 | Peabody | 1583.0 |
+| 13 | Needham | 1568.6 |
+| 14 | Central Catholic | 1567.5 |
+| 15 | Sharon | 1566.7 |
+| 16 | Hingham | 1564.9 |
+| 17 | Ayer Shirley | 1555.3 |
+| 18 | Norwell | 1554.2 |
+| 19 | Seekonk | 1553.8 |
+| 20 | Dover-Sherborn | 1551.7 |
+| 21 | Keefe Tech | 1550.2 |
+| 22 | Nauset | 1548.4 |
+| 23 | Marshfield | 1546.0 |
+| 24 | Westwood | 1544.7 |
 | 25 | Archbishop Williams | 1535.7 |
 | 26 | Tri-County | 1530.8 |
 | 27 | Dighton-Rehoboth | 1527.6 |
@@ -81,31 +83,32 @@ Generated: 2026-04-30 12:14
 | 43 | Marblehead | 1463.0 |
 | 44 | Holliston | 1461.1 |
 | 45 | Swampscott | 1459.7 |
-| 46 | West Bridgewater | 1456.4 |
-| 47 | Millis | 1453.2 |
-| 48 | Braintree | 1453.0 |
-| 49 | Marlborough | 1451.9 |
-| 50 | Amesbury | 1451.7 |
-| 51 | Sandwich | 1451.6 |
-| 52 | Salem | 1450.3 |
-| 53 | Essex Tech | 1449.1 |
-| 54 | Andover | 1447.4 |
-| 55 | Beverly | 1446.7 |
-| 56 | Joseph Case | 1446.2 |
-| 57 | Middleborough | 1445.8 |
-| 58 | Tyngsborough | 1444.7 |
-| 59 | Bourne | 1443.5 |
-| 60 | North Middlesex | 1442.7 |
-| 61 | Bristol-Plymouth | 1442.2 |
-| 62 | Bishop Stang | 1441.1 |
-| 63 | Milford | 1433.3 |
-| 64 | Hudson | 1427.2 |
-| 65 | Milton | 1424.7 |
-| 66 | Assabet | 1423.2 |
-| 67 | Whitman-Hanson | 1416.3 |
+| 46 | Danvers | 1457.3 |
+| 47 | West Bridgewater | 1456.4 |
+| 48 | Millis | 1453.2 |
+| 49 | Braintree | 1453.0 |
+| 50 | Marlborough | 1451.9 |
+| 51 | Amesbury | 1451.7 |
+| 52 | Sandwich | 1451.6 |
+| 53 | Salem | 1450.3 |
+| 54 | Essex Tech | 1449.1 |
+| 55 | Andover | 1447.4 |
+| 56 | Beverly | 1446.7 |
+| 57 | Joseph Case | 1446.2 |
+| 58 | Middleborough | 1445.8 |
+| 59 | Tyngsborough | 1444.7 |
+| 60 | Bourne | 1443.5 |
+| 61 | North Middlesex | 1442.7 |
+| 62 | Bristol-Plymouth | 1442.2 |
+| 63 | Bishop Stang | 1441.1 |
+| 64 | Milford | 1433.3 |
+| 65 | Hudson | 1427.2 |
+| 66 | Milton | 1424.7 |
+| 67 | Assabet | 1423.2 |
 | 68 | Wayland | 1412.1 |
-| 69 | Ashland | 1387.9 |
-| 70 | Framingham | 1382.4 |
-| 71 | Brookline | 1374.2 |
-| 72 | Cristo Rey | 1351.7 |
-| 73 | Walpole | 1314.3 |
+| 69 | Whitman-Hanson | 1390.6 |
+| 70 | Ashland | 1387.9 |
+| 71 | Framingham | 1382.4 |
+| 72 | Brookline | 1374.2 |
+| 73 | Cristo Rey | 1351.7 |
+| 74 | Walpole | 1314.3 |

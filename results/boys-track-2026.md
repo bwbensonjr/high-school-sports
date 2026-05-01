@@ -1,6 +1,6 @@
 # Boys Track - 2026 Season
 
-Generated: 2026-04-30 12:13
+Generated: 2026-05-01 11:57
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-04-30 12:13
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-04-30 | Hingham | 109 | Whitman-Hanson | 27 | +6.1 | +82.0 |
 | 2026-04-29 | Advanced Math and Science | 52 | Keefe Tech | 84 | -4.4 | -32.0 |
 | 2026-04-29 | Somerset Berkley | 77 | Apponequet | 59 | +4.3 | +18.0 |
 | 2026-04-29 | Joseph Case | 88 | Seekonk | 48 | +2.0 | +40.0 |
@@ -35,11 +36,11 @@ Generated: 2026-04-30 12:13
 | 4 | Archbishop Williams | 1641.4 |
 | 5 | Burlington | 1620.9 |
 | 6 | Greater New Bedford | 1610.7 |
-| 7 | Attleboro | 1602.5 |
-| 8 | Newton North | 1587.5 |
-| 9 | Diman | 1583.9 |
-| 10 | Dover-Sherborn | 1572.2 |
-| 11 | Hingham | 1567.7 |
+| 7 | Hingham | 1606.6 |
+| 8 | Attleboro | 1602.5 |
+| 9 | Newton North | 1587.5 |
+| 10 | Diman | 1583.9 |
+| 11 | Dover-Sherborn | 1572.2 |
 | 12 | North Andover | 1564.5 |
 | 13 | Central Catholic | 1564.5 |
 | 14 | Somerset Berkley | 1563.9 |
@@ -70,28 +71,28 @@ Generated: 2026-04-30 12:13
 | 39 | Parker Charter | 1469.2 |
 | 40 | Blue Hills | 1468.5 |
 | 41 | Dighton-Rehoboth | 1467.0 |
-| 42 | Whitman-Hanson | 1465.2 |
-| 43 | Boston Latin | 1465.0 |
-| 44 | Essex Tech | 1464.8 |
-| 45 | Lowell | 1463.9 |
-| 46 | Billerica | 1453.9 |
-| 47 | Ashland | 1453.6 |
-| 48 | Andover | 1453.2 |
-| 49 | Middleborough | 1452.9 |
-| 50 | Seekonk | 1452.3 |
-| 51 | Bishop Stang | 1451.5 |
-| 52 | Millis | 1450.0 |
-| 53 | Watertown | 1448.2 |
-| 54 | Bristol-Plymouth | 1447.6 |
-| 55 | Wilmington | 1444.8 |
-| 56 | Apponequet | 1444.7 |
-| 57 | Sandwich | 1444.2 |
-| 58 | North Middlesex | 1440.6 |
-| 59 | Tyngsborough | 1440.3 |
-| 60 | Foxborough | 1440.1 |
-| 61 | Waltham | 1439.2 |
-| 62 | Milford | 1439.0 |
-| 63 | Ipswich | 1433.9 |
+| 42 | Boston Latin | 1465.0 |
+| 43 | Essex Tech | 1464.8 |
+| 44 | Lowell | 1463.9 |
+| 45 | Billerica | 1453.9 |
+| 46 | Ashland | 1453.6 |
+| 47 | Andover | 1453.2 |
+| 48 | Middleborough | 1452.9 |
+| 49 | Seekonk | 1452.3 |
+| 50 | Bishop Stang | 1451.5 |
+| 51 | Millis | 1450.0 |
+| 52 | Watertown | 1448.2 |
+| 53 | Bristol-Plymouth | 1447.6 |
+| 54 | Wilmington | 1444.8 |
+| 55 | Apponequet | 1444.7 |
+| 56 | Sandwich | 1444.2 |
+| 57 | North Middlesex | 1440.6 |
+| 58 | Tyngsborough | 1440.3 |
+| 59 | Foxborough | 1440.1 |
+| 60 | Waltham | 1439.2 |
+| 61 | Milford | 1439.0 |
+| 62 | Ipswich | 1433.9 |
+| 63 | Whitman-Hanson | 1426.3 |
 | 64 | Assabet | 1425.3 |
 | 65 | Wayland | 1423.8 |
 | 66 | Needham | 1423.0 |
