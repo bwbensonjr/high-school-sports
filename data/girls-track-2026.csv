@@ -59,9 +59,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-16,102893,FINAL,Hingham,4171,75.0,1,Silver Lake,4349,61.0,0,Patriot,Patriot,,,0
 2026-04-16,102912,FINAL,Nauset,4271,88.5,1,Sandwich,4340,46.5,0,Cape & Islands,Cape & Islands,,,0
 2026-04-18,103564,FINAL,Greater New Bedford,4156,87.0,1,Apponequet,4011,43.0,0,South Coast,South Coast,,,0
-2026-04-21,103960,FINAL,Attleboro,4018,68,1,Bishop Feehan,4042,63,0,Hockomock,Catholic Central,,,0
-2026-04-21,103962,FINAL,North Attleborough,4284,62,0,Bishop Feehan,4042,66,1,Hockomock,Catholic Central,,,0
-2026-04-21,103963,FINAL,North Attleborough,4284,71,1,Attleboro,4018,61,0,Hockomock,Hockomock,,,0
+2026-04-21,103960,FINAL,Attleboro,4018,68.0,1,Bishop Feehan,4042,63.0,0,Hockomock,Catholic Central,,,0
+2026-04-21,103962,FINAL,North Attleborough,4284,62.0,0,Bishop Feehan,4042,66.0,1,Hockomock,Catholic Central,,,0
+2026-04-21,103963,FINAL,North Attleborough,4284,71.0,1,Attleboro,4018,61.0,0,Hockomock,Hockomock,,,0
 2026-04-28,107812,FINAL,Amesbury,4007,58,0,Ipswich,4190,87,1,Cape Ann,Cape Ann,,,0
 2026-04-28,107824,FINAL,Blue Hills,4047,97,1,Bristol-Plymouth,4057,39,0,Mayflower,Mayflower,,,0
 2026-04-28,107825,FINAL,Weston,4423,97.5,1,Wayland,4411,42.5,0,Dual County,Dual County,,,0

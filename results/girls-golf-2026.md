@@ -1,6 +1,6 @@
 # Girls Golf - 2026 Season
 
-Generated: 2026-05-01 11:57
+Generated: 2026-05-02 11:42
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-05-01 11:57
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-05-01 | Marshfield | 0 | Duxbury | 6 | -0.3 | -6.0 |
 | 2026-04-30 | Walpole | 5 | Bishop Feehan | 1 | -1.0 | +4.0 |
 | 2026-04-30 | Notre Dame (Tyngsborough) | 323 | Duxbury | 287 | -2.4 | +36.0 |
 | 2026-04-30 | Wellesley | 4 | Newton North | 2 | +5.0 | +2.0 |
@@ -32,10 +33,10 @@ Generated: 2026-05-01 11:57
 |------|------|------------|
 | 1 | Hopkinton | 1645.3 |
 | 2 | Wellesley | 1584.6 |
-| 3 | Notre Dame (Tyngsborough) | 1563.4 |
-| 4 | Bishop Feehan | 1558.4 |
-| 5 | Malden Catholic | 1548.9 |
-| 6 | Duxbury | 1546.3 |
+| 3 | Duxbury | 1575.0 |
+| 4 | Notre Dame (Tyngsborough) | 1563.4 |
+| 5 | Bishop Feehan | 1558.4 |
+| 6 | Malden Catholic | 1548.9 |
 | 7 | Walpole | 1534.8 |
 | 8 | Nashoba | 1529.2 |
 | 9 | Nauset | 1525.0 |
@@ -44,19 +45,19 @@ Generated: 2026-05-01 11:57
 | 12 | Braintree | 1509.7 |
 | 13 | Quincy | 1490.8 |
 | 14 | Wachusett | 1490.1 |
-| 15 | Marshfield | 1489.7 |
-| 16 | Newton North | 1489.2 |
-| 17 | Ursuline | 1481.7 |
-| 18 | Notre Dame (Hingham) | 1480.4 |
-| 19 | Cohasset | 1477.7 |
-| 20 | Auburn | 1477.3 |
-| 21 | Archbishop Williams | 1477.1 |
-| 22 | Framingham | 1475.0 |
-| 23 | Falmouth | 1475.0 |
-| 24 | Fontbonne | 1474.1 |
-| 25 | Westborough | 1473.9 |
-| 26 | Dennis-Yarmouth | 1469.2 |
-| 27 | Notre Dame (Worcester) | 1469.2 |
+| 15 | Newton North | 1489.2 |
+| 16 | Ursuline | 1481.7 |
+| 17 | Notre Dame (Hingham) | 1480.4 |
+| 18 | Cohasset | 1477.7 |
+| 19 | Auburn | 1477.3 |
+| 20 | Archbishop Williams | 1477.1 |
+| 21 | Framingham | 1475.0 |
+| 22 | Falmouth | 1475.0 |
+| 23 | Fontbonne | 1474.1 |
+| 24 | Westborough | 1473.9 |
+| 25 | Dennis-Yarmouth | 1469.2 |
+| 26 | Notre Dame (Worcester) | 1469.2 |
+| 27 | Marshfield | 1461.1 |
 | 28 | North Quincy/Quincy | 1460.4 |
 | 29 | Weymouth | 1451.0 |
 | 30 | Silver Lake | 1447.7 |
