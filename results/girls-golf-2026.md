@@ -1,6 +1,6 @@
 # Girls Golf - 2026 Season
 
-Generated: 2026-05-03 11:40
+Generated: 2026-05-04 12:19
 
 ## Upcoming Games
 
@@ -51,8 +51,8 @@ Generated: 2026-05-03 11:40
 | 18 | Cohasset | 1477.7 |
 | 19 | Auburn | 1477.3 |
 | 20 | Archbishop Williams | 1477.1 |
-| 21 | Framingham | 1475.0 |
-| 22 | Falmouth | 1475.0 |
+| 21 | Falmouth | 1475.0 |
+| 22 | Framingham | 1475.0 |
 | 23 | Fontbonne | 1474.1 |
 | 24 | Westborough | 1473.9 |
 | 25 | Dennis-Yarmouth | 1469.2 |

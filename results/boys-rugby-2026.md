@@ -1,6 +1,6 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-05-03 11:40
+Generated: 2026-05-04 12:19
 
 ## Upcoming Games
 
@@ -16,6 +16,10 @@ Generated: 2026-05-03 11:40
 | 2026-05-08 | 4:30 P.M. | Brookline | Milton | 44.4% | -1.6 |
 | 2026-05-13 | 5:30 P.M. | Weymouth | Milton | 27.5% | -6.7 |
 | 2026-05-13 | 5:00 P.M. | Chelmsford | Marshfield/SST | 73.7% | +7.2 |
+| 2026-05-14 | 6:00 P.M. | BC High | Belmont | 70.8% | +6.1 |
+| 2026-05-14 | 6:00 P.M. | Brookline | Blue Hills | 42.6% | -2.1 |
+| 2026-05-14 | 4:30 P.M. | Burncoat | Cambridge | 64.6% | +4.2 |
+| 2026-05-14 | 5:00 P.M. | Hingham/Norwell | Malden Catholic | 55.4% | +1.5 |
 
 ## Recent Games
 

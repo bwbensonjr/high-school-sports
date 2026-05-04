@@ -1,6 +1,6 @@
 # Boys Volleyball - 2026 Season
 
-Generated: 2026-05-03 11:40
+Generated: 2026-05-04 12:19
 
 ## Upcoming Games
 
@@ -17,55 +17,54 @@ Generated: 2026-05-03 11:40
 | 2026-05-04 | 5:00 P.M. | North Andover | Haverhill | 69.6% | +5.8 |
 | 2026-05-05 | 6:00 P.M. | Medfield | King Philip | 74.1% | +7.3 |
 | 2026-05-05 | 6:00 P.M. | Wakefield | Lexington | 27.8% | -6.6 |
-| 2026-05-05 | 5:45 P.M. | Milford | Wayland | 45.6% | -1.2 |
 | 2026-05-05 | 4:00 P.M. | Wellesley | Needham | 30.7% | -5.6 |
-| 2026-05-05 | 5:15 P.M. | Brookline | Milton | 66.5% | +4.8 |
 | 2026-05-05 | 4:00 P.M. | Framingham | Braintree | 30.7% | -5.6 |
 | 2026-05-05 | 4:00 P.M. | Natick | Weymouth | 65.6% | +4.5 |
-| 2026-05-06 | 6:00 P.M. | Waltham/Weston | Newton South | 51.5% | +0.4 |
-| 2026-05-06 | 5:45 P.M. | Cambridge | Milford | 54.5% | +1.3 |
-| 2026-05-06 | 5:00 P.M. | Chelmsford | Andover | 80.1% | +9.7 |
-| 2026-05-06 | 5:00 P.M. | Dighton-Rehoboth | Barnstable | 24.4% | -7.8 |
-| 2026-05-06 | 5:00 P.M. | Greater New Bedford | Taunton | 73.5% | +7.1 |
+| 2026-05-05 | 5:15 P.M. | Brookline | Milton | 66.5% | +4.8 |
+| 2026-05-05 | 5:45 P.M. | Milford | Wayland | 45.6% | -1.2 |
 | 2026-05-06 | 5:15 P.M. | Malden | Revere | 42.7% | -2.0 |
-| 2026-05-06 | 5:30 P.M. | Acton-Boxborough | Wellesley | 71.0% | +6.2 |
 | 2026-05-06 | 5:00 P.M. | Methuen | North Andover | 60.8% | +3.0 |
-| 2026-05-07 | 5:00 P.M. | Chelmsford | Lowell | 55.3% | +1.5 |
-| 2026-05-07 | 6:00 P.M. | Medfield | Norton | 64.1% | +4.0 |
-| 2026-05-07 | 5:30 P.M. | Revere | Academy/Pacific Rim | 82.2% | +10.6 |
+| 2026-05-06 | 5:30 P.M. | Acton-Boxborough | Wellesley | 71.0% | +6.2 |
+| 2026-05-06 | 5:00 P.M. | Greater New Bedford | Taunton | 73.5% | +7.1 |
+| 2026-05-06 | 5:00 P.M. | Chelmsford | Andover | 80.1% | +9.7 |
+| 2026-05-06 | 5:45 P.M. | Cambridge | Milford | 54.5% | +1.3 |
+| 2026-05-06 | 6:00 P.M. | Waltham/Weston | Newton South | 51.5% | +0.4 |
+| 2026-05-06 | 5:00 P.M. | Dighton-Rehoboth | Barnstable | 24.4% | -7.8 |
 | 2026-05-07 | 3:45 P.M. | Attleboro | Milford | 43.0% | -2.0 |
-| 2026-05-07 | 4:00 P.M. | O’Bryant | Madison Park | 65.3% | +4.4 |
-| 2026-05-07 | 4:00 P.M. | Newton North | Needham | 41.4% | -2.4 |
 | 2026-05-07 | 4:30 P.M. | Braintree | Brookline | 46.8% | -0.9 |
-| 2026-05-07 | 5:30 P.M. | Lexington | Winchester | 72.5% | +6.7 |
-| 2026-05-07 | 4:00 P.M. | Wellesley | Milton | 33.9% | -4.6 |
 | 2026-05-07 | 4:00 P.M. | Weymouth | Framingham | 80.2% | +9.7 |
-| 2026-05-08 | 4:00 P.M. | Braintree | Chicopee Comprehensive | 64.0% | +4.0 |
-| 2026-05-08 | 5:30 P.M. | Westford | Wayland | 46.3% | -1.0 |
-| 2026-05-08 | 5:30 P.M. | Newton South | Boston Latin | 66.5% | +4.8 |
-| 2026-05-08 | 5:45 P.M. | Cambridge | Newton North | 62.2% | +3.5 |
-| 2026-05-08 | 4:00 P.M. | Boston United | Greater New Bedford | 46.2% | -1.1 |
-| 2026-05-08 | 5:15 P.M. | O’Bryant | BC High | 56.3% | +1.8 |
+| 2026-05-07 | 4:00 P.M. | Wellesley | Milton | 33.9% | -4.6 |
+| 2026-05-07 | 4:00 P.M. | Newton North | Needham | 41.4% | -2.4 |
+| 2026-05-07 | 5:30 P.M. | Lexington | Winchester | 72.5% | +6.7 |
+| 2026-05-07 | 5:00 P.M. | Chelmsford | Lowell | 55.3% | +1.5 |
+| 2026-05-07 | 5:30 P.M. | Revere | Academy/Pacific Rim | 82.2% | +10.6 |
+| 2026-05-07 | 6:00 P.M. | Medfield | Norton | 64.1% | +4.0 |
+| 2026-05-07 | 4:00 P.M. | O’Bryant | Madison Park | 65.3% | +4.4 |
 | 2026-05-08 | 5:45 P.M. | Waltham/Weston | Acton-Boxborough | 51.2% | +0.3 |
+| 2026-05-08 | 5:15 P.M. | O’Bryant | BC High | 56.3% | +1.8 |
 | 2026-05-08 | 5:00 P.M. | North Andover | Andover | 67.0% | +4.9 |
+| 2026-05-08 | 4:00 P.M. | Boston United | Greater New Bedford | 46.2% | -1.1 |
 | 2026-05-08 | 5:00 P.M. | Barnstable | King Philip | 79.2% | +9.3 |
+| 2026-05-08 | 5:45 P.M. | Cambridge | Newton North | 62.2% | +3.5 |
+| 2026-05-08 | 5:30 P.M. | Newton South | Boston Latin | 66.5% | +4.8 |
+| 2026-05-08 | 5:30 P.M. | Westford | Wayland | 46.3% | -1.0 |
+| 2026-05-08 | 4:00 P.M. | Braintree | Chicopee Comprehensive | 64.0% | +4.0 |
 | 2026-05-11 | 5:30 P.M. | Bellingham | Medfield | 42.6% | -2.1 |
-| 2026-05-11 | 5:15 P.M. | Quincy | Barnstable | 42.1% | -2.2 |
 | 2026-05-11 | 5:15 P.M. | Everett | Revere | 24.2% | -7.9 |
 | 2026-05-11 | 5:15 P.M. | O’Bryant | Greater New Bedford | 38.8% | -3.2 |
+| 2026-05-11 | 5:15 P.M. | Quincy | Barnstable | 42.1% | -2.2 |
 | 2026-05-11 | 6:00 P.M. | Lowell | North Andover | 74.0% | +7.3 |
+| 2026-05-11 | 5:00 P.M. | Chelmsford | Lincoln-Sudbury | 82.8% | +10.9 |
 | 2026-05-11 | 5:15 P.M. | Milford | Taunton | 63.2% | +3.8 |
 | 2026-05-11 | 5:15 P.M. | Lexington | Belmont | 80.1% | +9.7 |
 | 2026-05-11 | 6:15 P.M. | Newton South | Westfield | 34.8% | -4.4 |
 | 2026-05-11 | 4:00 P.M. | Braintree | Hopkinton | 65.5% | +4.5 |
-| 2026-05-11 | 5:00 P.M. | Chelmsford | Lincoln-Sudbury | 82.8% | +10.9 |
 | 2026-05-12 | 5:45 P.M. | Winchester | Acton-Boxborough | 57.7% | +2.2 |
-| 2026-05-12 | 4:00 P.M. | Needham | Natick | 52.0% | +0.5 |
 | 2026-05-12 | 5:30 P.M. | Cambridge | Wayland | 43.0% | -2.0 |
+| 2026-05-12 | 4:00 P.M. | Needham | Natick | 52.0% | +0.5 |
 | 2026-05-12 | 4:30 P.M. | Newton North | Brookline | 35.4% | -4.2 |
 | 2026-05-12 | 5:30 P.M. | Milton | Braintree | 57.5% | +2.1 |
 | 2026-05-12 | 4:00 P.M. | Wellesley | Framingham | 61.0% | +3.1 |
-| 2026-05-13 | 5:30 P.M. | Somerville | Revere | 33.2% | -4.9 |
 | 2026-05-13 | 5:15 P.M. | Wayland | Agawam | 62.9% | +3.7 |
 | 2026-05-13 | 5:30 P.M. | Lexington | Burlington | 77.5% | +8.6 |
 | 2026-05-13 | 6:30 P.M. | Milford | Barnstable | 39.7% | -2.9 |
@@ -73,7 +72,15 @@ Generated: 2026-05-03 11:40
 | 2026-05-13 | 5:00 P.M. | Andover | Lowell | 29.1% | -6.2 |
 | 2026-05-13 | 5:00 P.M. | New Bedford | Greater New Bedford | 36.8% | -3.7 |
 | 2026-05-13 | 5:00 P.M. | Greater New Bedford | Dighton-Rehoboth | 81.4% | +10.3 |
+| 2026-05-13 | 5:30 P.M. | Somerville | Revere | 33.2% | -4.9 |
 | 2026-05-13 | 5:00 P.M. | North Andover | Lincoln-Sudbury | 70.8% | +6.2 |
+| 2026-05-14 | 5:30 P.M. | Acton-Boxborough | Lexington | 39.7% | -2.9 |
+| 2026-05-14 | 4:30 P.M. | Natick | Newton North | 75.7% | +7.9 |
+| 2026-05-14 | 6:00 P.M. | Medfield | Hopkinton | 71.1% | +6.3 |
+| 2026-05-14 | 5:15 P.M. | Brookline | Needham | 63.2% | +3.8 |
+| 2026-05-14 | 4:30 P.M. | Braintree | Wellesley | 77.3% | +8.5 |
+| 2026-05-14 | 5:30 P.M. | Milton | Weymouth | 57.2% | +2.0 |
+| 2026-05-14 | 4:00 P.M. | O’Bryant | Boston United | 49.6% | -0.1 |
 
 ## Recent Games
 
@@ -248,8 +255,8 @@ Generated: 2026-05-03 11:40
 | 65 | Worcester Tech | 1500.1 |
 | 66 | Walpole | 1500.0 |
 | 67 | Pioneer Charter II | 1500.0 |
-| 68 | Codman Charter | 1500.0 |
-| 69 | Phillips Andover | 1500.0 |
+| 68 | Phillips Andover | 1500.0 |
+| 69 | Codman Charter | 1500.0 |
 | 70 | Libertas Academy | 1498.9 |
 | 71 | Arlington | 1498.0 |
 | 72 | Latin Academy | 1497.2 |

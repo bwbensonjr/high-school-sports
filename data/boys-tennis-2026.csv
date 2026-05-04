@@ -106,7 +106,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-01,94274,POSTPONED,Rockland/EB,4331,,,Randolph,4327,,,South Shore,Independent,4:00 P.M.,,0
 2026-04-01,94280,POSTPONED,Cohasset,4094,,,Mashpee,4237,,,South Shore,South Shore,5:00 P.M.,,0
 2026-04-01,94310,POSTPONED,Holliston,4174,,,Dedham,4108,,,Tri-Valley,Tri-Valley,4:00 P.M.,,0
-2026-04-01,94321,UPCOMING,Hopkinton,4180,,,Westwood,4424,,,Tri-Valley,Tri-Valley,4:00 P.M.,,0
 2026-04-01,94357,POSTPONED,Medfield,4241,,,Dover-Sherborn,4118,,,Tri-Valley,Tri-Valley,4:30 P.M.,,0
 2026-04-01,94360,FINAL,Medway,4243,5.0,1.0,Norton,4295,0.0,0.0,Tri-Valley,Tri-Valley,3:45 P.M.,,0
 2026-04-01,95411,POSTPONED,Franklin,4144,,,Foxborough,4142,,,Hockomock,Hockomock,3:45 P.M.,,0
@@ -551,7 +550,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-17,91642,POSTPONED,Algonquin,4005,,,St. John’s (Shrewsbury),4368,,,Mid-Wach,Catholic Conference,4:00 P.M.,,0
 2026-04-17,91703,POSTPONED,Lowell Catholic,4217,,,Nashoba Valley Tech,4268,,,Commonwealth,Commonwealth,4:00 P.M.,,0
 2026-04-17,92261,UPCOMING,Waltham,4405,,,Burlington,4065,,,Dual County,Middlesex,4:00 P.M.,,0
-2026-04-17,92320,UPCOMING,Lincoln-Sudbury,4211,,,Natick,4270,,,Dual County,Bay State,4:15 P.M.,,0
 2026-04-17,92798,UPCOMING,Lynn Classical,4220,,,Medford,4242,,,Greater Boston,Greater Boston,4:00 P.M.,,0
 2026-04-17,92806,POSTPONED,Somerville,4351,,,Everett,4132,,,Greater Boston,Greater Boston,4:00 P.M.,,0
 2026-04-17,93235,POSTPONED,Billerica,4040,,,Methuen,4246,,,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
@@ -584,11 +582,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-22,104448,POSTPONED,Wellesley,4413,,,Newton North,4279,,,Bay State,Bay State,,,0
 2026-04-22,104600,FINAL,Middlesex,4248,6.0,1.0,Lawrence Academy,4204,0.0,0.0,ISL,ISL,,,0
 2026-04-22,105384,FINAL,Berwick,4037,3.0,1.0,Bancroft,4023,2.0,0.0,EIL,EIL,,,0
-2026-04-23,93992,FINAL,Apponequet,4011,0,0,Bourne,4050,5,1,South Coast,South Coast,11:00 A.M.,,0
-2026-04-23,94038,FINAL,Joseph Case,4078,4,1,Seekonk,4344,1,0,South Coast,South Coast,10:00 A.M.,,0
+2026-04-23,93992,FINAL,Apponequet,4011,0.0,0.0,Bourne,4050,5.0,1.0,South Coast,South Coast,11:00 A.M.,,0
+2026-04-23,94038,FINAL,Joseph Case,4078,4.0,1.0,Seekonk,4344,1.0,0.0,South Coast,South Coast,10:00 A.M.,,0
 2026-04-23,104936,UPCOMING,Somerville,4351,,,Everett,4132,,,Greater Boston,Greater Boston,12:00 P.M.,,0
-2026-04-23,104938,FINAL,Wellesley,4413,0,0,Newton North,4279,5,1,Bay State,Bay State,11:00 A.M.,,0
-2026-04-23,105572,FINAL,Berwick,4037,3,1,Bancroft,4023,2,0,EIL,EIL,,,0
+2026-04-23,104938,FINAL,Wellesley,4413,0.0,0.0,Newton North,4279,5.0,1.0,Bay State,Bay State,11:00 A.M.,,0
+2026-04-23,105572,FINAL,Berwick,4037,3.0,1.0,Bancroft,4023,2.0,0.0,EIL,EIL,,,0
 2026-04-24,92803,UPCOMING,Medford,4242,,,Revere,4329,,,Greater Boston,Greater Boston,10:00 P.M.,,0
 2026-04-24,92821,UPCOMING,Lynn English,4221,,,Lynn Classical,4220,,,Greater Boston,Greater Boston,10:00 A.M.,,0
 2026-04-24,105846,FINAL,Lowell,4216,5,1,Everett,4132,0,0,Merrimack Valley,Greater Boston,,,0
@@ -944,3 +942,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-13,108204,UPCOMING,Newburyport,4276,,,Mystic Valley,4264,,,Cape Ann,Cape Ann,4:00 P.M.,,0
 2026-05-13,108245,UPCOMING,Pentucket,4309,,,Lynnfield,4223,,,Cape Ann,Cape Ann,4:00 P.M.,,0
 2026-05-13,108645,UPCOMING,St. Mary’s,4374,,,Arlington Catholic,4014,,,Catholic Central,Catholic Central,3:30 P.M.,,0
+2026-05-14,92320,UPCOMING,Lincoln-Sudbury,4211,,,Natick,4270,,,Dual County,Bay State,4:15 P.M.,,0
+2026-05-14,94321,UPCOMING,Hopkinton,4180,,,Westwood,4424,,,Tri-Valley,Tri-Valley,4:00 P.M.,,0
+2026-05-14,104971,UPCOMING,Newton North,4279,,,Weymouth,4425,,,Bay State,Bay State,4:30 P.M.,,0
+2026-05-14,104987,UPCOMING,Westborough,4418,,,Wellesley,4413,,,Mid-Wach,Bay State,4:00 P.M.,,0
+2026-05-14,105099,UPCOMING,Durfee,4122,,,West Bridgewater,4415,,,Big Three,South Coast,4:00 P.M.,,0
+2026-05-14,105150,UPCOMING,Latin Academy,4202,,,Brockton,4058,,,Boston City,Big Three,4:00 P.M.,,0
+2026-05-14,107873,UPCOMING,Cape Cod Academy,4072,,,Rising Tide Charter,4746,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-05-14,107911,UPCOMING,St. John Paul II,4689,,,Mashpee,4237,,,Cape & Islands,South Shore,4:00 P.M.,,0
