@@ -1,6 +1,6 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-05-04 12:19
+Generated: 2026-05-05 11:59
 
 ## Upcoming Games
 
@@ -20,6 +20,7 @@ Generated: 2026-05-04 12:19
 | 2026-05-14 | 6:00 P.M. | Brookline | Blue Hills | 42.6% | -2.1 |
 | 2026-05-14 | 4:30 P.M. | Burncoat | Cambridge | 64.6% | +4.2 |
 | 2026-05-14 | 5:00 P.M. | Hingham/Norwell | Malden Catholic | 55.4% | +1.5 |
+| 2026-05-15 | 5:00 P.M. | Hanover | Catholic Memorial | 68.8% | +5.5 |
 
 ## Recent Games
 
