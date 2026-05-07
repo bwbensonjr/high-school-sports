@@ -1,6 +1,6 @@
 # Boys Track - 2026 Season
 
-Generated: 2026-05-06 12:26
+Generated: 2026-05-07 12:27
 
 ## Upcoming Games
 
@@ -19,13 +19,6 @@ Generated: 2026-05-06 12:26
 | 2026-05-05 | Arlington Catholic | 64 | Bishop Fenwick | 55 | +3.0 | +9.0 |
 | 2026-05-04 | Somerville | 103 | Everett | 33 | +2.0 | +70.0 |
 | 2026-04-30 | Hingham | 109 | Whitman-Hanson | 27 | +6.1 | +82.0 |
-| 2026-04-29 | Advanced Math and Science | 52 | Keefe Tech | 84 | -4.4 | -32.0 |
-| 2026-04-29 | Somerset Berkley | 77 | Apponequet | 59 | +4.3 | +18.0 |
-| 2026-04-29 | Joseph Case | 88 | Seekonk | 48 | +2.0 | +40.0 |
-| 2026-04-29 | Brookline | 78 | Braintree | 58 | +11.3 | +20.0 |
-| 2026-04-29 | Brookline | 105 | Weymouth | 31 | +6.4 | +74.0 |
-| 2026-04-29 | Brookline | 94 | Wellesley | 42 | +5.2 | +52.0 |
-| 2026-04-29 | Central Catholic | 83 | Lowell | 62 | +3.1 | +21.0 |
 
 ## Current Elo Ratings
 

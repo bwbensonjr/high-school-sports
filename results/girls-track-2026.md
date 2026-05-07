@@ -1,6 +1,6 @@
 # Girls Track - 2026 Season
 
-Generated: 2026-05-06 12:26
+Generated: 2026-05-07 12:27
 
 ## Upcoming Games
 
@@ -11,64 +11,52 @@ Generated: 2026-05-06 12:26
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-05-05 | Canton | 92 | Oliver Ames | 44 | +2.0 | +48.0 |
-| 2026-05-05 | Arlington Catholic | 86 | Bishop Fenwick | 40 | +3.9 | +46.0 |
-| 2026-05-05 | Arlington Catholic | 105 | Bishop Stang | 15 | +4.4 | +90.0 |
-| 2026-05-05 | Uxbridge | 84 | Notre Dame (Worcester) | 47 | +3.3 | +37.0 |
-| 2026-05-05 | Uxbridge | 71 | Blackstone Valley | 60 | +2.0 | +11.0 |
-| 2026-05-05 | West Bridgewater | 79 | Bourne | 56 | +2.5 | +23.0 |
+| 2026-05-06 | Wellesley | 90 | Weymouth | 46 | +8.9 | +44.0 |
+| 2026-05-06 | Wellesley | 79 | Needham | 57 | +5.8 | +22.0 |
+| 2026-05-06 | Wellesley | 73 | Natick | 62 | +3.6 | +11.0 |
 | 2026-05-05 | Ipswich | 90 | Hamilton-Wenham | 55 | +6.7 | +35.0 |
+| 2026-05-05 | West Bridgewater | 79 | Bourne | 56 | +2.5 | +23.0 |
+| 2026-05-05 | Uxbridge | 71 | Blackstone Valley | 60 | +2.0 | +11.0 |
+| 2026-05-05 | Uxbridge | 84 | Notre Dame (Worcester) | 47 | +3.3 | +37.0 |
+| 2026-05-05 | Arlington Catholic | 105 | Bishop Stang | 15 | +4.4 | +90.0 |
+| 2026-05-05 | Arlington Catholic | 86 | Bishop Fenwick | 40 | +3.9 | +46.0 |
+| 2026-05-05 | Canton | 92 | Oliver Ames | 44 | +2.0 | +48.0 |
 | 2026-05-04 | Somerville | 96 | Everett | 34 | +2.0 | +62.0 |
-| 2026-04-30 | Peabody | 88 | Danvers | 44 | +3.6 | +44.3 |
 | 2026-04-30 | Hingham | 76 | Whitman-Hanson | 53 | +6.9 | +23.0 |
-| 2026-04-29 | Milton | 78 | Walpole | 57 | +3.7 | +21.0 |
-| 2026-04-29 | Masconomet | 101 | Marblehead | 35 | +6.1 | +66.0 |
-| 2026-04-29 | Advanced Math and Science | 97 | Keefe Tech | 39 | +0.6 | +58.0 |
-| 2026-04-29 | Joseph Case | 56 | Seekonk | 78 | +2.0 | -22.0 |
-| 2026-04-29 | Walpole | 55 | Natick | 81 | -7.6 | -26.0 |
-| 2026-04-29 | Newton North | 94 | Framingham | 42 | +14.6 | +52.0 |
-| 2026-04-29 | Newton North | 78 | Needham | 54 | +5.2 | +24.0 |
-| 2026-04-29 | Needham | 69 | Framingham | 66 | +9.5 | +3.0 |
-| 2026-04-29 | Wellesley | 105 | Brookline | 35 | +10.8 | +70.0 |
-| 2026-04-29 | Wellesley | 80 | Braintree | 56 | +6.4 | +24.0 |
-| 2026-04-29 | Braintree | 80 | Brookline | 56 | +2.1 | +24.0 |
-| 2026-04-29 | Braintree | 71 | Weymouth | 65 | -1.7 | +6.0 |
-| 2026-04-29 | Weymouth | 75 | Brookline | 61 | +1.6 | +14.0 |
-| 2026-04-29 | Somerset Berkley | 71 | Apponequet | 64 | +0.7 | +7.0 |
-| 2026-04-29 | Natick | 76 | Milton | 60 | +11.4 | +16.0 |
+| 2026-04-30 | Peabody | 88 | Danvers | 44 | +3.6 | +44.3 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Newton North | 1723.4 |
-| 2 | Cardinal Spellman | 1671.5 |
-| 3 | Natick | 1652.6 |
+| 2 | Wellesley | 1720.5 |
+| 3 | Cardinal Spellman | 1671.5 |
 | 4 | Ipswich | 1646.3 |
 | 5 | Hopkinton | 1642.3 |
 | 6 | Masconomet | 1639.9 |
 | 7 | Weston | 1639.6 |
-| 8 | Wellesley | 1639.5 |
-| 9 | Advanced Math and Science | 1631.6 |
+| 8 | Advanced Math and Science | 1631.6 |
+| 9 | Natick | 1624.8 |
 | 10 | Nashoba | 1605.3 |
 | 11 | Greater New Bedford | 1594.6 |
 | 12 | Arlington Catholic | 1589.1 |
 | 13 | Peabody | 1583.0 |
 | 14 | Uxbridge | 1573.9 |
-| 15 | Needham | 1568.6 |
-| 16 | Central Catholic | 1567.5 |
-| 17 | Sharon | 1566.7 |
-| 18 | Hingham | 1564.9 |
-| 19 | Ayer Shirley | 1555.3 |
-| 20 | Norwell | 1554.2 |
-| 21 | Seekonk | 1553.8 |
-| 22 | Somerville | 1553.3 |
-| 23 | Dover-Sherborn | 1551.7 |
-| 24 | Keefe Tech | 1550.2 |
-| 25 | Canton | 1550.0 |
-| 26 | Nauset | 1548.4 |
-| 27 | Marshfield | 1546.0 |
-| 28 | Westwood | 1544.7 |
+| 15 | Central Catholic | 1567.5 |
+| 16 | Sharon | 1566.7 |
+| 17 | Hingham | 1564.9 |
+| 18 | Ayer Shirley | 1555.3 |
+| 19 | Norwell | 1554.2 |
+| 20 | Seekonk | 1553.8 |
+| 21 | Somerville | 1553.3 |
+| 22 | Dover-Sherborn | 1551.7 |
+| 23 | Keefe Tech | 1550.2 |
+| 24 | Canton | 1550.0 |
+| 25 | Nauset | 1548.4 |
+| 26 | Marshfield | 1546.0 |
+| 27 | Westwood | 1544.7 |
+| 28 | Needham | 1540.2 |
 | 29 | Archbishop Williams | 1535.7 |
 | 30 | Tri-County | 1530.8 |
 | 31 | Dighton-Rehoboth | 1527.6 |
@@ -88,29 +76,29 @@ Generated: 2026-05-06 12:26
 | 45 | Hamilton-Wenham | 1470.2 |
 | 46 | Blackstone Valley | 1468.1 |
 | 47 | Parker Charter | 1467.8 |
-| 48 | Weymouth | 1467.4 |
-| 49 | Norwood | 1464.1 |
-| 50 | Marblehead | 1463.0 |
-| 51 | Holliston | 1461.1 |
-| 52 | Swampscott | 1459.7 |
-| 53 | Notre Dame (Worcester) | 1458.1 |
-| 54 | Bishop Fenwick | 1458.0 |
-| 55 | Danvers | 1457.3 |
-| 56 | Millis | 1453.2 |
-| 57 | Braintree | 1453.0 |
-| 58 | Marlborough | 1451.9 |
-| 59 | Amesbury | 1451.7 |
-| 60 | Sandwich | 1451.6 |
-| 61 | Salem | 1450.3 |
-| 62 | Oliver Ames | 1450.0 |
-| 63 | Essex Tech | 1449.1 |
-| 64 | Andover | 1447.4 |
-| 65 | Everett | 1446.7 |
-| 66 | Beverly | 1446.7 |
-| 67 | Joseph Case | 1446.2 |
-| 68 | Middleborough | 1445.8 |
-| 69 | Tyngsborough | 1444.7 |
-| 70 | North Middlesex | 1442.7 |
+| 48 | Norwood | 1464.1 |
+| 49 | Marblehead | 1463.0 |
+| 50 | Holliston | 1461.1 |
+| 51 | Swampscott | 1459.7 |
+| 52 | Notre Dame (Worcester) | 1458.1 |
+| 53 | Bishop Fenwick | 1458.0 |
+| 54 | Danvers | 1457.3 |
+| 55 | Millis | 1453.2 |
+| 56 | Braintree | 1453.0 |
+| 57 | Marlborough | 1451.9 |
+| 58 | Amesbury | 1451.7 |
+| 59 | Sandwich | 1451.6 |
+| 60 | Salem | 1450.3 |
+| 61 | Oliver Ames | 1450.0 |
+| 62 | Essex Tech | 1449.1 |
+| 63 | Andover | 1447.4 |
+| 64 | Everett | 1446.7 |
+| 65 | Beverly | 1446.7 |
+| 66 | Joseph Case | 1446.2 |
+| 67 | Middleborough | 1445.8 |
+| 68 | Tyngsborough | 1444.7 |
+| 69 | North Middlesex | 1442.7 |
+| 70 | Weymouth | 1442.5 |
 | 71 | Bristol-Plymouth | 1442.2 |
 | 72 | Milford | 1433.3 |
 | 73 | Hudson | 1427.2 |

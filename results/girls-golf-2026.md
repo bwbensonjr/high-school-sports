@@ -1,6 +1,6 @@
 # Girls Golf - 2026 Season
 
-Generated: 2026-05-06 12:26
+Generated: 2026-05-07 12:27
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-05-06 12:26
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-05-06 | Ursuline | 4 | Fontbonne | 2 | +1.9 | +2.0 |
 | 2026-05-05 | Malden Catholic | 4 | Ursuline | 2 | +4.7 | +2.0 |
 | 2026-05-05 | Duxbury | 6 | Cohasset | 0 | +5.9 | +6.0 |
 | 2026-05-05 | Silver Lake | 1 | Scituate | 4 | -0.1 | -3.0 |
@@ -23,8 +24,6 @@ Generated: 2026-05-06 12:26
 | 2026-04-30 | Wellesley | 4 | Newton North | 2 | +5.0 | +2.0 |
 | 2026-04-30 | Nashoba | 33 | Worcester | 9 | +6.1 | +24.0 |
 | 2026-04-30 | Hopkinton | 38 | Westborough | 15 | +6.8 | +23.0 |
-| 2026-04-29 | Duxbury | 6 | North Quincy/Quincy | 0 | +6.7 | +6.0 |
-| 2026-04-29 | Hopkinton | 31 | Notre Dame (Hingham) | 23 | +6.0 | +8.0 |
 
 ## Current Elo Ratings
 
@@ -45,19 +44,19 @@ Generated: 2026-05-06 12:26
 | 13 | Braintree | 1490.6 |
 | 14 | Wachusett | 1490.1 |
 | 15 | Newton North | 1489.2 |
-| 16 | Notre Dame (Hingham) | 1480.4 |
-| 17 | Quabbin | 1479.6 |
-| 18 | Auburn | 1477.3 |
-| 19 | Archbishop Williams | 1477.1 |
-| 20 | Framingham | 1475.0 |
+| 16 | Ursuline | 1484.8 |
+| 17 | Notre Dame (Hingham) | 1480.4 |
+| 18 | Quabbin | 1479.6 |
+| 19 | Auburn | 1477.3 |
+| 20 | Archbishop Williams | 1477.1 |
 | 21 | Falmouth | 1475.0 |
-| 22 | Fontbonne | 1474.1 |
+| 22 | Framingham | 1475.0 |
 | 23 | Westborough | 1473.9 |
-| 24 | Ursuline | 1470.5 |
-| 25 | Dennis-Yarmouth | 1469.2 |
-| 26 | Notre Dame (Worcester) | 1469.2 |
-| 27 | Marshfield | 1461.1 |
-| 28 | Cohasset | 1460.2 |
+| 24 | Dennis-Yarmouth | 1469.2 |
+| 25 | Notre Dame (Worcester) | 1469.2 |
+| 26 | Marshfield | 1461.1 |
+| 27 | Cohasset | 1460.2 |
+| 28 | Fontbonne | 1459.8 |
 | 29 | Weymouth | 1451.0 |
 | 30 | North Quincy/Quincy | 1443.9 |
 | 31 | Silver Lake | 1427.0 |

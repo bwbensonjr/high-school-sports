@@ -1,12 +1,11 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-05-06 12:26
+Generated: 2026-05-07 12:27
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-05-06 | 5:00 P.M. | St. John’s Prep | BC High | 47.0% | -0.8 |
 | 2026-05-07 | 5:30 P.M. | Weymouth | Hanover | 43.8% | -1.7 |
 | 2026-05-07 | 5:00 P.M. | Blue Hills | Algonquin/Westboro | 63.2% | +3.8 |
 | 2026-05-07 | 4:30 P.M. | Lincoln-Sudbury | Catholic Memorial | 49.8% | -0.0 |
