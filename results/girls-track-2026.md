@@ -1,6 +1,6 @@
 # Girls Track - 2026 Season
 
-Generated: 2026-05-07 12:27
+Generated: 2026-05-08 12:06
 
 ## Upcoming Games
 
@@ -22,8 +22,6 @@ Generated: 2026-05-07 12:27
 | 2026-05-05 | Arlington Catholic | 86 | Bishop Fenwick | 40 | +3.9 | +46.0 |
 | 2026-05-05 | Canton | 92 | Oliver Ames | 44 | +2.0 | +48.0 |
 | 2026-05-04 | Somerville | 96 | Everett | 34 | +2.0 | +62.0 |
-| 2026-04-30 | Hingham | 76 | Whitman-Hanson | 53 | +6.9 | +23.0 |
-| 2026-04-30 | Peabody | 88 | Danvers | 44 | +3.6 | +44.3 |
 
 ## Current Elo Ratings
 
@@ -92,8 +90,8 @@ Generated: 2026-05-07 12:27
 | 61 | Oliver Ames | 1450.0 |
 | 62 | Essex Tech | 1449.1 |
 | 63 | Andover | 1447.4 |
-| 64 | Everett | 1446.7 |
-| 65 | Beverly | 1446.7 |
+| 64 | Beverly | 1446.7 |
+| 65 | Everett | 1446.7 |
 | 66 | Joseph Case | 1446.2 |
 | 67 | Middleborough | 1445.8 |
 | 68 | Tyngsborough | 1444.7 |

@@ -1,6 +1,6 @@
 # Boys Track - 2026 Season
 
-Generated: 2026-05-07 12:27
+Generated: 2026-05-08 12:06
 
 ## Upcoming Games
 
@@ -18,7 +18,6 @@ Generated: 2026-05-07 12:27
 | 2026-05-05 | Arlington Catholic | 65 | Bishop Stang | 55 | +3.9 | +10.0 |
 | 2026-05-05 | Arlington Catholic | 64 | Bishop Fenwick | 55 | +3.0 | +9.0 |
 | 2026-05-04 | Somerville | 103 | Everett | 33 | +2.0 | +70.0 |
-| 2026-04-30 | Hingham | 109 | Whitman-Hanson | 27 | +6.1 | +82.0 |
 
 ## Current Elo Ratings
 
