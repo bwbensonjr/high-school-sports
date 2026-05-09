@@ -1,6 +1,6 @@
 # Girls Track - 2026 Season
 
-Generated: 2026-05-08 12:06
+Generated: 2026-05-09 11:49
 
 ## Upcoming Games
 
@@ -90,8 +90,8 @@ Generated: 2026-05-08 12:06
 | 61 | Oliver Ames | 1450.0 |
 | 62 | Essex Tech | 1449.1 |
 | 63 | Andover | 1447.4 |
-| 64 | Beverly | 1446.7 |
-| 65 | Everett | 1446.7 |
+| 64 | Everett | 1446.7 |
+| 65 | Beverly | 1446.7 |
 | 66 | Joseph Case | 1446.2 |
 | 67 | Middleborough | 1445.8 |
 | 68 | Tyngsborough | 1444.7 |

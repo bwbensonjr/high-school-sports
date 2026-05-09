@@ -22,10 +22,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-27,107379,FINAL,Bishop Feehan,4042,31.0,1,Auburn,4019,23.0,0,Independent,Independent,,,0
 2026-04-27,107423,FINAL,North Quincy/Quincy,4287,3.5,1,Marshfield,4234,2.5,0,Patriot,Independent,3:15 P.M.,,0
 2026-04-27,107630,FINAL,Braintree,4051,0.0,0,Wellesley,4413,6.0,1,Bay State,Bay State,,,0
-2026-04-28,107632,FINAL,Weymouth,4425,0,0,Wellesley,4413,6,1,Bay State,Bay State,,,0
-2026-04-28,107634,FINAL,Braintree,4051,5,1,Weymouth,4425,1,0,Bay State,Bay State,,,0
-2026-04-28,107814,FINAL,Quabbin,4325,23,1,Nashoba,4267,19,0,Mid-Wach,Independent,,,0
-2026-04-28,107822,FINAL,Malden Catholic,4228,4,1,Fontbonne,4447,2,0,Catholic Conference,Catholic Conference,,,0
+2026-04-28,107632,FINAL,Weymouth,4425,0.0,0,Wellesley,4413,6.0,1,Bay State,Bay State,,,0
+2026-04-28,107634,FINAL,Braintree,4051,5.0,1,Weymouth,4425,1.0,0,Bay State,Bay State,,,0
+2026-04-28,107814,FINAL,Quabbin,4325,23.0,1,Nashoba,4267,19.0,0,Mid-Wach,Independent,,,0
+2026-04-28,107822,FINAL,Malden Catholic,4228,4.0,1,Fontbonne,4447,2.0,0,Catholic Conference,Catholic Conference,,,0
 2026-04-29,108348,FINAL,Duxbury,4123,6,1,North Quincy/Quincy,4287,0,0,Patriot,Patriot,,,0
 2026-04-29,108411,FINAL,Hopkinton,4180,31,1,Notre Dame (Hingham),4449,23,0,Independent,Catholic Conference,,,0
 2026-04-30,108933,FINAL,Walpole,4404,5,1,Bishop Feehan,4042,1,0,Bay State,Independent,,,0
@@ -50,3 +50,4 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-07,112232,FINAL,Malden Catholic,4228,5,1,Archbishop Williams,4012,1,0,Catholic Conference,Independent,,,0
 2026-05-07,112239,FINAL,Ursuline,4448,5,1,Fontbonne,4447,1,0,Catholic Conference,Catholic Conference,,,0
 2026-05-07,112255,FINAL,Nauset,4271,6,1,Falmouth,4134,0,0,Cape & Islands,Cape & Islands,,,0
+2026-05-08,112768,FINAL,Quabbin,4325,30.5,1,Wachusett,4400,23.5,0,Mid-Wach,Mid-Wach,,,0
