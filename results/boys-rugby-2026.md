@@ -1,6 +1,6 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-05-09 11:49
+Generated: 2026-05-10 11:49
 
 ## Upcoming Games
 
@@ -14,6 +14,8 @@ Generated: 2026-05-09 11:49
 | 2026-05-14 | 5:00 P.M. | Hingham/Norwell | Malden Catholic | 55.4% | +1.5 |
 | 2026-05-15 | 5:00 P.M. | Hanover | Catholic Memorial | 68.8% | +5.5 |
 | 2026-05-19 | 6:00 P.M. | Catholic Memorial | Milton | 28.2% | -6.5 |
+| 2026-05-20 | 6:00 P.M. | Xaverian | St. John’s Prep | 58.0% | +2.2 |
+| 2026-05-20 | 3:30 P.M. | Blue Hills | Hanover | 74.7% | +7.5 |
 
 ## Recent Games
 
