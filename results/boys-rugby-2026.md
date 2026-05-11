@@ -1,6 +1,6 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-05-10 11:49
+Generated: 2026-05-11 13:46
 
 ## Upcoming Games
 
@@ -16,6 +16,8 @@ Generated: 2026-05-10 11:49
 | 2026-05-19 | 6:00 P.M. | Catholic Memorial | Milton | 28.2% | -6.5 |
 | 2026-05-20 | 6:00 P.M. | Xaverian | St. John’s Prep | 58.0% | +2.2 |
 | 2026-05-20 | 3:30 P.M. | Blue Hills | Hanover | 74.7% | +7.5 |
+| 2026-05-21 | 6:00 P.M. | Belmont | Weymouth | 69.8% | +5.8 |
+| 2026-05-21 | 6:00 P.M. | Algonquin/Westboro | Brookline | 65.1% | +4.3 |
 
 ## Recent Games
 

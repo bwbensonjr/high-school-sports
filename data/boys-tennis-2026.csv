@@ -752,22 +752,22 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-29,108048,FINAL,Westwood,4424,3.0,1.0,Ashland,4015,2.0,0.0,Tri-Valley,Tri-Valley,4:30 P.M.,,0
 2026-04-29,108050,FINAL,Newton South,4280,5.0,1.0,Boston Latin,4049,0.0,0.0,Dual County,Dual County,4:30 P.M.,,0
 2026-04-29,108053,FINAL,Winthrop,4437,0.0,0.0,Gloucester,4150,5.0,1.0,Northeastern,Northeastern,4:30 P.M.,,0
-2026-04-30,104955,FINAL,Needham,4272,3,1,Newton North,4279,2,0,Bay State,Bay State,4:30 P.M.,,0
+2026-04-30,104955,FINAL,Needham,4272,3.0,1.0,Newton North,4279,2.0,0.0,Bay State,Bay State,4:30 P.M.,,0
 2026-04-30,105022,POSTPONED,Framingham,4143,,,Braintree,4051,,,Bay State,Bay State,4:00 P.M.,,0
 2026-04-30,105141,UPCOMING,Rockland/EB,4331,,,Brockton,4058,,,South Shore,Big Three,4:00 P.M.,,0
 2026-04-30,107868,UPCOMING,Monomoy,4706,,,Cape Cod Academy,4072,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-04-30,108193,UPCOMING,Danvers,4103,,,Mystic Valley,4264,,,Northeastern,Cape Ann,4:00 P.M.,,0
 2026-04-30,108636,POSTPONED,Shrewsbury,4348,,,Acton-Boxborough,4003,,,Mid-Wach,Dual County,3:00 P.M.,,0
-2026-04-30,108637,FINAL,Foxborough,4142,2,0,Franklin,4144,3,1,Hockomock,Hockomock,3:30 P.M.,,0
-2026-04-30,108639,FINAL,Somerset Berkley,4350,4,1,Joseph Case,4078,1,0,South Coast,South Coast,3:30 P.M.,,0
+2026-04-30,108637,FINAL,Foxborough,4142,2.0,0.0,Franklin,4144,3.0,1.0,Hockomock,Hockomock,3:30 P.M.,,0
+2026-04-30,108639,FINAL,Somerset Berkley,4350,4.0,1.0,Joseph Case,4078,1.0,0.0,South Coast,South Coast,3:30 P.M.,,0
 2026-04-30,108640,POSTPONED,Fairhaven,4133,,,Bourne,4050,,,South Coast,South Coast,3:30 P.M.,,0
 2026-04-30,108642,POSTPONED,Seekonk,4344,,,West Bridgewater,4415,,,South Coast,South Coast,3:30 P.M.,,0
 2026-04-30,108644,UPCOMING,Bishop Stang,4045,,,Cardinal Spellman,4075,,,Catholic Central,Catholic Central,3:30 P.M.,,0
 2026-04-30,108649,POSTPONED,Chelmsford,4085,,,Lowell Catholic,4217,,,Merrimack Valley,Commonwealth,3:45 P.M.,,0
-2026-04-30,108650,FINAL,Hopkinton,4180,5,1,Medway,4243,0,0,Tri-Valley,Tri-Valley,4:00 P.M.,,0
+2026-04-30,108650,FINAL,Hopkinton,4180,5.0,1.0,Medway,4243,0.0,0.0,Tri-Valley,Tri-Valley,4:00 P.M.,,0
 2026-04-30,108653,POSTPONED,Ashland,4015,,,Norton,4295,,,Tri-Valley,Tri-Valley,4:00 P.M.,,0
 2026-04-30,108656,POSTPONED,Quincy,4326,,,Duxbury,4123,,,Patriot,Patriot,4:00 P.M.,,0
-2026-04-30,108661,FINAL,Minnechaug,4254,5,1,Belchertown,4032,0,0,Independent,Independent,4:00 P.M.,,0
+2026-04-30,108661,FINAL,Minnechaug,4254,5.0,1.0,Belchertown,4032,0.0,0.0,Independent,Independent,4:00 P.M.,,0
 2026-04-30,108662,POSTPONED,Beverly,4038,,,Marblehead,4231,,,Northeastern,Northeastern,4:00 P.M.,,0
 2026-04-30,108669,POSTPONED,Marlborough,4233,,,Sutton,4512,,,Mid-Wach,Independent,4:00 P.M.,,0
 2026-04-30,108674,POSTPONED,North Reading,4288,,,Lynnfield,4223,,,Cape Ann,Cape Ann,4:00 P.M.,,0
@@ -780,7 +780,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-30,108712,UPCOMING,Cohasset,4094,,,Randolph,4327,,,South Shore,Independent,4:15 P.M.,,0
 2026-04-30,108713,POSTPONED,Lee,4206,,,Mt. Greylock,4262,,,Independent,Independent,4:15 P.M.,,0
 2026-04-30,108720,UPCOMING,Somerville,4351,,,Watertown,4409,,,Greater Boston,Middlesex,4:30 P.M.,,0
-2026-04-30,108721,FINAL,Dedham,4108,1,0,Dover-Sherborn,4118,4,1,Tri-Valley,Tri-Valley,7:00 P.M.,,0
+2026-04-30,108721,FINAL,Dedham,4108,1.0,0.0,Dover-Sherborn,4118,4.0,1.0,Tri-Valley,Tri-Valley,7:00 P.M.,,0
 2026-04-30,109167,UPCOMING,Malden Catholic,4228,,,Beverly,4038,,,Catholic Conference,Northeastern,4:00 P.M.,,0
 2026-05-01,94363,FINAL,Milford,4249,4,1,Norton,4295,1,0,Hockomock,Tri-Valley,3:45 P.M.,,0
 2026-05-01,104956,UPCOMING,Newton North,4279,,,St. John’s Prep,4369,,,Bay State,Catholic Conference,4:00 P.M.,,0

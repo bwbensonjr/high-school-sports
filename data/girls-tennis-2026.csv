@@ -788,8 +788,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-30,108729,POSTPONED,Joseph Case,4078,,,Somerset Berkley,4350,,,South Coast,South Coast,3:30 P.M.,,0
 2026-04-30,108730,POSTPONED,Apponequet,4011,,,Dighton-Rehoboth,4114,,,South Coast,South Coast,3:30 P.M.,,0
 2026-04-30,108732,POSTPONED,West Bridgewater,4415,,,Seekonk,4344,,,South Coast,South Coast,3:30 P.M.,,0
-2026-04-30,108733,FINAL,Hamilton-Wenham,4163,4,1,Masconomet,4236,1,0,Cape Ann,Northeastern,3:30 P.M.,,0
-2026-04-30,108736,FINAL,Franklin,4144,5,1,Foxborough,4142,0,0,Hockomock,Hockomock,3:30 P.M.,,0
+2026-04-30,108733,FINAL,Hamilton-Wenham,4163,4.0,1.0,Masconomet,4236,1.0,0.0,Cape Ann,Northeastern,3:30 P.M.,,0
+2026-04-30,108736,FINAL,Franklin,4144,5.0,1.0,Foxborough,4142,0.0,0.0,Hockomock,Hockomock,3:30 P.M.,,0
 2026-04-30,108738,UPCOMING,Ursuline,4448,,,Notre Dame (Hingham),4449,,,Catholic Conference,Catholic Conference,3:45 P.M.,,0
 2026-04-30,108740,POSTPONED,Medway,4243,,,Hopkinton,4180,,,Tri-Valley,Tri-Valley,3:45 P.M.,,0
 2026-04-30,108745,POSTPONED,Duxbury,4123,,,Quincy,4326,,,Patriot,Patriot,4:00 P.M.,,0
@@ -798,7 +798,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-30,108754,UPCOMING,Notre Dame (Tyngsborough),4540,,,Chelmsford,4085,,,Commonwealth,Merrimack Valley,4:00 P.M.,,0
 2026-04-30,108755,POSTPONED,Chicopee,4088,,,Turners Falls,4396,,,Independent,Independent,4:00 P.M.,,0
 2026-04-30,108756,UPCOMING,Randolph,4327,,,Cohasset,4094,,,South Shore,South Shore,4:00 P.M.,,0
-2026-04-30,108759,FINAL,Westborough,4418,4,1,Bromfield,4505,1,0,Mid-Wach,Mid-Wach,4:00 P.M.,,0
+2026-04-30,108759,FINAL,Westborough,4418,4.0,1.0,Bromfield,4505,1.0,0.0,Mid-Wach,Mid-Wach,4:00 P.M.,,0
 2026-04-30,108761,POSTPONED,North Quincy,4287,,,Plymouth South,4316,,,Patriot,Patriot,4:00 P.M.,,0
 2026-04-30,108764,POSTPONED,Bishop Feehan,4042,,,Malden Catholic,4228,,,Independent,Independent,4:00 P.M.,,0
 2026-04-30,108765,UPCOMING,Saugus,4341,,,Triton,4395,,,Northeastern,Cape Ann,4:00 P.M.,,0
@@ -809,7 +809,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-30,108783,UPCOMING,Norton,4295,,,Ashland,4015,,,Tri-Valley,Tri-Valley,4:30 P.M.,,0
 2026-04-30,108785,POSTPONED,Shrewsbury,4348,,,Concord-Carlisle,4097,,,Mid-Wach,Dual County,4:30 P.M.,,0
 2026-04-30,108788,POSTPONED,Longmeadow,4214,,,Amherst-Pelham,4008,,,Independent,Independent,4:30 P.M.,,0
-2026-04-30,109103,FINAL,Latin Academy/East Boston/O’Bryant,4202,5,1,Maimonides,4473,0,0,Boston City,Independent,,,0
+2026-04-30,109103,FINAL,Latin Academy/East Boston/O’Bryant,4202,5.0,1.0,Maimonides,4473,0.0,0.0,Boston City,Independent,,,0
 2026-04-30,109189,UPCOMING,Clinton,4093,,,West Boylston,4414,,,Mid-Wach,Mid-Wach,3:30 P.M.,,0
 2026-04-30,109300,UPCOMING,Newton South,4280,,,Lincoln-Sudbury,4211,,,Dual County,Dual County,4:30 P.M.,,0
 2026-05-01,95064,FINAL,Beverly,4038,0,0,Lynnfield,4223,5,1,Northeastern,Cape Ann,4:00 P.M.,,0
@@ -991,6 +991,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-05,111150,FINAL,Thayer,4390,9,1,Lawrence Academy,4204,0,0,ISL,ISL,,,0
 2026-05-05,111183,FINAL,Fontbonne,4447,0,0,Notre Dame (Hingham),4449,5,1,Catholic Conference,Catholic Conference,,,0
 2026-05-05,111201,FINAL,Leominster,4208,3,1,Hudson,4182,2,0,Mid-Wach,Mid-Wach,,,0
+2026-05-05,112968,FINAL,Bridgewater-Raynham,4053,1,0,Barnstable,4024,4,1,Pioneer,Pioneer,,,0
 2026-05-06,111308,UPCOMING,Hamilton-Wenham,4163,,,Amesbury,4007,,,Cape Ann,Cape Ann,4:00 P.M.,,0
 2026-05-06,111310,FINAL,Martha’s Vineyard,4235,5,1,Sandwich,4340,0,0,Cape & Islands,Cape & Islands,3:00 P.M.,,0
 2026-05-06,111311,UPCOMING,St. Mary’s,4374,,,Lowell Catholic,4217,,,Catholic Central,Commonwealth,3:00 P.M.,,0
@@ -1143,6 +1144,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-08,112776,FINAL,Notre Dame (Worcester),4451,4,1,Grafton,4153,1,0,Independent,Independent,,,0
 2026-05-09,112897,FINAL,Thayer,4390,9,1,Brooks,4060,0,0,ISL,ISL,,,0
 2026-05-09,112912,FINAL,Nobles,4282,7,1,Tabor,4384,2,0,ISL,ISL,,,0
+2026-05-09,112971,FINAL,Newburyport,4276,5,1,Marblehead,4231,0,0,Cape Ann,Northeastern,,,0
 2026-05-11,94744,UPCOMING,Rockland,4331,,,Brockton,4058,,,South Shore,Big Three,4:00 P.M.,,0
 2026-05-11,97939,UPCOMING,Ashland,4015,,,Norwood,4297,,,Tri-Valley,Tri-Valley,4:30 P.M.,,0
 2026-05-11,111376,UPCOMING,Waltham,4405,,,Newton South,4280,,,Dual County,Dual County,4:30 P.M.,,0
