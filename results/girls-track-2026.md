@@ -1,6 +1,6 @@
 # Girls Track - 2026 Season
 
-Generated: 2026-05-11 13:46
+Generated: 2026-05-12 13:03
 
 ## Upcoming Games
 
@@ -23,14 +23,13 @@ Generated: 2026-05-11 13:46
 | 2026-05-06 | Walpole | 90 | Framingham | 46 | -0.3 | +44.0 |
 | 2026-05-06 | Wellesley | 79 | Needham | 57 | +5.8 | +22.0 |
 | 2026-05-06 | Wellesley | 90 | Weymouth | 46 | +8.9 | +44.0 |
-| 2026-05-05 | Ipswich | 90 | Hamilton-Wenham | 55 | +6.7 | +35.0 |
+| 2026-05-05 | West Bridgewater | 79 | Bourne | 56 | +2.5 | +23.0 |
 | 2026-05-05 | Canton | 92 | Oliver Ames | 44 | +2.0 | +48.0 |
 | 2026-05-05 | Arlington Catholic | 86 | Bishop Fenwick | 40 | +3.9 | +46.0 |
 | 2026-05-05 | Arlington Catholic | 105 | Bishop Stang | 15 | +4.4 | +90.0 |
 | 2026-05-05 | Uxbridge | 84 | Notre Dame (Worcester) | 47 | +3.3 | +37.0 |
 | 2026-05-05 | Uxbridge | 71 | Blackstone Valley | 60 | +2.0 | +11.0 |
-| 2026-05-05 | West Bridgewater | 79 | Bourne | 56 | +2.5 | +23.0 |
-| 2026-05-04 | Somerville | 96 | Everett | 34 | +2.0 | +62.0 |
+| 2026-05-05 | Ipswich | 90 | Hamilton-Wenham | 55 | +6.7 | +35.0 |
 
 ## Current Elo Ratings
 

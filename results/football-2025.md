@@ -1,6 +1,6 @@
 # Football - 2025 Season
 
-Generated: 2026-05-11 13:46
+Generated: 2026-05-12 13:02
 
 ## Upcoming Games
 
@@ -188,8 +188,8 @@ Generated: 2026-05-11 13:46
 | 170 | Newton North | 1504.2 |
 | 171 | Bartlett | 1503.7 |
 | 172 | Woburn | 1503.2 |
-| 173 | Forman | 1501.7 |
-| 174 | Capital Prep (Conn.) | 1501.7 |
+| 173 | Capital Prep (Conn.) | 1501.7 |
+| 174 | Forman | 1501.7 |
 | 175 | Taunton | 1501.0 |
 | 176 | Martha’s Vineyard | 1501.0 |
 | 177 | Silver Lake | 1499.0 |

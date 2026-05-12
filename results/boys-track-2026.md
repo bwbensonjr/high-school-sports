@@ -1,6 +1,6 @@
 # Boys Track - 2026 Season
 
-Generated: 2026-05-11 13:46
+Generated: 2026-05-12 13:02
 
 ## Upcoming Games
 
@@ -17,7 +17,6 @@ Generated: 2026-05-11 13:46
 | 2026-05-05 | Uxbridge | 86 | Blackstone Valley | 50 | +2.0 | +36.0 |
 | 2026-05-05 | Arlington Catholic | 65 | Bishop Stang | 55 | +3.9 | +10.0 |
 | 2026-05-05 | Arlington Catholic | 64 | Bishop Fenwick | 55 | +3.0 | +9.0 |
-| 2026-05-04 | Somerville | 103 | Everett | 33 | +2.0 | +70.0 |
 
 ## Current Elo Ratings
 

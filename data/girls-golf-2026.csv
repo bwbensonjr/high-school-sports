@@ -33,7 +33,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-30,108964,FINAL,Wellesley,4413,4.0,1,Newton North,4279,2.0,0,Bay State,Bay State,,,0
 2026-04-30,108993,FINAL,Nashoba,4267,33.0,1,Worcester,4066,9.0,0,Independent,Independent,,,0
 2026-04-30,109017,FINAL,Hopkinton,4180,38.5,1,Westborough,4418,15.5,0,Independent,Mid-Wach,,,0
-2026-05-01,109464,FINAL,Marshfield,4234,0,0,Duxbury,4123,6,1,Independent,Patriot,,,0
+2026-05-01,109464,FINAL,Marshfield,4234,0.0,0,Duxbury,4123,6.0,1,Independent,Patriot,,,0
 2026-05-04,110210,FINAL,Wellesley,4413,6,1,Braintree,4051,0,0,Bay State,Bay State,,,0
 2026-05-04,110273,FINAL,Hingham,4171,5,1,North Quincy/Quincy,4287,1,0,Patriot,Patriot,,,0
 2026-05-04,110360,FINAL,Quabbin,4325,19.5,0,Hopkinton,4180,34.5,1,Mid-Wach,Independent,,,0
@@ -51,3 +51,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-07,112239,FINAL,Ursuline,4448,5,1,Fontbonne,4447,1,0,Catholic Conference,Catholic Conference,,,0
 2026-05-07,112255,FINAL,Nauset,4271,6,1,Falmouth,4134,0,0,Cape & Islands,Cape & Islands,,,0
 2026-05-08,112768,FINAL,Quabbin,4325,30.5,1,Wachusett,4400,23.5,0,Mid-Wach,Mid-Wach,,,0
+2026-05-11,113438,FINAL,Barnstable,4024,310,0,Duxbury,4123,263,1,Cape & Islands,Patriot,,,0
+2026-05-11,113440,FINAL,Silver Lake,4349,3,0,North Quincy/Quincy,4287,3.5,1,Patriot,Patriot,,,0
+2026-05-11,113446,FINAL,Wellesley,4413,6,1,Brookline,4059,0,0,Bay State,Bay State,,,0
+2026-05-11,113488,FINAL,Nauset,4271,4.5,1,Monomoy,4706,3.5,0,Cape & Islands,Cape & Islands,,,0
