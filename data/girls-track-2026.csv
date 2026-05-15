@@ -84,7 +84,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-29,108522,FINAL,Masconomet,4236,101.0,1,Marblehead,4231,35.0,0,Northeastern,Northeastern,,,0
 2026-04-30,108931,FINAL,Hingham,4171,76.0,1,Whitman-Hanson,4427,53.0,0,Patriot,Patriot,,,0
 2026-04-30,109025,FINAL,Peabody,4306,88.6,1,Danvers,4103,44.3,0,Northeastern,Northeastern,,,0
-2026-05-04,110781,FINAL,Somerville,4351,96,1,Everett,4132,34,0,Greater Boston,Greater Boston,,,0
+2026-05-04,110781,FINAL,Somerville,4351,96.0,1,Everett,4132,34.0,0,Greater Boston,Greater Boston,,,0
 2026-05-05,111160,FINAL,Ipswich,4190,90,1,Hamilton-Wenham,4163,55,0,Cape Ann,Cape Ann,,,0
 2026-05-05,111180,FINAL,West Bridgewater,4415,79,1,Bourne,4050,56,0,South Coast,South Coast,,,0
 2026-05-05,111204,FINAL,Uxbridge,4398,71,1,Blackstone Valley,4046,60,0,Independent,Independent,,,0
@@ -110,3 +110,4 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-12,114247,FINAL,Bishop Feehan,4042,97,1,Archbishop Williams,4012,38,0,Independent,Catholic Central,,,0
 2026-05-13,114513,FINAL,Keefe Tech,4191,116,1,Abby Kelley Foster,4503,21,0,Independent,Independent,,,0
 2026-05-13,114621,FINAL,Nashoba,4267,117,1,Leominster,4208,28,0,Mid-Wach,Mid-Wach,,,0
+2026-05-13,115099,FINAL,Apponequet,4011,63,0,Dighton-Rehoboth,4114,73,1,South Coast,South Coast,,,0

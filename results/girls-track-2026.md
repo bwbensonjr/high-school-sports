@@ -1,6 +1,6 @@
 # Girls Track - 2026 Season
 
-Generated: 2026-05-14 12:23
+Generated: 2026-05-15 12:51
 
 ## Upcoming Games
 
@@ -13,6 +13,7 @@ Generated: 2026-05-14 12:23
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-05-13 | Keefe Tech | 116 | Abby Kelley Foster | 21 | +4.0 | +95.0 |
 | 2026-05-13 | Nashoba | 117 | Leominster | 28 | +6.2 | +89.0 |
+| 2026-05-13 | Apponequet | 63 | Dighton-Rehoboth | 73 | -0.1 | -10.0 |
 | 2026-05-12 | West Bridgewater | 87 | Bourne | 47 | +5.6 | +40.0 |
 | 2026-05-12 | Peabody | 84 | Beverly | 52 | +7.4 | +32.0 |
 | 2026-05-12 | Peabody | 87 | Marblehead | 48 | +7.9 | +39.0 |
@@ -41,19 +42,19 @@ Generated: 2026-05-14 12:23
 | 17 | Sharon | 1566.7 |
 | 18 | Hingham | 1564.9 |
 | 19 | Bishop Feehan | 1563.9 |
-| 20 | Ayer Shirley | 1555.3 |
-| 21 | Norwell | 1554.2 |
-| 22 | Seekonk | 1553.8 |
-| 23 | Somerville | 1553.3 |
-| 24 | Dover-Sherborn | 1551.7 |
-| 25 | Canton | 1550.0 |
-| 26 | Nauset | 1548.4 |
-| 27 | Marshfield | 1546.0 |
-| 28 | Westwood | 1544.7 |
-| 29 | Needham | 1532.9 |
-| 30 | Tri-County | 1530.8 |
-| 31 | West Bridgewater | 1529.8 |
-| 32 | Dighton-Rehoboth | 1527.6 |
+| 20 | Dighton-Rehoboth | 1563.4 |
+| 21 | Ayer Shirley | 1555.3 |
+| 22 | Norwell | 1554.2 |
+| 23 | Seekonk | 1553.8 |
+| 24 | Somerville | 1553.3 |
+| 25 | Dover-Sherborn | 1551.7 |
+| 26 | Canton | 1550.0 |
+| 27 | Nauset | 1548.4 |
+| 28 | Marshfield | 1546.0 |
+| 29 | Westwood | 1544.7 |
+| 30 | Needham | 1532.9 |
+| 31 | Tri-County | 1530.8 |
+| 32 | West Bridgewater | 1529.8 |
 | 33 | Blue Hills | 1527.0 |
 | 34 | North Attleborough | 1507.1 |
 | 35 | Somerset Berkley | 1502.1 |
@@ -65,33 +66,33 @@ Generated: 2026-05-14 12:23
 | 41 | Lynnfield | 1482.7 |
 | 42 | Archbishop Williams | 1477.9 |
 | 43 | Waltham | 1476.2 |
-| 44 | Apponequet | 1475.8 |
-| 45 | Boston Latin | 1472.0 |
-| 46 | Hamilton-Wenham | 1470.2 |
-| 47 | Blackstone Valley | 1468.1 |
-| 48 | Parker Charter | 1467.8 |
-| 49 | Norwood | 1464.1 |
-| 50 | Holliston | 1461.1 |
-| 51 | Leominster | 1460.8 |
-| 52 | Swampscott | 1459.7 |
-| 53 | Notre Dame (Worcester) | 1458.1 |
-| 54 | Bishop Fenwick | 1458.0 |
-| 55 | Danvers | 1457.3 |
-| 56 | Millis | 1453.2 |
-| 57 | Marlborough | 1451.9 |
-| 58 | Amesbury | 1451.7 |
-| 59 | Sandwich | 1451.6 |
-| 60 | Abby Kelley Foster | 1450.8 |
-| 61 | Salem | 1450.3 |
-| 62 | Oliver Ames | 1450.0 |
-| 63 | Essex Tech | 1449.1 |
-| 64 | Andover | 1447.4 |
-| 65 | Everett | 1446.7 |
-| 66 | Joseph Case | 1446.2 |
-| 67 | Middleborough | 1445.8 |
-| 68 | Tyngsborough | 1444.7 |
-| 69 | North Middlesex | 1442.7 |
-| 70 | Bristol-Plymouth | 1442.2 |
+| 44 | Boston Latin | 1472.0 |
+| 45 | Hamilton-Wenham | 1470.2 |
+| 46 | Blackstone Valley | 1468.1 |
+| 47 | Parker Charter | 1467.8 |
+| 48 | Norwood | 1464.1 |
+| 49 | Holliston | 1461.1 |
+| 50 | Leominster | 1460.8 |
+| 51 | Swampscott | 1459.7 |
+| 52 | Notre Dame (Worcester) | 1458.1 |
+| 53 | Bishop Fenwick | 1458.0 |
+| 54 | Danvers | 1457.3 |
+| 55 | Millis | 1453.2 |
+| 56 | Marlborough | 1451.9 |
+| 57 | Amesbury | 1451.7 |
+| 58 | Sandwich | 1451.6 |
+| 59 | Abby Kelley Foster | 1450.8 |
+| 60 | Salem | 1450.3 |
+| 61 | Oliver Ames | 1450.0 |
+| 62 | Essex Tech | 1449.1 |
+| 63 | Andover | 1447.4 |
+| 64 | Everett | 1446.7 |
+| 65 | Joseph Case | 1446.2 |
+| 66 | Middleborough | 1445.8 |
+| 67 | Tyngsborough | 1444.7 |
+| 68 | North Middlesex | 1442.7 |
+| 69 | Bristol-Plymouth | 1442.2 |
+| 70 | Apponequet | 1440.0 |
 | 71 | Marblehead | 1436.1 |
 | 72 | Milford | 1433.3 |
 | 73 | Hudson | 1427.2 |

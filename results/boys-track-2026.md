@@ -1,6 +1,6 @@
 # Boys Track - 2026 Season
 
-Generated: 2026-05-14 12:23
+Generated: 2026-05-15 12:51
 
 ## Upcoming Games
 
@@ -14,6 +14,8 @@ Generated: 2026-05-14 12:23
 | 2026-05-13 | Keefe Tech | 79 | Abby Kelley Foster | 57 | +7.7 | +22.0 |
 | 2026-05-13 | Leominster | 74 | Nashoba | 71 | -0.4 | +3.0 |
 | 2026-05-13 | Burlington | 67 | Melrose | 69 | +6.8 | -2.0 |
+| 2026-05-13 | Chelmsford | 72 | Central Catholic | 73 | -0.6 | -1.0 |
+| 2026-05-13 | Dighton-Rehoboth | 74 | Apponequet | 61 | +2.9 | +13.0 |
 | 2026-05-12 | West Bridgewater | 77 | Joseph Case | 57 | -3.5 | +20.0 |
 | 2026-05-12 | Canton | 71 | Mansfield | 65 | +1.5 | +6.0 |
 | 2026-05-12 | Bishop Feehan | 109 | Archbishop Williams | 26 | -3.1 | +83.0 |
@@ -32,9 +34,9 @@ Generated: 2026-05-14 12:23
 | 8 | Bishop Feehan | 1594.2 |
 | 9 | Newton North | 1587.5 |
 | 10 | Diman | 1583.9 |
-| 11 | Dover-Sherborn | 1572.2 |
-| 12 | North Andover | 1564.5 |
-| 13 | Central Catholic | 1564.5 |
+| 11 | Central Catholic | 1574.4 |
+| 12 | Dover-Sherborn | 1572.2 |
+| 13 | North Andover | 1564.5 |
 | 14 | Somerset Berkley | 1563.9 |
 | 15 | Sharon | 1561.0 |
 | 16 | Archbishop Williams | 1560.2 |
@@ -61,33 +63,33 @@ Generated: 2026-05-14 12:23
 | 37 | West Bridgewater | 1520.0 |
 | 38 | Canton | 1513.7 |
 | 39 | Lynnfield | 1511.5 |
-| 40 | Silver Lake | 1497.9 |
-| 41 | Weymouth | 1493.1 |
-| 42 | Wakefield | 1486.1 |
-| 43 | Natick | 1480.6 |
-| 44 | Norton | 1477.8 |
-| 45 | Abby Kelley Foster | 1476.6 |
-| 46 | Mansfield | 1474.0 |
-| 47 | Bishop Fenwick | 1472.9 |
-| 48 | Plymouth North | 1469.2 |
-| 49 | Parker Charter | 1469.2 |
-| 50 | Blue Hills | 1468.5 |
-| 51 | Dighton-Rehoboth | 1467.0 |
-| 52 | Boston Latin | 1465.0 |
-| 53 | Essex Tech | 1464.8 |
-| 54 | Lowell | 1463.9 |
-| 55 | Billerica | 1453.9 |
-| 56 | Blackstone Valley | 1453.6 |
-| 57 | Ashland | 1453.6 |
-| 58 | Andover | 1453.2 |
-| 59 | Middleborough | 1452.9 |
-| 60 | Seekonk | 1452.3 |
-| 61 | Millis | 1450.0 |
-| 62 | Watertown | 1448.2 |
-| 63 | Bristol-Plymouth | 1447.6 |
-| 64 | Everett | 1445.2 |
-| 65 | Wilmington | 1444.8 |
-| 66 | Apponequet | 1444.7 |
+| 40 | Dighton-Rehoboth | 1498.5 |
+| 41 | Silver Lake | 1497.9 |
+| 42 | Weymouth | 1493.1 |
+| 43 | Chelmsford | 1490.0 |
+| 44 | Wakefield | 1486.1 |
+| 45 | Natick | 1480.6 |
+| 46 | Norton | 1477.8 |
+| 47 | Abby Kelley Foster | 1476.6 |
+| 48 | Mansfield | 1474.0 |
+| 49 | Bishop Fenwick | 1472.9 |
+| 50 | Plymouth North | 1469.2 |
+| 51 | Parker Charter | 1469.2 |
+| 52 | Blue Hills | 1468.5 |
+| 53 | Boston Latin | 1465.0 |
+| 54 | Essex Tech | 1464.8 |
+| 55 | Lowell | 1463.9 |
+| 56 | Billerica | 1453.9 |
+| 57 | Blackstone Valley | 1453.6 |
+| 58 | Ashland | 1453.6 |
+| 59 | Andover | 1453.2 |
+| 60 | Middleborough | 1452.9 |
+| 61 | Seekonk | 1452.3 |
+| 62 | Millis | 1450.0 |
+| 63 | Watertown | 1448.2 |
+| 64 | Bristol-Plymouth | 1447.6 |
+| 65 | Everett | 1445.2 |
+| 66 | Wilmington | 1444.8 |
 | 67 | Sandwich | 1444.2 |
 | 68 | North Middlesex | 1440.6 |
 | 69 | Tyngsborough | 1440.3 |
@@ -100,10 +102,11 @@ Generated: 2026-05-14 12:23
 | 76 | Wayland | 1423.8 |
 | 77 | Needham | 1423.0 |
 | 78 | Framingham | 1418.5 |
-| 79 | Advanced Math and Science | 1409.0 |
-| 80 | Milton | 1404.4 |
-| 81 | Bourne | 1398.6 |
-| 82 | Ipswich | 1396.2 |
-| 83 | Braintree | 1377.1 |
-| 84 | North Attleborough | 1359.9 |
-| 85 | Cristo Rey | 1350.0 |
+| 79 | Apponequet | 1413.2 |
+| 80 | Advanced Math and Science | 1409.0 |
+| 81 | Milton | 1404.4 |
+| 82 | Bourne | 1398.6 |
+| 83 | Ipswich | 1396.2 |
+| 84 | Braintree | 1377.1 |
+| 85 | North Attleborough | 1359.9 |
+| 86 | Cristo Rey | 1350.0 |

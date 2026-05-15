@@ -1,6 +1,6 @@
 # Girls Golf - 2026 Season
 
-Generated: 2026-05-14 12:23
+Generated: 2026-05-15 12:51
 
 ## Upcoming Games
 
@@ -11,30 +11,23 @@ Generated: 2026-05-14 12:23
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-05-13 | Notre Dame (Hingham) | 0 | Ursuline | 6 | +1.1 | -6.0 |
-| 2026-05-13 | Nashoba | 29 | Wachusett | 17 | +5.7 | +12.0 |
+| 2026-05-14 | Wellesley | 6 | Framingham | 0 | +9.2 | +6.0 |
 | 2026-05-13 | Duxbury | 5 | Scituate | 1 | +2.7 | +4.0 |
+| 2026-05-13 | Nashoba | 29 | Wachusett | 17 | +5.7 | +12.0 |
+| 2026-05-13 | Notre Dame (Hingham) | 0 | Ursuline | 6 | +1.1 | -6.0 |
 | 2026-05-12 | Hingham | 4 | Cohasset | 2 | +5.2 | +2.0 |
 | 2026-05-11 | Barnstable | 310 | Duxbury | 263 | -2.2 | +47.0 |
-| 2026-05-11 | Nauset | 4 | Monomoy | 3 | +3.8 | +1.0 |
-| 2026-05-11 | Wellesley | 6 | Brookline | 0 | +7.6 | +6.0 |
 | 2026-05-11 | Silver Lake | 3 | North Quincy/Quincy | 3 | +0.8 | -0.5 |
+| 2026-05-11 | Wellesley | 6 | Brookline | 0 | +7.6 | +6.0 |
+| 2026-05-11 | Nauset | 4 | Monomoy | 3 | +3.8 | +1.0 |
 | 2026-05-08 | Quabbin | 30 | Wachusett | 23 | +1.6 | +7.0 |
-| 2026-05-07 | Notre Dame (Worcester) | 16 | Bishop Feehan | 22 | -1.6 | -6.0 |
-| 2026-05-07 | Nauset | 6 | Falmouth | 0 | +4.0 | +6.0 |
-| 2026-05-07 | Ursuline | 5 | Fontbonne | 1 | +3.0 | +4.0 |
-| 2026-05-07 | Malden Catholic | 5 | Archbishop Williams | 1 | +5.3 | +4.0 |
-| 2026-05-07 | Duxbury | 6 | Silver Lake | 0 | +8.6 | +6.0 |
-| 2026-05-07 | Nashoba | 30 | Westborough | 20 | +4.2 | +10.0 |
-| 2026-05-07 | Worcester | 1 | Bishop Feehan | 29 | -6.6 | -28.0 |
-| 2026-05-07 | Wellesley | 5 | Needham | 1 | +8.1 | +4.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Hopkinton | 1677.0 |
-| 2 | Wellesley | 1654.5 |
+| 2 | Wellesley | 1666.8 |
 | 3 | Bishop Feehan | 1612.6 |
 | 4 | Nashoba | 1578.1 |
 | 5 | Malden Catholic | 1575.3 |
@@ -53,9 +46,9 @@ Generated: 2026-05-14 12:23
 | 18 | Newton North | 1489.2 |
 | 19 | Brookline | 1485.3 |
 | 20 | Auburn | 1477.3 |
-| 21 | Framingham | 1475.0 |
-| 22 | Dennis-Yarmouth | 1469.2 |
-| 23 | Needham | 1463.8 |
+| 21 | Dennis-Yarmouth | 1469.2 |
+| 22 | Needham | 1463.8 |
+| 23 | Framingham | 1462.7 |
 | 24 | Archbishop Williams | 1461.7 |
 | 25 | Marshfield | 1461.1 |
 | 26 | Falmouth | 1454.0 |
