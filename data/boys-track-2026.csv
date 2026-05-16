@@ -69,12 +69,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-04-29,108493,FINAL,Central Catholic,4081,83.0,1,Lowell,4216,62.0,0,Merrimack Valley,Merrimack Valley,,,0
 2026-04-30,108915,FINAL,Hingham,4171,109.0,1,Whitman-Hanson,4427,27.0,0,Patriot,Patriot,,,0
 2026-05-04,110779,FINAL,Somerville,4351,103.0,1,Everett,4132,33.0,0,Greater Boston,Greater Boston,,,0
-2026-05-05,111155,FINAL,Ipswich,4190,65,0,Hamilton-Wenham,4163,78,1,Cape Ann,Cape Ann,,,0
-2026-05-05,111177,FINAL,West Bridgewater,4415,55,0,Joseph Case,4078,81,1,South Coast,South Coast,,,0
-2026-05-05,111181,FINAL,Oliver Ames,4302,82,1,Canton,4071,54,0,Hockomock,Hockomock,,,0
-2026-05-05,111202,FINAL,Uxbridge,4398,86,1,Blackstone Valley,4046,50,0,Independent,Independent,,,0
-2026-05-05,111219,FINAL,Arlington Catholic,4014,65,1,Bishop Stang,4045,55,0,Catholic Central,Catholic Central,,,0
-2026-05-05,111220,FINAL,Arlington Catholic,4014,64,1,Bishop Fenwick,4043,55,0,Catholic Central,Catholic Central,,,0
+2026-05-05,111155,FINAL,Ipswich,4190,65.0,0,Hamilton-Wenham,4163,78.0,1,Cape Ann,Cape Ann,,,0
+2026-05-05,111177,FINAL,West Bridgewater,4415,55.0,0,Joseph Case,4078,81.0,1,South Coast,South Coast,,,0
+2026-05-05,111181,FINAL,Oliver Ames,4302,82.0,1,Canton,4071,54.0,0,Hockomock,Hockomock,,,0
+2026-05-05,111202,FINAL,Uxbridge,4398,86.0,1,Blackstone Valley,4046,50.0,0,Independent,Independent,,,0
+2026-05-05,111219,FINAL,Arlington Catholic,4014,65.0,1,Bishop Stang,4045,55.0,0,Catholic Central,Catholic Central,,,0
+2026-05-05,111220,FINAL,Arlington Catholic,4014,64.0,1,Bishop Fenwick,4043,55.0,0,Catholic Central,Catholic Central,,,0
 2026-05-12,114120,FINAL,West Bridgewater,4415,77,1,Joseph Case,4078,57,0,South Coast,South Coast,,,0
 2026-05-12,114132,FINAL,Canton,4071,71,1,Mansfield,4230,65,0,Hockomock,Hockomock,,,0
 2026-05-12,114246,FINAL,Bishop Feehan,4042,109,1,Archbishop Williams,4012,26,0,Independent,Catholic Central,,,0
@@ -83,3 +83,4 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-13,114641,FINAL,Burlington,4065,67,0,Melrose,4244,69,1,Middlesex,Middlesex,,,0
 2026-05-13,115105,FINAL,Chelmsford,4085,72,0,Central Catholic,4081,73,1,Merrimack Valley,Merrimack Valley,,,0
 2026-05-13,115107,FINAL,Dighton-Rehoboth,4114,74,1,Apponequet,4011,61,0,South Coast,South Coast,,,0
+2026-05-15,115627,FINAL,Whitman-Hanson,4427,69,1,Duxbury,4123,67,0,Patriot,Patriot,4:00 P.M.,,0

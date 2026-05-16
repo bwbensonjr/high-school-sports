@@ -1,6 +1,6 @@
 # Girls Golf - 2026 Season
 
-Generated: 2026-05-15 12:51
+Generated: 2026-05-16 11:48
 
 ## Upcoming Games
 
@@ -20,7 +20,6 @@ Generated: 2026-05-15 12:51
 | 2026-05-11 | Silver Lake | 3 | North Quincy/Quincy | 3 | +0.8 | -0.5 |
 | 2026-05-11 | Wellesley | 6 | Brookline | 0 | +7.6 | +6.0 |
 | 2026-05-11 | Nauset | 4 | Monomoy | 3 | +3.8 | +1.0 |
-| 2026-05-08 | Quabbin | 30 | Wachusett | 23 | +1.6 | +7.0 |
 
 ## Current Elo Ratings
 
