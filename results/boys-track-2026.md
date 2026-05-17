@@ -1,6 +1,6 @@
 # Boys Track - 2026 Season
 
-Generated: 2026-05-16 11:48
+Generated: 2026-05-17 11:58
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-05-16 11:48
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-05-16 | Central Catholic | 73 | Chelmsford | 72 | +5.4 | +1.0 |
 | 2026-05-15 | Whitman-Hanson | 69 | Duxbury | 67 | -0.9 | +2.0 |
 | 2026-05-13 | Keefe Tech | 79 | Abby Kelley Foster | 57 | +7.7 | +22.0 |
 | 2026-05-13 | Leominster | 74 | Nashoba | 71 | -0.4 | +3.0 |
@@ -35,7 +36,7 @@ Generated: 2026-05-16 11:48
 | 8 | Bishop Feehan | 1594.2 |
 | 9 | Newton North | 1587.5 |
 | 10 | Diman | 1583.9 |
-| 11 | Central Catholic | 1574.4 |
+| 11 | Central Catholic | 1581.0 |
 | 12 | Dover-Sherborn | 1572.2 |
 | 13 | North Andover | 1564.5 |
 | 14 | Somerset Berkley | 1563.9 |
@@ -67,8 +68,8 @@ Generated: 2026-05-16 11:48
 | 40 | Dighton-Rehoboth | 1498.5 |
 | 41 | Silver Lake | 1497.9 |
 | 42 | Weymouth | 1493.1 |
-| 43 | Chelmsford | 1490.0 |
-| 44 | Wakefield | 1486.1 |
+| 43 | Wakefield | 1486.1 |
+| 44 | Chelmsford | 1483.5 |
 | 45 | Duxbury | 1482.4 |
 | 46 | Natick | 1480.6 |
 | 47 | Norton | 1477.8 |
