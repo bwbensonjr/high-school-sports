@@ -1,6 +1,6 @@
 # Boys Volleyball - 2026 Season
 
-Generated: 2026-05-17 11:58
+Generated: 2026-05-18 14:28
 
 ## Upcoming Games
 
@@ -318,9 +318,9 @@ Generated: 2026-05-17 11:58
 | 60 | Cambridge | 1506.7 |
 | 61 | Longmeadow | 1504.7 |
 | 62 | Salem Academy | 1500.1 |
-| 63 | Phillips Andover | 1500.0 |
-| 64 | Pioneer Charter II | 1500.0 |
-| 65 | Walpole | 1500.0 |
+| 63 | Walpole | 1500.0 |
+| 64 | Phillips Andover | 1500.0 |
+| 65 | Pioneer Charter II | 1500.0 |
 | 66 | Collegiate Charter | 1498.9 |
 | 67 | Springfield Sci-Tech | 1497.3 |
 | 68 | Doherty | 1496.0 |

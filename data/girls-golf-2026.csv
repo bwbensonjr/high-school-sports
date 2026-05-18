@@ -42,14 +42,14 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-05,111198,FINAL,Silver Lake,4349,1.5,0,Scituate,4343,4.5,1,Patriot,Independent,,,0
 2026-05-05,112166,FINAL,Needham,4272,0.0,0,Wellesley,4413,6.0,1,Bay State,Bay State,,,0
 2026-05-06,111673,FINAL,Ursuline,4448,4.0,1,Fontbonne,4447,2.0,0,Catholic Conference,Catholic Conference,,,0
-2026-05-07,112164,FINAL,Wellesley,4413,5,1,Needham,4272,1,0,Bay State,Bay State,,,0
+2026-05-07,112164,FINAL,Wellesley,4413,5.0,1,Needham,4272,1.0,0,Bay State,Bay State,,,0
 2026-05-07,112168,FINAL,Notre Dame (Worcester),4451,16.5,0,Bishop Feehan,4042,22.5,1,Independent,Independent,,,0
-2026-05-07,112170,FINAL,Worcester,4066,1,0,Bishop Feehan,4042,29,1,Independent,Independent,,,0
+2026-05-07,112170,FINAL,Worcester,4066,1.0,0,Bishop Feehan,4042,29.0,1,Independent,Independent,,,0
 2026-05-07,112214,FINAL,Nashoba,4267,30.5,1,Westborough,4418,20.5,0,Independent,Mid-Wach,,,0
-2026-05-07,112227,FINAL,Duxbury,4123,6,1,Silver Lake,4349,0,0,Patriot,Patriot,,,0
-2026-05-07,112232,FINAL,Malden Catholic,4228,5,1,Archbishop Williams,4012,1,0,Catholic Conference,Independent,,,0
-2026-05-07,112239,FINAL,Ursuline,4448,5,1,Fontbonne,4447,1,0,Catholic Conference,Catholic Conference,,,0
-2026-05-07,112255,FINAL,Nauset,4271,6,1,Falmouth,4134,0,0,Cape & Islands,Cape & Islands,,,0
+2026-05-07,112227,FINAL,Duxbury,4123,6.0,1,Silver Lake,4349,0.0,0,Patriot,Patriot,,,0
+2026-05-07,112232,FINAL,Malden Catholic,4228,5.0,1,Archbishop Williams,4012,1.0,0,Catholic Conference,Independent,,,0
+2026-05-07,112239,FINAL,Ursuline,4448,5.0,1,Fontbonne,4447,1.0,0,Catholic Conference,Catholic Conference,,,0
+2026-05-07,112255,FINAL,Nauset,4271,6.0,1,Falmouth,4134,0.0,0,Cape & Islands,Cape & Islands,,,0
 2026-05-08,112768,FINAL,Quabbin,4325,30.5,1,Wachusett,4400,23.5,0,Mid-Wach,Mid-Wach,,,0
 2026-05-11,113438,FINAL,Barnstable,4024,310,0,Duxbury,4123,263,1,Cape & Islands,Patriot,,,0
 2026-05-11,113440,FINAL,Silver Lake,4349,3,0,North Quincy/Quincy,4287,3.5,1,Patriot,Patriot,,,0
