@@ -61,3 +61,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-13,114635,FINAL,Notre Dame (Hingham),4449,0,0,Ursuline,4448,6,1,Catholic Conference,Catholic Conference,,,0
 2026-05-14,115094,FINAL,Wellesley,4413,6,1,Framingham,4143,0,0,Bay State,Bay State,,,0
 2026-05-18,116363,FINAL,Hingham,4171,2,0,Notre Dame (Hingham),4449,4,1,Patriot,Catholic Conference,,,0
+2026-05-19,116736,FINAL,Brookline,4059,1,0,Wellesley,4413,5,1,Bay State,Bay State,,,0
+2026-05-19,116813,FINAL,Duxbury,4123,128,1,Hingham,4171,118,0,Patriot,Patriot,,,0
+2026-05-19,116822,FINAL,Hopkinton,4180,28,1,Nashoba,4267,17,0,Independent,Independent,,,0

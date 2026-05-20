@@ -1,6 +1,6 @@
 # Girls Track - 2026 Season
 
-Generated: 2026-05-19 13:53
+Generated: 2026-05-20 13:36
 
 ## Upcoming Games
 
@@ -15,10 +15,6 @@ Generated: 2026-05-19 13:53
 | 2026-05-13 | Keefe Tech | 116 | Abby Kelley Foster | 21 | +4.0 | +95.0 |
 | 2026-05-13 | Nashoba | 117 | Leominster | 28 | +6.2 | +89.0 |
 | 2026-05-13 | Apponequet | 63 | Dighton-Rehoboth | 73 | -0.1 | -10.0 |
-| 2026-05-12 | West Bridgewater | 87 | Bourne | 47 | +5.6 | +40.0 |
-| 2026-05-12 | Peabody | 84 | Beverly | 52 | +7.4 | +32.0 |
-| 2026-05-12 | Peabody | 87 | Marblehead | 48 | +7.9 | +39.0 |
-| 2026-05-12 | Bishop Feehan | 97 | Archbishop Williams | 38 | +0.8 | +59.0 |
 
 ## Current Elo Ratings
 

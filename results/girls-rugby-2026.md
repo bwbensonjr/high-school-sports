@@ -1,6 +1,6 @@
 # Girls Rugby - 2026 Season
 
-Generated: 2026-05-19 13:53
+Generated: 2026-05-20 13:36
 
 ## Upcoming Games
 
@@ -12,9 +12,8 @@ Generated: 2026-05-19 13:53
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-05-12 | Needham | 46 | Cambridge | 5 | +4.4 | +41.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 

@@ -1,6 +1,6 @@
 # Girls Golf - 2026 Season
 
-Generated: 2026-05-19 13:53
+Generated: 2026-05-20 13:36
 
 ## Upcoming Games
 
@@ -11,38 +11,40 @@ Generated: 2026-05-19 13:53
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-05-19 | Brookline | 1 | Wellesley | 5 | -5.3 | -4.0 |
+| 2026-05-19 | Duxbury | 128 | Hingham | 118 | +3.2 | +10.0 |
+| 2026-05-19 | Hopkinton | 28 | Nashoba | 17 | +6.0 | +11.0 |
 | 2026-05-18 | Hingham | 2 | Notre Dame (Hingham) | 4 | +6.1 | -2.0 |
 | 2026-05-14 | Wellesley | 6 | Framingham | 0 | +9.2 | +6.0 |
 | 2026-05-13 | Duxbury | 5 | Scituate | 1 | +2.7 | +4.0 |
 | 2026-05-13 | Nashoba | 29 | Wachusett | 17 | +5.7 | +12.0 |
 | 2026-05-13 | Notre Dame (Hingham) | 0 | Ursuline | 6 | +1.1 | -6.0 |
-| 2026-05-12 | Hingham | 4 | Cohasset | 2 | +5.2 | +2.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Hopkinton | 1677.0 |
-| 2 | Wellesley | 1666.8 |
+| 1 | Hopkinton | 1699.2 |
+| 2 | Wellesley | 1682.2 |
 | 3 | Bishop Feehan | 1612.6 |
-| 4 | Nashoba | 1578.1 |
+| 4 | Duxbury | 1585.6 |
 | 5 | Malden Catholic | 1575.3 |
 | 6 | Barnstable | 1567.3 |
 | 7 | Notre Dame (Tyngsborough) | 1563.4 |
-| 8 | Duxbury | 1557.8 |
+| 8 | Nashoba | 1555.9 |
 | 9 | Nauset | 1553.6 |
 | 10 | Ursuline | 1535.2 |
 | 11 | Walpole | 1534.8 |
-| 12 | Hingham | 1527.9 |
-| 13 | Quabbin | 1507.2 |
-| 14 | Scituate | 1501.2 |
+| 12 | Quabbin | 1507.2 |
+| 13 | Scituate | 1501.2 |
+| 14 | Hingham | 1500.0 |
 | 15 | Monomoy | 1492.4 |
 | 16 | Quincy | 1490.8 |
 | 17 | Braintree | 1490.6 |
 | 18 | Newton North | 1489.2 |
-| 19 | Brookline | 1485.3 |
-| 20 | Auburn | 1477.3 |
-| 21 | Notre Dame (Hingham) | 1472.3 |
+| 19 | Auburn | 1477.3 |
+| 20 | Notre Dame (Hingham) | 1472.3 |
+| 21 | Brookline | 1469.9 |
 | 22 | Dennis-Yarmouth | 1469.2 |
 | 23 | Needham | 1463.8 |
 | 24 | Framingham | 1462.7 |

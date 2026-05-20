@@ -1,12 +1,11 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-05-19 13:53
+Generated: 2026-05-20 13:36
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-05-19 | 6:00 P.M. | Catholic Memorial | Milton | 21.4% | -9.0 |
 | 2026-05-20 | 6:00 P.M. | Xaverian | St. John’s Prep | 69.7% | +5.8 |
 | 2026-05-20 | 3:30 P.M. | Blue Hills | Hanover | 65.9% | +4.6 |
 | 2026-05-21 | 6:00 P.M. | Belmont | Weymouth | 70.0% | +5.9 |

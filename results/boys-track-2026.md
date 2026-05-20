@@ -1,6 +1,6 @@
 # Boys Track - 2026 Season
 
-Generated: 2026-05-19 13:53
+Generated: 2026-05-20 13:36
 
 ## Upcoming Games
 
@@ -18,9 +18,6 @@ Generated: 2026-05-19 13:53
 | 2026-05-13 | Burlington | 67 | Melrose | 69 | +6.8 | -2.0 |
 | 2026-05-13 | Chelmsford | 72 | Central Catholic | 73 | -0.6 | -1.0 |
 | 2026-05-13 | Dighton-Rehoboth | 74 | Apponequet | 61 | +2.9 | +13.0 |
-| 2026-05-12 | West Bridgewater | 77 | Joseph Case | 57 | -3.5 | +20.0 |
-| 2026-05-12 | Canton | 71 | Mansfield | 65 | +1.5 | +6.0 |
-| 2026-05-12 | Bishop Feehan | 109 | Archbishop Williams | 26 | -3.1 | +83.0 |
 
 ## Current Elo Ratings
 
