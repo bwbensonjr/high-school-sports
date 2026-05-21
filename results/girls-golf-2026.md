@@ -1,6 +1,6 @@
 # Girls Golf - 2026 Season
 
-Generated: 2026-05-20 13:36
+Generated: 2026-05-21 14:13
 
 ## Upcoming Games
 
@@ -11,21 +11,20 @@ Generated: 2026-05-20 13:36
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-05-20 | Marshfield | 4 | Cohasset | 2 | +2.5 | +2.0 |
+| 2026-05-20 | Wellesley | 4 | Newton North | 2 | +9.7 | +2.0 |
 | 2026-05-19 | Brookline | 1 | Wellesley | 5 | -5.3 | -4.0 |
 | 2026-05-19 | Duxbury | 128 | Hingham | 118 | +3.2 | +10.0 |
 | 2026-05-19 | Hopkinton | 28 | Nashoba | 17 | +6.0 | +11.0 |
 | 2026-05-18 | Hingham | 2 | Notre Dame (Hingham) | 4 | +6.1 | -2.0 |
 | 2026-05-14 | Wellesley | 6 | Framingham | 0 | +9.2 | +6.0 |
-| 2026-05-13 | Duxbury | 5 | Scituate | 1 | +2.7 | +4.0 |
-| 2026-05-13 | Nashoba | 29 | Wachusett | 17 | +5.7 | +12.0 |
-| 2026-05-13 | Notre Dame (Hingham) | 0 | Ursuline | 6 | +1.1 | -6.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Hopkinton | 1699.2 |
-| 2 | Wellesley | 1682.2 |
+| 2 | Wellesley | 1688.8 |
 | 3 | Bishop Feehan | 1612.6 |
 | 4 | Duxbury | 1585.6 |
 | 5 | Malden Catholic | 1575.3 |
@@ -41,22 +40,22 @@ Generated: 2026-05-20 13:36
 | 15 | Monomoy | 1492.4 |
 | 16 | Quincy | 1490.8 |
 | 17 | Braintree | 1490.6 |
-| 18 | Newton North | 1489.2 |
+| 18 | Newton North | 1482.6 |
 | 19 | Auburn | 1477.3 |
-| 20 | Notre Dame (Hingham) | 1472.3 |
-| 21 | Brookline | 1469.9 |
-| 22 | Dennis-Yarmouth | 1469.2 |
-| 23 | Needham | 1463.8 |
-| 24 | Framingham | 1462.7 |
-| 25 | Archbishop Williams | 1461.7 |
-| 26 | Marshfield | 1461.1 |
+| 20 | Marshfield | 1474.7 |
+| 21 | Notre Dame (Hingham) | 1472.3 |
+| 22 | Brookline | 1469.9 |
+| 23 | Dennis-Yarmouth | 1469.2 |
+| 24 | Needham | 1463.8 |
+| 25 | Framingham | 1462.7 |
+| 26 | Archbishop Williams | 1461.7 |
 | 27 | Falmouth | 1454.0 |
 | 28 | Weymouth | 1451.0 |
 | 29 | North Quincy/Quincy | 1450.3 |
-| 30 | Cohasset | 1449.6 |
-| 31 | Westborough | 1448.5 |
-| 32 | Notre Dame (Worcester) | 1443.3 |
-| 33 | Fontbonne | 1440.8 |
-| 34 | Wachusett | 1438.9 |
+| 30 | Westborough | 1448.5 |
+| 31 | Notre Dame (Worcester) | 1443.3 |
+| 32 | Fontbonne | 1440.8 |
+| 33 | Wachusett | 1438.9 |
+| 34 | Cohasset | 1436.0 |
 | 35 | Silver Lake | 1407.5 |
 | 36 | Worcester | 1341.6 |

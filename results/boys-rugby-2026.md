@@ -1,13 +1,11 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-05-20 13:36
+Generated: 2026-05-21 14:13
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-05-20 | 6:00 P.M. | Xaverian | St. John’s Prep | 69.7% | +5.8 |
-| 2026-05-20 | 3:30 P.M. | Blue Hills | Hanover | 65.9% | +4.6 |
 | 2026-05-21 | 6:00 P.M. | Belmont | Weymouth | 70.0% | +5.9 |
 | 2026-05-21 | 6:00 P.M. | Algonquin/Westboro | Brookline | 60.2% | +2.9 |
 | 2026-05-22 | 4:00 P.M. | Braintree | Lincoln-Sudbury | 80.3% | +9.8 |
@@ -23,8 +21,6 @@ Generated: 2026-05-20 13:36
 | 2026-05-14 | Brookline | 19 | Blue Hills | 12 | -2.1 | +7.0 |
 | 2026-05-14 | Burncoat | 14 | Cambridge | 21 | +5.7 | -7.0 |
 | 2026-05-14 | Hingham/Norwell | 10 | Malden Catholic | 0 | +3.0 | +10.0 |
-| 2026-05-13 | Weymouth | 19 | Milton | 41 | -6.7 | -22.0 |
-| 2026-05-13 | Chelmsford | 15 | Marshfield/SST | 32 | +7.2 | -17.0 |
 
 ## Current Elo Ratings
 

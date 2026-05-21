@@ -1,6 +1,6 @@
 # Boys Track - 2026 Season
 
-Generated: 2026-05-20 13:36
+Generated: 2026-05-21 14:13
 
 ## Upcoming Games
 
@@ -13,11 +13,6 @@ Generated: 2026-05-20 13:36
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-05-16 | Central Catholic | 73 | Chelmsford | 72 | +5.4 | +1.0 |
 | 2026-05-15 | Whitman-Hanson | 69 | Duxbury | 67 | -0.9 | +2.0 |
-| 2026-05-13 | Keefe Tech | 79 | Abby Kelley Foster | 57 | +7.7 | +22.0 |
-| 2026-05-13 | Leominster | 74 | Nashoba | 71 | -0.4 | +3.0 |
-| 2026-05-13 | Burlington | 67 | Melrose | 69 | +6.8 | -2.0 |
-| 2026-05-13 | Chelmsford | 72 | Central Catholic | 73 | -0.6 | -1.0 |
-| 2026-05-13 | Dighton-Rehoboth | 74 | Apponequet | 61 | +2.9 | +13.0 |
 
 ## Current Elo Ratings
 

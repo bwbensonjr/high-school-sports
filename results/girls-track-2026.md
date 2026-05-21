@@ -1,6 +1,6 @@
 # Girls Track - 2026 Season
 
-Generated: 2026-05-20 13:36
+Generated: 2026-05-21 14:13
 
 ## Upcoming Games
 
@@ -12,9 +12,6 @@ Generated: 2026-05-20 13:36
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-05-14 | Duxbury | 91 | Whitman-Hanson | 45 | +6.4 | +46.0 |
-| 2026-05-13 | Keefe Tech | 116 | Abby Kelley Foster | 21 | +4.0 | +95.0 |
-| 2026-05-13 | Nashoba | 117 | Leominster | 28 | +6.2 | +89.0 |
-| 2026-05-13 | Apponequet | 63 | Dighton-Rehoboth | 73 | -0.1 | -10.0 |
 
 ## Current Elo Ratings
 

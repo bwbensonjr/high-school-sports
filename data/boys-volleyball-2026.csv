@@ -964,39 +964,45 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-19,117004,FINAL,Frontier,4146,3,1,Duggan Academy,4843,0,0,Independent,Independent,,,0
 2026-05-19,117007,FINAL,Holyoke,4176,3,1,Hampden Charter East,4712,0,0,Independent,Independent,,,0
 2026-05-19,117008,FINAL,Springfield Central,4360,3,1,Southwick,4519,0,0,Independent,Independent,,,0
-2026-05-20,102951,UPCOMING,Needham,4272,,,Wayland,4411,,,Bay State,Dual County,5:00 P.M.,,0
-2026-05-20,102980,UPCOMING,Wellesley,4413,,,Newton South,4280,,,Bay State,Dual County,4:00 P.M.,,0
-2026-05-20,103116,UPCOMING,Taunton,4388,,,Barnstable,4024,,,Hockomock,Independent,5:15 P.M.,,0
-2026-05-20,103147,UPCOMING,BC High,4029,,,Greater New Bedford,4156,,,Catholic Conference,Independent,5:15 P.M.,,0
-2026-05-20,103173,UPCOMING,Revere,4329,,,Lynn English,4221,,,Greater Boston,Greater Boston,5:30 P.M.,,0
-2026-05-20,103191,UPCOMING,Millis,4251,,,Medfield,4241,,,Tri-Valley,Tri-Valley,5:00 P.M.,,0
-2026-05-20,103211,UPCOMING,Boston Latin,4049,,,O’Bryant,4298,,,Dual County,Boston City,5:30 P.M.,,0
-2026-05-20,103226,UPCOMING,Algonquin,4005,,,Acton-Boxborough,4003,,,Mid-Wach,Dual County,4:30 P.M.,,0
-2026-05-20,103253,UPCOMING,Greater Lawrence,4154,,,North Andover,4283,,,Commonwealth,Merrimack Valley,5:15 P.M.,,0
-2026-05-20,112619,UPCOMING,Nashoba Valley Tech,4268,,,KIPP,4703,,,Commonwealth,Commonwealth,4:30 P.M.,,0
-2026-05-20,115115,UPCOMING,Winchester,4434,,,Cambridge,4067,,,Middlesex,Dual County,5:45 P.M.,,0
-2026-05-20,115116,UPCOMING,Arlington,4013,,,Westford,4421,,,Middlesex,Dual County,5:15 P.M.,,0
-2026-05-20,115125,UPCOMING,Wachusett,4400,,,Lincoln-Sudbury,4211,,,Mid-Wach,Dual County,5:45 P.M.,,0
-2026-05-20,115134,UPCOMING,Belmont,4034,,,Waltham/Weston,4405,,,Middlesex,Dual County,5:15 P.M.,,0
-2026-05-20,115149,UPCOMING,Somerville,4351,,,Malden,4227,,,Greater Boston,Greater Boston,5:30 P.M.,,0
-2026-05-20,115174,UPCOMING,Chelsea,4086,,,Everett,4132,,,Greater Boston,Greater Boston,5:30 P.M.,,0
-2026-05-20,115200,UPCOMING,Durfee,4122,,,Attleboro,4018,,,Patriot,Hockomock,5:15 P.M.,,0
-2026-05-20,115208,UPCOMING,Woburn,4438,,,Methuen,4246,,,Middlesex,Merrimack Valley,6:30 P.M.,,0
-2026-05-20,115216,UPCOMING,Andover,4009,,,Lawrence,4203,,,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
-2026-05-20,115220,UPCOMING,Billerica,4040,,,Wakefield,4402,,,Merrimack Valley,Middlesex,5:30 P.M.,,0
+2026-05-20,102951,FINAL,Needham,4272,2,0,Wayland,4411,3,1,Bay State,Dual County,5:00 P.M.,,0
+2026-05-20,102980,FINAL,Wellesley,4413,1,0,Newton South,4280,3,1,Bay State,Dual County,4:00 P.M.,,0
+2026-05-20,103116,FINAL,Taunton,4388,0,0,Barnstable,4024,3,1,Hockomock,Independent,5:15 P.M.,,0
+2026-05-20,103147,FINAL,BC High,4029,3,1,Greater New Bedford,4156,1,0,Catholic Conference,Independent,5:15 P.M.,,0
+2026-05-20,103173,FINAL,Revere,4329,3,1,Lynn English,4221,1,0,Greater Boston,Greater Boston,5:30 P.M.,,0
+2026-05-20,103191,FINAL,Millis,4251,1,0,Medfield,4241,3,1,Tri-Valley,Tri-Valley,5:00 P.M.,,0
+2026-05-20,103211,FINAL,Boston Latin,4049,3,1,O’Bryant,4298,0,0,Dual County,Boston City,5:30 P.M.,,0
+2026-05-20,103253,FINAL,Greater Lawrence,4154,1,0,North Andover,4283,3,1,Commonwealth,Merrimack Valley,5:15 P.M.,,0
+2026-05-20,112491,FINAL,Westfield,4419,3,1,St. John’s (Shrewsbury),4368,0,0,Independent,Catholic Conference,6:30 P.M.,,0
+2026-05-20,112619,FINAL,Nashoba Valley Tech,4268,0,0,KIPP,4703,3,1,Commonwealth,Commonwealth,4:30 P.M.,,0
+2026-05-20,115115,FINAL,Winchester,4434,2,0,Cambridge,4067,3,1,Middlesex,Dual County,5:45 P.M.,,0
+2026-05-20,115116,FINAL,Arlington,4013,3,1,Westford,4421,2,0,Middlesex,Dual County,5:15 P.M.,,0
+2026-05-20,115125,FINAL,Wachusett,4400,1,0,Lincoln-Sudbury,4211,3,1,Mid-Wach,Dual County,5:45 P.M.,,0
+2026-05-20,115134,FINAL,Belmont,4034,3,1,Waltham/Weston,4405,2,0,Middlesex,Dual County,5:15 P.M.,,0
+2026-05-20,115149,FINAL,Somerville,4351,3,1,Malden,4227,1,0,Greater Boston,Greater Boston,5:30 P.M.,,0
+2026-05-20,115174,FINAL,Chelsea,4086,1,0,Everett,4132,3,1,Greater Boston,Greater Boston,5:30 P.M.,,0
+2026-05-20,115200,FINAL,Durfee,4122,3,1,Attleboro,4018,1,0,Patriot,Hockomock,5:15 P.M.,,0
+2026-05-20,115208,FINAL,Woburn,4438,0,0,Methuen,4246,3,1,Middlesex,Merrimack Valley,6:30 P.M.,,0
+2026-05-20,115216,FINAL,Andover,4009,0,0,Lawrence,4203,3,1,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
+2026-05-20,115220,FINAL,Billerica,4040,3,1,Wakefield,4402,2,0,Merrimack Valley,Middlesex,5:30 P.M.,,0
 2026-05-20,115222,UPCOMING,Haverhill,4167,,,Georgetown,4148,,,Merrimack Valley,Independent,5:00 P.M.,,0
-2026-05-20,115254,UPCOMING,North Quincy,4287,,,Quincy,4326,,,Patriot,Patriot,6:00 P.M.,,0
-2026-05-20,115261,UPCOMING,Brockton,4058,,,New Bedford,4273,,,Patriot,Patriot,5:15 P.M.,,0
-2026-05-20,115282,UPCOMING,Hingham,4171,,,Randolph,4327,,,Patriot,Independent,5:15 P.M.,,0
-2026-05-20,115295,UPCOMING,Hopkinton,4180,,,Bellingham,4033,,,Tri-Valley,Tri-Valley,5:00 P.M.,,0
-2026-05-20,115301,UPCOMING,Westwood,4424,,,Norton,4295,,,Tri-Valley,Tri-Valley,5:00 P.M.,,0
-2026-05-20,115314,UPCOMING,Dighton-Rehoboth,4114,,,Southeastern,4358,,,Tri-Valley,Independent,5:00 P.M.,,0
+2026-05-20,115254,FINAL,North Quincy,4287,3,1,Quincy,4326,0,0,Patriot,Patriot,6:00 P.M.,,0
+2026-05-20,115261,FINAL,Brockton,4058,3,1,New Bedford,4273,0,0,Patriot,Patriot,5:15 P.M.,,0
+2026-05-20,115282,FINAL,Hingham,4171,0,0,Randolph,4327,3,1,Patriot,Independent,5:15 P.M.,,0
+2026-05-20,115295,FINAL,Hopkinton,4180,3,1,Bellingham,4033,1,0,Tri-Valley,Tri-Valley,5:00 P.M.,,0
+2026-05-20,115301,FINAL,Westwood,4424,0,0,Norton,4295,3,1,Tri-Valley,Tri-Valley,5:00 P.M.,,0
+2026-05-20,115314,FINAL,Dighton-Rehoboth,4114,3,1,Southeastern,4358,2,0,Tri-Valley,Independent,5:00 P.M.,,0
+2026-05-20,117341,FINAL,Nashoba,4267,0,0,Assabet,4016,3,1,Mid-Wach,CMAC,,,0
+2026-05-20,117370,FINAL,Worcester Tech,4445,0,0,Ayer Shirley,4022,3,1,CMAC,Mid-Wach,,,0
+2026-05-20,117372,FINAL,Burncoat,4066,0,0,Worcester South,4444,3,1,CMAC,CMAC,,,0
+2026-05-20,117375,FINAL,Shrewsbury,4348,3,1,Doherty,4116,2,0,Mid-Wach,CMAC,,,0
+2026-05-20,117377,FINAL,Worcester North,4443,3,1,Fitchburg,4139,0,0,CMAC,Mid-Wach,,,0
+2026-05-20,117382,FINAL,Minnechaug,4254,2,0,Pioneer Valley Christian,4535,3,1,Independent,Independent,,,0
 2026-05-21,88013,UPCOMING,Burlington,4065,,,Framingham,4143,,,Middlesex,Bay State,5:30 P.M.,,0
 2026-05-21,88076,UPCOMING,Natick,4270,,,Milford,4249,,,Bay State,Hockomock,5:45 P.M.,,0
 2026-05-21,102952,UPCOMING,Newton North,4279,,,Wayland,4411,,,Bay State,Dual County,6:00 P.M.,,0
 2026-05-21,103074,UPCOMING,Chelmsford,4085,,,Westford,4421,,,Merrimack Valley,Dual County,5:00 P.M.,,0
+2026-05-21,103226,UPCOMING,Algonquin,4005,,,Acton-Boxborough,4003,,,Mid-Wach,Dual County,4:30 P.M.,,0
 2026-05-21,103256,UPCOMING,Dracut,4119,,,North Andover,4283,,,Merrimack Valley,Merrimack Valley,5:45 P.M.,,0
-2026-05-21,112491,UPCOMING,Westfield,4419,,,St. John’s (Shrewsbury),4368,,,Independent,Catholic Conference,6:30 P.M.,,0
 2026-05-21,112524,UPCOMING,Xaverian,4446,,,Attleboro,4018,,,Catholic Conference,Hockomock,4:00 P.M.,,0
 2026-05-21,112539,UPCOMING,Innovation Academy,4690,,,Greater Lowell,4155,,,Commonwealth,Commonwealth,4:00 P.M.,,0
 2026-05-21,112548,UPCOMING,Whittier,4428,,,Greater Lawrence,4154,,,Commonwealth,Commonwealth,5:00 P.M.,,0
@@ -1004,6 +1010,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-21,115123,UPCOMING,Lincoln-Sudbury,4211,,,Doherty,4116,,,Dual County,CMAC,4:15 P.M.,,0
 2026-05-21,115150,UPCOMING,Malden,4227,,,Lynn English,4221,,,Greater Boston,Greater Boston,5:15 P.M.,,0
 2026-05-21,115181,UPCOMING,King Philip,4197,,,Bellingham,4033,,,Hockomock,Tri-Valley,5:00 P.M.,,0
+2026-05-21,117383,UPCOMING,Latin Academy,4202,,,O’Bryant,4298,,,Boston City,Boston City,4:00 P.M.,,0
 2026-05-22,87982,UPCOMING,Brookline,4059,,,Lexington,4209,,,Bay State,Middlesex,5:45 P.M.,,0
 2026-05-22,102982,UPCOMING,Newton South,4280,,,Newton North,4279,,,Dual County,Bay State,5:30 P.M.,,0
 2026-05-22,103097,UPCOMING,Lowell,4216,,,Cambridge,4067,,,Merrimack Valley,Dual County,5:45 P.M.,,0
