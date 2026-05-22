@@ -1,6 +1,6 @@
 # Girls Track - 2026 Season
 
-Generated: 2026-05-21 14:13
+Generated: 2026-05-22 13:30
 
 ## Upcoming Games
 
@@ -9,9 +9,8 @@ Generated: 2026-05-21 14:13
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-05-14 | Duxbury | 91 | Whitman-Hanson | 45 | +6.4 | +46.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 
