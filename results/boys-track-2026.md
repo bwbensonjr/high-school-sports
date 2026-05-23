@@ -1,6 +1,6 @@
 # Boys Track - 2026 Season
 
-Generated: 2026-05-22 13:30
+Generated: 2026-05-23 11:58
 
 ## Upcoming Games
 
@@ -12,7 +12,6 @@ Generated: 2026-05-22 13:30
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-05-16 | Central Catholic | 73 | Chelmsford | 72 | +5.4 | +1.0 |
-| 2026-05-15 | Whitman-Hanson | 69 | Duxbury | 67 | -0.9 | +2.0 |
 
 ## Current Elo Ratings
 

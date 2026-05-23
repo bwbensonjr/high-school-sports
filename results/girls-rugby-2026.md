@@ -1,14 +1,11 @@
 # Girls Rugby - 2026 Season
 
-Generated: 2026-05-22 13:30
+Generated: 2026-05-23 11:58
 
 ## Upcoming Games
 
-| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
-|------|------|-----------|-----------|------------|------------------|
-| 2026-05-22 | 6:00 P.M. | Cambridge | Belmont | 30.5% | -5.7 |
-| 2026-05-22 | 4:30 P.M. | Brookline | Needham | 58.9% | +2.5 |
-| 2026-05-22 | 5:00 P.M. | Weymouth | Lincoln-Sudbury | 74.2% | +7.3 |
+*No upcoming games scheduled*
+
 
 ## Recent Games
 

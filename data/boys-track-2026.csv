@@ -75,9 +75,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-05,111202,FINAL,Uxbridge,4398,86.0,1,Blackstone Valley,4046,50.0,0,Independent,Independent,,,0
 2026-05-05,111219,FINAL,Arlington Catholic,4014,65.0,1,Bishop Stang,4045,55.0,0,Catholic Central,Catholic Central,,,0
 2026-05-05,111220,FINAL,Arlington Catholic,4014,64.0,1,Bishop Fenwick,4043,55.0,0,Catholic Central,Catholic Central,,,0
-2026-05-12,114120,FINAL,West Bridgewater,4415,77,1,Joseph Case,4078,57,0,South Coast,South Coast,,,0
-2026-05-12,114132,FINAL,Canton,4071,71,1,Mansfield,4230,65,0,Hockomock,Hockomock,,,0
-2026-05-12,114246,FINAL,Bishop Feehan,4042,109,1,Archbishop Williams,4012,26,0,Independent,Catholic Central,,,0
+2026-05-12,114120,FINAL,West Bridgewater,4415,77.0,1,Joseph Case,4078,57.0,0,South Coast,South Coast,,,0
+2026-05-12,114132,FINAL,Canton,4071,71.0,1,Mansfield,4230,65.0,0,Hockomock,Hockomock,,,0
+2026-05-12,114246,FINAL,Bishop Feehan,4042,109.0,1,Archbishop Williams,4012,26.0,0,Independent,Catholic Central,,,0
 2026-05-13,114511,FINAL,Keefe Tech,4191,79,1,Abby Kelley Foster,4503,57,0,Independent,Independent,,,0
 2026-05-13,114619,FINAL,Leominster,4208,74,1,Nashoba,4267,71,0,Mid-Wach,Mid-Wach,,,0
 2026-05-13,114641,FINAL,Burlington,4065,67,0,Melrose,4244,69,1,Middlesex,Middlesex,,,0

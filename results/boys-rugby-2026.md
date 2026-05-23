@@ -1,21 +1,17 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-05-22 13:30
+Generated: 2026-05-23 11:58
 
 ## Upcoming Games
 
-| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
-|------|------|-----------|-----------|------------|------------------|
-| 2026-05-22 | 4:00 P.M. | Braintree | Lincoln-Sudbury | 80.3% | +9.8 |
-| 2026-05-22 | 5:00 P.M. | Hingham/Norwell | Burncoat | 83.7% | +11.4 |
+*No upcoming games scheduled*
+
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-05-21 | Algonquin/Westboro | 36 | Brookline | 26 | +2.9 | +10.0 |
-| 2026-05-15 | Hanover | 61 | Catholic Memorial | 5 | +5.5 | +56.0 |
-| 2026-05-15 | Lincoln-Sudbury | 5 | Xaverian | 54 | -5.2 | -49.0 |
 
 ## Current Elo Ratings
 
