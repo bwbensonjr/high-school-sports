@@ -38,8 +38,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-07,93278,FINAL,Cambridge,4067,7.0,0.0,Hingham/Norwell,4171,54.0,1.0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,6:30 P.M.,,0
 2026-05-07,93294,UPCOMING,Malden Catholic,4228,,,Chelmsford,4085,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,4:30 P.M.,,0
 2026-05-08,93139,UPCOMING,Brookline,4059,,,Milton,4252,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,4:30 P.M.,,0
-2026-05-13,93141,FINAL,Weymouth,4425,19,0,Milton,4252,41,1,Commonwealth Rugby Conference,Commonwealth Rugby Conference,5:30 P.M.,,0
-2026-05-13,93299,FINAL,Chelmsford,4085,15,0,Marshfield/SST,4234,32,1,Commonwealth Rugby Conference,Commonwealth Rugby Conference,5:00 P.M.,,0
+2026-05-13,93141,FINAL,Weymouth,4425,19.0,0.0,Milton,4252,41.0,1.0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,5:30 P.M.,,0
+2026-05-13,93299,FINAL,Chelmsford,4085,15.0,0.0,Marshfield/SST,4234,32.0,1.0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,5:00 P.M.,,0
 2026-05-14,93104,FINAL,BC High,4029,34,1,Belmont,4034,5,0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,6:00 P.M.,,0
 2026-05-14,93220,FINAL,Brookline,4059,19,1,Blue Hills,4047,12,0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,6:00 P.M.,,0
 2026-05-14,93263,FINAL,Burncoat,4066,14,0,Cambridge,4067,21,1,Commonwealth Rugby Conference,Commonwealth Rugby Conference,4:30 P.M.,,0

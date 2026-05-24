@@ -1,6 +1,6 @@
 # Boys Track - 2026 Season
 
-Generated: 2026-05-23 11:58
+Generated: 2026-05-24 11:59
 
 ## Upcoming Games
 
@@ -9,9 +9,8 @@ Generated: 2026-05-23 11:58
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-05-16 | Central Catholic | 73 | Chelmsford | 72 | +5.4 | +1.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 
