@@ -841,35 +841,35 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-13,115241,FINAL,Belmont,4034,0.0,0.0,Arlington,4013,3.0,1.0,Middlesex,Middlesex,,,0
 2026-05-13,115311,FINAL,Norwood,4297,1.0,0.0,Millis,4251,3.0,1.0,Tri-Valley,Tri-Valley,,,0
 2026-05-14,87944,UPCOMING,Braintree,4051,,,Wellesley,4413,,,Bay State,Bay State,5:30 P.M.,,0
-2026-05-14,87979,FINAL,Brookline,4059,0,0,Needham,4272,3,1,Bay State,Bay State,5:15 P.M.,,0
-2026-05-14,88046,FINAL,Milton,4252,3,1,Weymouth,4425,1,0,Bay State,Bay State,5:30 P.M.,,0
-2026-05-14,88070,FINAL,Natick,4270,3,1,Newton North,4279,0,0,Bay State,Bay State,4:30 P.M.,,0
-2026-05-14,101316,FINAL,Bellingham,4033,3,1,King Philip,4197,0,0,Tri-Valley,Hockomock,,,0
-2026-05-14,103024,FINAL,Acton-Boxborough,4003,2,0,Lexington,4209,3,1,Dual County,Middlesex,5:30 P.M.,,0
-2026-05-14,103188,FINAL,Medfield,4241,2,0,Hopkinton,4180,3,1,Tri-Valley,Tri-Valley,6:00 P.M.,,0
-2026-05-14,103207,FINAL,O’Bryant,4298,3,1,Boston United,4798,0,0,Boston City,Boston City,4:00 P.M.,,0
-2026-05-14,112481,FINAL,Latin Academy,4202,3,1,Madison Park,4225,0,0,Boston City,Boston City,4:00 P.M.,,0
-2026-05-14,112615,FINAL,Collegiate Charter,4986,3,1,Nashoba Valley Tech,4268,0,0,Charter School Athletic,Commonwealth,5:45 P.M.,,0
-2026-05-14,114954,FINAL,Wachusett,4400,3,1,Algonquin,4005,1,0,Mid-Wach,Mid-Wach,,,0
-2026-05-14,114955,FINAL,Bay Path,4027,1,0,Assabet,4016,3,1,CMAC,CMAC,,,0
-2026-05-14,114958,FINAL,Dracut,4119,1,0,Billerica,4040,3,1,Merrimack Valley,Merrimack Valley,,,0
-2026-05-14,114960,FINAL,Boston Latin,4049,3,1,Waltham/Weston,4405,1,0,Dual County,Dual County,,,0
+2026-05-14,87979,FINAL,Brookline,4059,0.0,0.0,Needham,4272,3.0,1.0,Bay State,Bay State,5:15 P.M.,,0
+2026-05-14,88046,FINAL,Milton,4252,3.0,1.0,Weymouth,4425,1.0,0.0,Bay State,Bay State,5:30 P.M.,,0
+2026-05-14,88070,FINAL,Natick,4270,3.0,1.0,Newton North,4279,0.0,0.0,Bay State,Bay State,4:30 P.M.,,0
+2026-05-14,101316,FINAL,Bellingham,4033,3.0,1.0,King Philip,4197,0.0,0.0,Tri-Valley,Hockomock,,,0
+2026-05-14,103024,FINAL,Acton-Boxborough,4003,2.0,0.0,Lexington,4209,3.0,1.0,Dual County,Middlesex,5:30 P.M.,,0
+2026-05-14,103188,FINAL,Medfield,4241,2.0,0.0,Hopkinton,4180,3.0,1.0,Tri-Valley,Tri-Valley,6:00 P.M.,,0
+2026-05-14,103207,FINAL,O’Bryant,4298,3.0,1.0,Boston United,4798,0.0,0.0,Boston City,Boston City,4:00 P.M.,,0
+2026-05-14,112481,FINAL,Latin Academy,4202,3.0,1.0,Madison Park,4225,0.0,0.0,Boston City,Boston City,4:00 P.M.,,0
+2026-05-14,112615,FINAL,Collegiate Charter,4986,3.0,1.0,Nashoba Valley Tech,4268,0.0,0.0,Charter School Athletic,Commonwealth,5:45 P.M.,,0
+2026-05-14,114954,FINAL,Wachusett,4400,3.0,1.0,Algonquin,4005,1.0,0.0,Mid-Wach,Mid-Wach,,,0
+2026-05-14,114955,FINAL,Bay Path,4027,1.0,0.0,Assabet,4016,3.0,1.0,CMAC,CMAC,,,0
+2026-05-14,114958,FINAL,Dracut,4119,1.0,0.0,Billerica,4040,3.0,1.0,Merrimack Valley,Merrimack Valley,,,0
+2026-05-14,114960,FINAL,Boston Latin,4049,3.0,1.0,Waltham/Weston,4405,1.0,0.0,Dual County,Dual County,,,0
 2026-05-14,114961,UPCOMING,Pioneer Charter II,4964,,,Chelsea,4086,,,Charter School Athletic,Greater Boston,,,0
-2026-05-14,114964,FINAL,Worcester South,4444,3,1,Doherty,4116,0,0,CMAC,CMAC,,,0
+2026-05-14,114964,FINAL,Worcester South,4444,3.0,1.0,Doherty,4116,0.0,0.0,CMAC,CMAC,,,0
 2026-05-14,114965,UPCOMING,Frontier,4146,,,Pioneer Valley Christian,4535,,,Independent,Independent,,,0
-2026-05-14,114968,FINAL,Lawrence,4203,3,1,Haverhill,4167,0,0,Merrimack Valley,Merrimack Valley,,,0
-2026-05-14,114970,FINAL,Leominster,4208,0,0,Marlborough,4233,3,1,Mid-Wach,Mid-Wach,,,0
-2026-05-14,114971,FINAL,Westford,4421,3,1,Lincoln-Sudbury,4211,1,0,Dual County,Dual County,,,0
-2026-05-14,114974,FINAL,Malden,4227,3,1,Woburn,4438,1,0,Greater Boston,Middlesex,,,0
-2026-05-14,114975,FINAL,Nipmuc,4281,3,1,Southeastern,4358,1,0,CMAC,Independent,,,0
-2026-05-14,114977,FINAL,West Springfield,4417,3,1,Veritas Prep,5040,0,0,Independent,Independent,,,0
-2026-05-14,115110,FINAL,Braintree,4051,3,1,Wellesley,4413,0,0,Bay State,Bay State,,,0
-2026-05-14,115323,FINAL,Innovation Academy,4690,1,0,KIPP,4703,3,1,Commonwealth,Commonwealth,,,0
-2026-05-14,115324,FINAL,Springfield International,4480,0,0,Minnechaug,4254,3,1,Independent,Independent,,,0
-2026-05-14,115326,FINAL,Chicopee Comprehensive,4089,3,1,Chicopee,4088,0,0,Independent,Independent,,,0
-2026-05-14,115327,FINAL,Ware,4406,3,1,Commerce,4361,0,0,Independent,Independent,,,0
-2026-05-14,115330,FINAL,Abby Kelley Foster,4503,0,0,South Lancaster,4484,3,1,CMAC,Independent,,,0
-2026-05-14,115332,FINAL,Pioneer Charter I,4701,3,1,Codman Charter,4482,0,0,Charter School Athletic,Charter School Athletic,,,0
+2026-05-14,114968,FINAL,Lawrence,4203,3.0,1.0,Haverhill,4167,0.0,0.0,Merrimack Valley,Merrimack Valley,,,0
+2026-05-14,114970,FINAL,Leominster,4208,0.0,0.0,Marlborough,4233,3.0,1.0,Mid-Wach,Mid-Wach,,,0
+2026-05-14,114971,FINAL,Westford,4421,3.0,1.0,Lincoln-Sudbury,4211,1.0,0.0,Dual County,Dual County,,,0
+2026-05-14,114974,FINAL,Malden,4227,3.0,1.0,Woburn,4438,1.0,0.0,Greater Boston,Middlesex,,,0
+2026-05-14,114975,FINAL,Nipmuc,4281,3.0,1.0,Southeastern,4358,1.0,0.0,CMAC,Independent,,,0
+2026-05-14,114977,FINAL,West Springfield,4417,3.0,1.0,Veritas Prep,5040,0.0,0.0,Independent,Independent,,,0
+2026-05-14,115110,FINAL,Braintree,4051,3.0,1.0,Wellesley,4413,0.0,0.0,Bay State,Bay State,,,0
+2026-05-14,115323,FINAL,Innovation Academy,4690,1.0,0.0,KIPP,4703,3.0,1.0,Commonwealth,Commonwealth,,,0
+2026-05-14,115324,FINAL,Springfield International,4480,0.0,0.0,Minnechaug,4254,3.0,1.0,Independent,Independent,,,0
+2026-05-14,115326,FINAL,Chicopee Comprehensive,4089,3.0,1.0,Chicopee,4088,0.0,0.0,Independent,Independent,,,0
+2026-05-14,115327,FINAL,Ware,4406,3.0,1.0,Commerce,4361,0.0,0.0,Independent,Independent,,,0
+2026-05-14,115330,FINAL,Abby Kelley Foster,4503,0.0,0.0,South Lancaster,4484,3.0,1.0,CMAC,Independent,,,0
+2026-05-14,115332,FINAL,Pioneer Charter I,4701,3.0,1.0,Codman Charter,4482,0.0,0.0,Charter School Athletic,Charter School Athletic,,,0
 2026-05-15,88047,FINAL,Milton,4252,1,0,BC High,4029,3,1,Bay State,Catholic Conference,5:30 P.M.,,0
 2026-05-15,88073,FINAL,Wayland,4411,3,1,Natick,4270,1,0,Dual County,Bay State,5:30 P.M.,,0
 2026-05-15,103049,FINAL,Agawam,4004,3,1,Milford,4249,0,0,Independent,Hockomock,6:15 P.M.,,0
