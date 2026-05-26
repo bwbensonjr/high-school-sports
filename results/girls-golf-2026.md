@@ -1,6 +1,6 @@
 # Girls Golf - 2026 Season
 
-Generated: 2026-05-25 13:57
+Generated: 2026-05-26 13:51
 
 ## Upcoming Games
 
@@ -19,7 +19,6 @@ Generated: 2026-05-25 13:57
 | 2026-05-19 | Brookline | 1 | Wellesley | 5 | -5.3 | -4.0 |
 | 2026-05-19 | Duxbury | 128 | Hingham | 118 | +3.2 | +10.0 |
 | 2026-05-19 | Hopkinton | 28 | Nashoba | 17 | +6.0 | +11.0 |
-| 2026-05-18 | Hingham | 2 | Notre Dame (Hingham) | 4 | +6.1 | -2.0 |
 
 ## Current Elo Ratings
 
