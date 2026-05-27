@@ -1,11 +1,16 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-05-26 13:51
+Generated: 2026-05-27 14:24
 
 ## Upcoming Games
 
-*No upcoming games scheduled*
-
+| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
+|------|------|-----------|-----------|------------|------------------|
+| 2026-05-28 | 6:00 P.M. | Hanover | Marshfield/SST | 65.0% | +4.3 |
+| 2026-05-28 | 4:30 P.M. | Blue Hills | Catholic Memorial | 83.1% | +11.1 |
+| 2026-05-28 | 6:00 P.M. | Algonquin/Westboro | Chelmsford | 75.0% | +7.6 |
+| 2026-06-01 | 5:00 P.M. | St. John’s Prep | Milton | 33.8% | -4.7 |
+| 2026-06-03 | 6:00 P.M. | BC High | Xaverian | 70.6% | +6.1 |
 
 ## Recent Games
 

@@ -1,11 +1,37 @@
 # Boys Volleyball - 2026 Season
 
-Generated: 2026-05-26 13:51
+Generated: 2026-05-27 14:24
 
 ## Upcoming Games
 
-*No upcoming games scheduled*
-
+| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
+|------|------|-----------|-----------|------------|------------------|
+| 2026-05-27 | 1:30 P.M. | Nipmuc | Lynn English | 69.8% | +5.8 |
+| 2026-05-27 | 5:00 P.M. | Milton | Lowell Catholic | 64.7% | +4.2 |
+| 2026-05-27 | 5:00 P.M. | Revere | Brockton | 77.1% | +8.4 |
+| 2026-05-27 | 5:00 P.M. | Belchertown | KIPP | 65.9% | +4.6 |
+| 2026-05-28 | 5:00 P.M. | Salem Academy | Randolph | 46.8% | -0.9 |
+| 2026-05-28 | 3:30 P.M. | Greater Lawrence | Argosy Collegiate | 72.5% | +6.7 |
+| 2026-05-28 | 3:30 P.M. | Keefe Tech | Excel Academy | 44.6% | -1.5 |
+| 2026-05-28 | 5:00 P.M. | Millis | Athol | 48.9% | -0.3 |
+| 2026-05-28 | 5:00 P.M. | Assabet | Boston United | 64.5% | +4.2 |
+| 2026-05-28 | 6:00 P.M. | Wakefield | Bay Path | 40.4% | -2.7 |
+| 2026-05-28 | 4:00 P.M. | Pioneer Charter II | North Middlesex | 59.1% | +2.5 |
+| 2026-05-28 | 3:30 P.M. | Greater New Bedford | Billerica | 73.0% | +6.9 |
+| 2026-05-28 | 6:00 P.M. | Lawrence | Leominster | 69.0% | +5.6 |
+| 2026-05-28 | 6:00 P.M. | Boston Latin | Worcester South | 50.9% | +0.2 |
+| 2026-05-28 | 5:30 P.M. | North Quincy | Doherty | 79.5% | +9.4 |
+| 2026-05-28 | 5:00 P.M. | St. John’s (Shrewsbury) | Malden | 47.1% | -0.8 |
+| 2026-05-28 | 4:00 P.M. | Somerville | BC High | 58.5% | +2.4 |
+| 2026-05-28 | 5:00 P.M. | Newton North | Braintree | 49.9% | -0.0 |
+| 2026-05-28 | 6:00 P.M. | West Springfield | Minnechaug | 61.4% | +3.2 |
+| 2026-05-28 | 6:00 P.M. | Westford | Arlington | 59.1% | +2.6 |
+| 2026-05-28 | 5:00 P.M. | North Andover | Weymouth | 62.3% | +3.5 |
+| 2026-05-29 | 5:00 P.M. | Barnstable | Winchester | 74.1% | +7.3 |
+| 2026-05-29 | 5:00 P.M. | Quincy | Shrewsbury | 59.1% | +2.6 |
+| 2026-05-29 | 4:00 P.M. | Woburn | Hopkinton | 57.1% | +2.0 |
+| 2026-05-29 | 4:00 P.M. | Burlington | Ware | 47.9% | -0.6 |
+| 2026-05-29 | 6:00 P.M. | East Longmeadow | Whittier | 52.6% | +0.7 |
 
 ## Recent Games
 
@@ -26,80 +52,55 @@ Generated: 2026-05-26 13:51
 | 2026-05-22 | Taunton | 3 | New Bedford | 1 | +3.7 | +2.0 |
 | 2026-05-22 | Burlington | 1 | Billerica | 3 | +2.6 | -2.0 |
 | 2026-05-22 | Hingham | 0 | North Quincy | 3 | -9.7 | -3.0 |
-| 2026-05-21 | Innovation Academy | 1 | Greater Lowell | 3 | -2.3 | -2.0 |
-| 2026-05-21 | Burlington | 3 | Framingham | 1 | +8.5 | +2.0 |
+| 2026-05-21 | Whittier | 3 | Greater Lawrence | 2 | -3.7 | +1.0 |
 | 2026-05-21 | Natick | 3 | Milford | 1 | +4.5 | +2.0 |
 | 2026-05-21 | Newton North | 2 | Wayland | 3 | -8.5 | -1.0 |
 | 2026-05-21 | Chelmsford | 3 | Westford | 0 | +6.8 | +3.0 |
 | 2026-05-21 | Algonquin | 0 | Acton-Boxborough | 3 | -2.4 | -3.0 |
 | 2026-05-21 | Dracut | 0 | North Andover | 3 | -1.7 | -3.0 |
 | 2026-05-21 | Xaverian | 3 | Attleboro | 1 | +1.2 | +2.0 |
+| 2026-05-21 | Innovation Academy | 1 | Greater Lowell | 3 | -2.3 | -2.0 |
+| 2026-05-21 | North Middlesex | 1 | Shrewsbury | 3 | +0.4 | -2.0 |
 | 2026-05-21 | Salem | 0 | KIPP | 3 | -5.3 | -3.0 |
-| 2026-05-21 | Whittier | 3 | Greater Lawrence | 2 | -3.7 | +1.0 |
 | 2026-05-21 | Lincoln-Sudbury | 3 | Doherty | 0 | -0.2 | +3.0 |
 | 2026-05-21 | Malden | 3 | Lynn English | 0 | +4.8 | +3.0 |
 | 2026-05-21 | King Philip | 1 | Bellingham | 3 | +0.3 | -2.0 |
 | 2026-05-21 | Latin Academy | 3 | O’Bryant | 1 | +2.3 | +2.0 |
 | 2026-05-21 | Agawam | 3 | Westfield | 2 | -2.4 | +1.0 |
-| 2026-05-21 | North Middlesex | 1 | Shrewsbury | 3 | +0.4 | -2.0 |
-| 2026-05-20 | Nashoba | 0 | Assabet | 3 | -2.9 | -3.0 |
-| 2026-05-20 | Brockton | 3 | New Bedford | 0 | +5.0 | +3.0 |
-| 2026-05-20 | Hingham | 0 | Randolph | 3 | -5.6 | -3.0 |
-| 2026-05-20 | Hopkinton | 3 | Bellingham | 1 | -0.5 | +2.0 |
-| 2026-05-20 | Westwood | 0 | Norton | 3 | -4.1 | -3.0 |
-| 2026-05-20 | Dighton-Rehoboth | 3 | Southeastern | 2 | +1.0 | +1.0 |
-| 2026-05-20 | Shrewsbury | 3 | Doherty | 2 | +4.3 | +1.0 |
-| 2026-05-20 | Worcester Tech | 0 | Ayer Shirley | 3 | -2.1 | -3.0 |
-| 2026-05-20 | Burncoat | 0 | Worcester South | 3 | +1.6 | -3.0 |
-| 2026-05-20 | Haverhill | 3 | Georgetown | 0 | +3.7 | +3.0 |
-| 2026-05-20 | Worcester North | 3 | Fitchburg | 0 | +3.0 | +3.0 |
-| 2026-05-20 | Minnechaug | 2 | Pioneer Valley Christian | 3 | +0.2 | -1.0 |
-| 2026-05-20 | North Quincy | 3 | Quincy | 0 | +2.8 | +3.0 |
-| 2026-05-20 | Billerica | 3 | Wakefield | 2 | +5.3 | +1.0 |
-| 2026-05-20 | Revere | 3 | Lynn English | 1 | +9.4 | +2.0 |
-| 2026-05-20 | Nashoba Valley Tech | 0 | KIPP | 3 | -2.4 | -3.0 |
-| 2026-05-20 | Andover | 0 | Lawrence | 3 | -3.5 | -3.0 |
-| 2026-05-20 | Needham | 2 | Wayland | 3 | +2.8 | -1.0 |
+| 2026-05-21 | Burlington | 3 | Framingham | 1 | +8.5 | +2.0 |
 | 2026-05-20 | Wellesley | 1 | Newton South | 3 | -4.3 | -2.0 |
+| 2026-05-20 | Needham | 2 | Wayland | 3 | +2.8 | -1.0 |
+| 2026-05-20 | Worcester North | 3 | Fitchburg | 0 | +3.0 | +3.0 |
+| 2026-05-20 | Chelsea | 1 | Everett | 3 | +3.5 | -2.0 |
 | 2026-05-20 | Taunton | 0 | Barnstable | 3 | -4.8 | -3.0 |
 | 2026-05-20 | BC High | 3 | Greater New Bedford | 1 | -3.6 | +2.0 |
+| 2026-05-20 | Revere | 3 | Lynn English | 1 | +9.4 | +2.0 |
 | 2026-05-20 | Millis | 1 | Medfield | 3 | -4.3 | -2.0 |
 | 2026-05-20 | Boston Latin | 3 | O’Bryant | 0 | -2.5 | +3.0 |
-| 2026-05-20 | Westfield | 3 | St. John’s (Shrewsbury) | 0 | +9.7 | +3.0 |
 | 2026-05-20 | Greater Lawrence | 1 | North Andover | 3 | +4.6 | -2.0 |
+| 2026-05-20 | Westfield | 3 | St. John’s (Shrewsbury) | 0 | +9.7 | +3.0 |
+| 2026-05-20 | Nashoba Valley Tech | 0 | KIPP | 3 | -2.4 | -3.0 |
 | 2026-05-20 | Winchester | 2 | Cambridge | 3 | +2.3 | -1.0 |
 | 2026-05-20 | Arlington | 3 | Westford | 2 | +0.2 | +1.0 |
 | 2026-05-20 | Wachusett | 1 | Lincoln-Sudbury | 3 | +4.7 | -2.0 |
 | 2026-05-20 | Belmont | 3 | Waltham/Weston | 2 | +1.7 | +1.0 |
 | 2026-05-20 | Somerville | 3 | Malden | 1 | -1.5 | +2.0 |
-| 2026-05-20 | Chelsea | 1 | Everett | 3 | +3.5 | -2.0 |
 | 2026-05-20 | Durfee | 3 | Attleboro | 1 | +2.7 | +2.0 |
+| 2026-05-20 | Shrewsbury | 3 | Doherty | 2 | +4.3 | +1.0 |
 | 2026-05-20 | Woburn | 0 | Methuen | 3 | -0.7 | -3.0 |
-| 2026-05-19 | Latin Academy | 3 | Boston Latin | 0 | +4.8 | +3.0 |
-| 2026-05-19 | Medford | 3 | Lynn Classical | 0 | -5.6 | +3.0 |
-| 2026-05-19 | Essex Tech | 3 | Georgetown | 2 | -0.1 | +1.0 |
-| 2026-05-19 | Whittier | 2 | Innovation Academy | 3 | +2.1 | -1.0 |
-| 2026-05-19 | Methuen | 3 | St. John’s Prep | 0 | +8.3 | +3.0 |
-| 2026-05-19 | Natick | 3 | Brookline | 2 | +1.3 | +1.0 |
-| 2026-05-19 | North Andover | 3 | Greater Lowell | 0 | -1.0 | +3.0 |
-| 2026-05-19 | Needham | 3 | Newton North | 0 | +12.3 | +3.0 |
-| 2026-05-19 | Catholic Memorial | 3 | Xaverian | 1 | +1.3 | +2.0 |
-| 2026-05-19 | Framingham | 0 | Milton | 3 | -5.2 | -3.0 |
-| 2026-05-19 | Westfield | 3 | West Springfield | 0 | +7.0 | +3.0 |
-| 2026-05-19 | Silver Lake | 3 | Scituate | 1 | +5.0 | +2.0 |
-| 2026-05-19 | Frontier | 3 | Duggan Academy | 0 | +0.8 | +3.0 |
-| 2026-05-19 | Agawam | 3 | Chicopee Comprehensive | 2 | +2.8 | +1.0 |
-| 2026-05-19 | Pioneer Charter II | 3 | Salem Academy | 0 | +1.4 | +3.0 |
-| 2026-05-19 | Excel Academy | 2 | Collegiate Charter | 3 | +5.1 | -1.0 |
-| 2026-05-19 | Springfield Sci-Tech | 1 | Belchertown | 3 | -1.1 | -2.0 |
-| 2026-05-19 | Granby | 3 | Springfield International | 2 | +0.4 | +1.0 |
-| 2026-05-19 | Abby Kelley Foster | 0 | Keefe Tech | 3 | -1.9 | -3.0 |
-| 2026-05-19 | Ludlow | 0 | Athol | 3 | +0.9 | -3.0 |
-| 2026-05-19 | North Middlesex | 3 | Ayer Shirley | 1 | -0.5 | +2.0 |
-| 2026-05-19 | Chicopee | 3 | Commerce | 0 | +1.9 | +3.0 |
-| 2026-05-19 | Holyoke | 3 | Hampden Charter East | 0 | +0.8 | +3.0 |
-| 2026-05-19 | Springfield Central | 3 | Southwick | 0 | +1.4 | +3.0 |
-| 2026-05-19 | Weymouth | 3 | Braintree | 0 | +3.3 | +3.0 |
+| 2026-05-20 | Andover | 0 | Lawrence | 3 | -3.5 | -3.0 |
+| 2026-05-20 | Billerica | 3 | Wakefield | 2 | +5.3 | +1.0 |
+| 2026-05-20 | Haverhill | 3 | Georgetown | 0 | +3.7 | +3.0 |
+| 2026-05-20 | North Quincy | 3 | Quincy | 0 | +2.8 | +3.0 |
+| 2026-05-20 | Brockton | 3 | New Bedford | 0 | +5.0 | +3.0 |
+| 2026-05-20 | Hingham | 0 | Randolph | 3 | -5.6 | -3.0 |
+| 2026-05-20 | Hopkinton | 3 | Bellingham | 1 | -0.5 | +2.0 |
+| 2026-05-20 | Westwood | 0 | Norton | 3 | -4.1 | -3.0 |
+| 2026-05-20 | Dighton-Rehoboth | 3 | Southeastern | 2 | +1.0 | +1.0 |
+| 2026-05-20 | Nashoba | 0 | Assabet | 3 | -2.9 | -3.0 |
+| 2026-05-20 | Worcester Tech | 0 | Ayer Shirley | 3 | -2.1 | -3.0 |
+| 2026-05-20 | Burncoat | 0 | Worcester South | 3 | +1.6 | -3.0 |
+| 2026-05-20 | Minnechaug | 2 | Pioneer Valley Christian | 3 | +0.2 | -1.0 |
 
 ## Current Elo Ratings
 

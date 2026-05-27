@@ -1,6 +1,6 @@
 # Girls Golf - 2026 Season
 
-Generated: 2026-05-26 13:51
+Generated: 2026-05-27 14:24
 
 ## Upcoming Games
 
@@ -16,9 +16,6 @@ Generated: 2026-05-26 13:51
 | 2026-05-21 | Auburn | 37 | Nashoba | 11 | -1.1 | +26.0 |
 | 2026-05-20 | Marshfield | 4 | Cohasset | 2 | +2.5 | +2.0 |
 | 2026-05-20 | Wellesley | 4 | Newton North | 2 | +9.7 | +2.0 |
-| 2026-05-19 | Brookline | 1 | Wellesley | 5 | -5.3 | -4.0 |
-| 2026-05-19 | Duxbury | 128 | Hingham | 118 | +3.2 | +10.0 |
-| 2026-05-19 | Hopkinton | 28 | Nashoba | 17 | +6.0 | +11.0 |
 
 ## Current Elo Ratings
 
