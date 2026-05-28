@@ -1,6 +1,6 @@
 # Girls Golf - 2026 Season
 
-Generated: 2026-05-27 14:24
+Generated: 2026-05-28 14:36
 
 ## Upcoming Games
 
@@ -14,8 +14,6 @@ Generated: 2026-05-27 14:24
 | 2026-05-21 | Martha’s Vineyard | 323 | Duxbury | 267 | -1.4 | +56.0 |
 | 2026-05-21 | Wellesley | 33 | Westborough | 20 | +11.6 | +13.0 |
 | 2026-05-21 | Auburn | 37 | Nashoba | 11 | -1.1 | +26.0 |
-| 2026-05-20 | Marshfield | 4 | Cohasset | 2 | +2.5 | +2.0 |
-| 2026-05-20 | Wellesley | 4 | Newton North | 2 | +9.7 | +2.0 |
 
 ## Current Elo Ratings
 

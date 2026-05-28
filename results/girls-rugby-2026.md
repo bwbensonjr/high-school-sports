@@ -1,11 +1,12 @@
 # Girls Rugby - 2026 Season
 
-Generated: 2026-05-27 14:24
+Generated: 2026-05-28 14:36
 
 ## Upcoming Games
 
-*No upcoming games scheduled*
-
+| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
+|------|------|-----------|-----------|------------|------------------|
+| 2026-06-03 | 6:30 P.M. | Belmont | Brookline | 63.1% | +3.7 |
 
 ## Recent Games
 

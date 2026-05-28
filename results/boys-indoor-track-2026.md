@@ -1,6 +1,6 @@
 # Boys Indoor Track - 2026 Season
 
-Generated: 2026-05-27 14:24
+Generated: 2026-05-28 14:36
 
 ## Upcoming Games
 
@@ -58,58 +58,58 @@ Generated: 2026-05-27 14:24
 | 40 | Seekonk | 1520.2 |
 | 41 | Ipswich | 1516.0 |
 | 42 | Lynnfield | 1512.2 |
-| 43 | Somerville | 1502.8 |
-| 44 | Burlington | 1502.8 |
-| 45 | Wakefield | 1502.8 |
-| 46 | Hopkinton | 1502.8 |
-| 47 | Ashland | 1502.8 |
-| 48 | Concord-Carlisle | 1502.8 |
-| 49 | Rockland | 1502.8 |
-| 50 | Bourne | 1502.8 |
-| 51 | Westford | 1502.8 |
-| 52 | Boston Latin | 1502.8 |
-| 53 | Newburyport | 1502.8 |
-| 54 | Falmouth | 1502.8 |
-| 55 | Winchester | 1502.8 |
+| 43 | Concord-Carlisle | 1502.8 |
+| 44 | Wakefield | 1502.8 |
+| 45 | Stoneham | 1502.8 |
+| 46 | Essex Tech | 1502.8 |
+| 47 | Newburyport | 1502.8 |
+| 48 | Weston | 1502.8 |
+| 49 | Mashpee | 1502.8 |
+| 50 | Westwood | 1502.8 |
+| 51 | Lincoln-Sudbury | 1502.8 |
+| 52 | Woburn | 1502.8 |
+| 53 | Bourne | 1502.8 |
+| 54 | Lynn English | 1502.8 |
+| 55 | Somerville | 1502.8 |
 | 56 | Lynn Classical | 1502.8 |
-| 57 | Bedford | 1502.8 |
-| 58 | Lincoln-Sudbury | 1502.8 |
-| 59 | Belmont | 1502.8 |
-| 60 | Bellingham | 1502.8 |
-| 61 | Newton South | 1502.8 |
-| 62 | St. John Paul II | 1502.8 |
-| 63 | Watertown | 1502.8 |
-| 64 | Sandwich | 1502.8 |
-| 65 | Carver | 1502.8 |
-| 66 | Dedham | 1502.8 |
-| 67 | Hull | 1502.8 |
-| 68 | Abington | 1502.8 |
-| 69 | Reading | 1502.8 |
-| 70 | Wilmington | 1502.8 |
-| 71 | Malden | 1502.8 |
-| 72 | Waltham | 1502.8 |
-| 73 | Monomoy | 1502.8 |
-| 74 | North Reading | 1502.8 |
-| 75 | Essex Tech | 1502.8 |
-| 76 | Middleborough | 1502.8 |
-| 77 | Stoneham | 1502.8 |
-| 78 | Chelsea | 1502.8 |
-| 79 | Cambridge | 1502.8 |
-| 80 | Norwell | 1502.8 |
-| 81 | Nantucket | 1502.8 |
-| 82 | Lynn English | 1502.8 |
-| 83 | Lexington | 1502.8 |
-| 84 | Wayland | 1502.8 |
-| 85 | Andover | 1502.8 |
-| 86 | Randolph | 1502.8 |
-| 87 | Arlington | 1502.8 |
-| 88 | Melrose | 1502.8 |
-| 89 | Medway | 1502.8 |
-| 90 | Weston | 1502.8 |
-| 91 | Woburn | 1502.8 |
-| 92 | Mashpee | 1502.8 |
-| 93 | Revere | 1502.8 |
-| 94 | Westwood | 1502.8 |
+| 57 | Bellingham | 1502.8 |
+| 58 | Chelsea | 1502.8 |
+| 59 | Arlington | 1502.8 |
+| 60 | Rockland | 1502.8 |
+| 61 | Waltham | 1502.8 |
+| 62 | Melrose | 1502.8 |
+| 63 | Carver | 1502.8 |
+| 64 | Hopkinton | 1502.8 |
+| 65 | Watertown | 1502.8 |
+| 66 | Winchester | 1502.8 |
+| 67 | Cambridge | 1502.8 |
+| 68 | Middleborough | 1502.8 |
+| 69 | Lexington | 1502.8 |
+| 70 | Falmouth | 1502.8 |
+| 71 | Wilmington | 1502.8 |
+| 72 | Malden | 1502.8 |
+| 73 | Norwell | 1502.8 |
+| 74 | Boston Latin | 1502.8 |
+| 75 | Reading | 1502.8 |
+| 76 | Bedford | 1502.8 |
+| 77 | Belmont | 1502.8 |
+| 78 | Burlington | 1502.8 |
+| 79 | Sandwich | 1502.8 |
+| 80 | Medway | 1502.8 |
+| 81 | Hull | 1502.8 |
+| 82 | Nantucket | 1502.8 |
+| 83 | Dedham | 1502.8 |
+| 84 | Ashland | 1502.8 |
+| 85 | Monomoy | 1502.8 |
+| 86 | Westford | 1502.8 |
+| 87 | Andover | 1502.8 |
+| 88 | Randolph | 1502.8 |
+| 89 | Revere | 1502.8 |
+| 90 | Abington | 1502.8 |
+| 91 | Newton South | 1502.8 |
+| 92 | North Reading | 1502.8 |
+| 93 | St. John Paul II | 1502.8 |
+| 94 | Wayland | 1502.8 |
 | 95 | Tri-County | 1484.3 |
 | 96 | Triton | 1482.1 |
 | 97 | Martha’s Vineyard | 1480.7 |

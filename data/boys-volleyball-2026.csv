@@ -1031,13 +1031,16 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-22,115221,FINAL,Burlington,4065,1,0,Billerica,4040,3,1,Middlesex,Merrimack Valley,5:30 P.M.,,0
 2026-05-22,115258,FINAL,Hingham,4171,0,0,North Quincy,4287,3,1,Patriot,Patriot,5:15 P.M.,,0
 2026-05-22,118939,FINAL,Greater Lawrence,4154,3,1,Greater Lowell,4155,1,0,Commonwealth,Commonwealth,,,0
-2026-05-27,119188,UPCOMING,Nipmuc,4281,,,Lynn English,4221,,,CMAC,Greater Boston,1:30 P.M.,,0
-2026-05-27,119194,UPCOMING,Milton,4252,,,Lowell Catholic,4217,,,Bay State,Commonwealth,5:00 P.M.,,0
-2026-05-27,119200,UPCOMING,Revere,4329,,,Brockton,4058,,,Greater Boston,Patriot,5:00 P.M.,,0
-2026-05-27,119326,UPCOMING,Belchertown,4032,,,KIPP,4703,,,Independent,Commonwealth,5:00 P.M.,,0
+2026-05-27,119188,FINAL,Nipmuc,4281,3,1,Lynn English,4221,1,0,CMAC,Greater Boston,1:30 P.M.,,0
+2026-05-27,119194,FINAL,Milton,4252,2,0,Lowell Catholic,4217,3,1,Bay State,Commonwealth,5:00 P.M.,,0
+2026-05-27,119200,FINAL,Revere,4329,3,1,Brockton,4058,0,0,Greater Boston,Patriot,5:00 P.M.,,0
+2026-05-27,119323,FINAL,Southwick,4519,3,1,Collegiate Charter,4986,0,0,Independent,Charter School Athletic,5:00 P.M.,,0
+2026-05-27,119326,FINAL,Belchertown,4032,3,1,KIPP,4703,0,0,Independent,Commonwealth,5:00 P.M.,,0
+2026-05-27,120967,FINAL,Greater New Bedford,4156,3,1,Greater Lawrence,4154,1,0,Independent,Commonwealth,4:00 P.M.,,0
 2026-05-28,119125,UPCOMING,North Andover,4283,,,Weymouth,4425,,,Merrimack Valley,Bay State,5:00 P.M.,,0
 2026-05-28,119128,UPCOMING,Westford,4421,,,Arlington,4013,,,Dual County,Middlesex,6:00 P.M.,,0
 2026-05-28,119134,UPCOMING,West Springfield,4417,,,Minnechaug,4254,,,Independent,Independent,6:00 P.M.,,0
+2026-05-28,119155,UPCOMING,Methuen,4246,,,Nipmuc,4281,,,Merrimack Valley,CMAC,5:00 P.M.,,0
 2026-05-28,119158,UPCOMING,Newton North,4279,,,Braintree,4051,,,Bay State,Bay State,5:00 P.M.,,0
 2026-05-28,119179,UPCOMING,Somerville,4351,,,BC High,4029,,,Greater Boston,Catholic Conference,4:00 P.M.,,0
 2026-05-28,119182,UPCOMING,St. John’s (Shrewsbury),4368,,,Malden,4227,,,Catholic Conference,Greater Boston,5:00 P.M.,,0
@@ -1045,6 +1048,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-28,119191,UPCOMING,Boston Latin,4049,,,Worcester South,4444,,,Dual County,CMAC,6:00 P.M.,,0
 2026-05-28,119197,UPCOMING,Lawrence,4203,,,Leominster,4208,,,Merrimack Valley,Mid-Wach,6:00 P.M.,,0
 2026-05-28,119203,UPCOMING,Greater New Bedford,4156,,,Billerica,4040,,,Independent,Merrimack Valley,3:30 P.M.,,0
+2026-05-28,119257,UPCOMING,Bellingham,4033,,,Dracut,4119,,,Tri-Valley,Merrimack Valley,7:00 P.M.,,0
 2026-05-28,119299,UPCOMING,Pioneer Charter II,4964,,,North Middlesex,4286,,,Charter School Athletic,Mid-Wach,4:00 P.M.,,0
 2026-05-28,119302,UPCOMING,Wakefield,4402,,,Bay Path,4027,,,Middlesex,CMAC,6:00 P.M.,,0
 2026-05-28,119305,UPCOMING,Assabet,4016,,,Boston United,4798,,,CMAC,Boston City,5:00 P.M.,,0
@@ -1053,7 +1057,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-28,119314,UPCOMING,Greater Lawrence,4154,,,Argosy Collegiate,5032,,,Commonwealth,Charter School Athletic,3:30 P.M.,,0
 2026-05-28,119317,UPCOMING,Salem Academy,4604,,,Randolph,4327,,,Charter School Athletic,Independent,5:00 P.M.,,0
 2026-05-29,119131,UPCOMING,Barnstable,4024,,,Winchester,4434,,,Independent,Middlesex,5:00 P.M.,,0
+2026-05-29,119149,UPCOMING,Cambridge,4067,,,Lowell Catholic,4217,,,Dual County,Commonwealth,6:00 P.M.,,0
 2026-05-29,119173,UPCOMING,Quincy,4326,,,Shrewsbury,4348,,,Patriot,Mid-Wach,5:00 P.M.,,0
 2026-05-29,119176,UPCOMING,Woburn,4438,,,Hopkinton,4180,,,Middlesex,Tri-Valley,4:00 P.M.,,0
+2026-05-29,119251,UPCOMING,Lynn Classical,4220,,,Greater Lowell,4155,,,Greater Boston,Commonwealth,6:00 P.M.,,0
 2026-05-29,119260,UPCOMING,Burlington,4065,,,Ware,4406,,,Middlesex,Independent,4:00 P.M.,,0
+2026-05-29,119269,UPCOMING,Marlborough,4233,,,Belchertown,4032,,,Mid-Wach,Independent,5:00 P.M.,,0
+2026-05-29,119320,UPCOMING,Ayer Shirley,4022,,,Innovation Academy,4690,,,Mid-Wach,Commonwealth,3:30 P.M.,,0
 2026-05-29,119329,UPCOMING,East Longmeadow,4127,,,Whittier,4428,,,Independent,Commonwealth,6:00 P.M.,,0
+2026-05-30,119143,UPCOMING,Newton South,4280,,,Revere,4329,,,Dual County,Greater Boston,11:30 A.M.,,0
