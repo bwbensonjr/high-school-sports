@@ -1,6 +1,6 @@
 # Girls Golf - 2026 Season
 
-Generated: 2026-05-28 14:36
+Generated: 2026-05-29 13:57
 
 ## Upcoming Games
 
@@ -9,11 +9,8 @@ Generated: 2026-05-28 14:36
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-05-21 | Martha’s Vineyard | 323 | Duxbury | 267 | -1.4 | +56.0 |
-| 2026-05-21 | Wellesley | 33 | Westborough | 20 | +11.6 | +13.0 |
-| 2026-05-21 | Auburn | 37 | Nashoba | 11 | -1.1 | +26.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 
