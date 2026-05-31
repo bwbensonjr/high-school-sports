@@ -1,6 +1,6 @@
 # Girls Tennis - 2026 Season
 
-Generated: 2026-05-30 12:03
+Generated: 2026-05-31 12:10
 
 ## Upcoming Games
 
@@ -18,20 +18,22 @@ Generated: 2026-05-30 12:03
 | 2026-06-01 | 4:00 P.M. | Winchester | Natick | 82.8% | +10.9 |
 | 2026-06-01 | 4:00 P.M. | Acton-Boxborough | Arlington | 56.0% | +1.7 |
 | 2026-06-01 | 3:00 P.M. | Lynnfield | St. John Paul II | 85.2% | +12.2 |
-| 2026-06-02 | 4:00 P.M. | Monomoy | Weston | 87.7% | +13.6 |
+| 2026-06-02 | 4:30 P.M. | Notre Dame (Hingham) | Masconomet | 78.9% | +9.2 |
 | 2026-06-02 | 3:30 P.M. | Hamilton-Wenham | Pioneer Valley Chinese Immersion | 80.0% | +9.6 |
 | 2026-06-02 | 5:00 P.M. | Ipswich | Uxbridge | 68.9% | +5.5 |
 | 2026-06-02 | 3:00 P.M. | Dover-Sherborn | Latin Academy | 85.7% | +12.5 |
-| 2026-06-02 | 4:30 P.M. | Notre Dame (Hingham) | Masconomet | 78.9% | +9.2 |
+| 2026-06-02 | 4:00 P.M. | Monomoy | Weston | 87.7% | +13.6 |
+| 2026-06-02 | 4:00 P.M. | Bedford | Holliston | 63.6% | +3.9 |
+| 2026-06-02 | 4:00 P.M. | Lexington | Algonquin | 74.8% | +7.6 |
+| 2026-06-02 | 4:00 P.M. | Milton | Reading | 70.8% | +6.1 |
+| 2026-06-02 | 4:00 P.M. | Newburyport | Longmeadow | 61.7% | +3.3 |
+| 2026-06-02 | 4:00 P.M. | Westwood | Bishop Stang | 57.4% | +2.1 |
 | 2026-06-02 | 4:00 P.M. | Wellesley | Belmont | 71.7% | +6.5 |
 | 2026-06-02 | 2:00 P.M. | Hingham | Wayland | 82.6% | +10.8 |
-| 2026-06-02 | 4:00 P.M. | Milton | Reading | 70.8% | +6.1 |
-| 2026-06-02 | 4:00 P.M. | Westwood | Bishop Stang | 57.4% | +2.1 |
-| 2026-06-02 | 4:00 P.M. | Lexington | Algonquin | 74.8% | +7.6 |
-| 2026-06-02 | 4:00 P.M. | Bedford | Holliston | 63.6% | +3.9 |
-| 2026-06-03 | 4:00 P.M. | Wilmington | Falmouth | 49.4% | -0.2 |
-| 2026-06-03 | 4:00 P.M. | Duxbury | Marblehead | 70.7% | +6.1 |
 | 2026-06-03 | 4:00 P.M. | Ursuline | Medfield | 78.4% | +8.9 |
+| 2026-06-03 | 4:00 P.M. | Duxbury | Marblehead | 70.7% | +6.1 |
+| 2026-06-03 | 4:00 P.M. | Wilmington | Falmouth | 49.4% | -0.2 |
+| 2026-06-03 | 4:00 P.M. | Bourne | Lenox | 51.7% | +0.5 |
 
 ## Recent Games
 
@@ -79,19 +81,19 @@ Generated: 2026-05-30 12:03
 | 2026-05-27 | Amesbury | 5 | Southbridge | 0 | -2.4 | +5.0 |
 | 2026-05-27 | Hopedale | 5 | Mystic Valley | 0 | +5.4 | +5.0 |
 | 2026-05-27 | Gloucester | 4 | St. Mary (Westfield) | 1 | +0.7 | +3.0 |
-| 2026-05-27 | Westborough | 2 | Algonquin | 3 | +2.3 | -1.0 |
+| 2026-05-27 | Cambridge | 4 | Diman | 1 | -4.7 | +3.0 |
 | 2026-05-27 | Milton | 5 | Archbishop Williams | 0 | +6.4 | +5.0 |
 | 2026-05-27 | Natick | 5 | Central Catholic | 0 | -3.6 | +5.0 |
 | 2026-05-27 | Wellesley | 5 | Framingham | 0 | +10.8 | +5.0 |
+| 2026-05-27 | Westborough | 2 | Algonquin | 3 | +2.3 | -1.0 |
 | 2026-05-27 | Notre Dame (Tyngsborough) | 5 | Pioneer Valley Christian | 0 | +2.6 | +5.0 |
-| 2026-05-27 | Cambridge | 4 | Diman | 1 | -4.7 | +3.0 |
 | 2026-05-27 | Brookline | 3 | Taunton | 2 | -5.3 | +1.0 |
 | 2026-05-27 | Methuen | 3 | Brockton | 2 | +0.9 | +1.0 |
 | 2026-05-27 | Billerica | 5 | Malden | 0 | +1.9 | +5.0 |
-| 2026-05-27 | Oliver Ames | 1 | Masconomet | 4 | +7.2 | -3.0 |
+| 2026-05-27 | Waltham | 5 | Revere | 0 | -3.4 | +5.0 |
 | 2026-05-27 | North Quincy | 2 | Holliston | 3 | +3.4 | -1.0 |
 | 2026-05-27 | Wayland | 5 | Dartmouth | 0 | -4.2 | +5.0 |
-| 2026-05-27 | Waltham | 5 | Revere | 0 | -3.4 | +5.0 |
+| 2026-05-27 | Oliver Ames | 1 | Masconomet | 4 | +7.2 | -3.0 |
 | 2026-05-27 | Westwood | 5 | Agawam | 0 | +7.3 | +5.0 |
 | 2026-05-27 | Reading | 4 | King Philip | 1 | -3.5 | +3.0 |
 | 2026-05-27 | Pentucket | 5 | North Middlesex | 0 | -4.8 | +5.0 |
@@ -103,7 +105,6 @@ Generated: 2026-05-30 12:03
 | 2026-05-27 | Bishop Stang | 4 | Burlington | 1 | +14.9 | +3.0 |
 | 2026-05-27 | Melrose | 3 | Plymouth South | 2 | +5.5 | +1.0 |
 | 2026-05-26 | Auburn | 5 | Cape Cod Academy | 0 | +4.4 | +5.0 |
-| 2026-05-26 | Marblehead | 4 | Nauset | 1 | +4.6 | +3.0 |
 | 2026-05-26 | Whitman-Hanson | 3 | Leominster | 2 | -1.8 | +1.0 |
 | 2026-05-26 | Danvers | 3 | East Longmeadow | 2 | -2.4 | +1.0 |
 | 2026-05-26 | Somerville | 3 | Medford | 2 | +4.6 | +1.0 |
@@ -111,7 +112,7 @@ Generated: 2026-05-30 12:03
 | 2026-05-26 | Wakefield | 3 | Doherty | 2 | -2.3 | +1.0 |
 | 2026-05-26 | Nashoba | 2 | Agawam | 3 | +4.3 | -1.0 |
 | 2026-05-26 | North Reading | 3 | Norwell | 2 | -6.7 | +1.0 |
-| 2026-05-26 | Plymouth North | 5 | Springfield Central | 0 | +1.0 | +5.0 |
+| 2026-05-26 | Marblehead | 4 | Nauset | 1 | +4.6 | +3.0 |
 | 2026-05-26 | Advanced Math and Science | 4 | Notre Dame (Worcester) | 1 | +1.2 | +3.0 |
 | 2026-05-26 | Quabbin | 3 | Whitinsville Christian | 2 | +3.4 | +1.0 |
 | 2026-05-26 | Pembroke | 4 | Hudson | 1 | -2.0 | +3.0 |
@@ -120,7 +121,7 @@ Generated: 2026-05-30 12:03
 | 2026-05-26 | Westport | 1 | Uxbridge | 4 | +3.1 | -3.0 |
 | 2026-05-26 | Carver | 2 | Renaissance | 3 | -5.3 | -1.0 |
 | 2026-05-26 | Greenfield | 4 | David Prouty | 1 | +2.5 | +3.0 |
-| 2026-05-23 | Milton Academy | 4 | Nobles | 5 | -1.4 | -1.0 |
+| 2026-05-26 | Plymouth North | 5 | Springfield Central | 0 | +1.0 | +5.0 |
 
 ## Current Elo Ratings
 
