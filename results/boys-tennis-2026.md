@@ -1,89 +1,89 @@
 # Boys Tennis - 2026 Season
 
-Generated: 2026-05-31 12:10
+Generated: 2026-06-01 16:35
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-05-31 | 12:00 P.M. | Marblehead | Grafton | 87.3% | +13.4 |
-| 2026-05-31 | 2:00 P.M. | Westborough | Ashland | 75.9% | +8.0 |
-| 2026-05-31 | 2:00 P.M. | Falmouth | Pentucket | 79.6% | +9.5 |
-| 2026-06-01 | 3:30 P.M. | Hamilton-Wenham | Ipswich | 90.6% | +15.7 |
+| 2026-06-01 | 4:15 P.M. | Winchester | Concord-Carlisle | 74.0% | +7.3 |
 | 2026-06-01 | 4:30 P.M. | Cohasset | Rockport | 72.3% | +6.7 |
-| 2026-06-01 | 2:30 P.M. | Newburyport | Nantucket | 60.0% | +2.8 |
+| 2026-06-01 | 4:00 P.M. | Lenox | Sutton | 60.5% | +3.0 |
+| 2026-06-01 | 2:00 P.M. | Newburyport | Nantucket | 60.0% | +2.8 |
 | 2026-06-01 | 4:00 P.M. | Bedford | Groton-Dunstable | 44.2% | -1.6 |
 | 2026-06-01 | 4:00 P.M. | East Longmeadow | Watertown | 66.6% | +4.8 |
 | 2026-06-01 | 6:00 P.M. | Scituate | Latin Academy | 70.5% | +6.1 |
-| 2026-06-01 | 4:30 P.M. | Longmeadow | Mansfield | 48.4% | -0.4 |
-| 2026-06-01 | 4:00 P.M. | Lenox | Sutton | 60.5% | +3.0 |
+| 2026-06-01 | 3:30 P.M. | Hamilton-Wenham | Ipswich | 90.6% | +15.7 |
+| 2026-06-01 | 4:00 P.M. | Masconomet | Northampton | 59.7% | +2.7 |
 | 2026-06-01 | 4:30 P.M. | Hingham | Reading | 80.2% | +9.7 |
 | 2026-06-01 | 4:00 P.M. | St. John’s Prep | BC High | 83.1% | +11.1 |
 | 2026-06-01 | 4:30 P.M. | Newton North | Boston Latin | 69.8% | +5.8 |
 | 2026-06-01 | 4:15 P.M. | Lincoln-Sudbury | Belmont | 67.2% | +5.0 |
 | 2026-06-01 | 2:00 P.M. | Needham | Wellesley | 60.7% | +3.0 |
-| 2026-06-01 | 4:15 P.M. | Winchester | Concord-Carlisle | 74.0% | +7.3 |
-| 2026-06-01 | 4:00 P.M. | Masconomet | Northampton | 59.7% | +2.7 |
+| 2026-06-01 | 4:30 P.M. | Longmeadow | Mansfield | 48.4% | -0.4 |
 | 2026-06-02 | 4:30 P.M. | Mystic Valley | Leicester | 59.9% | +2.8 |
 | 2026-06-02 | 4:30 P.M. | Pioneer Valley Chinese Immersion | Bourne | 60.5% | +3.0 |
 | 2026-06-02 | 4:00 P.M. | Mt. Greylock | Bromfield | 48.2% | -0.5 |
 | 2026-06-02 | 4:00 P.M. | Weston | Gloucester | 66.5% | +4.8 |
 | 2026-06-02 | 4:00 P.M. | Wayland | North Reading | 53.2% | +0.9 |
-| 2026-06-02 | 4:00 P.M. | Lexington | Arlington | 80.2% | +9.7 |
-| 2026-06-02 | 4:00 P.M. | Duxbury | Canton | 72.4% | +6.7 |
+| 2026-06-02 | 4:00 P.M. | Wilmington | Medfield | 39.7% | -2.9 |
 | 2026-06-02 | 4:00 P.M. | Walpole | Burlington | 64.2% | +4.1 |
+| 2026-06-02 | 4:00 P.M. | Duxbury | Canton | 72.4% | +6.7 |
+| 2026-06-02 | 4:00 P.M. | Lexington | Arlington | 80.2% | +9.7 |
 | 2026-06-02 | 3:30 P.M. | Westford | St. John’s (Shrewsbury) | 78.6% | +9.1 |
 | 2026-06-02 | 4:30 P.M. | Newton South | Shrewsbury | 65.9% | +4.6 |
-| 2026-06-02 | 4:00 P.M. | Wilmington | Medfield | 39.7% | -2.9 |
+| 2026-06-02 | 4:00 P.M. | Westborough | Plymouth South | 65.8% | +4.6 |
 | 2026-06-03 | 3:30 P.M. | Amesbury | Lee | 59.3% | +2.6 |
+| 2026-06-03 | 3:15 P.M. | Sharon | Algonquin | 80.7% | +10.0 |
 | 2026-06-03 | 3:00 P.M. | Manchester Essex | Sturgis East/West | 58.2% | +2.3 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-05-29 | Lenox | 5 | Springfield International | 0 | +2.1 | +5.0 |
-| 2026-05-29 | Bourne | 3 | Mashpee | 2 | +1.5 | +1.0 |
-| 2026-05-29 | Weston | 5 | Belchertown | 0 | +6.9 | +5.0 |
-| 2026-05-29 | Bedford | 5 | Cardinal Spellman | 0 | -2.0 | +5.0 |
+| 2026-05-31 | Falmouth | 3 | Pentucket | 2 | +9.5 | +1.0 |
+| 2026-05-31 | Westborough | 5 | Ashland | 0 | +8.0 | +5.0 |
+| 2026-05-31 | Marblehead | 4 | Grafton | 1 | +13.4 | +3.0 |
 | 2026-05-29 | Longmeadow | 5 | Doherty | 0 | +4.4 | +5.0 |
-| 2026-05-29 | Northampton | 4 | Marshfield | 1 | +5.1 | +3.0 |
-| 2026-05-29 | Plymouth South | 3 | Milton | 2 | +9.4 | +1.0 |
-| 2026-05-29 | Newton North | 5 | Malden Catholic | 0 | +12.6 | +5.0 |
-| 2026-05-29 | Shrewsbury | 4 | Bishop Feehan | 1 | +5.2 | +3.0 |
 | 2026-05-29 | Xaverian | 2 | BC High | 3 | +7.0 | -1.0 |
-| 2026-05-28 | Lexington | 5 | Wachusett | 0 | +14.0 | +5.0 |
-| 2026-05-28 | Duxbury | 5 | Shepherd Hill | 0 | +9.7 | +5.0 |
-| 2026-05-28 | Melrose | 2 | Grafton | 3 | +6.6 | -1.0 |
-| 2026-05-28 | Algonquin | 5 | Quincy | 0 | +3.1 | +5.0 |
-| 2026-05-28 | Canton | 4 | North Quincy | 1 | +4.8 | +3.0 |
-| 2026-05-28 | Lincoln-Sudbury | 5 | Waltham | 0 | +14.2 | +5.0 |
-| 2026-05-28 | Westford | 5 | Franklin | 0 | +11.6 | +5.0 |
-| 2026-05-28 | Belmont | 3 | Acton-Boxborough | 2 | +8.0 | +1.0 |
-| 2026-05-28 | Wellesley | 4 | North Andover | 1 | +1.6 | +3.0 |
-| 2026-05-28 | Concord-Carlisle | 5 | Hopkinton | 0 | -1.4 | +5.0 |
+| 2026-05-29 | Newton North | 5 | Malden Catholic | 0 | +12.6 | +5.0 |
+| 2026-05-29 | Plymouth South | 3 | Milton | 2 | +9.4 | +1.0 |
+| 2026-05-29 | Northampton | 4 | Marshfield | 1 | +5.1 | +3.0 |
+| 2026-05-29 | Shrewsbury | 4 | Bishop Feehan | 1 | +5.2 | +3.0 |
+| 2026-05-29 | Bedford | 5 | Cardinal Spellman | 0 | -2.0 | +5.0 |
+| 2026-05-29 | Weston | 5 | Belchertown | 0 | +6.9 | +5.0 |
+| 2026-05-29 | Bourne | 3 | Mashpee | 2 | +1.5 | +1.0 |
+| 2026-05-29 | Lenox | 5 | Springfield International | 0 | +2.1 | +5.0 |
 | 2026-05-28 | East Longmeadow | 4 | Bishop Fenwick | 1 | +4.4 | +3.0 |
+| 2026-05-28 | Lincoln-Sudbury | 5 | Waltham | 0 | +14.2 | +5.0 |
+| 2026-05-28 | Concord-Carlisle | 5 | Hopkinton | 0 | -1.4 | +5.0 |
+| 2026-05-28 | Wellesley | 4 | North Andover | 1 | +1.6 | +3.0 |
+| 2026-05-28 | Belmont | 3 | Acton-Boxborough | 2 | +8.0 | +1.0 |
+| 2026-05-28 | Westford | 5 | Franklin | 0 | +11.6 | +5.0 |
+| 2026-05-28 | Lexington | 5 | Wachusett | 0 | +14.0 | +5.0 |
+| 2026-05-28 | Canton | 4 | North Quincy | 1 | +4.8 | +3.0 |
+| 2026-05-28 | Algonquin | 5 | Quincy | 0 | +3.1 | +5.0 |
+| 2026-05-28 | Melrose | 2 | Grafton | 3 | +6.6 | -1.0 |
+| 2026-05-28 | Duxbury | 5 | Shepherd Hill | 0 | +9.7 | +5.0 |
 | 2026-05-28 | Martha’s Vineyard | 5 | Fairhaven | 0 | +2.6 | +5.0 |
-| 2026-05-28 | Latin Academy | 4 | Monomoy | 1 | +4.0 | +3.0 |
+| 2026-05-28 | Ipswich | 4 | Wareham | 1 | -11.2 | +3.0 |
 | 2026-05-28 | Scituate | 4 | Norwell | 1 | +7.7 | +3.0 |
 | 2026-05-28 | Wilmington | 3 | Dover-Sherborn | 2 | +0.3 | +1.0 |
 | 2026-05-28 | Pentucket | 3 | Foxborough | 2 | +1.4 | +1.0 |
+| 2026-05-28 | Latin Academy | 4 | Monomoy | 1 | +4.0 | +3.0 |
 | 2026-05-28 | Wayland | 5 | Amherst-Pelham | 0 | +0.7 | +5.0 |
-| 2026-05-28 | Ipswich | 4 | Wareham | 1 | -11.2 | +3.0 |
 | 2026-05-28 | Bromfield | 5 | Uxbridge | 0 | +2.4 | +5.0 |
 | 2026-05-28 | Amesbury | 4 | Westport | 1 | +3.4 | +3.0 |
 | 2026-05-28 | Rockport | 4 | Randolph | 1 | +0.9 | +3.0 |
 | 2026-05-28 | Sturgis East/West | 3 | Frontier | 2 | +2.4 | +1.0 |
 | 2026-05-28 | Pioneer Valley Chinese Immersion | 5 | Seekonk | 0 | +8.8 | +5.0 |
 | 2026-05-28 | Mystic Valley | 5 | Hampden Charter East | 0 | +4.7 | +5.0 |
-| 2026-05-27 | Cohasset | 5 | St. John Paul II | 0 | +6.2 | +5.0 |
+| 2026-05-27 | Sutton | 5 | Mt. Everett | 0 | -0.1 | +5.0 |
 | 2026-05-27 | Hamilton-Wenham | 5 | Millbury | 0 | +9.4 | +5.0 |
 | 2026-05-27 | Mt. Greylock | 4 | Carver | 1 | +5.0 | +3.0 |
-| 2026-05-27 | Sutton | 5 | Mt. Everett | 0 | -0.1 | +5.0 |
 | 2026-05-27 | Lee | 3 | Tyngsborough | 2 | -2.6 | +1.0 |
-| 2026-05-27 | Leicester | 5 | Monument Mtn. | 0 | +5.7 | +5.0 |
-| 2026-05-27 | Cambridge | 2 | Wachusett | 3 | -6.7 | -1.0 |
-| 2026-05-27 | Marblehead | 3 | North Attleborough | 2 | +10.8 | +1.0 |
+| 2026-05-27 | Malden Catholic | 4 | Diman | 1 | -4.5 | +3.0 |
+| 2026-05-27 | Sharon | 5 | Wakefield | 0 | +18.5 | +5.0 |
 | 2026-05-27 | Arlington | 5 | Brookline | 0 | +5.6 | +5.0 |
 | 2026-05-27 | St. John’s (Shrewsbury) | 3 | Andover | 2 | -0.9 | +1.0 |
 | 2026-05-27 | Boston Latin | 4 | Framingham | 1 | +7.6 | +3.0 |
@@ -91,23 +91,25 @@ Generated: 2026-05-31 12:10
 | 2026-05-27 | Needham | 4 | Natick | 1 | +12.9 | +3.0 |
 | 2026-05-27 | Winchester | 3 | Lowell | 2 | +3.7 | +1.0 |
 | 2026-05-27 | St. John’s Prep | 5 | Medford | 0 | +8.3 | +5.0 |
-| 2026-05-27 | Belchertown | 5 | Tewksbury | 0 | +3.2 | +5.0 |
-| 2026-05-27 | Malden Catholic | 4 | Diman | 1 | -4.5 | +3.0 |
+| 2026-05-27 | Cambridge | 2 | Wachusett | 3 | -6.7 | -1.0 |
+| 2026-05-27 | Cohasset | 5 | St. John Paul II | 0 | +6.2 | +5.0 |
 | 2026-05-27 | Waltham | 3 | Bridgewater-Raynham | 2 | -6.4 | +1.0 |
-| 2026-05-27 | Burlington | 4 | Minnechaug | 1 | +2.8 | +3.0 |
 | 2026-05-27 | Mansfield | 3 | King Philip | 2 | +7.7 | +1.0 |
-| 2026-05-27 | Sharon | 5 | Wakefield | 0 | +18.5 | +5.0 |
-| 2026-05-27 | Gloucester | 3 | Cape Cod Academy | 2 | +0.4 | +1.0 |
+| 2026-05-27 | Marblehead | 3 | North Attleborough | 2 | +10.8 | +1.0 |
+| 2026-05-27 | Burlington | 4 | Minnechaug | 1 | +2.8 | +3.0 |
+| 2026-05-27 | Hingham | 5 | Somerset Berkley | 0 | +4.2 | +5.0 |
+| 2026-05-27 | Old Rochester | 2 | Groton-Dunstable | 3 | +6.3 | -1.0 |
+| 2026-05-27 | Leicester | 5 | Monument Mtn. | 0 | +5.7 | +5.0 |
+| 2026-05-27 | Belchertown | 5 | Tewksbury | 0 | +3.2 | +5.0 |
 | 2026-05-27 | Watertown | 3 | Pope Francis | 2 | +3.8 | +1.0 |
 | 2026-05-27 | Medfield | 4 | Medway | 1 | +6.4 | +3.0 |
+| 2026-05-27 | Reading | 4 | Dartmouth | 1 | -3.9 | +3.0 |
 | 2026-05-27 | Falmouth | 5 | Maimonides | 0 | +5.3 | +5.0 |
-| 2026-05-27 | Hingham | 5 | Somerset Berkley | 0 | +4.2 | +5.0 |
 | 2026-05-27 | Lynnfield | 2 | North Reading | 3 | +0.9 | -1.0 |
-| 2026-05-27 | Old Rochester | 2 | Groton-Dunstable | 3 | +6.3 | -1.0 |
+| 2026-05-27 | Gloucester | 3 | Cape Cod Academy | 2 | +0.4 | +1.0 |
 | 2026-05-27 | Somerville | 2 | Shepherd Hill | 3 | +6.1 | -1.0 |
 | 2026-05-27 | Billerica | 1 | Doherty | 4 | +0.3 | -3.0 |
 | 2026-05-27 | Walpole | 5 | Westwood | 0 | +5.5 | +5.0 |
-| 2026-05-27 | Reading | 4 | Dartmouth | 1 | -3.9 | +3.0 |
 | 2026-05-26 | Cardinal Spellman | 4 | Tantasqua | 1 | -0.0 | +3.0 |
 | 2026-05-26 | Attleboro | 5 | Malden | 0 | +6.7 | +5.0 |
 | 2026-05-26 | Masconomet | 5 | St. Mary’s | 0 | +2.2 | +5.0 |
@@ -131,18 +133,18 @@ Generated: 2026-05-31 12:10
 | 3 | St. John’s Prep | 1752.4 |
 | 4 | Sharon | 1735.1 |
 | 5 | Duxbury | 1725.5 |
-| 6 | Marblehead | 1719.8 |
+| 6 | Marblehead | 1725.0 |
 | 7 | Winchester | 1719.7 |
 | 8 | Hingham | 1707.7 |
 | 9 | Newton South | 1706.8 |
-| 10 | Falmouth | 1698.1 |
+| 10 | Falmouth | 1702.4 |
 | 11 | Hamilton-Wenham | 1696.1 |
 | 12 | Needham | 1680.0 |
 | 13 | Newton North | 1679.8 |
 | 14 | Mansfield | 1678.0 |
 | 15 | Scituate | 1676.5 |
-| 16 | Martha’s Vineyard | 1673.8 |
-| 17 | Westborough | 1661.7 |
+| 16 | Westborough | 1674.7 |
+| 17 | Martha’s Vineyard | 1673.8 |
 | 18 | Lowell | 1660.9 |
 | 19 | Falmouth Academy | 1659.1 |
 | 20 | Weston | 1654.7 |
@@ -230,26 +232,26 @@ Generated: 2026-05-31 12:10
 | 102 | Cardinal Spellman | 1513.7 |
 | 103 | Wayland | 1513.7 |
 | 104 | Norwell | 1513.1 |
-| 105 | Ashland | 1512.7 |
-| 106 | Shepherd Hill | 1512.6 |
-| 107 | Pentucket | 1511.7 |
-| 108 | Pioneer Valley Christian | 1511.5 |
-| 109 | Mashpee | 1510.4 |
-| 110 | Lynn English | 1510.4 |
-| 111 | North Quincy | 1509.0 |
-| 112 | Worcester Academy | 1508.7 |
-| 113 | Sturgis East/West | 1508.6 |
-| 114 | Foxborough | 1508.0 |
-| 115 | Marshfield | 1506.6 |
-| 116 | Belchertown | 1504.1 |
-| 117 | Rockland/EB | 1503.7 |
-| 118 | Palmer | 1502.3 |
-| 119 | Franklin | 1502.3 |
-| 120 | Chelmsford | 1501.4 |
-| 121 | Pittsfield | 1500.0 |
-| 122 | Greater Lowell | 1500.0 |
-| 123 | Fellowship Christian | 1500.0 |
-| 124 | Greater Lawrence | 1500.0 |
+| 105 | Shepherd Hill | 1512.6 |
+| 106 | Pioneer Valley Christian | 1511.5 |
+| 107 | Mashpee | 1510.4 |
+| 108 | Lynn English | 1510.4 |
+| 109 | North Quincy | 1509.0 |
+| 110 | Worcester Academy | 1508.7 |
+| 111 | Sturgis East/West | 1508.6 |
+| 112 | Foxborough | 1508.0 |
+| 113 | Pentucket | 1507.4 |
+| 114 | Marshfield | 1506.6 |
+| 115 | Belchertown | 1504.1 |
+| 116 | Rockland/EB | 1503.7 |
+| 117 | Palmer | 1502.3 |
+| 118 | Franklin | 1502.3 |
+| 119 | Chelmsford | 1501.4 |
+| 120 | Greater Lawrence | 1500.0 |
+| 121 | Fellowship Christian | 1500.0 |
+| 122 | Pittsfield | 1500.0 |
+| 123 | Greater Lowell | 1500.0 |
+| 124 | Ashland | 1499.7 |
 | 125 | Lenox | 1499.4 |
 | 126 | Chicopee | 1498.1 |
 | 127 | Austin Prep | 1496.9 |
@@ -304,10 +306,10 @@ Generated: 2026-05-31 12:10
 | 176 | Tilton | 1445.5 |
 | 177 | Monument Mtn. | 1439.3 |
 | 178 | Pembroke | 1437.4 |
-| 179 | Grafton | 1434.5 |
-| 180 | Carver | 1432.7 |
-| 181 | West Boylston | 1432.2 |
-| 182 | Thayer | 1430.6 |
+| 179 | Carver | 1432.7 |
+| 180 | West Boylston | 1432.2 |
+| 181 | Thayer | 1430.6 |
+| 182 | Grafton | 1429.2 |
 | 183 | Pope Francis | 1427.2 |
 | 184 | Southbridge | 1425.9 |
 | 185 | Taunton | 1425.9 |

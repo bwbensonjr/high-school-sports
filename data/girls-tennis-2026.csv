@@ -1683,7 +1683,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-28,118410,FINAL,Lenox,4532,4,1,Mt. Greylock,4262,1,0,Independent,Independent,4:00 P.M.,,0
 2026-05-29,118044,FINAL,Bishop Feehan,4042,2,0,Lincoln-Sudbury,4211,3,1,Independent,Dual County,4:00 P.M.,,0
 2026-05-29,118074,FINAL,Westford,4421,5,1,Billerica,4040,0,0,Dual County,Merrimack Valley,4:30 P.M.,,0
-2026-05-29,118077,UPCOMING,Boston Latin,4049,,,Methuen,4246,,,Dual County,Merrimack Valley,3:00 P.M.,,0
+2026-05-29,118077,FINAL,Boston Latin,4049,5,1,Methuen,4246,0,0,Dual County,Merrimack Valley,3:00 P.M.,,0
 2026-05-29,118080,FINAL,Winchester,4434,5,1,Brookline,4059,0,0,Middlesex,Bay State,3:00 P.M.,,0
 2026-05-29,118164,FINAL,Newburyport,4276,5,1,Wakefield,4402,0,0,Cape Ann,Middlesex,4:00 P.M.,,0
 2026-05-29,118185,FINAL,Hingham,4171,5,1,Somerville,4351,0,0,Patriot,Greater Boston,2:30 P.M.,,0
@@ -1697,9 +1697,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-29,118413,FINAL,Randolph,4327,3,1,Mashpee,4237,0,0,South Shore,South Shore,4:30 P.M.,,0
 2026-05-29,118416,FINAL,Rising Tide Charter,4746,3,1,Sutton,4512,2,0,Cape & Islands,Independent,3:30 P.M.,,0
 2026-05-29,118428,FINAL,Hamilton-Wenham,4163,5,1,Renaissance,4664,0,0,Cape Ann,Independent,3:30 P.M.,,0
-2026-05-31,118068,UPCOMING,Andover,4009,,,Franklin,4144,,,Merrimack Valley,Hockomock,11:00 A.M.,,0
-2026-05-31,118278,UPCOMING,Swampscott,4383,,,Pentucket,4309,,,Northeastern,Cape Ann,10:00 A.M.,,0
+2026-05-31,118068,FINAL,Andover,4009,5,1,Franklin,4144,0,0,Merrimack Valley,Hockomock,11:00 A.M.,,0
+2026-05-31,118278,FINAL,Swampscott,4383,5,1,Pentucket,4309,0,0,Northeastern,Cape Ann,10:00 A.M.,,0
 2026-06-01,118017,UPCOMING,Acton-Boxborough,4003,,,Arlington,4013,,,Dual County,Middlesex,4:00 P.M.,,0
+2026-06-01,118026,UPCOMING,Westford,4421,,,Sharon,4345,,,Dual County,Hockomock,5:00 P.M.,,0
 2026-06-01,118032,UPCOMING,Winchester,4434,,,Natick,4270,,,Middlesex,Bay State,4:00 P.M.,,0
 2026-06-01,118035,UPCOMING,Newton South,4280,,,Newton North,4279,,,Dual County,Bay State,4:30 P.M.,,0
 2026-06-01,118125,UPCOMING,Scituate,4343,,,Melrose,4244,,,Patriot,Middlesex,4:00 P.M.,,0
@@ -1707,16 +1708,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-01,118260,UPCOMING,Martha’s Vineyard,4235,,,North Reading,4288,,,Cape & Islands,Cape Ann,3:00 P.M.,,0
 2026-06-01,118359,UPCOMING,Hopedale,4507,,,Rockport,4490,,,Independent,Cape Ann,3:00 P.M.,,0
 2026-06-01,118365,UPCOMING,Cohasset,4094,,,Randolph,4327,,,South Shore,South Shore,4:30 P.M.,,0
+2026-06-01,118368,UPCOMING,Bromfield,4505,,,Rising Tide Charter,4746,,,Mid-Wach,Cape & Islands,4:00 P.M.,,0
 2026-06-01,118371,UPCOMING,Amesbury,4007,,,Sturgis East,4456,,,Cape Ann,Cape & Islands,3:30 P.M.,,0
 2026-06-01,118425,UPCOMING,Manchester Essex,4229,,,Greenfield,4157,,,Cape Ann,Independent,4:00 P.M.,,0
 2026-06-02,118014,UPCOMING,Wellesley,4413,,,Belmont,4034,,,Bay State,Middlesex,4:00 P.M.,,0
 2026-06-02,118023,UPCOMING,Lexington,4209,,,Algonquin,4005,,,Middlesex,Mid-Wach,4:00 P.M.,,0
+2026-06-02,118029,UPCOMING,Boston Latin,4049,,,Lincoln-Sudbury,4211,,,Dual County,Dual County,2:00 P.M.,,0
 2026-06-02,118128,UPCOMING,Westwood,4424,,,Bishop Stang,4045,,,Tri-Valley,Catholic Central,4:00 P.M.,,0
 2026-06-02,118131,UPCOMING,Newburyport,4276,,,Longmeadow,4214,,,Cape Ann,Independent,4:00 P.M.,,0
 2026-06-02,118134,UPCOMING,Milton,4252,,,Reading,4328,,,Bay State,Middlesex,4:00 P.M.,,0
 2026-06-02,118137,UPCOMING,Hingham,4171,,,Wayland,4411,,,Patriot,Dual County,2:00 P.M.,,0
 2026-06-02,118143,UPCOMING,Bedford,4031,,,Holliston,4174,,,Dual County,Tri-Valley,4:00 P.M.,,0
 2026-06-02,118146,UPCOMING,Notre Dame (Hingham),4449,,,Masconomet,4236,,,Catholic Conference,Northeastern,4:30 P.M.,,0
+2026-06-02,118245,UPCOMING,Swampscott,4383,,,Bishop Fenwick,4043,,,Northeastern,Catholic Central,4:00 P.M.,,0
 2026-06-02,118248,UPCOMING,Monomoy,4706,,,Weston,4423,,,Cape & Islands,Dual County,4:00 P.M.,,0
 2026-06-02,118257,UPCOMING,Dover-Sherborn,4118,,,Latin Academy,4202,,,Tri-Valley,Boston City,3:00 P.M.,,0
 2026-06-02,118374,UPCOMING,Ipswich,4190,,,Uxbridge,4398,,,Cape Ann,Independent,5:00 P.M.,,0

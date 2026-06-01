@@ -1843,7 +1843,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-21,104272,UPCOMING,Whittier,4428,,,Mystic Valley,4264,,,Commonwealth,Commonwealth,4:00 P.M.,,0
 2026-05-21,110154,UPCOMING,Scituate,4343,,,Cohasset,4094,,,Patriot,South Shore,3:00 P.M.,,0
 2026-05-21,117338,UPCOMING,Tri-County,4392,,,Old Colony,4300,,,Mayflower,Mayflower,3:30 P.M.,,0
-2026-05-21,119024,FINAL,Phillips Andover,4310,23,1,Brooks,4060,5,0,Independent,ISL,,,0
+2026-05-21,119024,FINAL,Phillips Andover,4310,23.0,1.0,Brooks,4060,5.0,0.0,Independent,ISL,,,0
 2026-05-22,118936,FINAL,Groton,4544,8,0,St. Mark’s,4372,9,1,ISL,ISL,,,0
 2026-05-22,119025,FINAL,Phillips Andover,4310,21,1,Phillips Exeter,4311,5,0,Independent,Independent,,,0
 2026-05-23,117639,FINAL,Arlington,4013,16,1,Haverhill,4167,8,0,Middlesex,Merrimack Valley,10:00 A.M.,,0
@@ -1950,11 +1950,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-30,117690,FINAL,Reading,4328,13,1,Minnechaug,4254,0,0,Middlesex,Independent,11:30 A.M.,,0
 2026-05-30,117795,FINAL,St. Mary’s,4374,10,1,Weston,4423,5,0,Catholic Central,Dual County,5:15 P.M.,,0
 2026-05-30,117810,FINAL,Cohasset,4094,17,1,Hanover,4164,2,0,South Shore,Patriot,5:00 P.M.,,0
-2026-05-31,117570,UPCOMING,Acton-Boxborough,4003,,,Wellesley,4413,,,Dual County,Bay State,12:30 P.M.,,0
-2026-05-31,117687,UPCOMING,Hingham,4171,,,Melrose,4244,,,Patriot,Middlesex,1:00 P.M.,,0
-2026-05-31,117693,UPCOMING,Walpole,4404,,,Marshfield,4234,,,Bay State,Patriot,12:00 P.M.,,0
-2026-05-31,117927,UPCOMING,Nipmuc,4281,,,Mt. Greylock,4262,,,CMAC,Independent,2:00 P.M.,,0
-2026-05-31,117936,UPCOMING,Sandwich,4340,,,Stoneham,4380,,,Cape & Islands,Middlesex,11:00 A.M.,,0
+2026-05-31,117570,FINAL,Wellesley,4413,12,1,Acton-Boxborough,4003,6,0,Bay State,Dual County,12:30 P.M.,,0
+2026-05-31,117681,FINAL,Longmeadow,4214,16,1,Milton,4252,7,0,Independent,Bay State,,,0
+2026-05-31,117687,FINAL,Hingham,4171,13,1,Melrose,4244,6,0,Patriot,Middlesex,1:00 P.M.,,0
+2026-05-31,117693,FINAL,Walpole,4404,19,1,Marshfield,4234,7,0,Bay State,Patriot,12:00 P.M.,,0
+2026-05-31,117927,FINAL,Nipmuc,4281,14,1,Mt. Greylock,4262,9,0,CMAC,Independent,2:00 P.M.,,0
+2026-05-31,117936,FINAL,Sandwich,4340,16,1,Stoneham,4380,2,0,Cape & Islands,Middlesex,11:00 A.M.,,0
 2026-06-01,117582,UPCOMING,Concord-Carlisle,4097,,,Belmont,4034,,,Dual County,Middlesex,4:30 P.M.,,0
 2026-06-01,117585,UPCOMING,Chelmsford,4085,,,Beverly,4038,,,Merrimack Valley,Northeastern,6:00 P.M.,,0
 2026-06-01,117672,UPCOMING,Grafton,4153,,,Westwood,4424,,,Mid-Mass.,Tri-Valley,6:30 P.M.,,0
@@ -1967,3 +1968,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-01,117924,UPCOMING,Lynnfield,4223,,,Seekonk,4344,,,Cape Ann,South Coast,4:00 P.M.,,0
 2026-06-01,117933,UPCOMING,Ipswich,4190,,,Tyngsborough,4397,,,Cape Ann,Mid-Wach,3:30 P.M.,,0
 2026-06-02,117555,UPCOMING,Westford,4421,,,Franklin,4144,,,Dual County,Hockomock,3:15 P.M.,,0
+2026-06-02,117564,UPCOMING,Notre Dame (Hingham),4449,,,Lincoln-Sudbury,4211,,,Independent,Dual County,5:00 P.M.,,0
+2026-06-02,117660,UPCOMING,Duxbury,4123,,,Longmeadow,4214,,,Patriot,Independent,4:00 P.M.,,0
+2026-06-03,117783,UPCOMING,Nashoba,4267,,,St. Mary’s,4374,,,Mid-Wach,Catholic Central,6:00 P.M.,,0
