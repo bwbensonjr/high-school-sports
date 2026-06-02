@@ -1,12 +1,11 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-06-01 16:35
+Generated: 2026-06-02 14:50
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-06-01 | 5:00 P.M. | St. John’s Prep | Milton | 33.8% | -4.7 |
 | 2026-06-03 | 6:00 P.M. | BC High | Xaverian | 70.6% | +6.1 |
 | 2026-06-04 | 6:00 P.M. | Hanover | Blue Hills | 50.8% | +0.2 |
 | 2026-06-05 | 6:00 P.M. | Algonquin/Westboro | Brookline | 63.9% | +4.0 |
@@ -15,6 +14,7 @@ Generated: 2026-06-01 16:35
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-06-01 | St. John’s Prep | 24 | Milton | 29 | -4.7 | -5.0 |
 | 2026-05-29 | Brookline | 31 | Hingham/Norwell | 10 | -2.9 | +21.0 |
 | 2026-05-28 | Hanover | 52 | Marshfield/SST | 10 | +4.3 | +42.0 |
 | 2026-05-28 | Blue Hills | 49 | Catholic Memorial | 0 | +11.1 | +49.0 |
@@ -25,7 +25,7 @@ Generated: 2026-06-01 16:35
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | BC High | 1662.9 |
-| 2 | Milton | 1633.0 |
+| 2 | Milton | 1651.2 |
 | 3 | Algonquin/Westboro | 1629.7 |
 | 4 | Blue Hills | 1603.8 |
 | 5 | Hingham/Norwell | 1590.8 |
@@ -34,8 +34,8 @@ Generated: 2026-06-01 16:35
 | 8 | Xaverian | 1560.8 |
 | 9 | Hanover | 1559.4 |
 | 10 | Braintree | 1500.0 |
-| 11 | St. John’s Prep | 1466.2 |
-| 12 | Belmont | 1460.3 |
+| 11 | Belmont | 1460.3 |
+| 12 | St. John’s Prep | 1448.0 |
 | 13 | Chelmsford | 1438.5 |
 | 14 | Marshfield/SST | 1423.1 |
 | 15 | Burncoat | 1412.2 |

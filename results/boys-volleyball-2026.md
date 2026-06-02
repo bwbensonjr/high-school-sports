@@ -1,59 +1,62 @@
 # Boys Volleyball - 2026 Season
 
-Generated: 2026-06-01 16:35
+Generated: 2026-06-02 14:50
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-06-01 | 5:30 P.M. | Brookline | Arlington | 69.9% | +5.9 |
-| 2026-06-01 | 5:00 P.M. | Marlborough | Granby | 61.1% | +3.1 |
-| 2026-06-01 | 5:30 P.M. | Westfield | Springfield International | 73.8% | +7.2 |
-| 2026-06-01 | 4:00 P.M. | Latin Academy | East Longmeadow | 71.7% | +6.5 |
 | 2026-06-02 | 5:00 P.M. | Lowell | Cambridge | 74.4% | +7.4 |
 | 2026-06-02 | 5:30 P.M. | Newton South | Acton-Boxborough | 57.5% | +2.1 |
+| 2026-06-02 | 5:00 P.M. | Agawam | Methuen | 58.1% | +2.3 |
 | 2026-06-02 | 5:30 P.M. | Chelmsford | West Springfield | 77.0% | +8.4 |
 | 2026-06-02 | 5:00 P.M. | Natick | Barnstable | 58.9% | +2.5 |
 | 2026-06-02 | 4:30 P.M. | Needham | North Andover | 69.4% | +5.7 |
 | 2026-06-02 | 5:00 P.M. | Longmeadow | Pioneer Valley Christian | 47.7% | -0.6 |
 | 2026-06-02 | 3:45 P.M. | Milford | Burlington | 68.0% | +5.3 |
+| 2026-06-02 | 6:00 P.M. | Chicopee Comprehensive | Dracut | 68.9% | +5.5 |
 | 2026-06-02 | 4:00 P.M. | Wayland | Greater Lowell | 74.2% | +7.3 |
 | 2026-06-03 | 5:00 P.M. | Lexington | Newton North | 83.0% | +11.0 |
 | 2026-06-03 | 5:30 P.M. | Medfield | Norton | 63.6% | +3.9 |
+| 2026-06-04 | 5:30 P.M. | Westfield | Marlborough | 71.4% | +6.3 |
+| 2026-06-04 | 4:00 P.M. | Latin Academy | O’Bryant | 61.4% | +3.2 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-06-01 | Latin Academy | 3 | East Longmeadow | 0 | +6.5 | +3.0 |
+| 2026-06-01 | Westfield | 3 | Springfield International | 1 | +7.2 | +2.0 |
+| 2026-06-01 | Marlborough | 3 | Granby | 1 | +3.1 | +2.0 |
+| 2026-06-01 | Brookline | 3 | Arlington | 0 | +5.9 | +3.0 |
 | 2026-05-31 | Natick | 3 | Somerville | 0 | +7.1 | +3.0 |
 | 2026-05-31 | Chelmsford | 3 | St. John’s (Shrewsbury) | 0 | +10.0 | +3.0 |
 | 2026-05-30 | Pioneer Valley Christian | 3 | Ayer Shirley | 0 | +2.2 | +3.0 |
 | 2026-05-30 | Lexington | 3 | North Quincy | 0 | +3.4 | +3.0 |
-| 2026-05-30 | Agawam | 3 | Greater New Bedford | 0 | -0.3 | +3.0 |
-| 2026-05-30 | Needham | 3 | Quincy | 0 | +6.0 | +3.0 |
 | 2026-05-30 | Lowell | 3 | Lawrence | 1 | +4.8 | +2.0 |
+| 2026-05-30 | Needham | 3 | Quincy | 0 | +6.0 | +3.0 |
+| 2026-05-30 | Agawam | 3 | Greater New Bedford | 0 | -0.3 | +3.0 |
 | 2026-05-30 | Milford | 3 | Millis | 0 | +6.9 | +3.0 |
-| 2026-05-30 | Chicopee Comprehensive | 3 | Assabet | 0 | +1.6 | +3.0 |
 | 2026-05-30 | Westfield | 3 | Wakefield | 0 | +12.8 | +3.0 |
 | 2026-05-30 | Wayland | 3 | Pioneer Charter II | 0 | +9.7 | +3.0 |
-| 2026-05-29 | Marlborough | 3 | Belchertown | 0 | +0.3 | +3.0 |
-| 2026-05-29 | Brookline | 3 | Woburn | 0 | +7.8 | +3.0 |
-| 2026-05-29 | Quincy | 3 | Shrewsbury | 0 | +2.6 | +3.0 |
+| 2026-05-30 | Chicopee Comprehensive | 3 | Assabet | 0 | +1.6 | +3.0 |
+| 2026-05-29 | Longmeadow | 3 | Southwick | 0 | +3.8 | +3.0 |
 | 2026-05-29 | Lynn Classical | 2 | Greater Lowell | 3 | +1.0 | -1.0 |
 | 2026-05-29 | Veritas Prep | 2 | Springfield International | 3 | +3.0 | -1.0 |
 | 2026-05-29 | Burlington | 3 | Ware | 0 | -0.6 | +3.0 |
 | 2026-05-29 | Medfield | 3 | Keefe Tech | 0 | +8.1 | +3.0 |
-| 2026-05-29 | Ayer Shirley | 3 | Innovation Academy | 0 | +6.2 | +3.0 |
-| 2026-05-29 | Longmeadow | 3 | Southwick | 0 | +3.8 | +3.0 |
-| 2026-05-29 | Granby | 3 | Randolph | 0 | +0.1 | +3.0 |
+| 2026-05-29 | Marlborough | 3 | Belchertown | 0 | +0.3 | +3.0 |
 | 2026-05-29 | O’Bryant | 3 | Greater Lawrence | 1 | -0.6 | +2.0 |
+| 2026-05-29 | Granby | 3 | Randolph | 0 | +0.1 | +3.0 |
 | 2026-05-29 | Springfield Sci-Tech | 1 | Norton | 3 | -3.3 | -2.0 |
-| 2026-05-29 | Cambridge | 3 | Lowell Catholic | 0 | +3.1 | +3.0 |
+| 2026-05-29 | Ayer Shirley | 3 | Innovation Academy | 0 | +6.2 | +3.0 |
 | 2026-05-29 | East Longmeadow | 3 | Whittier | 0 | +0.7 | +3.0 |
+| 2026-05-29 | Brookline | 3 | Woburn | 0 | +7.8 | +3.0 |
+| 2026-05-29 | Quincy | 3 | Shrewsbury | 0 | +2.6 | +3.0 |
 | 2026-05-29 | Acton-Boxborough | 3 | Boston Latin | 2 | +5.2 | +1.0 |
+| 2026-05-29 | Cambridge | 3 | Lowell Catholic | 0 | +3.1 | +3.0 |
 | 2026-05-29 | Newton South | 3 | Revere | 0 | -3.4 | +3.0 |
 | 2026-05-29 | Barnstable | 3 | Winchester | 1 | +7.3 | +2.0 |
-| 2026-05-28 | North Quincy | 3 | Doherty | 0 | +9.4 | +3.0 |
 | 2026-05-28 | Boston Latin | 3 | Worcester South | 0 | +0.2 | +3.0 |
 | 2026-05-28 | North Andover | 3 | Weymouth | 0 | +3.5 | +3.0 |
 | 2026-05-28 | Westford | 1 | Arlington | 3 | +2.6 | -2.0 |
@@ -63,8 +66,9 @@ Generated: 2026-06-01 16:35
 | 2026-05-28 | Woburn | 3 | Hopkinton | 2 | +2.0 | +1.0 |
 | 2026-05-28 | Somerville | 3 | BC High | 2 | +2.4 | +1.0 |
 | 2026-05-28 | St. John’s (Shrewsbury) | 3 | Malden | 0 | -0.8 | +3.0 |
-| 2026-05-28 | Lawrence | 3 | Leominster | 1 | +5.6 | +2.0 |
+| 2026-05-28 | North Quincy | 3 | Doherty | 0 | +9.4 | +3.0 |
 | 2026-05-28 | Greater New Bedford | 3 | Billerica | 0 | +7.4 | +3.0 |
+| 2026-05-28 | Lawrence | 3 | Leominster | 1 | +5.6 | +2.0 |
 | 2026-05-28 | Bellingham | 1 | Dracut | 3 | +5.7 | -2.0 |
 | 2026-05-28 | Pioneer Charter II | 3 | North Middlesex | 2 | +2.5 | +1.0 |
 | 2026-05-28 | Wakefield | 3 | Bay Path | 1 | -2.7 | +2.0 |
@@ -88,11 +92,11 @@ Generated: 2026-06-01 16:35
 | 2 | Chelmsford | 1723.7 |
 | 3 | Needham | 1720.9 |
 | 4 | Lexington | 1713.2 |
-| 5 | Westfield | 1695.7 |
-| 6 | Lowell | 1684.5 |
-| 7 | Natick | 1679.2 |
-| 8 | Revere | 1676.0 |
-| 9 | Brookline | 1675.7 |
+| 5 | Westfield | 1704.4 |
+| 6 | Brookline | 1688.2 |
+| 7 | Lowell | 1684.5 |
+| 8 | Natick | 1679.2 |
+| 9 | Revere | 1676.0 |
 | 10 | Medfield | 1674.8 |
 | 11 | Barnstable | 1666.7 |
 | 12 | North Quincy | 1645.5 |
@@ -103,32 +107,32 @@ Generated: 2026-06-01 16:35
 | 17 | Methuen | 1618.2 |
 | 18 | Pioneer Valley Christian | 1601.0 |
 | 19 | Quincy | 1596.8 |
-| 20 | Milford | 1594.2 |
-| 21 | Greater Lowell | 1594.1 |
-| 22 | Lawrence | 1593.1 |
-| 23 | Newton South | 1592.2 |
-| 24 | Acton-Boxborough | 1589.8 |
-| 25 | Nipmuc | 1587.2 |
-| 26 | Belchertown | 1584.3 |
-| 27 | Marlborough | 1583.0 |
+| 20 | Marlborough | 1595.8 |
+| 21 | Milford | 1594.2 |
+| 22 | Greater Lowell | 1594.1 |
+| 23 | Lawrence | 1593.1 |
+| 24 | Newton South | 1592.2 |
+| 25 | Acton-Boxborough | 1589.8 |
+| 26 | Nipmuc | 1587.2 |
+| 27 | Belchertown | 1584.3 |
 | 28 | Greater Lawrence | 1580.8 |
-| 29 | Arlington | 1579.4 |
+| 29 | Latin Academy | 1579.9 |
 | 30 | Chicopee Comprehensive | 1574.4 |
-| 31 | Latin Academy | 1568.2 |
-| 32 | Springfield International | 1565.8 |
-| 33 | Veritas Prep | 1565.3 |
-| 34 | West Springfield | 1563.4 |
-| 35 | Ayer Shirley | 1561.4 |
-| 36 | Shrewsbury | 1561.3 |
-| 37 | Randolph | 1560.9 |
-| 38 | Weymouth | 1560.1 |
-| 39 | Granby | 1554.3 |
-| 40 | Westford | 1554.2 |
-| 41 | Excel Academy | 1553.8 |
-| 42 | O’Bryant | 1549.5 |
-| 43 | Cambridge | 1548.8 |
-| 44 | Assabet | 1547.9 |
-| 45 | Lynn Classical | 1546.0 |
+| 31 | Arlington | 1566.9 |
+| 32 | Veritas Prep | 1565.3 |
+| 33 | West Springfield | 1563.4 |
+| 34 | Ayer Shirley | 1561.4 |
+| 35 | Shrewsbury | 1561.3 |
+| 36 | Randolph | 1560.9 |
+| 37 | Weymouth | 1560.1 |
+| 38 | Springfield International | 1557.1 |
+| 39 | Westford | 1554.2 |
+| 40 | Excel Academy | 1553.8 |
+| 41 | O’Bryant | 1549.5 |
+| 42 | Cambridge | 1548.8 |
+| 43 | Assabet | 1547.9 |
+| 44 | Lynn Classical | 1546.0 |
+| 45 | Granby | 1541.5 |
 | 46 | Malden | 1541.3 |
 | 47 | Longmeadow | 1534.7 |
 | 48 | Bellingham | 1534.5 |
@@ -152,8 +156,8 @@ Generated: 2026-06-01 16:35
 | 66 | Hopkinton | 1502.7 |
 | 67 | Keefe Tech | 1502.3 |
 | 68 | Minnechaug | 1501.0 |
-| 69 | Phillips Andover | 1500.0 |
-| 70 | Walpole | 1500.0 |
+| 69 | Walpole | 1500.0 |
+| 70 | Phillips Andover | 1500.0 |
 | 71 | Bay Path | 1499.1 |
 | 72 | North Middlesex | 1496.5 |
 | 73 | Boston Latin | 1495.5 |
@@ -181,17 +185,17 @@ Generated: 2026-06-01 16:35
 | 95 | Doherty | 1459.1 |
 | 96 | Southwick | 1458.6 |
 | 97 | Wachusett | 1457.2 |
-| 98 | East Longmeadow | 1456.5 |
-| 99 | Frontier | 1455.9 |
-| 100 | Putnam | 1455.5 |
-| 101 | Foxborough Charter | 1450.6 |
-| 102 | Innovation Academy | 1450.0 |
-| 103 | Millis | 1449.4 |
-| 104 | Chicopee | 1449.4 |
-| 105 | Whittier | 1448.7 |
-| 106 | Holyoke | 1447.1 |
-| 107 | Lynn Tech | 1446.8 |
-| 108 | Duggan Academy | 1446.6 |
+| 98 | Frontier | 1455.9 |
+| 99 | Putnam | 1455.5 |
+| 100 | Foxborough Charter | 1450.6 |
+| 101 | Innovation Academy | 1450.0 |
+| 102 | Millis | 1449.4 |
+| 103 | Chicopee | 1449.4 |
+| 104 | Whittier | 1448.7 |
+| 105 | Holyoke | 1447.1 |
+| 106 | Lynn Tech | 1446.8 |
+| 107 | Duggan Academy | 1446.6 |
+| 108 | East Longmeadow | 1444.7 |
 | 109 | Medford | 1442.9 |
 | 110 | Algonquin | 1438.9 |
 | 111 | St. John’s Prep | 1437.7 |

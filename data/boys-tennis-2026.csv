@@ -1593,21 +1593,21 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-31,118576,FINAL,Marblehead,4231,4,1,Grafton,4153,1,0,Northeastern,Independent,12:00 P.M.,,0
 2026-05-31,118636,FINAL,Westborough,4418,5,1,Ashland,4015,0,0,Mid-Wach,Tri-Valley,2:00 P.M.,,0
 2026-05-31,118672,FINAL,Falmouth,4134,3,1,Pentucket,4309,2,0,Cape & Islands,Cape Ann,2:00 P.M.,,0
-2026-06-01,118456,UPCOMING,Winchester,4434,,,Concord-Carlisle,4097,,,Middlesex,Dual County,4:15 P.M.,,0
-2026-06-01,118459,UPCOMING,Needham,4272,,,Wellesley,4413,,,Bay State,Bay State,2:00 P.M.,,0
-2026-06-01,118465,UPCOMING,Lincoln-Sudbury,4211,,,Belmont,4034,,,Dual County,Middlesex,4:15 P.M.,,0
-2026-06-01,118468,UPCOMING,Newton North,4279,,,Boston Latin,4049,,,Bay State,Dual County,4:30 P.M.,,0
-2026-06-01,118471,UPCOMING,St. John’s Prep,4369,,,BC High,4029,,,Catholic Conference,Catholic Conference,4:00 P.M.,,0
-2026-06-01,118567,UPCOMING,Hingham,4171,,,Reading,4328,,,Patriot,Middlesex,4:30 P.M.,,0
-2026-06-01,118573,UPCOMING,Masconomet,4236,,,Northampton,4291,,,Northeastern,Independent,4:00 P.M.,,0
-2026-06-01,118585,UPCOMING,Longmeadow,4214,,,Mansfield,4230,,,Independent,Hockomock,4:30 P.M.,,0
-2026-06-01,118675,UPCOMING,Scituate,4343,,,Latin Academy,4202,,,Patriot,Boston City,6:00 P.M.,,0
-2026-06-01,118678,UPCOMING,East Longmeadow,4127,,,Watertown,4409,,,Independent,Middlesex,4:00 P.M.,,0
-2026-06-01,118681,UPCOMING,Bedford,4031,,,Groton-Dunstable,4160,,,Dual County,Mid-Wach,4:00 P.M.,,0
-2026-06-01,118732,UPCOMING,Newburyport,4276,,,Nantucket,4265,,,Cape Ann,Cape & Islands,2:00 P.M.,,0
-2026-06-01,118789,UPCOMING,Lenox,4532,,,Sutton,4512,,,Independent,Independent,4:00 P.M.,,0
-2026-06-01,118792,UPCOMING,Cohasset,4094,,,Rockport,4490,,,South Shore,Cape Ann,4:30 P.M.,,0
-2026-06-01,118807,UPCOMING,Hamilton-Wenham,4163,,,Ipswich,4190,,,Cape Ann,Cape Ann,3:30 P.M.,,0
+2026-06-01,118456,FINAL,Winchester,4434,2,0,Concord-Carlisle,4097,3,1,Middlesex,Dual County,4:15 P.M.,,0
+2026-06-01,118459,FINAL,Needham,4272,4,1,Wellesley,4413,1,0,Bay State,Bay State,2:00 P.M.,,0
+2026-06-01,118465,FINAL,Lincoln-Sudbury,4211,4,1,Belmont,4034,1,0,Dual County,Middlesex,4:15 P.M.,,0
+2026-06-01,118468,FINAL,Newton North,4279,5,1,Boston Latin,4049,0,0,Bay State,Dual County,4:30 P.M.,,0
+2026-06-01,118471,FINAL,St. John’s Prep,4369,5,1,BC High,4029,0,0,Catholic Conference,Catholic Conference,4:00 P.M.,,0
+2026-06-01,118567,FINAL,Hingham,4171,3,1,Reading,4328,2,0,Patriot,Middlesex,4:30 P.M.,,0
+2026-06-01,118573,FINAL,Masconomet,4236,3,1,Northampton,4291,2,0,Northeastern,Independent,4:00 P.M.,,0
+2026-06-01,118585,FINAL,Longmeadow,4214,4,1,Mansfield,4230,1,0,Independent,Hockomock,4:30 P.M.,,0
+2026-06-01,118675,FINAL,Scituate,4343,4,1,Latin Academy,4202,1,0,Patriot,Boston City,6:00 P.M.,,0
+2026-06-01,118678,FINAL,East Longmeadow,4127,3,1,Watertown,4409,2,0,Independent,Middlesex,4:00 P.M.,,0
+2026-06-01,118681,FINAL,Bedford,4031,5,1,Groton-Dunstable,4160,0,0,Dual County,Mid-Wach,4:00 P.M.,,0
+2026-06-01,118732,FINAL,Newburyport,4276,5,1,Nantucket,4265,0,0,Cape Ann,Cape & Islands,2:00 P.M.,,0
+2026-06-01,118789,FINAL,Lenox,4532,3,1,Sutton,4512,2,0,Independent,Independent,4:00 P.M.,,0
+2026-06-01,118792,FINAL,Cohasset,4094,4,1,Rockport,4490,1,0,South Shore,Cape Ann,4:30 P.M.,,0
+2026-06-01,118807,FINAL,Hamilton-Wenham,4163,5,1,Ipswich,4190,0,0,Cape Ann,Cape Ann,3:30 P.M.,,0
 2026-06-02,118462,UPCOMING,Newton South,4280,,,Shrewsbury,4348,,,Dual County,Mid-Wach,4:30 P.M.,,0
 2026-06-02,118474,UPCOMING,Westford,4421,,,St. John’s (Shrewsbury),4368,,,Dual County,Catholic Conference,3:30 P.M.,,0
 2026-06-02,118477,UPCOMING,Lexington,4209,,,Arlington,4013,,,Middlesex,Middlesex,4:00 P.M.,,0
@@ -1621,5 +1621,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-02,118801,UPCOMING,Pioneer Valley Chinese Immersion,4955,,,Bourne,4050,,,Independent,South Coast,4:30 P.M.,,0
 2026-06-02,118804,UPCOMING,Mystic Valley,4264,,,Leicester,4207,,,Cape Ann,Independent,4:30 P.M.,,0
 2026-06-03,118570,UPCOMING,Sharon,4345,,,Algonquin,4005,,,Hockomock,Mid-Wach,3:15 P.M.,,0
+2026-06-03,118684,UPCOMING,Newburyport,4276,,,Martha’s Vineyard,4235,,,Cape Ann,Cape & Islands,4:00 P.M.,,0
 2026-06-03,118786,UPCOMING,Amesbury,4007,,,Lee,4206,,,Cape Ann,Independent,3:30 P.M.,,0
 2026-06-03,118795,UPCOMING,Manchester Essex,4229,,,Sturgis East/West,4456,,,Cape Ann,Cape & Islands,3:00 P.M.,,0
