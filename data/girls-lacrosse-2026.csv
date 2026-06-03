@@ -1846,7 +1846,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-21,119024,FINAL,Phillips Andover,4310,23.0,1.0,Brooks,4060,5.0,0.0,Independent,ISL,,,0
 2026-05-22,118936,FINAL,Groton,4544,8.0,0.0,St. Mark’s,4372,9.0,1.0,ISL,ISL,,,0
 2026-05-22,119025,FINAL,Phillips Andover,4310,21.0,1.0,Phillips Exeter,4311,5.0,0.0,Independent,Independent,,,0
-2026-05-23,117639,FINAL,Arlington,4013,16,1,Haverhill,4167,8,0,Middlesex,Merrimack Valley,10:00 A.M.,,0
+2026-05-23,117639,FINAL,Arlington,4013,16.0,1.0,Haverhill,4167,8.0,0.0,Middlesex,Merrimack Valley,10:00 A.M.,,0
 2026-05-24,117747,FINAL,Methuen,4246,12,1,Plymouth South,4316,11,0,Merrimack Valley,Patriot,4:00 P.M.,1.0,0
 2026-05-24,117873,FINAL,Essex Tech,4745,17,1,Saugus,4341,8,0,Cape Ann,Northeastern,11:00 A.M.,,0
 2026-05-24,117885,FINAL,Arlington Catholic,4014,19,1,Chicopee,4088,1,0,Catholic Central,Independent,2:00 P.M.,,0
@@ -1967,9 +1967,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-01,117921,FINAL,Manchester Essex,4229,17,1,Wahconah,4401,5,0,Cape Ann,Independent,4:00 P.M.,,0
 2026-06-01,117924,FINAL,Lynnfield,4223,22,1,Seekonk,4344,11,0,Cape Ann,South Coast,4:00 P.M.,,0
 2026-06-01,117933,FINAL,Ipswich,4190,15,1,Tyngsborough,4397,2,0,Cape Ann,Mid-Wach,3:30 P.M.,,0
-2026-06-02,117555,UPCOMING,Westford,4421,,,Franklin,4144,,,Dual County,Hockomock,4:00 P.M.,,0
-2026-06-02,117564,UPCOMING,Notre Dame (Hingham),4449,,,Lincoln-Sudbury,4211,,,Independent,Dual County,5:00 P.M.,,0
-2026-06-02,117660,UPCOMING,Duxbury,4123,,,Longmeadow,4214,,,Patriot,Independent,4:00 P.M.,,0
+2026-06-02,117555,FINAL,Westford,4421,14,1,Franklin,4144,10,0,Dual County,Hockomock,4:00 P.M.,,0
+2026-06-02,117564,FINAL,Notre Dame (Hingham),4449,14,1,Lincoln-Sudbury,4211,4,0,Independent,Dual County,5:00 P.M.,,0
+2026-06-02,117660,FINAL,Duxbury,4123,13,1,Longmeadow,4214,12,0,Patriot,Independent,4:00 P.M.,,0
 2026-06-03,117663,UPCOMING,Reading,4328,,,Westborough,4418,,,Middlesex,Mid-Wach,6:00 P.M.,,0
 2026-06-03,117666,UPCOMING,Hingham,4171,,,Bedford,4031,,,Patriot,Dual County,4:00 P.M.,,0
 2026-06-03,117780,UPCOMING,Norwell,4296,,,Scituate,4343,,,South Shore,Patriot,4:00 P.M.,,0
@@ -1983,3 +1983,4 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-04,117903,UPCOMING,Nipmuc,4281,,,Lynnfield,4223,,,CMAC,Cape Ann,2:00 P.M.,,0
 2026-06-04,117906,UPCOMING,Ipswich,4190,,,Fairhaven,4133,,,Cape Ann,South Coast,5:00 P.M.,,0
 2026-06-04,117912,UPCOMING,Sandwich,4340,,,Nantucket,4265,,,Cape & Islands,Cape & Islands,3:30 P.M.,,0
+2026-06-07,117552,UPCOMING,Notre Dame (Hingham),4449,,,Westford,4421,,,Independent,Dual County,,,0
