@@ -1847,10 +1847,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-22,118936,FINAL,Groton,4544,8.0,0.0,St. Mark’s,4372,9.0,1.0,ISL,ISL,,,0
 2026-05-22,119025,FINAL,Phillips Andover,4310,21.0,1.0,Phillips Exeter,4311,5.0,0.0,Independent,Independent,,,0
 2026-05-23,117639,FINAL,Arlington,4013,16.0,1.0,Haverhill,4167,8.0,0.0,Middlesex,Merrimack Valley,10:00 A.M.,,0
-2026-05-24,117747,FINAL,Methuen,4246,12,1,Plymouth South,4316,11,0,Merrimack Valley,Patriot,4:00 P.M.,1.0,0
-2026-05-24,117873,FINAL,Essex Tech,4745,17,1,Saugus,4341,8,0,Cape Ann,Northeastern,11:00 A.M.,,0
-2026-05-24,117885,FINAL,Arlington Catholic,4014,19,1,Chicopee,4088,1,0,Catholic Central,Independent,2:00 P.M.,,0
-2026-05-24,117888,FINAL,Pembroke,4308,17,1,Belchertown,4032,3,0,Patriot,Independent,11:00 A.M.,,0
+2026-05-24,117747,FINAL,Methuen,4246,12.0,1.0,Plymouth South,4316,11.0,0.0,Merrimack Valley,Patriot,4:00 P.M.,1.0,0
+2026-05-24,117873,FINAL,Essex Tech,4745,17.0,1.0,Saugus,4341,8.0,0.0,Cape Ann,Northeastern,11:00 A.M.,,0
+2026-05-24,117885,FINAL,Arlington Catholic,4014,19.0,1.0,Chicopee,4088,1.0,0.0,Catholic Central,Independent,2:00 P.M.,,0
+2026-05-24,117888,FINAL,Pembroke,4308,17.0,1.0,Belchertown,4032,3.0,0.0,Patriot,Independent,11:00 A.M.,,0
 2026-05-25,117642,FINAL,Malden Catholic,4228,15,1,Medford,4242,4,0,Independent,Greater Boston,5:30 P.M.,,0
 2026-05-25,117645,FINAL,North Quincy,4287,21,1,Lowell,4216,12,0,Patriot,Merrimack Valley,5:00 P.M.,,0
 2026-05-25,117648,FINAL,Framingham,4143,18,1,Springfield Central,4360,0,0,Bay State,Independent,5:30 P.M.,,0
@@ -1970,12 +1970,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-02,117555,FINAL,Westford,4421,14,1,Franklin,4144,10,0,Dual County,Hockomock,4:00 P.M.,,0
 2026-06-02,117564,FINAL,Notre Dame (Hingham),4449,14,1,Lincoln-Sudbury,4211,4,0,Independent,Dual County,5:00 P.M.,,0
 2026-06-02,117660,FINAL,Duxbury,4123,13,1,Longmeadow,4214,12,0,Patriot,Independent,4:00 P.M.,,0
-2026-06-03,117663,UPCOMING,Reading,4328,,,Westborough,4418,,,Middlesex,Mid-Wach,6:00 P.M.,,0
-2026-06-03,117666,UPCOMING,Hingham,4171,,,Bedford,4031,,,Patriot,Dual County,4:00 P.M.,,0
-2026-06-03,117780,UPCOMING,Norwell,4296,,,Scituate,4343,,,South Shore,Patriot,4:00 P.M.,,0
-2026-06-03,117783,UPCOMING,Nashoba,4267,,,St. Mary’s,4374,,,Mid-Wach,Catholic Central,6:00 P.M.,,0
-2026-06-03,117786,UPCOMING,Cohasset,4094,,,Dover-Sherborn,4118,,,South Shore,Tri-Valley,4:30 P.M.,,0
-2026-06-03,117909,UPCOMING,Hamilton-Wenham,4163,,,Manchester Essex,4229,,,Cape Ann,Cape Ann,5:00 P.M.,,0
+2026-06-03,117663,FINAL,Reading,4328,7,1,Westborough,4418,6,0,Middlesex,Mid-Wach,6:00 P.M.,,0
+2026-06-03,117666,FINAL,Hingham,4171,16,1,Bedford,4031,7,0,Patriot,Dual County,4:00 P.M.,,0
+2026-06-03,117780,FINAL,Norwell,4296,14,1,Scituate,4343,6,0,South Shore,Patriot,4:00 P.M.,,0
+2026-06-03,117783,FINAL,Nashoba,4267,14,1,St. Mary’s,4374,11,0,Mid-Wach,Catholic Central,6:00 P.M.,,0
+2026-06-03,117786,FINAL,Cohasset,4094,20,1,Dover-Sherborn,4118,6,0,South Shore,Tri-Valley,4:30 P.M.,,0
+2026-06-03,117909,FINAL,Hamilton-Wenham,4163,8,0,Manchester Essex,4229,11,1,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-06-04,117558,UPCOMING,Chelmsford,4085,,,Wellesley,4413,,,Merrimack Valley,Bay State,6:00 P.M.,,0
 2026-06-04,117561,UPCOMING,Concord-Carlisle,4097,,,Lexington,4209,,,Dual County,Middlesex,4:30 P.M.,,0
 2026-06-04,117669,UPCOMING,Walpole,4404,,,Westwood,4424,,,Bay State,Tri-Valley,6:30 P.M.,,0
@@ -1984,3 +1984,5 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-04,117906,UPCOMING,Ipswich,4190,,,Fairhaven,4133,,,Cape Ann,South Coast,5:00 P.M.,,0
 2026-06-04,117912,UPCOMING,Sandwich,4340,,,Nantucket,4265,,,Cape & Islands,Cape & Islands,3:30 P.M.,,0
 2026-06-07,117552,UPCOMING,Notre Dame (Hingham),4449,,,Westford,4421,,,Independent,Dual County,,,0
+2026-06-08,117654,UPCOMING,Reading,4328,,,Hingham,4171,,,Middlesex,Patriot,,,0
+2026-06-08,117771,UPCOMING,Norwell,4296,,,Nashoba,4267,,,South Shore,Mid-Wach,,,0

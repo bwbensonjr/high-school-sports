@@ -1099,11 +1099,13 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-02,119239,FINAL,Milford,4249,3,1,Burlington,4065,1,0,Hockomock,Middlesex,3:45 P.M.,,0
 2026-06-02,119242,FINAL,Chicopee Comprehensive,4089,3,1,Dracut,4119,0,0,Independent,Merrimack Valley,6:00 P.M.,,0
 2026-06-02,119248,FINAL,Wayland,4411,3,1,Greater Lowell,4155,0,0,Dual County,Commonwealth,4:00 P.M.,,0
-2026-06-03,119110,UPCOMING,Lexington,4209,,,Newton North,4279,,,Middlesex,Bay State,5:00 P.M.,,0
-2026-06-03,119236,UPCOMING,Medfield,4241,,,Norton,4295,,,Tri-Valley,Tri-Valley,5:30 P.M.,,0
+2026-06-03,119110,FINAL,Lexington,4209,2,0,Newton North,4279,3,1,Middlesex,Bay State,5:00 P.M.,,0
+2026-06-03,119236,FINAL,Medfield,4241,2,0,Norton,4295,3,1,Tri-Valley,Tri-Valley,5:30 P.M.,,0
 2026-06-04,119095,UPCOMING,Natick,4270,,,Agawam,4004,,,Bay State,Independent,6:00 P.M.,,0
 2026-06-04,119218,UPCOMING,Westfield,4419,,,Marlborough,4233,,,Independent,Mid-Wach,5:30 P.M.,,0
 2026-06-04,119224,UPCOMING,Wayland,4411,,,Longmeadow,4214,,,Dual County,Independent,4:00 P.M.,,0
 2026-06-04,119233,UPCOMING,Latin Academy,4202,,,O’Bryant,4298,,,Boston City,Boston City,4:00 P.M.,,0
+2026-06-05,119089,UPCOMING,Chelmsford,4085,,,Newton North,4279,,,Merrimack Valley,Bay State,4:00 P.M.,,0
 2026-06-05,119092,UPCOMING,Brookline,4059,,,Newton South,4280,,,Bay State,Dual County,5:30 P.M.,,0
 2026-06-05,119098,UPCOMING,Needham,4272,,,Lowell,4216,,,Bay State,Merrimack Valley,4:00 P.M.,,0
+2026-06-05,119215,UPCOMING,Milford,4249,,,Norton,4295,,,Hockomock,Tri-Valley,6:00 P.M.,,0
