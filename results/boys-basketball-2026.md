@@ -1,6 +1,6 @@
 # Boys Basketball - 2026 Season
 
-Generated: 2026-06-04 13:56
+Generated: 2026-06-05 13:50
 
 ## Upcoming Games
 
@@ -241,9 +241,9 @@ Generated: 2026-06-04 13:56
 | 223 | Bishop Connolly | 1502.8 |
 | 224 | North Haven (Conn.) | 1502.8 |
 | 225 | Ruth Batson Academy | 1502.8 |
-| 226 | Marie Philip | 1502.8 |
+| 226 | International School | 1502.8 |
 | 227 | Waring | 1502.8 |
-| 228 | International School | 1502.8 |
+| 228 | Marie Philip | 1502.8 |
 | 229 | Collegiate Charter | 1502.3 |
 | 230 | Pelham (N.H.) | 1502.3 |
 | 231 | Kimball Union | 1501.9 |

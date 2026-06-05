@@ -1621,19 +1621,23 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-02,118801,FINAL,Pioneer Valley Chinese Immersion,4955,5,1,Bourne,4050,0,0,Independent,South Coast,4:30 P.M.,,0
 2026-06-02,118804,FINAL,Mystic Valley,4264,5,1,Leicester,4207,0,0,Cape Ann,Independent,4:30 P.M.,,0
 2026-06-03,118570,FINAL,Sharon,4345,5,1,Algonquin,4005,0,0,Hockomock,Mid-Wach,3:15 P.M.,,0
+2026-06-03,118657,FINAL,Bedford,4031,5,1,East Longmeadow,4127,0,0,Dual County,Independent,,,0
 2026-06-03,118684,FINAL,Newburyport,4276,3,1,Martha’s Vineyard,4235,2,0,Cape Ann,Cape & Islands,4:00 P.M.,,0
 2026-06-03,118786,FINAL,Amesbury,4007,3,1,Lee,4206,2,0,Cape Ann,Independent,3:30 P.M.,,0
 2026-06-03,118795,FINAL,Manchester Essex,4229,5,1,Sturgis East/West,4456,0,0,Cape Ann,Cape & Islands,3:00 P.M.,,0
-2026-06-03,120971,FINAL,Bedford,4031,5,1,East Longmeadow,4127,0,0,Dual County,Independent,,,0
-2026-06-04,118447,UPCOMING,Westford,4421,,,Needham,4272,,,Dual County,Bay State,4:00 P.M.,,0
-2026-06-04,118453,UPCOMING,Lexington,4209,,,Concord-Carlisle,4097,,,Middlesex,Dual County,4:00 P.M.,,0
-2026-06-04,118555,UPCOMING,Walpole,4404,,,Marblehead,4231,,,Bay State,Northeastern,4:00 P.M.,,0
-2026-06-04,118561,UPCOMING,Duxbury,4123,,,Masconomet,4236,,,Patriot,Northeastern,4:00 P.M.,,0
-2026-06-04,118660,UPCOMING,Wayland,4411,,,Falmouth,4134,,,Dual County,Cape & Islands,2:30 P.M.,,0
-2026-06-04,118666,UPCOMING,Weston,4423,,,Medfield,4241,,,Dual County,Tri-Valley,4:00 P.M.,,0
-2026-06-04,118777,UPCOMING,Mystic Valley,4264,,,Lenox,4532,,,Cape Ann,Independent,3:30 P.M.,,0
-2026-06-04,118783,UPCOMING,Hamilton-Wenham,4163,,,Amesbury,4007,,,Cape Ann,Cape Ann,3:00 P.M.,,0
+2026-06-03,120971,FINAL,Bedford,4031,5.0,1.0,East Longmeadow,4127,0.0,0.0,Dual County,Independent,,,0
+2026-06-04,118453,FINAL,Lexington,4209,5,1,Concord-Carlisle,4097,0,0,Middlesex,Dual County,4:00 P.M.,,0
+2026-06-04,118555,FINAL,Walpole,4404,2,0,Marblehead,4231,3,1,Bay State,Northeastern,4:00 P.M.,,0
+2026-06-04,118561,FINAL,Duxbury,4123,4,1,Masconomet,4236,1,0,Patriot,Northeastern,4:00 P.M.,,0
+2026-06-04,118660,FINAL,Wayland,4411,4,1,Falmouth,4134,1,0,Dual County,Cape & Islands,2:30 P.M.,,0
+2026-06-04,118666,FINAL,Weston,4423,5,1,Medfield,4241,0,0,Dual County,Tri-Valley,4:00 P.M.,,0
+2026-06-04,118777,FINAL,Mystic Valley,4264,4,1,Lenox,4532,1,0,Cape Ann,Independent,3:30 P.M.,,0
+2026-06-04,118783,FINAL,Hamilton-Wenham,4163,5,1,Amesbury,4007,0,0,Cape Ann,Cape Ann,3:00 P.M.,,0
+2026-06-05,118444,UPCOMING,Newton North,4279,,,Lincoln-Sudbury,4211,,,Bay State,Dual County,4:30 P.M.,,0
 2026-06-05,118450,UPCOMING,St. John’s Prep,4369,,,Newton South,4280,,,Catholic Conference,Dual County,4:00 P.M.,,0
+2026-06-05,118558,UPCOMING,Longmeadow,4214,,,Sharon,4345,,,Independent,Hockomock,3:30 P.M.,,0
 2026-06-05,118564,UPCOMING,Westborough,4418,,,Hingham,4171,,,Mid-Wach,Patriot,4:00 P.M.,,0
 2026-06-05,118774,UPCOMING,Mt. Greylock,4262,,,Manchester Essex,4229,,,Independent,Cape Ann,4:00 P.M.,,0
 2026-06-05,118780,UPCOMING,Pioneer Valley Chinese Immersion,4955,,,Cohasset,4094,,,Independent,South Shore,4:30 P.M.,,0
+2026-06-06,118447,UPCOMING,Westford,4421,,,Needham,4272,,,Dual County,Bay State,2:00 P.M.,,0
+2026-06-06,118663,UPCOMING,Newburyport,4276,,,Scituate,4343,,,Cape Ann,Patriot,10:00 A.M.,,0
