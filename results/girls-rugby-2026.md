@@ -1,12 +1,12 @@
 # Girls Rugby - 2026 Season
 
-Generated: 2026-06-05 13:50
+Generated: 2026-06-06 12:04
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-06-11 | TBD | Belmont | Weymouth | 56.8% | +1.9 |
+| 2026-06-11 | 4:00 P.M. | Belmont | Weymouth | 56.8% | +1.9 |
 
 ## Recent Games
 

@@ -1511,19 +1511,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-20,117309,FINAL,Acton-Boxborough,4003,0.0,0.0,Westborough,4418,5.0,1.0,Dual County,Mid-Wach,,,0
 2026-05-20,117380,FINAL,Algonquin,4005,1.0,0.0,St. John’s (Shrewsbury),4368,4.0,1.0,Mid-Wach,Catholic Conference,,,0
 2026-05-20,117384,FINAL,Chelmsford,4085,3.0,1.0,Haverhill,4167,2.0,0.0,Merrimack Valley,Merrimack Valley,,,0
-2026-05-26,118531,FINAL,Braintree,4051,2,0,Franklin,4144,3,1,Bay State,Hockomock,5:00 P.M.,,0
-2026-05-26,118534,FINAL,Chelmsford,4085,2,0,Medford,4242,3,1,Merrimack Valley,Greater Boston,4:00 P.M.,,0
-2026-05-26,118543,FINAL,Attleboro,4018,5,1,Malden,4227,0,0,Hockomock,Greater Boston,3:45 P.M.,,0
-2026-05-26,118606,FINAL,Masconomet,4236,5,1,St. Mary’s,4374,0,0,Northeastern,Catholic Central,4:00 P.M.,,0
-2026-05-26,118639,FINAL,Ashland,4015,3,1,West Springfield,4417,2,0,Tri-Valley,Independent,4:00 P.M.,,0
-2026-05-26,118744,FINAL,Amherst-Pelham,4008,3,1,Dighton-Rehoboth,4114,2,0,Independent,South Coast,4:00 P.M.,,0
-2026-05-26,118747,FINAL,Nantucket,4265,4,1,Joseph Case,4078,1,0,Cape & Islands,South Coast,4:00 P.M.,,0
-2026-05-26,118750,FINAL,Cardinal Spellman,4075,4,1,Tantasqua,4387,1,0,Catholic Central,Independent,3:00 P.M.,,0
-2026-05-26,118753,FINAL,Bishop Fenwick,4043,3,1,Rockland/EB,4331,2,0,Catholic Central,South Shore,4:00 P.M.,,0
-2026-05-26,118756,FINAL,Ludlow,4218,2,0,Norwell,4296,3,1,Independent,South Shore,2:00 P.M.,,0
-2026-05-26,118759,FINAL,Maimonides,4473,5,1,Pioneer Valley Christian,4535,0,0,Independent,Independent,4:00 P.M.,,0
-2026-05-26,118762,FINAL,Dover-Sherborn,4118,5,1,Turners Falls,4396,0,0,Tri-Valley,Independent,4:00 P.M.,,0
-2026-05-26,118822,FINAL,Manchester Essex,4229,4,1,West Bridgewater,4415,1,0,Cape Ann,South Coast,4:00 P.M.,,0
+2026-05-26,118531,FINAL,Braintree,4051,2.0,0.0,Franklin,4144,3.0,1.0,Bay State,Hockomock,5:00 P.M.,,0
+2026-05-26,118534,FINAL,Chelmsford,4085,2.0,0.0,Medford,4242,3.0,1.0,Merrimack Valley,Greater Boston,4:00 P.M.,,0
+2026-05-26,118543,FINAL,Attleboro,4018,5.0,1.0,Malden,4227,0.0,0.0,Hockomock,Greater Boston,3:45 P.M.,,0
+2026-05-26,118606,FINAL,Masconomet,4236,5.0,1.0,St. Mary’s,4374,0.0,0.0,Northeastern,Catholic Central,4:00 P.M.,,0
+2026-05-26,118639,FINAL,Ashland,4015,3.0,1.0,West Springfield,4417,2.0,0.0,Tri-Valley,Independent,4:00 P.M.,,0
+2026-05-26,118744,FINAL,Amherst-Pelham,4008,3.0,1.0,Dighton-Rehoboth,4114,2.0,0.0,Independent,South Coast,4:00 P.M.,,0
+2026-05-26,118747,FINAL,Nantucket,4265,4.0,1.0,Joseph Case,4078,1.0,0.0,Cape & Islands,South Coast,4:00 P.M.,,0
+2026-05-26,118750,FINAL,Cardinal Spellman,4075,4.0,1.0,Tantasqua,4387,1.0,0.0,Catholic Central,Independent,3:00 P.M.,,0
+2026-05-26,118753,FINAL,Bishop Fenwick,4043,3.0,1.0,Rockland/EB,4331,2.0,0.0,Catholic Central,South Shore,4:00 P.M.,,0
+2026-05-26,118756,FINAL,Ludlow,4218,2.0,0.0,Norwell,4296,3.0,1.0,Independent,South Shore,2:00 P.M.,,0
+2026-05-26,118759,FINAL,Maimonides,4473,5.0,1.0,Pioneer Valley Christian,4535,0.0,0.0,Independent,Independent,4:00 P.M.,,0
+2026-05-26,118762,FINAL,Dover-Sherborn,4118,5.0,1.0,Turners Falls,4396,0.0,0.0,Tri-Valley,Independent,4:00 P.M.,,0
+2026-05-26,118822,FINAL,Manchester Essex,4229,4.0,1.0,West Bridgewater,4415,1.0,0.0,Cape Ann,South Coast,4:00 P.M.,,0
 2026-05-27,118480,FINAL,Arlington,4013,5,1,Brookline,4059,0,0,Middlesex,Bay State,4:30 P.M.,,0
 2026-05-27,118483,FINAL,St. John’s (Shrewsbury),4368,3,1,Andover,4009,2,0,Catholic Conference,Merrimack Valley,4:00 P.M.,,0
 2026-05-27,118489,FINAL,Boston Latin,4049,4,1,Framingham,4143,1,0,Dual County,Bay State,4:00 P.M.,,0
@@ -1633,11 +1633,16 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-04,118666,FINAL,Weston,4423,5,1,Medfield,4241,0,0,Dual County,Tri-Valley,4:00 P.M.,,0
 2026-06-04,118777,FINAL,Mystic Valley,4264,4,1,Lenox,4532,1,0,Cape Ann,Independent,3:30 P.M.,,0
 2026-06-04,118783,FINAL,Hamilton-Wenham,4163,5,1,Amesbury,4007,0,0,Cape Ann,Cape Ann,3:00 P.M.,,0
-2026-06-05,118444,UPCOMING,Newton North,4279,,,Lincoln-Sudbury,4211,,,Bay State,Dual County,4:30 P.M.,,0
-2026-06-05,118450,UPCOMING,St. John’s Prep,4369,,,Newton South,4280,,,Catholic Conference,Dual County,4:00 P.M.,,0
-2026-06-05,118558,UPCOMING,Longmeadow,4214,,,Sharon,4345,,,Independent,Hockomock,3:30 P.M.,,0
-2026-06-05,118564,UPCOMING,Westborough,4418,,,Hingham,4171,,,Mid-Wach,Patriot,4:00 P.M.,,0
-2026-06-05,118774,UPCOMING,Mt. Greylock,4262,,,Manchester Essex,4229,,,Independent,Cape Ann,4:00 P.M.,,0
-2026-06-05,118780,UPCOMING,Pioneer Valley Chinese Immersion,4955,,,Cohasset,4094,,,Independent,South Shore,4:30 P.M.,,0
+2026-06-05,118444,FINAL,Newton North,4279,4,1,Lincoln-Sudbury,4211,1,0,Bay State,Dual County,4:30 P.M.,,0
+2026-06-05,118450,FINAL,St. John’s Prep,4369,2,0,Newton South,4280,3,1,Catholic Conference,Dual County,4:00 P.M.,,0
+2026-06-05,118558,FINAL,Longmeadow,4214,2,0,Sharon,4345,3,1,Independent,Hockomock,3:30 P.M.,,0
+2026-06-05,118564,FINAL,Westborough,4418,4,1,Hingham,4171,1,0,Mid-Wach,Patriot,4:00 P.M.,,0
+2026-06-05,118774,FINAL,Mt. Greylock,4262,1,0,Manchester Essex,4229,4,1,Independent,Cape Ann,4:00 P.M.,,0
+2026-06-05,118780,FINAL,Pioneer Valley Chinese Immersion,4955,2,0,Cohasset,4094,3,1,Independent,South Shore,4:30 P.M.,,0
 2026-06-06,118447,UPCOMING,Westford,4421,,,Needham,4272,,,Dual County,Bay State,2:00 P.M.,,0
 2026-06-06,118663,UPCOMING,Newburyport,4276,,,Scituate,4343,,,Cape Ann,Patriot,10:00 A.M.,,0
+2026-06-08,118549,UPCOMING,Sharon,4345,,,Duxbury,4123,,,Hockomock,Patriot,4:00 P.M.,,0
+2026-06-08,118654,UPCOMING,Weston,4423,,,Bedford,4031,,,Dual County,Dual County,4:00 P.M.,,0
+2026-06-08,118768,UPCOMING,Mystic Valley,4264,,,Cohasset,4094,,,Cape Ann,South Shore,4:00 P.M.,,0
+2026-06-08,118771,UPCOMING,Hamilton-Wenham,4163,,,Manchester Essex,4229,,,Cape Ann,Cape Ann,5:30 P.M.,,0
+2026-06-09,118552,UPCOMING,Westborough,4418,,,Marblehead,4231,,,Mid-Wach,Northeastern,4:00 P.M.,,0

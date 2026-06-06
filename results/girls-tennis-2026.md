@@ -1,56 +1,58 @@
 # Girls Tennis - 2026 Season
 
-Generated: 2026-06-05 13:50
+Generated: 2026-06-06 12:04
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-06-05 | 4:30 P.M. | Newton South | Wellesley | 65.4% | +4.4 |
-| 2026-06-05 | 4:00 P.M. | Bedford | Westwood | 47.0% | -0.8 |
-| 2026-06-05 | 4:30 P.M. | Duxbury | Longmeadow | 74.9% | +7.6 |
-| 2026-06-05 | 4:00 P.M. | Notre Dame (Hingham) | Scituate | 65.8% | +4.6 |
-| 2026-06-05 | 4:00 P.M. | Dover-Sherborn | Old Rochester | 53.7% | +1.0 |
-| 2026-06-05 | 3:00 P.M. | Martha’s Vineyard | Wilmington | 80.4% | +9.8 |
-| 2026-06-05 | 4:00 P.M. | Manchester Essex | Lenox | 70.8% | +6.2 |
-| 2026-06-05 | 3:30 P.M. | Hamilton-Wenham | Hopedale | 74.0% | +7.3 |
+| 2026-06-06 | 2:00 P.M. | Newton South | Wellesley | 65.4% | +4.4 |
 | 2026-06-06 | 1:00 P.M. | Ursuline | Weston | 86.3% | +12.8 |
+| 2026-06-08 | 3:00 P.M. | Manchester Essex | Ipswich | 68.3% | +5.3 |
+| 2026-06-09 | 4:00 P.M. | Notre Dame (Hingham) | Hingham | 58.9% | +2.5 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-06-04 | Ipswich | 4 | Cohasset | 1 | +6.3 | +3.0 |
-| 2026-06-04 | Amesbury | 2 | Bromfield | 3 | +0.2 | -1.0 |
-| 2026-06-04 | Lynnfield | 1 | Swampscott | 4 | +1.5 | -3.0 |
+| 2026-06-05 | Hamilton-Wenham | 4 | Hopedale | 1 | +7.3 | +3.0 |
+| 2026-06-05 | Manchester Essex | 5 | Lenox | 0 | +6.2 | +5.0 |
+| 2026-06-05 | Martha’s Vineyard | 4 | Wilmington | 1 | +9.8 | +3.0 |
+| 2026-06-05 | Dover-Sherborn | 4 | Old Rochester | 1 | +1.0 | +3.0 |
+| 2026-06-05 | Notre Dame (Hingham) | 5 | Scituate | 0 | +4.6 | +5.0 |
+| 2026-06-05 | Duxbury | 4 | Longmeadow | 1 | +7.6 | +3.0 |
+| 2026-06-05 | Bedford | 3 | Westwood | 2 | -0.8 | +1.0 |
 | 2026-06-04 | Hingham | 3 | Milton | 2 | +7.7 | +1.0 |
-| 2026-06-04 | Boston Latin | 5 | Needham | 0 | +0.3 | +5.0 |
-| 2026-06-04 | Winchester | 4 | Acton-Boxborough | 1 | +9.6 | +3.0 |
 | 2026-06-04 | Westford | 5 | Lexington | 0 | +2.0 | +5.0 |
+| 2026-06-04 | Winchester | 4 | Acton-Boxborough | 1 | +9.6 | +3.0 |
+| 2026-06-04 | Boston Latin | 5 | Needham | 0 | +0.3 | +5.0 |
+| 2026-06-04 | Lynnfield | 1 | Swampscott | 4 | +1.5 | -3.0 |
+| 2026-06-04 | Amesbury | 2 | Bromfield | 3 | +0.2 | -1.0 |
+| 2026-06-04 | Ipswich | 4 | Cohasset | 1 | +6.3 | +3.0 |
+| 2026-06-03 | Amesbury | 5 | Sturgis East | 0 | -2.7 | +5.0 |
+| 2026-06-03 | Ursuline | 4 | Medfield | 1 | +8.9 | +3.0 |
 | 2026-06-03 | Wilmington | 4 | Falmouth | 1 | -0.2 | +3.0 |
 | 2026-06-03 | Duxbury | 5 | Marblehead | 0 | +6.1 | +5.0 |
-| 2026-06-03 | Ursuline | 4 | Medfield | 1 | +8.9 | +3.0 |
-| 2026-06-03 | Amesbury | 5 | Sturgis East | 0 | -2.7 | +5.0 |
-| 2026-06-02 | Old Rochester | 3 | Watertown | 2 | +11.1 | +1.0 |
+| 2026-06-02 | Dover-Sherborn | 5 | Latin Academy | 0 | +12.5 | +5.0 |
+| 2026-06-02 | Hamilton-Wenham | 5 | Pioneer Valley Chinese Immersion | 0 | +9.6 | +5.0 |
+| 2026-06-02 | Manchester Essex | 5 | Millis | 0 | +11.2 | +5.0 |
+| 2026-06-02 | Ipswich | 5 | Uxbridge | 0 | +5.5 | +5.0 |
+| 2026-06-02 | Cohasset | 5 | Randolph | 0 | -1.0 | +5.0 |
+| 2026-06-02 | Bourne | 1 | Lenox | 4 | +0.5 | -3.0 |
+| 2026-06-02 | Monomoy | 2 | Weston | 3 | +13.6 | -1.0 |
+| 2026-06-02 | Wellesley | 4 | Belmont | 1 | +6.5 | +3.0 |
+| 2026-06-02 | Newburyport | 2 | Longmeadow | 3 | +3.3 | -1.0 |
+| 2026-06-02 | Swampscott | 3 | Bishop Fenwick | 2 | +5.9 | +1.0 |
+| 2026-06-02 | Lexington | 5 | Algonquin | 0 | +7.6 | +5.0 |
 | 2026-06-02 | Boston Latin | 5 | Lincoln-Sudbury | 0 | +11.2 | +5.0 |
 | 2026-06-02 | Westwood | 4 | Bishop Stang | 1 | +2.1 | +3.0 |
-| 2026-06-02 | Newburyport | 2 | Longmeadow | 3 | +3.3 | -1.0 |
+| 2026-06-02 | Needham | 4 | Andover | 1 | +1.4 | +3.0 |
 | 2026-06-02 | Milton | 3 | Reading | 2 | +6.1 | +1.0 |
 | 2026-06-02 | Hingham | 4 | Wayland | 1 | +10.8 | +3.0 |
 | 2026-06-02 | Bedford | 3 | Holliston | 2 | +3.9 | +1.0 |
 | 2026-06-02 | Notre Dame (Hingham) | 5 | Masconomet | 0 | +9.2 | +5.0 |
-| 2026-06-02 | Ipswich | 5 | Uxbridge | 0 | +5.5 | +5.0 |
-| 2026-06-02 | Swampscott | 3 | Bishop Fenwick | 2 | +5.9 | +1.0 |
-| 2026-06-02 | Monomoy | 2 | Weston | 3 | +13.6 | -1.0 |
-| 2026-06-02 | Dover-Sherborn | 5 | Latin Academy | 0 | +12.5 | +5.0 |
-| 2026-06-02 | Bourne | 1 | Lenox | 4 | +0.5 | -3.0 |
-| 2026-06-02 | Cohasset | 5 | Randolph | 0 | -1.0 | +5.0 |
-| 2026-06-02 | Needham | 4 | Andover | 1 | +1.4 | +3.0 |
-| 2026-06-02 | Manchester Essex | 5 | Millis | 0 | +11.2 | +5.0 |
-| 2026-06-02 | Hamilton-Wenham | 5 | Pioneer Valley Chinese Immersion | 0 | +9.6 | +5.0 |
-| 2026-06-02 | Lexington | 5 | Algonquin | 0 | +7.6 | +5.0 |
-| 2026-06-02 | Wellesley | 4 | Belmont | 1 | +6.5 | +3.0 |
-| 2026-06-01 | Acton-Boxborough | 5 | Arlington | 0 | +1.7 | +5.0 |
+| 2026-06-02 | Old Rochester | 3 | Watertown | 2 | +11.1 | +1.0 |
+| 2026-06-01 | Manchester Essex | 5 | Greenfield | 0 | +9.3 | +5.0 |
 | 2026-06-01 | Bromfield | 4 | Rising Tide Charter | 1 | +0.2 | +3.0 |
 | 2026-06-01 | Hopedale | 4 | Rockport | 1 | +9.6 | +3.0 |
 | 2026-06-01 | Martha’s Vineyard | 4 | North Reading | 1 | +14.6 | +3.0 |
@@ -59,93 +61,77 @@ Generated: 2026-06-05 13:50
 | 2026-06-01 | Newton South | 5 | Newton North | 0 | +9.7 | +5.0 |
 | 2026-06-01 | Winchester | 4 | Natick | 1 | +10.9 | +3.0 |
 | 2026-06-01 | Westford | 5 | Sharon | 0 | +2.0 | +5.0 |
-| 2026-06-01 | Manchester Essex | 5 | Greenfield | 0 | +9.3 | +5.0 |
+| 2026-06-01 | Acton-Boxborough | 5 | Arlington | 0 | +1.7 | +5.0 |
 | 2026-05-31 | Old Rochester | 5 | Seekonk | 0 | +8.3 | +5.0 |
 | 2026-05-31 | Swampscott | 5 | Pentucket | 0 | +15.0 | +5.0 |
 | 2026-05-31 | Andover | 5 | Franklin | 0 | +8.7 | +5.0 |
-| 2026-05-29 | Newburyport | 5 | Wakefield | 0 | +10.6 | +5.0 |
-| 2026-05-29 | Duxbury | 5 | Foxborough | 0 | +11.3 | +5.0 |
-| 2026-05-29 | Hingham | 5 | Somerville | 0 | +3.3 | +5.0 |
-| 2026-05-29 | Westford | 5 | Billerica | 0 | +8.1 | +5.0 |
-| 2026-05-29 | Winchester | 5 | Brookline | 0 | +18.1 | +5.0 |
-| 2026-05-29 | Boston Latin | 5 | Methuen | 0 | +6.9 | +5.0 |
-| 2026-05-29 | Monomoy | 4 | Sandwich | 1 | +13.9 | +3.0 |
-| 2026-05-29 | Bedford | 4 | Danvers | 1 | +7.7 | +3.0 |
-| 2026-05-29 | Hamilton-Wenham | 5 | Renaissance | 0 | +9.9 | +5.0 |
-| 2026-05-29 | Wilmington | 5 | Gloucester | 0 | +3.3 | +5.0 |
-| 2026-05-29 | Falmouth | 4 | Notre Dame (Tyngsborough) | 1 | +6.1 | +3.0 |
-| 2026-05-29 | Pioneer Valley Chinese Immersion | 5 | Sturgis West | 0 | +3.5 | +5.0 |
-| 2026-05-29 | Bourne | 3 | Leicester | 2 | +3.5 | +1.0 |
-| 2026-05-29 | Randolph | 3 | Mashpee | 0 | +8.5 | +3.0 |
-| 2026-05-29 | Rising Tide Charter | 3 | Sutton | 2 | +5.5 | +1.0 |
-| 2026-05-29 | Bishop Feehan | 2 | Lincoln-Sudbury | 3 | +6.7 | -1.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Winchester | 1805.7 |
-| 2 | Old Rochester | 1791.4 |
-| 3 | Swampscott | 1782.8 |
-| 4 | Martha’s Vineyard | 1778.7 |
-| 5 | Westford | 1770.9 |
-| 6 | Dover-Sherborn | 1767.2 |
-| 7 | Hingham | 1745.2 |
-| 8 | Newton South | 1744.0 |
-| 9 | Duxbury | 1741.1 |
-| 10 | Notre Dame (Hingham) | 1739.2 |
+| 2 | Martha’s Vineyard | 1786.9 |
+| 3 | Dover-Sherborn | 1786.5 |
+| 4 | Swampscott | 1782.8 |
+| 5 | Old Rochester | 1772.2 |
+| 6 | Westford | 1770.9 |
+| 7 | Notre Dame (Hingham) | 1757.6 |
+| 8 | Duxbury | 1751.6 |
+| 9 | Hingham | 1745.2 |
+| 10 | Newton South | 1744.0 |
 | 11 | Lexington | 1724.9 |
 | 12 | Lynnfield | 1724.1 |
-| 13 | Boston Latin | 1720.8 |
-| 14 | Andover | 1715.3 |
-| 15 | Needham | 1711.3 |
-| 16 | Manchester Essex | 1705.3 |
-| 17 | Ursuline | 1705.3 |
-| 18 | Sharon | 1701.4 |
-| 19 | Hamilton-Wenham | 1699.6 |
-| 20 | Westwood | 1697.3 |
-| 21 | Monomoy | 1689.4 |
+| 13 | Manchester Essex | 1721.0 |
+| 14 | Boston Latin | 1720.8 |
+| 15 | Andover | 1715.3 |
+| 16 | Needham | 1711.3 |
+| 17 | Hamilton-Wenham | 1710.5 |
+| 18 | Ursuline | 1705.3 |
+| 19 | Sharon | 1701.4 |
+| 20 | Monomoy | 1689.4 |
+| 21 | Westwood | 1686.2 |
 | 22 | Wellesley | 1683.5 |
-| 23 | Scituate | 1675.4 |
-| 24 | Bishop Stang | 1660.3 |
-| 25 | Somerville | 1658.9 |
-| 26 | Hopkinton | 1658.5 |
+| 23 | Bishop Stang | 1660.3 |
+| 24 | Somerville | 1658.9 |
+| 25 | Hopkinton | 1658.5 |
+| 26 | Scituate | 1657.0 |
 | 27 | Bishop Fenwick | 1649.5 |
 | 28 | Norwell | 1648.8 |
 | 29 | Thayer | 1645.4 |
 | 30 | Central Catholic | 1640.0 |
 | 31 | Ipswich | 1637.8 |
-| 32 | Bedford | 1626.3 |
+| 32 | Bedford | 1637.3 |
 | 33 | Oliver Ames | 1616.8 |
 | 34 | Latin Academy/East Boston/O’Bryant | 1610.1 |
 | 35 | Newburyport | 1608.3 |
 | 36 | Marblehead | 1606.5 |
 | 37 | Seekonk | 1605.0 |
-| 38 | Longmeadow | 1601.3 |
-| 39 | Lenox | 1601.2 |
-| 40 | Medford | 1600.7 |
-| 41 | Chelmsford | 1600.2 |
-| 42 | Acton-Boxborough | 1598.4 |
-| 43 | Dartmouth | 1598.1 |
-| 44 | Falmouth | 1595.8 |
-| 45 | Milton | 1591.8 |
-| 46 | Medway | 1590.2 |
+| 38 | Medford | 1600.7 |
+| 39 | Chelmsford | 1600.2 |
+| 40 | Acton-Boxborough | 1598.4 |
+| 41 | Dartmouth | 1598.1 |
+| 42 | Falmouth | 1595.8 |
+| 43 | Milton | 1591.8 |
+| 44 | Longmeadow | 1590.9 |
+| 45 | Medway | 1590.2 |
+| 46 | Lenox | 1585.5 |
 | 47 | Nobles | 1584.1 |
-| 48 | Wilmington | 1583.7 |
-| 49 | Algonquin | 1581.5 |
-| 50 | North Quincy | 1581.5 |
-| 51 | Dighton-Rehoboth | 1579.2 |
-| 52 | Westborough | 1578.1 |
+| 48 | Algonquin | 1581.5 |
+| 49 | North Quincy | 1581.5 |
+| 50 | Dighton-Rehoboth | 1579.2 |
+| 51 | Westborough | 1578.1 |
+| 52 | Wilmington | 1575.5 |
 | 53 | King Philip | 1572.5 |
-| 54 | Hopedale | 1568.3 |
-| 55 | Arlington | 1567.4 |
-| 56 | Pingree | 1564.8 |
-| 57 | Nashoba | 1564.7 |
-| 58 | Holliston | 1564.2 |
-| 59 | Beverly | 1563.2 |
-| 60 | Advanced Math and Science | 1562.7 |
-| 61 | Pope Francis | 1560.9 |
-| 62 | Natick | 1559.9 |
+| 54 | Arlington | 1567.4 |
+| 55 | Pingree | 1564.8 |
+| 56 | Nashoba | 1564.7 |
+| 57 | Holliston | 1564.2 |
+| 58 | Beverly | 1563.2 |
+| 59 | Advanced Math and Science | 1562.7 |
+| 60 | Pope Francis | 1560.9 |
+| 61 | Natick | 1559.9 |
+| 62 | Hopedale | 1557.5 |
 | 63 | St. Mark’s | 1557.4 |
 | 64 | Notre Dame (Worcester) | 1557.0 |
 | 65 | Watertown | 1556.7 |

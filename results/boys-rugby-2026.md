@@ -1,13 +1,12 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-06-05 13:50
+Generated: 2026-06-06 12:04
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-06-05 | 6:00 P.M. | Algonquin/Westboro | Brookline | 63.9% | +4.0 |
-| 2026-06-11 | TBD | BC High | Milton | 63.3% | +3.8 |
+| 2026-06-11 | 6:00 P.M. | BC High | Milton | 63.3% | +3.8 |
 
 ## Recent Games
 
@@ -16,7 +15,6 @@ Generated: 2026-06-05 13:50
 | 2026-06-04 | Hanover | 43 | Blue Hills | 25 | +0.2 | +18.0 |
 | 2026-06-03 | BC High | 45 | Xaverian | 3 | +6.1 | +42.0 |
 | 2026-06-01 | St. John’s Prep | 24 | Milton | 29 | -4.7 | -5.0 |
-| 2026-05-29 | Brookline | 31 | Hingham/Norwell | 10 | -2.9 | +21.0 |
 
 ## Current Elo Ratings
 
