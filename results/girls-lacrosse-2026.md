@@ -1,6 +1,6 @@
 # Girls Lacrosse - 2026 Season
 
-Generated: 2026-06-06 12:04
+Generated: 2026-06-07 12:19
 
 ## Upcoming Games
 
@@ -26,18 +26,19 @@ Generated: 2026-06-06 12:04
 | 2026-06-04 | Walpole | 18 | Westwood | 8 | +7.1 | +10.0 |
 | 2026-06-04 | Concord-Carlisle | 12 | Lexington | 7 | +0.6 | +5.0 |
 | 2026-06-04 | Chelmsford | 7 | Wellesley | 6 | +5.0 | +1.0 |
-| 2026-06-03 | Norwell | 14 | Scituate | 6 | +6.0 | +8.0 |
-| 2026-06-03 | Reading | 7 | Westborough | 6 | +5.3 | +1.0 |
-| 2026-06-03 | Hingham | 16 | Bedford | 7 | +10.5 | +9.0 |
+| 2026-06-03 | Hamilton-Wenham | 8 | Manchester Essex | 11 | +5.4 | -3.0 |
 | 2026-06-03 | Cohasset | 20 | Dover-Sherborn | 6 | +4.7 | +14.0 |
 | 2026-06-03 | Nashoba | 14 | St. Mary’s | 11 | -2.4 | +3.0 |
-| 2026-06-03 | Hamilton-Wenham | 8 | Manchester Essex | 11 | +5.4 | -3.0 |
+| 2026-06-03 | Norwell | 14 | Scituate | 6 | +6.0 | +8.0 |
+| 2026-06-03 | Hingham | 16 | Bedford | 7 | +10.5 | +9.0 |
+| 2026-06-03 | Reading | 7 | Westborough | 6 | +5.3 | +1.0 |
+| 2026-06-02 | Westford | 14 | Franklin | 10 | -0.0 | +4.0 |
 | 2026-06-02 | Duxbury | 13 | Longmeadow | 12 | +5.4 | +1.0 |
 | 2026-06-02 | Notre Dame (Hingham) | 14 | Lincoln-Sudbury | 4 | +10.4 | +10.0 |
-| 2026-06-02 | Westford | 14 | Franklin | 10 | -0.0 | +4.0 |
-| 2026-06-01 | Lynnfield | 22 | Seekonk | 11 | -3.5 | +11.0 |
 | 2026-06-01 | Ipswich | 15 | Tyngsborough | 2 | +8.7 | +13.0 |
+| 2026-06-01 | Lynnfield | 22 | Seekonk | 11 | -3.5 | +11.0 |
 | 2026-06-01 | Manchester Essex | 17 | Wahconah | 5 | -0.7 | +12.0 |
+| 2026-06-01 | Nantucket | 11 | Bromfield | 9 | +5.4 | +2.0 |
 | 2026-06-01 | Newburyport | 18 | Ursuline | 9 | +4.2 | +9.0 |
 | 2026-06-01 | Scituate | 12 | Medfield | 11 | +0.0 | +1.0 |
 | 2026-06-01 | Bedford | 16 | Billerica | 8 | +3.4 | +8.0 |
@@ -45,17 +46,12 @@ Generated: 2026-06-06 12:04
 | 2026-06-01 | Grafton | 9 | Westwood | 18 | -0.6 | -9.0 |
 | 2026-06-01 | Chelmsford | 16 | Beverly | 6 | +0.1 | +10.0 |
 | 2026-06-01 | Concord-Carlisle | 19 | Belmont | 6 | +9.6 | +13.0 |
-| 2026-06-01 | Nantucket | 11 | Bromfield | 9 | +5.4 | +2.0 |
+| 2026-05-31 | Longmeadow | 16 | Milton | 7 | +7.0 | +9.0 |
 | 2026-05-31 | Sandwich | 16 | Stoneham | 2 | +15.6 | +14.0 |
 | 2026-05-31 | Nipmuc | 14 | Mt. Greylock | 9 | +2.9 | +5.0 |
 | 2026-05-31 | Walpole | 19 | Marshfield | 7 | +13.3 | +12.0 |
 | 2026-05-31 | Hingham | 13 | Melrose | 6 | +12.7 | +7.0 |
-| 2026-05-31 | Longmeadow | 16 | Milton | 7 | +7.0 | +9.0 |
 | 2026-05-31 | Wellesley | 12 | Acton-Boxborough | 6 | +4.9 | +6.0 |
-| 2026-05-30 | St. Mary’s | 10 | Weston | 5 | +9.1 | +5.0 |
-| 2026-05-30 | Reading | 13 | Minnechaug | 0 | +11.2 | +13.0 |
-| 2026-05-30 | Cohasset | 17 | Hanover | 2 | +17.6 | +15.0 |
-| 2026-05-30 | Bishop Feehan | 8 | Franklin | 11 | +1.4 | -3.0 |
 
 ## Current Elo Ratings
 

@@ -1031,12 +1031,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-22,115221,FINAL,Burlington,4065,1.0,0.0,Billerica,4040,3.0,1.0,Middlesex,Merrimack Valley,5:30 P.M.,,0
 2026-05-22,115258,FINAL,Hingham,4171,0.0,0.0,North Quincy,4287,3.0,1.0,Patriot,Patriot,5:15 P.M.,,0
 2026-05-22,118939,FINAL,Greater Lawrence,4154,3.0,1.0,Greater Lowell,4155,1.0,0.0,Commonwealth,Commonwealth,,,0
-2026-05-27,119188,FINAL,Nipmuc,4281,3,1,Lynn English,4221,1,0,CMAC,Greater Boston,1:30 P.M.,,0
-2026-05-27,119194,FINAL,Milton,4252,2,0,Lowell Catholic,4217,3,1,Bay State,Commonwealth,5:00 P.M.,,0
-2026-05-27,119200,FINAL,Revere,4329,3,1,Brockton,4058,0,0,Greater Boston,Patriot,5:00 P.M.,,0
-2026-05-27,119323,FINAL,Southwick,4519,3,1,Collegiate Charter,4986,0,0,Independent,Charter School Athletic,5:00 P.M.,,0
-2026-05-27,119326,FINAL,Belchertown,4032,3,1,KIPP,4703,0,0,Independent,Commonwealth,5:00 P.M.,,0
-2026-05-27,120967,FINAL,Greater New Bedford,4156,3,1,Greater Lawrence,4154,1,0,Independent,Commonwealth,4:00 P.M.,,0
+2026-05-27,119188,FINAL,Nipmuc,4281,3.0,1.0,Lynn English,4221,1.0,0.0,CMAC,Greater Boston,1:30 P.M.,,0
+2026-05-27,119194,FINAL,Milton,4252,2.0,0.0,Lowell Catholic,4217,3.0,1.0,Bay State,Commonwealth,5:00 P.M.,,0
+2026-05-27,119200,FINAL,Revere,4329,3.0,1.0,Brockton,4058,0.0,0.0,Greater Boston,Patriot,5:00 P.M.,,0
+2026-05-27,119323,FINAL,Southwick,4519,3.0,1.0,Collegiate Charter,4986,0.0,0.0,Independent,Charter School Athletic,5:00 P.M.,,0
+2026-05-27,119326,FINAL,Belchertown,4032,3.0,1.0,KIPP,4703,0.0,0.0,Independent,Commonwealth,5:00 P.M.,,0
+2026-05-27,120967,FINAL,Greater New Bedford,4156,3.0,1.0,Greater Lawrence,4154,1.0,0.0,Independent,Commonwealth,4:00 P.M.,,0
 2026-05-28,119125,FINAL,North Andover,4283,3,1,Weymouth,4425,0,0,Merrimack Valley,Bay State,5:00 P.M.,,0
 2026-05-28,119128,FINAL,Westford,4421,1,0,Arlington,4013,3,1,Dual County,Middlesex,6:00 P.M.,,0
 2026-05-28,119134,FINAL,West Springfield,4417,3,1,Minnechaug,4254,0,0,Independent,Independent,6:00 P.M.,,0

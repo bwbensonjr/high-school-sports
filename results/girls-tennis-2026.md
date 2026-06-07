@@ -1,20 +1,26 @@
 # Girls Tennis - 2026 Season
 
-Generated: 2026-06-06 12:04
+Generated: 2026-06-07 12:19
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-06-06 | 2:00 P.M. | Newton South | Wellesley | 65.4% | +4.4 |
-| 2026-06-06 | 1:00 P.M. | Ursuline | Weston | 86.3% | +12.8 |
+| 2026-06-08 | 3:00 P.M. | Newton South | Westford | 55.4% | +1.5 |
 | 2026-06-08 | 3:00 P.M. | Manchester Essex | Ipswich | 68.3% | +5.3 |
+| 2026-06-09 | 4:00 P.M. | Bedford | Duxbury | 40.9% | -2.6 |
 | 2026-06-09 | 4:00 P.M. | Notre Dame (Hingham) | Hingham | 58.9% | +2.5 |
+| 2026-06-09 | 3:30 P.M. | Martha’s Vineyard | Weston | 90.1% | +15.4 |
+| 2026-06-10 | 4:30 P.M. | Winchester | Boston Latin | 68.5% | +5.4 |
+| 2026-06-10 | 4:45 P.M. | Dover-Sherborn | Swampscott | 57.7% | +2.1 |
+| 2026-06-10 | 4:00 P.M. | Hamilton-Wenham | Bromfield | 76.5% | +8.2 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-06-06 | Ursuline | 2 | Weston | 3 | +12.8 | -1.0 |
+| 2026-06-06 | Newton South | 4 | Wellesley | 1 | +4.4 | +3.0 |
 | 2026-06-05 | Hamilton-Wenham | 4 | Hopedale | 1 | +7.3 | +3.0 |
 | 2026-06-05 | Manchester Essex | 5 | Lenox | 0 | +6.2 | +5.0 |
 | 2026-06-05 | Martha’s Vineyard | 4 | Wilmington | 1 | +9.8 | +3.0 |
@@ -33,25 +39,25 @@ Generated: 2026-06-06 12:04
 | 2026-06-03 | Ursuline | 4 | Medfield | 1 | +8.9 | +3.0 |
 | 2026-06-03 | Wilmington | 4 | Falmouth | 1 | -0.2 | +3.0 |
 | 2026-06-03 | Duxbury | 5 | Marblehead | 0 | +6.1 | +5.0 |
-| 2026-06-02 | Dover-Sherborn | 5 | Latin Academy | 0 | +12.5 | +5.0 |
+| 2026-06-02 | Bourne | 1 | Lenox | 4 | +0.5 | -3.0 |
 | 2026-06-02 | Hamilton-Wenham | 5 | Pioneer Valley Chinese Immersion | 0 | +9.6 | +5.0 |
 | 2026-06-02 | Manchester Essex | 5 | Millis | 0 | +11.2 | +5.0 |
 | 2026-06-02 | Ipswich | 5 | Uxbridge | 0 | +5.5 | +5.0 |
 | 2026-06-02 | Cohasset | 5 | Randolph | 0 | -1.0 | +5.0 |
-| 2026-06-02 | Bourne | 1 | Lenox | 4 | +0.5 | -3.0 |
-| 2026-06-02 | Monomoy | 2 | Weston | 3 | +13.6 | -1.0 |
+| 2026-06-02 | Dover-Sherborn | 5 | Latin Academy | 0 | +12.5 | +5.0 |
 | 2026-06-02 | Wellesley | 4 | Belmont | 1 | +6.5 | +3.0 |
-| 2026-06-02 | Newburyport | 2 | Longmeadow | 3 | +3.3 | -1.0 |
-| 2026-06-02 | Swampscott | 3 | Bishop Fenwick | 2 | +5.9 | +1.0 |
+| 2026-06-02 | Milton | 3 | Reading | 2 | +6.1 | +1.0 |
+| 2026-06-02 | Monomoy | 2 | Weston | 3 | +13.6 | -1.0 |
 | 2026-06-02 | Lexington | 5 | Algonquin | 0 | +7.6 | +5.0 |
 | 2026-06-02 | Boston Latin | 5 | Lincoln-Sudbury | 0 | +11.2 | +5.0 |
 | 2026-06-02 | Westwood | 4 | Bishop Stang | 1 | +2.1 | +3.0 |
+| 2026-06-02 | Newburyport | 2 | Longmeadow | 3 | +3.3 | -1.0 |
 | 2026-06-02 | Needham | 4 | Andover | 1 | +1.4 | +3.0 |
-| 2026-06-02 | Milton | 3 | Reading | 2 | +6.1 | +1.0 |
 | 2026-06-02 | Hingham | 4 | Wayland | 1 | +10.8 | +3.0 |
 | 2026-06-02 | Bedford | 3 | Holliston | 2 | +3.9 | +1.0 |
 | 2026-06-02 | Notre Dame (Hingham) | 5 | Masconomet | 0 | +9.2 | +5.0 |
 | 2026-06-02 | Old Rochester | 3 | Watertown | 2 | +11.1 | +1.0 |
+| 2026-06-02 | Swampscott | 3 | Bishop Fenwick | 2 | +5.9 | +1.0 |
 | 2026-06-01 | Manchester Essex | 5 | Greenfield | 0 | +9.3 | +5.0 |
 | 2026-06-01 | Bromfield | 4 | Rising Tide Charter | 1 | +0.2 | +3.0 |
 | 2026-06-01 | Hopedale | 4 | Rockport | 1 | +9.6 | +3.0 |
@@ -76,10 +82,10 @@ Generated: 2026-06-06 12:04
 | 4 | Swampscott | 1782.8 |
 | 5 | Old Rochester | 1772.2 |
 | 6 | Westford | 1770.9 |
-| 7 | Notre Dame (Hingham) | 1757.6 |
-| 8 | Duxbury | 1751.6 |
-| 9 | Hingham | 1745.2 |
-| 10 | Newton South | 1744.0 |
+| 7 | Newton South | 1758.4 |
+| 8 | Notre Dame (Hingham) | 1757.6 |
+| 9 | Duxbury | 1751.6 |
+| 10 | Hingham | 1745.2 |
 | 11 | Lexington | 1724.9 |
 | 12 | Lynnfield | 1724.1 |
 | 13 | Manchester Essex | 1721.0 |
@@ -87,11 +93,11 @@ Generated: 2026-06-06 12:04
 | 15 | Andover | 1715.3 |
 | 16 | Needham | 1711.3 |
 | 17 | Hamilton-Wenham | 1710.5 |
-| 18 | Ursuline | 1705.3 |
-| 19 | Sharon | 1701.4 |
-| 20 | Monomoy | 1689.4 |
+| 18 | Sharon | 1701.4 |
+| 19 | Monomoy | 1689.4 |
+| 20 | Ursuline | 1687.3 |
 | 21 | Westwood | 1686.2 |
-| 22 | Wellesley | 1683.5 |
+| 22 | Wellesley | 1669.1 |
 | 23 | Bishop Stang | 1660.3 |
 | 24 | Somerville | 1658.9 |
 | 25 | Hopkinton | 1658.5 |
@@ -251,23 +257,23 @@ Generated: 2026-06-06 12:04
 | 179 | Oxford | 1456.0 |
 | 180 | North Reading | 1455.7 |
 | 181 | David Prouty | 1454.8 |
-| 182 | Littleton | 1452.8 |
-| 183 | Archbishop Williams | 1450.6 |
-| 184 | Mt. Everett | 1449.4 |
-| 185 | Ludlow | 1447.9 |
-| 186 | Lincoln-Sudbury | 1446.9 |
-| 187 | West Springfield | 1444.5 |
-| 188 | Mansfield | 1444.5 |
-| 189 | Haverhill | 1443.9 |
-| 190 | Pioneer Valley Christian | 1443.2 |
-| 191 | Revere | 1442.6 |
-| 192 | Pembroke | 1441.7 |
-| 193 | Mystic Valley | 1441.5 |
-| 194 | Mohawk Trail | 1439.4 |
-| 195 | Belchertown | 1438.9 |
-| 196 | East Bridgewater | 1438.0 |
-| 197 | Rockland | 1436.6 |
-| 198 | Weston | 1435.0 |
+| 182 | Weston | 1452.9 |
+| 183 | Littleton | 1452.8 |
+| 184 | Archbishop Williams | 1450.6 |
+| 185 | Mt. Everett | 1449.4 |
+| 186 | Ludlow | 1447.9 |
+| 187 | Lincoln-Sudbury | 1446.9 |
+| 188 | West Springfield | 1444.5 |
+| 189 | Mansfield | 1444.5 |
+| 190 | Haverhill | 1443.9 |
+| 191 | Pioneer Valley Christian | 1443.2 |
+| 192 | Revere | 1442.6 |
+| 193 | Pembroke | 1441.7 |
+| 194 | Mystic Valley | 1441.5 |
+| 195 | Mohawk Trail | 1439.4 |
+| 196 | Belchertown | 1438.9 |
+| 197 | East Bridgewater | 1438.0 |
+| 198 | Rockland | 1436.6 |
 | 199 | Shepherd Hill | 1433.8 |
 | 200 | Framingham | 1432.5 |
 | 201 | Arlington Catholic | 1432.4 |

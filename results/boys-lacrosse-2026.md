@@ -1,27 +1,33 @@
 # Boys Lacrosse - 2026 Season
 
-Generated: 2026-06-06 12:04
+Generated: 2026-06-07 12:18
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-06-06 | 1:00 P.M. | Longmeadow | Hingham | 73.6% | +7.1 |
-| 2026-06-06 | 7:00 P.M. | Billerica | Walpole | 67.5% | +5.1 |
-| 2026-06-06 | 5:00 P.M. | Norwell | Weston | 54.8% | +1.3 |
-| 2026-06-06 | 6:30 P.M. | Dracut | Wakefield | 73.3% | +7.0 |
-| 2026-06-06 | 6:30 P.M. | Acton-Boxborough | Bishop Feehan | 69.0% | +5.5 |
-| 2026-06-06 | 2:00 P.M. | St. John’s Prep | Winchester | 64.2% | +4.1 |
-| 2026-06-06 | 5:00 P.M. | Lincoln-Sudbury | Xaverian | 90.6% | +15.8 |
-| 2026-06-06 | 6:00 P.M. | Nantucket | Pentucket | 76.4% | +8.2 |
-| 2026-06-06 | 6:30 P.M. | Manchester Essex | Abington | 61.6% | +3.3 |
 | 2026-06-07 | 6:30 P.M. | Medfield | Falmouth | 53.0% | +0.8 |
+| 2026-06-08 | 6:30 P.M. | Dracut | Wakefield | 73.3% | +7.0 |
+| 2026-06-09 | TBD | Longmeadow | Marshfield | 68.1% | +5.3 |
+| 2026-06-09 | TBD | Walpole | Mansfield | 41.5% | -2.4 |
+| 2026-06-09 | TBD | St. John’s Prep | BC High | 74.2% | +7.4 |
+| 2026-06-09 | TBD | Lincoln-Sudbury | Acton-Boxborough | 57.8% | +2.2 |
+| 2026-06-09 | TBD | Nantucket | Manchester Essex | 61.8% | +3.3 |
 | 2026-06-09 | TBD | Cohasset | Ipswich | 59.1% | +2.6 |
+| 2026-06-10 | TBD | Norwell | Scituate | 66.5% | +4.8 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-06-06 | Manchester Essex | 10 | Abington | 6 | +3.3 | +4.0 |
+| 2026-06-06 | Nantucket | 10 | Pentucket | 9 | +8.2 | +1.0 |
+| 2026-06-06 | Lincoln-Sudbury | 17 | Xaverian | 8 | +15.8 | +9.0 |
+| 2026-06-06 | St. John’s Prep | 15 | Winchester | 2 | +4.1 | +13.0 |
+| 2026-06-06 | Acton-Boxborough | 11 | Bishop Feehan | 7 | +5.5 | +4.0 |
+| 2026-06-06 | Norwell | 7 | Weston | 5 | +1.3 | +2.0 |
+| 2026-06-06 | Billerica | 8 | Walpole | 14 | +5.1 | -6.0 |
+| 2026-06-06 | Longmeadow | 9 | Hingham | 7 | +7.1 | +2.0 |
 | 2026-06-05 | Cohasset | 19 | Bourne/Mashpee | 6 | -0.9 | +13.0 |
 | 2026-06-05 | Ipswich | 14 | Winthrop | 8 | +0.8 | +6.0 |
 | 2026-06-05 | Andover | 7 | BC High | 8 | +2.8 | -1.0 |
@@ -34,76 +40,62 @@ Generated: 2026-06-06 12:04
 | 2026-06-04 | Pentucket | 14 | Sandwich | 6 | +3.8 | +8.0 |
 | 2026-06-04 | Abington | 14 | Lynnfield | 4 | +17.7 | +10.0 |
 | 2026-06-04 | Winthrop | 17 | East Bridgewater | 4 | +7.9 | +13.0 |
-| 2026-06-03 | Dracut | 13 | North Reading | 4 | +10.7 | +9.0 |
-| 2026-06-03 | King Philip | 9 | Walpole | 11 | +4.4 | -2.0 |
+| 2026-06-03 | Newton North | 10 | Xaverian | 12 | +12.8 | -2.0 |
 | 2026-06-03 | Hingham | 13 | Westwood | 12 | -0.7 | +1.0 |
 | 2026-06-03 | Mansfield | 8 | Marblehead | 6 | +8.8 | +2.0 |
 | 2026-06-03 | Billerica | 18 | Silver Lake | 8 | +11.0 | +10.0 |
 | 2026-06-03 | Newburyport | 12 | Shawsheen | 15 | -2.3 | -3.0 |
 | 2026-06-03 | Falmouth | 9 | Tewksbury | 2 | +6.2 | +7.0 |
 | 2026-06-03 | Norwell | 18 | Dover-Sherborn | 11 | +6.8 | +7.0 |
-| 2026-06-03 | Newton North | 10 | Xaverian | 12 | +12.8 | -2.0 |
+| 2026-06-03 | Dracut | 13 | North Reading | 4 | +10.7 | +9.0 |
+| 2026-06-03 | BC High | 15 | Natick | 2 | -0.3 | +13.0 |
 | 2026-06-03 | Andover | 16 | Concord-Carlisle | 4 | +3.6 | +12.0 |
 | 2026-06-03 | Lincoln-Sudbury | 18 | Wellesley | 3 | +12.8 | +15.0 |
 | 2026-06-03 | Ipswich | 17 | Lunenburg | 1 | +5.8 | +16.0 |
 | 2026-06-03 | Manchester Essex | 14 | Nipmuc | 8 | +9.8 | +6.0 |
 | 2026-06-03 | Nantucket | 17 | Rockland | 1 | +13.0 | +16.0 |
 | 2026-06-03 | Cohasset | 19 | Triton | 5 | +13.0 | +14.0 |
-| 2026-06-03 | BC High | 15 | Natick | 2 | -0.3 | +13.0 |
-| 2026-06-02 | St. John’s Prep | 16 | Needham | 6 | +10.8 | +10.0 |
+| 2026-06-03 | King Philip | 9 | Walpole | 11 | +4.4 | -2.0 |
 | 2026-06-02 | Bourne/Mashpee | 9 | Hamilton-Wenham | 7 | +9.8 | +2.0 |
-| 2026-06-02 | Acton-Boxborough | 10 | North Andover | 8 | +14.4 | +2.0 |
+| 2026-06-02 | St. John’s Prep | 16 | Needham | 6 | +10.8 | +10.0 |
 | 2026-06-02 | Bishop Feehan | 7 | Shrewsbury | 5 | +8.8 | +2.0 |
 | 2026-06-02 | Wakefield | 14 | Hanover | 7 | +7.8 | +7.0 |
 | 2026-06-02 | Longmeadow | 18 | Agawam | 1 | +8.7 | +17.0 |
 | 2026-06-02 | Duxbury | 10 | Milton | 7 | +3.9 | +3.0 |
 | 2026-06-02 | Marshfield | 11 | Canton | 9 | +3.9 | +2.0 |
-| 2026-06-01 | Manchester Essex | 17 | Wahconah | 3 | +10.6 | +14.0 |
-| 2026-06-01 | Hamilton-Wenham | 16 | Cape Cod Tech | 9 | -2.1 | +7.0 |
-| 2026-06-01 | Nantucket | 15 | Monomoy | 0 | +18.6 | +15.0 |
-| 2026-06-01 | East Bridgewater | 16 | Hull | 9 | +10.4 | +7.0 |
-| 2026-06-01 | Pentucket | 19 | Bellingham | 4 | +12.1 | +15.0 |
-| 2026-06-01 | Billerica | 17 | Westfield | 7 | +10.3 | +10.0 |
+| 2026-06-02 | Acton-Boxborough | 10 | North Andover | 8 | +14.4 | +2.0 |
 | 2026-06-01 | Weston | 11 | Swampscott | 6 | +10.4 | +5.0 |
+| 2026-06-01 | Natick | 6 | Belmont | 2 | +5.7 | +4.0 |
 | 2026-06-01 | Reading | 14 | Minnechaug | 2 | +11.0 | +12.0 |
 | 2026-06-01 | King Philip | 19 | Archbishop Williams | 1 | +7.4 | +18.0 |
 | 2026-06-01 | Walpole | 16 | West Springfield | 3 | +7.0 | +13.0 |
 | 2026-06-01 | Westwood | 13 | Sharon | 8 | +13.8 | +5.0 |
+| 2026-06-01 | Billerica | 17 | Westfield | 7 | +10.3 | +10.0 |
 | 2026-06-01 | Scituate | 10 | Pembroke | 5 | +7.0 | +5.0 |
-| 2026-06-01 | Abington | 15 | South Hadley | 5 | +7.2 | +10.0 |
 | 2026-06-01 | Medfield | 21 | Tri-County | 2 | +0.6 | +19.0 |
 | 2026-06-01 | Norwell | 22 | St. John Paul II | 2 | +5.5 | +20.0 |
-| 2026-06-01 | Natick | 6 | Belmont | 2 | +5.7 | +4.0 |
 | 2026-06-01 | Triton | 12 | Stoneham | 11 | +0.7 | +1.0 |
 | 2026-06-01 | Nipmuc | 9 | Fairhaven | 3 | +4.1 | +6.0 |
 | 2026-06-01 | Winthrop | 13 | Old Colony | 1 | +12.0 | +12.0 |
-| 2026-05-31 | Hanover | 14 | St. Mary’s | 6 | -2.7 | +8.0 |
-| 2026-05-31 | Plymouth North | 10 | Silver Lake | 16 | +6.4 | -6.0 |
-| 2026-05-31 | Bishop Stang | 8 | Dover-Sherborn | 12 | +8.0 | -4.0 |
+| 2026-06-01 | Abington | 15 | South Hadley | 5 | +7.2 | +10.0 |
+| 2026-06-01 | Pentucket | 19 | Bellingham | 4 | +12.1 | +15.0 |
+| 2026-06-01 | Hamilton-Wenham | 16 | Cape Cod Tech | 9 | -2.1 | +7.0 |
+| 2026-06-01 | East Bridgewater | 16 | Hull | 9 | +10.4 | +7.0 |
+| 2026-06-01 | Manchester Essex | 17 | Wahconah | 3 | +10.6 | +14.0 |
+| 2026-06-01 | Nantucket | 15 | Monomoy | 0 | +18.6 | +15.0 |
+| 2026-05-31 | St. John Paul II | 10 | St. Bernard’s | 9 | +1.2 | +1.0 |
 | 2026-05-31 | Falmouth | 13 | Old Rochester | 2 | +9.3 | +11.0 |
 | 2026-05-31 | Newburyport | 18 | Hudson | 4 | +2.6 | +14.0 |
 | 2026-05-31 | Wakefield | 17 | Danvers | 5 | +8.7 | +12.0 |
-| 2026-05-31 | St. John Paul II | 10 | St. Bernard’s | 9 | +1.2 | +1.0 |
-| 2026-05-31 | Advanced Math and Science | 12 | Lynnfield | 16 | +15.2 | -4.0 |
+| 2026-05-31 | Hanover | 14 | St. Mary’s | 6 | -2.7 | +8.0 |
 | 2026-05-31 | Dracut | 19 | Upper Cape | 5 | +9.0 | +14.0 |
+| 2026-05-31 | Bishop Stang | 8 | Dover-Sherborn | 12 | +8.0 | -4.0 |
 | 2026-05-31 | North Andover | 8 | Hopkinton | 5 | -5.0 | +3.0 |
 | 2026-05-31 | Lincoln-Sudbury | 19 | Leominster | 0 | +10.0 | +19.0 |
 | 2026-05-31 | Rockland | 16 | Littleton | 12 | -2.8 | +4.0 |
+| 2026-05-31 | Advanced Math and Science | 12 | Lynnfield | 16 | +15.2 | -4.0 |
 | 2026-05-31 | Monomoy | 8 | Monson | 7 | -8.4 | +1.0 |
-| 2026-05-30 | St. John’s (Shrewsbury) | 16 | Central Catholic | 5 | +6.5 | +11.0 |
-| 2026-05-30 | Nauset | 10 | North Reading | 11 | -1.1 | -1.0 |
-| 2026-05-30 | Oakmont | 9 | Holliston | 4 | +7.7 | +5.0 |
-| 2026-05-30 | Shawsheen | 21 | Wilmington | 3 | +16.9 | +18.0 |
-| 2026-05-30 | Bishop Feehan | 19 | Haverhill | 0 | +7.7 | +19.0 |
-| 2026-05-30 | Winchester | 13 | Bridgewater-Raynham | 2 | +7.1 | +11.0 |
-| 2026-05-30 | Marshfield | 13 | Grafton | 4 | +10.6 | +9.0 |
-| 2026-05-30 | Shrewsbury | 12 | Westford | 8 | +4.6 | +4.0 |
-| 2026-05-30 | Andover | 16 | Waltham | 3 | +6.5 | +13.0 |
-| 2026-05-30 | St. John’s Prep | 13 | Arlington | 6 | +15.2 | +7.0 |
-| 2026-05-30 | Bourne/Mashpee | 15 | Mt. Greylock | 1 | +7.6 | +14.0 |
-| 2026-05-30 | Ipswich | 18 | Tyngsborough | 1 | +13.6 | +17.0 |
-| 2026-05-30 | Cohasset | 19 | Seekonk | 0 | +17.1 | +19.0 |
-| 2026-05-30 | Agawam | 13 | Melrose | 5 | +3.8 | +8.0 |
+| 2026-05-31 | Plymouth North | 10 | Silver Lake | 16 | +6.4 | -6.0 |
 
 ## Current Elo Ratings
 
@@ -112,45 +104,45 @@ Generated: 2026-06-06 12:04
 | 1 | Shawsheen | 1858.9 |
 | 2 | Dracut | 1851.1 |
 | 3 | Mansfield | 1837.4 |
-| 4 | Lincoln-Sudbury | 1827.9 |
-| 5 | Acton-Boxborough | 1815.0 |
-| 6 | St. John’s Prep | 1804.6 |
-| 7 | Longmeadow | 1797.0 |
-| 8 | Weston | 1785.4 |
+| 4 | Lincoln-Sudbury | 1834.4 |
+| 5 | St. John’s Prep | 1833.0 |
+| 6 | Acton-Boxborough | 1830.0 |
+| 7 | Longmeadow | 1805.6 |
+| 8 | Norwell | 1783.7 |
 | 9 | Falmouth | 1780.9 |
-| 10 | Norwell | 1768.8 |
-| 11 | Billerica | 1765.7 |
-| 12 | Reading | 1764.4 |
-| 13 | Nantucket | 1755.4 |
-| 14 | Newburyport | 1754.9 |
-| 15 | Cohasset | 1753.6 |
-| 16 | Winchester | 1753.1 |
-| 17 | Medfield | 1751.8 |
-| 18 | Bourne/Mashpee | 1742.5 |
-| 19 | Ipswich | 1739.8 |
-| 20 | Bishop Feehan | 1726.3 |
+| 10 | Weston | 1770.5 |
+| 11 | Reading | 1764.4 |
+| 12 | Nantucket | 1760.3 |
+| 13 | Newburyport | 1754.9 |
+| 14 | Cohasset | 1753.6 |
+| 15 | Medfield | 1751.8 |
+| 16 | Bourne/Mashpee | 1742.5 |
+| 17 | Ipswich | 1739.8 |
+| 18 | Walpole | 1727.9 |
+| 19 | Manchester Essex | 1726.6 |
+| 20 | Billerica | 1726.3 |
 | 21 | Wakefield | 1725.3 |
-| 22 | Marshfield | 1724.2 |
-| 23 | Tabor | 1723.6 |
-| 24 | Winthrop | 1715.1 |
-| 25 | Westwood | 1715.0 |
-| 26 | Scituate | 1714.8 |
-| 27 | Bishop Stang | 1708.3 |
-| 28 | Manchester Essex | 1708.0 |
-| 29 | King Philip | 1704.3 |
-| 30 | BC High | 1699.1 |
-| 31 | Oakmont | 1698.3 |
-| 32 | Newton North | 1697.1 |
-| 33 | Andover | 1694.7 |
-| 34 | Duxbury | 1691.4 |
-| 35 | Hudson | 1690.5 |
-| 36 | Walpole | 1688.5 |
+| 22 | Winchester | 1724.8 |
+| 23 | Marshfield | 1724.2 |
+| 24 | Tabor | 1723.6 |
+| 25 | Winthrop | 1715.1 |
+| 26 | Westwood | 1715.0 |
+| 27 | Scituate | 1714.8 |
+| 28 | Bishop Feehan | 1711.3 |
+| 29 | Bishop Stang | 1708.3 |
+| 30 | King Philip | 1704.3 |
+| 31 | BC High | 1699.1 |
+| 32 | Oakmont | 1698.3 |
+| 33 | Newton North | 1697.1 |
+| 34 | Andover | 1694.7 |
+| 35 | Duxbury | 1691.4 |
+| 36 | Hudson | 1690.5 |
 | 37 | Tri-County | 1677.5 |
-| 38 | Abington | 1675.9 |
-| 39 | Hingham | 1668.6 |
-| 40 | St. Sebastian’s | 1666.8 |
-| 41 | Natick | 1663.0 |
-| 42 | Pope Francis | 1661.1 |
+| 38 | St. Sebastian’s | 1666.8 |
+| 39 | Natick | 1663.0 |
+| 40 | Pope Francis | 1661.1 |
+| 41 | Hingham | 1659.9 |
+| 42 | Abington | 1657.4 |
 | 43 | Nobles | 1650.3 |
 | 44 | Pingree | 1646.2 |
 | 45 | Marblehead | 1643.9 |
@@ -170,9 +162,9 @@ Generated: 2026-06-06 12:04
 | 59 | Concord-Carlisle | 1609.3 |
 | 60 | St. John Paul II | 1607.8 |
 | 61 | St. Mary’s | 1604.9 |
-| 62 | Pentucket | 1601.3 |
-| 63 | Milford | 1597.9 |
-| 64 | Mt. Greylock | 1597.0 |
+| 62 | Milford | 1597.9 |
+| 63 | Mt. Greylock | 1597.0 |
+| 64 | Pentucket | 1596.4 |
 | 65 | Northeast | 1595.6 |
 | 66 | Agawam | 1591.3 |
 | 67 | Southeastern | 1591.1 |
@@ -247,11 +239,11 @@ Generated: 2026-06-06 12:04
 | 136 | South Hadley | 1504.0 |
 | 137 | Moses Brown (R.I.) | 1503.2 |
 | 138 | Landmark | 1501.3 |
-| 139 | Bourne | 1500.0 |
+| 139 | Latin Academy | 1500.0 |
 | 140 | Mashpee | 1500.0 |
-| 141 | St. Anthony’s (N.Y.) | 1500.0 |
-| 142 | Latin Academy | 1500.0 |
-| 143 | Everett | 1500.0 |
+| 141 | Bourne | 1500.0 |
+| 142 | Everett | 1500.0 |
+| 143 | St. Anthony’s (N.Y.) | 1500.0 |
 | 144 | West Springfield | 1499.6 |
 | 145 | North Andover | 1496.9 |
 | 146 | Bancroft | 1496.5 |
@@ -267,14 +259,14 @@ Generated: 2026-06-06 12:04
 | 156 | Portsmouth (N.H.) | 1485.6 |
 | 157 | Glastonbury (Conn.) | 1484.7 |
 | 158 | Chicopee Comprehensive | 1484.6 |
-| 159 | Xaverian | 1483.5 |
-| 160 | Cape Elizabeth (Maine) | 1482.2 |
-| 161 | Burlington | 1481.6 |
-| 162 | Arlington Catholic | 1480.7 |
-| 163 | Falmouth Academy | 1480.1 |
-| 164 | Falmouth (Maine) | 1479.0 |
-| 165 | Mount Anthony (Vt.) | 1477.4 |
-| 166 | Tantasqua | 1477.3 |
+| 159 | Cape Elizabeth (Maine) | 1482.2 |
+| 160 | Burlington | 1481.6 |
+| 161 | Arlington Catholic | 1480.7 |
+| 162 | Falmouth Academy | 1480.1 |
+| 163 | Falmouth (Maine) | 1479.0 |
+| 164 | Mount Anthony (Vt.) | 1477.4 |
+| 165 | Tantasqua | 1477.3 |
+| 166 | Xaverian | 1477.1 |
 | 167 | Belchertown | 1477.0 |
 | 168 | Thayer | 1476.6 |
 | 169 | Saugus | 1475.9 |

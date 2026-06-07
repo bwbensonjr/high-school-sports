@@ -1,6 +1,6 @@
 # Boys Volleyball - 2026 Season
 
-Generated: 2026-06-06 12:04
+Generated: 2026-06-07 12:19
 
 ## Upcoming Games
 
@@ -18,37 +18,28 @@ Generated: 2026-06-06 12:04
 | 2026-06-05 | Needham | 3 | Lowell | 0 | +3.6 | +3.0 |
 | 2026-06-05 | Brookline | 3 | Newton South | 1 | +5.1 | +2.0 |
 | 2026-06-05 | Chelmsford | 1 | Newton North | 3 | +11.1 | -2.0 |
+| 2026-06-04 | Latin Academy | 3 | O’Bryant | 2 | +3.2 | +1.0 |
 | 2026-06-04 | Wayland | 3 | Longmeadow | 0 | +9.3 | +3.0 |
 | 2026-06-04 | Westfield | 3 | Marlborough | 2 | +6.3 | +1.0 |
 | 2026-06-04 | Natick | 3 | Agawam | 1 | +4.1 | +2.0 |
-| 2026-06-04 | Latin Academy | 3 | O’Bryant | 2 | +3.2 | +1.0 |
 | 2026-06-03 | Medfield | 2 | Norton | 3 | +3.9 | -1.0 |
 | 2026-06-03 | Lexington | 2 | Newton North | 3 | +11.0 | -1.0 |
-| 2026-06-02 | Chelmsford | 3 | West Springfield | 0 | +8.4 | +3.0 |
-| 2026-06-02 | Wayland | 3 | Greater Lowell | 0 | +7.3 | +3.0 |
 | 2026-06-02 | Chicopee Comprehensive | 3 | Dracut | 0 | +5.5 | +3.0 |
+| 2026-06-02 | Wayland | 3 | Greater Lowell | 0 | +7.3 | +3.0 |
 | 2026-06-02 | Milford | 3 | Burlington | 1 | +5.3 | +2.0 |
 | 2026-06-02 | Longmeadow | 3 | Pioneer Valley Christian | 0 | -0.6 | +3.0 |
 | 2026-06-02 | Needham | 3 | North Andover | 0 | +5.7 | +3.0 |
 | 2026-06-02 | Natick | 3 | Barnstable | 0 | +2.5 | +3.0 |
+| 2026-06-02 | Chelmsford | 3 | West Springfield | 0 | +8.4 | +3.0 |
 | 2026-06-02 | Agawam | 3 | Methuen | 0 | +2.3 | +3.0 |
-| 2026-06-02 | Lowell | 3 | Cambridge | 1 | +7.4 | +2.0 |
 | 2026-06-02 | Newton South | 3 | Acton-Boxborough | 0 | +2.1 | +3.0 |
+| 2026-06-02 | Lowell | 3 | Cambridge | 1 | +7.4 | +2.0 |
 | 2026-06-01 | Latin Academy | 3 | East Longmeadow | 0 | +6.5 | +3.0 |
 | 2026-06-01 | Westfield | 3 | Springfield International | 1 | +7.2 | +2.0 |
 | 2026-06-01 | Marlborough | 3 | Granby | 1 | +3.1 | +2.0 |
 | 2026-06-01 | Brookline | 3 | Arlington | 0 | +5.9 | +3.0 |
-| 2026-05-31 | Chelmsford | 3 | St. John’s (Shrewsbury) | 0 | +10.0 | +3.0 |
 | 2026-05-31 | Natick | 3 | Somerville | 0 | +7.1 | +3.0 |
-| 2026-05-30 | Milford | 3 | Millis | 0 | +6.9 | +3.0 |
-| 2026-05-30 | Lowell | 3 | Lawrence | 1 | +4.8 | +2.0 |
-| 2026-05-30 | Needham | 3 | Quincy | 0 | +6.0 | +3.0 |
-| 2026-05-30 | Pioneer Valley Christian | 3 | Ayer Shirley | 0 | +2.2 | +3.0 |
-| 2026-05-30 | Agawam | 3 | Greater New Bedford | 0 | -0.3 | +3.0 |
-| 2026-05-30 | Chicopee Comprehensive | 3 | Assabet | 0 | +1.6 | +3.0 |
-| 2026-05-30 | Westfield | 3 | Wakefield | 0 | +12.8 | +3.0 |
-| 2026-05-30 | Wayland | 3 | Pioneer Charter II | 0 | +9.7 | +3.0 |
-| 2026-05-30 | Lexington | 3 | North Quincy | 0 | +3.4 | +3.0 |
+| 2026-05-31 | Chelmsford | 3 | St. John’s (Shrewsbury) | 0 | +10.0 | +3.0 |
 
 ## Current Elo Ratings
 
