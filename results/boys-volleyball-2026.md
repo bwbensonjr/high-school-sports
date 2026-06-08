@@ -1,19 +1,21 @@
 # Boys Volleyball - 2026 Season
 
-Generated: 2026-06-07 12:19
+Generated: 2026-06-08 14:46
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-06-07 | 12:00 P.M. | Chicopee Comprehensive | Latin Academy | 57.1% | +2.0 |
 | 2026-06-09 | 5:00 P.M. | Brookline | Natick | 55.8% | +1.6 |
 | 2026-06-09 | 7:15 P.M. | Needham | Newton North | 82.3% | +10.7 |
+| 2026-06-09 | 6:00 P.M. | Westfield | Chicopee Comprehensive | 70.9% | +6.2 |
+| 2026-06-09 | 7:00 P.M. | Wayland | Milford | 72.9% | +6.9 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-06-07 | Chicopee Comprehensive | 3 | Latin Academy | 0 | +2.0 | +3.0 |
 | 2026-06-05 | Milford | 3 | Norton | 0 | +0.6 | +3.0 |
 | 2026-06-05 | Needham | 3 | Lowell | 0 | +3.6 | +3.0 |
 | 2026-06-05 | Brookline | 3 | Newton South | 1 | +5.1 | +2.0 |
@@ -24,8 +26,8 @@ Generated: 2026-06-07 12:19
 | 2026-06-04 | Natick | 3 | Agawam | 1 | +4.1 | +2.0 |
 | 2026-06-03 | Medfield | 2 | Norton | 3 | +3.9 | -1.0 |
 | 2026-06-03 | Lexington | 2 | Newton North | 3 | +11.0 | -1.0 |
-| 2026-06-02 | Chicopee Comprehensive | 3 | Dracut | 0 | +5.5 | +3.0 |
 | 2026-06-02 | Wayland | 3 | Greater Lowell | 0 | +7.3 | +3.0 |
+| 2026-06-02 | Chicopee Comprehensive | 3 | Dracut | 0 | +5.5 | +3.0 |
 | 2026-06-02 | Milford | 3 | Burlington | 1 | +5.3 | +2.0 |
 | 2026-06-02 | Longmeadow | 3 | Pioneer Valley Christian | 0 | -0.6 | +3.0 |
 | 2026-06-02 | Needham | 3 | North Andover | 0 | +5.7 | +3.0 |
@@ -34,12 +36,10 @@ Generated: 2026-06-07 12:19
 | 2026-06-02 | Agawam | 3 | Methuen | 0 | +2.3 | +3.0 |
 | 2026-06-02 | Newton South | 3 | Acton-Boxborough | 0 | +2.1 | +3.0 |
 | 2026-06-02 | Lowell | 3 | Cambridge | 1 | +7.4 | +2.0 |
+| 2026-06-01 | Marlborough | 3 | Granby | 1 | +3.1 | +2.0 |
 | 2026-06-01 | Latin Academy | 3 | East Longmeadow | 0 | +6.5 | +3.0 |
 | 2026-06-01 | Westfield | 3 | Springfield International | 1 | +7.2 | +2.0 |
-| 2026-06-01 | Marlborough | 3 | Granby | 1 | +3.1 | +2.0 |
 | 2026-06-01 | Brookline | 3 | Arlington | 0 | +5.9 | +3.0 |
-| 2026-05-31 | Natick | 3 | Somerville | 0 | +7.1 | +3.0 |
-| 2026-05-31 | Chelmsford | 3 | St. John’s (Shrewsbury) | 0 | +10.0 | +3.0 |
 
 ## Current Elo Ratings
 
@@ -62,19 +62,19 @@ Generated: 2026-06-07 12:19
 | 15 | Milford | 1624.7 |
 | 16 | Norton | 1620.8 |
 | 17 | North Andover | 1616.3 |
-| 18 | Methuen | 1600.8 |
-| 19 | Newton South | 1599.2 |
-| 20 | Quincy | 1596.8 |
-| 21 | Lawrence | 1593.1 |
-| 22 | Marlborough | 1589.9 |
-| 23 | Latin Academy | 1588.0 |
-| 24 | Chicopee Comprehensive | 1587.4 |
-| 25 | Nipmuc | 1587.2 |
-| 26 | Belchertown | 1584.3 |
-| 27 | Greater Lowell | 1583.3 |
-| 28 | Greater Lawrence | 1580.8 |
-| 29 | Pioneer Valley Christian | 1579.2 |
-| 30 | Acton-Boxborough | 1572.1 |
+| 18 | Chicopee Comprehensive | 1605.2 |
+| 19 | Methuen | 1600.8 |
+| 20 | Newton South | 1599.2 |
+| 21 | Quincy | 1596.8 |
+| 22 | Lawrence | 1593.1 |
+| 23 | Marlborough | 1589.9 |
+| 24 | Nipmuc | 1587.2 |
+| 25 | Belchertown | 1584.3 |
+| 26 | Greater Lowell | 1583.3 |
+| 27 | Greater Lawrence | 1580.8 |
+| 28 | Pioneer Valley Christian | 1579.2 |
+| 29 | Acton-Boxborough | 1572.1 |
+| 30 | Latin Academy | 1570.1 |
 | 31 | Arlington | 1566.9 |
 | 32 | Veritas Prep | 1565.3 |
 | 33 | Ayer Shirley | 1561.4 |
@@ -114,8 +114,8 @@ Generated: 2026-06-07 12:19
 | 67 | Burlington | 1502.4 |
 | 68 | Keefe Tech | 1502.3 |
 | 69 | Minnechaug | 1501.0 |
-| 70 | Phillips Andover | 1500.0 |
-| 71 | Walpole | 1500.0 |
+| 70 | Walpole | 1500.0 |
+| 71 | Phillips Andover | 1500.0 |
 | 72 | Bay Path | 1499.1 |
 | 73 | North Middlesex | 1496.5 |
 | 74 | Boston Latin | 1495.5 |

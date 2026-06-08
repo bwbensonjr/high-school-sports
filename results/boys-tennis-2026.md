@@ -1,6 +1,6 @@
 # Boys Tennis - 2026 Season
 
-Generated: 2026-06-07 12:19
+Generated: 2026-06-08 14:46
 
 ## Upcoming Games
 
@@ -27,10 +27,10 @@ Generated: 2026-06-07 12:19
 | 2026-06-05 | Longmeadow | 2 | Sharon | 3 | -2.3 | -1.0 |
 | 2026-06-05 | St. John’s Prep | 2 | Newton South | 3 | +3.9 | -1.0 |
 | 2026-06-05 | Newton North | 4 | Lincoln-Sudbury | 1 | +3.3 | +3.0 |
-| 2026-06-04 | Duxbury | 4 | Masconomet | 1 | +6.0 | +3.0 |
+| 2026-06-04 | Wayland | 4 | Falmouth | 1 | -4.5 | +3.0 |
 | 2026-06-04 | Lexington | 5 | Concord-Carlisle | 0 | +10.7 | +5.0 |
 | 2026-06-04 | Walpole | 2 | Marblehead | 3 | -3.0 | -1.0 |
-| 2026-06-04 | Wayland | 4 | Falmouth | 1 | -4.5 | +3.0 |
+| 2026-06-04 | Duxbury | 4 | Masconomet | 1 | +6.0 | +3.0 |
 | 2026-06-04 | Weston | 5 | Medfield | 0 | +2.1 | +5.0 |
 | 2026-06-04 | Mystic Valley | 4 | Lenox | 1 | +6.0 | +3.0 |
 | 2026-06-04 | Hamilton-Wenham | 5 | Amesbury | 0 | +10.7 | +5.0 |
@@ -40,36 +40,33 @@ Generated: 2026-06-07 12:19
 | 2026-06-03 | Newburyport | 3 | Martha’s Vineyard | 2 | -0.7 | +1.0 |
 | 2026-06-03 | Bedford | 5 | East Longmeadow | 0 | -0.3 | +5.0 |
 | 2026-06-03 | Sharon | 5 | Algonquin | 0 | +10.0 | +5.0 |
-| 2026-06-02 | Weston | 5 | Gloucester | 0 | +4.8 | +5.0 |
-| 2026-06-02 | Mystic Valley | 5 | Leicester | 0 | +2.8 | +5.0 |
 | 2026-06-02 | Pioneer Valley Chinese Immersion | 5 | Bourne | 0 | +3.0 | +5.0 |
+| 2026-06-02 | Mystic Valley | 5 | Leicester | 0 | +2.8 | +5.0 |
 | 2026-06-02 | Mt. Greylock | 5 | Bromfield | 0 | -0.5 | +5.0 |
 | 2026-06-02 | Wayland | 5 | North Reading | 0 | +0.9 | +5.0 |
+| 2026-06-02 | Wilmington | 1 | Medfield | 4 | -2.9 | -3.0 |
 | 2026-06-02 | Westborough | 5 | Plymouth South | 0 | +4.6 | +5.0 |
 | 2026-06-02 | Duxbury | 4 | Canton | 1 | +6.7 | +3.0 |
 | 2026-06-02 | Walpole | 4 | Burlington | 1 | +4.1 | +3.0 |
 | 2026-06-02 | Lexington | 5 | Arlington | 0 | +9.7 | +5.0 |
 | 2026-06-02 | Westford | 4 | St. John’s (Shrewsbury) | 1 | +9.1 | +3.0 |
 | 2026-06-02 | Newton South | 3 | Shrewsbury | 2 | +4.6 | +1.0 |
-| 2026-06-02 | Wilmington | 1 | Medfield | 4 | -2.9 | -3.0 |
-| 2026-06-01 | Bedford | 5 | Groton-Dunstable | 0 | -1.6 | +5.0 |
-| 2026-06-01 | Longmeadow | 4 | Mansfield | 1 | -0.4 | +3.0 |
+| 2026-06-02 | Weston | 5 | Gloucester | 0 | +4.8 | +5.0 |
 | 2026-06-01 | Needham | 4 | Wellesley | 1 | +3.0 | +3.0 |
+| 2026-06-01 | Longmeadow | 4 | Mansfield | 1 | -0.4 | +3.0 |
 | 2026-06-01 | Lincoln-Sudbury | 4 | Belmont | 1 | +5.0 | +3.0 |
 | 2026-06-01 | Newton North | 5 | Boston Latin | 0 | +5.8 | +5.0 |
 | 2026-06-01 | St. John’s Prep | 5 | BC High | 0 | +11.1 | +5.0 |
 | 2026-06-01 | Hingham | 3 | Reading | 2 | +9.7 | +1.0 |
 | 2026-06-01 | Masconomet | 3 | Northampton | 2 | +2.7 | +1.0 |
-| 2026-06-01 | Newburyport | 5 | Nantucket | 0 | +2.8 | +5.0 |
+| 2026-06-01 | Lenox | 3 | Sutton | 2 | +3.0 | +1.0 |
 | 2026-06-01 | Scituate | 4 | Latin Academy | 1 | +6.1 | +3.0 |
 | 2026-06-01 | East Longmeadow | 3 | Watertown | 2 | +4.8 | +1.0 |
-| 2026-06-01 | Lenox | 3 | Sutton | 2 | +3.0 | +1.0 |
+| 2026-06-01 | Bedford | 5 | Groton-Dunstable | 0 | -1.6 | +5.0 |
+| 2026-06-01 | Newburyport | 5 | Nantucket | 0 | +2.8 | +5.0 |
 | 2026-06-01 | Cohasset | 4 | Rockport | 1 | +6.7 | +3.0 |
 | 2026-06-01 | Hamilton-Wenham | 5 | Ipswich | 0 | +15.7 | +5.0 |
 | 2026-06-01 | Winchester | 2 | Concord-Carlisle | 3 | +7.3 | -1.0 |
-| 2026-05-31 | Falmouth | 3 | Pentucket | 2 | +9.5 | +1.0 |
-| 2026-05-31 | Westborough | 5 | Ashland | 0 | +8.0 | +5.0 |
-| 2026-05-31 | Marblehead | 4 | Grafton | 1 | +13.4 | +3.0 |
 
 ## Current Elo Ratings
 
@@ -193,10 +190,10 @@ Generated: 2026-06-07 12:19
 | 116 | Palmer | 1502.3 |
 | 117 | Franklin | 1502.3 |
 | 118 | Chelmsford | 1501.4 |
-| 119 | Pittsfield | 1500.0 |
-| 120 | Fellowship Christian | 1500.0 |
-| 121 | Greater Lowell | 1500.0 |
-| 122 | Greater Lawrence | 1500.0 |
+| 119 | Greater Lawrence | 1500.0 |
+| 120 | Pittsfield | 1500.0 |
+| 121 | Fellowship Christian | 1500.0 |
+| 122 | Greater Lowell | 1500.0 |
 | 123 | Ashland | 1499.7 |
 | 124 | Chicopee | 1498.1 |
 | 125 | Austin Prep | 1496.9 |

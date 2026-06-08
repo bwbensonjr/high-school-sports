@@ -1927,15 +1927,15 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-27,117972,FINAL,Seekonk,4344,16.0,1.0,Dennis-Yarmouth,4111,10.0,0.0,South Coast,Cape & Islands,3:30 P.M.,,0
 2026-05-27,117975,FINAL,Nipmuc,4281,18.0,1.0,Winthrop,4437,2.0,0.0,CMAC,Northeastern,2:30 P.M.,,0
 2026-05-27,117984,FINAL,Sandwich,4340,21.0,1.0,Bourne,4050,1.0,0.0,Cape & Islands,South Coast,4:00 P.M.,,0
-2026-05-28,117588,FINAL,Notre Dame (Hingham),4449,17,1,Natick,4270,4,0,Independent,Bay State,4:30 P.M.,,0
-2026-05-28,117633,FINAL,Chelmsford,4085,16,1,Malden Catholic,4228,4,0,Merrimack Valley,Independent,6:30 P.M.,,0
-2026-05-28,117708,FINAL,Longmeadow,4214,21,1,Shepherd Hill,4347,2,0,Independent,Mid-Wach,3:30 P.M.,,0
-2026-05-28,117726,FINAL,Billerica,4040,10,1,Algonquin,4005,6,0,Merrimack Valley,Mid-Wach,6:30 P.M.,,0
-2026-05-28,117729,FINAL,Milton,4252,14,1,Canton,4071,2,0,Bay State,Hockomock,7:00 P.M.,,0
-2026-05-28,117843,FINAL,Weston,4423,18,1,Hudson,4182,7,0,Dual County,Mid-Wach,6:00 P.M.,,0
-2026-05-28,117939,FINAL,Pentucket,4309,8,0,Stoneham,4380,10,1,Cape Ann,Middlesex,5:30 P.M.,,0
-2026-05-28,117963,FINAL,Bromfield,4505,17,1,Triton,4395,13,0,Mid-Wach,Cape Ann,4:00 P.M.,,0
-2026-05-28,117981,FINAL,Ipswich,4190,15,1,Sturgis West,4735,0,0,Cape Ann,Cape & Islands,7:00 P.M.,,0
+2026-05-28,117588,FINAL,Notre Dame (Hingham),4449,17.0,1.0,Natick,4270,4.0,0.0,Independent,Bay State,4:30 P.M.,,0
+2026-05-28,117633,FINAL,Chelmsford,4085,16.0,1.0,Malden Catholic,4228,4.0,0.0,Merrimack Valley,Independent,6:30 P.M.,,0
+2026-05-28,117708,FINAL,Longmeadow,4214,21.0,1.0,Shepherd Hill,4347,2.0,0.0,Independent,Mid-Wach,3:30 P.M.,,0
+2026-05-28,117726,FINAL,Billerica,4040,10.0,1.0,Algonquin,4005,6.0,0.0,Merrimack Valley,Mid-Wach,6:30 P.M.,,0
+2026-05-28,117729,FINAL,Milton,4252,14.0,1.0,Canton,4071,2.0,0.0,Bay State,Hockomock,7:00 P.M.,,0
+2026-05-28,117843,FINAL,Weston,4423,18.0,1.0,Hudson,4182,7.0,0.0,Dual County,Mid-Wach,6:00 P.M.,,0
+2026-05-28,117939,FINAL,Pentucket,4309,8.0,0.0,Stoneham,4380,10.0,1.0,Cape Ann,Middlesex,5:30 P.M.,,0
+2026-05-28,117963,FINAL,Bromfield,4505,17.0,1.0,Triton,4395,13.0,0.0,Mid-Wach,Cape Ann,4:00 P.M.,,0
+2026-05-28,117981,FINAL,Ipswich,4190,15.0,1.0,Sturgis West,4735,0.0,0.0,Cape Ann,Cape & Islands,7:00 P.M.,,0
 2026-05-29,117567,FINAL,North Andover,4283,6,0,Lincoln-Sudbury,4211,10,1,Merrimack Valley,Dual County,5:00 P.M.,,0
 2026-05-29,117573,FINAL,Lexington,4209,17,1,Newton North,4279,6,0,Middlesex,Bay State,7:00 P.M.,,0
 2026-05-29,117579,FINAL,Westford,4421,14,1,Central Catholic,4081,6,0,Dual County,Merrimack Valley,5:00 P.M.,,0
@@ -1983,8 +1983,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-04,117903,FINAL,Nipmuc,4281,12,1,Lynnfield,4223,11,0,CMAC,Cape Ann,2:00 P.M.,,0
 2026-06-04,117906,FINAL,Ipswich,4190,15,1,Fairhaven,4133,2,0,Cape Ann,South Coast,5:00 P.M.,,0
 2026-06-04,117912,FINAL,Sandwich,4340,20,1,Nantucket,4265,5,0,Cape & Islands,Cape & Islands,3:30 P.M.,,0
-2026-06-07,117549,UPCOMING,Chelmsford,4085,,,Concord-Carlisle,4097,,,Merrimack Valley,Dual County,6:00 P.M.,,0
-2026-06-07,117552,UPCOMING,Notre Dame (Hingham),4449,,,Westford,4421,,,Independent,Dual County,4:00 P.M.,,0
+2026-06-07,117549,FINAL,Chelmsford,4085,5,0,Concord-Carlisle,4097,6,1,Merrimack Valley,Dual County,6:00 P.M.,,0
+2026-06-07,117552,FINAL,Notre Dame (Hingham),4449,10,1,Westford,4421,7,0,Independent,Dual County,4:00 P.M.,,0
 2026-06-08,117654,UPCOMING,Reading,4328,,,Hingham,4171,,,Middlesex,Patriot,7:30 P.M.,,0
 2026-06-08,117657,UPCOMING,Walpole,4404,,,Duxbury,4123,,,Bay State,Patriot,5:30 P.M.,,0
 2026-06-08,117771,UPCOMING,Norwell,4296,,,Nashoba,4267,,,South Shore,Mid-Wach,5:30 P.M.,,0

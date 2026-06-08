@@ -1037,26 +1037,26 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-27,119323,FINAL,Southwick,4519,3.0,1.0,Collegiate Charter,4986,0.0,0.0,Independent,Charter School Athletic,5:00 P.M.,,0
 2026-05-27,119326,FINAL,Belchertown,4032,3.0,1.0,KIPP,4703,0.0,0.0,Independent,Commonwealth,5:00 P.M.,,0
 2026-05-27,120967,FINAL,Greater New Bedford,4156,3.0,1.0,Greater Lawrence,4154,1.0,0.0,Independent,Commonwealth,4:00 P.M.,,0
-2026-05-28,119125,FINAL,North Andover,4283,3,1,Weymouth,4425,0,0,Merrimack Valley,Bay State,5:00 P.M.,,0
-2026-05-28,119128,FINAL,Westford,4421,1,0,Arlington,4013,3,1,Dual County,Middlesex,6:00 P.M.,,0
-2026-05-28,119134,FINAL,West Springfield,4417,3,1,Minnechaug,4254,0,0,Independent,Independent,6:00 P.M.,,0
-2026-05-28,119155,FINAL,Methuen,4246,3,1,Nipmuc,4281,0,0,Merrimack Valley,CMAC,5:00 P.M.,,0
-2026-05-28,119158,FINAL,Newton North,4279,3,1,Braintree,4051,1,0,Bay State,Bay State,5:00 P.M.,,0
-2026-05-28,119176,FINAL,Woburn,4438,3,1,Hopkinton,4180,2,0,Middlesex,Tri-Valley,4:00 P.M.,,0
-2026-05-28,119179,FINAL,Somerville,4351,3,1,BC High,4029,2,0,Greater Boston,Catholic Conference,4:00 P.M.,,0
-2026-05-28,119182,FINAL,St. John’s (Shrewsbury),4368,3,1,Malden,4227,0,0,Catholic Conference,Greater Boston,5:00 P.M.,,0
-2026-05-28,119185,FINAL,North Quincy,4287,3,1,Doherty,4116,0,0,Patriot,CMAC,5:30 P.M.,,0
-2026-05-28,119191,FINAL,Boston Latin,4049,3,1,Worcester South,4444,0,0,Dual County,CMAC,6:00 P.M.,,0
-2026-05-28,119197,FINAL,Lawrence,4203,3,1,Leominster,4208,1,0,Merrimack Valley,Mid-Wach,6:00 P.M.,,0
-2026-05-28,119203,FINAL,Greater New Bedford,4156,3,1,Billerica,4040,0,0,Independent,Merrimack Valley,3:30 P.M.,,0
-2026-05-28,119257,FINAL,Bellingham,4033,1,0,Dracut,4119,3,1,Tri-Valley,Merrimack Valley,7:00 P.M.,,0
-2026-05-28,119299,FINAL,Pioneer Charter II,4964,3,1,North Middlesex,4286,2,0,Charter School Athletic,Mid-Wach,4:00 P.M.,,0
-2026-05-28,119302,FINAL,Wakefield,4402,3,1,Bay Path,4027,1,0,Middlesex,CMAC,6:00 P.M.,,0
-2026-05-28,119305,FINAL,Assabet,4016,3,1,Boston United,4798,0,0,CMAC,Boston City,5:00 P.M.,,0
-2026-05-28,119308,FINAL,Millis,4251,3,1,Athol,4017,1,0,Tri-Valley,Independent,5:00 P.M.,,0
-2026-05-28,119311,FINAL,Keefe Tech,4191,3,1,Excel Academy,4969,0,0,CMAC,Charter School Athletic,3:30 P.M.,,0
-2026-05-28,119314,FINAL,Greater Lawrence,4154,3,1,Argosy Collegiate,5032,0,0,Commonwealth,Charter School Athletic,3:30 P.M.,,0
-2026-05-28,119317,FINAL,Randolph,4327,3,1,Salem Academy,4604,0,0,Independent,Charter School Athletic,5:00 P.M.,,0
+2026-05-28,119125,FINAL,North Andover,4283,3.0,1.0,Weymouth,4425,0.0,0.0,Merrimack Valley,Bay State,5:00 P.M.,,0
+2026-05-28,119128,FINAL,Westford,4421,1.0,0.0,Arlington,4013,3.0,1.0,Dual County,Middlesex,6:00 P.M.,,0
+2026-05-28,119134,FINAL,West Springfield,4417,3.0,1.0,Minnechaug,4254,0.0,0.0,Independent,Independent,6:00 P.M.,,0
+2026-05-28,119155,FINAL,Methuen,4246,3.0,1.0,Nipmuc,4281,0.0,0.0,Merrimack Valley,CMAC,5:00 P.M.,,0
+2026-05-28,119158,FINAL,Newton North,4279,3.0,1.0,Braintree,4051,1.0,0.0,Bay State,Bay State,5:00 P.M.,,0
+2026-05-28,119176,FINAL,Woburn,4438,3.0,1.0,Hopkinton,4180,2.0,0.0,Middlesex,Tri-Valley,4:00 P.M.,,0
+2026-05-28,119179,FINAL,Somerville,4351,3.0,1.0,BC High,4029,2.0,0.0,Greater Boston,Catholic Conference,4:00 P.M.,,0
+2026-05-28,119182,FINAL,St. John’s (Shrewsbury),4368,3.0,1.0,Malden,4227,0.0,0.0,Catholic Conference,Greater Boston,5:00 P.M.,,0
+2026-05-28,119185,FINAL,North Quincy,4287,3.0,1.0,Doherty,4116,0.0,0.0,Patriot,CMAC,5:30 P.M.,,0
+2026-05-28,119191,FINAL,Boston Latin,4049,3.0,1.0,Worcester South,4444,0.0,0.0,Dual County,CMAC,6:00 P.M.,,0
+2026-05-28,119197,FINAL,Lawrence,4203,3.0,1.0,Leominster,4208,1.0,0.0,Merrimack Valley,Mid-Wach,6:00 P.M.,,0
+2026-05-28,119203,FINAL,Greater New Bedford,4156,3.0,1.0,Billerica,4040,0.0,0.0,Independent,Merrimack Valley,3:30 P.M.,,0
+2026-05-28,119257,FINAL,Bellingham,4033,1.0,0.0,Dracut,4119,3.0,1.0,Tri-Valley,Merrimack Valley,7:00 P.M.,,0
+2026-05-28,119299,FINAL,Pioneer Charter II,4964,3.0,1.0,North Middlesex,4286,2.0,0.0,Charter School Athletic,Mid-Wach,4:00 P.M.,,0
+2026-05-28,119302,FINAL,Wakefield,4402,3.0,1.0,Bay Path,4027,1.0,0.0,Middlesex,CMAC,6:00 P.M.,,0
+2026-05-28,119305,FINAL,Assabet,4016,3.0,1.0,Boston United,4798,0.0,0.0,CMAC,Boston City,5:00 P.M.,,0
+2026-05-28,119308,FINAL,Millis,4251,3.0,1.0,Athol,4017,1.0,0.0,Tri-Valley,Independent,5:00 P.M.,,0
+2026-05-28,119311,FINAL,Keefe Tech,4191,3.0,1.0,Excel Academy,4969,0.0,0.0,CMAC,Charter School Athletic,3:30 P.M.,,0
+2026-05-28,119314,FINAL,Greater Lawrence,4154,3.0,1.0,Argosy Collegiate,5032,0.0,0.0,Commonwealth,Charter School Athletic,3:30 P.M.,,0
+2026-05-28,119317,FINAL,Randolph,4327,3.0,1.0,Salem Academy,4604,0.0,0.0,Independent,Charter School Athletic,5:00 P.M.,,0
 2026-05-29,119131,FINAL,Barnstable,4024,3,1,Winchester,4434,1,0,Independent,Middlesex,5:00 P.M.,,0
 2026-05-29,119143,FINAL,Newton South,4280,3,1,Revere,4329,0,0,Dual County,Greater Boston,5:30 P.M.,,0
 2026-05-29,119149,FINAL,Cambridge,4067,3,1,Lowell Catholic,4217,0,0,Dual County,Commonwealth,6:00 P.M.,,0
@@ -1109,6 +1109,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-05,119092,FINAL,Brookline,4059,3,1,Newton South,4280,1,0,Bay State,Dual County,5:30 P.M.,,0
 2026-06-05,119098,FINAL,Needham,4272,3,1,Lowell,4216,0,0,Bay State,Merrimack Valley,4:00 P.M.,,0
 2026-06-05,119215,FINAL,Milford,4249,3,1,Norton,4295,0,0,Hockomock,Tri-Valley,6:00 P.M.,,0
-2026-06-07,119221,UPCOMING,Chicopee Comprehensive,4089,,,Latin Academy,4202,,,Independent,Boston City,12:00 P.M.,,0
+2026-06-07,119221,FINAL,Chicopee Comprehensive,4089,3,1,Latin Academy,4202,0,0,Independent,Boston City,12:00 P.M.,,0
 2026-06-09,119083,UPCOMING,Brookline,4059,,,Natick,4270,,,Bay State,Bay State,5:00 P.M.,,0
 2026-06-09,119086,UPCOMING,Needham,4272,,,Newton North,4279,,,Bay State,Bay State,7:15 P.M.,,0
+2026-06-09,119209,UPCOMING,Westfield,4419,,,Chicopee Comprehensive,4089,,,Independent,Independent,6:00 P.M.,,0
+2026-06-09,119212,UPCOMING,Wayland,4411,,,Milford,4249,,,Dual County,Hockomock,7:00 P.M.,,0

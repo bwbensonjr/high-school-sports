@@ -53,12 +53,13 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-21,93200,FINAL,Algonquin/Westboro,4005,36.0,1.0,Brookline,4059,26.0,0.0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,6:00 P.M.,,0
 2026-05-22,93252,UPCOMING,Braintree,4051,,,Lincoln-Sudbury,4211,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,4:00 P.M.,,0
 2026-05-22,93266,UPCOMING,Hingham/Norwell,4171,,,Burncoat,4066,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,5:00 P.M.,,0
-2026-05-28,119352,FINAL,Hanover,4164,52,1,Marshfield/SST,4234,10,0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,6:00 P.M.,,0
-2026-05-28,119355,FINAL,Blue Hills,4047,49,1,Catholic Memorial,4080,0,0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,4:30 P.M.,,0
-2026-05-28,119358,FINAL,Algonquin/Westboro,4005,47,1,Chelmsford,4085,19,0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,6:00 P.M.,,0
+2026-05-28,119352,FINAL,Hanover,4164,52.0,1.0,Marshfield/SST,4234,10.0,0.0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,6:00 P.M.,,0
+2026-05-28,119355,FINAL,Blue Hills,4047,49.0,1.0,Catholic Memorial,4080,0.0,0.0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,4:30 P.M.,,0
+2026-05-28,119358,FINAL,Algonquin/Westboro,4005,47.0,1.0,Chelmsford,4085,19.0,0.0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,6:00 P.M.,,0
 2026-05-29,119349,FINAL,Brookline,4059,31,1,Hingham/Norwell,4171,10,0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,5:00 P.M.,,0
 2026-06-01,119334,FINAL,St. John’s Prep,4369,24,0,Milton,4252,29,1,Commonwealth Rugby Conference,Commonwealth Rugby Conference,5:00 P.M.,,0
 2026-06-03,119337,FINAL,BC High,4029,45,1,Xaverian,4446,3,0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,6:00 P.M.,,0
 2026-06-04,119343,FINAL,Hanover,4164,43,1,Blue Hills,4047,25,0,Commonwealth Rugby Conference,Commonwealth Rugby Conference,6:00 P.M.,,0
-2026-06-05,119346,UPCOMING,Algonquin/Westboro,4005,,,Brookline,4059,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,6:00 P.M.,,0
+2026-06-05,119346,FINAL,Algonquin/Westboro,4005,14,0,Brookline,4059,42,1,Commonwealth Rugby Conference,Commonwealth Rugby Conference,6:00 P.M.,,0
 2026-06-11,119331,UPCOMING,BC High,4029,,,Milton,4252,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,6:00 P.M.,,0
+2026-06-11,119340,UPCOMING,Hanover,4164,,,Brookline,4059,,,Commonwealth Rugby Conference,Commonwealth Rugby Conference,8:00 P.M.,,0

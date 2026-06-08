@@ -1,6 +1,6 @@
 # Girls Tennis - 2026 Season
 
-Generated: 2026-06-07 12:19
+Generated: 2026-06-08 14:46
 
 ## Upcoming Games
 
@@ -14,6 +14,7 @@ Generated: 2026-06-07 12:19
 | 2026-06-10 | 4:30 P.M. | Winchester | Boston Latin | 68.5% | +5.4 |
 | 2026-06-10 | 4:45 P.M. | Dover-Sherborn | Swampscott | 57.7% | +2.1 |
 | 2026-06-10 | 4:00 P.M. | Hamilton-Wenham | Bromfield | 76.5% | +8.2 |
+| 2026-06-18 | 3:30 P.M. | North Andover | Central Catholic | 26.6% | -7.1 |
 
 ## Recent Games
 
@@ -39,38 +40,35 @@ Generated: 2026-06-07 12:19
 | 2026-06-03 | Ursuline | 4 | Medfield | 1 | +8.9 | +3.0 |
 | 2026-06-03 | Wilmington | 4 | Falmouth | 1 | -0.2 | +3.0 |
 | 2026-06-03 | Duxbury | 5 | Marblehead | 0 | +6.1 | +5.0 |
-| 2026-06-02 | Bourne | 1 | Lenox | 4 | +0.5 | -3.0 |
+| 2026-06-02 | Cohasset | 5 | Randolph | 0 | -1.0 | +5.0 |
 | 2026-06-02 | Hamilton-Wenham | 5 | Pioneer Valley Chinese Immersion | 0 | +9.6 | +5.0 |
 | 2026-06-02 | Manchester Essex | 5 | Millis | 0 | +11.2 | +5.0 |
 | 2026-06-02 | Ipswich | 5 | Uxbridge | 0 | +5.5 | +5.0 |
-| 2026-06-02 | Cohasset | 5 | Randolph | 0 | -1.0 | +5.0 |
-| 2026-06-02 | Dover-Sherborn | 5 | Latin Academy | 0 | +12.5 | +5.0 |
-| 2026-06-02 | Wellesley | 4 | Belmont | 1 | +6.5 | +3.0 |
-| 2026-06-02 | Milton | 3 | Reading | 2 | +6.1 | +1.0 |
-| 2026-06-02 | Monomoy | 2 | Weston | 3 | +13.6 | -1.0 |
+| 2026-06-02 | Bourne | 1 | Lenox | 4 | +0.5 | -3.0 |
 | 2026-06-02 | Lexington | 5 | Algonquin | 0 | +7.6 | +5.0 |
+| 2026-06-02 | Milton | 3 | Reading | 2 | +6.1 | +1.0 |
+| 2026-06-02 | Wellesley | 4 | Belmont | 1 | +6.5 | +3.0 |
+| 2026-06-02 | Needham | 4 | Andover | 1 | +1.4 | +3.0 |
+| 2026-06-02 | Dover-Sherborn | 5 | Latin Academy | 0 | +12.5 | +5.0 |
 | 2026-06-02 | Boston Latin | 5 | Lincoln-Sudbury | 0 | +11.2 | +5.0 |
 | 2026-06-02 | Westwood | 4 | Bishop Stang | 1 | +2.1 | +3.0 |
 | 2026-06-02 | Newburyport | 2 | Longmeadow | 3 | +3.3 | -1.0 |
-| 2026-06-02 | Needham | 4 | Andover | 1 | +1.4 | +3.0 |
 | 2026-06-02 | Hingham | 4 | Wayland | 1 | +10.8 | +3.0 |
 | 2026-06-02 | Bedford | 3 | Holliston | 2 | +3.9 | +1.0 |
 | 2026-06-02 | Notre Dame (Hingham) | 5 | Masconomet | 0 | +9.2 | +5.0 |
 | 2026-06-02 | Old Rochester | 3 | Watertown | 2 | +11.1 | +1.0 |
 | 2026-06-02 | Swampscott | 3 | Bishop Fenwick | 2 | +5.9 | +1.0 |
-| 2026-06-01 | Manchester Essex | 5 | Greenfield | 0 | +9.3 | +5.0 |
-| 2026-06-01 | Bromfield | 4 | Rising Tide Charter | 1 | +0.2 | +3.0 |
-| 2026-06-01 | Hopedale | 4 | Rockport | 1 | +9.6 | +3.0 |
-| 2026-06-01 | Martha’s Vineyard | 4 | North Reading | 1 | +14.6 | +3.0 |
+| 2026-06-02 | Monomoy | 2 | Weston | 3 | +13.6 | -1.0 |
 | 2026-06-01 | Lynnfield | 5 | St. John Paul II | 0 | +12.2 | +5.0 |
-| 2026-06-01 | Scituate | 4 | Melrose | 1 | +6.1 | +3.0 |
-| 2026-06-01 | Newton South | 5 | Newton North | 0 | +9.7 | +5.0 |
 | 2026-06-01 | Winchester | 4 | Natick | 1 | +10.9 | +3.0 |
+| 2026-06-01 | Newton South | 5 | Newton North | 0 | +9.7 | +5.0 |
+| 2026-06-01 | Scituate | 4 | Melrose | 1 | +6.1 | +3.0 |
 | 2026-06-01 | Westford | 5 | Sharon | 0 | +2.0 | +5.0 |
+| 2026-06-01 | Martha’s Vineyard | 4 | North Reading | 1 | +14.6 | +3.0 |
+| 2026-06-01 | Hopedale | 4 | Rockport | 1 | +9.6 | +3.0 |
+| 2026-06-01 | Bromfield | 4 | Rising Tide Charter | 1 | +0.2 | +3.0 |
+| 2026-06-01 | Manchester Essex | 5 | Greenfield | 0 | +9.3 | +5.0 |
 | 2026-06-01 | Acton-Boxborough | 5 | Arlington | 0 | +1.7 | +5.0 |
-| 2026-05-31 | Old Rochester | 5 | Seekonk | 0 | +8.3 | +5.0 |
-| 2026-05-31 | Swampscott | 5 | Pentucket | 0 | +15.0 | +5.0 |
-| 2026-05-31 | Andover | 5 | Franklin | 0 | +8.7 | +5.0 |
 
 ## Current Elo Ratings
 
@@ -193,8 +191,8 @@ Generated: 2026-06-07 12:19
 | 115 | Hudson | 1503.8 |
 | 116 | St. Mary (Westfield) | 1502.2 |
 | 117 | St. Paul | 1501.1 |
-| 118 | Nashoba Valley Tech | 1500.0 |
-| 119 | Abington | 1500.0 |
+| 118 | Abington | 1500.0 |
+| 119 | Nashoba Valley Tech | 1500.0 |
 | 120 | Westport | 1498.8 |
 | 121 | Dexter Southfield | 1497.9 |
 | 122 | Northampton | 1496.3 |
