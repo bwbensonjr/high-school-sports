@@ -1,75 +1,66 @@
 # Girls Lacrosse - 2026 Season
 
-Generated: 2026-06-08 14:46
+Generated: 2026-06-09 13:42
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-06-08 | 7:30 P.M. | Reading | Hingham | 60.5% | +3.0 |
-| 2026-06-08 | 5:30 P.M. | Walpole | Duxbury | 68.9% | +5.5 |
-| 2026-06-08 | 5:30 P.M. | Norwell | Nashoba | 70.6% | +6.1 |
-| 2026-06-08 | 7:00 P.M. | Cohasset | Wayland | 83.4% | +11.2 |
-| 2026-06-08 | 5:00 P.M. | Ipswich | Manchester Essex | 69.0% | +5.6 |
-| 2026-06-08 | 5:00 P.M. | Sandwich | Nipmuc | 73.2% | +7.0 |
+| 2026-06-10 | TBD | Walpole | Reading | 58.8% | +2.5 |
+| 2026-06-11 | TBD | Cohasset | Norwell | 74.6% | +7.5 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-06-08 | Sandwich | 15 | Nipmuc | 2 | +7.0 | +13.0 |
+| 2026-06-08 | Ipswich | 12 | Manchester Essex | 6 | +5.6 | +6.0 |
+| 2026-06-08 | Cohasset | 18 | Wayland | 2 | +11.2 | +16.0 |
+| 2026-06-08 | Norwell | 16 | Nashoba | 8 | +6.1 | +8.0 |
+| 2026-06-08 | Walpole | 11 | Duxbury | 8 | +5.5 | +3.0 |
+| 2026-06-08 | Reading | 8 | Hingham | 7 | +3.0 | +1.0 |
 | 2026-06-07 | Notre Dame (Hingham) | 10 | Westford | 7 | +4.7 | +3.0 |
 | 2026-06-07 | Chelmsford | 5 | Concord-Carlisle | 6 | +1.6 | -1.0 |
+| 2026-06-04 | Nipmuc | 12 | Lynnfield | 11 | +4.2 | +1.0 |
 | 2026-06-04 | Sandwich | 20 | Nantucket | 5 | +4.5 | +15.0 |
 | 2026-06-04 | Ipswich | 15 | Fairhaven | 2 | +1.8 | +13.0 |
-| 2026-06-04 | Nipmuc | 12 | Lynnfield | 11 | +4.2 | +1.0 |
 | 2026-06-04 | Newburyport | 9 | Wayland | 10 | +4.5 | -1.0 |
 | 2026-06-04 | Walpole | 18 | Westwood | 8 | +7.1 | +10.0 |
 | 2026-06-04 | Concord-Carlisle | 12 | Lexington | 7 | +0.6 | +5.0 |
 | 2026-06-04 | Chelmsford | 7 | Wellesley | 6 | +5.0 | +1.0 |
-| 2026-06-03 | Hingham | 16 | Bedford | 7 | +10.5 | +9.0 |
 | 2026-06-03 | Hamilton-Wenham | 8 | Manchester Essex | 11 | +5.4 | -3.0 |
 | 2026-06-03 | Cohasset | 20 | Dover-Sherborn | 6 | +4.7 | +14.0 |
 | 2026-06-03 | Nashoba | 14 | St. Mary’s | 11 | -2.4 | +3.0 |
 | 2026-06-03 | Norwell | 14 | Scituate | 6 | +6.0 | +8.0 |
+| 2026-06-03 | Hingham | 16 | Bedford | 7 | +10.5 | +9.0 |
 | 2026-06-03 | Reading | 7 | Westborough | 6 | +5.3 | +1.0 |
-| 2026-06-02 | Duxbury | 13 | Longmeadow | 12 | +5.4 | +1.0 |
 | 2026-06-02 | Notre Dame (Hingham) | 14 | Lincoln-Sudbury | 4 | +10.4 | +10.0 |
+| 2026-06-02 | Duxbury | 13 | Longmeadow | 12 | +5.4 | +1.0 |
 | 2026-06-02 | Westford | 14 | Franklin | 10 | -0.0 | +4.0 |
-| 2026-06-01 | Chelmsford | 16 | Beverly | 6 | +0.1 | +10.0 |
-| 2026-06-01 | Ipswich | 15 | Tyngsborough | 2 | +8.7 | +13.0 |
-| 2026-06-01 | Lynnfield | 22 | Seekonk | 11 | -3.5 | +11.0 |
-| 2026-06-01 | Manchester Essex | 17 | Wahconah | 5 | -0.7 | +12.0 |
-| 2026-06-01 | Nantucket | 11 | Bromfield | 9 | +5.4 | +2.0 |
-| 2026-06-01 | Newburyport | 18 | Ursuline | 9 | +4.2 | +9.0 |
-| 2026-06-01 | Scituate | 12 | Medfield | 11 | +0.0 | +1.0 |
-| 2026-06-01 | Bedford | 16 | Billerica | 8 | +3.4 | +8.0 |
-| 2026-06-01 | Westborough | 14 | Dartmouth | 3 | +1.6 | +11.0 |
-| 2026-06-01 | Grafton | 9 | Westwood | 18 | -0.6 | -9.0 |
-| 2026-06-01 | Concord-Carlisle | 19 | Belmont | 6 | +9.6 | +13.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Cohasset | 1892.5 |
+| 1 | Cohasset | 1906.6 |
 | 2 | Notre Dame (Hingham) | 1884.8 |
-| 3 | Walpole | 1860.5 |
-| 4 | Reading | 1853.7 |
-| 5 | Hingham | 1829.7 |
-| 6 | Sandwich | 1825.6 |
+| 3 | Walpole | 1873.4 |
+| 4 | Reading | 1861.9 |
+| 5 | Sandwich | 1846.9 |
+| 6 | Hingham | 1821.5 |
 | 7 | Concord-Carlisle | 1817.4 |
 | 8 | Franklin | 1806.2 |
-| 9 | Westford | 1790.2 |
-| 10 | Lexington | 1789.7 |
-| 11 | Chelmsford | 1784.8 |
-| 12 | Ipswich | 1779.0 |
+| 9 | Ipswich | 1797.1 |
+| 10 | Westford | 1790.2 |
+| 11 | Lexington | 1789.7 |
+| 12 | Chelmsford | 1784.8 |
 | 13 | Phillips Andover | 1774.3 |
-| 14 | Duxbury | 1772.1 |
-| 15 | Dover-Sherborn | 1770.6 |
+| 14 | Dover-Sherborn | 1770.6 |
+| 15 | Norwell | 1769.1 |
 | 16 | Bishop Feehan | 1768.6 |
 | 17 | Beverly | 1765.9 |
-| 18 | Westborough | 1758.8 |
-| 19 | Norwell | 1749.7 |
+| 18 | Duxbury | 1759.1 |
+| 19 | Westborough | 1758.8 |
 | 20 | Nobles | 1747.4 |
 | 21 | Hamilton-Wenham | 1717.7 |
 | 22 | Fairhaven | 1715.6 |
@@ -77,28 +68,28 @@ Generated: 2026-06-08 14:46
 | 24 | St. Mary’s | 1708.7 |
 | 25 | Wellesley | 1708.3 |
 | 26 | Nantucket | 1706.6 |
-| 27 | Nipmuc | 1701.3 |
-| 28 | Newburyport | 1696.7 |
-| 29 | Hopkinton | 1695.8 |
-| 30 | Westwood | 1695.4 |
-| 31 | Manchester Essex | 1690.1 |
-| 32 | Tri-County | 1689.6 |
-| 33 | Foxborough | 1688.1 |
-| 34 | Seekonk | 1682.2 |
-| 35 | Swampscott | 1676.2 |
-| 36 | Longmeadow | 1672.8 |
+| 27 | Newburyport | 1696.7 |
+| 28 | Hopkinton | 1695.8 |
+| 29 | Westwood | 1695.4 |
+| 30 | Tri-County | 1689.6 |
+| 31 | Foxborough | 1688.1 |
+| 32 | Seekonk | 1682.2 |
+| 33 | Nipmuc | 1680.1 |
+| 34 | Swampscott | 1676.2 |
+| 35 | Longmeadow | 1672.8 |
+| 36 | Manchester Essex | 1672.0 |
 | 37 | Newton North | 1663.0 |
-| 38 | Wayland | 1661.6 |
-| 39 | Medfield | 1659.0 |
-| 40 | Wahconah | 1649.2 |
-| 41 | Nashoba | 1647.5 |
-| 42 | East Longmeadow | 1647.2 |
-| 43 | North Andover | 1635.9 |
-| 44 | Lincoln-Sudbury | 1633.4 |
-| 45 | Lynnfield | 1630.9 |
-| 46 | Bromfield | 1630.7 |
-| 47 | Tantasqua | 1629.9 |
-| 48 | Mt. Greylock | 1629.3 |
+| 38 | Medfield | 1659.0 |
+| 39 | Wahconah | 1649.2 |
+| 40 | Wayland | 1647.5 |
+| 41 | East Longmeadow | 1647.2 |
+| 42 | North Andover | 1635.9 |
+| 43 | Lincoln-Sudbury | 1633.4 |
+| 44 | Lynnfield | 1630.9 |
+| 45 | Bromfield | 1630.7 |
+| 46 | Tantasqua | 1629.9 |
+| 47 | Mt. Greylock | 1629.3 |
+| 48 | Nashoba | 1628.1 |
 | 49 | Pingree | 1619.2 |
 | 50 | Nauset | 1617.8 |
 | 51 | North Reading | 1612.6 |

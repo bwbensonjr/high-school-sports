@@ -1,6 +1,6 @@
 # Baseball - 2026 Season
 
-Generated: 2026-06-08 14:46
+Generated: 2026-06-09 13:42
 
 ## Upcoming Games
 
@@ -41,84 +41,48 @@ Generated: 2026-06-08 14:46
 | 2026-06-06 | East Bridgewater | 2 | Seekonk | 5 | +4.3 | -3.0 |
 | 2026-06-06 | Dennis-Yarmouth | 5 | Rockland | 0 | +3.6 | +5.0 |
 | 2026-06-06 | Drury | 6 | Keefe Tech | 0 | +5.0 | +6.0 |
-| 2026-06-04 | Norwell | 4 | Gloucester | 3 | -2.6 | +1.0 |
-| 2026-06-04 | Pope Francis | 5 | Westford | 2 | +0.9 | +3.0 |
-| 2026-06-04 | Xaverian | 13 | Winchester | 2 | -1.6 | +11.0 |
-| 2026-06-04 | Catholic Memorial | 4 | St. John’s Prep | 2 | +2.4 | +2.0 |
 | 2026-06-04 | BC High | 5 | Braintree | 1 | +9.9 | +4.0 |
-| 2026-06-04 | Longmeadow | 4 | Wakefield | 3 | +4.2 | +1.0 |
-| 2026-06-04 | Walpole | 6 | Barnstable | 0 | +9.9 | +6.0 |
-| 2026-06-04 | Dennis-Yarmouth | 16 | Blue Hills | 9 | +2.6 | +7.0 |
-| 2026-06-04 | Fairhaven | 15 | Danvers | 3 | +8.9 | +12.0 |
-| 2026-06-04 | Hamilton-Wenham | 4 | Clinton | 3 | +8.4 | +1.0 |
-| 2026-06-04 | Charlestown | 3 | Hopedale | 10 | +7.7 | -7.0 |
 | 2026-06-04 | Mt. Everett | 8 | West Boylston | 13 | -0.7 | -5.0 |
+| 2026-06-04 | Charlestown | 3 | Hopedale | 10 | +7.7 | -7.0 |
+| 2026-06-04 | Hamilton-Wenham | 4 | Clinton | 3 | +8.4 | +1.0 |
+| 2026-06-04 | Dennis-Yarmouth | 16 | Blue Hills | 9 | +2.6 | +7.0 |
 | 2026-06-04 | Millbury | 10 | Wahconah | 0 | +5.7 | +10.0 |
-| 2026-06-03 | East Bridgewater | 2 | Manchester Essex | 0 | +9.9 | +2.0 |
+| 2026-06-04 | Fairhaven | 15 | Danvers | 3 | +8.9 | +12.0 |
+| 2026-06-04 | Norwell | 4 | Gloucester | 3 | -2.6 | +1.0 |
+| 2026-06-04 | Walpole | 6 | Barnstable | 0 | +9.9 | +6.0 |
+| 2026-06-04 | Longmeadow | 4 | Wakefield | 3 | +4.2 | +1.0 |
+| 2026-06-04 | Catholic Memorial | 4 | St. John’s Prep | 2 | +2.4 | +2.0 |
+| 2026-06-04 | Xaverian | 13 | Winchester | 2 | -1.6 | +11.0 |
+| 2026-06-04 | Pope Francis | 5 | Westford | 2 | +0.9 | +3.0 |
 | 2026-06-03 | North Reading | 4 | Weston | 14 | +7.1 | -10.0 |
+| 2026-06-03 | Leominster | 7 | North Quincy | 6 | +5.8 | +1.0 |
+| 2026-06-03 | Bishop Feehan | 7 | Weymouth | 2 | +3.8 | +5.0 |
+| 2026-06-03 | Nashoba | 4 | Masconomet | 7 | -1.7 | -3.0 |
+| 2026-06-03 | King Philip | 17 | Canton | 4 | +4.4 | +13.0 |
+| 2026-06-03 | North Attleborough | 7 | Billerica | 10 | +6.0 | -3.0 |
+| 2026-06-03 | Milton | 7 | Grafton | 4 | +5.6 | +3.0 |
+| 2026-06-03 | Reading | 10 | Mansfield | 3 | +11.4 | +7.0 |
+| 2026-06-03 | St. Mary’s | 6 | Westwood | 2 | +6.9 | +4.0 |
+| 2026-06-03 | Hanover | 9 | Greater Lowell | 1 | +0.5 | +8.0 |
+| 2026-06-03 | Apponequet | 5 | Shawsheen | 3 | -0.4 | +2.0 |
+| 2026-06-03 | Falmouth | 1 | Dracut | 3 | +5.4 | -2.0 |
+| 2026-06-03 | Middleborough | 9 | Hudson | 0 | +6.0 | +9.0 |
 | 2026-06-03 | Pittsfield | 9 | Newburyport | 7 | +7.3 | +2.0 |
+| 2026-06-03 | Cambridge | 10 | Natick | 8 | +5.5 | +2.0 |
 | 2026-06-03 | Sandwich | 15 | Abington | 0 | -0.1 | +15.0 |
 | 2026-06-03 | Seekonk | 7 | Uxbridge | 1 | +6.8 | +6.0 |
 | 2026-06-03 | Rockland | 4 | Old Colony | 3 | +0.4 | +1.0 |
 | 2026-06-03 | St. John Paul II | 17 | Carver | 4 | +11.3 | +13.0 |
-| 2026-06-03 | Greenfield | 5 | Keefe Tech | 8 | +5.1 | -3.0 |
+| 2026-06-03 | East Bridgewater | 2 | Manchester Essex | 0 | +9.9 | +2.0 |
 | 2026-06-03 | Maynard | 6 | Westfield Tech | 5 | +0.4 | +1.0 |
+| 2026-06-03 | Greenfield | 5 | Keefe Tech | 8 | +5.1 | -3.0 |
 | 2026-06-03 | Drury | 22 | Brighton | 1 | +8.3 | +21.0 |
 | 2026-06-03 | Hopkins | 6 | Lenox | 1 | +9.5 | +5.0 |
 | 2026-06-03 | Georgetown | 9 | Franklin County Tech | 2 | +0.0 | +7.0 |
 | 2026-06-03 | English High | 11 | Palmer | 1 | +4.4 | +10.0 |
-| 2026-06-03 | Falmouth | 1 | Dracut | 3 | +5.4 | -2.0 |
-| 2026-06-03 | Middleborough | 9 | Hudson | 0 | +6.0 | +9.0 |
-| 2026-06-03 | Apponequet | 5 | Shawsheen | 3 | -0.4 | +2.0 |
 | 2026-06-03 | St. John’s (Shrewsbury) | 10 | Wellesley | 3 | +4.9 | +7.0 |
-| 2026-06-03 | St. Mary’s | 6 | Westwood | 2 | +6.9 | +4.0 |
-| 2026-06-03 | Reading | 10 | Mansfield | 3 | +11.4 | +7.0 |
-| 2026-06-03 | Milton | 7 | Grafton | 4 | +5.6 | +3.0 |
-| 2026-06-03 | North Attleborough | 7 | Billerica | 10 | +6.0 | -3.0 |
-| 2026-06-03 | King Philip | 17 | Canton | 4 | +4.4 | +13.0 |
-| 2026-06-03 | Nashoba | 4 | Masconomet | 7 | -1.7 | -3.0 |
-| 2026-06-03 | Bishop Feehan | 7 | Weymouth | 2 | +3.8 | +5.0 |
-| 2026-06-03 | Leominster | 7 | North Quincy | 6 | +5.8 | +1.0 |
-| 2026-06-03 | Hanover | 9 | Greater Lowell | 1 | +0.5 | +8.0 |
-| 2026-06-03 | Cambridge | 10 | Natick | 8 | +5.5 | +2.0 |
 | 2026-06-02 | Gloucester | 2 | Nauset | 0 | +11.2 | +2.0 |
 | 2026-06-02 | Fairhaven | 1 | Taconic | 0 | +8.2 | +1.0 |
-| 2026-06-01 | St. Mary’s | 9 | Dartmouth | 4 | +11.2 | +5.0 |
-| 2026-06-01 | Reading | 6 | Oliver Ames | 0 | +11.0 | +6.0 |
-| 2026-06-01 | Walpole | 9 | Bedford | 1 | +6.1 | +8.0 |
-| 2026-06-01 | Wellesley | 1 | Waltham | 0 | +2.7 | +1.0 |
-| 2026-06-01 | Weston | 3 | Auburn | 2 | +3.7 | +1.0 |
-| 2026-06-01 | Hanover | 5 | Tri-County | 0 | +3.2 | +5.0 |
-| 2026-06-01 | Hingham | 0 | Nashoba | 3 | +7.0 | -3.0 |
-| 2026-06-01 | Wakefield | 4 | Westborough | 2 | +8.9 | +2.0 |
-| 2026-06-01 | Cambridge | 8 | Lincoln-Sudbury | 3 | +10.1 | +5.0 |
-| 2026-06-01 | Minnechaug | 2 | Masconomet | 8 | +3.8 | -6.0 |
-| 2026-06-01 | Longmeadow | 1 | Holliston | 0 | +6.7 | +1.0 |
-| 2026-06-01 | Shepherd Hill | 4 | Canton | 5 | +5.7 | -1.0 |
-| 2026-06-01 | Duxbury | 2 | Barnstable | 4 | +9.1 | -2.0 |
-| 2026-06-01 | Westwood | 7 | West Springfield | 5 | +1.6 | +2.0 |
-| 2026-06-01 | Natick | 6 | Hopkinton | 3 | +1.7 | +3.0 |
-| 2026-06-01 | Falmouth | 1 | Martha’s Vineyard | 0 | +8.0 | +1.0 |
-| 2026-06-01 | Xaverian | 14 | North Andover | 3 | +4.5 | +11.0 |
-| 2026-06-01 | Swampscott | 2 | Danvers | 4 | +10.0 | -2.0 |
-| 2026-06-01 | Millbury | 7 | Lowell Catholic | 0 | +12.2 | +7.0 |
-| 2026-06-01 | Amesbury | 4 | Clinton | 8 | -3.2 | -4.0 |
-| 2026-06-01 | Pioneer Valley | 4 | Palmer | 3 | -3.3 | +1.0 |
-| 2026-06-01 | Drury | 20 | Athol | 2 | +14.0 | +18.0 |
-| 2026-06-01 | Ware | 0 | Keefe Tech | 1 | -2.2 | -1.0 |
-| 2026-06-01 | Westfield Tech | 4 | Cape Cod Tech | 1 | +10.2 | +3.0 |
-| 2026-06-01 | Charlestown | 13 | Tahanto | 2 | +11.4 | +11.0 |
-| 2026-06-01 | Mt. Everett | 10 | Boston International | 1 | +6.9 | +9.0 |
-| 2026-06-01 | Madison Park | 8 | Brighton | 13 | +10.4 | -5.0 |
-| 2026-06-01 | Hamilton-Wenham | 1 | Advanced Math and Science | 0 | +16.3 | +1.0 |
-| 2026-06-01 | Frontier | 3 | Blue Hills | 5 | +3.4 | -2.0 |
-| 2026-06-01 | East Bridgewater | 11 | Northbridge | 0 | +12.7 | +11.0 |
-| 2026-06-01 | Dennis-Yarmouth | 5 | West Bridgewater | 0 | +11.2 | +5.0 |
-| 2026-06-01 | Nipmuc | 2 | Carver | 3 | +12.7 | -1.0 |
-| 2026-06-01 | Latin Academy | 0 | Old Colony | 1 | -1.2 | -1.0 |
-| 2026-06-01 | Abington | 15 | Gardner | 1 | +3.5 | +14.0 |
-| 2026-06-01 | Wahconah | 2 | Mashpee | 0 | +7.3 | +2.0 |
-| 2026-06-01 | Newton South | 1 | Braintree | 3 | +7.5 | -2.0 |
 
 ## Current Elo Ratings
 
@@ -305,12 +269,12 @@ Generated: 2026-06-08 14:46
 | 179 | North Andover | 1501.3 |
 | 180 | Maimonides | 1500.3 |
 | 181 | Sturgis East | 1500.0 |
-| 182 | Cristo Rey | 1500.0 |
-| 183 | South Shore Christian | 1500.0 |
-| 184 | KIPP | 1500.0 |
-| 185 | Portsmouth (R.I.) | 1500.0 |
+| 182 | South Shore Christian | 1500.0 |
+| 183 | Cape Cod Academy | 1500.0 |
+| 184 | Portsmouth (R.I.) | 1500.0 |
+| 185 | KIPP | 1500.0 |
 | 186 | Londonderry (N.H.) | 1500.0 |
-| 187 | Cape Cod Academy | 1500.0 |
+| 187 | Cristo Rey | 1500.0 |
 | 188 | Upper Cape | 1498.2 |
 | 189 | Canton | 1497.5 |
 | 190 | Boston Collegiate | 1495.6 |

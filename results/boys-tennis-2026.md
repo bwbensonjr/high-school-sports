@@ -1,90 +1,76 @@
 # Boys Tennis - 2026 Season
 
-Generated: 2026-06-08 14:46
+Generated: 2026-06-09 13:42
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-06-08 | 4:00 P.M. | Sharon | Duxbury | 57.8% | +2.2 |
-| 2026-06-08 | 4:00 P.M. | Weston | Bedford | 74.8% | +7.6 |
-| 2026-06-08 | 4:00 P.M. | Mystic Valley | Cohasset | 65.1% | +4.3 |
-| 2026-06-08 | 5:30 P.M. | Hamilton-Wenham | Manchester Essex | 75.7% | +7.9 |
 | 2026-06-09 | 3:00 P.M. | Newton South | Needham | 59.5% | +2.7 |
 | 2026-06-09 | 4:00 P.M. | Westborough | Marblehead | 54.1% | +1.2 |
 | 2026-06-10 | 4:30 P.M. | Lexington | Newton North | 72.3% | +6.7 |
 | 2026-06-10 | 4:00 P.M. | Wayland | Newburyport | 48.2% | -0.5 |
+| 2026-06-19 | 4:00 P.M. | Randolph | Rockland/EB | 43.5% | -1.8 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-06-08 | Hamilton-Wenham | 3 | Manchester Essex | 2 | +7.9 | +1.0 |
+| 2026-06-08 | Mystic Valley | 3 | Cohasset | 2 | +4.3 | +1.0 |
+| 2026-06-08 | Weston | 4 | Bedford | 1 | +7.6 | +3.0 |
+| 2026-06-08 | Sharon | 2 | Duxbury | 3 | +2.2 | -1.0 |
 | 2026-06-06 | Newburyport | 3 | Scituate | 2 | -0.8 | +1.0 |
 | 2026-06-06 | Westford | 2 | Needham | 3 | +4.9 | -1.0 |
-| 2026-06-05 | Pioneer Valley Chinese Immersion | 2 | Cohasset | 3 | +2.6 | -1.0 |
-| 2026-06-05 | Mt. Greylock | 1 | Manchester Essex | 4 | +3.0 | -3.0 |
-| 2026-06-05 | Westborough | 4 | Hingham | 1 | +1.2 | +3.0 |
 | 2026-06-05 | Longmeadow | 2 | Sharon | 3 | -2.3 | -1.0 |
-| 2026-06-05 | St. John’s Prep | 2 | Newton South | 3 | +3.9 | -1.0 |
 | 2026-06-05 | Newton North | 4 | Lincoln-Sudbury | 1 | +3.3 | +3.0 |
-| 2026-06-04 | Wayland | 4 | Falmouth | 1 | -4.5 | +3.0 |
-| 2026-06-04 | Lexington | 5 | Concord-Carlisle | 0 | +10.7 | +5.0 |
+| 2026-06-05 | St. John’s Prep | 2 | Newton South | 3 | +3.9 | -1.0 |
+| 2026-06-05 | Westborough | 4 | Hingham | 1 | +1.2 | +3.0 |
+| 2026-06-05 | Mt. Greylock | 1 | Manchester Essex | 4 | +3.0 | -3.0 |
+| 2026-06-05 | Pioneer Valley Chinese Immersion | 2 | Cohasset | 3 | +2.6 | -1.0 |
 | 2026-06-04 | Walpole | 2 | Marblehead | 3 | -3.0 | -1.0 |
-| 2026-06-04 | Duxbury | 4 | Masconomet | 1 | +6.0 | +3.0 |
-| 2026-06-04 | Weston | 5 | Medfield | 0 | +2.1 | +5.0 |
-| 2026-06-04 | Mystic Valley | 4 | Lenox | 1 | +6.0 | +3.0 |
 | 2026-06-04 | Hamilton-Wenham | 5 | Amesbury | 0 | +10.7 | +5.0 |
-| 2026-06-03 | Bedford | 5 | East Longmeadow | 0 | +1.9 | +5.0 |
+| 2026-06-04 | Mystic Valley | 4 | Lenox | 1 | +6.0 | +3.0 |
+| 2026-06-04 | Weston | 5 | Medfield | 0 | +2.1 | +5.0 |
+| 2026-06-04 | Wayland | 4 | Falmouth | 1 | -4.5 | +3.0 |
+| 2026-06-04 | Duxbury | 4 | Masconomet | 1 | +6.0 | +3.0 |
+| 2026-06-04 | Lexington | 5 | Concord-Carlisle | 0 | +10.7 | +5.0 |
 | 2026-06-03 | Manchester Essex | 5 | Sturgis East/West | 0 | +2.3 | +5.0 |
 | 2026-06-03 | Amesbury | 3 | Lee | 2 | +2.6 | +1.0 |
 | 2026-06-03 | Newburyport | 3 | Martha’s Vineyard | 2 | -0.7 | +1.0 |
 | 2026-06-03 | Bedford | 5 | East Longmeadow | 0 | -0.3 | +5.0 |
 | 2026-06-03 | Sharon | 5 | Algonquin | 0 | +10.0 | +5.0 |
-| 2026-06-02 | Pioneer Valley Chinese Immersion | 5 | Bourne | 0 | +3.0 | +5.0 |
-| 2026-06-02 | Mystic Valley | 5 | Leicester | 0 | +2.8 | +5.0 |
+| 2026-06-03 | Bedford | 5 | East Longmeadow | 0 | +1.9 | +5.0 |
+| 2026-06-02 | Westford | 4 | St. John’s (Shrewsbury) | 1 | +9.1 | +3.0 |
+| 2026-06-02 | Wilmington | 1 | Medfield | 4 | -2.9 | -3.0 |
+| 2026-06-02 | Lexington | 5 | Arlington | 0 | +9.7 | +5.0 |
+| 2026-06-02 | Walpole | 4 | Burlington | 1 | +4.1 | +3.0 |
+| 2026-06-02 | Duxbury | 4 | Canton | 1 | +6.7 | +3.0 |
+| 2026-06-02 | Westborough | 5 | Plymouth South | 0 | +4.6 | +5.0 |
 | 2026-06-02 | Mt. Greylock | 5 | Bromfield | 0 | -0.5 | +5.0 |
 | 2026-06-02 | Wayland | 5 | North Reading | 0 | +0.9 | +5.0 |
-| 2026-06-02 | Wilmington | 1 | Medfield | 4 | -2.9 | -3.0 |
-| 2026-06-02 | Westborough | 5 | Plymouth South | 0 | +4.6 | +5.0 |
-| 2026-06-02 | Duxbury | 4 | Canton | 1 | +6.7 | +3.0 |
-| 2026-06-02 | Walpole | 4 | Burlington | 1 | +4.1 | +3.0 |
-| 2026-06-02 | Lexington | 5 | Arlington | 0 | +9.7 | +5.0 |
-| 2026-06-02 | Westford | 4 | St. John’s (Shrewsbury) | 1 | +9.1 | +3.0 |
-| 2026-06-02 | Newton South | 3 | Shrewsbury | 2 | +4.6 | +1.0 |
 | 2026-06-02 | Weston | 5 | Gloucester | 0 | +4.8 | +5.0 |
-| 2026-06-01 | Needham | 4 | Wellesley | 1 | +3.0 | +3.0 |
-| 2026-06-01 | Longmeadow | 4 | Mansfield | 1 | -0.4 | +3.0 |
-| 2026-06-01 | Lincoln-Sudbury | 4 | Belmont | 1 | +5.0 | +3.0 |
-| 2026-06-01 | Newton North | 5 | Boston Latin | 0 | +5.8 | +5.0 |
-| 2026-06-01 | St. John’s Prep | 5 | BC High | 0 | +11.1 | +5.0 |
-| 2026-06-01 | Hingham | 3 | Reading | 2 | +9.7 | +1.0 |
-| 2026-06-01 | Masconomet | 3 | Northampton | 2 | +2.7 | +1.0 |
-| 2026-06-01 | Lenox | 3 | Sutton | 2 | +3.0 | +1.0 |
-| 2026-06-01 | Scituate | 4 | Latin Academy | 1 | +6.1 | +3.0 |
-| 2026-06-01 | East Longmeadow | 3 | Watertown | 2 | +4.8 | +1.0 |
-| 2026-06-01 | Bedford | 5 | Groton-Dunstable | 0 | -1.6 | +5.0 |
-| 2026-06-01 | Newburyport | 5 | Nantucket | 0 | +2.8 | +5.0 |
-| 2026-06-01 | Cohasset | 4 | Rockport | 1 | +6.7 | +3.0 |
-| 2026-06-01 | Hamilton-Wenham | 5 | Ipswich | 0 | +15.7 | +5.0 |
-| 2026-06-01 | Winchester | 2 | Concord-Carlisle | 3 | +7.3 | -1.0 |
+| 2026-06-02 | Pioneer Valley Chinese Immersion | 5 | Bourne | 0 | +3.0 | +5.0 |
+| 2026-06-02 | Mystic Valley | 5 | Leicester | 0 | +2.8 | +5.0 |
+| 2026-06-02 | Newton South | 3 | Shrewsbury | 2 | +4.6 | +1.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Lexington | 1829.1 |
-| 2 | Westford | 1754.5 |
-| 3 | Sharon | 1754.1 |
-| 4 | Duxbury | 1749.3 |
-| 5 | St. John’s Prep | 1748.2 |
+| 2 | Duxbury | 1761.3 |
+| 3 | Westford | 1754.5 |
+| 4 | St. John’s Prep | 1748.2 |
+| 5 | Sharon | 1742.1 |
 | 6 | Marblehead | 1733.2 |
 | 7 | Newton South | 1727.2 |
-| 8 | Newton North | 1712.0 |
-| 9 | Westborough | 1712.0 |
-| 10 | Hamilton-Wenham | 1710.7 |
+| 8 | Hamilton-Wenham | 1715.8 |
+| 9 | Newton North | 1712.0 |
+| 10 | Westborough | 1712.0 |
 | 11 | Needham | 1710.2 |
-| 12 | Winchester | 1704.3 |
-| 13 | Weston | 1695.6 |
+| 12 | Weston | 1706.1 |
+| 13 | Winchester | 1704.3 |
 | 14 | Hingham | 1692.9 |
 | 15 | Scituate | 1677.7 |
 | 16 | Falmouth | 1675.0 |
@@ -101,9 +87,9 @@ Generated: 2026-06-08 14:46
 | 27 | Longmeadow | 1629.6 |
 | 28 | Newburyport | 1628.8 |
 | 29 | North Andover | 1627.0 |
-| 30 | Masconomet | 1625.5 |
-| 31 | Xaverian | 1619.5 |
-| 32 | Mystic Valley | 1619.1 |
+| 30 | Mystic Valley | 1626.4 |
+| 31 | Masconomet | 1625.5 |
+| 32 | Xaverian | 1619.5 |
 | 33 | Somerset Berkley | 1614.6 |
 | 34 | Fairhaven | 1614.3 |
 | 35 | Wareham | 1614.1 |
@@ -127,17 +113,17 @@ Generated: 2026-06-08 14:46
 | 53 | Gloucester | 1567.9 |
 | 54 | Wayland | 1566.2 |
 | 55 | Nobles | 1566.0 |
-| 56 | Manchester Essex | 1563.7 |
-| 57 | Belmont | 1562.9 |
-| 58 | Latin Academy | 1562.5 |
-| 59 | Cohasset | 1561.0 |
-| 60 | St. George’s | 1557.3 |
-| 61 | Berwick | 1556.5 |
-| 62 | Bedford | 1556.2 |
-| 63 | Dover-Sherborn | 1553.4 |
-| 64 | Tantasqua | 1553.0 |
-| 65 | Pioneer Valley Chinese Immersion | 1550.2 |
-| 66 | Tyngsborough | 1550.2 |
+| 56 | Belmont | 1562.9 |
+| 57 | Latin Academy | 1562.5 |
+| 58 | Manchester Essex | 1558.7 |
+| 59 | St. George’s | 1557.3 |
+| 60 | Berwick | 1556.5 |
+| 61 | Cohasset | 1553.7 |
+| 62 | Dover-Sherborn | 1553.4 |
+| 63 | Tantasqua | 1553.0 |
+| 64 | Pioneer Valley Chinese Immersion | 1550.2 |
+| 65 | Tyngsborough | 1550.2 |
+| 66 | Bedford | 1545.7 |
 | 67 | Wilbraham & Monson | 1544.3 |
 | 68 | Leicester | 1544.2 |
 | 69 | Nantucket | 1543.4 |
@@ -190,10 +176,10 @@ Generated: 2026-06-08 14:46
 | 116 | Palmer | 1502.3 |
 | 117 | Franklin | 1502.3 |
 | 118 | Chelmsford | 1501.4 |
-| 119 | Greater Lawrence | 1500.0 |
-| 120 | Pittsfield | 1500.0 |
-| 121 | Fellowship Christian | 1500.0 |
-| 122 | Greater Lowell | 1500.0 |
+| 119 | Pittsfield | 1500.0 |
+| 120 | Fellowship Christian | 1500.0 |
+| 121 | Greater Lowell | 1500.0 |
+| 122 | Greater Lawrence | 1500.0 |
 | 123 | Ashland | 1499.7 |
 | 124 | Chicopee | 1498.1 |
 | 125 | Austin Prep | 1496.9 |
@@ -208,8 +194,8 @@ Generated: 2026-06-08 14:46
 | 134 | Brooks | 1492.1 |
 | 135 | Brookline | 1491.7 |
 | 136 | Beaver Country Day | 1491.7 |
-| 137 | Agawam | 1491.1 |
-| 138 | Governor’s Academy | 1491.1 |
+| 137 | Governor’s Academy | 1491.1 |
+| 138 | Agawam | 1491.1 |
 | 139 | Worcester South | 1489.3 |
 | 140 | Millbury | 1489.0 |
 | 141 | Quaboag | 1488.5 |

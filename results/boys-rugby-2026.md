@@ -1,6 +1,6 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-06-08 14:46
+Generated: 2026-06-09 13:42
 
 ## Upcoming Games
 
@@ -16,7 +16,6 @@ Generated: 2026-06-08 14:46
 | 2026-06-05 | Algonquin/Westboro | 14 | Brookline | 42 | +4.0 | -28.0 |
 | 2026-06-04 | Hanover | 43 | Blue Hills | 25 | +0.2 | +18.0 |
 | 2026-06-03 | BC High | 45 | Xaverian | 3 | +6.1 | +42.0 |
-| 2026-06-01 | St. John’s Prep | 24 | Milton | 29 | -4.7 | -5.0 |
 
 ## Current Elo Ratings
 

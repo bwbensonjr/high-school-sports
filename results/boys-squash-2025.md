@@ -1,6 +1,6 @@
 # Boys Squash - 2025 Season
 
-Generated: 2026-06-08 14:46
+Generated: 2026-06-09 13:42
 
 ## Upcoming Games
 

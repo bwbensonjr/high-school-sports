@@ -1936,16 +1936,16 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-28,117939,FINAL,Pentucket,4309,8.0,0.0,Stoneham,4380,10.0,1.0,Cape Ann,Middlesex,5:30 P.M.,,0
 2026-05-28,117963,FINAL,Bromfield,4505,17.0,1.0,Triton,4395,13.0,0.0,Mid-Wach,Cape Ann,4:00 P.M.,,0
 2026-05-28,117981,FINAL,Ipswich,4190,15.0,1.0,Sturgis West,4735,0.0,0.0,Cape Ann,Cape & Islands,7:00 P.M.,,0
-2026-05-29,117567,FINAL,North Andover,4283,6,0,Lincoln-Sudbury,4211,10,1,Merrimack Valley,Dual County,5:00 P.M.,,0
-2026-05-29,117573,FINAL,Lexington,4209,17,1,Newton North,4279,6,0,Middlesex,Bay State,7:00 P.M.,,0
-2026-05-29,117579,FINAL,Westford,4421,14,1,Central Catholic,4081,6,0,Dual County,Merrimack Valley,5:00 P.M.,,0
-2026-05-29,117684,FINAL,Duxbury,4123,16,1,King Philip,4197,4,0,Patriot,Hockomock,6:30 P.M.,,0
-2026-05-29,117789,FINAL,Foxborough,4142,6,0,Dover-Sherborn,4118,12,1,Hockomock,Tri-Valley,4:00 P.M.,,0
-2026-05-29,117798,FINAL,Wayland,4411,18,1,Falmouth,4134,8,0,Dual County,Cape & Islands,5:00 P.M.,,0
-2026-05-29,117804,FINAL,Nashoba,4267,9,1,Swampscott,4383,7,0,Mid-Wach,Northeastern,6:00 P.M.,,0
-2026-05-29,117807,FINAL,Norwell,4296,17,1,Wakefield,4402,6,0,South Shore,Middlesex,4:00 P.M.,,0
-2026-05-29,117918,FINAL,Fairhaven,4133,15,1,Hull,4184,2,0,South Coast,South Shore,4:30 P.M.,,0
-2026-05-29,117930,FINAL,Hamilton-Wenham,4163,25,1,Lunenburg,4219,7,0,Cape Ann,Mid-Wach,5:00 P.M.,,0
+2026-05-29,117567,FINAL,North Andover,4283,6.0,0.0,Lincoln-Sudbury,4211,10.0,1.0,Merrimack Valley,Dual County,5:00 P.M.,,0
+2026-05-29,117573,FINAL,Lexington,4209,17.0,1.0,Newton North,4279,6.0,0.0,Middlesex,Bay State,7:00 P.M.,,0
+2026-05-29,117579,FINAL,Westford,4421,14.0,1.0,Central Catholic,4081,6.0,0.0,Dual County,Merrimack Valley,5:00 P.M.,,0
+2026-05-29,117684,FINAL,Duxbury,4123,16.0,1.0,King Philip,4197,4.0,0.0,Patriot,Hockomock,6:30 P.M.,,0
+2026-05-29,117789,FINAL,Foxborough,4142,6.0,0.0,Dover-Sherborn,4118,12.0,1.0,Hockomock,Tri-Valley,4:00 P.M.,,0
+2026-05-29,117798,FINAL,Wayland,4411,18.0,1.0,Falmouth,4134,8.0,0.0,Dual County,Cape & Islands,5:00 P.M.,,0
+2026-05-29,117804,FINAL,Nashoba,4267,9.0,1.0,Swampscott,4383,7.0,0.0,Mid-Wach,Northeastern,6:00 P.M.,,0
+2026-05-29,117807,FINAL,Norwell,4296,17.0,1.0,Wakefield,4402,6.0,0.0,South Shore,Middlesex,4:00 P.M.,,0
+2026-05-29,117918,FINAL,Fairhaven,4133,15.0,1.0,Hull,4184,2.0,0.0,South Coast,South Shore,4:30 P.M.,,0
+2026-05-29,117930,FINAL,Hamilton-Wenham,4163,25.0,1.0,Lunenburg,4219,7.0,0.0,Cape Ann,Mid-Wach,5:00 P.M.,,0
 2026-05-30,117576,FINAL,Bishop Feehan,4042,8,0,Franklin,4144,11,1,Independent,Hockomock,11:00 A.M.,,0
 2026-05-30,117690,FINAL,Reading,4328,13,1,Minnechaug,4254,0,0,Middlesex,Independent,11:30 A.M.,,0
 2026-05-30,117795,FINAL,St. Mary’s,4374,10,1,Weston,4423,5,0,Catholic Central,Dual County,5:15 P.M.,,0
@@ -1985,9 +1985,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-04,117912,FINAL,Sandwich,4340,20,1,Nantucket,4265,5,0,Cape & Islands,Cape & Islands,3:30 P.M.,,0
 2026-06-07,117549,FINAL,Chelmsford,4085,5,0,Concord-Carlisle,4097,6,1,Merrimack Valley,Dual County,6:00 P.M.,,0
 2026-06-07,117552,FINAL,Notre Dame (Hingham),4449,10,1,Westford,4421,7,0,Independent,Dual County,4:00 P.M.,,0
-2026-06-08,117654,UPCOMING,Reading,4328,,,Hingham,4171,,,Middlesex,Patriot,7:30 P.M.,,0
-2026-06-08,117657,UPCOMING,Walpole,4404,,,Duxbury,4123,,,Bay State,Patriot,5:30 P.M.,,0
-2026-06-08,117771,UPCOMING,Norwell,4296,,,Nashoba,4267,,,South Shore,Mid-Wach,5:30 P.M.,,0
-2026-06-08,117774,UPCOMING,Cohasset,4094,,,Wayland,4411,,,South Shore,Dual County,7:00 P.M.,,0
-2026-06-08,117897,UPCOMING,Ipswich,4190,,,Manchester Essex,4229,,,Cape Ann,Cape Ann,5:00 P.M.,,0
-2026-06-08,117900,UPCOMING,Sandwich,4340,,,Nipmuc,4281,,,Cape & Islands,CMAC,5:00 P.M.,,0
+2026-06-08,117654,FINAL,Reading,4328,8,1,Hingham,4171,7,0,Middlesex,Patriot,7:30 P.M.,,0
+2026-06-08,117657,FINAL,Walpole,4404,11,1,Duxbury,4123,8,0,Bay State,Patriot,5:30 P.M.,,0
+2026-06-08,117771,FINAL,Norwell,4296,16,1,Nashoba,4267,8,0,South Shore,Mid-Wach,5:30 P.M.,,0
+2026-06-08,117774,FINAL,Cohasset,4094,18,1,Wayland,4411,2,0,South Shore,Dual County,7:00 P.M.,,0
+2026-06-08,117897,FINAL,Ipswich,4190,12,1,Manchester Essex,4229,6,0,Cape Ann,Cape Ann,5:00 P.M.,,0
+2026-06-08,117900,FINAL,Sandwich,4340,15,1,Nipmuc,4281,2,0,Cape & Islands,CMAC,5:00 P.M.,,0
+2026-06-10,117651,UPCOMING,Walpole,4404,,,Reading,4328,,,Bay State,Middlesex,,,0
+2026-06-11,117768,UPCOMING,Cohasset,4094,,,Norwell,4296,,,South Shore,South Shore,,,0
