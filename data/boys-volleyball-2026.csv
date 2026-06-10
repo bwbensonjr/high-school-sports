@@ -1074,15 +1074,15 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-29,119284,FINAL,Springfield Sci-Tech,4363,1.0,0.0,Norton,4295,3.0,1.0,Independent,Tri-Valley,5:00 P.M.,,0
 2026-05-29,119320,FINAL,Ayer Shirley,4022,3.0,1.0,Innovation Academy,4690,0.0,0.0,Mid-Wach,Commonwealth,3:30 P.M.,,0
 2026-05-29,119329,FINAL,East Longmeadow,4127,3.0,1.0,Whittier,4428,0.0,0.0,Independent,Commonwealth,6:00 P.M.,,0
-2026-05-30,119137,FINAL,Lexington,4209,3,1,North Quincy,4287,0,0,Middlesex,Patriot,12:00 P.M.,,0
-2026-05-30,119140,FINAL,Agawam,4004,3,1,Greater New Bedford,4156,0,0,Independent,Independent,1:00 P.M.,,0
-2026-05-30,119146,FINAL,Lowell,4216,3,1,Lawrence,4203,1,0,Merrimack Valley,Merrimack Valley,11:00 A.M.,,0
-2026-05-30,119170,FINAL,Needham,4272,3,1,Quincy,4326,0,0,Bay State,Patriot,10:00 A.M.,,0
-2026-05-30,119275,FINAL,Pioneer Valley Christian,4535,3,1,Ayer Shirley,4022,0,0,Independent,Mid-Wach,2:00 P.M.,,0
-2026-05-30,119287,FINAL,Milford,4249,3,1,Millis,4251,0,0,Hockomock,Tri-Valley,12:00 P.M.,,0
-2026-05-30,119290,FINAL,Chicopee Comprehensive,4089,3,1,Assabet,4016,0,0,Independent,CMAC,11:00 A.M.,,0
-2026-05-30,119293,FINAL,Westfield,4419,3,1,Wakefield,4402,0,0,Independent,Middlesex,12:00 P.M.,,0
-2026-05-30,119296,FINAL,Wayland,4411,3,1,Pioneer Charter II,4964,0,0,Dual County,Charter School Athletic,12:00 P.M.,,0
+2026-05-30,119137,FINAL,Lexington,4209,3.0,1.0,North Quincy,4287,0.0,0.0,Middlesex,Patriot,12:00 P.M.,,0
+2026-05-30,119140,FINAL,Agawam,4004,3.0,1.0,Greater New Bedford,4156,0.0,0.0,Independent,Independent,1:00 P.M.,,0
+2026-05-30,119146,FINAL,Lowell,4216,3.0,1.0,Lawrence,4203,1.0,0.0,Merrimack Valley,Merrimack Valley,11:00 A.M.,,0
+2026-05-30,119170,FINAL,Needham,4272,3.0,1.0,Quincy,4326,0.0,0.0,Bay State,Patriot,10:00 A.M.,,0
+2026-05-30,119275,FINAL,Pioneer Valley Christian,4535,3.0,1.0,Ayer Shirley,4022,0.0,0.0,Independent,Mid-Wach,2:00 P.M.,,0
+2026-05-30,119287,FINAL,Milford,4249,3.0,1.0,Millis,4251,0.0,0.0,Hockomock,Tri-Valley,12:00 P.M.,,0
+2026-05-30,119290,FINAL,Chicopee Comprehensive,4089,3.0,1.0,Assabet,4016,0.0,0.0,Independent,CMAC,11:00 A.M.,,0
+2026-05-30,119293,FINAL,Westfield,4419,3.0,1.0,Wakefield,4402,0.0,0.0,Independent,Middlesex,12:00 P.M.,,0
+2026-05-30,119296,FINAL,Wayland,4411,3.0,1.0,Pioneer Charter II,4964,0.0,0.0,Dual County,Charter School Athletic,12:00 P.M.,,0
 2026-05-31,119161,FINAL,Chelmsford,4085,3,1,St. John’s (Shrewsbury),4368,0,0,Merrimack Valley,Catholic Conference,12:00 P.M.,,0
 2026-05-31,119164,FINAL,Natick,4270,3,1,Somerville,4351,0,0,Bay State,Greater Boston,3:00 P.M.,,0
 2026-06-01,119119,FINAL,Brookline,4059,3,1,Arlington,4013,0,0,Bay State,Middlesex,5:30 P.M.,,0
@@ -1110,7 +1110,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-05,119098,FINAL,Needham,4272,3,1,Lowell,4216,0,0,Bay State,Merrimack Valley,4:00 P.M.,,0
 2026-06-05,119215,FINAL,Milford,4249,3,1,Norton,4295,0,0,Hockomock,Tri-Valley,6:00 P.M.,,0
 2026-06-07,119221,FINAL,Chicopee Comprehensive,4089,3,1,Latin Academy,4202,0,0,Independent,Boston City,12:00 P.M.,,0
-2026-06-09,119083,UPCOMING,Brookline,4059,,,Natick,4270,,,Bay State,Bay State,5:00 P.M.,,0
-2026-06-09,119086,UPCOMING,Needham,4272,,,Newton North,4279,,,Bay State,Bay State,7:15 P.M.,,0
-2026-06-09,119209,UPCOMING,Westfield,4419,,,Chicopee Comprehensive,4089,,,Independent,Independent,6:00 P.M.,,0
-2026-06-09,119212,UPCOMING,Wayland,4411,,,Milford,4249,,,Dual County,Hockomock,7:00 P.M.,,0
+2026-06-09,119083,FINAL,Brookline,4059,3,1,Natick,4270,2,0,Bay State,Bay State,5:00 P.M.,,0
+2026-06-09,119086,FINAL,Needham,4272,3,1,Newton North,4279,0,0,Bay State,Bay State,7:15 P.M.,,0
+2026-06-09,119209,FINAL,Westfield,4419,3,1,Chicopee Comprehensive,4089,0,0,Independent,Independent,6:00 P.M.,,0
+2026-06-09,119212,FINAL,Wayland,4411,3,1,Milford,4249,0,0,Dual County,Hockomock,7:00 P.M.,,0
+2026-06-11,119206,UPCOMING,Wayland,4411,,,Westfield,4419,,,Dual County,Independent,6:00 P.M.,,0
+2026-06-12,119080,UPCOMING,Needham,4272,,,Brookline,4059,,,Bay State,Bay State,6:00 P.M.,,0

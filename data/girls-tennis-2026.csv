@@ -1750,10 +1750,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-06,118227,FINAL,Ursuline,4448,2,0,Weston,4423,3,1,Catholic Conference,Dual County,1:00 P.M.,,0
 2026-06-08,117999,FINAL,Newton South,4280,5,1,Westford,4421,0,0,Dual County,Dual County,3:00 P.M.,,0
 2026-06-08,118341,FINAL,Manchester Essex,4229,3,1,Ipswich,4190,2,0,Cape Ann,Cape Ann,3:00 P.M.,,0
-2026-06-09,118107,UPCOMING,Bedford,4031,,,Duxbury,4123,,,Dual County,Patriot,4:00 P.M.,,0
-2026-06-09,118110,UPCOMING,Notre Dame (Hingham),4449,,,Hingham,4171,,,Catholic Conference,Patriot,4:00 P.M.,,0
-2026-06-09,118224,UPCOMING,Martha’s Vineyard,4235,,,Weston,4423,,,Cape & Islands,Dual County,3:30 P.M.,,0
-2026-06-10,117996,UPCOMING,Winchester,4434,,,Boston Latin,4049,,,Middlesex,Dual County,4:30 P.M.,,0
-2026-06-10,118221,UPCOMING,Dover-Sherborn,4118,,,Swampscott,4383,,,Tri-Valley,Northeastern,4:45 P.M.,,0
-2026-06-10,118344,UPCOMING,Hamilton-Wenham,4163,,,Bromfield,4505,,,Cape Ann,Mid-Wach,4:00 P.M.,,0
+2026-06-09,118107,FINAL,Bedford,4031,3,1,Duxbury,4123,2,0,Dual County,Patriot,4:00 P.M.,,0
+2026-06-09,118110,FINAL,Notre Dame (Hingham),4449,3,1,Hingham,4171,2,0,Catholic Conference,Patriot,4:00 P.M.,,0
+2026-06-09,118224,FINAL,Martha’s Vineyard,4235,5,1,Weston,4423,0,0,Cape & Islands,Dual County,3:30 P.M.,,0
+2026-06-10,117996,UPCOMING,Winchester,4434,,,Boston Latin,4049,,,Middlesex,Dual County,2:00 P.M.,,0
+2026-06-10,118221,UPCOMING,Dover-Sherborn,4118,,,Swampscott,4383,,,Tri-Valley,Northeastern,2:00 P.M.,,0
+2026-06-10,118344,UPCOMING,Hamilton-Wenham,4163,,,Bromfield,4505,,,Cape Ann,Mid-Wach,2:00 P.M.,,0
 2026-06-18,111318,UPCOMING,North Andover,4283,,,Central Catholic,4081,,,Merrimack Valley,Merrimack Valley,3:30 P.M.,,0

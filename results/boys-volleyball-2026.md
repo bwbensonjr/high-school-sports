@@ -1,52 +1,44 @@
 # Boys Volleyball - 2026 Season
 
-Generated: 2026-06-09 13:42
+Generated: 2026-06-10 14:20
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-06-09 | 5:00 P.M. | Brookline | Natick | 55.8% | +1.6 |
-| 2026-06-09 | 7:15 P.M. | Needham | Newton North | 82.3% | +10.7 |
-| 2026-06-09 | 6:00 P.M. | Westfield | Chicopee Comprehensive | 70.9% | +6.2 |
-| 2026-06-09 | 7:00 P.M. | Wayland | Milford | 72.9% | +6.9 |
+| 2026-06-11 | 6:00 P.M. | Wayland | Westfield | 62.1% | +3.4 |
+| 2026-06-12 | 6:00 P.M. | Needham | Brookline | 63.8% | +3.9 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-06-09 | Brookline | 3 | Natick | 2 | +1.6 | +1.0 |
+| 2026-06-09 | Needham | 3 | Newton North | 0 | +10.7 | +3.0 |
+| 2026-06-09 | Westfield | 3 | Chicopee Comprehensive | 0 | +6.2 | +3.0 |
+| 2026-06-09 | Wayland | 3 | Milford | 0 | +6.9 | +3.0 |
 | 2026-06-07 | Chicopee Comprehensive | 3 | Latin Academy | 0 | +2.0 | +3.0 |
-| 2026-06-05 | Milford | 3 | Norton | 0 | +0.6 | +3.0 |
-| 2026-06-05 | Needham | 3 | Lowell | 0 | +3.6 | +3.0 |
-| 2026-06-05 | Brookline | 3 | Newton South | 1 | +5.1 | +2.0 |
 | 2026-06-05 | Chelmsford | 1 | Newton North | 3 | +11.1 | -2.0 |
-| 2026-06-04 | Latin Academy | 3 | O’Bryant | 2 | +3.2 | +1.0 |
-| 2026-06-04 | Wayland | 3 | Longmeadow | 0 | +9.3 | +3.0 |
-| 2026-06-04 | Westfield | 3 | Marlborough | 2 | +6.3 | +1.0 |
+| 2026-06-05 | Brookline | 3 | Newton South | 1 | +5.1 | +2.0 |
+| 2026-06-05 | Needham | 3 | Lowell | 0 | +3.6 | +3.0 |
+| 2026-06-05 | Milford | 3 | Norton | 0 | +0.6 | +3.0 |
 | 2026-06-04 | Natick | 3 | Agawam | 1 | +4.1 | +2.0 |
-| 2026-06-03 | Medfield | 2 | Norton | 3 | +3.9 | -1.0 |
+| 2026-06-04 | Westfield | 3 | Marlborough | 2 | +6.3 | +1.0 |
+| 2026-06-04 | Wayland | 3 | Longmeadow | 0 | +9.3 | +3.0 |
+| 2026-06-04 | Latin Academy | 3 | O’Bryant | 2 | +3.2 | +1.0 |
 | 2026-06-03 | Lexington | 2 | Newton North | 3 | +11.0 | -1.0 |
-| 2026-06-02 | Newton South | 3 | Acton-Boxborough | 0 | +2.1 | +3.0 |
-| 2026-06-02 | Wayland | 3 | Greater Lowell | 0 | +7.3 | +3.0 |
-| 2026-06-02 | Chicopee Comprehensive | 3 | Dracut | 0 | +5.5 | +3.0 |
-| 2026-06-02 | Milford | 3 | Burlington | 1 | +5.3 | +2.0 |
-| 2026-06-02 | Longmeadow | 3 | Pioneer Valley Christian | 0 | -0.6 | +3.0 |
-| 2026-06-02 | Needham | 3 | North Andover | 0 | +5.7 | +3.0 |
-| 2026-06-02 | Natick | 3 | Barnstable | 0 | +2.5 | +3.0 |
-| 2026-06-02 | Chelmsford | 3 | West Springfield | 0 | +8.4 | +3.0 |
-| 2026-06-02 | Agawam | 3 | Methuen | 0 | +2.3 | +3.0 |
-| 2026-06-02 | Lowell | 3 | Cambridge | 1 | +7.4 | +2.0 |
+| 2026-06-03 | Medfield | 2 | Norton | 3 | +3.9 | -1.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Needham | 1749.1 |
-| 2 | Wayland | 1746.8 |
-| 3 | Westfield | 1710.3 |
-| 4 | Natick | 1708.0 |
+| 1 | Wayland | 1758.0 |
+| 2 | Needham | 1756.5 |
+| 3 | Westfield | 1722.4 |
+| 4 | Brookline | 1708.0 |
 | 5 | Chelmsford | 1705.8 |
-| 6 | Brookline | 1698.9 |
+| 6 | Natick | 1698.8 |
 | 7 | Lexington | 1695.9 |
 | 8 | Lowell | 1677.4 |
 | 9 | Revere | 1676.0 |
@@ -55,13 +47,13 @@ Generated: 2026-06-09 13:42
 | 12 | North Quincy | 1645.5 |
 | 13 | Greater New Bedford | 1640.5 |
 | 14 | Agawam | 1631.0 |
-| 15 | Milford | 1624.7 |
-| 16 | Norton | 1620.8 |
-| 17 | North Andover | 1616.3 |
-| 18 | Chicopee Comprehensive | 1605.2 |
-| 19 | Methuen | 1600.8 |
-| 20 | Newton South | 1599.2 |
-| 21 | Quincy | 1596.8 |
+| 15 | Norton | 1620.8 |
+| 16 | North Andover | 1616.3 |
+| 17 | Milford | 1613.4 |
+| 18 | Methuen | 1600.8 |
+| 19 | Newton South | 1599.2 |
+| 20 | Quincy | 1596.8 |
+| 21 | Chicopee Comprehensive | 1593.1 |
 | 22 | Lawrence | 1593.1 |
 | 23 | Marlborough | 1589.9 |
 | 24 | Nipmuc | 1587.2 |
@@ -91,8 +83,8 @@ Generated: 2026-06-09 13:42
 | 48 | Bellingham | 1534.5 |
 | 49 | Ware | 1534.0 |
 | 50 | Milton | 1532.9 |
-| 51 | Newton North | 1532.2 |
-| 52 | Somerville | 1530.2 |
+| 51 | Somerville | 1530.2 |
+| 52 | Newton North | 1524.8 |
 | 53 | Brockton | 1522.3 |
 | 54 | Pioneer Charter II | 1518.9 |
 | 55 | Tolman (R.I.) | 1518.2 |
@@ -110,8 +102,8 @@ Generated: 2026-06-09 13:42
 | 67 | Burlington | 1502.4 |
 | 68 | Keefe Tech | 1502.3 |
 | 69 | Minnechaug | 1501.0 |
-| 70 | Walpole | 1500.0 |
-| 71 | Phillips Andover | 1500.0 |
+| 70 | Phillips Andover | 1500.0 |
+| 71 | Walpole | 1500.0 |
 | 72 | Bay Path | 1499.1 |
 | 73 | North Middlesex | 1496.5 |
 | 74 | Boston Latin | 1495.5 |

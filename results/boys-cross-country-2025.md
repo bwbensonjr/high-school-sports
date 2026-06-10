@@ -1,6 +1,6 @@
 # Boys Cross Country - 2025 Season
 
-Generated: 2026-06-09 13:42
+Generated: 2026-06-10 14:20
 
 ## Upcoming Games
 
@@ -113,8 +113,8 @@ Generated: 2026-06-09 13:42
 | 95 | Plymouth North | 1528.3 |
 | 96 | Whittier | 1527.5 |
 | 97 | Sandwich | 1527.0 |
-| 98 | Westborough | 1526.5 |
-| 99 | Minuteman | 1526.5 |
+| 98 | Minuteman | 1526.5 |
+| 99 | Westborough | 1526.5 |
 | 100 | Maynard | 1525.5 |
 | 101 | Essex Tech | 1525.5 |
 | 102 | Brooks | 1522.3 |
@@ -144,18 +144,18 @@ Generated: 2026-06-09 13:42
 | 126 | Rising Tide Charter | 1502.3 |
 | 127 | Bellingham | 1501.9 |
 | 128 | Wachusett | 1501.7 |
-| 129 | Riverview School | 1501.7 |
-| 130 | St. Sebastian’s | 1501.7 |
-| 131 | Tabor | 1501.7 |
-| 132 | Watkinson | 1501.7 |
-| 133 | Amherst-Pelham | 1501.7 |
-| 134 | Notre Dame (Tyngsborough) | 1501.7 |
-| 135 | Westfield | 1501.7 |
-| 136 | Greater Lawrence | 1501.7 |
-| 137 | Minnechaug | 1501.7 |
-| 138 | Bridgewater-Raynham | 1501.7 |
-| 139 | Greater Lowell | 1501.7 |
-| 140 | Longmeadow | 1501.7 |
+| 129 | Bridgewater-Raynham | 1501.7 |
+| 130 | Minnechaug | 1501.7 |
+| 131 | Amherst-Pelham | 1501.7 |
+| 132 | Greater Lawrence | 1501.7 |
+| 133 | Greater Lowell | 1501.7 |
+| 134 | Longmeadow | 1501.7 |
+| 135 | Tabor | 1501.7 |
+| 136 | St. Sebastian’s | 1501.7 |
+| 137 | Notre Dame (Tyngsborough) | 1501.7 |
+| 138 | Watkinson | 1501.7 |
+| 139 | Westfield | 1501.7 |
+| 140 | Riverview School | 1501.7 |
 | 141 | East Bridgewater | 1500.4 |
 | 142 | Cambridge | 1499.0 |
 | 143 | Lynn Classical | 1497.6 |

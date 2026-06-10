@@ -3002,10 +3002,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-29,120507,FINAL,Bristol Aggie,4463,12.0,1.0,Ware,4406,0.0,0.0,Mayflower,Independent,3:30 P.M.,,0
 2026-05-29,120534,FINAL,Norfolk Aggie,4458,15.0,1.0,Muniz,5018,14.0,0.0,Mayflower,Independent,3:30 P.M.,,0
 2026-05-29,120540,FINAL,Smith/PV Chinese,4538,27.0,1.0,Boston Collegiate,4592,11.0,0.0,Independent,Charter School Athletic,4:00 P.M.,,0
-2026-05-30,120420,FINAL,Mt. Greylock,4262,4,1,Minuteman,4255,3,0,Independent,Commonwealth,1:00 P.M.,,0
-2026-05-30,120495,FINAL,McCann Tech,4240,5,1,Wareham,4407,1,0,Independent,Mayflower,1:30 P.M.,,0
-2026-05-30,120510,FINAL,Lenox,4532,14,1,Palmer,4304,0,0,Independent,Independent,12:00 P.M.,,0
-2026-05-30,120513,FINAL,Tahanto,4513,5,1,Drury,4120,3,0,Mid-Wach,Independent,4:00 P.M.,,0
+2026-05-30,120420,FINAL,Mt. Greylock,4262,4.0,1.0,Minuteman,4255,3.0,0.0,Independent,Commonwealth,1:00 P.M.,,0
+2026-05-30,120495,FINAL,McCann Tech,4240,5.0,1.0,Wareham,4407,1.0,0.0,Independent,Mayflower,1:30 P.M.,,0
+2026-05-30,120510,FINAL,Lenox,4532,14.0,1.0,Palmer,4304,0.0,0.0,Independent,Independent,12:00 P.M.,,0
+2026-05-30,120513,FINAL,Tahanto,4513,5.0,1.0,Drury,4120,3.0,0.0,Mid-Wach,Independent,4:00 P.M.,,0
 2026-05-31,120033,FINAL,Bishop Feehan,4042,10,1,Acton-Boxborough,4003,3,0,Independent,Dual County,4:15 P.M.,,0
 2026-05-31,120036,FINAL,Chelmsford,4085,5,1,North Andover,4283,4,0,Merrimack Valley,Merrimack Valley,11:00 A.M.,,0
 2026-05-31,120048,FINAL,Andover,4009,2,0,Beverly,4038,7,1,Merrimack Valley,Northeastern,1:00 P.M.,,0
@@ -3138,8 +3138,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-08,120099,FINAL,Marshfield,4234,1,0,Wakefield,4402,2,1,Patriot,Middlesex,4:00 P.M.,,0
 2026-06-08,120321,FINAL,Hampshire,4518,0,0,Tyngsborough,4397,8,1,Independent,Mid-Wach,4:00 P.M.,,0
 2026-06-08,120324,FINAL,Advanced Math and Science,4595,4,1,Seekonk,4344,3,0,CMAC,South Coast,6:00 P.M.,,0
-2026-06-09,119985,UPCOMING,Central Catholic,4081,,,Attleboro,4018,,,Merrimack Valley,Hockomock,5:30 P.M.,,0
-2026-06-09,120207,UPCOMING,Dighton-Rehoboth,4114,,,Apponequet,4011,,,South Coast,South Coast,3:30 P.M.,,0
+2026-06-09,119985,SUSPENDED,Central Catholic,4081,4,,Attleboro,4018,4,,Merrimack Valley,Hockomock,5:30 P.M.,,0
+2026-06-09,120207,FINAL,Dighton-Rehoboth,4114,1,0,Apponequet,4011,2,1,South Coast,South Coast,3:30 P.M.,,0
 2026-06-10,119988,UPCOMING,Taunton,4388,,,Shrewsbury,4348,,,Hockomock,Mid-Wach,5:30 P.M.,,0
 2026-06-10,120090,UPCOMING,Wakefield,4402,,,Somerset Berkley,4350,,,Middlesex,South Coast,4:00 P.M.,,0
 2026-06-10,120093,UPCOMING,King Philip,4197,,,Shepherd Hill,4347,,,Hockomock,Mid-Wach,6:00 P.M.,,0
