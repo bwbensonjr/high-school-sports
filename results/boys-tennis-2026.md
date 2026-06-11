@@ -1,19 +1,23 @@
 # Boys Tennis - 2026 Season
 
-Generated: 2026-06-10 14:20
+Generated: 2026-06-11 14:33
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-06-10 | 2:00 P.M. | Lexington | Newton North | 72.3% | +6.7 |
-| 2026-06-10 | 2:00 P.M. | Wayland | Newburyport | 48.2% | -0.5 |
+| 2026-06-13 | 9:00 A.M. | Newton North | Newton South | 55.9% | +1.7 |
+| 2026-06-13 | 11:30 A.M. | Westborough | Duxbury | 53.6% | +1.0 |
+| 2026-06-13 | 2:00 P.M. | Weston | Wayland | 72.5% | +6.7 |
+| 2026-06-13 | 4:30 P.M. | Hamilton-Wenham | Mystic Valley | 69.1% | +5.6 |
 | 2026-06-19 | 4:00 P.M. | Randolph | Rockland/EB | 43.5% | -1.8 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-06-10 | Wayland | 4 | Newburyport | 1 | -0.5 | +3.0 |
+| 2026-06-10 | Lexington | 2 | Newton North | 3 | +6.7 | -1.0 |
 | 2026-06-09 | Westborough | 5 | Marblehead | 0 | +1.2 | +5.0 |
 | 2026-06-09 | Newton South | 3 | Needham | 2 | +2.7 | +1.0 |
 | 2026-06-08 | Hamilton-Wenham | 3 | Manchester Essex | 2 | +7.9 | +1.0 |
@@ -22,39 +26,33 @@ Generated: 2026-06-10 14:20
 | 2026-06-08 | Sharon | 2 | Duxbury | 3 | +2.2 | -1.0 |
 | 2026-06-06 | Newburyport | 3 | Scituate | 2 | -0.8 | +1.0 |
 | 2026-06-06 | Westford | 2 | Needham | 3 | +4.9 | -1.0 |
-| 2026-06-05 | St. John’s Prep | 2 | Newton South | 3 | +3.9 | -1.0 |
 | 2026-06-05 | Pioneer Valley Chinese Immersion | 2 | Cohasset | 3 | +2.6 | -1.0 |
 | 2026-06-05 | Mt. Greylock | 1 | Manchester Essex | 4 | +3.0 | -3.0 |
 | 2026-06-05 | Westborough | 4 | Hingham | 1 | +1.2 | +3.0 |
 | 2026-06-05 | Longmeadow | 2 | Sharon | 3 | -2.3 | -1.0 |
+| 2026-06-05 | St. John’s Prep | 2 | Newton South | 3 | +3.9 | -1.0 |
 | 2026-06-05 | Newton North | 4 | Lincoln-Sudbury | 1 | +3.3 | +3.0 |
+| 2026-06-04 | Walpole | 2 | Marblehead | 3 | -3.0 | -1.0 |
 | 2026-06-04 | Hamilton-Wenham | 5 | Amesbury | 0 | +10.7 | +5.0 |
 | 2026-06-04 | Mystic Valley | 4 | Lenox | 1 | +6.0 | +3.0 |
 | 2026-06-04 | Weston | 5 | Medfield | 0 | +2.1 | +5.0 |
 | 2026-06-04 | Wayland | 4 | Falmouth | 1 | -4.5 | +3.0 |
 | 2026-06-04 | Duxbury | 4 | Masconomet | 1 | +6.0 | +3.0 |
-| 2026-06-04 | Walpole | 2 | Marblehead | 3 | -3.0 | -1.0 |
 | 2026-06-04 | Lexington | 5 | Concord-Carlisle | 0 | +10.7 | +5.0 |
-| 2026-06-03 | Bedford | 5 | East Longmeadow | 0 | -0.3 | +5.0 |
-| 2026-06-03 | Bedford | 5 | East Longmeadow | 0 | +1.9 | +5.0 |
-| 2026-06-03 | Manchester Essex | 5 | Sturgis East/West | 0 | +2.3 | +5.0 |
-| 2026-06-03 | Amesbury | 3 | Lee | 2 | +2.6 | +1.0 |
-| 2026-06-03 | Newburyport | 3 | Martha’s Vineyard | 2 | -0.7 | +1.0 |
-| 2026-06-03 | Sharon | 5 | Algonquin | 0 | +10.0 | +5.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Lexington | 1829.1 |
+| 1 | Lexington | 1814.1 |
 | 2 | Duxbury | 1761.3 |
 | 3 | Westford | 1754.5 |
 | 4 | St. John’s Prep | 1748.2 |
 | 5 | Sharon | 1742.1 |
 | 6 | Westborough | 1736.6 |
 | 7 | Newton South | 1735.6 |
-| 8 | Hamilton-Wenham | 1715.8 |
-| 9 | Newton North | 1712.0 |
+| 8 | Newton North | 1727.1 |
+| 9 | Hamilton-Wenham | 1715.8 |
 | 10 | Marblehead | 1708.5 |
 | 11 | Weston | 1706.1 |
 | 12 | Winchester | 1704.3 |
@@ -73,16 +71,16 @@ Generated: 2026-06-10 14:20
 | 25 | Shrewsbury | 1635.5 |
 | 26 | Andover | 1633.4 |
 | 27 | Longmeadow | 1629.6 |
-| 28 | Newburyport | 1628.8 |
-| 29 | North Andover | 1627.0 |
-| 30 | Mystic Valley | 1626.4 |
-| 31 | Masconomet | 1625.5 |
-| 32 | Xaverian | 1619.5 |
-| 33 | Somerset Berkley | 1614.6 |
-| 34 | Fairhaven | 1614.3 |
-| 35 | Wareham | 1614.1 |
-| 36 | Hopkinton | 1613.0 |
-| 37 | Dartmouth | 1608.9 |
+| 28 | North Andover | 1627.0 |
+| 29 | Mystic Valley | 1626.4 |
+| 30 | Masconomet | 1625.5 |
+| 31 | Xaverian | 1619.5 |
+| 32 | Somerset Berkley | 1614.6 |
+| 33 | Fairhaven | 1614.3 |
+| 34 | Wareham | 1614.1 |
+| 35 | Hopkinton | 1613.0 |
+| 36 | Dartmouth | 1608.9 |
+| 37 | Newburyport | 1607.2 |
 | 38 | Cape Cod Academy | 1606.1 |
 | 39 | Arlington | 1605.1 |
 | 40 | Northampton | 1602.6 |
@@ -91,15 +89,15 @@ Generated: 2026-06-10 14:20
 | 43 | Concord-Carlisle | 1593.7 |
 | 44 | Plymouth South | 1592.4 |
 | 45 | Walpole | 1590.7 |
-| 46 | Attleboro | 1582.7 |
-| 47 | Maimonides | 1582.1 |
-| 48 | St. Mary’s | 1579.2 |
-| 49 | St. John’s (Shrewsbury) | 1574.2 |
-| 50 | Bromfield | 1569.6 |
-| 51 | Medford | 1569.2 |
-| 52 | Boston Latin | 1568.0 |
-| 53 | Gloucester | 1567.9 |
-| 54 | Wayland | 1566.2 |
+| 46 | Wayland | 1587.7 |
+| 47 | Attleboro | 1582.7 |
+| 48 | Maimonides | 1582.1 |
+| 49 | St. Mary’s | 1579.2 |
+| 50 | St. John’s (Shrewsbury) | 1574.2 |
+| 51 | Bromfield | 1569.6 |
+| 52 | Medford | 1569.2 |
+| 53 | Boston Latin | 1568.0 |
+| 54 | Gloucester | 1567.9 |
 | 55 | Nobles | 1566.0 |
 | 56 | Belmont | 1562.9 |
 | 57 | Latin Academy | 1562.5 |
@@ -164,10 +162,10 @@ Generated: 2026-06-10 14:20
 | 116 | Palmer | 1502.3 |
 | 117 | Franklin | 1502.3 |
 | 118 | Chelmsford | 1501.4 |
-| 119 | Greater Lowell | 1500.0 |
+| 119 | Greater Lawrence | 1500.0 |
 | 120 | Fellowship Christian | 1500.0 |
 | 121 | Pittsfield | 1500.0 |
-| 122 | Greater Lawrence | 1500.0 |
+| 122 | Greater Lowell | 1500.0 |
 | 123 | Ashland | 1499.7 |
 | 124 | Chicopee | 1498.1 |
 | 125 | Austin Prep | 1496.9 |
@@ -182,8 +180,8 @@ Generated: 2026-06-10 14:20
 | 134 | Brooks | 1492.1 |
 | 135 | Brookline | 1491.7 |
 | 136 | Beaver Country Day | 1491.7 |
-| 137 | Governor’s Academy | 1491.1 |
-| 138 | Agawam | 1491.1 |
+| 137 | Agawam | 1491.1 |
+| 138 | Governor’s Academy | 1491.1 |
 | 139 | Worcester South | 1489.3 |
 | 140 | Millbury | 1489.0 |
 | 141 | Quaboag | 1488.5 |

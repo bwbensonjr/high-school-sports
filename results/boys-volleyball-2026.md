@@ -1,6 +1,6 @@
 # Boys Volleyball - 2026 Season
 
-Generated: 2026-06-10 14:20
+Generated: 2026-06-11 14:33
 
 ## Upcoming Games
 
@@ -26,8 +26,6 @@ Generated: 2026-06-10 14:20
 | 2026-06-04 | Westfield | 3 | Marlborough | 2 | +6.3 | +1.0 |
 | 2026-06-04 | Wayland | 3 | Longmeadow | 0 | +9.3 | +3.0 |
 | 2026-06-04 | Latin Academy | 3 | O’Bryant | 2 | +3.2 | +1.0 |
-| 2026-06-03 | Lexington | 2 | Newton North | 3 | +11.0 | -1.0 |
-| 2026-06-03 | Medfield | 2 | Norton | 3 | +3.9 | -1.0 |
 
 ## Current Elo Ratings
 

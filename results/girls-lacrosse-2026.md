@@ -1,13 +1,11 @@
 # Girls Lacrosse - 2026 Season
 
-Generated: 2026-06-10 14:21
+Generated: 2026-06-11 14:33
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-06-10 | 4:30 P.M. | Notre Dame (Hingham) | Concord-Carlisle | 66.3% | +4.7 |
-| 2026-06-10 | 6:45 P.M. | Walpole | Reading | 58.8% | +2.5 |
 | 2026-06-11 | 6:45 P.M. | Cohasset | Norwell | 74.6% | +7.5 |
 | 2026-06-11 | 4:30 P.M. | Sandwich | Ipswich | 64.0% | +4.0 |
 
@@ -15,39 +13,35 @@ Generated: 2026-06-10 14:21
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-06-10 | Walpole | 12 | Reading | 11 | +2.5 | +1.0 |
+| 2026-06-10 | Notre Dame (Hingham) | 9 | Concord-Carlisle | 10 | +4.7 | -1.0 |
+| 2026-06-08 | Reading | 8 | Hingham | 7 | +3.0 | +1.0 |
 | 2026-06-08 | Sandwich | 15 | Nipmuc | 2 | +7.0 | +13.0 |
 | 2026-06-08 | Ipswich | 12 | Manchester Essex | 6 | +5.6 | +6.0 |
 | 2026-06-08 | Cohasset | 18 | Wayland | 2 | +11.2 | +16.0 |
 | 2026-06-08 | Norwell | 16 | Nashoba | 8 | +6.1 | +8.0 |
 | 2026-06-08 | Walpole | 11 | Duxbury | 8 | +5.5 | +3.0 |
-| 2026-06-08 | Reading | 8 | Hingham | 7 | +3.0 | +1.0 |
 | 2026-06-07 | Notre Dame (Hingham) | 10 | Westford | 7 | +4.7 | +3.0 |
 | 2026-06-07 | Chelmsford | 5 | Concord-Carlisle | 6 | +1.6 | -1.0 |
-| 2026-06-04 | Ipswich | 15 | Fairhaven | 2 | +1.8 | +13.0 |
+| 2026-06-04 | Concord-Carlisle | 12 | Lexington | 7 | +0.6 | +5.0 |
 | 2026-06-04 | Sandwich | 20 | Nantucket | 5 | +4.5 | +15.0 |
+| 2026-06-04 | Ipswich | 15 | Fairhaven | 2 | +1.8 | +13.0 |
 | 2026-06-04 | Nipmuc | 12 | Lynnfield | 11 | +4.2 | +1.0 |
 | 2026-06-04 | Newburyport | 9 | Wayland | 10 | +4.5 | -1.0 |
 | 2026-06-04 | Walpole | 18 | Westwood | 8 | +7.1 | +10.0 |
-| 2026-06-04 | Concord-Carlisle | 12 | Lexington | 7 | +0.6 | +5.0 |
 | 2026-06-04 | Chelmsford | 7 | Wellesley | 6 | +5.0 | +1.0 |
-| 2026-06-03 | Hingham | 16 | Bedford | 7 | +10.5 | +9.0 |
-| 2026-06-03 | Hamilton-Wenham | 8 | Manchester Essex | 11 | +5.4 | -3.0 |
-| 2026-06-03 | Cohasset | 20 | Dover-Sherborn | 6 | +4.7 | +14.0 |
-| 2026-06-03 | Nashoba | 14 | St. Mary’s | 11 | -2.4 | +3.0 |
-| 2026-06-03 | Norwell | 14 | Scituate | 6 | +6.0 | +8.0 |
-| 2026-06-03 | Reading | 7 | Westborough | 6 | +5.3 | +1.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Cohasset | 1906.6 |
-| 2 | Notre Dame (Hingham) | 1884.8 |
-| 3 | Walpole | 1873.4 |
-| 4 | Reading | 1861.9 |
+| 2 | Walpole | 1882.0 |
+| 3 | Notre Dame (Hingham) | 1871.0 |
+| 4 | Reading | 1853.3 |
 | 5 | Sandwich | 1846.9 |
-| 6 | Hingham | 1821.5 |
-| 7 | Concord-Carlisle | 1817.4 |
+| 6 | Concord-Carlisle | 1831.1 |
+| 7 | Hingham | 1821.5 |
 | 8 | Franklin | 1806.2 |
 | 9 | Ipswich | 1797.1 |
 | 10 | Westford | 1790.2 |

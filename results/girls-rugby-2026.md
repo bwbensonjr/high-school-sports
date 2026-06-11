@@ -1,6 +1,6 @@
 # Girls Rugby - 2026 Season
 
-Generated: 2026-06-10 14:21
+Generated: 2026-06-11 14:33
 
 ## Upcoming Games
 
@@ -10,10 +10,8 @@ Generated: 2026-06-10 14:21
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-06-03 | Weymouth | 52 | Lincoln-Sudbury | 26 | +7.3 | +26.0 |
-| 2026-06-03 | Belmont | 40 | Brookline | 0 | +3.7 | +40.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 

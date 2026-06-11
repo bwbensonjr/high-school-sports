@@ -1,20 +1,24 @@
 # Girls Tennis - 2026 Season
 
-Generated: 2026-06-10 14:21
+Generated: 2026-06-11 14:33
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-06-10 | 2:00 P.M. | Winchester | Boston Latin | 68.5% | +5.4 |
-| 2026-06-10 | 2:00 P.M. | Dover-Sherborn | Swampscott | 57.7% | +2.1 |
-| 2026-06-10 | 2:00 P.M. | Hamilton-Wenham | Bromfield | 76.5% | +8.2 |
+| 2026-06-13 | 9:00 A.M. | Newton South | Boston Latin | 63.6% | +3.9 |
+| 2026-06-13 | 11:30 P.M. | Notre Dame (Hingham) | Bedford | 72.3% | +6.7 |
+| 2026-06-13 | 2:00 P.M. | Martha’s Vineyard | Dover-Sherborn | 56.7% | +1.9 |
+| 2026-06-13 | 4:30 P.M. | Hamilton-Wenham | Manchester Essex | 55.4% | +1.5 |
 | 2026-06-18 | 3:30 P.M. | North Andover | Central Catholic | 26.6% | -7.1 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-06-10 | Hamilton-Wenham | 3 | Bromfield | 2 | +8.2 | +1.0 |
+| 2026-06-10 | Dover-Sherborn | 3 | Swampscott | 2 | +2.1 | +1.0 |
+| 2026-06-10 | Winchester | 2 | Boston Latin | 3 | +5.4 | -1.0 |
 | 2026-06-09 | Martha’s Vineyard | 5 | Weston | 0 | +15.4 | +5.0 |
 | 2026-06-09 | Notre Dame (Hingham) | 3 | Hingham | 2 | +2.5 | +1.0 |
 | 2026-06-09 | Bedford | 3 | Duxbury | 2 | -2.6 | +1.0 |
@@ -22,46 +26,42 @@ Generated: 2026-06-10 14:21
 | 2026-06-08 | Newton South | 5 | Westford | 0 | +1.5 | +5.0 |
 | 2026-06-06 | Ursuline | 2 | Weston | 3 | +12.8 | -1.0 |
 | 2026-06-06 | Newton South | 4 | Wellesley | 1 | +4.4 | +3.0 |
-| 2026-06-05 | Notre Dame (Hingham) | 5 | Scituate | 0 | +4.6 | +5.0 |
 | 2026-06-05 | Hamilton-Wenham | 4 | Hopedale | 1 | +7.3 | +3.0 |
 | 2026-06-05 | Manchester Essex | 5 | Lenox | 0 | +6.2 | +5.0 |
 | 2026-06-05 | Martha’s Vineyard | 4 | Wilmington | 1 | +9.8 | +3.0 |
 | 2026-06-05 | Dover-Sherborn | 4 | Old Rochester | 1 | +1.0 | +3.0 |
+| 2026-06-05 | Notre Dame (Hingham) | 5 | Scituate | 0 | +4.6 | +5.0 |
 | 2026-06-05 | Duxbury | 4 | Longmeadow | 1 | +7.6 | +3.0 |
 | 2026-06-05 | Bedford | 3 | Westwood | 2 | -0.8 | +1.0 |
+| 2026-06-04 | Winchester | 4 | Acton-Boxborough | 1 | +9.6 | +3.0 |
 | 2026-06-04 | Ipswich | 4 | Cohasset | 1 | +6.3 | +3.0 |
 | 2026-06-04 | Amesbury | 2 | Bromfield | 3 | +0.2 | -1.0 |
 | 2026-06-04 | Lynnfield | 1 | Swampscott | 4 | +1.5 | -3.0 |
 | 2026-06-04 | Hingham | 3 | Milton | 2 | +7.7 | +1.0 |
 | 2026-06-04 | Boston Latin | 5 | Needham | 0 | +0.3 | +5.0 |
-| 2026-06-04 | Winchester | 4 | Acton-Boxborough | 1 | +9.6 | +3.0 |
 | 2026-06-04 | Westford | 5 | Lexington | 0 | +2.0 | +5.0 |
-| 2026-06-03 | Wilmington | 4 | Falmouth | 1 | -0.2 | +3.0 |
-| 2026-06-03 | Amesbury | 5 | Sturgis East | 0 | -2.7 | +5.0 |
-| 2026-06-03 | Ursuline | 4 | Medfield | 1 | +8.9 | +3.0 |
-| 2026-06-03 | Duxbury | 5 | Marblehead | 0 | +6.1 | +5.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Winchester | 1805.7 |
+| 1 | Dover-Sherborn | 1795.3 |
 | 2 | Martha’s Vineyard | 1792.2 |
-| 3 | Dover-Sherborn | 1786.5 |
-| 4 | Swampscott | 1782.8 |
-| 5 | Newton South | 1782.4 |
+| 3 | Winchester | 1791.5 |
+| 4 | Newton South | 1782.4 |
+| 5 | Swampscott | 1774.0 |
 | 6 | Old Rochester | 1772.2 |
 | 7 | Notre Dame (Hingham) | 1766.1 |
 | 8 | Westford | 1746.9 |
 | 9 | Duxbury | 1739.3 |
 | 10 | Hingham | 1736.6 |
-| 11 | Manchester Essex | 1727.6 |
-| 12 | Lexington | 1724.9 |
-| 13 | Lynnfield | 1724.1 |
-| 14 | Boston Latin | 1720.8 |
-| 15 | Andover | 1715.3 |
-| 16 | Needham | 1711.3 |
-| 17 | Hamilton-Wenham | 1710.5 |
+| 11 | Boston Latin | 1735.1 |
+| 12 | Manchester Essex | 1727.6 |
+| 13 | Lexington | 1724.9 |
+| 14 | Lynnfield | 1724.1 |
+| 15 | Hamilton-Wenham | 1715.3 |
+| 16 | Andover | 1715.3 |
+| 17 | Needham | 1711.3 |
 | 18 | Sharon | 1701.4 |
 | 19 | Monomoy | 1689.4 |
 | 20 | Ursuline | 1687.3 |
@@ -110,13 +110,13 @@ Generated: 2026-06-10 14:21
 | 63 | St. Mark’s | 1557.4 |
 | 64 | Notre Dame (Worcester) | 1557.0 |
 | 65 | Watertown | 1556.7 |
-| 66 | Bromfield | 1555.0 |
-| 67 | Brockton | 1554.7 |
-| 68 | Mt. Greylock | 1554.5 |
-| 69 | Groton-Dunstable | 1553.1 |
-| 70 | East Longmeadow | 1552.7 |
-| 71 | Sturgis East | 1551.8 |
-| 72 | Auburn | 1551.0 |
+| 66 | Brockton | 1554.7 |
+| 67 | Mt. Greylock | 1554.5 |
+| 68 | Groton-Dunstable | 1553.1 |
+| 69 | East Longmeadow | 1552.7 |
+| 70 | Sturgis East | 1551.8 |
+| 71 | Auburn | 1551.0 |
+| 72 | Bromfield | 1550.1 |
 | 73 | Quabbin | 1549.7 |
 | 74 | Melrose | 1549.4 |
 | 75 | Belmont | 1548.2 |
@@ -162,8 +162,8 @@ Generated: 2026-06-10 14:21
 | 115 | Hudson | 1503.8 |
 | 116 | St. Mary (Westfield) | 1502.2 |
 | 117 | St. Paul | 1501.1 |
-| 118 | Abington | 1500.0 |
-| 119 | Nashoba Valley Tech | 1500.0 |
+| 118 | Nashoba Valley Tech | 1500.0 |
+| 119 | Abington | 1500.0 |
 | 120 | Westport | 1498.8 |
 | 121 | Dexter Southfield | 1497.9 |
 | 122 | Northampton | 1496.3 |

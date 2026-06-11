@@ -1590,9 +1590,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-29,118738,FINAL,Weston,4423,5.0,1.0,Belchertown,4032,0.0,0.0,Dual County,Independent,4:00 P.M.,,0
 2026-05-29,118816,FINAL,Bourne,4050,3.0,1.0,Mashpee,4237,2.0,0.0,South Coast,South Shore,4:00 P.M.,,0
 2026-05-29,118828,FINAL,Lenox,4532,5.0,1.0,Springfield International,4480,0.0,0.0,Independent,Independent,4:00 P.M.,,0
-2026-05-31,118576,FINAL,Marblehead,4231,4,1,Grafton,4153,1,0,Northeastern,Independent,12:00 P.M.,,0
-2026-05-31,118636,FINAL,Westborough,4418,5,1,Ashland,4015,0,0,Mid-Wach,Tri-Valley,2:00 P.M.,,0
-2026-05-31,118672,FINAL,Falmouth,4134,3,1,Pentucket,4309,2,0,Cape & Islands,Cape Ann,2:00 P.M.,,0
+2026-05-31,118576,FINAL,Marblehead,4231,4.0,1.0,Grafton,4153,1.0,0.0,Northeastern,Independent,12:00 P.M.,,0
+2026-05-31,118636,FINAL,Westborough,4418,5.0,1.0,Ashland,4015,0.0,0.0,Mid-Wach,Tri-Valley,2:00 P.M.,,0
+2026-05-31,118672,FINAL,Falmouth,4134,3.0,1.0,Pentucket,4309,2.0,0.0,Cape & Islands,Cape Ann,2:00 P.M.,,0
 2026-06-01,118456,FINAL,Winchester,4434,2,0,Concord-Carlisle,4097,3,1,Middlesex,Dual County,4:15 P.M.,,0
 2026-06-01,118459,FINAL,Needham,4272,4,1,Wellesley,4413,1,0,Bay State,Bay State,2:00 P.M.,,0
 2026-06-01,118465,FINAL,Lincoln-Sudbury,4211,4,1,Belmont,4034,1,0,Dual County,Middlesex,4:15 P.M.,,0
@@ -1647,6 +1647,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-08,118771,FINAL,Hamilton-Wenham,4163,3,1,Manchester Essex,4229,2,0,Cape Ann,Cape Ann,5:30 P.M.,,0
 2026-06-09,118438,FINAL,Newton South,4280,3,1,Needham,4272,2,0,Dual County,Bay State,3:00 P.M.,,0
 2026-06-09,118552,FINAL,Westborough,4418,5,1,Marblehead,4231,0,0,Mid-Wach,Northeastern,4:00 P.M.,,0
-2026-06-10,118441,UPCOMING,Lexington,4209,,,Newton North,4279,,,Middlesex,Bay State,2:00 P.M.,,0
-2026-06-10,118651,UPCOMING,Wayland,4411,,,Newburyport,4276,,,Dual County,Cape Ann,2:00 P.M.,,0
+2026-06-10,118441,FINAL,Lexington,4209,2,0,Newton North,4279,3,1,Middlesex,Bay State,4:30 P.M.,,0
+2026-06-10,118651,FINAL,Wayland,4411,4,1,Newburyport,4276,1,0,Dual County,Cape Ann,2:00 P.M.,,0
+2026-06-13,118435,UPCOMING,Newton North,4279,,,Newton South,4280,,,Bay State,Dual County,9:00 A.M.,,0
+2026-06-13,118546,UPCOMING,Westborough,4418,,,Duxbury,4123,,,Mid-Wach,Patriot,11:30 A.M.,,0
+2026-06-13,118648,UPCOMING,Weston,4423,,,Wayland,4411,,,Dual County,Dual County,2:00 P.M.,,0
+2026-06-13,118765,UPCOMING,Hamilton-Wenham,4163,,,Mystic Valley,4264,,,Cape Ann,Cape Ann,4:30 P.M.,,0
 2026-06-19,111256,UPCOMING,Randolph,4327,,,Rockland/EB,4331,,,Independent,South Shore,4:00 P.M.,,0

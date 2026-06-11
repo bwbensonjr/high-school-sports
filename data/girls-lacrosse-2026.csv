@@ -1950,12 +1950,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-30,117690,FINAL,Reading,4328,13.0,1.0,Minnechaug,4254,0.0,0.0,Middlesex,Independent,11:30 A.M.,,0
 2026-05-30,117795,FINAL,St. Mary’s,4374,10.0,1.0,Weston,4423,5.0,0.0,Catholic Central,Dual County,5:15 P.M.,,0
 2026-05-30,117810,FINAL,Cohasset,4094,17.0,1.0,Hanover,4164,2.0,0.0,South Shore,Patriot,5:00 P.M.,,0
-2026-05-31,117570,FINAL,Wellesley,4413,12,1,Acton-Boxborough,4003,6,0,Bay State,Dual County,12:30 P.M.,,0
-2026-05-31,117681,FINAL,Longmeadow,4214,16,1,Milton,4252,7,0,Independent,Bay State,,,0
-2026-05-31,117687,FINAL,Hingham,4171,13,1,Melrose,4244,6,0,Patriot,Middlesex,1:00 P.M.,,0
-2026-05-31,117693,FINAL,Walpole,4404,19,1,Marshfield,4234,7,0,Bay State,Patriot,12:00 P.M.,,0
-2026-05-31,117927,FINAL,Nipmuc,4281,14,1,Mt. Greylock,4262,9,0,CMAC,Independent,2:00 P.M.,,0
-2026-05-31,117936,FINAL,Sandwich,4340,16,1,Stoneham,4380,2,0,Cape & Islands,Middlesex,11:00 A.M.,,0
+2026-05-31,117570,FINAL,Wellesley,4413,12.0,1.0,Acton-Boxborough,4003,6.0,0.0,Bay State,Dual County,12:30 P.M.,,0
+2026-05-31,117681,FINAL,Longmeadow,4214,16.0,1.0,Milton,4252,7.0,0.0,Independent,Bay State,,,0
+2026-05-31,117687,FINAL,Hingham,4171,13.0,1.0,Melrose,4244,6.0,0.0,Patriot,Middlesex,1:00 P.M.,,0
+2026-05-31,117693,FINAL,Walpole,4404,19.0,1.0,Marshfield,4234,7.0,0.0,Bay State,Patriot,12:00 P.M.,,0
+2026-05-31,117927,FINAL,Nipmuc,4281,14.0,1.0,Mt. Greylock,4262,9.0,0.0,CMAC,Independent,2:00 P.M.,,0
+2026-05-31,117936,FINAL,Sandwich,4340,16.0,1.0,Stoneham,4380,2.0,0.0,Cape & Islands,Middlesex,11:00 A.M.,,0
 2026-06-01,117582,FINAL,Concord-Carlisle,4097,19,1,Belmont,4034,6,0,Dual County,Middlesex,4:30 P.M.,,0
 2026-06-01,117585,FINAL,Chelmsford,4085,16,1,Beverly,4038,6,0,Merrimack Valley,Northeastern,6:00 P.M.,,0
 2026-06-01,117672,FINAL,Grafton,4153,9,0,Westwood,4424,18,1,Mid-Mass.,Tri-Valley,6:30 P.M.,,0
@@ -1991,7 +1991,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-08,117774,FINAL,Cohasset,4094,18,1,Wayland,4411,2,0,South Shore,Dual County,7:00 P.M.,,0
 2026-06-08,117897,FINAL,Ipswich,4190,12,1,Manchester Essex,4229,6,0,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-06-08,117900,FINAL,Sandwich,4340,15,1,Nipmuc,4281,2,0,Cape & Islands,CMAC,5:00 P.M.,,0
-2026-06-10,117546,UPCOMING,Notre Dame (Hingham),4449,,,Concord-Carlisle,4097,,,Independent,Dual County,4:30 P.M.,,0
-2026-06-10,117651,UPCOMING,Walpole,4404,,,Reading,4328,,,Bay State,Middlesex,6:45 P.M.,,0
+2026-06-10,117546,FINAL,Notre Dame (Hingham),4449,9,0,Concord-Carlisle,4097,10,1,Independent,Dual County,4:30 P.M.,1.0,0
+2026-06-10,117651,FINAL,Walpole,4404,12,1,Reading,4328,11,0,Bay State,Middlesex,6:45 P.M.,,0
 2026-06-11,117768,UPCOMING,Cohasset,4094,,,Norwell,4296,,,South Shore,South Shore,6:45 P.M.,,0
 2026-06-11,117894,UPCOMING,Sandwich,4340,,,Ipswich,4190,,,Cape & Islands,Cape Ann,4:30 P.M.,,0

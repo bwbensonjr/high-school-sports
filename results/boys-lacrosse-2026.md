@@ -1,18 +1,22 @@
 # Boys Lacrosse - 2026 Season
 
-Generated: 2026-06-10 14:20
+Generated: 2026-06-11 14:33
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-06-10 | 6:30 P.M. | Norwell | Scituate | 66.5% | +4.8 |
-| 2026-06-10 | 4:00 P.M. | Dracut | Medfield | 68.2% | +5.3 |
+| 2026-06-12 | 7:00 P.M. | Longmeadow | Mansfield | 51.4% | +0.4 |
+| 2026-06-12 | 4:30 P.M. | Lincoln-Sudbury | BC High | 76.2% | +8.1 |
+| 2026-06-13 | 11:00 A.M. | Dracut | Scituate | 73.9% | +7.2 |
+| 2026-06-13 | 1:30 P.M. | Cohasset | Nantucket | 53.6% | +1.0 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-06-10 | Dracut | 11 | Medfield | 7 | +5.3 | +4.0 |
+| 2026-06-10 | Norwell | 8 | Scituate | 12 | +4.8 | -4.0 |
 | 2026-06-09 | Nantucket | 8 | Manchester Essex | 4 | +3.3 | +4.0 |
 | 2026-06-09 | Lincoln-Sudbury | 17 | Acton-Boxborough | 5 | +2.2 | +12.0 |
 | 2026-06-09 | St. John’s Prep | 10 | BC High | 11 | +7.4 | -1.0 |
@@ -21,69 +25,53 @@ Generated: 2026-06-10 14:20
 | 2026-06-08 | Dracut | 7 | Wakefield | 4 | +7.0 | +3.0 |
 | 2026-06-07 | Medfield | 11 | Falmouth | 5 | +0.8 | +6.0 |
 | 2026-06-06 | Acton-Boxborough | 11 | Bishop Feehan | 7 | +5.5 | +4.0 |
-| 2026-06-06 | Longmeadow | 9 | Hingham | 7 | +7.1 | +2.0 |
-| 2026-06-06 | Billerica | 8 | Walpole | 14 | +5.1 | -6.0 |
-| 2026-06-06 | Norwell | 7 | Weston | 5 | +1.3 | +2.0 |
+| 2026-06-06 | Manchester Essex | 10 | Abington | 6 | +3.3 | +4.0 |
+| 2026-06-06 | Nantucket | 10 | Pentucket | 9 | +8.2 | +1.0 |
 | 2026-06-06 | Lincoln-Sudbury | 17 | Xaverian | 8 | +15.8 | +9.0 |
 | 2026-06-06 | St. John’s Prep | 15 | Winchester | 2 | +4.1 | +13.0 |
-| 2026-06-06 | Nantucket | 10 | Pentucket | 9 | +8.2 | +1.0 |
-| 2026-06-06 | Manchester Essex | 10 | Abington | 6 | +3.3 | +4.0 |
+| 2026-06-06 | Norwell | 7 | Weston | 5 | +1.3 | +2.0 |
+| 2026-06-06 | Billerica | 8 | Walpole | 14 | +5.1 | -6.0 |
+| 2026-06-06 | Longmeadow | 9 | Hingham | 7 | +7.1 | +2.0 |
 | 2026-06-05 | Cohasset | 19 | Bourne/Mashpee | 6 | -0.9 | +13.0 |
 | 2026-06-05 | Ipswich | 14 | Winthrop | 8 | +0.8 | +6.0 |
 | 2026-06-05 | Andover | 7 | BC High | 8 | +2.8 | -1.0 |
 | 2026-06-05 | Scituate | 11 | Shawsheen | 6 | -6.9 | +5.0 |
 | 2026-06-05 | Mansfield | 8 | Duxbury | 6 | +7.1 | +2.0 |
+| 2026-06-04 | Weston | 16 | Oakmont | 4 | +3.1 | +12.0 |
 | 2026-06-04 | Winthrop | 17 | East Bridgewater | 4 | +7.9 | +13.0 |
 | 2026-06-04 | Abington | 14 | Lynnfield | 4 | +17.7 | +10.0 |
+| 2026-06-04 | Pentucket | 14 | Sandwich | 6 | +3.8 | +8.0 |
 | 2026-06-04 | Winchester | 15 | St. John’s (Shrewsbury) | 14 | +8.6 | +1.0 |
 | 2026-06-04 | Medfield | 14 | Foxborough | 5 | +4.7 | +9.0 |
-| 2026-06-04 | Weston | 16 | Oakmont | 4 | +3.1 | +12.0 |
 | 2026-06-04 | Reading | 9 | Marshfield | 11 | +5.4 | -2.0 |
-| 2026-06-04 | Pentucket | 14 | Sandwich | 6 | +3.8 | +8.0 |
-| 2026-06-03 | Hingham | 13 | Westwood | 12 | -0.7 | +1.0 |
-| 2026-06-03 | Newton North | 10 | Xaverian | 12 | +12.8 | -2.0 |
-| 2026-06-03 | Mansfield | 8 | Marblehead | 6 | +8.8 | +2.0 |
-| 2026-06-03 | Billerica | 18 | Silver Lake | 8 | +11.0 | +10.0 |
-| 2026-06-03 | Newburyport | 12 | Shawsheen | 15 | -2.3 | -3.0 |
-| 2026-06-03 | Falmouth | 9 | Tewksbury | 2 | +6.2 | +7.0 |
-| 2026-06-03 | Norwell | 18 | Dover-Sherborn | 11 | +6.8 | +7.0 |
-| 2026-06-03 | Dracut | 13 | North Reading | 4 | +10.7 | +9.0 |
-| 2026-06-03 | Lincoln-Sudbury | 18 | Wellesley | 3 | +12.8 | +15.0 |
-| 2026-06-03 | BC High | 15 | Natick | 2 | -0.3 | +13.0 |
-| 2026-06-03 | Andover | 16 | Concord-Carlisle | 4 | +3.6 | +12.0 |
-| 2026-06-03 | Ipswich | 17 | Lunenburg | 1 | +5.8 | +16.0 |
-| 2026-06-03 | Manchester Essex | 14 | Nipmuc | 8 | +9.8 | +6.0 |
-| 2026-06-03 | Nantucket | 17 | Rockland | 1 | +13.0 | +16.0 |
-| 2026-06-03 | Cohasset | 19 | Triton | 5 | +13.0 | +14.0 |
-| 2026-06-03 | King Philip | 9 | Walpole | 11 | +4.4 | -2.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Lincoln-Sudbury | 1866.9 |
-| 2 | Mansfield | 1864.8 |
-| 3 | Dracut | 1862.2 |
+| 1 | Dracut | 1877.5 |
+| 2 | Lincoln-Sudbury | 1866.9 |
+| 3 | Mansfield | 1864.8 |
 | 4 | Shawsheen | 1858.9 |
 | 5 | Longmeadow | 1824.3 |
 | 6 | St. John’s Prep | 1817.5 |
 | 7 | Acton-Boxborough | 1797.5 |
-| 8 | Norwell | 1783.7 |
-| 9 | Medfield | 1779.3 |
-| 10 | Nantucket | 1778.7 |
-| 11 | Weston | 1770.5 |
-| 12 | Reading | 1764.4 |
-| 13 | Newburyport | 1754.9 |
-| 14 | Cohasset | 1753.6 |
-| 15 | Falmouth | 1753.4 |
-| 16 | Bourne/Mashpee | 1742.5 |
-| 17 | Ipswich | 1739.8 |
-| 18 | Billerica | 1726.3 |
-| 19 | Winchester | 1724.8 |
-| 20 | Tabor | 1723.6 |
-| 21 | Winthrop | 1715.1 |
-| 22 | Westwood | 1715.0 |
-| 23 | Scituate | 1714.8 |
+| 8 | Nantucket | 1778.7 |
+| 9 | Weston | 1770.5 |
+| 10 | Reading | 1764.4 |
+| 11 | Medfield | 1763.9 |
+| 12 | Newburyport | 1754.9 |
+| 13 | Cohasset | 1753.6 |
+| 14 | Falmouth | 1753.4 |
+| 15 | Norwell | 1751.6 |
+| 16 | Scituate | 1746.9 |
+| 17 | Bourne/Mashpee | 1742.5 |
+| 18 | Ipswich | 1739.8 |
+| 19 | Billerica | 1726.3 |
+| 20 | Winchester | 1724.8 |
+| 21 | Tabor | 1723.6 |
+| 22 | Winthrop | 1715.1 |
+| 23 | Westwood | 1715.0 |
 | 24 | BC High | 1714.5 |
 | 25 | Wakefield | 1714.2 |
 | 26 | Bishop Feehan | 1711.3 |
@@ -201,9 +189,9 @@ Generated: 2026-06-10 14:20
 | 138 | Landmark | 1501.3 |
 | 139 | Mashpee | 1500.0 |
 | 140 | St. Anthony’s (N.Y.) | 1500.0 |
-| 141 | Everett | 1500.0 |
-| 142 | Latin Academy | 1500.0 |
-| 143 | Bourne | 1500.0 |
+| 141 | Bourne | 1500.0 |
+| 142 | Everett | 1500.0 |
+| 143 | Latin Academy | 1500.0 |
 | 144 | West Springfield | 1499.6 |
 | 145 | North Andover | 1496.9 |
 | 146 | Bancroft | 1496.5 |

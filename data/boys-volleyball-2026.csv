@@ -1083,8 +1083,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-05-30,119290,FINAL,Chicopee Comprehensive,4089,3.0,1.0,Assabet,4016,0.0,0.0,Independent,CMAC,11:00 A.M.,,0
 2026-05-30,119293,FINAL,Westfield,4419,3.0,1.0,Wakefield,4402,0.0,0.0,Independent,Middlesex,12:00 P.M.,,0
 2026-05-30,119296,FINAL,Wayland,4411,3.0,1.0,Pioneer Charter II,4964,0.0,0.0,Dual County,Charter School Athletic,12:00 P.M.,,0
-2026-05-31,119161,FINAL,Chelmsford,4085,3,1,St. John’s (Shrewsbury),4368,0,0,Merrimack Valley,Catholic Conference,12:00 P.M.,,0
-2026-05-31,119164,FINAL,Natick,4270,3,1,Somerville,4351,0,0,Bay State,Greater Boston,3:00 P.M.,,0
+2026-05-31,119161,FINAL,Chelmsford,4085,3.0,1.0,St. John’s (Shrewsbury),4368,0.0,0.0,Merrimack Valley,Catholic Conference,12:00 P.M.,,0
+2026-05-31,119164,FINAL,Natick,4270,3.0,1.0,Somerville,4351,0.0,0.0,Bay State,Greater Boston,3:00 P.M.,,0
 2026-06-01,119119,FINAL,Brookline,4059,3,1,Arlington,4013,0,0,Bay State,Middlesex,5:30 P.M.,,0
 2026-06-01,119230,FINAL,Marlborough,4233,3,1,Granby,4520,1,0,Mid-Wach,Independent,5:00 P.M.,,0
 2026-06-01,119245,FINAL,Westfield,4419,3,1,Springfield International,4480,1,0,Independent,Independent,5:30 P.M.,,0
