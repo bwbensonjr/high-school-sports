@@ -1,29 +1,28 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-06-11 14:33
+Generated: 2026-06-12 14:08
 
 ## Upcoming Games
 
-| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
-|------|------|-----------|-----------|------------|------------------|
-| 2026-06-11 | 6:00 P.M. | BC High | Milton | 63.3% | +3.8 |
-| 2026-06-11 | 8:00 P.M. | Hanover | Brookline | 51.1% | +0.3 |
+*No upcoming games scheduled*
+
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-06-11 | BC High | 48 | Milton | 17 | +3.8 | +31.0 |
+| 2026-06-11 | Hanover | 26 | Brookline | 19 | +0.3 | +7.0 |
 | 2026-06-05 | Algonquin/Westboro | 14 | Brookline | 42 | +4.0 | -28.0 |
-| 2026-06-04 | Hanover | 43 | Blue Hills | 25 | +0.2 | +18.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | BC High | 1696.1 |
-| 2 | Milton | 1651.2 |
-| 3 | Brookline | 1645.3 |
-| 4 | Hanover | 1602.9 |
+| 1 | BC High | 1734.2 |
+| 2 | Hanover | 1633.4 |
+| 3 | Brookline | 1614.8 |
+| 4 | Milton | 1613.1 |
 | 5 | Hingham/Norwell | 1590.8 |
 | 6 | Algonquin/Westboro | 1565.2 |
 | 7 | Malden Catholic | 1564.9 |

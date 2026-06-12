@@ -1,6 +1,6 @@
 # Girls Soccer - 2025 Season
 
-Generated: 2026-06-11 14:33
+Generated: 2026-06-12 14:08
 
 ## Upcoming Games
 
@@ -214,13 +214,13 @@ Generated: 2026-06-11 14:33
 | 196 | Canton | 1502.2 |
 | 197 | Bridgton Academy | 1501.7 |
 | 198 | Kingswood-Oxford | 1501.7 |
-| 199 | Boston Prep | 1501.7 |
-| 200 | Taft | 1501.7 |
-| 201 | Cumberland (R.I.) | 1501.7 |
-| 202 | Kent | 1501.7 |
-| 203 | Poughkeepsie Day (N.Y.) | 1501.7 |
-| 204 | Neighborhood House Charter | 1501.7 |
-| 205 | South Shore Christian | 1501.7 |
+| 199 | Cumberland (R.I.) | 1501.7 |
+| 200 | Neighborhood House Charter | 1501.7 |
+| 201 | Taft | 1501.7 |
+| 202 | Boston Prep | 1501.7 |
+| 203 | South Shore Christian | 1501.7 |
+| 204 | Kent | 1501.7 |
+| 205 | Poughkeepsie Day (N.Y.) | 1501.7 |
 | 206 | Billerica | 1499.6 |
 | 207 | Melrose | 1498.6 |
 | 208 | Rivers | 1497.5 |

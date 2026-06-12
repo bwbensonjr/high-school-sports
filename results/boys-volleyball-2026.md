@@ -1,18 +1,18 @@
 # Boys Volleyball - 2026 Season
 
-Generated: 2026-06-11 14:33
+Generated: 2026-06-12 14:08
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-06-11 | 6:00 P.M. | Wayland | Westfield | 62.1% | +3.4 |
 | 2026-06-12 | 6:00 P.M. | Needham | Brookline | 63.8% | +3.9 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-06-11 | Wayland | 3 | Westfield | 1 | +3.4 | +2.0 |
 | 2026-06-09 | Brookline | 3 | Natick | 2 | +1.6 | +1.0 |
 | 2026-06-09 | Needham | 3 | Newton North | 0 | +10.7 | +3.0 |
 | 2026-06-09 | Westfield | 3 | Chicopee Comprehensive | 0 | +6.2 | +3.0 |
@@ -22,18 +22,14 @@ Generated: 2026-06-11 14:33
 | 2026-06-05 | Brookline | 3 | Newton South | 1 | +5.1 | +2.0 |
 | 2026-06-05 | Needham | 3 | Lowell | 0 | +3.6 | +3.0 |
 | 2026-06-05 | Milford | 3 | Norton | 0 | +0.6 | +3.0 |
-| 2026-06-04 | Natick | 3 | Agawam | 1 | +4.1 | +2.0 |
-| 2026-06-04 | Westfield | 3 | Marlborough | 2 | +6.3 | +1.0 |
-| 2026-06-04 | Wayland | 3 | Longmeadow | 0 | +9.3 | +3.0 |
-| 2026-06-04 | Latin Academy | 3 | O’Bryant | 2 | +3.2 | +1.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Wayland | 1758.0 |
+| 1 | Wayland | 1770.5 |
 | 2 | Needham | 1756.5 |
-| 3 | Westfield | 1722.4 |
+| 3 | Westfield | 1709.9 |
 | 4 | Brookline | 1708.0 |
 | 5 | Chelmsford | 1705.8 |
 | 6 | Natick | 1698.8 |

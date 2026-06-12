@@ -1,6 +1,6 @@
 # Girls Tennis - 2026 Season
 
-Generated: 2026-06-11 14:33
+Generated: 2026-06-12 14:08
 
 ## Upcoming Games
 
@@ -22,24 +22,17 @@ Generated: 2026-06-11 14:33
 | 2026-06-09 | Martha’s Vineyard | 5 | Weston | 0 | +15.4 | +5.0 |
 | 2026-06-09 | Notre Dame (Hingham) | 3 | Hingham | 2 | +2.5 | +1.0 |
 | 2026-06-09 | Bedford | 3 | Duxbury | 2 | -2.6 | +1.0 |
-| 2026-06-08 | Manchester Essex | 3 | Ipswich | 2 | +5.3 | +1.0 |
 | 2026-06-08 | Newton South | 5 | Westford | 0 | +1.5 | +5.0 |
+| 2026-06-08 | Manchester Essex | 3 | Ipswich | 2 | +5.3 | +1.0 |
 | 2026-06-06 | Ursuline | 2 | Weston | 3 | +12.8 | -1.0 |
 | 2026-06-06 | Newton South | 4 | Wellesley | 1 | +4.4 | +3.0 |
+| 2026-06-05 | Duxbury | 4 | Longmeadow | 1 | +7.6 | +3.0 |
 | 2026-06-05 | Hamilton-Wenham | 4 | Hopedale | 1 | +7.3 | +3.0 |
 | 2026-06-05 | Manchester Essex | 5 | Lenox | 0 | +6.2 | +5.0 |
 | 2026-06-05 | Martha’s Vineyard | 4 | Wilmington | 1 | +9.8 | +3.0 |
 | 2026-06-05 | Dover-Sherborn | 4 | Old Rochester | 1 | +1.0 | +3.0 |
 | 2026-06-05 | Notre Dame (Hingham) | 5 | Scituate | 0 | +4.6 | +5.0 |
-| 2026-06-05 | Duxbury | 4 | Longmeadow | 1 | +7.6 | +3.0 |
 | 2026-06-05 | Bedford | 3 | Westwood | 2 | -0.8 | +1.0 |
-| 2026-06-04 | Winchester | 4 | Acton-Boxborough | 1 | +9.6 | +3.0 |
-| 2026-06-04 | Ipswich | 4 | Cohasset | 1 | +6.3 | +3.0 |
-| 2026-06-04 | Amesbury | 2 | Bromfield | 3 | +0.2 | -1.0 |
-| 2026-06-04 | Lynnfield | 1 | Swampscott | 4 | +1.5 | -3.0 |
-| 2026-06-04 | Hingham | 3 | Milton | 2 | +7.7 | +1.0 |
-| 2026-06-04 | Boston Latin | 5 | Needham | 0 | +0.3 | +5.0 |
-| 2026-06-04 | Westford | 5 | Lexington | 0 | +2.0 | +5.0 |
 
 ## Current Elo Ratings
 
@@ -162,8 +155,8 @@ Generated: 2026-06-11 14:33
 | 115 | Hudson | 1503.8 |
 | 116 | St. Mary (Westfield) | 1502.2 |
 | 117 | St. Paul | 1501.1 |
-| 118 | Nashoba Valley Tech | 1500.0 |
-| 119 | Abington | 1500.0 |
+| 118 | Abington | 1500.0 |
+| 119 | Nashoba Valley Tech | 1500.0 |
 | 120 | Westport | 1498.8 |
 | 121 | Dexter Southfield | 1497.9 |
 | 122 | Northampton | 1496.3 |

@@ -1,6 +1,6 @@
 # Baseball - 2026 Season
 
-Generated: 2026-06-11 14:33
+Generated: 2026-06-12 14:08
 
 ## Upcoming Games
 
@@ -17,48 +17,35 @@ Generated: 2026-06-11 14:33
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-06-09 | English High | 3 | Drury | 0 | +0.9 | +3.0 |
-| 2026-06-09 | Middleborough | 2 | Weston | 1 | +4.9 | +1.0 |
-| 2026-06-09 | Catholic Memorial | 6 | Cambridge | 1 | -2.2 | +5.0 |
-| 2026-06-09 | Longmeadow | 4 | King Philip | 5 | +4.5 | -1.0 |
-| 2026-06-09 | St. Mary’s | 5 | Milton | 6 | +6.0 | -1.0 |
-| 2026-06-09 | Bishop Feehan | 6 | Xaverian | 3 | +2.6 | +3.0 |
-| 2026-06-09 | Apponequet | 2 | Hanover | 1 | +1.9 | +1.0 |
-| 2026-06-09 | Dennis-Yarmouth | 4 | Seekonk | 7 | +4.6 | -3.0 |
-| 2026-06-09 | Hamilton-Wenham | 10 | St. John Paul II | 0 | +6.8 | +10.0 |
 | 2026-06-09 | Georgetown | 6 | Hopkins | 1 | -3.4 | +5.0 |
+| 2026-06-09 | Hamilton-Wenham | 10 | St. John Paul II | 0 | +6.8 | +10.0 |
+| 2026-06-09 | Dennis-Yarmouth | 4 | Seekonk | 7 | +4.6 | -3.0 |
+| 2026-06-09 | Apponequet | 2 | Hanover | 1 | +1.9 | +1.0 |
+| 2026-06-09 | Middleborough | 2 | Weston | 1 | +4.9 | +1.0 |
+| 2026-06-09 | St. Mary’s | 5 | Milton | 6 | +6.0 | -1.0 |
+| 2026-06-09 | Longmeadow | 4 | King Philip | 5 | +4.5 | -1.0 |
+| 2026-06-09 | Catholic Memorial | 6 | Cambridge | 1 | -2.2 | +5.0 |
+| 2026-06-09 | Bishop Feehan | 6 | Xaverian | 3 | +2.6 | +3.0 |
+| 2026-06-07 | Hamilton-Wenham | 2 | Sandwich | 1 | +9.7 | +1.0 |
 | 2026-06-07 | English High | 10 | Hopedale | 0 | +2.5 | +10.0 |
 | 2026-06-07 | Hopkins | 4 | Maynard | 1 | +8.6 | +3.0 |
 | 2026-06-07 | Georgetown | 4 | West Boylston | 2 | -5.2 | +2.0 |
-| 2026-06-07 | Hamilton-Wenham | 2 | Sandwich | 1 | +9.7 | +1.0 |
 | 2026-06-07 | Millbury | 0 | St. John Paul II | 1 | +4.2 | -1.0 |
 | 2026-06-07 | Middleborough | 1 | Fairhaven | 0 | +3.7 | +1.0 |
 | 2026-06-07 | Xaverian | 7 | Leominster | 3 | +2.2 | +4.0 |
-| 2026-06-06 | Pittsfield | 0 | Hanover | 9 | +4.3 | -9.0 |
+| 2026-06-06 | Bishop Feehan | 10 | Pope Francis | 5 | +4.1 | +5.0 |
 | 2026-06-06 | Drury | 6 | Keefe Tech | 0 | +5.0 | +6.0 |
 | 2026-06-06 | Dennis-Yarmouth | 5 | Rockland | 0 | +3.6 | +5.0 |
 | 2026-06-06 | East Bridgewater | 2 | Seekonk | 5 | +4.3 | -3.0 |
+| 2026-06-06 | Pittsfield | 0 | Hanover | 9 | +4.3 | -9.0 |
 | 2026-06-06 | Norwell | 1 | Weston | 5 | -1.2 | -4.0 |
+| 2026-06-06 | Apponequet | 6 | Dracut | 1 | +4.9 | +5.0 |
 | 2026-06-06 | St. Mary’s | 4 | Masconomet | 1 | +6.1 | +3.0 |
 | 2026-06-06 | Reading | 0 | King Philip | 1 | +8.5 | -1.0 |
 | 2026-06-06 | Walpole | 6 | Longmeadow | 7 | +1.4 | -1.0 |
 | 2026-06-06 | Milton | 3 | Billerica | 2 | +6.2 | +1.0 |
 | 2026-06-06 | BC High | 1 | Cambridge | 5 | +4.0 | -4.0 |
-| 2026-06-06 | Bishop Feehan | 10 | Pope Francis | 5 | +4.1 | +5.0 |
 | 2026-06-06 | St. John’s (Shrewsbury) | 8 | Catholic Memorial | 19 | +5.0 | -11.0 |
-| 2026-06-06 | Apponequet | 6 | Dracut | 1 | +4.9 | +5.0 |
-| 2026-06-04 | Xaverian | 13 | Winchester | 2 | -1.6 | +11.0 |
-| 2026-06-04 | Norwell | 4 | Gloucester | 3 | -2.6 | +1.0 |
-| 2026-06-04 | Catholic Memorial | 4 | St. John’s Prep | 2 | +2.4 | +2.0 |
-| 2026-06-04 | BC High | 5 | Braintree | 1 | +9.9 | +4.0 |
-| 2026-06-04 | Longmeadow | 4 | Wakefield | 3 | +4.2 | +1.0 |
-| 2026-06-04 | Walpole | 6 | Barnstable | 0 | +9.9 | +6.0 |
-| 2026-06-04 | Charlestown | 3 | Hopedale | 10 | +7.7 | -7.0 |
-| 2026-06-04 | Fairhaven | 15 | Danvers | 3 | +8.9 | +12.0 |
-| 2026-06-04 | Millbury | 10 | Wahconah | 0 | +5.7 | +10.0 |
-| 2026-06-04 | Dennis-Yarmouth | 16 | Blue Hills | 9 | +2.6 | +7.0 |
-| 2026-06-04 | Hamilton-Wenham | 4 | Clinton | 3 | +8.4 | +1.0 |
-| 2026-06-04 | Mt. Everett | 8 | West Boylston | 13 | -0.7 | -5.0 |
-| 2026-06-04 | Pope Francis | 5 | Westford | 2 | +0.9 | +3.0 |
 
 ## Current Elo Ratings
 
@@ -244,12 +231,12 @@ Generated: 2026-06-11 14:33
 | 178 | Hampshire | 1505.6 |
 | 179 | North Andover | 1501.3 |
 | 180 | Maimonides | 1500.3 |
-| 181 | South Shore Christian | 1500.0 |
+| 181 | Cape Cod Academy | 1500.0 |
 | 182 | Cristo Rey | 1500.0 |
 | 183 | Londonderry (N.H.) | 1500.0 |
-| 184 | Cape Cod Academy | 1500.0 |
+| 184 | Sturgis East | 1500.0 |
 | 185 | Portsmouth (R.I.) | 1500.0 |
-| 186 | Sturgis East | 1500.0 |
+| 186 | South Shore Christian | 1500.0 |
 | 187 | KIPP | 1500.0 |
 | 188 | Upper Cape | 1498.2 |
 | 189 | Canton | 1497.5 |

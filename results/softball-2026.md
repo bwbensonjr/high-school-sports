@@ -1,6 +1,6 @@
 # Softball - 2026 Season
 
-Generated: 2026-06-11 14:33
+Generated: 2026-06-12 14:08
 
 ## Upcoming Games
 
@@ -24,39 +24,28 @@ Generated: 2026-06-11 14:33
 | 2026-06-10 | Taunton | 9 | Shrewsbury | 2 | +5.9 | +7.0 |
 | 2026-06-10 | Central Catholic | 4 | Attleboro | 5 | +10.9 | -1.0 |
 | 2026-06-09 | Dighton-Rehoboth | 1 | Apponequet | 2 | +4.4 | -1.0 |
-| 2026-06-08 | Marshfield | 1 | Wakefield | 2 | +4.7 | -1.0 |
-| 2026-06-08 | Hampshire | 0 | Tyngsborough | 8 | -0.5 | -8.0 |
 | 2026-06-08 | Advanced Math and Science | 4 | Seekonk | 3 | +10.7 | +1.0 |
+| 2026-06-08 | Hampshire | 0 | Tyngsborough | 8 | -0.5 | -8.0 |
+| 2026-06-08 | Marshfield | 1 | Wakefield | 2 | +4.7 | -1.0 |
 | 2026-06-07 | Hopedale | 12 | Granby | 0 | -1.5 | +12.0 |
-| 2026-06-06 | Tantasqua | 2 | Apponequet | 4 | +1.0 | -2.0 |
-| 2026-06-06 | Hoosac Valley | 2 | Lenox | 3 | +10.1 | -1.0 |
 | 2026-06-06 | Maynard | 4 | Franklin County Tech | 1 | +8.7 | +3.0 |
+| 2026-06-06 | Hoosac Valley | 2 | Lenox | 3 | +10.1 | -1.0 |
 | 2026-06-06 | Tyngsborough | 9 | East Bridgewater | 6 | +5.7 | +3.0 |
 | 2026-06-06 | Hampshire | 7 | Wahconah | 1 | +3.1 | +6.0 |
 | 2026-06-06 | Seekonk | 6 | West Bridgewater | 3 | +3.8 | +3.0 |
 | 2026-06-06 | Dighton-Rehoboth | 16 | St. Mary’s | 13 | +3.3 | +3.0 |
 | 2026-06-06 | Norton | 7 | Gloucester | 1 | +9.1 | +6.0 |
+| 2026-06-06 | Tantasqua | 2 | Apponequet | 4 | +1.0 | -2.0 |
 | 2026-06-06 | King Philip | 11 | Silver Lake | 0 | +4.5 | +11.0 |
+| 2026-06-06 | Somerset Berkley | 7 | Stoughton | 5 | +5.9 | +2.0 |
 | 2026-06-06 | Taunton | 12 | Newton North | 2 | +3.6 | +10.0 |
 | 2026-06-06 | Attleboro | 10 | Bridgewater-Raynham | 0 | +1.2 | +10.0 |
 | 2026-06-06 | Shrewsbury | 6 | Franklin | 5 | +8.0 | +1.0 |
-| 2026-06-06 | Somerset Berkley | 7 | Stoughton | 5 | +5.9 | +2.0 |
+| 2026-06-05 | Shepherd Hill | 8 | Walpole | 0 | +0.8 | +8.0 |
 | 2026-06-05 | Georgetown | 5 | Monson | 0 | +6.0 | +5.0 |
 | 2026-06-05 | Advanced Math and Science | 5 | Lunenburg | 0 | +7.1 | +5.0 |
 | 2026-06-05 | Joseph Case | 5 | Greater New Bedford | 2 | +11.5 | +3.0 |
-| 2026-06-05 | Shepherd Hill | 8 | Walpole | 0 | +0.8 | +8.0 |
 | 2026-06-05 | Central Catholic | 6 | Malden Catholic | 3 | +4.9 | +3.0 |
-| 2026-06-04 | Shrewsbury | 10 | Chelmsford | 3 | +2.5 | +7.0 |
-| 2026-06-04 | Foxborough | 0 | Greater New Bedford | 16 | +3.3 | -16.0 |
-| 2026-06-04 | Taunton | 10 | Braintree | 6 | +11.7 | +4.0 |
-| 2026-06-04 | Wakefield | 3 | Milton | 2 | +8.2 | +1.0 |
-| 2026-06-04 | Somerset Berkley | 10 | North Attleborough | 0 | +8.9 | +10.0 |
-| 2026-06-04 | Granby | 8 | Holbrook | 2 | +3.6 | +6.0 |
-| 2026-06-04 | Apponequet | 3 | Nipmuc | 0 | +9.1 | +3.0 |
-| 2026-06-04 | Millbury | 2 | East Bridgewater | 3 | +1.3 | -1.0 |
-| 2026-06-04 | Oxford | 2 | Seekonk | 8 | +10.4 | -6.0 |
-| 2026-06-04 | Hampshire | 9 | Sandwich | 3 | -0.0 | +6.0 |
-| 2026-06-04 | Bridgewater-Raynham | 11 | Methuen | 2 | +5.2 | +9.0 |
 
 ## Current Elo Ratings
 
@@ -233,9 +222,9 @@ Generated: 2026-06-11 14:33
 | 169 | Sturgis | 1502.8 |
 | 170 | Westfield Tech/St. Mary (Westfield) | 1502.7 |
 | 171 | Prospect Hill | 1500.0 |
-| 172 | Woodward | 1500.0 |
-| 173 | Tiverton (R.I.) | 1500.0 |
-| 174 | Dover-Sherborn | 1500.0 |
+| 172 | Tiverton (R.I.) | 1500.0 |
+| 173 | Dover-Sherborn | 1500.0 |
+| 174 | Woodward | 1500.0 |
 | 175 | St. John Paul II | 1500.0 |
 | 176 | Mt. Greylock | 1499.1 |
 | 177 | Ayer Shirley | 1498.5 |

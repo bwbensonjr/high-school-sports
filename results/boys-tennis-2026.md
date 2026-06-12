@@ -1,6 +1,6 @@
 # Boys Tennis - 2026 Season
 
-Generated: 2026-06-11 14:33
+Generated: 2026-06-12 14:08
 
 ## Upcoming Games
 
@@ -16,29 +16,22 @@ Generated: 2026-06-11 14:33
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-06-10 | Wayland | 4 | Newburyport | 1 | -0.5 | +3.0 |
 | 2026-06-10 | Lexington | 2 | Newton North | 3 | +6.7 | -1.0 |
-| 2026-06-09 | Westborough | 5 | Marblehead | 0 | +1.2 | +5.0 |
+| 2026-06-10 | Wayland | 4 | Newburyport | 1 | -0.5 | +3.0 |
 | 2026-06-09 | Newton South | 3 | Needham | 2 | +2.7 | +1.0 |
-| 2026-06-08 | Hamilton-Wenham | 3 | Manchester Essex | 2 | +7.9 | +1.0 |
-| 2026-06-08 | Mystic Valley | 3 | Cohasset | 2 | +4.3 | +1.0 |
-| 2026-06-08 | Weston | 4 | Bedford | 1 | +7.6 | +3.0 |
+| 2026-06-09 | Westborough | 5 | Marblehead | 0 | +1.2 | +5.0 |
 | 2026-06-08 | Sharon | 2 | Duxbury | 3 | +2.2 | -1.0 |
-| 2026-06-06 | Newburyport | 3 | Scituate | 2 | -0.8 | +1.0 |
+| 2026-06-08 | Weston | 4 | Bedford | 1 | +7.6 | +3.0 |
+| 2026-06-08 | Mystic Valley | 3 | Cohasset | 2 | +4.3 | +1.0 |
+| 2026-06-08 | Hamilton-Wenham | 3 | Manchester Essex | 2 | +7.9 | +1.0 |
 | 2026-06-06 | Westford | 2 | Needham | 3 | +4.9 | -1.0 |
-| 2026-06-05 | Pioneer Valley Chinese Immersion | 2 | Cohasset | 3 | +2.6 | -1.0 |
-| 2026-06-05 | Mt. Greylock | 1 | Manchester Essex | 4 | +3.0 | -3.0 |
-| 2026-06-05 | Westborough | 4 | Hingham | 1 | +1.2 | +3.0 |
-| 2026-06-05 | Longmeadow | 2 | Sharon | 3 | -2.3 | -1.0 |
-| 2026-06-05 | St. John’s Prep | 2 | Newton South | 3 | +3.9 | -1.0 |
+| 2026-06-06 | Newburyport | 3 | Scituate | 2 | -0.8 | +1.0 |
 | 2026-06-05 | Newton North | 4 | Lincoln-Sudbury | 1 | +3.3 | +3.0 |
-| 2026-06-04 | Walpole | 2 | Marblehead | 3 | -3.0 | -1.0 |
-| 2026-06-04 | Hamilton-Wenham | 5 | Amesbury | 0 | +10.7 | +5.0 |
-| 2026-06-04 | Mystic Valley | 4 | Lenox | 1 | +6.0 | +3.0 |
-| 2026-06-04 | Weston | 5 | Medfield | 0 | +2.1 | +5.0 |
-| 2026-06-04 | Wayland | 4 | Falmouth | 1 | -4.5 | +3.0 |
-| 2026-06-04 | Duxbury | 4 | Masconomet | 1 | +6.0 | +3.0 |
-| 2026-06-04 | Lexington | 5 | Concord-Carlisle | 0 | +10.7 | +5.0 |
+| 2026-06-05 | St. John’s Prep | 2 | Newton South | 3 | +3.9 | -1.0 |
+| 2026-06-05 | Longmeadow | 2 | Sharon | 3 | -2.3 | -1.0 |
+| 2026-06-05 | Westborough | 4 | Hingham | 1 | +1.2 | +3.0 |
+| 2026-06-05 | Mt. Greylock | 1 | Manchester Essex | 4 | +3.0 | -3.0 |
+| 2026-06-05 | Pioneer Valley Chinese Immersion | 2 | Cohasset | 3 | +2.6 | -1.0 |
 
 ## Current Elo Ratings
 
@@ -163,9 +156,9 @@ Generated: 2026-06-11 14:33
 | 117 | Franklin | 1502.3 |
 | 118 | Chelmsford | 1501.4 |
 | 119 | Greater Lawrence | 1500.0 |
-| 120 | Fellowship Christian | 1500.0 |
-| 121 | Pittsfield | 1500.0 |
-| 122 | Greater Lowell | 1500.0 |
+| 120 | Pittsfield | 1500.0 |
+| 121 | Greater Lowell | 1500.0 |
+| 122 | Fellowship Christian | 1500.0 |
 | 123 | Ashland | 1499.7 |
 | 124 | Chicopee | 1498.1 |
 | 125 | Austin Prep | 1496.9 |
