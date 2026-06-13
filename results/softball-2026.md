@@ -1,13 +1,11 @@
 # Softball - 2026 Season
 
-Generated: 2026-06-12 14:08
+Generated: 2026-06-13 12:23
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-06-12 | 4:00 P.M. | Joseph Case | Apponequet | 72.9% | +6.9 |
-| 2026-06-12 | 6:30 P.M. | Advanced Math and Science | Tyngsborough | 55.8% | +1.6 |
 | 2026-06-13 | 5:00 P.M. | Taunton | Attleboro | 76.1% | +8.1 |
 | 2026-06-13 | 2:30 P.M. | King Philip | Somerset Berkley | 71.8% | +6.5 |
 | 2026-06-13 | 12:00 P.M. | Hopedale | Maynard | 51.5% | +0.4 |
@@ -16,6 +14,8 @@ Generated: 2026-06-12 14:08
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-06-12 | Advanced Math and Science | 8 | Tyngsborough | 2 | +1.6 | +6.0 |
+| 2026-06-12 | Joseph Case | 5 | Apponequet | 1 | +6.9 | +4.0 |
 | 2026-06-10 | Maynard | 5 | Lenox | 1 | +7.2 | +4.0 |
 | 2026-06-10 | Georgetown | 6 | Hopedale | 9 | +3.6 | -3.0 |
 | 2026-06-10 | Norton | 1 | Joseph Case | 3 | +3.7 | -2.0 |
@@ -24,12 +24,13 @@ Generated: 2026-06-12 14:08
 | 2026-06-10 | Taunton | 9 | Shrewsbury | 2 | +5.9 | +7.0 |
 | 2026-06-10 | Central Catholic | 4 | Attleboro | 5 | +10.9 | -1.0 |
 | 2026-06-09 | Dighton-Rehoboth | 1 | Apponequet | 2 | +4.4 | -1.0 |
+| 2026-06-08 | Marshfield | 1 | Wakefield | 2 | +4.7 | -1.0 |
 | 2026-06-08 | Advanced Math and Science | 4 | Seekonk | 3 | +10.7 | +1.0 |
 | 2026-06-08 | Hampshire | 0 | Tyngsborough | 8 | -0.5 | -8.0 |
-| 2026-06-08 | Marshfield | 1 | Wakefield | 2 | +4.7 | -1.0 |
 | 2026-06-07 | Hopedale | 12 | Granby | 0 | -1.5 | +12.0 |
-| 2026-06-06 | Maynard | 4 | Franklin County Tech | 1 | +8.7 | +3.0 |
+| 2026-06-06 | Attleboro | 10 | Bridgewater-Raynham | 0 | +1.2 | +10.0 |
 | 2026-06-06 | Hoosac Valley | 2 | Lenox | 3 | +10.1 | -1.0 |
+| 2026-06-06 | Maynard | 4 | Franklin County Tech | 1 | +8.7 | +3.0 |
 | 2026-06-06 | Tyngsborough | 9 | East Bridgewater | 6 | +5.7 | +3.0 |
 | 2026-06-06 | Hampshire | 7 | Wahconah | 1 | +3.1 | +6.0 |
 | 2026-06-06 | Seekonk | 6 | West Bridgewater | 3 | +3.8 | +3.0 |
@@ -39,36 +40,30 @@ Generated: 2026-06-12 14:08
 | 2026-06-06 | King Philip | 11 | Silver Lake | 0 | +4.5 | +11.0 |
 | 2026-06-06 | Somerset Berkley | 7 | Stoughton | 5 | +5.9 | +2.0 |
 | 2026-06-06 | Taunton | 12 | Newton North | 2 | +3.6 | +10.0 |
-| 2026-06-06 | Attleboro | 10 | Bridgewater-Raynham | 0 | +1.2 | +10.0 |
 | 2026-06-06 | Shrewsbury | 6 | Franklin | 5 | +8.0 | +1.0 |
-| 2026-06-05 | Shepherd Hill | 8 | Walpole | 0 | +0.8 | +8.0 |
-| 2026-06-05 | Georgetown | 5 | Monson | 0 | +6.0 | +5.0 |
-| 2026-06-05 | Advanced Math and Science | 5 | Lunenburg | 0 | +7.1 | +5.0 |
-| 2026-06-05 | Joseph Case | 5 | Greater New Bedford | 2 | +11.5 | +3.0 |
-| 2026-06-05 | Central Catholic | 6 | Malden Catholic | 3 | +4.9 | +3.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Central Catholic | 1904.5 |
-| 2 | Joseph Case | 1881.5 |
+| 2 | Joseph Case | 1894.5 |
 | 3 | Norton | 1881.4 |
 | 4 | Taunton | 1867.6 |
-| 5 | Tyngsborough | 1835.5 |
+| 5 | Advanced Math and Science | 1851.6 |
 | 6 | King Philip | 1827.7 |
-| 7 | Advanced Math and Science | 1825.7 |
-| 8 | Phillips Andover | 1823.7 |
-| 9 | Malden Catholic | 1822.5 |
-| 10 | Marshfield | 1822.4 |
+| 7 | Phillips Andover | 1823.7 |
+| 8 | Malden Catholic | 1822.5 |
+| 9 | Marshfield | 1822.4 |
+| 10 | Tyngsborough | 1809.7 |
 | 11 | Dighton-Rehoboth | 1792.5 |
 | 12 | West Boylston | 1783.6 |
 | 13 | Hoosac Valley | 1771.5 |
 | 14 | Wakefield | 1768.1 |
-| 15 | Apponequet | 1759.6 |
-| 16 | Newton North | 1754.4 |
-| 17 | Tri-County | 1753.4 |
-| 18 | Maynard | 1747.3 |
+| 15 | Newton North | 1754.4 |
+| 16 | Tri-County | 1753.4 |
+| 17 | Maynard | 1747.3 |
+| 18 | Apponequet | 1746.5 |
 | 19 | St. Mary’s | 1740.6 |
 | 20 | McCann Tech | 1736.4 |
 | 21 | Shrewsbury | 1732.4 |
@@ -224,8 +219,8 @@ Generated: 2026-06-12 14:08
 | 171 | Prospect Hill | 1500.0 |
 | 172 | Tiverton (R.I.) | 1500.0 |
 | 173 | Dover-Sherborn | 1500.0 |
-| 174 | Woodward | 1500.0 |
-| 175 | St. John Paul II | 1500.0 |
+| 174 | St. John Paul II | 1500.0 |
+| 175 | Woodward | 1500.0 |
 | 176 | Mt. Greylock | 1499.1 |
 | 177 | Ayer Shirley | 1498.5 |
 | 178 | Greenfield | 1497.6 |

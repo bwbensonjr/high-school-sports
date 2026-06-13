@@ -3074,16 +3074,16 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-01,120501,FINAL,Granby,4520,3.0,1.0,Whitinsville Christian,4487,2.0,0.0,Independent,CMAC,4:00 P.M.,,0
 2026-06-01,120525,FINAL,Hopedale,4507,18.0,1.0,Smith/PV Chinese,4538,1.0,0.0,CMAC,Independent,4:00 P.M.,,0
 2026-06-01,120531,FINAL,Hoosac Valley,4178,13.0,1.0,Norfolk Aggie,4458,1.0,0.0,Independent,Mayflower,4:00 P.M.,,0
-2026-06-02,120012,FINAL,Wachusett,4400,2,0,Franklin,4144,3,1,Mid-Wach,Hockomock,4:00 P.M.,,0
-2026-06-02,120018,FINAL,Attleboro,4018,7,1,Bishop Feehan,4042,1,0,Hockomock,Independent,4:00 P.M.,,0
-2026-06-02,120021,FINAL,Central Catholic,4081,13,1,Peabody,4306,7,0,Merrimack Valley,Northeastern,3:45 P.M.,,0
-2026-06-02,120117,FINAL,Walpole,4404,7,1,Plymouth South,4316,2,0,Bay State,Patriot,4:00 P.M.,,0
-2026-06-02,120126,FINAL,Marshfield,4234,3,1,Agawam,4004,2,0,Patriot,Independent,4:00 P.M.,,0
-2026-06-02,120261,FINAL,Foxborough,4142,4,1,Lynnfield,4223,0,0,Hockomock,Cape Ann,4:00 P.M.,,0
-2026-06-02,120396,FINAL,Seekonk,4344,10,1,Cohasset,4094,7,0,South Coast,South Shore,4:00 P.M.,,0
-2026-06-02,120465,FINAL,Monson,4429,14,1,Tahanto,4513,13,0,Independent,Mid-Wach,4:00 P.M.,,0
-2026-06-02,120471,FINAL,West Boylston,4414,2,0,Franklin County Tech,4145,4,1,Mid-Wach,Independent,4:00 P.M.,,0
-2026-06-02,120474,FINAL,Maynard,4239,11,1,McCann Tech,4240,1,0,Mid-Wach,Independent,4:00 P.M.,,0
+2026-06-02,120012,FINAL,Wachusett,4400,2.0,0.0,Franklin,4144,3.0,1.0,Mid-Wach,Hockomock,4:00 P.M.,,0
+2026-06-02,120018,FINAL,Attleboro,4018,7.0,1.0,Bishop Feehan,4042,1.0,0.0,Hockomock,Independent,4:00 P.M.,,0
+2026-06-02,120021,FINAL,Central Catholic,4081,13.0,1.0,Peabody,4306,7.0,0.0,Merrimack Valley,Northeastern,3:45 P.M.,,0
+2026-06-02,120117,FINAL,Walpole,4404,7.0,1.0,Plymouth South,4316,2.0,0.0,Bay State,Patriot,4:00 P.M.,,0
+2026-06-02,120126,FINAL,Marshfield,4234,3.0,1.0,Agawam,4004,2.0,0.0,Patriot,Independent,4:00 P.M.,,0
+2026-06-02,120261,FINAL,Foxborough,4142,4.0,1.0,Lynnfield,4223,0.0,0.0,Hockomock,Cape Ann,4:00 P.M.,,0
+2026-06-02,120396,FINAL,Seekonk,4344,10.0,1.0,Cohasset,4094,7.0,0.0,South Coast,South Shore,4:00 P.M.,,0
+2026-06-02,120465,FINAL,Monson,4429,14.0,1.0,Tahanto,4513,13.0,0.0,Independent,Mid-Wach,4:00 P.M.,,0
+2026-06-02,120471,FINAL,West Boylston,4414,2.0,0.0,Franklin County Tech,4145,4.0,1.0,Mid-Wach,Independent,4:00 P.M.,,0
+2026-06-02,120474,FINAL,Maynard,4239,11.0,1.0,McCann Tech,4240,1.0,0.0,Mid-Wach,Independent,4:00 P.M.,,0
 2026-06-03,120003,FINAL,Newton North,4279,9,1,Beverly,4038,0,0,Bay State,Northeastern,5:00 P.M.,,0
 2026-06-03,120006,FINAL,Hopkinton,4180,11,0,Malden Catholic,4228,12,1,Tri-Valley,Catholic Conference,4:00 P.M.,,0
 2026-06-03,120108,FINAL,Silver Lake,4349,6,1,Reading,4328,5,0,Patriot,Middlesex,4:00 P.M.,,0
@@ -3146,8 +3146,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-10,120204,FINAL,Norton,4295,1,0,Joseph Case,4078,3,1,Tri-Valley,South Coast,3:30 P.M.,,0
 2026-06-10,120444,FINAL,Georgetown,4148,6,0,Hopedale,4507,9,1,Cape Ann,CMAC,5:00 P.M.,,0
 2026-06-10,120447,FINAL,Maynard,4239,5,1,Lenox,4532,1,0,Mid-Wach,Independent,4:00 P.M.,,0
-2026-06-12,120201,UPCOMING,Joseph Case,4078,,,Apponequet,4011,,,South Coast,South Coast,4:00 P.M.,,0
-2026-06-12,120318,UPCOMING,Advanced Math and Science,4595,,,Tyngsborough,4397,,,CMAC,Mid-Wach,6:30 P.M.,,0
+2026-06-12,120201,FINAL,Joseph Case,4078,5,1,Apponequet,4011,1,0,South Coast,South Coast,4:00 P.M.,,0
+2026-06-12,120318,FINAL,Advanced Math and Science,4595,8,1,Tyngsborough,4397,2,0,CMAC,Mid-Wach,6:30 P.M.,,0
 2026-06-13,119982,UPCOMING,Taunton,4388,,,Attleboro,4018,,,Hockomock,Hockomock,5:00 P.M.,,0
 2026-06-13,120087,UPCOMING,King Philip,4197,,,Somerset Berkley,4350,,,Hockomock,South Coast,2:30 P.M.,,0
 2026-06-13,120441,UPCOMING,Hopedale,4507,,,Maynard,4239,,,CMAC,Mid-Wach,12:00 P.M.,,0

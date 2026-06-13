@@ -1,13 +1,11 @@
 # Baseball - 2026 Season
 
-Generated: 2026-06-12 14:08
+Generated: 2026-06-13 12:22
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-06-12 | 7:00 P.M. | Milton | King Philip | 60.8% | +3.1 |
-| 2026-06-12 | 4:00 P.M. | English High | Georgetown | 61.6% | +3.3 |
 | 2026-06-13 | 6:00 P.M. | Bishop Feehan | Catholic Memorial | 56.9% | +1.9 |
 | 2026-06-13 | 3:00 P.M. | Middleborough | Apponequet | 65.6% | +4.5 |
 | 2026-06-13 | 12:00 P.M. | Hamilton-Wenham | Seekonk | 78.5% | +9.0 |
@@ -16,6 +14,8 @@ Generated: 2026-06-12 14:08
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-06-12 | English High | 2 | Georgetown | 3 | +3.3 | -1.0 |
+| 2026-06-12 | Milton | 1 | King Philip | 4 | +3.1 | -3.0 |
 | 2026-06-09 | English High | 3 | Drury | 0 | +0.9 | +3.0 |
 | 2026-06-09 | Georgetown | 6 | Hopkins | 1 | -3.4 | +5.0 |
 | 2026-06-09 | Hamilton-Wenham | 10 | St. John Paul II | 0 | +6.8 | +10.0 |
@@ -26,10 +26,10 @@ Generated: 2026-06-12 14:08
 | 2026-06-09 | Longmeadow | 4 | King Philip | 5 | +4.5 | -1.0 |
 | 2026-06-09 | Catholic Memorial | 6 | Cambridge | 1 | -2.2 | +5.0 |
 | 2026-06-09 | Bishop Feehan | 6 | Xaverian | 3 | +2.6 | +3.0 |
-| 2026-06-07 | Hamilton-Wenham | 2 | Sandwich | 1 | +9.7 | +1.0 |
+| 2026-06-07 | Georgetown | 4 | West Boylston | 2 | -5.2 | +2.0 |
 | 2026-06-07 | English High | 10 | Hopedale | 0 | +2.5 | +10.0 |
 | 2026-06-07 | Hopkins | 4 | Maynard | 1 | +8.6 | +3.0 |
-| 2026-06-07 | Georgetown | 4 | West Boylston | 2 | -5.2 | +2.0 |
+| 2026-06-07 | Hamilton-Wenham | 2 | Sandwich | 1 | +9.7 | +1.0 |
 | 2026-06-07 | Millbury | 0 | St. John Paul II | 1 | +4.2 | -1.0 |
 | 2026-06-07 | Middleborough | 1 | Fairhaven | 0 | +3.7 | +1.0 |
 | 2026-06-07 | Xaverian | 7 | Leominster | 3 | +2.2 | +4.0 |
@@ -71,24 +71,24 @@ Generated: 2026-06-12 14:08
 | 18 | Gateway | 1704.5 |
 | 19 | Oxford | 1700.0 |
 | 20 | Gloucester | 1699.7 |
-| 21 | English High | 1698.1 |
-| 22 | Pingree | 1694.7 |
-| 23 | Swampscott | 1690.2 |
-| 24 | Pittsfield | 1689.3 |
-| 25 | Drury | 1685.6 |
-| 26 | Charlestown | 1685.6 |
+| 21 | Pingree | 1694.7 |
+| 22 | Swampscott | 1690.2 |
+| 23 | Pittsfield | 1689.3 |
+| 24 | Drury | 1685.6 |
+| 25 | Charlestown | 1685.6 |
+| 26 | English High | 1685.2 |
 | 27 | Newton South | 1684.7 |
 | 28 | Longmeadow | 1679.1 |
-| 29 | St. John Paul II | 1675.0 |
-| 30 | St. Mark’s | 1674.7 |
-| 31 | Springfield Central | 1672.7 |
-| 32 | Mt. Everett | 1672.4 |
-| 33 | Doherty | 1671.1 |
-| 34 | Dennis-Yarmouth | 1669.6 |
-| 35 | Milton | 1669.5 |
+| 29 | Georgetown | 1678.8 |
+| 30 | St. John Paul II | 1675.0 |
+| 31 | St. Mark’s | 1674.7 |
+| 32 | Springfield Central | 1672.7 |
+| 33 | Mt. Everett | 1672.4 |
+| 34 | Doherty | 1671.1 |
+| 35 | Dennis-Yarmouth | 1669.6 |
 | 36 | Falmouth | 1668.5 |
-| 37 | Nipmuc | 1667.1 |
-| 38 | Georgetown | 1666.0 |
+| 37 | King Philip | 1668.4 |
+| 38 | Nipmuc | 1667.1 |
 | 39 | Taunton | 1664.1 |
 | 40 | Shrewsbury | 1663.8 |
 | 41 | Winchester | 1662.9 |
@@ -99,8 +99,8 @@ Generated: 2026-06-12 14:08
 | 46 | St. John’s (Shrewsbury) | 1654.3 |
 | 47 | Greater Lowell | 1650.1 |
 | 48 | Bishop Fenwick | 1644.3 |
-| 49 | Natick | 1644.1 |
-| 50 | King Philip | 1643.1 |
+| 49 | Milton | 1644.2 |
+| 50 | Natick | 1644.1 |
 | 51 | Clinton | 1640.9 |
 | 52 | East Bridgewater | 1635.8 |
 | 53 | Bishop Stang | 1635.7 |
@@ -231,12 +231,12 @@ Generated: 2026-06-12 14:08
 | 178 | Hampshire | 1505.6 |
 | 179 | North Andover | 1501.3 |
 | 180 | Maimonides | 1500.3 |
-| 181 | Cape Cod Academy | 1500.0 |
-| 182 | Cristo Rey | 1500.0 |
-| 183 | Londonderry (N.H.) | 1500.0 |
-| 184 | Sturgis East | 1500.0 |
-| 185 | Portsmouth (R.I.) | 1500.0 |
-| 186 | South Shore Christian | 1500.0 |
+| 181 | Londonderry (N.H.) | 1500.0 |
+| 182 | South Shore Christian | 1500.0 |
+| 183 | Cristo Rey | 1500.0 |
+| 184 | Portsmouth (R.I.) | 1500.0 |
+| 185 | Cape Cod Academy | 1500.0 |
+| 186 | Sturgis East | 1500.0 |
 | 187 | KIPP | 1500.0 |
 | 188 | Upper Cape | 1498.2 |
 | 189 | Canton | 1497.5 |

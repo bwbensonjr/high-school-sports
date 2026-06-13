@@ -1608,18 +1608,18 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-01,118789,FINAL,Lenox,4532,3.0,1.0,Sutton,4512,2.0,0.0,Independent,Independent,4:00 P.M.,,0
 2026-06-01,118792,FINAL,Cohasset,4094,4.0,1.0,Rockport,4490,1.0,0.0,South Shore,Cape Ann,4:30 P.M.,,0
 2026-06-01,118807,FINAL,Hamilton-Wenham,4163,5.0,1.0,Ipswich,4190,0.0,0.0,Cape Ann,Cape Ann,3:30 P.M.,,0
-2026-06-02,118462,FINAL,Newton South,4280,3,1,Shrewsbury,4348,2,0,Dual County,Mid-Wach,4:30 P.M.,,0
-2026-06-02,118474,FINAL,Westford,4421,4,1,St. John’s (Shrewsbury),4368,1,0,Dual County,Catholic Conference,3:30 P.M.,,0
-2026-06-02,118477,FINAL,Lexington,4209,5,1,Arlington,4013,0,0,Middlesex,Middlesex,4:00 P.M.,,0
-2026-06-02,118579,FINAL,Walpole,4404,4,1,Burlington,4065,1,0,Bay State,Middlesex,4:00 P.M.,,0
-2026-06-02,118582,FINAL,Duxbury,4123,4,1,Canton,4071,1,0,Patriot,Hockomock,4:00 P.M.,,0
-2026-06-02,118588,FINAL,Westborough,4418,5,1,Plymouth South,4316,0,0,Mid-Wach,Patriot,4:00 P.M.,,0
-2026-06-02,118669,FINAL,Wilmington,4432,1,0,Medfield,4241,4,1,Middlesex,Tri-Valley,4:00 P.M.,,0
-2026-06-02,118687,FINAL,Wayland,4411,5,1,North Reading,4288,0,0,Dual County,Cape Ann,4:00 P.M.,,0
-2026-06-02,118690,FINAL,Weston,4423,5,1,Gloucester,4150,0,0,Dual County,Northeastern,4:00 P.M.,,0
-2026-06-02,118798,FINAL,Mt. Greylock,4262,5,1,Bromfield,4505,0,0,Independent,Mid-Wach,4:00 P.M.,,0
-2026-06-02,118801,FINAL,Pioneer Valley Chinese Immersion,4955,5,1,Bourne,4050,0,0,Independent,South Coast,4:30 P.M.,,0
-2026-06-02,118804,FINAL,Mystic Valley,4264,5,1,Leicester,4207,0,0,Cape Ann,Independent,4:30 P.M.,,0
+2026-06-02,118462,FINAL,Newton South,4280,3.0,1.0,Shrewsbury,4348,2.0,0.0,Dual County,Mid-Wach,4:30 P.M.,,0
+2026-06-02,118474,FINAL,Westford,4421,4.0,1.0,St. John’s (Shrewsbury),4368,1.0,0.0,Dual County,Catholic Conference,3:30 P.M.,,0
+2026-06-02,118477,FINAL,Lexington,4209,5.0,1.0,Arlington,4013,0.0,0.0,Middlesex,Middlesex,4:00 P.M.,,0
+2026-06-02,118579,FINAL,Walpole,4404,4.0,1.0,Burlington,4065,1.0,0.0,Bay State,Middlesex,4:00 P.M.,,0
+2026-06-02,118582,FINAL,Duxbury,4123,4.0,1.0,Canton,4071,1.0,0.0,Patriot,Hockomock,4:00 P.M.,,0
+2026-06-02,118588,FINAL,Westborough,4418,5.0,1.0,Plymouth South,4316,0.0,0.0,Mid-Wach,Patriot,4:00 P.M.,,0
+2026-06-02,118669,FINAL,Wilmington,4432,1.0,0.0,Medfield,4241,4.0,1.0,Middlesex,Tri-Valley,4:00 P.M.,,0
+2026-06-02,118687,FINAL,Wayland,4411,5.0,1.0,North Reading,4288,0.0,0.0,Dual County,Cape Ann,4:00 P.M.,,0
+2026-06-02,118690,FINAL,Weston,4423,5.0,1.0,Gloucester,4150,0.0,0.0,Dual County,Northeastern,4:00 P.M.,,0
+2026-06-02,118798,FINAL,Mt. Greylock,4262,5.0,1.0,Bromfield,4505,0.0,0.0,Independent,Mid-Wach,4:00 P.M.,,0
+2026-06-02,118801,FINAL,Pioneer Valley Chinese Immersion,4955,5.0,1.0,Bourne,4050,0.0,0.0,Independent,South Coast,4:30 P.M.,,0
+2026-06-02,118804,FINAL,Mystic Valley,4264,5.0,1.0,Leicester,4207,0.0,0.0,Cape Ann,Independent,4:30 P.M.,,0
 2026-06-03,118570,FINAL,Sharon,4345,5,1,Algonquin,4005,0,0,Hockomock,Mid-Wach,3:15 P.M.,,0
 2026-06-03,118657,FINAL,Bedford,4031,5,1,East Longmeadow,4127,0,0,Dual County,Independent,,,0
 2026-06-03,118684,FINAL,Newburyport,4276,3,1,Martha’s Vineyard,4235,2,0,Cape Ann,Cape & Islands,4:00 P.M.,,0

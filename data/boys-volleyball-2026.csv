@@ -1089,16 +1089,16 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-01,119230,FINAL,Marlborough,4233,3.0,1.0,Granby,4520,1.0,0.0,Mid-Wach,Independent,5:00 P.M.,,0
 2026-06-01,119245,FINAL,Westfield,4419,3.0,1.0,Springfield International,4480,1.0,0.0,Independent,Independent,5:30 P.M.,,0
 2026-06-01,119266,FINAL,Latin Academy,4202,3.0,1.0,East Longmeadow,4127,0.0,0.0,Boston City,Independent,4:00 P.M.,,0
-2026-06-02,119101,FINAL,Lowell,4216,3,1,Cambridge,4067,1,0,Merrimack Valley,Dual County,5:00 P.M.,,0
-2026-06-02,119104,FINAL,Newton South,4280,3,1,Acton-Boxborough,4003,0,0,Dual County,Dual County,5:30 P.M.,,0
-2026-06-02,119107,FINAL,Agawam,4004,3,1,Methuen,4246,0,0,Independent,Merrimack Valley,5:00 P.M.,,0
-2026-06-02,119113,FINAL,Chelmsford,4085,3,1,West Springfield,4417,0,0,Merrimack Valley,Independent,5:30 P.M.,,0
-2026-06-02,119116,FINAL,Natick,4270,3,1,Barnstable,4024,0,0,Bay State,Independent,5:00 P.M.,,0
-2026-06-02,119122,FINAL,Needham,4272,3,1,North Andover,4283,0,0,Bay State,Merrimack Valley,4:30 P.M.,,0
-2026-06-02,119227,FINAL,Longmeadow,4214,3,1,Pioneer Valley Christian,4535,0,0,Independent,Independent,5:00 P.M.,,0
-2026-06-02,119239,FINAL,Milford,4249,3,1,Burlington,4065,1,0,Hockomock,Middlesex,3:45 P.M.,,0
-2026-06-02,119242,FINAL,Chicopee Comprehensive,4089,3,1,Dracut,4119,0,0,Independent,Merrimack Valley,6:00 P.M.,,0
-2026-06-02,119248,FINAL,Wayland,4411,3,1,Greater Lowell,4155,0,0,Dual County,Commonwealth,4:00 P.M.,,0
+2026-06-02,119101,FINAL,Lowell,4216,3.0,1.0,Cambridge,4067,1.0,0.0,Merrimack Valley,Dual County,5:00 P.M.,,0
+2026-06-02,119104,FINAL,Newton South,4280,3.0,1.0,Acton-Boxborough,4003,0.0,0.0,Dual County,Dual County,5:30 P.M.,,0
+2026-06-02,119107,FINAL,Agawam,4004,3.0,1.0,Methuen,4246,0.0,0.0,Independent,Merrimack Valley,5:00 P.M.,,0
+2026-06-02,119113,FINAL,Chelmsford,4085,3.0,1.0,West Springfield,4417,0.0,0.0,Merrimack Valley,Independent,5:30 P.M.,,0
+2026-06-02,119116,FINAL,Natick,4270,3.0,1.0,Barnstable,4024,0.0,0.0,Bay State,Independent,5:00 P.M.,,0
+2026-06-02,119122,FINAL,Needham,4272,3.0,1.0,North Andover,4283,0.0,0.0,Bay State,Merrimack Valley,4:30 P.M.,,0
+2026-06-02,119227,FINAL,Longmeadow,4214,3.0,1.0,Pioneer Valley Christian,4535,0.0,0.0,Independent,Independent,5:00 P.M.,,0
+2026-06-02,119239,FINAL,Milford,4249,3.0,1.0,Burlington,4065,1.0,0.0,Hockomock,Middlesex,3:45 P.M.,,0
+2026-06-02,119242,FINAL,Chicopee Comprehensive,4089,3.0,1.0,Dracut,4119,0.0,0.0,Independent,Merrimack Valley,6:00 P.M.,,0
+2026-06-02,119248,FINAL,Wayland,4411,3.0,1.0,Greater Lowell,4155,0.0,0.0,Dual County,Commonwealth,4:00 P.M.,,0
 2026-06-03,119110,FINAL,Lexington,4209,2,0,Newton North,4279,3,1,Middlesex,Bay State,5:00 P.M.,,0
 2026-06-03,119236,FINAL,Medfield,4241,2,0,Norton,4295,3,1,Tri-Valley,Tri-Valley,5:30 P.M.,,0
 2026-06-04,119095,FINAL,Natick,4270,3,1,Agawam,4004,1,0,Bay State,Independent,6:00 P.M.,,0
@@ -1115,4 +1115,4 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-09,119209,FINAL,Westfield,4419,3,1,Chicopee Comprehensive,4089,0,0,Independent,Independent,6:00 P.M.,,0
 2026-06-09,119212,FINAL,Wayland,4411,3,1,Milford,4249,0,0,Dual County,Hockomock,7:00 P.M.,,0
 2026-06-11,119206,FINAL,Wayland,4411,3,1,Westfield,4419,1,0,Dual County,Independent,6:00 P.M.,,0
-2026-06-12,119080,UPCOMING,Needham,4272,,,Brookline,4059,,,Bay State,Bay State,6:00 P.M.,,0
+2026-06-12,119080,SUSPENDED,Needham,4272,1,,Brookline,4059,0,,Bay State,Bay State,6:00 P.M.,,0

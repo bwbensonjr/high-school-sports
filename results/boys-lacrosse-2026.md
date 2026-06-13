@@ -1,13 +1,11 @@
 # Boys Lacrosse - 2026 Season
 
-Generated: 2026-06-12 14:08
+Generated: 2026-06-13 12:22
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-06-12 | 7:00 P.M. | Longmeadow | Mansfield | 51.4% | +0.4 |
-| 2026-06-12 | 4:30 P.M. | Lincoln-Sudbury | BC High | 76.2% | +8.1 |
 | 2026-06-13 | 11:00 A.M. | Dracut | Scituate | 73.9% | +7.2 |
 | 2026-06-13 | 1:30 P.M. | Cohasset | Nantucket | 53.6% | +1.0 |
 
@@ -15,38 +13,35 @@ Generated: 2026-06-12 14:08
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-06-12 | Lincoln-Sudbury | 9 | BC High | 10 | +8.1 | -1.0 |
+| 2026-06-12 | Longmeadow | 10 | Mansfield | 5 | +0.4 | +5.0 |
 | 2026-06-10 | Dracut | 11 | Medfield | 7 | +5.3 | +4.0 |
 | 2026-06-10 | Norwell | 8 | Scituate | 12 | +4.8 | -4.0 |
+| 2026-06-09 | Longmeadow | 13 | Marshfield | 7 | +5.3 | +6.0 |
 | 2026-06-09 | Nantucket | 8 | Manchester Essex | 4 | +3.3 | +4.0 |
 | 2026-06-09 | Lincoln-Sudbury | 17 | Acton-Boxborough | 5 | +2.2 | +12.0 |
 | 2026-06-09 | St. John’s Prep | 10 | BC High | 11 | +7.4 | -1.0 |
 | 2026-06-09 | Walpole | 1 | Mansfield | 9 | -2.4 | -8.0 |
-| 2026-06-09 | Longmeadow | 13 | Marshfield | 7 | +5.3 | +6.0 |
 | 2026-06-08 | Dracut | 7 | Wakefield | 4 | +7.0 | +3.0 |
 | 2026-06-07 | Medfield | 11 | Falmouth | 5 | +0.8 | +6.0 |
+| 2026-06-06 | Billerica | 8 | Walpole | 14 | +5.1 | -6.0 |
 | 2026-06-06 | Manchester Essex | 10 | Abington | 6 | +3.3 | +4.0 |
 | 2026-06-06 | Nantucket | 10 | Pentucket | 9 | +8.2 | +1.0 |
 | 2026-06-06 | Lincoln-Sudbury | 17 | Xaverian | 8 | +15.8 | +9.0 |
 | 2026-06-06 | St. John’s Prep | 15 | Winchester | 2 | +4.1 | +13.0 |
 | 2026-06-06 | Acton-Boxborough | 11 | Bishop Feehan | 7 | +5.5 | +4.0 |
 | 2026-06-06 | Norwell | 7 | Weston | 5 | +1.3 | +2.0 |
-| 2026-06-06 | Billerica | 8 | Walpole | 14 | +5.1 | -6.0 |
 | 2026-06-06 | Longmeadow | 9 | Hingham | 7 | +7.1 | +2.0 |
-| 2026-06-05 | Scituate | 11 | Shawsheen | 6 | -6.9 | +5.0 |
-| 2026-06-05 | Cohasset | 19 | Bourne/Mashpee | 6 | -0.9 | +13.0 |
-| 2026-06-05 | Ipswich | 14 | Winthrop | 8 | +0.8 | +6.0 |
-| 2026-06-05 | Andover | 7 | BC High | 8 | +2.8 | -1.0 |
-| 2026-06-05 | Mansfield | 8 | Duxbury | 6 | +7.1 | +2.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Dracut | 1877.5 |
-| 2 | Lincoln-Sudbury | 1866.9 |
-| 3 | Mansfield | 1864.8 |
-| 4 | Shawsheen | 1858.9 |
-| 5 | Longmeadow | 1824.3 |
+| 2 | Shawsheen | 1858.9 |
+| 3 | Lincoln-Sudbury | 1851.0 |
+| 4 | Longmeadow | 1850.4 |
+| 5 | Mansfield | 1838.7 |
 | 6 | St. John’s Prep | 1817.5 |
 | 7 | Acton-Boxborough | 1797.5 |
 | 8 | Nantucket | 1778.7 |
@@ -60,12 +55,12 @@ Generated: 2026-06-12 14:08
 | 16 | Scituate | 1746.9 |
 | 17 | Bourne/Mashpee | 1742.5 |
 | 18 | Ipswich | 1739.8 |
-| 19 | Billerica | 1726.3 |
-| 20 | Winchester | 1724.8 |
-| 21 | Tabor | 1723.6 |
-| 22 | Winthrop | 1715.1 |
-| 23 | Westwood | 1715.0 |
-| 24 | BC High | 1714.5 |
+| 19 | BC High | 1730.3 |
+| 20 | Billerica | 1726.3 |
+| 21 | Winchester | 1724.8 |
+| 22 | Tabor | 1723.6 |
+| 23 | Winthrop | 1715.1 |
+| 24 | Westwood | 1715.0 |
 | 25 | Wakefield | 1714.2 |
 | 26 | Bishop Feehan | 1711.3 |
 | 27 | Bishop Stang | 1708.3 |
@@ -180,10 +175,10 @@ Generated: 2026-06-12 14:08
 | 136 | South Hadley | 1504.0 |
 | 137 | Moses Brown (R.I.) | 1503.2 |
 | 138 | Landmark | 1501.3 |
-| 139 | Bourne | 1500.0 |
-| 140 | Latin Academy | 1500.0 |
-| 141 | St. Anthony’s (N.Y.) | 1500.0 |
-| 142 | Everett | 1500.0 |
+| 139 | Everett | 1500.0 |
+| 140 | St. Anthony’s (N.Y.) | 1500.0 |
+| 141 | Latin Academy | 1500.0 |
+| 142 | Bourne | 1500.0 |
 | 143 | Mashpee | 1500.0 |
 | 144 | West Springfield | 1499.6 |
 | 145 | North Andover | 1496.9 |

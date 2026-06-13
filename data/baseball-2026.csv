@@ -3170,8 +3170,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-01,119941,FINAL,Westfield Tech,4420,4.0,1.0,Cape Cod Tech,4073,1.0,0.0,Independent,Mayflower,3:30 P.M.,,0
 2026-06-01,119944,FINAL,Ware,4406,0.0,0.0,Keefe Tech,4191,1.0,1.0,Bi-County,CMAC,7:30 P.M.,,0
 2026-06-01,119947,FINAL,Drury,4120,20.0,1.0,Athol,4017,2.0,0.0,Independent,Hampshire,4:30 P.M.,,0
-2026-06-02,119653,FINAL,Fairhaven,4133,1,1,Taconic,4385,0,0,South Coast,Independent,4:00 P.M.,,0
-2026-06-02,119665,FINAL,Gloucester,4150,2,1,Nauset,4271,0,0,Northeastern,Cape & Islands,3:30 P.M.,,0
+2026-06-02,119653,FINAL,Fairhaven,4133,1.0,1.0,Taconic,4385,0.0,0.0,South Coast,Independent,4:00 P.M.,,0
+2026-06-02,119665,FINAL,Gloucester,4150,2.0,1.0,Nauset,4271,0.0,0.0,Northeastern,Cape & Islands,3:30 P.M.,,0
 2026-06-03,119395,FINAL,Cambridge,4067,10,1,Natick,4270,8,0,Dual County,Bay State,6:00 P.M.,,0
 2026-06-03,119407,FINAL,St. John’s (Shrewsbury),4368,10,1,Wellesley,4413,3,0,Catholic Conference,Bay State,4:00 P.M.,,0
 2026-06-03,119410,FINAL,Leominster,4208,7,1,North Quincy,4287,6,0,Mid-Wach,Patriot,6:00 P.M.,,0
@@ -3242,8 +3242,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-09,119734,FINAL,Hamilton-Wenham,4163,10,1,St. John Paul II,4689,0,0,Cape Ann,Cape & Islands,7:00 P.M.,,0
 2026-06-09,119869,FINAL,Georgetown,4148,6,1,Hopkins,4531,1,0,Cape Ann,Hampshire,4:00 P.M.,,0
 2026-06-09,119872,FINAL,English High,4048,3,1,Drury,4120,0,0,Boston City,Independent,2:00 P.M.,,0
-2026-06-12,119485,UPCOMING,Milton,4252,,,King Philip,4197,,,Bay State,Hockomock,7:00 P.M.,,0
-2026-06-12,119866,UPCOMING,English High,4048,,,Georgetown,4148,,,Boston City,Cape Ann,4:00 P.M.,,0
+2026-06-12,119485,FINAL,Milton,4252,1,0,King Philip,4197,4,1,Bay State,Hockomock,7:00 P.M.,,0
+2026-06-12,119866,FINAL,English High,4048,2,0,Georgetown,4148,3,1,Boston City,Cape Ann,4:00 P.M.,,0
 2026-06-13,119374,UPCOMING,Bishop Feehan,4042,,,Catholic Memorial,4080,,,Independent,Catholic Conference,6:00 P.M.,,0
 2026-06-13,119593,UPCOMING,Middleborough,4247,,,Apponequet,4011,,,South Shore,South Coast,3:00 P.M.,,0
 2026-06-13,119728,UPCOMING,Hamilton-Wenham,4163,,,Seekonk,4344,,,Cape Ann,South Coast,12:00 P.M.,,0

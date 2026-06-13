@@ -1,13 +1,13 @@
 # Girls Tennis - 2026 Season
 
-Generated: 2026-06-12 14:08
+Generated: 2026-06-13 12:23
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
 | 2026-06-13 | 9:00 A.M. | Newton South | Boston Latin | 63.6% | +3.9 |
-| 2026-06-13 | 11:30 P.M. | Notre Dame (Hingham) | Bedford | 72.3% | +6.7 |
+| 2026-06-13 | 11:30 A.M. | Notre Dame (Hingham) | Bedford | 72.3% | +6.7 |
 | 2026-06-13 | 2:00 P.M. | Martha’s Vineyard | Dover-Sherborn | 56.7% | +1.9 |
 | 2026-06-13 | 4:30 P.M. | Hamilton-Wenham | Manchester Essex | 55.4% | +1.5 |
 | 2026-06-18 | 3:30 P.M. | North Andover | Central Catholic | 26.6% | -7.1 |
@@ -16,23 +16,16 @@ Generated: 2026-06-12 14:08
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-06-10 | Hamilton-Wenham | 3 | Bromfield | 2 | +8.2 | +1.0 |
-| 2026-06-10 | Dover-Sherborn | 3 | Swampscott | 2 | +2.1 | +1.0 |
 | 2026-06-10 | Winchester | 2 | Boston Latin | 3 | +5.4 | -1.0 |
-| 2026-06-09 | Martha’s Vineyard | 5 | Weston | 0 | +15.4 | +5.0 |
-| 2026-06-09 | Notre Dame (Hingham) | 3 | Hingham | 2 | +2.5 | +1.0 |
+| 2026-06-10 | Dover-Sherborn | 3 | Swampscott | 2 | +2.1 | +1.0 |
+| 2026-06-10 | Hamilton-Wenham | 3 | Bromfield | 2 | +8.2 | +1.0 |
 | 2026-06-09 | Bedford | 3 | Duxbury | 2 | -2.6 | +1.0 |
+| 2026-06-09 | Notre Dame (Hingham) | 3 | Hingham | 2 | +2.5 | +1.0 |
+| 2026-06-09 | Martha’s Vineyard | 5 | Weston | 0 | +15.4 | +5.0 |
 | 2026-06-08 | Newton South | 5 | Westford | 0 | +1.5 | +5.0 |
 | 2026-06-08 | Manchester Essex | 3 | Ipswich | 2 | +5.3 | +1.0 |
-| 2026-06-06 | Ursuline | 2 | Weston | 3 | +12.8 | -1.0 |
 | 2026-06-06 | Newton South | 4 | Wellesley | 1 | +4.4 | +3.0 |
-| 2026-06-05 | Duxbury | 4 | Longmeadow | 1 | +7.6 | +3.0 |
-| 2026-06-05 | Hamilton-Wenham | 4 | Hopedale | 1 | +7.3 | +3.0 |
-| 2026-06-05 | Manchester Essex | 5 | Lenox | 0 | +6.2 | +5.0 |
-| 2026-06-05 | Martha’s Vineyard | 4 | Wilmington | 1 | +9.8 | +3.0 |
-| 2026-06-05 | Dover-Sherborn | 4 | Old Rochester | 1 | +1.0 | +3.0 |
-| 2026-06-05 | Notre Dame (Hingham) | 5 | Scituate | 0 | +4.6 | +5.0 |
-| 2026-06-05 | Bedford | 3 | Westwood | 2 | -0.8 | +1.0 |
+| 2026-06-06 | Ursuline | 2 | Weston | 3 | +12.8 | -1.0 |
 
 ## Current Elo Ratings
 

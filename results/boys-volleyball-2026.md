@@ -1,12 +1,11 @@
 # Boys Volleyball - 2026 Season
 
-Generated: 2026-06-12 14:08
+Generated: 2026-06-13 12:23
 
 ## Upcoming Games
 
-| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
-|------|------|-----------|-----------|------------|------------------|
-| 2026-06-12 | 6:00 P.M. | Needham | Brookline | 63.8% | +3.9 |
+*No upcoming games scheduled*
+
 
 ## Recent Games
 
@@ -18,10 +17,6 @@ Generated: 2026-06-12 14:08
 | 2026-06-09 | Westfield | 3 | Chicopee Comprehensive | 0 | +6.2 | +3.0 |
 | 2026-06-09 | Wayland | 3 | Milford | 0 | +6.9 | +3.0 |
 | 2026-06-07 | Chicopee Comprehensive | 3 | Latin Academy | 0 | +2.0 | +3.0 |
-| 2026-06-05 | Chelmsford | 1 | Newton North | 3 | +11.1 | -2.0 |
-| 2026-06-05 | Brookline | 3 | Newton South | 1 | +5.1 | +2.0 |
-| 2026-06-05 | Needham | 3 | Lowell | 0 | +3.6 | +3.0 |
-| 2026-06-05 | Milford | 3 | Norton | 0 | +0.6 | +3.0 |
 
 ## Current Elo Ratings
 
@@ -96,8 +91,8 @@ Generated: 2026-06-12 14:08
 | 67 | Burlington | 1502.4 |
 | 68 | Keefe Tech | 1502.3 |
 | 69 | Minnechaug | 1501.0 |
-| 70 | Phillips Andover | 1500.0 |
-| 71 | Walpole | 1500.0 |
+| 70 | Walpole | 1500.0 |
+| 71 | Phillips Andover | 1500.0 |
 | 72 | Bay Path | 1499.1 |
 | 73 | North Middlesex | 1496.5 |
 | 74 | Boston Latin | 1495.5 |
