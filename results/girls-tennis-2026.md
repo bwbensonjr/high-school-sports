@@ -1,21 +1,21 @@
 # Girls Tennis - 2026 Season
 
-Generated: 2026-06-13 12:23
+Generated: 2026-06-14 12:59
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-06-13 | 9:00 A.M. | Newton South | Boston Latin | 63.6% | +3.9 |
-| 2026-06-13 | 11:30 A.M. | Notre Dame (Hingham) | Bedford | 72.3% | +6.7 |
-| 2026-06-13 | 2:00 P.M. | Martha’s Vineyard | Dover-Sherborn | 56.7% | +1.9 |
-| 2026-06-13 | 4:30 P.M. | Hamilton-Wenham | Manchester Essex | 55.4% | +1.5 |
 | 2026-06-18 | 3:30 P.M. | North Andover | Central Catholic | 26.6% | -7.1 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-06-13 | Newton South | 5 | Boston Latin | 0 | +3.9 | +5.0 |
+| 2026-06-13 | Notre Dame (Hingham) | 4 | Bedford | 1 | +6.7 | +3.0 |
+| 2026-06-13 | Martha’s Vineyard | 3 | Dover-Sherborn | 2 | +1.9 | +1.0 |
+| 2026-06-13 | Hamilton-Wenham | 2 | Manchester Essex | 3 | +1.5 | -1.0 |
 | 2026-06-10 | Winchester | 2 | Boston Latin | 3 | +5.4 | -1.0 |
 | 2026-06-10 | Dover-Sherborn | 3 | Swampscott | 2 | +2.1 | +1.0 |
 | 2026-06-10 | Hamilton-Wenham | 3 | Bromfield | 2 | +8.2 | +1.0 |
@@ -24,30 +24,28 @@ Generated: 2026-06-13 12:23
 | 2026-06-09 | Martha’s Vineyard | 5 | Weston | 0 | +15.4 | +5.0 |
 | 2026-06-08 | Newton South | 5 | Westford | 0 | +1.5 | +5.0 |
 | 2026-06-08 | Manchester Essex | 3 | Ipswich | 2 | +5.3 | +1.0 |
-| 2026-06-06 | Newton South | 4 | Wellesley | 1 | +4.4 | +3.0 |
-| 2026-06-06 | Ursuline | 2 | Weston | 3 | +12.8 | -1.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Dover-Sherborn | 1795.3 |
-| 2 | Martha’s Vineyard | 1792.2 |
+| 1 | Newton South | 1801.9 |
+| 2 | Martha’s Vineyard | 1801.2 |
 | 3 | Winchester | 1791.5 |
-| 4 | Newton South | 1782.4 |
-| 5 | Swampscott | 1774.0 |
-| 6 | Old Rochester | 1772.2 |
-| 7 | Notre Dame (Hingham) | 1766.1 |
+| 4 | Dover-Sherborn | 1786.3 |
+| 5 | Notre Dame (Hingham) | 1777.6 |
+| 6 | Swampscott | 1774.0 |
+| 7 | Old Rochester | 1772.2 |
 | 8 | Westford | 1746.9 |
 | 9 | Duxbury | 1739.3 |
-| 10 | Hingham | 1736.6 |
-| 11 | Boston Latin | 1735.1 |
-| 12 | Manchester Essex | 1727.6 |
-| 13 | Lexington | 1724.9 |
-| 14 | Lynnfield | 1724.1 |
-| 15 | Hamilton-Wenham | 1715.3 |
-| 16 | Andover | 1715.3 |
-| 17 | Needham | 1711.3 |
+| 10 | Manchester Essex | 1739.1 |
+| 11 | Hingham | 1736.6 |
+| 12 | Lexington | 1724.9 |
+| 13 | Lynnfield | 1724.1 |
+| 14 | Boston Latin | 1715.5 |
+| 15 | Andover | 1715.3 |
+| 16 | Needham | 1711.3 |
+| 17 | Hamilton-Wenham | 1703.8 |
 | 18 | Sharon | 1701.4 |
 | 19 | Monomoy | 1689.4 |
 | 20 | Ursuline | 1687.3 |
@@ -57,11 +55,11 @@ Generated: 2026-06-13 12:23
 | 24 | Somerville | 1658.9 |
 | 25 | Hopkinton | 1658.5 |
 | 26 | Scituate | 1657.0 |
-| 27 | Bedford | 1649.6 |
-| 28 | Bishop Fenwick | 1649.5 |
-| 29 | Norwell | 1648.8 |
-| 30 | Thayer | 1645.4 |
-| 31 | Central Catholic | 1640.0 |
+| 27 | Bishop Fenwick | 1649.5 |
+| 28 | Norwell | 1648.8 |
+| 29 | Thayer | 1645.4 |
+| 30 | Central Catholic | 1640.0 |
+| 31 | Bedford | 1638.1 |
 | 32 | Ipswich | 1631.2 |
 | 33 | Oliver Ames | 1616.8 |
 | 34 | Latin Academy/East Boston/O’Bryant | 1610.1 |

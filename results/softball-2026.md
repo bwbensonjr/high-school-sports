@@ -1,24 +1,24 @@
 # Softball - 2026 Season
 
-Generated: 2026-06-13 12:23
+Generated: 2026-06-14 12:59
 
 ## Upcoming Games
 
-| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
-|------|------|-----------|-----------|------------|------------------|
-| 2026-06-13 | 5:00 P.M. | Taunton | Attleboro | 76.1% | +8.1 |
-| 2026-06-13 | 2:30 P.M. | King Philip | Somerset Berkley | 71.8% | +6.5 |
-| 2026-06-13 | 12:00 P.M. | Hopedale | Maynard | 51.5% | +0.4 |
+*No upcoming games scheduled*
+
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-06-13 | Hopedale | 2 | Maynard | 4 | +0.4 | -2.0 |
+| 2026-06-13 | King Philip | 14 | Somerset Berkley | 1 | +6.5 | +13.0 |
+| 2026-06-13 | Taunton | 10 | Attleboro | 8 | +8.1 | +2.0 |
 | 2026-06-12 | Advanced Math and Science | 8 | Tyngsborough | 2 | +1.6 | +6.0 |
 | 2026-06-12 | Joseph Case | 5 | Apponequet | 1 | +6.9 | +4.0 |
+| 2026-06-10 | Norton | 1 | Joseph Case | 3 | +3.7 | -2.0 |
 | 2026-06-10 | Maynard | 5 | Lenox | 1 | +7.2 | +4.0 |
 | 2026-06-10 | Georgetown | 6 | Hopedale | 9 | +3.6 | -3.0 |
-| 2026-06-10 | Norton | 1 | Joseph Case | 3 | +3.7 | -2.0 |
 | 2026-06-10 | King Philip | 12 | Shepherd Hill | 0 | +7.1 | +12.0 |
 | 2026-06-10 | Wakefield | 2 | Somerset Berkley | 3 | +5.2 | -1.0 |
 | 2026-06-10 | Taunton | 9 | Shrewsbury | 2 | +5.9 | +7.0 |
@@ -28,19 +28,6 @@ Generated: 2026-06-13 12:23
 | 2026-06-08 | Advanced Math and Science | 4 | Seekonk | 3 | +10.7 | +1.0 |
 | 2026-06-08 | Hampshire | 0 | Tyngsborough | 8 | -0.5 | -8.0 |
 | 2026-06-07 | Hopedale | 12 | Granby | 0 | -1.5 | +12.0 |
-| 2026-06-06 | Attleboro | 10 | Bridgewater-Raynham | 0 | +1.2 | +10.0 |
-| 2026-06-06 | Hoosac Valley | 2 | Lenox | 3 | +10.1 | -1.0 |
-| 2026-06-06 | Maynard | 4 | Franklin County Tech | 1 | +8.7 | +3.0 |
-| 2026-06-06 | Tyngsborough | 9 | East Bridgewater | 6 | +5.7 | +3.0 |
-| 2026-06-06 | Hampshire | 7 | Wahconah | 1 | +3.1 | +6.0 |
-| 2026-06-06 | Seekonk | 6 | West Bridgewater | 3 | +3.8 | +3.0 |
-| 2026-06-06 | Dighton-Rehoboth | 16 | St. Mary’s | 13 | +3.3 | +3.0 |
-| 2026-06-06 | Norton | 7 | Gloucester | 1 | +9.1 | +6.0 |
-| 2026-06-06 | Tantasqua | 2 | Apponequet | 4 | +1.0 | -2.0 |
-| 2026-06-06 | King Philip | 11 | Silver Lake | 0 | +4.5 | +11.0 |
-| 2026-06-06 | Somerset Berkley | 7 | Stoughton | 5 | +5.9 | +2.0 |
-| 2026-06-06 | Taunton | 12 | Newton North | 2 | +3.6 | +10.0 |
-| 2026-06-06 | Shrewsbury | 6 | Franklin | 5 | +8.0 | +1.0 |
 
 ## Current Elo Ratings
 
@@ -49,9 +36,9 @@ Generated: 2026-06-13 12:23
 | 1 | Central Catholic | 1904.5 |
 | 2 | Joseph Case | 1894.5 |
 | 3 | Norton | 1881.4 |
-| 4 | Taunton | 1867.6 |
+| 4 | Taunton | 1875.4 |
 | 5 | Advanced Math and Science | 1851.6 |
-| 6 | King Philip | 1827.7 |
+| 6 | King Philip | 1850.0 |
 | 7 | Phillips Andover | 1823.7 |
 | 8 | Malden Catholic | 1822.5 |
 | 9 | Marshfield | 1822.4 |
@@ -60,9 +47,9 @@ Generated: 2026-06-13 12:23
 | 12 | West Boylston | 1783.6 |
 | 13 | Hoosac Valley | 1771.5 |
 | 14 | Wakefield | 1768.1 |
-| 15 | Newton North | 1754.4 |
-| 16 | Tri-County | 1753.4 |
-| 17 | Maynard | 1747.3 |
+| 15 | Maynard | 1764.3 |
+| 16 | Newton North | 1754.4 |
+| 17 | Tri-County | 1753.4 |
 | 18 | Apponequet | 1746.5 |
 | 19 | St. Mary’s | 1740.6 |
 | 20 | McCann Tech | 1736.4 |
@@ -70,18 +57,18 @@ Generated: 2026-06-13 12:23
 | 22 | Cardinal Spellman | 1717.3 |
 | 23 | Hopkinton | 1716.4 |
 | 24 | Reading | 1716.2 |
-| 25 | Attleboro | 1716.2 |
-| 26 | Somerset Berkley | 1715.2 |
-| 27 | Frontier | 1712.0 |
-| 28 | Sandwich | 1710.8 |
-| 29 | Hampshire | 1709.5 |
-| 30 | Hopedale | 1707.6 |
-| 31 | Oxford | 1704.1 |
-| 32 | Gloucester | 1699.5 |
-| 33 | Chicopee | 1696.5 |
-| 34 | Georgetown | 1695.6 |
-| 35 | Nauset | 1695.1 |
-| 36 | Silver Lake | 1693.4 |
+| 25 | Frontier | 1712.0 |
+| 26 | Sandwich | 1710.8 |
+| 27 | Hampshire | 1709.5 |
+| 28 | Attleboro | 1708.3 |
+| 29 | Oxford | 1704.1 |
+| 30 | Gloucester | 1699.5 |
+| 31 | Chicopee | 1696.5 |
+| 32 | Georgetown | 1695.6 |
+| 33 | Nauset | 1695.1 |
+| 34 | Silver Lake | 1693.4 |
+| 35 | Somerset Berkley | 1692.9 |
+| 36 | Hopedale | 1690.6 |
 | 37 | Muniz | 1687.8 |
 | 38 | Tantasqua | 1685.6 |
 | 39 | East Bridgewater | 1685.2 |
@@ -216,11 +203,11 @@ Generated: 2026-06-13 12:23
 | 168 | Whitman-Hanson | 1505.7 |
 | 169 | Sturgis | 1502.8 |
 | 170 | Westfield Tech/St. Mary (Westfield) | 1502.7 |
-| 171 | Prospect Hill | 1500.0 |
-| 172 | Tiverton (R.I.) | 1500.0 |
-| 173 | Dover-Sherborn | 1500.0 |
-| 174 | St. John Paul II | 1500.0 |
-| 175 | Woodward | 1500.0 |
+| 171 | Tiverton (R.I.) | 1500.0 |
+| 172 | St. John Paul II | 1500.0 |
+| 173 | Prospect Hill | 1500.0 |
+| 174 | Woodward | 1500.0 |
+| 175 | Dover-Sherborn | 1500.0 |
 | 176 | Mt. Greylock | 1499.1 |
 | 177 | Ayer Shirley | 1498.5 |
 | 178 | Greenfield | 1497.6 |

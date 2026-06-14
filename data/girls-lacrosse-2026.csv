@@ -1970,12 +1970,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-02,117555,FINAL,Westford,4421,14.0,1.0,Franklin,4144,10.0,0.0,Dual County,Hockomock,4:00 P.M.,,0
 2026-06-02,117564,FINAL,Notre Dame (Hingham),4449,14.0,1.0,Lincoln-Sudbury,4211,4.0,0.0,Independent,Dual County,5:00 P.M.,,0
 2026-06-02,117660,FINAL,Duxbury,4123,13.0,1.0,Longmeadow,4214,12.0,0.0,Patriot,Independent,4:00 P.M.,,0
-2026-06-03,117663,FINAL,Reading,4328,7,1,Westborough,4418,6,0,Middlesex,Mid-Wach,6:00 P.M.,,0
-2026-06-03,117666,FINAL,Hingham,4171,16,1,Bedford,4031,7,0,Patriot,Dual County,4:00 P.M.,,0
-2026-06-03,117780,FINAL,Norwell,4296,14,1,Scituate,4343,6,0,South Shore,Patriot,4:00 P.M.,,0
-2026-06-03,117783,FINAL,Nashoba,4267,14,1,St. Mary’s,4374,11,0,Mid-Wach,Catholic Central,6:00 P.M.,,0
-2026-06-03,117786,FINAL,Cohasset,4094,20,1,Dover-Sherborn,4118,6,0,South Shore,Tri-Valley,4:30 P.M.,,0
-2026-06-03,117909,FINAL,Hamilton-Wenham,4163,8,0,Manchester Essex,4229,11,1,Cape Ann,Cape Ann,5:00 P.M.,,0
+2026-06-03,117663,FINAL,Reading,4328,7.0,1.0,Westborough,4418,6.0,0.0,Middlesex,Mid-Wach,6:00 P.M.,,0
+2026-06-03,117666,FINAL,Hingham,4171,16.0,1.0,Bedford,4031,7.0,0.0,Patriot,Dual County,4:00 P.M.,,0
+2026-06-03,117780,FINAL,Norwell,4296,14.0,1.0,Scituate,4343,6.0,0.0,South Shore,Patriot,4:00 P.M.,,0
+2026-06-03,117783,FINAL,Nashoba,4267,14.0,1.0,St. Mary’s,4374,11.0,0.0,Mid-Wach,Catholic Central,6:00 P.M.,,0
+2026-06-03,117786,FINAL,Cohasset,4094,20.0,1.0,Dover-Sherborn,4118,6.0,0.0,South Shore,Tri-Valley,4:30 P.M.,,0
+2026-06-03,117909,FINAL,Hamilton-Wenham,4163,8.0,0.0,Manchester Essex,4229,11.0,1.0,Cape Ann,Cape Ann,5:00 P.M.,,0
 2026-06-04,117558,FINAL,Chelmsford,4085,7,1,Wellesley,4413,6,0,Merrimack Valley,Bay State,6:00 P.M.,,0
 2026-06-04,117561,FINAL,Concord-Carlisle,4097,12,1,Lexington,4209,7,0,Dual County,Middlesex,4:30 P.M.,,0
 2026-06-04,117669,FINAL,Walpole,4404,18,1,Westwood,4424,8,0,Bay State,Tri-Valley,6:30 P.M.,,0

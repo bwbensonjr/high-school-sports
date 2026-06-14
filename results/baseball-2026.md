@@ -1,98 +1,85 @@
 # Baseball - 2026 Season
 
-Generated: 2026-06-13 12:22
+Generated: 2026-06-14 12:58
 
 ## Upcoming Games
 
-| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
-|------|------|-----------|-----------|------------|------------------|
-| 2026-06-13 | 6:00 P.M. | Bishop Feehan | Catholic Memorial | 56.9% | +1.9 |
-| 2026-06-13 | 3:00 P.M. | Middleborough | Apponequet | 65.6% | +4.5 |
-| 2026-06-13 | 12:00 P.M. | Hamilton-Wenham | Seekonk | 78.5% | +9.0 |
+*No upcoming games scheduled*
+
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-06-13 | Hamilton-Wenham | 3 | Seekonk | 4 | +9.0 | -1.0 |
+| 2026-06-13 | Middleborough | 2 | Apponequet | 1 | +4.5 | +1.0 |
+| 2026-06-13 | Bishop Feehan | 4 | Catholic Memorial | 13 | +1.9 | -9.0 |
 | 2026-06-12 | English High | 2 | Georgetown | 3 | +3.3 | -1.0 |
 | 2026-06-12 | Milton | 1 | King Philip | 4 | +3.1 | -3.0 |
+| 2026-06-09 | Apponequet | 2 | Hanover | 1 | +1.9 | +1.0 |
 | 2026-06-09 | English High | 3 | Drury | 0 | +0.9 | +3.0 |
 | 2026-06-09 | Georgetown | 6 | Hopkins | 1 | -3.4 | +5.0 |
 | 2026-06-09 | Hamilton-Wenham | 10 | St. John Paul II | 0 | +6.8 | +10.0 |
 | 2026-06-09 | Dennis-Yarmouth | 4 | Seekonk | 7 | +4.6 | -3.0 |
-| 2026-06-09 | Apponequet | 2 | Hanover | 1 | +1.9 | +1.0 |
 | 2026-06-09 | Middleborough | 2 | Weston | 1 | +4.9 | +1.0 |
 | 2026-06-09 | St. Mary’s | 5 | Milton | 6 | +6.0 | -1.0 |
 | 2026-06-09 | Longmeadow | 4 | King Philip | 5 | +4.5 | -1.0 |
 | 2026-06-09 | Catholic Memorial | 6 | Cambridge | 1 | -2.2 | +5.0 |
 | 2026-06-09 | Bishop Feehan | 6 | Xaverian | 3 | +2.6 | +3.0 |
-| 2026-06-07 | Georgetown | 4 | West Boylston | 2 | -5.2 | +2.0 |
+| 2026-06-07 | Middleborough | 1 | Fairhaven | 0 | +3.7 | +1.0 |
 | 2026-06-07 | English High | 10 | Hopedale | 0 | +2.5 | +10.0 |
 | 2026-06-07 | Hopkins | 4 | Maynard | 1 | +8.6 | +3.0 |
+| 2026-06-07 | Georgetown | 4 | West Boylston | 2 | -5.2 | +2.0 |
 | 2026-06-07 | Hamilton-Wenham | 2 | Sandwich | 1 | +9.7 | +1.0 |
 | 2026-06-07 | Millbury | 0 | St. John Paul II | 1 | +4.2 | -1.0 |
-| 2026-06-07 | Middleborough | 1 | Fairhaven | 0 | +3.7 | +1.0 |
 | 2026-06-07 | Xaverian | 7 | Leominster | 3 | +2.2 | +4.0 |
-| 2026-06-06 | Bishop Feehan | 10 | Pope Francis | 5 | +4.1 | +5.0 |
-| 2026-06-06 | Drury | 6 | Keefe Tech | 0 | +5.0 | +6.0 |
-| 2026-06-06 | Dennis-Yarmouth | 5 | Rockland | 0 | +3.6 | +5.0 |
-| 2026-06-06 | East Bridgewater | 2 | Seekonk | 5 | +4.3 | -3.0 |
-| 2026-06-06 | Pittsfield | 0 | Hanover | 9 | +4.3 | -9.0 |
-| 2026-06-06 | Norwell | 1 | Weston | 5 | -1.2 | -4.0 |
-| 2026-06-06 | Apponequet | 6 | Dracut | 1 | +4.9 | +5.0 |
-| 2026-06-06 | St. Mary’s | 4 | Masconomet | 1 | +6.1 | +3.0 |
-| 2026-06-06 | Reading | 0 | King Philip | 1 | +8.5 | -1.0 |
-| 2026-06-06 | Walpole | 6 | Longmeadow | 7 | +1.4 | -1.0 |
-| 2026-06-06 | Milton | 3 | Billerica | 2 | +6.2 | +1.0 |
-| 2026-06-06 | BC High | 1 | Cambridge | 5 | +4.0 | -4.0 |
-| 2026-06-06 | St. John’s (Shrewsbury) | 8 | Catholic Memorial | 19 | +5.0 | -11.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Hamilton-Wenham | 1834.9 |
-| 2 | Middleborough | 1790.5 |
+| 1 | Hamilton-Wenham | 1818.6 |
+| 2 | Middleborough | 1797.6 |
 | 3 | BC High | 1771.9 |
 | 4 | West Boylston | 1768.6 |
 | 5 | Reading | 1758.8 |
 | 6 | Cambridge | 1752.1 |
-| 7 | St. Mary’s | 1739.8 |
-| 8 | Hopkins | 1735.1 |
-| 9 | Apponequet | 1728.1 |
+| 7 | Catholic Memorial | 1749.4 |
+| 8 | St. Mary’s | 1739.8 |
+| 9 | Hopkins | 1735.1 |
 | 10 | Shawsheen | 1728.1 |
 | 11 | Fairhaven | 1725.2 |
 | 12 | Millbury | 1722.0 |
-| 13 | Hanover | 1712.6 |
-| 14 | North Reading | 1711.9 |
-| 15 | Catholic Memorial | 1710.1 |
-| 16 | Bishop Feehan | 1708.3 |
-| 17 | Weston | 1705.0 |
-| 18 | Gateway | 1704.5 |
-| 19 | Oxford | 1700.0 |
-| 20 | Gloucester | 1699.7 |
-| 21 | Pingree | 1694.7 |
-| 22 | Swampscott | 1690.2 |
-| 23 | Pittsfield | 1689.3 |
-| 24 | Drury | 1685.6 |
-| 25 | Charlestown | 1685.6 |
-| 26 | English High | 1685.2 |
-| 27 | Newton South | 1684.7 |
-| 28 | Longmeadow | 1679.1 |
-| 29 | Georgetown | 1678.8 |
+| 13 | Apponequet | 1721.0 |
+| 14 | Hanover | 1712.6 |
+| 15 | North Reading | 1711.9 |
+| 16 | Weston | 1705.0 |
+| 17 | Gateway | 1704.5 |
+| 18 | Oxford | 1700.0 |
+| 19 | Gloucester | 1699.7 |
+| 20 | Pingree | 1694.7 |
+| 21 | Swampscott | 1690.2 |
+| 22 | Pittsfield | 1689.3 |
+| 23 | Drury | 1685.6 |
+| 24 | Charlestown | 1685.6 |
+| 25 | English High | 1685.2 |
+| 26 | Newton South | 1684.7 |
+| 27 | Longmeadow | 1679.1 |
+| 28 | Georgetown | 1678.8 |
+| 29 | Seekonk | 1676.7 |
 | 30 | St. John Paul II | 1675.0 |
 | 31 | St. Mark’s | 1674.7 |
 | 32 | Springfield Central | 1672.7 |
 | 33 | Mt. Everett | 1672.4 |
 | 34 | Doherty | 1671.1 |
 | 35 | Dennis-Yarmouth | 1669.6 |
-| 36 | Falmouth | 1668.5 |
-| 37 | King Philip | 1668.4 |
-| 38 | Nipmuc | 1667.1 |
-| 39 | Taunton | 1664.1 |
-| 40 | Shrewsbury | 1663.8 |
-| 41 | Winchester | 1662.9 |
-| 42 | Seekonk | 1660.4 |
+| 36 | Bishop Feehan | 1669.0 |
+| 37 | Falmouth | 1668.5 |
+| 38 | King Philip | 1668.4 |
+| 39 | Nipmuc | 1667.1 |
+| 40 | Taunton | 1664.1 |
+| 41 | Shrewsbury | 1663.8 |
+| 42 | Winchester | 1662.9 |
 | 43 | Xaverian | 1660.3 |
 | 44 | Old Colony | 1655.7 |
 | 45 | Walpole | 1655.4 |
@@ -231,12 +218,12 @@ Generated: 2026-06-13 12:22
 | 178 | Hampshire | 1505.6 |
 | 179 | North Andover | 1501.3 |
 | 180 | Maimonides | 1500.3 |
-| 181 | Londonderry (N.H.) | 1500.0 |
-| 182 | South Shore Christian | 1500.0 |
-| 183 | Cristo Rey | 1500.0 |
+| 181 | Cristo Rey | 1500.0 |
+| 182 | Sturgis East | 1500.0 |
+| 183 | Cape Cod Academy | 1500.0 |
 | 184 | Portsmouth (R.I.) | 1500.0 |
-| 185 | Cape Cod Academy | 1500.0 |
-| 186 | Sturgis East | 1500.0 |
+| 185 | South Shore Christian | 1500.0 |
+| 186 | Londonderry (N.H.) | 1500.0 |
 | 187 | KIPP | 1500.0 |
 | 188 | Upper Cape | 1498.2 |
 | 189 | Canton | 1497.5 |

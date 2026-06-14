@@ -1,6 +1,6 @@
 # Boys Volleyball - 2026 Season
 
-Generated: 2026-06-13 12:23
+Generated: 2026-06-14 12:58
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-06-13 12:23
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-06-13 | Needham | 1 | Brookline | 3 | +3.9 | -2.0 |
 | 2026-06-11 | Wayland | 3 | Westfield | 1 | +3.4 | +2.0 |
 | 2026-06-09 | Brookline | 3 | Natick | 2 | +1.6 | +1.0 |
 | 2026-06-09 | Needham | 3 | Newton North | 0 | +10.7 | +3.0 |
@@ -23,9 +24,9 @@ Generated: 2026-06-13 12:23
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Wayland | 1770.5 |
-| 2 | Needham | 1756.5 |
-| 3 | Westfield | 1709.9 |
-| 4 | Brookline | 1708.0 |
+| 2 | Needham | 1735.5 |
+| 3 | Brookline | 1729.1 |
+| 4 | Westfield | 1709.9 |
 | 5 | Chelmsford | 1705.8 |
 | 6 | Natick | 1698.8 |
 | 7 | Lexington | 1695.9 |
