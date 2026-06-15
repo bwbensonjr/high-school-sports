@@ -3199,19 +3199,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-03,119902,FINAL,Hopkins,4531,6.0,1.0,Lenox,4532,1.0,0.0,Hampshire,Independent,4:00 P.M.,,0
 2026-06-03,119905,FINAL,Georgetown,4148,9.0,1.0,Franklin County Tech,4145,2.0,0.0,Cape Ann,Independent,4:00 P.M.,,0
 2026-06-03,119908,FINAL,English High,4048,11.0,1.0,Palmer,4304,1.0,0.0,Boston City,Bi-County,3:30 P.M.,,0
-2026-06-04,119398,FINAL,Pope Francis,4796,5,1,Westford,4421,2,0,Independent,Dual County,4:00 P.M.,,0
-2026-06-04,119401,FINAL,Xaverian,4446,13,1,Winchester,4434,2,0,Catholic Conference,Middlesex,4:00 P.M.,,0
-2026-06-04,119404,FINAL,Catholic Memorial,4080,4,1,St. John’s Prep,4369,2,0,Catholic Conference,Catholic Conference,4:00 P.M.,,0
-2026-06-04,119416,FINAL,BC High,4029,5,1,Braintree,4051,1,0,Catholic Conference,Bay State,4:00 P.M.,,0
-2026-06-04,119509,FINAL,Longmeadow,4214,4,1,Wakefield,4402,3,0,Independent,Middlesex,4:00 P.M.,,0
-2026-06-04,119524,FINAL,Walpole,4404,6,1,Barnstable,4024,0,0,Bay State,Pioneer,4:00 P.M.,,0
-2026-06-04,119617,FINAL,Norwell,4296,4,1,Gloucester,4150,3,0,South Shore,Northeastern,4:00 P.M.,,0
-2026-06-04,119620,FINAL,Fairhaven,4133,15,1,Danvers,4103,3,0,South Coast,Northeastern,4:00 P.M.,,0
-2026-06-04,119761,FINAL,Millbury,4250,10,1,Wahconah,4401,0,0,CMAC,Independent,7:00 P.M.,,0
-2026-06-04,119764,FINAL,Dennis-Yarmouth,4111,16,1,Blue Hills,4047,9,0,Cape & Islands,Mayflower,3:00 P.M.,,0
-2026-06-04,119770,FINAL,Hamilton-Wenham,4163,4,1,Clinton,4093,3,0,Cape Ann,Mid-Wach,6:00 P.M.,,0
-2026-06-04,119887,FINAL,Charlestown,4084,3,0,Hopedale,4507,10,1,Boston City,CMAC,3:00 P.M.,,0
-2026-06-04,119890,FINAL,Mt. Everett,4533,8,0,West Boylston,4414,13,1,Independent,Mid-Wach,4:00 P.M.,,0
+2026-06-04,119398,FINAL,Pope Francis,4796,5.0,1.0,Westford,4421,2.0,0.0,Independent,Dual County,4:00 P.M.,,0
+2026-06-04,119401,FINAL,Xaverian,4446,13.0,1.0,Winchester,4434,2.0,0.0,Catholic Conference,Middlesex,4:00 P.M.,,0
+2026-06-04,119404,FINAL,Catholic Memorial,4080,4.0,1.0,St. John’s Prep,4369,2.0,0.0,Catholic Conference,Catholic Conference,4:00 P.M.,,0
+2026-06-04,119416,FINAL,BC High,4029,5.0,1.0,Braintree,4051,1.0,0.0,Catholic Conference,Bay State,4:00 P.M.,,0
+2026-06-04,119509,FINAL,Longmeadow,4214,4.0,1.0,Wakefield,4402,3.0,0.0,Independent,Middlesex,4:00 P.M.,,0
+2026-06-04,119524,FINAL,Walpole,4404,6.0,1.0,Barnstable,4024,0.0,0.0,Bay State,Pioneer,4:00 P.M.,,0
+2026-06-04,119617,FINAL,Norwell,4296,4.0,1.0,Gloucester,4150,3.0,0.0,South Shore,Northeastern,4:00 P.M.,,0
+2026-06-04,119620,FINAL,Fairhaven,4133,15.0,1.0,Danvers,4103,3.0,0.0,South Coast,Northeastern,4:00 P.M.,,0
+2026-06-04,119761,FINAL,Millbury,4250,10.0,1.0,Wahconah,4401,0.0,0.0,CMAC,Independent,7:00 P.M.,,0
+2026-06-04,119764,FINAL,Dennis-Yarmouth,4111,16.0,1.0,Blue Hills,4047,9.0,0.0,Cape & Islands,Mayflower,3:00 P.M.,,0
+2026-06-04,119770,FINAL,Hamilton-Wenham,4163,4.0,1.0,Clinton,4093,3.0,0.0,Cape Ann,Mid-Wach,6:00 P.M.,,0
+2026-06-04,119887,FINAL,Charlestown,4084,3.0,0.0,Hopedale,4507,10.0,1.0,Boston City,CMAC,3:00 P.M.,,0
+2026-06-04,119890,FINAL,Mt. Everett,4533,8.0,0.0,West Boylston,4414,13.0,1.0,Independent,Mid-Wach,4:00 P.M.,,0
 2026-06-06,119383,FINAL,St. John’s (Shrewsbury),4368,8,0,Catholic Memorial,4080,19,1,Catholic Conference,Catholic Conference,3:00 P.M.,,0
 2026-06-06,119386,FINAL,Bishop Feehan,4042,10,1,Pope Francis,4796,5,0,Independent,Independent,4:00 P.M.,,0
 2026-06-06,119392,FINAL,BC High,4029,1,0,Cambridge,4067,5,1,Catholic Conference,Dual County,1:00 P.M.,,0

@@ -1,6 +1,6 @@
 # Boys Volleyball - 2026 Season
 
-Generated: 2026-06-14 12:58
+Generated: 2026-06-15 16:16
 
 ## Upcoming Games
 
@@ -17,7 +17,6 @@ Generated: 2026-06-14 12:58
 | 2026-06-09 | Needham | 3 | Newton North | 0 | +10.7 | +3.0 |
 | 2026-06-09 | Westfield | 3 | Chicopee Comprehensive | 0 | +6.2 | +3.0 |
 | 2026-06-09 | Wayland | 3 | Milford | 0 | +6.9 | +3.0 |
-| 2026-06-07 | Chicopee Comprehensive | 3 | Latin Academy | 0 | +2.0 | +3.0 |
 
 ## Current Elo Ratings
 

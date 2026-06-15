@@ -1,6 +1,6 @@
 # Girls Lacrosse - 2026 Season
 
-Generated: 2026-06-14 12:59
+Generated: 2026-06-15 16:16
 
 ## Upcoming Games
 
@@ -21,8 +21,6 @@ Generated: 2026-06-14 12:59
 | 2026-06-08 | Cohasset | 18 | Wayland | 2 | +11.2 | +16.0 |
 | 2026-06-08 | Ipswich | 12 | Manchester Essex | 6 | +5.6 | +6.0 |
 | 2026-06-08 | Sandwich | 15 | Nipmuc | 2 | +7.0 | +13.0 |
-| 2026-06-07 | Chelmsford | 5 | Concord-Carlisle | 6 | +1.6 | -1.0 |
-| 2026-06-07 | Notre Dame (Hingham) | 10 | Westford | 7 | +4.7 | +3.0 |
 
 ## Current Elo Ratings
 

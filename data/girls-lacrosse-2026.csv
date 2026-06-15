@@ -1976,13 +1976,13 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-03,117783,FINAL,Nashoba,4267,14.0,1.0,St. Mary’s,4374,11.0,0.0,Mid-Wach,Catholic Central,6:00 P.M.,,0
 2026-06-03,117786,FINAL,Cohasset,4094,20.0,1.0,Dover-Sherborn,4118,6.0,0.0,South Shore,Tri-Valley,4:30 P.M.,,0
 2026-06-03,117909,FINAL,Hamilton-Wenham,4163,8.0,0.0,Manchester Essex,4229,11.0,1.0,Cape Ann,Cape Ann,5:00 P.M.,,0
-2026-06-04,117558,FINAL,Chelmsford,4085,7,1,Wellesley,4413,6,0,Merrimack Valley,Bay State,6:00 P.M.,,0
-2026-06-04,117561,FINAL,Concord-Carlisle,4097,12,1,Lexington,4209,7,0,Dual County,Middlesex,4:30 P.M.,,0
-2026-06-04,117669,FINAL,Walpole,4404,18,1,Westwood,4424,8,0,Bay State,Tri-Valley,6:30 P.M.,,0
-2026-06-04,117777,FINAL,Newburyport,4276,9,0,Wayland,4411,10,1,Cape Ann,Dual County,4:00 P.M.,3.0,0
-2026-06-04,117903,FINAL,Nipmuc,4281,12,1,Lynnfield,4223,11,0,CMAC,Cape Ann,2:00 P.M.,,0
-2026-06-04,117906,FINAL,Ipswich,4190,15,1,Fairhaven,4133,2,0,Cape Ann,South Coast,5:00 P.M.,,0
-2026-06-04,117912,FINAL,Sandwich,4340,20,1,Nantucket,4265,5,0,Cape & Islands,Cape & Islands,3:30 P.M.,,0
+2026-06-04,117558,FINAL,Chelmsford,4085,7.0,1.0,Wellesley,4413,6.0,0.0,Merrimack Valley,Bay State,6:00 P.M.,,0
+2026-06-04,117561,FINAL,Concord-Carlisle,4097,12.0,1.0,Lexington,4209,7.0,0.0,Dual County,Middlesex,4:30 P.M.,,0
+2026-06-04,117669,FINAL,Walpole,4404,18.0,1.0,Westwood,4424,8.0,0.0,Bay State,Tri-Valley,6:30 P.M.,,0
+2026-06-04,117777,FINAL,Newburyport,4276,9.0,0.0,Wayland,4411,10.0,1.0,Cape Ann,Dual County,4:00 P.M.,3.0,0
+2026-06-04,117903,FINAL,Nipmuc,4281,12.0,1.0,Lynnfield,4223,11.0,0.0,CMAC,Cape Ann,2:00 P.M.,,0
+2026-06-04,117906,FINAL,Ipswich,4190,15.0,1.0,Fairhaven,4133,2.0,0.0,Cape Ann,South Coast,5:00 P.M.,,0
+2026-06-04,117912,FINAL,Sandwich,4340,20.0,1.0,Nantucket,4265,5.0,0.0,Cape & Islands,Cape & Islands,3:30 P.M.,,0
 2026-06-07,117549,FINAL,Chelmsford,4085,5,0,Concord-Carlisle,4097,6,1,Merrimack Valley,Dual County,6:00 P.M.,,0
 2026-06-07,117552,FINAL,Notre Dame (Hingham),4449,10,1,Westford,4421,7,0,Independent,Dual County,4:00 P.M.,,0
 2026-06-08,117654,FINAL,Reading,4328,8,1,Hingham,4171,7,0,Middlesex,Patriot,7:30 P.M.,,0

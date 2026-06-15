@@ -1626,13 +1626,13 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-03,118786,FINAL,Amesbury,4007,3.0,1.0,Lee,4206,2.0,0.0,Cape Ann,Independent,3:30 P.M.,,0
 2026-06-03,118795,FINAL,Manchester Essex,4229,5.0,1.0,Sturgis East/West,4456,0.0,0.0,Cape Ann,Cape & Islands,3:00 P.M.,,0
 2026-06-03,120971,FINAL,Bedford,4031,5.0,1.0,East Longmeadow,4127,0.0,0.0,Dual County,Independent,,,0
-2026-06-04,118453,FINAL,Lexington,4209,5,1,Concord-Carlisle,4097,0,0,Middlesex,Dual County,4:00 P.M.,,0
-2026-06-04,118555,FINAL,Walpole,4404,2,0,Marblehead,4231,3,1,Bay State,Northeastern,4:00 P.M.,,0
-2026-06-04,118561,FINAL,Duxbury,4123,4,1,Masconomet,4236,1,0,Patriot,Northeastern,4:00 P.M.,,0
-2026-06-04,118660,FINAL,Wayland,4411,4,1,Falmouth,4134,1,0,Dual County,Cape & Islands,2:30 P.M.,,0
-2026-06-04,118666,FINAL,Weston,4423,5,1,Medfield,4241,0,0,Dual County,Tri-Valley,4:00 P.M.,,0
-2026-06-04,118777,FINAL,Mystic Valley,4264,4,1,Lenox,4532,1,0,Cape Ann,Independent,3:30 P.M.,,0
-2026-06-04,118783,FINAL,Hamilton-Wenham,4163,5,1,Amesbury,4007,0,0,Cape Ann,Cape Ann,3:00 P.M.,,0
+2026-06-04,118453,FINAL,Lexington,4209,5.0,1.0,Concord-Carlisle,4097,0.0,0.0,Middlesex,Dual County,4:00 P.M.,,0
+2026-06-04,118555,FINAL,Walpole,4404,2.0,0.0,Marblehead,4231,3.0,1.0,Bay State,Northeastern,4:00 P.M.,,0
+2026-06-04,118561,FINAL,Duxbury,4123,4.0,1.0,Masconomet,4236,1.0,0.0,Patriot,Northeastern,4:00 P.M.,,0
+2026-06-04,118660,FINAL,Wayland,4411,4.0,1.0,Falmouth,4134,1.0,0.0,Dual County,Cape & Islands,2:30 P.M.,,0
+2026-06-04,118666,FINAL,Weston,4423,5.0,1.0,Medfield,4241,0.0,0.0,Dual County,Tri-Valley,4:00 P.M.,,0
+2026-06-04,118777,FINAL,Mystic Valley,4264,4.0,1.0,Lenox,4532,1.0,0.0,Cape Ann,Independent,3:30 P.M.,,0
+2026-06-04,118783,FINAL,Hamilton-Wenham,4163,5.0,1.0,Amesbury,4007,0.0,0.0,Cape Ann,Cape Ann,3:00 P.M.,,0
 2026-06-05,118444,FINAL,Newton North,4279,4,1,Lincoln-Sudbury,4211,1,0,Bay State,Dual County,4:30 P.M.,,0
 2026-06-05,118450,FINAL,St. John’s Prep,4369,2,0,Newton South,4280,3,1,Catholic Conference,Dual County,4:00 P.M.,,0
 2026-06-05,118558,FINAL,Longmeadow,4214,2,0,Sharon,4345,3,1,Independent,Hockomock,3:30 P.M.,,0

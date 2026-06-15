@@ -1101,10 +1101,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-02,119248,FINAL,Wayland,4411,3.0,1.0,Greater Lowell,4155,0.0,0.0,Dual County,Commonwealth,4:00 P.M.,,0
 2026-06-03,119110,FINAL,Lexington,4209,2.0,0.0,Newton North,4279,3.0,1.0,Middlesex,Bay State,5:00 P.M.,,0
 2026-06-03,119236,FINAL,Medfield,4241,2.0,0.0,Norton,4295,3.0,1.0,Tri-Valley,Tri-Valley,5:30 P.M.,,0
-2026-06-04,119095,FINAL,Natick,4270,3,1,Agawam,4004,1,0,Bay State,Independent,6:00 P.M.,,0
-2026-06-04,119218,FINAL,Westfield,4419,3,1,Marlborough,4233,2,0,Independent,Mid-Wach,5:30 P.M.,,0
-2026-06-04,119224,FINAL,Wayland,4411,3,1,Longmeadow,4214,0,0,Dual County,Independent,4:00 P.M.,,0
-2026-06-04,119233,FINAL,Latin Academy,4202,3,1,O’Bryant,4298,2,0,Boston City,Boston City,4:00 P.M.,,0
+2026-06-04,119095,FINAL,Natick,4270,3.0,1.0,Agawam,4004,1.0,0.0,Bay State,Independent,6:00 P.M.,,0
+2026-06-04,119218,FINAL,Westfield,4419,3.0,1.0,Marlborough,4233,2.0,0.0,Independent,Mid-Wach,5:30 P.M.,,0
+2026-06-04,119224,FINAL,Wayland,4411,3.0,1.0,Longmeadow,4214,0.0,0.0,Dual County,Independent,4:00 P.M.,,0
+2026-06-04,119233,FINAL,Latin Academy,4202,3.0,1.0,O’Bryant,4298,2.0,0.0,Boston City,Boston City,4:00 P.M.,,0
 2026-06-05,119089,FINAL,Chelmsford,4085,1,0,Newton North,4279,3,1,Merrimack Valley,Bay State,4:00 P.M.,,0
 2026-06-05,119092,FINAL,Brookline,4059,3,1,Newton South,4280,1,0,Bay State,Dual County,5:30 P.M.,,0
 2026-06-05,119098,FINAL,Needham,4272,3,1,Lowell,4216,0,0,Bay State,Merrimack Valley,4:00 P.M.,,0

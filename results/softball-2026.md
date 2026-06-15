@@ -1,6 +1,6 @@
 # Softball - 2026 Season
 
-Generated: 2026-06-14 12:59
+Generated: 2026-06-15 16:16
 
 ## Upcoming Games
 
@@ -11,23 +11,22 @@ Generated: 2026-06-14 12:59
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-06-13 | Hopedale | 2 | Maynard | 4 | +0.4 | -2.0 |
-| 2026-06-13 | King Philip | 14 | Somerset Berkley | 1 | +6.5 | +13.0 |
 | 2026-06-13 | Taunton | 10 | Attleboro | 8 | +8.1 | +2.0 |
-| 2026-06-12 | Advanced Math and Science | 8 | Tyngsborough | 2 | +1.6 | +6.0 |
+| 2026-06-13 | King Philip | 14 | Somerset Berkley | 1 | +6.5 | +13.0 |
+| 2026-06-13 | Hopedale | 2 | Maynard | 4 | +0.4 | -2.0 |
 | 2026-06-12 | Joseph Case | 5 | Apponequet | 1 | +6.9 | +4.0 |
-| 2026-06-10 | Norton | 1 | Joseph Case | 3 | +3.7 | -2.0 |
-| 2026-06-10 | Maynard | 5 | Lenox | 1 | +7.2 | +4.0 |
-| 2026-06-10 | Georgetown | 6 | Hopedale | 9 | +3.6 | -3.0 |
-| 2026-06-10 | King Philip | 12 | Shepherd Hill | 0 | +7.1 | +12.0 |
-| 2026-06-10 | Wakefield | 2 | Somerset Berkley | 3 | +5.2 | -1.0 |
-| 2026-06-10 | Taunton | 9 | Shrewsbury | 2 | +5.9 | +7.0 |
+| 2026-06-12 | Advanced Math and Science | 8 | Tyngsborough | 2 | +1.6 | +6.0 |
 | 2026-06-10 | Central Catholic | 4 | Attleboro | 5 | +10.9 | -1.0 |
+| 2026-06-10 | Taunton | 9 | Shrewsbury | 2 | +5.9 | +7.0 |
+| 2026-06-10 | Wakefield | 2 | Somerset Berkley | 3 | +5.2 | -1.0 |
+| 2026-06-10 | King Philip | 12 | Shepherd Hill | 0 | +7.1 | +12.0 |
+| 2026-06-10 | Norton | 1 | Joseph Case | 3 | +3.7 | -2.0 |
+| 2026-06-10 | Georgetown | 6 | Hopedale | 9 | +3.6 | -3.0 |
+| 2026-06-10 | Maynard | 5 | Lenox | 1 | +7.2 | +4.0 |
 | 2026-06-09 | Dighton-Rehoboth | 1 | Apponequet | 2 | +4.4 | -1.0 |
 | 2026-06-08 | Marshfield | 1 | Wakefield | 2 | +4.7 | -1.0 |
-| 2026-06-08 | Advanced Math and Science | 4 | Seekonk | 3 | +10.7 | +1.0 |
 | 2026-06-08 | Hampshire | 0 | Tyngsborough | 8 | -0.5 | -8.0 |
-| 2026-06-07 | Hopedale | 12 | Granby | 0 | -1.5 | +12.0 |
+| 2026-06-08 | Advanced Math and Science | 4 | Seekonk | 3 | +10.7 | +1.0 |
 
 ## Current Elo Ratings
 
@@ -203,11 +202,11 @@ Generated: 2026-06-14 12:59
 | 168 | Whitman-Hanson | 1505.7 |
 | 169 | Sturgis | 1502.8 |
 | 170 | Westfield Tech/St. Mary (Westfield) | 1502.7 |
-| 171 | Tiverton (R.I.) | 1500.0 |
+| 171 | Dover-Sherborn | 1500.0 |
 | 172 | St. John Paul II | 1500.0 |
-| 173 | Prospect Hill | 1500.0 |
+| 173 | Tiverton (R.I.) | 1500.0 |
 | 174 | Woodward | 1500.0 |
-| 175 | Dover-Sherborn | 1500.0 |
+| 175 | Prospect Hill | 1500.0 |
 | 176 | Mt. Greylock | 1499.1 |
 | 177 | Ayer Shirley | 1498.5 |
 | 178 | Greenfield | 1497.6 |

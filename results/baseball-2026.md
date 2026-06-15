@@ -1,6 +1,6 @@
 # Baseball - 2026 Season
 
-Generated: 2026-06-14 12:58
+Generated: 2026-06-15 16:16
 
 ## Upcoming Games
 
@@ -11,28 +11,21 @@ Generated: 2026-06-14 12:58
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-06-13 | Hamilton-Wenham | 3 | Seekonk | 4 | +9.0 | -1.0 |
-| 2026-06-13 | Middleborough | 2 | Apponequet | 1 | +4.5 | +1.0 |
 | 2026-06-13 | Bishop Feehan | 4 | Catholic Memorial | 13 | +1.9 | -9.0 |
-| 2026-06-12 | English High | 2 | Georgetown | 3 | +3.3 | -1.0 |
+| 2026-06-13 | Middleborough | 2 | Apponequet | 1 | +4.5 | +1.0 |
+| 2026-06-13 | Hamilton-Wenham | 3 | Seekonk | 4 | +9.0 | -1.0 |
 | 2026-06-12 | Milton | 1 | King Philip | 4 | +3.1 | -3.0 |
-| 2026-06-09 | Apponequet | 2 | Hanover | 1 | +1.9 | +1.0 |
-| 2026-06-09 | English High | 3 | Drury | 0 | +0.9 | +3.0 |
-| 2026-06-09 | Georgetown | 6 | Hopkins | 1 | -3.4 | +5.0 |
-| 2026-06-09 | Hamilton-Wenham | 10 | St. John Paul II | 0 | +6.8 | +10.0 |
-| 2026-06-09 | Dennis-Yarmouth | 4 | Seekonk | 7 | +4.6 | -3.0 |
-| 2026-06-09 | Middleborough | 2 | Weston | 1 | +4.9 | +1.0 |
-| 2026-06-09 | St. Mary’s | 5 | Milton | 6 | +6.0 | -1.0 |
-| 2026-06-09 | Longmeadow | 4 | King Philip | 5 | +4.5 | -1.0 |
-| 2026-06-09 | Catholic Memorial | 6 | Cambridge | 1 | -2.2 | +5.0 |
+| 2026-06-12 | English High | 2 | Georgetown | 3 | +3.3 | -1.0 |
 | 2026-06-09 | Bishop Feehan | 6 | Xaverian | 3 | +2.6 | +3.0 |
-| 2026-06-07 | Middleborough | 1 | Fairhaven | 0 | +3.7 | +1.0 |
-| 2026-06-07 | English High | 10 | Hopedale | 0 | +2.5 | +10.0 |
-| 2026-06-07 | Hopkins | 4 | Maynard | 1 | +8.6 | +3.0 |
-| 2026-06-07 | Georgetown | 4 | West Boylston | 2 | -5.2 | +2.0 |
-| 2026-06-07 | Hamilton-Wenham | 2 | Sandwich | 1 | +9.7 | +1.0 |
-| 2026-06-07 | Millbury | 0 | St. John Paul II | 1 | +4.2 | -1.0 |
-| 2026-06-07 | Xaverian | 7 | Leominster | 3 | +2.2 | +4.0 |
+| 2026-06-09 | Catholic Memorial | 6 | Cambridge | 1 | -2.2 | +5.0 |
+| 2026-06-09 | Longmeadow | 4 | King Philip | 5 | +4.5 | -1.0 |
+| 2026-06-09 | St. Mary’s | 5 | Milton | 6 | +6.0 | -1.0 |
+| 2026-06-09 | Middleborough | 2 | Weston | 1 | +4.9 | +1.0 |
+| 2026-06-09 | Apponequet | 2 | Hanover | 1 | +1.9 | +1.0 |
+| 2026-06-09 | Dennis-Yarmouth | 4 | Seekonk | 7 | +4.6 | -3.0 |
+| 2026-06-09 | Hamilton-Wenham | 10 | St. John Paul II | 0 | +6.8 | +10.0 |
+| 2026-06-09 | Georgetown | 6 | Hopkins | 1 | -3.4 | +5.0 |
+| 2026-06-09 | English High | 3 | Drury | 0 | +0.9 | +3.0 |
 
 ## Current Elo Ratings
 
@@ -218,12 +211,12 @@ Generated: 2026-06-14 12:58
 | 178 | Hampshire | 1505.6 |
 | 179 | North Andover | 1501.3 |
 | 180 | Maimonides | 1500.3 |
-| 181 | Cristo Rey | 1500.0 |
-| 182 | Sturgis East | 1500.0 |
-| 183 | Cape Cod Academy | 1500.0 |
-| 184 | Portsmouth (R.I.) | 1500.0 |
-| 185 | South Shore Christian | 1500.0 |
-| 186 | Londonderry (N.H.) | 1500.0 |
+| 181 | Cape Cod Academy | 1500.0 |
+| 182 | Portsmouth (R.I.) | 1500.0 |
+| 183 | Sturgis East | 1500.0 |
+| 184 | Londonderry (N.H.) | 1500.0 |
+| 185 | Cristo Rey | 1500.0 |
+| 186 | South Shore Christian | 1500.0 |
 | 187 | KIPP | 1500.0 |
 | 188 | Upper Cape | 1498.2 |
 | 189 | Canton | 1497.5 |

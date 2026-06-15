@@ -2000,13 +2000,13 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-03,120905,FINAL,Manchester Essex,4229,14.0,1.0,Nipmuc,4281,8.0,0.0,Cape Ann,CMAC,2:30 P.M.,,0
 2026-06-03,120908,FINAL,Nantucket,4265,17.0,1.0,Rockland,4331,1.0,0.0,Cape & Islands,South Shore,4:30 P.M.,,0
 2026-06-03,120911,FINAL,Cohasset,4094,19.0,1.0,Triton,4395,5.0,0.0,South Shore,Cape Ann,1:45 P.M.,,0
-2026-06-04,120569,FINAL,Reading,4328,9,0,Marshfield,4234,11,1,Middlesex,Patriot,6:00 P.M.,,0
-2026-06-04,120674,FINAL,Weston,4423,16,1,Oakmont,4299,4,0,Dual County,Mid-Wach,6:00 P.M.,,0
-2026-06-04,120683,FINAL,Medfield,4241,14,1,Foxborough,4142,5,0,Tri-Valley,Hockomock,4:00 P.M.,,0
-2026-06-04,120794,FINAL,Winchester,4434,15,1,St. John’s (Shrewsbury),4368,14,0,Middlesex,Catholic Conference,5:00 P.M.,1.0,0
-2026-06-04,120893,FINAL,Pentucket,4309,14,1,Sandwich,4340,6,0,Cape Ann,Cape & Islands,6:00 P.M.,,0
-2026-06-04,120896,FINAL,Abington,4002,14,1,Lynnfield,4223,4,0,South Shore,Cape Ann,2:30 P.M.,,0
-2026-06-04,120899,FINAL,Winthrop,4437,17,1,East Bridgewater,4126,4,0,Northeastern,South Shore,4:30 P.M.,,0
+2026-06-04,120569,FINAL,Reading,4328,9.0,0.0,Marshfield,4234,11.0,1.0,Middlesex,Patriot,6:00 P.M.,,0
+2026-06-04,120674,FINAL,Weston,4423,16.0,1.0,Oakmont,4299,4.0,0.0,Dual County,Mid-Wach,6:00 P.M.,,0
+2026-06-04,120683,FINAL,Medfield,4241,14.0,1.0,Foxborough,4142,5.0,0.0,Tri-Valley,Hockomock,4:00 P.M.,,0
+2026-06-04,120794,FINAL,Winchester,4434,15.0,1.0,St. John’s (Shrewsbury),4368,14.0,0.0,Middlesex,Catholic Conference,5:00 P.M.,1.0,0
+2026-06-04,120893,FINAL,Pentucket,4309,14.0,1.0,Sandwich,4340,6.0,0.0,Cape Ann,Cape & Islands,6:00 P.M.,,0
+2026-06-04,120896,FINAL,Abington,4002,14.0,1.0,Lynnfield,4223,4.0,0.0,South Shore,Cape Ann,2:30 P.M.,,0
+2026-06-04,120899,FINAL,Winthrop,4437,17.0,1.0,East Bridgewater,4126,4.0,0.0,Northeastern,South Shore,4:30 P.M.,,0
 2026-06-05,120563,FINAL,Mansfield,4230,8,1,Duxbury,4123,6,0,Hockomock,Patriot,7:45 P.M.,,0
 2026-06-05,120665,FINAL,Scituate,4343,11,1,Shawsheen,4346,6,0,Patriot,Commonwealth,7:00 P.M.,,0
 2026-06-05,120785,FINAL,Andover,4009,7,0,BC High,4029,8,1,Merrimack Valley,Catholic Conference,7:00 P.M.,,0

@@ -1732,13 +1732,13 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-03,118239,FINAL,Wilmington,4432,4.0,1.0,Falmouth,4134,1.0,0.0,Middlesex,Cape & Islands,4:00 P.M.,,0
 2026-06-03,118251,FINAL,Ursuline,4448,4.0,1.0,Medfield,4241,1.0,0.0,Catholic Conference,Tri-Valley,4:00 P.M.,,0
 2026-06-03,118371,FINAL,Amesbury,4007,5.0,1.0,Sturgis East,4456,0.0,0.0,Cape Ann,Cape & Islands,1:30 P.M.,,0
-2026-06-04,118002,FINAL,Westford,4421,5,1,Lexington,4209,0,0,Dual County,Middlesex,4:00 P.M.,,0
-2026-06-04,118005,FINAL,Winchester,4434,4,1,Acton-Boxborough,4003,1,0,Middlesex,Dual County,4:00 P.M.,,0
-2026-06-04,118008,FINAL,Boston Latin,4049,5,1,Needham,4272,0,0,Dual County,Bay State,1:00 P.M.,,0
-2026-06-04,118113,FINAL,Hingham,4171,3,1,Milton,4252,2,0,Patriot,Bay State,4:00 P.M.,,0
-2026-06-04,118233,FINAL,Lynnfield,4223,1,0,Swampscott,4383,4,1,Cape Ann,Northeastern,2:00 P.M.,,0
-2026-06-04,118347,FINAL,Amesbury,4007,2,0,Bromfield,4505,3,1,Cape Ann,Mid-Wach,1:30 P.M.,,0
-2026-06-04,118353,FINAL,Ipswich,4190,4,1,Cohasset,4094,1,0,Cape Ann,South Shore,3:00 P.M.,,0
+2026-06-04,118002,FINAL,Westford,4421,5.0,1.0,Lexington,4209,0.0,0.0,Dual County,Middlesex,4:00 P.M.,,0
+2026-06-04,118005,FINAL,Winchester,4434,4.0,1.0,Acton-Boxborough,4003,1.0,0.0,Middlesex,Dual County,4:00 P.M.,,0
+2026-06-04,118008,FINAL,Boston Latin,4049,5.0,1.0,Needham,4272,0.0,0.0,Dual County,Bay State,1:00 P.M.,,0
+2026-06-04,118113,FINAL,Hingham,4171,3.0,1.0,Milton,4252,2.0,0.0,Patriot,Bay State,4:00 P.M.,,0
+2026-06-04,118233,FINAL,Lynnfield,4223,1.0,0.0,Swampscott,4383,4.0,1.0,Cape Ann,Northeastern,2:00 P.M.,,0
+2026-06-04,118347,FINAL,Amesbury,4007,2.0,0.0,Bromfield,4505,3.0,1.0,Cape Ann,Mid-Wach,1:30 P.M.,,0
+2026-06-04,118353,FINAL,Ipswich,4190,4.0,1.0,Cohasset,4094,1.0,0.0,Cape Ann,South Shore,3:00 P.M.,,0
 2026-06-05,118116,FINAL,Bedford,4031,3,1,Westwood,4424,2,0,Dual County,Tri-Valley,4:00 P.M.,,0
 2026-06-05,118119,FINAL,Duxbury,4123,4,1,Longmeadow,4214,1,0,Patriot,Independent,4:30 P.M.,,0
 2026-06-05,118122,FINAL,Notre Dame (Hingham),4449,5,1,Scituate,4343,0,0,Catholic Conference,Patriot,4:00 P.M.,,0
