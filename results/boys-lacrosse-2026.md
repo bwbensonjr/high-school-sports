@@ -1,6 +1,6 @@
 # Boys Lacrosse - 2026 Season
 
-Generated: 2026-06-15 16:16
+Generated: 2026-06-16 15:50
 
 ## Upcoming Games
 
@@ -22,7 +22,6 @@ Generated: 2026-06-15 16:16
 | 2026-06-09 | St. John’s Prep | 10 | BC High | 11 | +7.4 | -1.0 |
 | 2026-06-09 | Lincoln-Sudbury | 17 | Acton-Boxborough | 5 | +2.2 | +12.0 |
 | 2026-06-09 | Nantucket | 8 | Manchester Essex | 4 | +3.3 | +4.0 |
-| 2026-06-08 | Dracut | 7 | Wakefield | 4 | +7.0 | +3.0 |
 
 ## Current Elo Ratings
 
@@ -166,11 +165,11 @@ Generated: 2026-06-15 16:16
 | 136 | South Hadley | 1504.0 |
 | 137 | Moses Brown (R.I.) | 1503.2 |
 | 138 | Landmark | 1501.3 |
-| 139 | Mashpee | 1500.0 |
+| 139 | Everett | 1500.0 |
 | 140 | Bourne | 1500.0 |
-| 141 | Everett | 1500.0 |
-| 142 | Latin Academy | 1500.0 |
-| 143 | St. Anthony’s (N.Y.) | 1500.0 |
+| 141 | Latin Academy | 1500.0 |
+| 142 | St. Anthony’s (N.Y.) | 1500.0 |
+| 143 | Mashpee | 1500.0 |
 | 144 | West Springfield | 1499.6 |
 | 145 | North Andover | 1496.9 |
 | 146 | Bancroft | 1496.5 |

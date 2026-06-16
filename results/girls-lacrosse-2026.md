@@ -1,6 +1,6 @@
 # Girls Lacrosse - 2026 Season
 
-Generated: 2026-06-15 16:16
+Generated: 2026-06-16 15:50
 
 ## Upcoming Games
 
@@ -15,12 +15,6 @@ Generated: 2026-06-15 16:16
 | 2026-06-11 | Sandwich | 9 | Ipswich | 6 | +4.0 | +3.0 |
 | 2026-06-10 | Notre Dame (Hingham) | 9 | Concord-Carlisle | 10 | +4.7 | -1.0 |
 | 2026-06-10 | Walpole | 12 | Reading | 11 | +2.5 | +1.0 |
-| 2026-06-08 | Reading | 8 | Hingham | 7 | +3.0 | +1.0 |
-| 2026-06-08 | Walpole | 11 | Duxbury | 8 | +5.5 | +3.0 |
-| 2026-06-08 | Norwell | 16 | Nashoba | 8 | +6.1 | +8.0 |
-| 2026-06-08 | Cohasset | 18 | Wayland | 2 | +11.2 | +16.0 |
-| 2026-06-08 | Ipswich | 12 | Manchester Essex | 6 | +5.6 | +6.0 |
-| 2026-06-08 | Sandwich | 15 | Nipmuc | 2 | +7.0 | +13.0 |
 
 ## Current Elo Ratings
 

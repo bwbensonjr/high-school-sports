@@ -1,6 +1,6 @@
 # Girls Tennis - 2026 Season
 
-Generated: 2026-06-15 16:16
+Generated: 2026-06-16 15:50
 
 ## Upcoming Games
 
@@ -22,8 +22,6 @@ Generated: 2026-06-15 16:16
 | 2026-06-09 | Bedford | 3 | Duxbury | 2 | -2.6 | +1.0 |
 | 2026-06-09 | Notre Dame (Hingham) | 3 | Hingham | 2 | +2.5 | +1.0 |
 | 2026-06-09 | Martha’s Vineyard | 5 | Weston | 0 | +15.4 | +5.0 |
-| 2026-06-08 | Newton South | 5 | Westford | 0 | +1.5 | +5.0 |
-| 2026-06-08 | Manchester Essex | 3 | Ipswich | 2 | +5.3 | +1.0 |
 
 ## Current Elo Ratings
 

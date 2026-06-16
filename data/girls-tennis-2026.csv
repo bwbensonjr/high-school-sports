@@ -1739,13 +1739,13 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-04,118233,FINAL,Lynnfield,4223,1.0,0.0,Swampscott,4383,4.0,1.0,Cape Ann,Northeastern,2:00 P.M.,,0
 2026-06-04,118347,FINAL,Amesbury,4007,2.0,0.0,Bromfield,4505,3.0,1.0,Cape Ann,Mid-Wach,1:30 P.M.,,0
 2026-06-04,118353,FINAL,Ipswich,4190,4.0,1.0,Cohasset,4094,1.0,0.0,Cape Ann,South Shore,3:00 P.M.,,0
-2026-06-05,118116,FINAL,Bedford,4031,3,1,Westwood,4424,2,0,Dual County,Tri-Valley,4:00 P.M.,,0
-2026-06-05,118119,FINAL,Duxbury,4123,4,1,Longmeadow,4214,1,0,Patriot,Independent,4:30 P.M.,,0
-2026-06-05,118122,FINAL,Notre Dame (Hingham),4449,5,1,Scituate,4343,0,0,Catholic Conference,Patriot,4:00 P.M.,,0
-2026-06-05,118230,FINAL,Dover-Sherborn,4118,4,1,Old Rochester,4301,1,0,Tri-Valley,South Coast,4:00 P.M.,,0
-2026-06-05,118236,FINAL,Martha’s Vineyard,4235,4,1,Wilmington,4432,1,0,Cape & Islands,Middlesex,3:00 P.M.,,0
-2026-06-05,118350,FINAL,Manchester Essex,4229,5,1,Lenox,4532,0,0,Cape Ann,Independent,4:00 P.M.,,0
-2026-06-05,118356,FINAL,Hamilton-Wenham,4163,4,1,Hopedale,4507,1,0,Cape Ann,Independent,3:30 P.M.,,0
+2026-06-05,118116,FINAL,Bedford,4031,3.0,1.0,Westwood,4424,2.0,0.0,Dual County,Tri-Valley,4:00 P.M.,,0
+2026-06-05,118119,FINAL,Duxbury,4123,4.0,1.0,Longmeadow,4214,1.0,0.0,Patriot,Independent,4:30 P.M.,,0
+2026-06-05,118122,FINAL,Notre Dame (Hingham),4449,5.0,1.0,Scituate,4343,0.0,0.0,Catholic Conference,Patriot,4:00 P.M.,,0
+2026-06-05,118230,FINAL,Dover-Sherborn,4118,4.0,1.0,Old Rochester,4301,1.0,0.0,Tri-Valley,South Coast,4:00 P.M.,,0
+2026-06-05,118236,FINAL,Martha’s Vineyard,4235,4.0,1.0,Wilmington,4432,1.0,0.0,Cape & Islands,Middlesex,3:00 P.M.,,0
+2026-06-05,118350,FINAL,Manchester Essex,4229,5.0,1.0,Lenox,4532,0.0,0.0,Cape Ann,Independent,4:00 P.M.,,0
+2026-06-05,118356,FINAL,Hamilton-Wenham,4163,4.0,1.0,Hopedale,4507,1.0,0.0,Cape Ann,Independent,3:30 P.M.,,0
 2026-06-06,118011,FINAL,Newton South,4280,4,1,Wellesley,4413,1,0,Dual County,Bay State,2:00 P.M.,,0
 2026-06-06,118227,FINAL,Ursuline,4448,2,0,Weston,4423,3,1,Catholic Conference,Dual County,1:00 P.M.,,0
 2026-06-08,117999,FINAL,Newton South,4280,5,1,Westford,4421,0,0,Dual County,Dual County,3:00 P.M.,,0

@@ -1,6 +1,6 @@
 # Boys Volleyball - 2026 Season
 
-Generated: 2026-06-15 16:16
+Generated: 2026-06-16 15:50
 
 ## Upcoming Games
 
@@ -91,8 +91,8 @@ Generated: 2026-06-15 16:16
 | 67 | Burlington | 1502.4 |
 | 68 | Keefe Tech | 1502.3 |
 | 69 | Minnechaug | 1501.0 |
-| 70 | Walpole | 1500.0 |
-| 71 | Phillips Andover | 1500.0 |
+| 70 | Phillips Andover | 1500.0 |
+| 71 | Walpole | 1500.0 |
 | 72 | Bay Path | 1499.1 |
 | 73 | North Middlesex | 1496.5 |
 | 74 | Boston Latin | 1495.5 |

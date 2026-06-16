@@ -2007,11 +2007,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-04,120893,FINAL,Pentucket,4309,14.0,1.0,Sandwich,4340,6.0,0.0,Cape Ann,Cape & Islands,6:00 P.M.,,0
 2026-06-04,120896,FINAL,Abington,4002,14.0,1.0,Lynnfield,4223,4.0,0.0,South Shore,Cape Ann,2:30 P.M.,,0
 2026-06-04,120899,FINAL,Winthrop,4437,17.0,1.0,East Bridgewater,4126,4.0,0.0,Northeastern,South Shore,4:30 P.M.,,0
-2026-06-05,120563,FINAL,Mansfield,4230,8,1,Duxbury,4123,6,0,Hockomock,Patriot,7:45 P.M.,,0
-2026-06-05,120665,FINAL,Scituate,4343,11,1,Shawsheen,4346,6,0,Patriot,Commonwealth,7:00 P.M.,,0
-2026-06-05,120785,FINAL,Andover,4009,7,0,BC High,4029,8,1,Merrimack Valley,Catholic Conference,7:00 P.M.,,0
-2026-06-05,120878,FINAL,Ipswich,4190,14,1,Winthrop,4437,8,0,Cape Ann,Northeastern,6:00 P.M.,,0
-2026-06-05,120887,FINAL,Cohasset,4094,19,1,Bourne/Mashpee,4050,6,0,South Shore,South Coast,6:00 P.M.,,0
+2026-06-05,120563,FINAL,Mansfield,4230,8.0,1.0,Duxbury,4123,6.0,0.0,Hockomock,Patriot,7:45 P.M.,,0
+2026-06-05,120665,FINAL,Scituate,4343,11.0,1.0,Shawsheen,4346,6.0,0.0,Patriot,Commonwealth,7:00 P.M.,,0
+2026-06-05,120785,FINAL,Andover,4009,7.0,0.0,BC High,4029,8.0,1.0,Merrimack Valley,Catholic Conference,7:00 P.M.,,0
+2026-06-05,120878,FINAL,Ipswich,4190,14.0,1.0,Winthrop,4437,8.0,0.0,Cape Ann,Northeastern,6:00 P.M.,,0
+2026-06-05,120887,FINAL,Cohasset,4094,19.0,1.0,Bourne/Mashpee,4050,6.0,0.0,South Shore,South Coast,6:00 P.M.,,0
 2026-06-06,120566,FINAL,Longmeadow,4214,9,1,Hingham,4171,7,0,Independent,Patriot,1:00 P.M.,,0
 2026-06-06,120572,FINAL,Billerica,4040,8,0,Walpole,4404,14,1,Merrimack Valley,Bay State,7:00 P.M.,,0
 2026-06-06,120662,FINAL,Norwell,4296,7,1,Weston,4423,5,0,South Shore,Dual County,5:00 P.M.,,0

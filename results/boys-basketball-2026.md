@@ -1,6 +1,6 @@
 # Boys Basketball - 2026 Season
 
-Generated: 2026-06-15 16:16
+Generated: 2026-06-16 15:50
 
 ## Upcoming Games
 
@@ -239,9 +239,9 @@ Generated: 2026-06-15 16:16
 | 221 | Minnechaug | 1503.2 |
 | 222 | Frederick Gunn (Conn.) | 1503.0 |
 | 223 | International School | 1502.8 |
-| 224 | Bishop Connolly | 1502.8 |
-| 225 | Ruth Batson Academy | 1502.8 |
-| 226 | North Haven (Conn.) | 1502.8 |
+| 224 | Ruth Batson Academy | 1502.8 |
+| 225 | North Haven (Conn.) | 1502.8 |
+| 226 | Bishop Connolly | 1502.8 |
 | 227 | Waring | 1502.8 |
 | 228 | Marie Philip | 1502.8 |
 | 229 | Collegiate Charter | 1502.3 |
