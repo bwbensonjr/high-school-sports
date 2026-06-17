@@ -2012,14 +2012,14 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-05,120785,FINAL,Andover,4009,7.0,0.0,BC High,4029,8.0,1.0,Merrimack Valley,Catholic Conference,7:00 P.M.,,0
 2026-06-05,120878,FINAL,Ipswich,4190,14.0,1.0,Winthrop,4437,8.0,0.0,Cape Ann,Northeastern,6:00 P.M.,,0
 2026-06-05,120887,FINAL,Cohasset,4094,19.0,1.0,Bourne/Mashpee,4050,6.0,0.0,South Shore,South Coast,6:00 P.M.,,0
-2026-06-06,120566,FINAL,Longmeadow,4214,9,1,Hingham,4171,7,0,Independent,Patriot,1:00 P.M.,,0
-2026-06-06,120572,FINAL,Billerica,4040,8,0,Walpole,4404,14,1,Merrimack Valley,Bay State,7:00 P.M.,,0
-2026-06-06,120662,FINAL,Norwell,4296,7,1,Weston,4423,5,0,South Shore,Dual County,5:00 P.M.,,0
-2026-06-06,120779,FINAL,Acton-Boxborough,4003,11,1,Bishop Feehan,4042,7,0,Dual County,Independent,6:30 P.M.,,0
-2026-06-06,120782,FINAL,St. John’s Prep,4369,15,1,Winchester,4434,2,0,Catholic Conference,Middlesex,2:00 P.M.,,0
-2026-06-06,120788,FINAL,Lincoln-Sudbury,4211,17,1,Xaverian,4446,8,0,Independent,Catholic Conference,5:00 P.M.,,0
-2026-06-06,120881,FINAL,Nantucket,4265,10,1,Pentucket,4309,9,0,Cape & Islands,Cape Ann,6:00 P.M.,,0
-2026-06-06,120884,FINAL,Manchester Essex,4229,10,1,Abington,4002,6,0,Cape Ann,South Shore,6:30 P.M.,,0
+2026-06-06,120566,FINAL,Longmeadow,4214,9.0,1.0,Hingham,4171,7.0,0.0,Independent,Patriot,1:00 P.M.,,0
+2026-06-06,120572,FINAL,Billerica,4040,8.0,0.0,Walpole,4404,14.0,1.0,Merrimack Valley,Bay State,7:00 P.M.,,0
+2026-06-06,120662,FINAL,Norwell,4296,7.0,1.0,Weston,4423,5.0,0.0,South Shore,Dual County,5:00 P.M.,,0
+2026-06-06,120779,FINAL,Acton-Boxborough,4003,11.0,1.0,Bishop Feehan,4042,7.0,0.0,Dual County,Independent,6:30 P.M.,,0
+2026-06-06,120782,FINAL,St. John’s Prep,4369,15.0,1.0,Winchester,4434,2.0,0.0,Catholic Conference,Middlesex,2:00 P.M.,,0
+2026-06-06,120788,FINAL,Lincoln-Sudbury,4211,17.0,1.0,Xaverian,4446,8.0,0.0,Independent,Catholic Conference,5:00 P.M.,,0
+2026-06-06,120881,FINAL,Nantucket,4265,10.0,1.0,Pentucket,4309,9.0,0.0,Cape & Islands,Cape Ann,6:00 P.M.,,0
+2026-06-06,120884,FINAL,Manchester Essex,4229,10.0,1.0,Abington,4002,6.0,0.0,Cape Ann,South Shore,6:30 P.M.,,0
 2026-06-07,120659,FINAL,Medfield,4241,11,1,Falmouth,4134,5,0,Tri-Valley,Cape & Islands,6:30 P.M.,,0
 2026-06-08,120668,FINAL,Dracut,4119,7,1,Wakefield,4402,4,0,Merrimack Valley,Middlesex,6:30 P.M.,,0
 2026-06-09,120557,FINAL,Longmeadow,4214,13,1,Marshfield,4234,7,0,Independent,Patriot,4:30 P.M.,,0

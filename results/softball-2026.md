@@ -1,6 +1,6 @@
 # Softball - 2026 Season
 
-Generated: 2026-06-16 15:50
+Generated: 2026-06-17 14:25
 
 ## Upcoming Games
 
@@ -23,7 +23,6 @@ Generated: 2026-06-16 15:50
 | 2026-06-10 | Norton | 1 | Joseph Case | 3 | +3.7 | -2.0 |
 | 2026-06-10 | Georgetown | 6 | Hopedale | 9 | +3.6 | -3.0 |
 | 2026-06-10 | Maynard | 5 | Lenox | 1 | +7.2 | +4.0 |
-| 2026-06-09 | Dighton-Rehoboth | 1 | Apponequet | 2 | +4.4 | -1.0 |
 
 ## Current Elo Ratings
 
@@ -199,11 +198,11 @@ Generated: 2026-06-16 15:50
 | 168 | Whitman-Hanson | 1505.7 |
 | 169 | Sturgis | 1502.8 |
 | 170 | Westfield Tech/St. Mary (Westfield) | 1502.7 |
-| 171 | Dover-Sherborn | 1500.0 |
-| 172 | Woodward | 1500.0 |
-| 173 | St. John Paul II | 1500.0 |
-| 174 | Prospect Hill | 1500.0 |
-| 175 | Tiverton (R.I.) | 1500.0 |
+| 171 | St. John Paul II | 1500.0 |
+| 172 | Tiverton (R.I.) | 1500.0 |
+| 173 | Woodward | 1500.0 |
+| 174 | Dover-Sherborn | 1500.0 |
+| 175 | Prospect Hill | 1500.0 |
 | 176 | Mt. Greylock | 1499.1 |
 | 177 | Ayer Shirley | 1498.5 |
 | 178 | Greenfield | 1497.6 |

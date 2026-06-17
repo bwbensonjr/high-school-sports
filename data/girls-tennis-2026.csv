@@ -1746,8 +1746,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-05,118236,FINAL,Martha’s Vineyard,4235,4.0,1.0,Wilmington,4432,1.0,0.0,Cape & Islands,Middlesex,3:00 P.M.,,0
 2026-06-05,118350,FINAL,Manchester Essex,4229,5.0,1.0,Lenox,4532,0.0,0.0,Cape Ann,Independent,4:00 P.M.,,0
 2026-06-05,118356,FINAL,Hamilton-Wenham,4163,4.0,1.0,Hopedale,4507,1.0,0.0,Cape Ann,Independent,3:30 P.M.,,0
-2026-06-06,118011,FINAL,Newton South,4280,4,1,Wellesley,4413,1,0,Dual County,Bay State,2:00 P.M.,,0
-2026-06-06,118227,FINAL,Ursuline,4448,2,0,Weston,4423,3,1,Catholic Conference,Dual County,1:00 P.M.,,0
+2026-06-06,118011,FINAL,Newton South,4280,4.0,1.0,Wellesley,4413,1.0,0.0,Dual County,Bay State,2:00 P.M.,,0
+2026-06-06,118227,FINAL,Ursuline,4448,2.0,0.0,Weston,4423,3.0,1.0,Catholic Conference,Dual County,1:00 P.M.,,0
 2026-06-08,117999,FINAL,Newton South,4280,5,1,Westford,4421,0,0,Dual County,Dual County,3:00 P.M.,,0
 2026-06-08,118341,FINAL,Manchester Essex,4229,3,1,Ipswich,4190,2,0,Cape Ann,Cape Ann,3:00 P.M.,,0
 2026-06-09,118107,FINAL,Bedford,4031,3,1,Duxbury,4123,2,0,Dual County,Patriot,4:00 P.M.,,0

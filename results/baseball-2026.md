@@ -1,6 +1,6 @@
 # Baseball - 2026 Season
 
-Generated: 2026-06-16 15:50
+Generated: 2026-06-17 14:25
 
 ## Upcoming Games
 
@@ -16,16 +16,6 @@ Generated: 2026-06-16 15:50
 | 2026-06-13 | Hamilton-Wenham | 3 | Seekonk | 4 | +9.0 | -1.0 |
 | 2026-06-12 | Milton | 1 | King Philip | 4 | +3.1 | -3.0 |
 | 2026-06-12 | English High | 2 | Georgetown | 3 | +3.3 | -1.0 |
-| 2026-06-09 | Bishop Feehan | 6 | Xaverian | 3 | +2.6 | +3.0 |
-| 2026-06-09 | Catholic Memorial | 6 | Cambridge | 1 | -2.2 | +5.0 |
-| 2026-06-09 | Longmeadow | 4 | King Philip | 5 | +4.5 | -1.0 |
-| 2026-06-09 | St. Mary’s | 5 | Milton | 6 | +6.0 | -1.0 |
-| 2026-06-09 | Middleborough | 2 | Weston | 1 | +4.9 | +1.0 |
-| 2026-06-09 | Apponequet | 2 | Hanover | 1 | +1.9 | +1.0 |
-| 2026-06-09 | Dennis-Yarmouth | 4 | Seekonk | 7 | +4.6 | -3.0 |
-| 2026-06-09 | Hamilton-Wenham | 10 | St. John Paul II | 0 | +6.8 | +10.0 |
-| 2026-06-09 | Georgetown | 6 | Hopkins | 1 | -3.4 | +5.0 |
-| 2026-06-09 | English High | 3 | Drury | 0 | +0.9 | +3.0 |
 
 ## Current Elo Ratings
 
@@ -211,13 +201,13 @@ Generated: 2026-06-16 15:50
 | 178 | Hampshire | 1505.6 |
 | 179 | North Andover | 1501.3 |
 | 180 | Maimonides | 1500.3 |
-| 181 | Londonderry (N.H.) | 1500.0 |
-| 182 | Cristo Rey | 1500.0 |
-| 183 | Sturgis East | 1500.0 |
-| 184 | South Shore Christian | 1500.0 |
-| 185 | Cape Cod Academy | 1500.0 |
-| 186 | KIPP | 1500.0 |
-| 187 | Portsmouth (R.I.) | 1500.0 |
+| 181 | KIPP | 1500.0 |
+| 182 | Londonderry (N.H.) | 1500.0 |
+| 183 | Portsmouth (R.I.) | 1500.0 |
+| 184 | Cristo Rey | 1500.0 |
+| 185 | South Shore Christian | 1500.0 |
+| 186 | Sturgis East | 1500.0 |
+| 187 | Cape Cod Academy | 1500.0 |
 | 188 | Upper Cape | 1498.2 |
 | 189 | Canton | 1497.5 |
 | 190 | Boston Collegiate | 1495.6 |

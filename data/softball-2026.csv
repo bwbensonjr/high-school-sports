@@ -3121,19 +3121,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-05,120216,FINAL,Joseph Case,4078,5.0,1.0,Greater New Bedford,4156,2.0,0.0,South Coast,South Coast,4:30 P.M.,,0
 2026-06-05,120336,FINAL,Advanced Math and Science,4595,5.0,1.0,Lunenburg,4219,0.0,0.0,CMAC,Mid-Wach,6:00 P.M.,,0
 2026-06-05,120453,FINAL,Georgetown,4148,5.0,1.0,Monson,4429,0.0,0.0,Cape Ann,Independent,3:00 P.M.,,0
-2026-06-06,119991,FINAL,Shrewsbury,4348,6,1,Franklin,4144,5,0,Mid-Wach,Hockomock,3:00 P.M.,,0
-2026-06-06,119997,FINAL,Attleboro,4018,10,1,Bridgewater-Raynham,4053,0,0,Hockomock,Pioneer,11:00 A.M.,,0
-2026-06-06,120000,FINAL,Taunton,4388,12,1,Newton North,4279,2,0,Hockomock,Bay State,5:00 P.M.,,0
-2026-06-06,120102,FINAL,Somerset Berkley,4350,7,1,Stoughton,4381,5,0,South Coast,Hockomock,3:00 P.M.,,0
-2026-06-06,120105,FINAL,King Philip,4197,11,1,Silver Lake,4349,0,0,Hockomock,Patriot,11:00 A.M.,,0
-2026-06-06,120210,FINAL,Tantasqua,4387,2,0,Apponequet,4011,4,1,CMAC,South Coast,12:00 P.M.,,0
-2026-06-06,120213,FINAL,Norton,4295,7,1,Gloucester,4150,1,0,Tri-Valley,Northeastern,2:00 P.M.,,0
-2026-06-06,120219,FINAL,Dighton-Rehoboth,4114,16,1,St. Mary’s,4374,13,0,South Coast,Catholic Central,4:00 P.M.,,0
-2026-06-06,120327,FINAL,Seekonk,4344,6,1,West Bridgewater,4415,3,0,South Coast,South Coast,2:30 P.M.,,0
-2026-06-06,120330,FINAL,Hampshire,4518,7,1,Wahconah,4401,1,0,Independent,Independent,11:00 A.M.,,0
-2026-06-06,120333,FINAL,Tyngsborough,4397,9,1,East Bridgewater,4126,6,0,Mid-Wach,South Shore,12:00 P.M.,,0
-2026-06-06,120450,FINAL,Maynard,4239,4,1,Franklin County Tech,4145,1,0,Mid-Wach,Independent,2:00 P.M.,,0
-2026-06-06,120459,FINAL,Hoosac Valley,4178,2,0,Lenox,4532,3,1,Independent,Independent,12:30 P.M.,,0
+2026-06-06,119991,FINAL,Shrewsbury,4348,6.0,1.0,Franklin,4144,5.0,0.0,Mid-Wach,Hockomock,3:00 P.M.,,0
+2026-06-06,119997,FINAL,Attleboro,4018,10.0,1.0,Bridgewater-Raynham,4053,0.0,0.0,Hockomock,Pioneer,11:00 A.M.,,0
+2026-06-06,120000,FINAL,Taunton,4388,12.0,1.0,Newton North,4279,2.0,0.0,Hockomock,Bay State,5:00 P.M.,,0
+2026-06-06,120102,FINAL,Somerset Berkley,4350,7.0,1.0,Stoughton,4381,5.0,0.0,South Coast,Hockomock,3:00 P.M.,,0
+2026-06-06,120105,FINAL,King Philip,4197,11.0,1.0,Silver Lake,4349,0.0,0.0,Hockomock,Patriot,11:00 A.M.,,0
+2026-06-06,120210,FINAL,Tantasqua,4387,2.0,0.0,Apponequet,4011,4.0,1.0,CMAC,South Coast,12:00 P.M.,,0
+2026-06-06,120213,FINAL,Norton,4295,7.0,1.0,Gloucester,4150,1.0,0.0,Tri-Valley,Northeastern,2:00 P.M.,,0
+2026-06-06,120219,FINAL,Dighton-Rehoboth,4114,16.0,1.0,St. Mary’s,4374,13.0,0.0,South Coast,Catholic Central,4:00 P.M.,,0
+2026-06-06,120327,FINAL,Seekonk,4344,6.0,1.0,West Bridgewater,4415,3.0,0.0,South Coast,South Coast,2:30 P.M.,,0
+2026-06-06,120330,FINAL,Hampshire,4518,7.0,1.0,Wahconah,4401,1.0,0.0,Independent,Independent,11:00 A.M.,,0
+2026-06-06,120333,FINAL,Tyngsborough,4397,9.0,1.0,East Bridgewater,4126,6.0,0.0,Mid-Wach,South Shore,12:00 P.M.,,0
+2026-06-06,120450,FINAL,Maynard,4239,4.0,1.0,Franklin County Tech,4145,1.0,0.0,Mid-Wach,Independent,2:00 P.M.,,0
+2026-06-06,120459,FINAL,Hoosac Valley,4178,2.0,0.0,Lenox,4532,3.0,1.0,Independent,Independent,12:30 P.M.,,0
 2026-06-07,120456,FINAL,Hopedale,4507,12,1,Granby,4520,0,0,CMAC,Independent,4:00 P.M.,,0
 2026-06-08,120099,FINAL,Marshfield,4234,1,0,Wakefield,4402,2,1,Patriot,Middlesex,4:00 P.M.,,0
 2026-06-08,120321,FINAL,Hampshire,4518,0,0,Tyngsborough,4397,8,1,Independent,Mid-Wach,4:00 P.M.,,0

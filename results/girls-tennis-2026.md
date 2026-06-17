@@ -1,6 +1,6 @@
 # Girls Tennis - 2026 Season
 
-Generated: 2026-06-16 15:50
+Generated: 2026-06-17 14:25
 
 ## Upcoming Games
 
@@ -19,9 +19,6 @@ Generated: 2026-06-16 15:50
 | 2026-06-10 | Winchester | 2 | Boston Latin | 3 | +5.4 | -1.0 |
 | 2026-06-10 | Dover-Sherborn | 3 | Swampscott | 2 | +2.1 | +1.0 |
 | 2026-06-10 | Hamilton-Wenham | 3 | Bromfield | 2 | +8.2 | +1.0 |
-| 2026-06-09 | Bedford | 3 | Duxbury | 2 | -2.6 | +1.0 |
-| 2026-06-09 | Notre Dame (Hingham) | 3 | Hingham | 2 | +2.5 | +1.0 |
-| 2026-06-09 | Martha’s Vineyard | 5 | Weston | 0 | +15.4 | +5.0 |
 
 ## Current Elo Ratings
 

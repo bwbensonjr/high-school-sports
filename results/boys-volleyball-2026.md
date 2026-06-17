@@ -1,6 +1,6 @@
 # Boys Volleyball - 2026 Season
 
-Generated: 2026-06-16 15:50
+Generated: 2026-06-17 14:25
 
 ## Upcoming Games
 
@@ -13,10 +13,6 @@ Generated: 2026-06-16 15:50
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-06-13 | Needham | 1 | Brookline | 3 | +3.9 | -2.0 |
 | 2026-06-11 | Wayland | 3 | Westfield | 1 | +3.4 | +2.0 |
-| 2026-06-09 | Brookline | 3 | Natick | 2 | +1.6 | +1.0 |
-| 2026-06-09 | Needham | 3 | Newton North | 0 | +10.7 | +3.0 |
-| 2026-06-09 | Westfield | 3 | Chicopee Comprehensive | 0 | +6.2 | +3.0 |
-| 2026-06-09 | Wayland | 3 | Milford | 0 | +6.9 | +3.0 |
 
 ## Current Elo Ratings
 
@@ -91,8 +87,8 @@ Generated: 2026-06-16 15:50
 | 67 | Burlington | 1502.4 |
 | 68 | Keefe Tech | 1502.3 |
 | 69 | Minnechaug | 1501.0 |
-| 70 | Phillips Andover | 1500.0 |
-| 71 | Walpole | 1500.0 |
+| 70 | Walpole | 1500.0 |
+| 71 | Phillips Andover | 1500.0 |
 | 72 | Bay Path | 1499.1 |
 | 73 | North Middlesex | 1496.5 |
 | 74 | Boston Latin | 1495.5 |

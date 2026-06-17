@@ -1,6 +1,6 @@
 # Boys Tennis - 2026 Season
 
-Generated: 2026-06-16 15:50
+Generated: 2026-06-17 14:25
 
 ## Upcoming Games
 
@@ -18,8 +18,6 @@ Generated: 2026-06-16 15:50
 | 2026-06-13 | Hamilton-Wenham | 2 | Mystic Valley | 3 | +5.6 | -1.0 |
 | 2026-06-10 | Lexington | 2 | Newton North | 3 | +6.7 | -1.0 |
 | 2026-06-10 | Wayland | 4 | Newburyport | 1 | -0.5 | +3.0 |
-| 2026-06-09 | Newton South | 3 | Needham | 2 | +2.7 | +1.0 |
-| 2026-06-09 | Westborough | 5 | Marblehead | 0 | +1.2 | +5.0 |
 
 ## Current Elo Ratings
 
@@ -143,10 +141,10 @@ Generated: 2026-06-16 15:50
 | 116 | Palmer | 1502.3 |
 | 117 | Franklin | 1502.3 |
 | 118 | Chelmsford | 1501.4 |
-| 119 | Fellowship Christian | 1500.0 |
-| 120 | Greater Lawrence | 1500.0 |
-| 121 | Pittsfield | 1500.0 |
-| 122 | Greater Lowell | 1500.0 |
+| 119 | Greater Lowell | 1500.0 |
+| 120 | Pittsfield | 1500.0 |
+| 121 | Fellowship Christian | 1500.0 |
+| 122 | Greater Lawrence | 1500.0 |
 | 123 | Ashland | 1499.7 |
 | 124 | Chicopee | 1498.1 |
 | 125 | Austin Prep | 1496.9 |
