@@ -1,6 +1,6 @@
 # Boys Tennis - 2026 Season
 
-Generated: 2026-06-17 14:25
+Generated: 2026-06-18 14:08
 
 ## Upcoming Games
 
@@ -16,8 +16,6 @@ Generated: 2026-06-17 14:25
 | 2026-06-13 | Westborough | 4 | Duxbury | 1 | +1.0 | +3.0 |
 | 2026-06-13 | Weston | 3 | Wayland | 2 | +6.7 | +1.0 |
 | 2026-06-13 | Hamilton-Wenham | 2 | Mystic Valley | 3 | +5.6 | -1.0 |
-| 2026-06-10 | Lexington | 2 | Newton North | 3 | +6.7 | -1.0 |
-| 2026-06-10 | Wayland | 4 | Newburyport | 1 | -0.5 | +3.0 |
 
 ## Current Elo Ratings
 
@@ -141,10 +139,10 @@ Generated: 2026-06-17 14:25
 | 116 | Palmer | 1502.3 |
 | 117 | Franklin | 1502.3 |
 | 118 | Chelmsford | 1501.4 |
-| 119 | Greater Lowell | 1500.0 |
-| 120 | Pittsfield | 1500.0 |
-| 121 | Fellowship Christian | 1500.0 |
-| 122 | Greater Lawrence | 1500.0 |
+| 119 | Greater Lawrence | 1500.0 |
+| 120 | Greater Lowell | 1500.0 |
+| 121 | Pittsfield | 1500.0 |
+| 122 | Fellowship Christian | 1500.0 |
 | 123 | Ashland | 1499.7 |
 | 124 | Chicopee | 1498.1 |
 | 125 | Austin Prep | 1496.9 |
@@ -159,8 +157,8 @@ Generated: 2026-06-17 14:25
 | 134 | Brooks | 1492.1 |
 | 135 | Brookline | 1491.7 |
 | 136 | Beaver Country Day | 1491.7 |
-| 137 | Agawam | 1491.1 |
-| 138 | Governor’s Academy | 1491.1 |
+| 137 | Governor’s Academy | 1491.1 |
+| 138 | Agawam | 1491.1 |
 | 139 | Worcester South | 1489.3 |
 | 140 | Millbury | 1489.0 |
 | 141 | Quaboag | 1488.5 |

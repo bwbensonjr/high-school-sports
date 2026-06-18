@@ -1109,7 +1109,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-05,119092,FINAL,Brookline,4059,3.0,1.0,Newton South,4280,1.0,0.0,Bay State,Dual County,5:30 P.M.,,0
 2026-06-05,119098,FINAL,Needham,4272,3.0,1.0,Lowell,4216,0.0,0.0,Bay State,Merrimack Valley,4:00 P.M.,,0
 2026-06-05,119215,FINAL,Milford,4249,3.0,1.0,Norton,4295,0.0,0.0,Hockomock,Tri-Valley,6:00 P.M.,,0
-2026-06-07,119221,FINAL,Chicopee Comprehensive,4089,3,1,Latin Academy,4202,0,0,Independent,Boston City,12:00 P.M.,,0
+2026-06-07,119221,FINAL,Chicopee Comprehensive,4089,3.0,1.0,Latin Academy,4202,0.0,0.0,Independent,Boston City,12:00 P.M.,,0
 2026-06-09,119083,FINAL,Brookline,4059,3,1,Natick,4270,2,0,Bay State,Bay State,5:00 P.M.,,0
 2026-06-09,119086,FINAL,Needham,4272,3,1,Newton North,4279,0,0,Bay State,Bay State,7:15 P.M.,,0
 2026-06-09,119209,FINAL,Westfield,4419,3,1,Chicopee Comprehensive,4089,0,0,Independent,Independent,6:00 P.M.,,0
