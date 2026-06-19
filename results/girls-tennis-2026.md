@@ -1,12 +1,11 @@
 # Girls Tennis - 2026 Season
 
-Generated: 2026-06-18 14:08
+Generated: 2026-06-19 14:12
 
 ## Upcoming Games
 
-| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
-|------|------|-----------|-----------|------------|------------------|
-| 2026-06-18 | 3:30 P.M. | North Andover | Central Catholic | 26.6% | -7.1 |
+*No upcoming games scheduled*
+
 
 ## Recent Games
 

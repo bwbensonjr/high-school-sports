@@ -1,6 +1,6 @@
 # Girls Lacrosse - 2026 Season
 
-Generated: 2026-06-18 14:08
+Generated: 2026-06-19 14:12
 
 ## Upcoming Games
 
@@ -9,10 +9,8 @@ Generated: 2026-06-18 14:08
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-06-11 | Cohasset | 9 | Norwell | 6 | +7.5 | +3.0 |
-| 2026-06-11 | Sandwich | 9 | Ipswich | 6 | +4.0 | +3.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 

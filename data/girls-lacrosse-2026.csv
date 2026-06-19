@@ -1985,12 +1985,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-04,117912,FINAL,Sandwich,4340,20.0,1.0,Nantucket,4265,5.0,0.0,Cape & Islands,Cape & Islands,3:30 P.M.,,0
 2026-06-07,117549,FINAL,Chelmsford,4085,5.0,0.0,Concord-Carlisle,4097,6.0,1.0,Merrimack Valley,Dual County,6:00 P.M.,,0
 2026-06-07,117552,FINAL,Notre Dame (Hingham),4449,10.0,1.0,Westford,4421,7.0,0.0,Independent,Dual County,4:00 P.M.,,0
-2026-06-08,117654,FINAL,Reading,4328,8,1,Hingham,4171,7,0,Middlesex,Patriot,7:30 P.M.,,0
-2026-06-08,117657,FINAL,Walpole,4404,11,1,Duxbury,4123,8,0,Bay State,Patriot,5:30 P.M.,,0
-2026-06-08,117771,FINAL,Norwell,4296,16,1,Nashoba,4267,8,0,South Shore,Mid-Wach,5:30 P.M.,,0
-2026-06-08,117774,FINAL,Cohasset,4094,18,1,Wayland,4411,2,0,South Shore,Dual County,7:00 P.M.,,0
-2026-06-08,117897,FINAL,Ipswich,4190,12,1,Manchester Essex,4229,6,0,Cape Ann,Cape Ann,5:00 P.M.,,0
-2026-06-08,117900,FINAL,Sandwich,4340,15,1,Nipmuc,4281,2,0,Cape & Islands,CMAC,5:00 P.M.,,0
+2026-06-08,117654,FINAL,Reading,4328,8.0,1.0,Hingham,4171,7.0,0.0,Middlesex,Patriot,7:30 P.M.,,0
+2026-06-08,117657,FINAL,Walpole,4404,11.0,1.0,Duxbury,4123,8.0,0.0,Bay State,Patriot,5:30 P.M.,,0
+2026-06-08,117771,FINAL,Norwell,4296,16.0,1.0,Nashoba,4267,8.0,0.0,South Shore,Mid-Wach,5:30 P.M.,,0
+2026-06-08,117774,FINAL,Cohasset,4094,18.0,1.0,Wayland,4411,2.0,0.0,South Shore,Dual County,7:00 P.M.,,0
+2026-06-08,117897,FINAL,Ipswich,4190,12.0,1.0,Manchester Essex,4229,6.0,0.0,Cape Ann,Cape Ann,5:00 P.M.,,0
+2026-06-08,117900,FINAL,Sandwich,4340,15.0,1.0,Nipmuc,4281,2.0,0.0,Cape & Islands,CMAC,5:00 P.M.,,0
 2026-06-10,117546,FINAL,Notre Dame (Hingham),4449,9,0,Concord-Carlisle,4097,10,1,Independent,Dual County,4:30 P.M.,1.0,0
 2026-06-10,117651,FINAL,Walpole,4404,12,1,Reading,4328,11,0,Bay State,Middlesex,6:45 P.M.,,0
 2026-06-11,117768,FINAL,Cohasset,4094,9,1,Norwell,4296,6,0,South Shore,South Shore,6:45 P.M.,,0

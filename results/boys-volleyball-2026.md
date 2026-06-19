@@ -1,6 +1,6 @@
 # Boys Volleyball - 2026 Season
 
-Generated: 2026-06-18 14:08
+Generated: 2026-06-19 14:12
 
 ## Upcoming Games
 
@@ -12,7 +12,6 @@ Generated: 2026-06-18 14:08
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-06-13 | Needham | 1 | Brookline | 3 | +3.9 | -2.0 |
-| 2026-06-11 | Wayland | 3 | Westfield | 1 | +3.4 | +2.0 |
 
 ## Current Elo Ratings
 

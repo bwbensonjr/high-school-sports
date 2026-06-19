@@ -1,6 +1,6 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-06-18 14:08
+Generated: 2026-06-19 14:11
 
 ## Upcoming Games
 
@@ -9,10 +9,8 @@ Generated: 2026-06-18 14:08
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-06-11 | BC High | 48 | Milton | 17 | +3.8 | +31.0 |
-| 2026-06-11 | Hanover | 26 | Brookline | 19 | +0.3 | +7.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 
