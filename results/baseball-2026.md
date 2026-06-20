@@ -1,6 +1,6 @@
 # Baseball - 2026 Season
 
-Generated: 2026-06-19 14:11
+Generated: 2026-06-20 12:25
 
 ## Upcoming Games
 
@@ -14,8 +14,6 @@ Generated: 2026-06-19 14:11
 | 2026-06-13 | Bishop Feehan | 4 | Catholic Memorial | 13 | +1.9 | -9.0 |
 | 2026-06-13 | Middleborough | 2 | Apponequet | 1 | +4.5 | +1.0 |
 | 2026-06-13 | Hamilton-Wenham | 3 | Seekonk | 4 | +9.0 | -1.0 |
-| 2026-06-12 | Milton | 1 | King Philip | 4 | +3.1 | -3.0 |
-| 2026-06-12 | English High | 2 | Georgetown | 3 | +3.3 | -1.0 |
 
 ## Current Elo Ratings
 
@@ -201,13 +199,13 @@ Generated: 2026-06-19 14:11
 | 178 | Hampshire | 1505.6 |
 | 179 | North Andover | 1501.3 |
 | 180 | Maimonides | 1500.3 |
-| 181 | Portsmouth (R.I.) | 1500.0 |
-| 182 | Sturgis East | 1500.0 |
-| 183 | KIPP | 1500.0 |
-| 184 | Londonderry (N.H.) | 1500.0 |
-| 185 | Cape Cod Academy | 1500.0 |
-| 186 | Cristo Rey | 1500.0 |
-| 187 | South Shore Christian | 1500.0 |
+| 181 | Cristo Rey | 1500.0 |
+| 182 | KIPP | 1500.0 |
+| 183 | Sturgis East | 1500.0 |
+| 184 | Portsmouth (R.I.) | 1500.0 |
+| 185 | South Shore Christian | 1500.0 |
+| 186 | Londonderry (N.H.) | 1500.0 |
+| 187 | Cape Cod Academy | 1500.0 |
 | 188 | Upper Cape | 1498.2 |
 | 189 | Canton | 1497.5 |
 | 190 | Boston Collegiate | 1495.6 |

@@ -1,12 +1,11 @@
 # Boys Tennis - 2026 Season
 
-Generated: 2026-06-19 14:12
+Generated: 2026-06-20 12:25
 
 ## Upcoming Games
 
-| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
-|------|------|-----------|-----------|------------|------------------|
-| 2026-06-19 | 4:00 P.M. | Randolph | Rockland/EB | 43.5% | -1.8 |
+*No upcoming games scheduled*
+
 
 ## Recent Games
 
@@ -139,10 +138,10 @@ Generated: 2026-06-19 14:12
 | 116 | Palmer | 1502.3 |
 | 117 | Franklin | 1502.3 |
 | 118 | Chelmsford | 1501.4 |
-| 119 | Fellowship Christian | 1500.0 |
+| 119 | Greater Lowell | 1500.0 |
 | 120 | Pittsfield | 1500.0 |
-| 121 | Greater Lowell | 1500.0 |
-| 122 | Greater Lawrence | 1500.0 |
+| 121 | Greater Lawrence | 1500.0 |
+| 122 | Fellowship Christian | 1500.0 |
 | 123 | Ashland | 1499.7 |
 | 124 | Chicopee | 1498.1 |
 | 125 | Austin Prep | 1496.9 |

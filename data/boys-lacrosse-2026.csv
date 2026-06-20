@@ -2022,12 +2022,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-06,120884,FINAL,Manchester Essex,4229,10.0,1.0,Abington,4002,6.0,0.0,Cape Ann,South Shore,6:30 P.M.,,0
 2026-06-07,120659,FINAL,Medfield,4241,11.0,1.0,Falmouth,4134,5.0,0.0,Tri-Valley,Cape & Islands,6:30 P.M.,,0
 2026-06-08,120668,FINAL,Dracut,4119,7.0,1.0,Wakefield,4402,4.0,0.0,Merrimack Valley,Middlesex,6:30 P.M.,,0
-2026-06-09,120557,FINAL,Longmeadow,4214,13,1,Marshfield,4234,7,0,Independent,Patriot,4:30 P.M.,,0
-2026-06-09,120560,FINAL,Walpole,4404,1,0,Mansfield,4230,9,1,Bay State,Hockomock,7:00 P.M.,,0
-2026-06-09,120773,FINAL,St. John’s Prep,4369,10,0,BC High,4029,11,1,Catholic Conference,Catholic Conference,7:30 P.M.,1.0,0
-2026-06-09,120776,FINAL,Lincoln-Sudbury,4211,17,1,Acton-Boxborough,4003,5,0,Independent,Dual County,5:30 P.M.,,0
-2026-06-09,120872,FINAL,Nantucket,4265,8,1,Manchester Essex,4229,4,0,Cape & Islands,Cape Ann,3:30 P.M.,,0
-2026-06-09,120875,FORFEIT (Away),Cohasset,4094,7,1,Ipswich,4190,0,0,South Shore,Cape Ann,6:00 P.M.,,0
+2026-06-09,120557,FINAL,Longmeadow,4214,13.0,1.0,Marshfield,4234,7.0,0.0,Independent,Patriot,4:30 P.M.,,0
+2026-06-09,120560,FINAL,Walpole,4404,1.0,0.0,Mansfield,4230,9.0,1.0,Bay State,Hockomock,7:00 P.M.,,0
+2026-06-09,120773,FINAL,St. John’s Prep,4369,10.0,0.0,BC High,4029,11.0,1.0,Catholic Conference,Catholic Conference,7:30 P.M.,1.0,0
+2026-06-09,120776,FINAL,Lincoln-Sudbury,4211,17.0,1.0,Acton-Boxborough,4003,5.0,0.0,Independent,Dual County,5:30 P.M.,,0
+2026-06-09,120872,FINAL,Nantucket,4265,8.0,1.0,Manchester Essex,4229,4.0,0.0,Cape & Islands,Cape Ann,3:30 P.M.,,0
+2026-06-09,120875,FORFEIT (Away),Cohasset,4094,7.0,1.0,Ipswich,4190,0.0,0.0,South Shore,Cape Ann,6:00 P.M.,,0
 2026-06-10,120653,FINAL,Norwell,4296,8,0,Scituate,4343,12,1,South Shore,Patriot,6:30 P.M.,,0
 2026-06-10,120656,FINAL,Dracut,4119,11,1,Medfield,4241,7,0,Merrimack Valley,Tri-Valley,4:00 P.M.,,0
 2026-06-12,120554,FINAL,Longmeadow,4214,10,1,Mansfield,4230,5,0,Independent,Hockomock,7:00 P.M.,,0
