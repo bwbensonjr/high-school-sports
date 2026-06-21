@@ -1,6 +1,6 @@
 # Girls Tennis - 2026 Season
 
-Generated: 2026-06-20 12:25
+Generated: 2026-06-21 13:03
 
 ## Upcoming Games
 
@@ -9,12 +9,8 @@ Generated: 2026-06-20 12:25
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-06-13 | Newton South | 5 | Boston Latin | 0 | +3.9 | +5.0 |
-| 2026-06-13 | Notre Dame (Hingham) | 4 | Bedford | 1 | +6.7 | +3.0 |
-| 2026-06-13 | Martha’s Vineyard | 3 | Dover-Sherborn | 2 | +1.9 | +1.0 |
-| 2026-06-13 | Hamilton-Wenham | 2 | Manchester Essex | 3 | +1.5 | -1.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 
@@ -137,8 +133,8 @@ Generated: 2026-06-20 12:25
 | 115 | Hudson | 1503.8 |
 | 116 | St. Mary (Westfield) | 1502.2 |
 | 117 | St. Paul | 1501.1 |
-| 118 | Nashoba Valley Tech | 1500.0 |
-| 119 | Abington | 1500.0 |
+| 118 | Abington | 1500.0 |
+| 119 | Nashoba Valley Tech | 1500.0 |
 | 120 | Westport | 1498.8 |
 | 121 | Dexter Southfield | 1497.9 |
 | 122 | Northampton | 1496.3 |

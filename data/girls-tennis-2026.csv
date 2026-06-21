@@ -1753,9 +1753,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-09,118107,FINAL,Bedford,4031,3.0,1.0,Duxbury,4123,2.0,0.0,Dual County,Patriot,4:00 P.M.,,0
 2026-06-09,118110,FINAL,Notre Dame (Hingham),4449,3.0,1.0,Hingham,4171,2.0,0.0,Catholic Conference,Patriot,4:00 P.M.,,0
 2026-06-09,118224,FINAL,Martha’s Vineyard,4235,5.0,1.0,Weston,4423,0.0,0.0,Cape & Islands,Dual County,3:30 P.M.,,0
-2026-06-10,117996,FINAL,Winchester,4434,2,0,Boston Latin,4049,3,1,Middlesex,Dual County,2:00 P.M.,,0
-2026-06-10,118221,FINAL,Dover-Sherborn,4118,3,1,Swampscott,4383,2,0,Tri-Valley,Northeastern,2:00 P.M.,,0
-2026-06-10,118344,FINAL,Hamilton-Wenham,4163,3,1,Bromfield,4505,2,0,Cape Ann,Mid-Wach,2:00 P.M.,,0
+2026-06-10,117996,FINAL,Winchester,4434,2.0,0.0,Boston Latin,4049,3.0,1.0,Middlesex,Dual County,2:00 P.M.,,0
+2026-06-10,118221,FINAL,Dover-Sherborn,4118,3.0,1.0,Swampscott,4383,2.0,0.0,Tri-Valley,Northeastern,2:00 P.M.,,0
+2026-06-10,118344,FINAL,Hamilton-Wenham,4163,3.0,1.0,Bromfield,4505,2.0,0.0,Cape Ann,Mid-Wach,2:00 P.M.,,0
 2026-06-13,117993,FINAL,Newton South,4280,5,1,Boston Latin,4049,0,0,Dual County,Dual County,9:00 A.M.,,0
 2026-06-13,118104,FINAL,Notre Dame (Hingham),4449,4,1,Bedford,4031,1,0,Catholic Conference,Dual County,11:30 A.M.,,0
 2026-06-13,118218,FINAL,Martha’s Vineyard,4235,3,1,Dover-Sherborn,4118,2,0,Cape & Islands,Tri-Valley,2:00 P.M.,,0

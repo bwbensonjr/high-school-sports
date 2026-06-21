@@ -3139,13 +3139,13 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-08,120321,FINAL,Hampshire,4518,0.0,0.0,Tyngsborough,4397,8.0,1.0,Independent,Mid-Wach,4:00 P.M.,,0
 2026-06-08,120324,FINAL,Advanced Math and Science,4595,4.0,1.0,Seekonk,4344,3.0,0.0,CMAC,South Coast,6:00 P.M.,,0
 2026-06-09,120207,FINAL,Dighton-Rehoboth,4114,1.0,0.0,Apponequet,4011,2.0,1.0,South Coast,South Coast,3:30 P.M.,,0
-2026-06-10,119985,FINAL,Central Catholic,4081,4,0,Attleboro,4018,5,1,Merrimack Valley,Hockomock,5:30 P.M.,,0
-2026-06-10,119988,FINAL,Taunton,4388,9,1,Shrewsbury,4348,2,0,Hockomock,Mid-Wach,5:30 P.M.,,0
-2026-06-10,120090,FINAL,Wakefield,4402,2,0,Somerset Berkley,4350,3,1,Middlesex,South Coast,4:00 P.M.,,0
-2026-06-10,120093,FINAL,King Philip,4197,12,1,Shepherd Hill,4347,0,0,Hockomock,Mid-Wach,6:30 P.M.,,0
-2026-06-10,120204,FINAL,Norton,4295,1,0,Joseph Case,4078,3,1,Tri-Valley,South Coast,3:30 P.M.,,0
-2026-06-10,120444,FINAL,Georgetown,4148,6,0,Hopedale,4507,9,1,Cape Ann,CMAC,5:00 P.M.,,0
-2026-06-10,120447,FINAL,Maynard,4239,5,1,Lenox,4532,1,0,Mid-Wach,Independent,4:00 P.M.,,0
+2026-06-10,119985,FINAL,Central Catholic,4081,4.0,0.0,Attleboro,4018,5.0,1.0,Merrimack Valley,Hockomock,5:30 P.M.,,0
+2026-06-10,119988,FINAL,Taunton,4388,9.0,1.0,Shrewsbury,4348,2.0,0.0,Hockomock,Mid-Wach,5:30 P.M.,,0
+2026-06-10,120090,FINAL,Wakefield,4402,2.0,0.0,Somerset Berkley,4350,3.0,1.0,Middlesex,South Coast,4:00 P.M.,,0
+2026-06-10,120093,FINAL,King Philip,4197,12.0,1.0,Shepherd Hill,4347,0.0,0.0,Hockomock,Mid-Wach,6:30 P.M.,,0
+2026-06-10,120204,FINAL,Norton,4295,1.0,0.0,Joseph Case,4078,3.0,1.0,Tri-Valley,South Coast,3:30 P.M.,,0
+2026-06-10,120444,FINAL,Georgetown,4148,6.0,0.0,Hopedale,4507,9.0,1.0,Cape Ann,CMAC,5:00 P.M.,,0
+2026-06-10,120447,FINAL,Maynard,4239,5.0,1.0,Lenox,4532,1.0,0.0,Mid-Wach,Independent,4:00 P.M.,,0
 2026-06-12,120201,FINAL,Joseph Case,4078,5,1,Apponequet,4011,1,0,South Coast,South Coast,4:00 P.M.,,0
 2026-06-12,120318,FINAL,Advanced Math and Science,4595,8,1,Tyngsborough,4397,2,0,CMAC,Mid-Wach,6:30 P.M.,,0
 2026-06-13,119982,FINAL,Taunton,4388,10,1,Attleboro,4018,8,0,Hockomock,Hockomock,5:00 P.M.,,0
