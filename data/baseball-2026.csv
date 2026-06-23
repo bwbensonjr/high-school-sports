@@ -3242,8 +3242,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-06-09,119734,FINAL,Hamilton-Wenham,4163,10.0,1.0,St. John Paul II,4689,0.0,0.0,Cape Ann,Cape & Islands,7:00 P.M.,,0
 2026-06-09,119869,FINAL,Georgetown,4148,6.0,1.0,Hopkins,4531,1.0,0.0,Cape Ann,Hampshire,4:00 P.M.,,0
 2026-06-09,119872,FINAL,English High,4048,3.0,1.0,Drury,4120,0.0,0.0,Boston City,Independent,2:00 P.M.,,0
-2026-06-12,119485,FINAL,Milton,4252,1,0,King Philip,4197,4,1,Bay State,Hockomock,7:00 P.M.,,0
-2026-06-12,119866,FINAL,English High,4048,2,0,Georgetown,4148,3,1,Boston City,Cape Ann,4:00 P.M.,,0
+2026-06-12,119485,FINAL,Milton,4252,1.0,0.0,King Philip,4197,4.0,1.0,Bay State,Hockomock,7:00 P.M.,,0
+2026-06-12,119866,FINAL,English High,4048,2.0,0.0,Georgetown,4148,3.0,1.0,Boston City,Cape Ann,4:00 P.M.,,0
 2026-06-13,119374,FINAL,Bishop Feehan,4042,4,0,Catholic Memorial,4080,13,1,Independent,Catholic Conference,6:00 P.M.,,0
 2026-06-13,119593,FINAL,Middleborough,4247,2,1,Apponequet,4011,1,0,South Shore,South Coast,3:00 P.M.,,0
 2026-06-13,119728,FINAL,Hamilton-Wenham,4163,3,0,Seekonk,4344,4,1,Cape Ann,South Coast,12:00 P.M.,,0
