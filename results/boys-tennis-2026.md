@@ -1,6 +1,6 @@
 # Boys Tennis - 2026 Season
 
-Generated: 2026-06-28 12:14
+Generated: 2026-06-29 14:45
 
 ## Upcoming Games
 
@@ -152,8 +152,8 @@ Generated: 2026-06-28 12:14
 | 134 | Brooks | 1492.1 |
 | 135 | Brookline | 1491.7 |
 | 136 | Beaver Country Day | 1491.7 |
-| 137 | Governor’s Academy | 1491.1 |
-| 138 | Agawam | 1491.1 |
+| 137 | Agawam | 1491.1 |
+| 138 | Governor’s Academy | 1491.1 |
 | 139 | Worcester South | 1489.3 |
 | 140 | Millbury | 1489.0 |
 | 141 | Quaboag | 1488.5 |

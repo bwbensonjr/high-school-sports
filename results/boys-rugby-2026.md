@@ -1,6 +1,6 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-06-28 12:14
+Generated: 2026-06-29 14:45
 
 ## Upcoming Games
 
