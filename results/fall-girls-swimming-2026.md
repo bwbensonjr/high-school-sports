@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-07-08 12:19
+Generated: 2026-07-09 13:47
 
 ## Upcoming Games
 
@@ -9,8 +9,9 @@ Generated: 2026-07-08 12:19
 
 ## Recent Games
 
-*No games in the last 7 days*
-
+| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
+|------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-07-08 | Acton-Boxborough | 89 | Chelmsford | 97 | +15.1 | -8.0 |
 
 ## Current Elo Ratings
 
@@ -22,45 +23,45 @@ Generated: 2026-07-08 12:19
 | 4 | Westwood | 1620.6 |
 | 5 | Nashoba | 1617.7 |
 | 6 | North Andover | 1615.5 |
-| 7 | Acton-Boxborough | 1608.9 |
-| 8 | Hingham | 1600.5 |
-| 9 | Wellesley | 1592.3 |
-| 10 | Milton | 1589.5 |
-| 11 | Taunton | 1589.3 |
-| 12 | Concord-Carlisle | 1587.2 |
-| 13 | Hopkinton | 1580.7 |
-| 14 | Ursuline | 1575.7 |
-| 15 | Brookline | 1574.0 |
-| 16 | Sharon | 1571.5 |
-| 17 | Notre Dame (Hingham) | 1571.1 |
-| 18 | Methuen/Tewksbury | 1567.6 |
+| 7 | Hingham | 1600.5 |
+| 8 | Wellesley | 1592.3 |
+| 9 | Milton | 1589.5 |
+| 10 | Taunton | 1589.3 |
+| 11 | Concord-Carlisle | 1587.2 |
+| 12 | Hopkinton | 1580.7 |
+| 13 | Ursuline | 1575.7 |
+| 14 | Brookline | 1574.0 |
+| 15 | Sharon | 1571.5 |
+| 16 | Notre Dame (Hingham) | 1571.1 |
+| 17 | Methuen/Tewksbury | 1567.6 |
+| 18 | Acton-Boxborough | 1562.5 |
 | 19 | Winchester | 1560.1 |
-| 20 | Franklin | 1552.6 |
-| 21 | Apponequet | 1543.3 |
-| 22 | Arlington Catholic | 1542.6 |
-| 23 | Weston | 1539.9 |
-| 24 | Westborough | 1538.3 |
-| 25 | New Bedford | 1537.9 |
-| 26 | Oliver Ames | 1536.9 |
-| 27 | Scituate | 1536.5 |
-| 28 | Needham | 1533.3 |
-| 29 | Bishop Feehan | 1532.4 |
-| 30 | Marshfield/Hanover | 1531.2 |
-| 31 | Lexington | 1531.1 |
-| 32 | Tantasqua | 1530.4 |
-| 33 | Newton North | 1530.2 |
-| 34 | Archbishop Williams | 1530.1 |
-| 35 | Belmont | 1529.4 |
-| 36 | Barnstable | 1528.4 |
-| 37 | Wayland | 1526.1 |
-| 38 | St. Mary’s | 1523.8 |
-| 39 | Canton | 1521.8 |
-| 40 | Martha’s Vineyard | 1519.7 |
-| 41 | Duxbury | 1519.5 |
-| 42 | Reading | 1519.4 |
-| 43 | Quincy | 1516.2 |
-| 44 | Mansfield | 1508.3 |
-| 45 | Chelmsford | 1508.2 |
+| 20 | Chelmsford | 1554.6 |
+| 21 | Franklin | 1552.6 |
+| 22 | Apponequet | 1543.3 |
+| 23 | Arlington Catholic | 1542.6 |
+| 24 | Weston | 1539.9 |
+| 25 | Westborough | 1538.3 |
+| 26 | New Bedford | 1537.9 |
+| 27 | Oliver Ames | 1536.9 |
+| 28 | Scituate | 1536.5 |
+| 29 | Needham | 1533.3 |
+| 30 | Bishop Feehan | 1532.4 |
+| 31 | Marshfield/Hanover | 1531.2 |
+| 32 | Lexington | 1531.1 |
+| 33 | Tantasqua | 1530.4 |
+| 34 | Newton North | 1530.2 |
+| 35 | Archbishop Williams | 1530.1 |
+| 36 | Belmont | 1529.4 |
+| 37 | Barnstable | 1528.4 |
+| 38 | Wayland | 1526.1 |
+| 39 | St. Mary’s | 1523.8 |
+| 40 | Canton | 1521.8 |
+| 41 | Martha’s Vineyard | 1519.7 |
+| 42 | Duxbury | 1519.5 |
+| 43 | Reading | 1519.4 |
+| 44 | Quincy | 1516.2 |
+| 45 | Mansfield | 1508.3 |
 | 46 | Sandwich | 1500.4 |
 | 47 | Dedham | 1499.9 |
 | 48 | Wakefield/Wakefield | 1490.8 |

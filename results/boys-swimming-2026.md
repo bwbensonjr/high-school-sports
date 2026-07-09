@@ -1,6 +1,6 @@
 # Boys Swimming - 2026 Season
 
-Generated: 2026-07-08 12:19
+Generated: 2026-07-09 13:47
 
 ## Upcoming Games
 
@@ -9,8 +9,9 @@ Generated: 2026-07-08 12:19
 
 ## Recent Games
 
-*No games in the last 7 days*
-
+| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
+|------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-07-08 | Seekonk | 99 | Durfee | 77 | +7.6 | +22.0 |
 
 ## Current Elo Ratings
 
@@ -21,7 +22,7 @@ Generated: 2026-07-08 12:19
 | 3 | Xaverian | 1696.3 |
 | 4 | Sharon | 1669.3 |
 | 5 | Martha’s Vineyard | 1647.6 |
-| 6 | Seekonk | 1610.7 |
+| 6 | Seekonk | 1634.2 |
 | 7 | Shrewsbury | 1609.0 |
 | 8 | Westford | 1601.5 |
 | 9 | Old Rochester | 1601.5 |
@@ -63,16 +64,16 @@ Generated: 2026-07-08 12:19
 | 45 | Dedham | 1477.5 |
 | 46 | Bishop Stang | 1476.1 |
 | 47 | Lincoln-Sudbury | 1473.1 |
-| 48 | Durfee | 1469.7 |
-| 49 | Newton South | 1468.7 |
-| 50 | Lexington | 1468.5 |
-| 51 | O’Bryant | 1467.9 |
-| 52 | Melrose | 1467.8 |
-| 53 | Swampscott | 1464.5 |
-| 54 | BC High | 1463.2 |
-| 55 | Cardinal Spellman | 1459.9 |
-| 56 | Scituate | 1456.0 |
-| 57 | Silver Lake/Whitman-Hanson | 1453.0 |
+| 48 | Newton South | 1468.7 |
+| 49 | Lexington | 1468.5 |
+| 50 | O’Bryant | 1467.9 |
+| 51 | Melrose | 1467.8 |
+| 52 | Swampscott | 1464.5 |
+| 53 | BC High | 1463.2 |
+| 54 | Cardinal Spellman | 1459.9 |
+| 55 | Scituate | 1456.0 |
+| 56 | Silver Lake/Whitman-Hanson | 1453.0 |
+| 57 | Durfee | 1446.2 |
 | 58 | Attleboro | 1445.1 |
 | 59 | Franklin | 1441.4 |
 | 60 | Holliston/Medway | 1439.1 |

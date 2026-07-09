@@ -1,6 +1,6 @@
 # Boys Skiing (Alpine) - 2026 Season
 
-Generated: 2026-07-08 12:18
+Generated: 2026-07-09 13:47
 
 ## Upcoming Games
 
