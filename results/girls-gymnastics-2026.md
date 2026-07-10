@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2026 Season
 
-Generated: 2026-07-09 13:47
+Generated: 2026-07-10 13:09
 
 ## Upcoming Games
 
@@ -9,8 +9,9 @@ Generated: 2026-07-09 13:47
 
 ## Recent Games
 
-*No games in the last 7 days*
-
+| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
+|------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-07-09 | Bishop Fenwick | 125 | Marblehead/Swampscott | 126 | +1.7 | -1.3 |
 
 ## Current Elo Ratings
 
@@ -46,23 +47,23 @@ Generated: 2026-07-09 13:47
 | 28 | Arlington | 1500.8 |
 | 29 | Middleborough | 1495.6 |
 | 30 | Burlington | 1495.2 |
-| 31 | Salem | 1485.7 |
-| 32 | Walpole | 1483.9 |
-| 33 | Braintree | 1481.3 |
-| 34 | King Philip | 1481.0 |
-| 35 | Melrose | 1479.5 |
-| 36 | Foxborough | 1478.5 |
-| 37 | Marblehead/Swampscott | 1473.8 |
+| 31 | Marblehead/Swampscott | 1488.1 |
+| 32 | Salem | 1485.7 |
+| 33 | Walpole | 1483.9 |
+| 34 | Braintree | 1481.3 |
+| 35 | King Philip | 1481.0 |
+| 36 | Melrose | 1479.5 |
+| 37 | Foxborough | 1478.5 |
 | 38 | Silver Lake | 1473.1 |
 | 39 | Wakefield | 1471.3 |
 | 40 | Algonquin | 1469.5 |
 | 41 | Wayland | 1469.3 |
 | 42 | Stoneham | 1466.7 |
-| 43 | Bishop Fenwick | 1466.4 |
-| 44 | Natick | 1464.3 |
-| 45 | Plymouth North/South | 1456.5 |
-| 46 | Peabody | 1455.4 |
-| 47 | Norwood | 1455.0 |
+| 43 | Natick | 1464.3 |
+| 44 | Plymouth North/South | 1456.5 |
+| 45 | Peabody | 1455.4 |
+| 46 | Norwood | 1455.0 |
+| 47 | Bishop Fenwick | 1452.0 |
 | 48 | Norton | 1447.9 |
 | 49 | Needham | 1445.6 |
 | 50 | Cohasset/Norwell | 1439.1 |

@@ -1,6 +1,6 @@
 # Girls Track - 2026 Season
 
-Generated: 2026-07-09 13:47
+Generated: 2026-07-10 13:09
 
 ## Upcoming Games
 
@@ -9,8 +9,9 @@ Generated: 2026-07-09 13:47
 
 ## Recent Games
 
-*No games in the last 7 days*
-
+| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
+|------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-07-09 | Newburyport | 89 | Pentucket | 55 | +2.0 | +34.0 |
 
 ## Current Elo Ratings
 
@@ -44,62 +45,64 @@ Generated: 2026-07-09 13:47
 | 26 | Canton | 1550.0 |
 | 27 | Nauset | 1548.4 |
 | 28 | Marshfield | 1546.0 |
-| 29 | Westwood | 1544.7 |
-| 30 | Duxbury | 1533.0 |
-| 31 | Needham | 1532.9 |
-| 32 | Tri-County | 1530.8 |
-| 33 | West Bridgewater | 1529.8 |
-| 34 | Blue Hills | 1527.0 |
-| 35 | North Attleborough | 1507.1 |
-| 36 | Somerset Berkley | 1502.1 |
-| 37 | Braintree | 1500.3 |
-| 38 | Silver Lake | 1498.5 |
-| 39 | Norton | 1495.1 |
-| 40 | Attleboro | 1486.8 |
-| 41 | North Andover | 1485.2 |
-| 42 | Lynnfield | 1482.7 |
-| 43 | Archbishop Williams | 1477.9 |
-| 44 | Waltham | 1476.2 |
-| 45 | Boston Latin | 1472.0 |
-| 46 | Hamilton-Wenham | 1470.2 |
-| 47 | Blackstone Valley | 1468.1 |
-| 48 | Parker Charter | 1467.8 |
-| 49 | Norwood | 1464.1 |
-| 50 | Holliston | 1461.1 |
-| 51 | Leominster | 1460.8 |
-| 52 | Swampscott | 1459.7 |
-| 53 | Notre Dame (Worcester) | 1458.1 |
-| 54 | Bishop Fenwick | 1458.0 |
-| 55 | Danvers | 1457.3 |
-| 56 | Millis | 1453.2 |
-| 57 | Marlborough | 1451.9 |
-| 58 | Amesbury | 1451.7 |
-| 59 | Sandwich | 1451.6 |
-| 60 | Abby Kelley Foster | 1450.8 |
-| 61 | Salem | 1450.3 |
-| 62 | Oliver Ames | 1450.0 |
-| 63 | Essex Tech | 1449.1 |
-| 64 | Andover | 1447.4 |
-| 65 | Everett | 1446.7 |
-| 66 | Joseph Case | 1446.2 |
-| 67 | Middleborough | 1445.8 |
-| 68 | Tyngsborough | 1444.7 |
-| 69 | North Middlesex | 1442.7 |
-| 70 | Bristol-Plymouth | 1442.2 |
-| 71 | Apponequet | 1440.0 |
-| 72 | Marblehead | 1436.1 |
-| 73 | Milford | 1433.3 |
-| 74 | Hudson | 1427.2 |
-| 75 | Assabet | 1423.2 |
-| 76 | Beverly | 1420.0 |
-| 77 | Wayland | 1412.1 |
-| 78 | Weymouth | 1402.8 |
-| 79 | Milton | 1397.8 |
-| 80 | Bishop Stang | 1393.9 |
-| 81 | Ashland | 1387.9 |
-| 82 | Brookline | 1379.0 |
-| 83 | Bourne | 1370.1 |
-| 84 | Whitman-Hanson | 1357.6 |
-| 85 | Walpole | 1354.4 |
-| 86 | Cristo Rey | 1351.7 |
-| 87 | Framingham | 1294.9 |
+| 29 | Newburyport | 1545.7 |
+| 30 | Westwood | 1544.7 |
+| 31 | Duxbury | 1533.0 |
+| 32 | Needham | 1532.9 |
+| 33 | Tri-County | 1530.8 |
+| 34 | West Bridgewater | 1529.8 |
+| 35 | Blue Hills | 1527.0 |
+| 36 | North Attleborough | 1507.1 |
+| 37 | Somerset Berkley | 1502.1 |
+| 38 | Braintree | 1500.3 |
+| 39 | Silver Lake | 1498.5 |
+| 40 | Norton | 1495.1 |
+| 41 | Attleboro | 1486.8 |
+| 42 | North Andover | 1485.2 |
+| 43 | Lynnfield | 1482.7 |
+| 44 | Archbishop Williams | 1477.9 |
+| 45 | Waltham | 1476.2 |
+| 46 | Boston Latin | 1472.0 |
+| 47 | Hamilton-Wenham | 1470.2 |
+| 48 | Blackstone Valley | 1468.1 |
+| 49 | Parker Charter | 1467.8 |
+| 50 | Norwood | 1464.1 |
+| 51 | Holliston | 1461.1 |
+| 52 | Leominster | 1460.8 |
+| 53 | Swampscott | 1459.7 |
+| 54 | Notre Dame (Worcester) | 1458.1 |
+| 55 | Bishop Fenwick | 1458.0 |
+| 56 | Danvers | 1457.3 |
+| 57 | Pentucket | 1454.3 |
+| 58 | Millis | 1453.2 |
+| 59 | Marlborough | 1451.9 |
+| 60 | Amesbury | 1451.7 |
+| 61 | Sandwich | 1451.6 |
+| 62 | Abby Kelley Foster | 1450.8 |
+| 63 | Salem | 1450.3 |
+| 64 | Oliver Ames | 1450.0 |
+| 65 | Essex Tech | 1449.1 |
+| 66 | Andover | 1447.4 |
+| 67 | Everett | 1446.7 |
+| 68 | Joseph Case | 1446.2 |
+| 69 | Middleborough | 1445.8 |
+| 70 | Tyngsborough | 1444.7 |
+| 71 | North Middlesex | 1442.7 |
+| 72 | Bristol-Plymouth | 1442.2 |
+| 73 | Apponequet | 1440.0 |
+| 74 | Marblehead | 1436.1 |
+| 75 | Milford | 1433.3 |
+| 76 | Hudson | 1427.2 |
+| 77 | Assabet | 1423.2 |
+| 78 | Beverly | 1420.0 |
+| 79 | Wayland | 1412.1 |
+| 80 | Weymouth | 1402.8 |
+| 81 | Milton | 1397.8 |
+| 82 | Bishop Stang | 1393.9 |
+| 83 | Ashland | 1387.9 |
+| 84 | Brookline | 1379.0 |
+| 85 | Bourne | 1370.1 |
+| 86 | Whitman-Hanson | 1357.6 |
+| 87 | Walpole | 1354.4 |
+| 88 | Cristo Rey | 1351.7 |
+| 89 | Framingham | 1294.9 |
