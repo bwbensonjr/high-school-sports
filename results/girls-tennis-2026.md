@@ -1,6 +1,6 @@
 # Girls Tennis - 2026 Season
 
-Generated: 2026-07-12 11:57
+Generated: 2026-07-13 13:21
 
 ## Upcoming Games
 
@@ -133,8 +133,8 @@ Generated: 2026-07-12 11:57
 | 115 | Hudson | 1503.8 |
 | 116 | St. Mary (Westfield) | 1502.2 |
 | 117 | St. Paul | 1501.1 |
-| 118 | Abington | 1500.0 |
-| 119 | Nashoba Valley Tech | 1500.0 |
+| 118 | Nashoba Valley Tech | 1500.0 |
+| 119 | Abington | 1500.0 |
 | 120 | Westport | 1498.8 |
 | 121 | Dexter Southfield | 1497.9 |
 | 122 | Northampton | 1496.3 |
