@@ -1,6 +1,6 @@
 # Boys Swimming - 2026 Season
 
-Generated: 2026-07-15 12:12
+Generated: 2026-07-16 12:18
 
 ## Upcoming Games
 
@@ -9,9 +9,8 @@ Generated: 2026-07-15 12:12
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-07-08 | Seekonk | 99 | Durfee | 77 | +7.6 | +22.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 

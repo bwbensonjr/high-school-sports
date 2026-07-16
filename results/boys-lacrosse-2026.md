@@ -1,6 +1,6 @@
 # Boys Lacrosse - 2026 Season
 
-Generated: 2026-07-15 12:12
+Generated: 2026-07-16 12:18
 
 ## Upcoming Games
 
@@ -154,8 +154,8 @@ Generated: 2026-07-15 12:12
 | 136 | South Hadley | 1504.0 |
 | 137 | Moses Brown (R.I.) | 1503.2 |
 | 138 | Landmark | 1501.3 |
-| 139 | Mashpee | 1500.0 |
-| 140 | Everett | 1500.0 |
+| 139 | Everett | 1500.0 |
+| 140 | Mashpee | 1500.0 |
 | 141 | St. Anthony’s (N.Y.) | 1500.0 |
 | 142 | Bourne | 1500.0 |
 | 143 | Latin Academy | 1500.0 |
