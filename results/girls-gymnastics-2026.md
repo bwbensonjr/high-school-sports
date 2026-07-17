@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2026 Season
 
-Generated: 2026-07-16 12:18
+Generated: 2026-07-17 12:07
 
 ## Upcoming Games
 
@@ -12,7 +12,6 @@ Generated: 2026-07-16 12:18
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-07-15 | North Attleborough | 119 | Canton | 117 | +2.0 | +2.0 |
-| 2026-07-09 | Bishop Fenwick | 125 | Marblehead/Swampscott | 126 | +1.7 | -1.3 |
 
 ## Current Elo Ratings
 

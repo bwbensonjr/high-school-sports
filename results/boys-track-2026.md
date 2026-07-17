@@ -1,6 +1,6 @@
 # Boys Track - 2026 Season
 
-Generated: 2026-07-16 12:18
+Generated: 2026-07-17 12:06
 
 ## Upcoming Games
 
@@ -12,7 +12,6 @@ Generated: 2026-07-16 12:18
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-07-14 | Falmouth | 30 | Dennis-Yarmouth | 108 | +2.0 | -78.0 |
-| 2026-07-09 | Newburyport | 106 | Pentucket | 39 | +2.0 | +67.0 |
 
 ## Current Elo Ratings
 

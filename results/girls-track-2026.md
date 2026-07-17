@@ -1,6 +1,6 @@
 # Girls Track - 2026 Season
 
-Generated: 2026-07-16 12:18
+Generated: 2026-07-17 12:07
 
 ## Upcoming Games
 
@@ -9,9 +9,8 @@ Generated: 2026-07-16 12:18
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-07-09 | Newburyport | 89 | Pentucket | 55 | +2.0 | +34.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 

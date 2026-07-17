@@ -1,6 +1,6 @@
 # Softball - 2026 Season
 
-Generated: 2026-07-16 12:19
+Generated: 2026-07-17 12:07
 
 ## Upcoming Games
 
@@ -9,8 +9,9 @@ Generated: 2026-07-16 12:19
 
 ## Recent Games
 
-*No games in the last 7 days*
-
+| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
+|------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-07-16 | Somerville | 10 | Everett | 23 | +4.2 | -13.0 |
 
 ## Current Elo Ratings
 
@@ -186,11 +187,11 @@ Generated: 2026-07-16 12:19
 | 168 | Whitman-Hanson | 1505.7 |
 | 169 | Sturgis | 1502.8 |
 | 170 | Westfield Tech/St. Mary (Westfield) | 1502.7 |
-| 171 | Dover-Sherborn | 1500.0 |
-| 172 | St. John Paul II | 1500.0 |
-| 173 | Prospect Hill | 1500.0 |
-| 174 | Woodward | 1500.0 |
-| 175 | Tiverton (R.I.) | 1500.0 |
+| 171 | Prospect Hill | 1500.0 |
+| 172 | Woodward | 1500.0 |
+| 173 | Tiverton (R.I.) | 1500.0 |
+| 174 | St. John Paul II | 1500.0 |
+| 175 | Dover-Sherborn | 1500.0 |
 | 176 | Mt. Greylock | 1499.1 |
 | 177 | Ayer Shirley | 1498.5 |
 | 178 | Greenfield | 1497.6 |
@@ -299,8 +300,8 @@ Generated: 2026-07-16 12:19
 | 281 | Keefe Tech | 1387.9 |
 | 282 | Dennis-Yarmouth | 1387.0 |
 | 283 | Falmouth | 1381.6 |
-| 284 | Somerville | 1380.8 |
-| 285 | Chelsea | 1377.4 |
+| 284 | Chelsea | 1377.4 |
+| 285 | Everett | 1376.7 |
 | 286 | South Hadley | 1370.9 |
 | 287 | Nantucket | 1370.6 |
 | 288 | Doherty | 1370.0 |
@@ -324,9 +325,9 @@ Generated: 2026-07-16 12:19
 | 306 | Shawsheen | 1338.7 |
 | 307 | Hampden Charter East | 1334.5 |
 | 308 | Pittsfield | 1329.6 |
-| 309 | Commerce | 1328.6 |
-| 310 | Holliston | 1325.6 |
-| 311 | Everett | 1325.4 |
+| 309 | Somerville | 1329.6 |
+| 310 | Commerce | 1328.6 |
+| 311 | Holliston | 1325.6 |
 | 312 | Worcester South | 1325.0 |
 | 313 | Fenway | 1323.4 |
 | 314 | Bourne | 1321.5 |
