@@ -90,4 +90,5 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-01-29,83798,FINAL,Snowden/Quincy Upper,4452,37.0,1.0,CASH,4187,10.0,0.0,Boston City,Boston City,,,0
 2026-01-29,83801,FINAL,Boston International,4547,66.0,1.0,Madison Park,4225,6.0,0.0,Boston City,Boston City,,,0
 2026-01-30,83890,FINAL,North Andover,4283,41.0,0.0,Chelmsford,4085,58.0,1.0,Merrimack Valley,Merrimack Valley,,,0
-2026-04-15,102618,FINAL,Danvers,4103,26,0,Masconomet,4236,110,1,Northeastern,Northeastern,,,0
+2026-04-15,102618,FINAL,Danvers,4103,26.0,0.0,Masconomet,4236,110.0,1.0,Northeastern,Northeastern,,,0
+2026-07-17,123952,FINAL,Scituate,4343,22,0,Pembroke,4308,63,1,Patriot,Patriot,,,0
