@@ -1,6 +1,6 @@
 # Girls Soccer - 2026 Season
 
-Generated: 2026-07-20 13:03
+Generated: 2026-07-21 12:22
 
 ## Upcoming Games
 
@@ -9,9 +9,8 @@ Generated: 2026-07-20 13:03
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-07-13 | Whittier | 1 | Triton | 1 | +1.5 | 0.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 
@@ -213,15 +212,15 @@ Generated: 2026-07-20 13:03
 | 194 | Madison Park | 1503.9 |
 | 195 | Concord Academy | 1503.6 |
 | 196 | Canton | 1503.1 |
-| 197 | Cumberland (R.I.) | 1502.8 |
-| 198 | Taft | 1502.8 |
-| 199 | Bridgton Academy | 1502.8 |
-| 200 | Kingswood-Oxford | 1502.8 |
-| 201 | Kent | 1502.8 |
-| 202 | Poughkeepsie Day (N.Y.) | 1502.8 |
-| 203 | South Shore Christian | 1502.8 |
-| 204 | Neighborhood House Charter | 1502.8 |
-| 205 | Boston Prep | 1502.8 |
+| 197 | Kent | 1502.8 |
+| 198 | Poughkeepsie Day (N.Y.) | 1502.8 |
+| 199 | Taft | 1502.8 |
+| 200 | Bridgton Academy | 1502.8 |
+| 201 | Kingswood-Oxford | 1502.8 |
+| 202 | Cumberland (R.I.) | 1502.8 |
+| 203 | Boston Prep | 1502.8 |
+| 204 | South Shore Christian | 1502.8 |
+| 205 | Neighborhood House Charter | 1502.8 |
 | 206 | Billerica | 1501.4 |
 | 207 | Melrose | 1500.7 |
 | 208 | Rivers | 1500.0 |

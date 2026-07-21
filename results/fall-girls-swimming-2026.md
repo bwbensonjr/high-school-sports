@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-07-20 13:03
+Generated: 2026-07-21 12:22
 
 ## Upcoming Games
 
@@ -9,9 +9,8 @@ Generated: 2026-07-20 13:03
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-07-13 | Milford | 87 | Braintree | 46 | +15.2 | +41.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 

@@ -1,2 +1,3 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win,season,home_elo_pre,away_elo_pre,home_elo_post,away_elo_post,home_win_prob,away_win_prob,pred_point_spread,actual_point_spread
 2026-07-14,122929,FINAL,Central Catholic,4081,56,1,Andover,4009,13,0,Merrimack Valley,Merrimack Valley,,,0,2026,1500.0,1500.0,1548.6499448656455,1451.3500551343545,0.5714631174083814,0.4285368825916186,2.0,43.0
+2026-07-20,124097,FINAL,Nauset,4271,58,1,Atlantis Charter,4818,10,0,Cape & Islands,Independent,,,0,2026,1500.0,1500.0,1550.0336561447734,1449.9663438552266,0.5714631174083814,0.4285368825916186,2.0,48.0
