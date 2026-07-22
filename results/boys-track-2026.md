@@ -1,6 +1,6 @@
 # Boys Track - 2026 Season
 
-Generated: 2026-07-21 12:22
+Generated: 2026-07-22 12:23
 
 ## Upcoming Games
 
@@ -9,9 +9,8 @@ Generated: 2026-07-21 12:22
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-07-14 | Falmouth | 30 | Dennis-Yarmouth | 108 | +2.0 | -78.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 
