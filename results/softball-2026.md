@@ -1,6 +1,6 @@
 # Softball - 2026 Season
 
-Generated: 2026-07-23 12:22
+Generated: 2026-07-24 12:16
 
 ## Upcoming Games
 
@@ -9,9 +9,8 @@ Generated: 2026-07-23 12:22
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-07-16 | Somerville | 10 | Everett | 23 | +4.2 | -13.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 
@@ -187,11 +186,11 @@ Generated: 2026-07-23 12:22
 | 168 | Whitman-Hanson | 1505.7 |
 | 169 | Sturgis | 1502.8 |
 | 170 | Westfield Tech/St. Mary (Westfield) | 1502.7 |
-| 171 | Tiverton (R.I.) | 1500.0 |
+| 171 | Prospect Hill | 1500.0 |
 | 172 | St. John Paul II | 1500.0 |
-| 173 | Dover-Sherborn | 1500.0 |
+| 173 | Tiverton (R.I.) | 1500.0 |
 | 174 | Woodward | 1500.0 |
-| 175 | Prospect Hill | 1500.0 |
+| 175 | Dover-Sherborn | 1500.0 |
 | 176 | Mt. Greylock | 1499.1 |
 | 177 | Ayer Shirley | 1498.5 |
 | 178 | Greenfield | 1497.6 |
