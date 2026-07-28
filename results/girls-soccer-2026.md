@@ -1,6 +1,6 @@
 # Girls Soccer - 2026 Season
 
-Generated: 2026-07-27 13:36
+Generated: 2026-07-28 12:50
 
 ## Upcoming Games
 
@@ -213,14 +213,14 @@ Generated: 2026-07-27 13:36
 | 195 | Concord Academy | 1503.6 |
 | 196 | Canton | 1503.1 |
 | 197 | South Shore Christian | 1502.8 |
-| 198 | Cumberland (R.I.) | 1502.8 |
-| 199 | Neighborhood House Charter | 1502.8 |
-| 200 | Bridgton Academy | 1502.8 |
-| 201 | Poughkeepsie Day (N.Y.) | 1502.8 |
-| 202 | Kingswood-Oxford | 1502.8 |
-| 203 | Kent | 1502.8 |
-| 204 | Taft | 1502.8 |
-| 205 | Boston Prep | 1502.8 |
+| 198 | Neighborhood House Charter | 1502.8 |
+| 199 | Kingswood-Oxford | 1502.8 |
+| 200 | Kent | 1502.8 |
+| 201 | Boston Prep | 1502.8 |
+| 202 | Cumberland (R.I.) | 1502.8 |
+| 203 | Poughkeepsie Day (N.Y.) | 1502.8 |
+| 204 | Bridgton Academy | 1502.8 |
+| 205 | Taft | 1502.8 |
 | 206 | Billerica | 1501.4 |
 | 207 | Melrose | 1500.7 |
 | 208 | Rivers | 1500.0 |
