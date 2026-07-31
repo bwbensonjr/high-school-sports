@@ -1,6 +1,6 @@
 # Boys Wrestling - 2026 Season
 
-Generated: 2026-07-30 12:27
+Generated: 2026-07-31 12:53
 
 ## Upcoming Games
 
@@ -9,8 +9,9 @@ Generated: 2026-07-30 12:27
 
 ## Recent Games
 
-*No games in the last 7 days*
-
+| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
+|------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-07-30 | Keefe Tech | 52 | Atlantis Charter | 28 | +4.0 | +24.0 |
 
 ## Current Elo Ratings
 
@@ -18,5 +19,6 @@ Generated: 2026-07-30 12:27
 |------|------|------------|
 | 1 | Nauset | 1550.0 |
 | 2 | Central Catholic | 1548.6 |
-| 3 | Andover | 1451.4 |
-| 4 | Atlantis Charter | 1450.0 |
+| 3 | Keefe Tech | 1534.8 |
+| 4 | Andover | 1451.4 |
+| 5 | Atlantis Charter | 1415.2 |
