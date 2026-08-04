@@ -1,6 +1,6 @@
 # Boys Skiing (Alpine) - 2026 Season
 
-Generated: 2026-08-03 13:38
+Generated: 2026-08-04 12:59
 
 ## Upcoming Games
 
@@ -16,6 +16,6 @@ Generated: 2026-08-03 13:38
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Bedford | 1500.0 |
-| 2 | Nashoba | 1500.0 |
+| 1 | Nashoba | 1500.0 |
+| 2 | Bedford | 1500.0 |
 | 3 | Lincoln-Sudbury | 1500.0 |

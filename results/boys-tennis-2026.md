@@ -1,6 +1,6 @@
 # Boys Tennis - 2026 Season
 
-Generated: 2026-08-03 13:38
+Generated: 2026-08-04 12:59
 
 ## Upcoming Games
 
@@ -134,9 +134,9 @@ Generated: 2026-08-03 13:38
 | 116 | Palmer | 1502.3 |
 | 117 | Franklin | 1502.3 |
 | 118 | Chelmsford | 1501.4 |
-| 119 | Greater Lowell | 1500.0 |
-| 120 | Pittsfield | 1500.0 |
-| 121 | Greater Lawrence | 1500.0 |
+| 119 | Pittsfield | 1500.0 |
+| 120 | Greater Lawrence | 1500.0 |
+| 121 | Greater Lowell | 1500.0 |
 | 122 | Fellowship Christian | 1500.0 |
 | 123 | Ashland | 1499.7 |
 | 124 | Chicopee | 1498.1 |
