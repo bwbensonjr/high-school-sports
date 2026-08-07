@@ -1,6 +1,6 @@
 # Softball - 2026 Season
 
-Generated: 2026-08-06 12:53
+Generated: 2026-08-07 11:42
 
 ## Upcoming Games
 
@@ -188,8 +188,8 @@ Generated: 2026-08-06 12:53
 | 170 | Westfield Tech/St. Mary (Westfield) | 1502.7 |
 | 171 | Woodward | 1500.0 |
 | 172 | Tiverton (R.I.) | 1500.0 |
-| 173 | Prospect Hill | 1500.0 |
-| 174 | Dover-Sherborn | 1500.0 |
+| 173 | Dover-Sherborn | 1500.0 |
+| 174 | Prospect Hill | 1500.0 |
 | 175 | St. John Paul II | 1500.0 |
 | 176 | Mt. Greylock | 1499.1 |
 | 177 | Ayer Shirley | 1498.5 |
