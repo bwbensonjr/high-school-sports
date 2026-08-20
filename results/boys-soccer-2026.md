@@ -1,12 +1,15 @@
 # Boys Soccer - 2026 Season
 
-Generated: 2026-08-19 11:21
+Generated: 2026-08-20 11:23
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
 | 2026-08-28 | 3:30 P.M. | Advanced Math and Science | Whitinsville Christian | 70.9% | +3.1 |
+| 2026-08-28 | 3:30 P.M. | Holyoke | Bay Path | 49.7% | -0.0 |
+| 2026-08-29 | 9:30 P.M. | Millbury | Blackstone-Millville | 63.3% | +1.9 |
+| 2026-08-29 | 9:30 A.M. | Millbury | Blue Hills | 59.9% | +1.4 |
 
 ## Recent Games
 
@@ -219,13 +222,13 @@ Generated: 2026-08-19 11:21
 | 200 | Worcester Academy | 1502.9 |
 | 201 | Wheeler (R.I.) | 1501.7 |
 | 202 | Worcester South | 1501.7 |
-| 203 | Argosy Collegiate | 1501.7 |
-| 204 | Xavier (Conn.) | 1501.7 |
-| 205 | La Salle (R.I.) | 1501.7 |
-| 206 | Newton Country Day | 1501.7 |
-| 207 | Community Charter | 1501.7 |
-| 208 | St. Mark’s | 1501.7 |
-| 209 | South Shore Christian | 1501.7 |
+| 203 | Xavier (Conn.) | 1501.7 |
+| 204 | St. Mark’s | 1501.7 |
+| 205 | Argosy Collegiate | 1501.7 |
+| 206 | La Salle (R.I.) | 1501.7 |
+| 207 | South Shore Christian | 1501.7 |
+| 208 | Community Charter | 1501.7 |
+| 209 | Newton Country Day | 1501.7 |
 | 210 | Lincoln-Sudbury | 1501.6 |
 | 211 | Phillips Exeter | 1501.3 |
 | 212 | Sturgis West | 1501.1 |
