@@ -1,15 +1,23 @@
 # Boys Soccer - 2026 Season
 
-Generated: 2026-08-20 11:23
+Generated: 2026-08-21 11:22
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
+| 2026-08-26 | 8:30 A.M. | Blue Hills | Dedham | 50.7% | +0.1 |
+| 2026-08-27 | 6:00 P.M. | Marlborough | Bromfield | 40.6% | -1.3 |
 | 2026-08-28 | 3:30 P.M. | Advanced Math and Science | Whitinsville Christian | 70.9% | +3.1 |
 | 2026-08-28 | 3:30 P.M. | Holyoke | Bay Path | 49.7% | -0.0 |
+| 2026-08-28 | 8:30 A.M. | Blue Hills | Avon | 69.5% | +2.9 |
+| 2026-08-28 | 5:00 P.M. | Carver | Whitman-Hanson | 59.8% | +1.4 |
 | 2026-08-29 | 9:30 P.M. | Millbury | Blackstone-Millville | 63.3% | +1.9 |
-| 2026-08-29 | 9:30 A.M. | Millbury | Blue Hills | 59.9% | +1.4 |
+| 2026-08-29 | 8:00 A.M. | Barnstable | Cohasset | 45.0% | -0.7 |
+| 2026-08-31 | 3:30 P.M. | Abington | Apponequet | 71.1% | +3.1 |
+| 2026-08-31 | 4:00 P.M. | Bellingham | Blackstone-Millville | 52.6% | +0.4 |
+| 2026-08-31 | 5:15 P.M. | Auburn | Clinton | 63.1% | +1.9 |
+| 2026-08-31 | 4:00 P.M. | Hanover | Cohasset | 44.1% | -0.8 |
 
 ## Recent Games
 
@@ -222,10 +230,10 @@ Generated: 2026-08-20 11:23
 | 200 | Worcester Academy | 1502.9 |
 | 201 | Wheeler (R.I.) | 1501.7 |
 | 202 | Worcester South | 1501.7 |
-| 203 | Xavier (Conn.) | 1501.7 |
-| 204 | St. Mark’s | 1501.7 |
-| 205 | Argosy Collegiate | 1501.7 |
-| 206 | La Salle (R.I.) | 1501.7 |
+| 203 | St. Mark’s | 1501.7 |
+| 204 | Argosy Collegiate | 1501.7 |
+| 205 | La Salle (R.I.) | 1501.7 |
+| 206 | Xavier (Conn.) | 1501.7 |
 | 207 | South Shore Christian | 1501.7 |
 | 208 | Community Charter | 1501.7 |
 | 209 | Newton Country Day | 1501.7 |
