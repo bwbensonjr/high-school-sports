@@ -1,6 +1,6 @@
 # Boys Soccer - 2026 Season
 
-Generated: 2026-08-21 11:22
+Generated: 2026-08-22 11:17
 
 ## Upcoming Games
 
@@ -8,16 +8,22 @@ Generated: 2026-08-21 11:22
 |------|------|-----------|-----------|------------|------------------|
 | 2026-08-26 | 8:30 A.M. | Blue Hills | Dedham | 50.7% | +0.1 |
 | 2026-08-27 | 6:00 P.M. | Marlborough | Bromfield | 40.6% | -1.3 |
+| 2026-08-27 | 4:30 P.M. | Falmouth | Silver Lake | 52.0% | +0.3 |
 | 2026-08-28 | 3:30 P.M. | Advanced Math and Science | Whitinsville Christian | 70.9% | +3.1 |
 | 2026-08-28 | 3:30 P.M. | Holyoke | Bay Path | 49.7% | -0.0 |
 | 2026-08-28 | 8:30 A.M. | Blue Hills | Avon | 69.5% | +2.9 |
 | 2026-08-28 | 5:00 P.M. | Carver | Whitman-Hanson | 59.8% | +1.4 |
-| 2026-08-29 | 9:30 P.M. | Millbury | Blackstone-Millville | 63.3% | +1.9 |
+| 2026-08-28 | 5:00 P.M. | Pope Francis | Frontier | 54.9% | +0.7 |
 | 2026-08-29 | 8:00 A.M. | Barnstable | Cohasset | 45.0% | -0.7 |
+| 2026-08-29 | 9:30 P.M. | Millbury | Blackstone-Millville | 63.3% | +1.9 |
 | 2026-08-31 | 3:30 P.M. | Abington | Apponequet | 71.1% | +3.1 |
 | 2026-08-31 | 4:00 P.M. | Bellingham | Blackstone-Millville | 52.6% | +0.4 |
 | 2026-08-31 | 5:15 P.M. | Auburn | Clinton | 63.1% | +1.9 |
 | 2026-08-31 | 4:00 P.M. | Hanover | Cohasset | 44.1% | -0.8 |
+| 2026-08-31 | 4:00 P.M. | Falmouth | Plymouth North | 50.2% | +0.0 |
+| 2026-09-01 | 4:00 P.M. | Lowell Catholic | Amesbury | 50.0% | -0.0 |
+| 2026-09-01 | 4:00 P.M. | Bromfield | Millis | 70.9% | +3.1 |
+| 2026-09-01 | 4:00 P.M. | Norwood | Foxborough | 51.1% | +0.2 |
 
 ## Recent Games
 
@@ -230,218 +236,219 @@ Generated: 2026-08-21 11:22
 | 200 | Worcester Academy | 1502.9 |
 | 201 | Wheeler (R.I.) | 1501.7 |
 | 202 | Worcester South | 1501.7 |
-| 203 | St. Mark’s | 1501.7 |
+| 203 | Community Charter | 1501.7 |
 | 204 | Argosy Collegiate | 1501.7 |
-| 205 | La Salle (R.I.) | 1501.7 |
-| 206 | Xavier (Conn.) | 1501.7 |
-| 207 | South Shore Christian | 1501.7 |
-| 208 | Community Charter | 1501.7 |
-| 209 | Newton Country Day | 1501.7 |
-| 210 | Lincoln-Sudbury | 1501.6 |
-| 211 | Phillips Exeter | 1501.3 |
-| 212 | Sturgis West | 1501.1 |
-| 213 | St. George’s | 1500.4 |
-| 214 | Covenant Christian | 1499.5 |
-| 215 | St. Andrew’s | 1499.2 |
-| 216 | Dennis-Yarmouth | 1498.6 |
-| 217 | Rockport | 1498.5 |
-| 218 | East Longmeadow | 1498.4 |
-| 219 | Choate | 1498.3 |
-| 220 | Westford | 1498.1 |
-| 221 | Dearborn STEM | 1497.9 |
-| 222 | New Hampton | 1497.5 |
-| 223 | Kimball Union | 1497.4 |
-| 224 | Belmont Hill | 1497.1 |
-| 225 | Old Colony | 1497.0 |
-| 226 | Holland (Burke) | 1496.8 |
-| 227 | Brookline | 1496.8 |
-| 228 | Shrewsbury | 1496.5 |
-| 229 | Wooster | 1496.3 |
-| 230 | Berkshire | 1496.3 |
-| 231 | Pioneer Valley | 1496.2 |
-| 232 | Barrington (R.I.) | 1496.0 |
-| 233 | Mashpee | 1495.5 |
-| 234 | St. Luke’s | 1495.5 |
-| 235 | Newman School | 1495.2 |
-| 236 | Arlington Catholic | 1494.2 |
-| 237 | Melrose | 1494.1 |
-| 238 | Quaboag | 1493.7 |
-| 239 | Brimmer & May | 1493.7 |
-| 240 | Storm King | 1493.7 |
-| 241 | Avon Old Farms | 1493.7 |
-| 242 | Charlestown | 1493.1 |
-| 243 | Boston Latin | 1493.0 |
-| 244 | Rocky Hill Country Day | 1492.4 |
-| 245 | Bancroft | 1491.5 |
-| 246 | Brooks | 1490.4 |
-| 247 | Marlborough | 1490.3 |
-| 248 | South Lancaster | 1490.2 |
-| 249 | Salem Academy | 1489.9 |
-| 250 | Assabet | 1489.8 |
-| 251 | Northfield Mt. Hermon | 1489.3 |
-| 252 | Dexter Southfield | 1489.2 |
-| 253 | Tilton | 1489.1 |
-| 254 | Commerce | 1488.9 |
-| 255 | Groton | 1488.7 |
-| 256 | Leominster | 1488.5 |
-| 257 | South Shore Voc-Tech | 1488.2 |
-| 258 | Wilbraham & Monson | 1487.9 |
-| 259 | Andover | 1487.0 |
-| 260 | Marianapolis | 1486.3 |
-| 261 | Boston Prep | 1485.7 |
-| 262 | Proctor | 1485.7 |
-| 263 | Hoosac Valley | 1485.6 |
-| 264 | Rivers | 1485.3 |
-| 265 | BB&N | 1485.1 |
-| 266 | Pomfret | 1485.0 |
-| 267 | Blue Hills | 1483.8 |
-| 268 | Kents Hill | 1483.6 |
-| 269 | Canton | 1483.6 |
-| 270 | Burncoat | 1483.5 |
-| 271 | King Philip | 1483.5 |
-| 272 | Austin Prep | 1483.4 |
-| 273 | Oakmont | 1483.0 |
-| 274 | Pentucket | 1482.6 |
-| 275 | Pacific Rim Charter | 1482.2 |
-| 276 | Tri-County | 1481.9 |
-| 277 | Foxborough Charter | 1481.5 |
-| 278 | Catholic Memorial | 1481.0 |
-| 279 | Cushing | 1480.8 |
-| 280 | Mt. Everett | 1480.7 |
-| 281 | Wachusett | 1480.4 |
-| 282 | Neighborhood House Charter | 1479.8 |
-| 283 | Greenfield | 1479.7 |
-| 284 | Boston Collegiate | 1479.1 |
-| 285 | Salem | 1478.6 |
-| 286 | New Heights Charter | 1478.2 |
-| 287 | Mystic Valley | 1478.0 |
-| 288 | Essex Tech | 1478.0 |
-| 289 | Westborough | 1477.4 |
-| 290 | David Prouty | 1476.3 |
-| 291 | Harvey (N.Y.) | 1475.8 |
-| 292 | Pingree | 1475.6 |
-| 293 | Worcester North | 1475.5 |
-| 294 | Pioneer Valley Chinese Immersion | 1475.0 |
-| 295 | Tahanto | 1474.5 |
-| 296 | Brewster Academy | 1474.5 |
-| 297 | Milton | 1474.3 |
-| 298 | Thayer | 1474.0 |
-| 299 | Lexington Christian | 1473.7 |
-| 300 | Governor’s Academy | 1472.7 |
-| 301 | Apponequet | 1472.5 |
-| 302 | St. Bernard’s | 1472.0 |
-| 303 | Christian Heritage | 1471.5 |
-| 304 | Falmouth | 1471.2 |
-| 305 | South Shore Charter | 1471.0 |
-| 306 | Medford | 1471.0 |
-| 307 | Gateway | 1470.3 |
-| 308 | Lynn Tech | 1469.4 |
-| 309 | Seekonk | 1469.2 |
-| 310 | Diman | 1468.6 |
-| 311 | Landmark | 1468.6 |
-| 312 | Holyoke | 1468.5 |
-| 313 | Hopkins | 1466.9 |
-| 314 | Bishop Fenwick | 1466.0 |
-| 315 | Quabbin | 1465.2 |
-| 316 | University Park | 1464.7 |
-| 317 | Cardinal Spellman | 1463.8 |
-| 318 | Southbridge | 1463.5 |
-| 319 | Clinton | 1463.3 |
-| 320 | KIPP Academy | 1463.0 |
-| 321 | Everett | 1462.8 |
-| 322 | Bedford | 1460.9 |
-| 323 | Codman Charter | 1460.6 |
-| 324 | St. Paul | 1460.1 |
-| 325 | Franklin County Tech | 1460.0 |
-| 326 | Pittsfield | 1459.6 |
-| 327 | Braintree | 1459.1 |
-| 328 | Blackstone-Millville | 1458.7 |
-| 329 | Sandwich | 1457.2 |
-| 330 | Prospect Hill | 1456.8 |
-| 331 | Phillips Andover | 1456.6 |
-| 332 | Winthrop | 1455.8 |
-| 333 | Saugus | 1455.6 |
-| 334 | Monty Tech | 1455.2 |
-| 335 | Bristol-Plymouth | 1454.8 |
-| 336 | Springfield Sci-Tech | 1454.7 |
-| 337 | North Attleborough | 1454.6 |
-| 338 | Beaver Country Day | 1454.4 |
-| 339 | Sizer | 1453.6 |
-| 340 | Nauset | 1453.2 |
-| 341 | Norton | 1453.2 |
-| 342 | Southwick | 1453.1 |
-| 343 | Chicopee Comprehensive | 1451.9 |
-| 344 | Duggan Academy | 1451.8 |
-| 345 | Fitchburg | 1451.7 |
-| 346 | West Boylston | 1451.2 |
-| 347 | Lawrence | 1450.7 |
-| 348 | Roxbury Prep | 1449.8 |
-| 349 | Belchertown | 1449.8 |
-| 350 | Athol | 1449.6 |
-| 351 | Shepherd Hill | 1447.6 |
-| 352 | Douglas | 1447.2 |
-| 353 | Lynn Classical | 1447.0 |
-| 354 | Chelmsford | 1446.7 |
-| 355 | Bishop Stang | 1446.3 |
-| 356 | Malden | 1444.6 |
-| 357 | Fairhaven | 1444.6 |
-| 358 | Excel Academy | 1444.2 |
-| 359 | Falmouth Academy | 1443.4 |
-| 360 | Snowden | 1443.0 |
-| 361 | Nashoba Valley Tech | 1442.1 |
-| 362 | Woburn | 1440.6 |
-| 363 | Dracut | 1439.3 |
-| 364 | Westfield | 1438.9 |
-| 365 | Collegiate Charter | 1438.1 |
-| 366 | Haverhill | 1437.7 |
-| 367 | Easthampton | 1436.6 |
-| 368 | MATCH Charter | 1435.8 |
-| 369 | South Boston | 1434.8 |
-| 370 | Whitinsville Christian | 1433.6 |
-| 371 | Hull | 1432.4 |
-| 372 | Hudson | 1431.8 |
-| 373 | Peabody | 1430.7 |
-| 374 | Renaissance | 1430.0 |
-| 375 | Wareham | 1427.6 |
-| 376 | Bellingham | 1427.1 |
-| 377 | Middleborough | 1426.9 |
-| 378 | Burlington | 1425.6 |
-| 379 | St. Mary (Westfield) | 1425.1 |
-| 380 | Putnam | 1424.7 |
-| 381 | Drury | 1424.5 |
-| 382 | Acton-Boxborough | 1420.4 |
-| 383 | North Quincy | 1420.1 |
-| 384 | Maimonides | 1419.8 |
-| 385 | Medway | 1419.7 |
-| 386 | Bartlett | 1419.2 |
-| 387 | Abby Kelley Foster | 1418.2 |
-| 388 | Georgetown | 1417.2 |
-| 389 | Malden Catholic | 1415.6 |
-| 390 | Tewksbury | 1412.2 |
-| 391 | Brooke Charter | 1410.2 |
-| 392 | Bourne | 1407.7 |
-| 393 | Gloucester | 1405.1 |
-| 394 | Parker Charter | 1397.9 |
-| 395 | Stoneham | 1395.5 |
-| 396 | Amesbury | 1391.0 |
-| 397 | Ware | 1390.7 |
-| 398 | Avon | 1390.6 |
-| 399 | Quincy | 1390.5 |
-| 400 | Randolph | 1389.0 |
-| 401 | Foxborough | 1386.8 |
-| 402 | Mahar | 1383.3 |
-| 403 | Cristo Rey/Cathedral | 1383.1 |
-| 404 | Sturgis East | 1381.5 |
-| 405 | Plymouth South | 1380.0 |
-| 406 | Carver | 1375.8 |
-| 407 | Bristol Aggie | 1366.6 |
-| 408 | Triton | 1358.6 |
-| 409 | Whitman-Hanson | 1357.0 |
-| 410 | Cape Cod Academy | 1352.5 |
-| 411 | Walpole | 1352.2 |
-| 412 | Norfolk Aggie | 1348.3 |
-| 413 | Norwood | 1344.4 |
-| 414 | Lowell Catholic | 1340.8 |
-| 415 | Whittier | 1329.7 |
-| 416 | Taunton | 1324.0 |
-| 417 | Wilmington | 1322.0 |
+| 205 | South Shore Christian | 1501.7 |
+| 206 | Newton Country Day | 1501.7 |
+| 207 | Xavier (Conn.) | 1501.7 |
+| 208 | La Salle (R.I.) | 1501.7 |
+| 209 | Millis | 1501.7 |
+| 210 | St. Mark’s | 1501.7 |
+| 211 | Lincoln-Sudbury | 1501.6 |
+| 212 | Phillips Exeter | 1501.3 |
+| 213 | Sturgis West | 1501.1 |
+| 214 | St. George’s | 1500.4 |
+| 215 | Covenant Christian | 1499.5 |
+| 216 | St. Andrew’s | 1499.2 |
+| 217 | Dennis-Yarmouth | 1498.6 |
+| 218 | Rockport | 1498.5 |
+| 219 | East Longmeadow | 1498.4 |
+| 220 | Choate | 1498.3 |
+| 221 | Westford | 1498.1 |
+| 222 | Dearborn STEM | 1497.9 |
+| 223 | New Hampton | 1497.5 |
+| 224 | Kimball Union | 1497.4 |
+| 225 | Belmont Hill | 1497.1 |
+| 226 | Old Colony | 1497.0 |
+| 227 | Holland (Burke) | 1496.8 |
+| 228 | Brookline | 1496.8 |
+| 229 | Shrewsbury | 1496.5 |
+| 230 | Wooster | 1496.3 |
+| 231 | Berkshire | 1496.3 |
+| 232 | Pioneer Valley | 1496.2 |
+| 233 | Barrington (R.I.) | 1496.0 |
+| 234 | Mashpee | 1495.5 |
+| 235 | St. Luke’s | 1495.5 |
+| 236 | Newman School | 1495.2 |
+| 237 | Arlington Catholic | 1494.2 |
+| 238 | Melrose | 1494.1 |
+| 239 | Quaboag | 1493.7 |
+| 240 | Brimmer & May | 1493.7 |
+| 241 | Storm King | 1493.7 |
+| 242 | Avon Old Farms | 1493.7 |
+| 243 | Charlestown | 1493.1 |
+| 244 | Boston Latin | 1493.0 |
+| 245 | Rocky Hill Country Day | 1492.4 |
+| 246 | Bancroft | 1491.5 |
+| 247 | Brooks | 1490.4 |
+| 248 | Marlborough | 1490.3 |
+| 249 | South Lancaster | 1490.2 |
+| 250 | Salem Academy | 1489.9 |
+| 251 | Assabet | 1489.8 |
+| 252 | Northfield Mt. Hermon | 1489.3 |
+| 253 | Dexter Southfield | 1489.2 |
+| 254 | Tilton | 1489.1 |
+| 255 | Commerce | 1488.9 |
+| 256 | Groton | 1488.7 |
+| 257 | Leominster | 1488.5 |
+| 258 | South Shore Voc-Tech | 1488.2 |
+| 259 | Wilbraham & Monson | 1487.9 |
+| 260 | Andover | 1487.0 |
+| 261 | Marianapolis | 1486.3 |
+| 262 | Boston Prep | 1485.7 |
+| 263 | Proctor | 1485.7 |
+| 264 | Hoosac Valley | 1485.6 |
+| 265 | Rivers | 1485.3 |
+| 266 | BB&N | 1485.1 |
+| 267 | Pomfret | 1485.0 |
+| 268 | Blue Hills | 1483.8 |
+| 269 | Kents Hill | 1483.6 |
+| 270 | Canton | 1483.6 |
+| 271 | Burncoat | 1483.5 |
+| 272 | King Philip | 1483.5 |
+| 273 | Austin Prep | 1483.4 |
+| 274 | Oakmont | 1483.0 |
+| 275 | Pentucket | 1482.6 |
+| 276 | Pacific Rim Charter | 1482.2 |
+| 277 | Tri-County | 1481.9 |
+| 278 | Foxborough Charter | 1481.5 |
+| 279 | Catholic Memorial | 1481.0 |
+| 280 | Cushing | 1480.8 |
+| 281 | Mt. Everett | 1480.7 |
+| 282 | Wachusett | 1480.4 |
+| 283 | Neighborhood House Charter | 1479.8 |
+| 284 | Greenfield | 1479.7 |
+| 285 | Boston Collegiate | 1479.1 |
+| 286 | Salem | 1478.6 |
+| 287 | New Heights Charter | 1478.2 |
+| 288 | Mystic Valley | 1478.0 |
+| 289 | Essex Tech | 1478.0 |
+| 290 | Westborough | 1477.4 |
+| 291 | David Prouty | 1476.3 |
+| 292 | Harvey (N.Y.) | 1475.8 |
+| 293 | Pingree | 1475.6 |
+| 294 | Worcester North | 1475.5 |
+| 295 | Pioneer Valley Chinese Immersion | 1475.0 |
+| 296 | Tahanto | 1474.5 |
+| 297 | Brewster Academy | 1474.5 |
+| 298 | Milton | 1474.3 |
+| 299 | Thayer | 1474.0 |
+| 300 | Lexington Christian | 1473.7 |
+| 301 | Governor’s Academy | 1472.7 |
+| 302 | Apponequet | 1472.5 |
+| 303 | St. Bernard’s | 1472.0 |
+| 304 | Christian Heritage | 1471.5 |
+| 305 | Falmouth | 1471.2 |
+| 306 | South Shore Charter | 1471.0 |
+| 307 | Medford | 1471.0 |
+| 308 | Gateway | 1470.3 |
+| 309 | Lynn Tech | 1469.4 |
+| 310 | Seekonk | 1469.2 |
+| 311 | Diman | 1468.6 |
+| 312 | Landmark | 1468.6 |
+| 313 | Holyoke | 1468.5 |
+| 314 | Hopkins | 1466.9 |
+| 315 | Bishop Fenwick | 1466.0 |
+| 316 | Quabbin | 1465.2 |
+| 317 | University Park | 1464.7 |
+| 318 | Cardinal Spellman | 1463.8 |
+| 319 | Southbridge | 1463.5 |
+| 320 | Clinton | 1463.3 |
+| 321 | KIPP Academy | 1463.0 |
+| 322 | Everett | 1462.8 |
+| 323 | Bedford | 1460.9 |
+| 324 | Codman Charter | 1460.6 |
+| 325 | St. Paul | 1460.1 |
+| 326 | Franklin County Tech | 1460.0 |
+| 327 | Pittsfield | 1459.6 |
+| 328 | Braintree | 1459.1 |
+| 329 | Blackstone-Millville | 1458.7 |
+| 330 | Sandwich | 1457.2 |
+| 331 | Prospect Hill | 1456.8 |
+| 332 | Phillips Andover | 1456.6 |
+| 333 | Winthrop | 1455.8 |
+| 334 | Saugus | 1455.6 |
+| 335 | Monty Tech | 1455.2 |
+| 336 | Bristol-Plymouth | 1454.8 |
+| 337 | Springfield Sci-Tech | 1454.7 |
+| 338 | North Attleborough | 1454.6 |
+| 339 | Beaver Country Day | 1454.4 |
+| 340 | Sizer | 1453.6 |
+| 341 | Nauset | 1453.2 |
+| 342 | Norton | 1453.2 |
+| 343 | Southwick | 1453.1 |
+| 344 | Chicopee Comprehensive | 1451.9 |
+| 345 | Duggan Academy | 1451.8 |
+| 346 | Fitchburg | 1451.7 |
+| 347 | West Boylston | 1451.2 |
+| 348 | Lawrence | 1450.7 |
+| 349 | Roxbury Prep | 1449.8 |
+| 350 | Belchertown | 1449.8 |
+| 351 | Athol | 1449.6 |
+| 352 | Shepherd Hill | 1447.6 |
+| 353 | Douglas | 1447.2 |
+| 354 | Lynn Classical | 1447.0 |
+| 355 | Chelmsford | 1446.7 |
+| 356 | Bishop Stang | 1446.3 |
+| 357 | Malden | 1444.6 |
+| 358 | Fairhaven | 1444.6 |
+| 359 | Excel Academy | 1444.2 |
+| 360 | Falmouth Academy | 1443.4 |
+| 361 | Snowden | 1443.0 |
+| 362 | Nashoba Valley Tech | 1442.1 |
+| 363 | Woburn | 1440.6 |
+| 364 | Dracut | 1439.3 |
+| 365 | Westfield | 1438.9 |
+| 366 | Collegiate Charter | 1438.1 |
+| 367 | Haverhill | 1437.7 |
+| 368 | Easthampton | 1436.6 |
+| 369 | MATCH Charter | 1435.8 |
+| 370 | South Boston | 1434.8 |
+| 371 | Whitinsville Christian | 1433.6 |
+| 372 | Hull | 1432.4 |
+| 373 | Hudson | 1431.8 |
+| 374 | Peabody | 1430.7 |
+| 375 | Renaissance | 1430.0 |
+| 376 | Wareham | 1427.6 |
+| 377 | Bellingham | 1427.1 |
+| 378 | Middleborough | 1426.9 |
+| 379 | Burlington | 1425.6 |
+| 380 | St. Mary (Westfield) | 1425.1 |
+| 381 | Putnam | 1424.7 |
+| 382 | Drury | 1424.5 |
+| 383 | Acton-Boxborough | 1420.4 |
+| 384 | North Quincy | 1420.1 |
+| 385 | Maimonides | 1419.8 |
+| 386 | Medway | 1419.7 |
+| 387 | Bartlett | 1419.2 |
+| 388 | Abby Kelley Foster | 1418.2 |
+| 389 | Georgetown | 1417.2 |
+| 390 | Malden Catholic | 1415.6 |
+| 391 | Tewksbury | 1412.2 |
+| 392 | Brooke Charter | 1410.2 |
+| 393 | Bourne | 1407.7 |
+| 394 | Gloucester | 1405.1 |
+| 395 | Parker Charter | 1397.9 |
+| 396 | Stoneham | 1395.5 |
+| 397 | Amesbury | 1391.0 |
+| 398 | Ware | 1390.7 |
+| 399 | Avon | 1390.6 |
+| 400 | Quincy | 1390.5 |
+| 401 | Randolph | 1389.0 |
+| 402 | Foxborough | 1386.8 |
+| 403 | Mahar | 1383.3 |
+| 404 | Cristo Rey/Cathedral | 1383.1 |
+| 405 | Sturgis East | 1381.5 |
+| 406 | Plymouth South | 1380.0 |
+| 407 | Carver | 1375.8 |
+| 408 | Bristol Aggie | 1366.6 |
+| 409 | Triton | 1358.6 |
+| 410 | Whitman-Hanson | 1357.0 |
+| 411 | Cape Cod Academy | 1352.5 |
+| 412 | Walpole | 1352.2 |
+| 413 | Norfolk Aggie | 1348.3 |
+| 414 | Norwood | 1344.4 |
+| 415 | Lowell Catholic | 1340.8 |
+| 416 | Whittier | 1329.7 |
+| 417 | Taunton | 1324.0 |
+| 418 | Wilmington | 1322.0 |

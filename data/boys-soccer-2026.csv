@@ -1,13 +1,19 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
 2026-08-26,136852,UPCOMING,Blue Hills,4047,,,Dedham,4108,,,Mayflower,Tri-Valley,8:30 A.M.,,0
 2026-08-27,138117,UPCOMING,Marlborough,4233,,,Bromfield,4505,,,Mid-Wach,Mid-Wach,6:00 P.M.,,0
+2026-08-27,139274,UPCOMING,Falmouth,4134,,,Silver Lake,4349,,,Cape & Islands,Patriot,4:30 P.M.,,0
 2026-08-28,134375,UPCOMING,Advanced Math and Science,4595,,,Whitinsville Christian,4487,,,CMAC,CMAC,3:30 P.M.,,0
 2026-08-28,136394,UPCOMING,Holyoke,4176,,,Bay Path,4027,,,Holley,CMAC,3:30 P.M.,,0
 2026-08-28,136869,UPCOMING,Blue Hills,4047,,,Avon,4460,,,Mayflower,Mayflower,8:30 A.M.,,0
 2026-08-28,138281,UPCOMING,Carver,4077,,,Whitman-Hanson,4427,,,South Shore,Patriot,5:00 P.M.,,0
+2026-08-28,139460,UPCOMING,Pope Francis,4796,,,Frontier,4146,,,Smith,Moriarty,5:00 P.M.,,0
 2026-08-29,136675,UPCOMING,Millbury,4250,,,Blackstone-Millville,4486,,,CMAC,CMAC,9:30 P.M.,,0
 2026-08-29,138606,UPCOMING,Barnstable,4024,,,Cohasset,4094,,,Pioneer,South Shore,8:00 A.M.,,0
 2026-08-31,134301,UPCOMING,Abington,4002,,,Apponequet,4011,,,South Shore,South Coast,3:30 P.M.,,0
 2026-08-31,136678,UPCOMING,Bellingham,4033,,,Blackstone-Millville,4486,,,Tri-Valley,CMAC,4:00 P.M.,,0
 2026-08-31,138514,UPCOMING,Auburn,4019,,,Clinton,4093,,,CMAC,Mid-Wach,5:15 P.M.,,0
 2026-08-31,138619,UPCOMING,Hanover,4164,,,Cohasset,4094,,,Patriot,South Shore,4:00 P.M.,,0
+2026-08-31,139282,UPCOMING,Falmouth,4134,,,Plymouth North,4315,,,Cape & Islands,Patriot,4:00 P.M.,,0
+2026-09-01,134458,UPCOMING,Lowell Catholic,4217,,,Amesbury,4007,,,Commonwealth,Cape Ann,4:00 P.M.,,0
+2026-09-01,138123,UPCOMING,Bromfield,4505,,,Millis,4251,,,Mid-Wach,Tri-Valley,4:00 P.M.,,0
+2026-09-01,139431,UPCOMING,Norwood,4297,,,Foxborough,4142,,,Tri-Valley,Hockomock,4:00 P.M.,,0

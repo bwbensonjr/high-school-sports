@@ -1,0 +1,23 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
+2026-09-01,129822,UPCOMING,Westford,4421,,,Groton-Dunstable/NM,4160,,,Dual County,Mid-Wach,4:00 P.M.,,0
+2026-09-01,129869,UPCOMING,Waltham,4405,,,Somerville,4351,,,Dual County,Greater Boston,5:00 P.M.,,0
+2026-09-01,129920,UPCOMING,Wellesley,4413,,,Lexington,4209,,,Bay State,Middlesex,4:00 P.M.,,0
+2026-09-01,130029,UPCOMING,Winchester,4434,,,Lynn English,4221,,,Middlesex,Greater Boston,5:30 P.M.,,0
+2026-09-01,130037,UPCOMING,Hopkinton,4180,,,Keefe Tech,4191,,,Tri-Valley,CMAC,3:45 P.M.,,0
+2026-09-01,130078,UPCOMING,Winthrop,4437,,,Beverly,4038,,,Northeastern,Northeastern,4:30 P.M.,,0
+2026-09-01,130131,UPCOMING,Middleborough,4247,,,Plymouth North,4315,,,South Shore,Patriot,6:00 P.M.,,0
+2026-09-01,130181,UPCOMING,Lynnfield,4223,,,Peabody,4306,,,Cape Ann,Northeastern,5:00 P.M.,,0
+2026-09-01,130198,UPCOMING,Algonquin,4005,,,Shepherd Hill,4347,,,Mid-Wach,Mid-Wach,6:00 P.M.,,0
+2026-09-01,130240,UPCOMING,Melrose,4244,,,Billerica,4040,,,Middlesex,Merrimack Valley,4:30 P.M.,,0
+2026-09-01,131210,UPCOMING,Catholic Memorial,4080,,,Everett,4132,,,Catholic Conference,Independent,5:00 P.M.,,0
+2026-09-01,131258,UPCOMING,Commerce,4361,,,Bay Path,4027,,,Intercounty,CMAC,5:00 P.M.,,0
+2026-09-01,131260,UPCOMING,Bay Path,4027,,,Holyoke,4176,,,CMAC,AA,5:00 P.M.,,0
+2026-09-01,131368,UPCOMING,Assabet,4016,,,Hudson,4182,,,CMAC,Mid-Wach,5:00 P.M.,,0
+2026-09-01,131379,UPCOMING,Medway,4243,,,Milford,4249,,,Tri-Valley,Hockomock,4:30 P.M.,,0
+2026-09-01,131397,UPCOMING,Wilmington,4432,,,Gloucester,4150,,,Middlesex,Northeastern,5:00 P.M.,,0
+2026-09-01,132274,UPCOMING,Belchertown,4032,,,Easthampton,4130,,,Intercounty,Intercounty,4:30 P.M.,,0
+2026-09-01,132324,UPCOMING,Fairhaven,4133,,,Diman,4115,,,South Coast,Mayflower,5:00 P.M.,,0
+2026-09-01,132346,UPCOMING,Pentucket/Georgetown,4309,,,Salem,4336,,,Cape Ann,Northeastern,5:30 P.M.,,0
+2026-09-01,132379,UPCOMING,Amesbury,4007,,,Stoneham,4380,,,Cape Ann,Middlesex,3:30 P.M.,,0
+2026-09-01,133755,UPCOMING,Marlborough,4233,,,Nipmuc,4281,,,Mid-Wach,CMAC,5:00 P.M.,,0
+2026-09-01,133805,UPCOMING,Quabbin,4325,,,Burncoat,4066,,,Mid-Wach,CMAC,3:30 P.M.,,0
