@@ -1,6 +1,6 @@
 # Boys Soccer - 2026 Season
 
-Generated: 2026-08-22 11:17
+Generated: 2026-08-23 11:17
 
 ## Upcoming Games
 
@@ -14,16 +14,20 @@ Generated: 2026-08-22 11:17
 | 2026-08-28 | 8:30 A.M. | Blue Hills | Avon | 69.5% | +2.9 |
 | 2026-08-28 | 5:00 P.M. | Carver | Whitman-Hanson | 59.8% | +1.4 |
 | 2026-08-28 | 5:00 P.M. | Pope Francis | Frontier | 54.9% | +0.7 |
-| 2026-08-29 | 8:00 A.M. | Barnstable | Cohasset | 45.0% | -0.7 |
 | 2026-08-29 | 9:30 P.M. | Millbury | Blackstone-Millville | 63.3% | +1.9 |
+| 2026-08-29 | 8:00 A.M. | Barnstable | Cohasset | 45.0% | -0.7 |
+| 2026-08-31 | 4:00 P.M. | Falmouth | Plymouth North | 50.2% | +0.0 |
+| 2026-08-31 | 4:00 P.M. | Hanover | Cohasset | 44.1% | -0.8 |
 | 2026-08-31 | 3:30 P.M. | Abington | Apponequet | 71.1% | +3.1 |
 | 2026-08-31 | 4:00 P.M. | Bellingham | Blackstone-Millville | 52.6% | +0.4 |
 | 2026-08-31 | 5:15 P.M. | Auburn | Clinton | 63.1% | +1.9 |
-| 2026-08-31 | 4:00 P.M. | Hanover | Cohasset | 44.1% | -0.8 |
-| 2026-08-31 | 4:00 P.M. | Falmouth | Plymouth North | 50.2% | +0.0 |
 | 2026-09-01 | 4:00 P.M. | Lowell Catholic | Amesbury | 50.0% | -0.0 |
 | 2026-09-01 | 4:00 P.M. | Bromfield | Millis | 70.9% | +3.1 |
 | 2026-09-01 | 4:00 P.M. | Norwood | Foxborough | 51.1% | +0.2 |
+| 2026-09-02 | 3:30 P.M. | Clinton | Assabet | 53.4% | +0.5 |
+| 2026-09-02 | 3:30 P.M. | Abington | Fairhaven | 74.2% | +3.7 |
+| 2026-09-02 | 4:00 P.M. | Leicester | Advanced Math and Science | 55.3% | +0.7 |
+| 2026-09-02 | 4:00 P.M. | Boston Latin | Excel Academy | 63.8% | +2.0 |
 
 ## Recent Games
 
@@ -236,14 +240,14 @@ Generated: 2026-08-22 11:17
 | 200 | Worcester Academy | 1502.9 |
 | 201 | Wheeler (R.I.) | 1501.7 |
 | 202 | Worcester South | 1501.7 |
-| 203 | Community Charter | 1501.7 |
-| 204 | Argosy Collegiate | 1501.7 |
-| 205 | South Shore Christian | 1501.7 |
-| 206 | Newton Country Day | 1501.7 |
-| 207 | Xavier (Conn.) | 1501.7 |
-| 208 | La Salle (R.I.) | 1501.7 |
-| 209 | Millis | 1501.7 |
-| 210 | St. Mark’s | 1501.7 |
+| 203 | La Salle (R.I.) | 1501.7 |
+| 204 | Xavier (Conn.) | 1501.7 |
+| 205 | St. Mark’s | 1501.7 |
+| 206 | Argosy Collegiate | 1501.7 |
+| 207 | Newton Country Day | 1501.7 |
+| 208 | Millis | 1501.7 |
+| 209 | Community Charter | 1501.7 |
+| 210 | South Shore Christian | 1501.7 |
 | 211 | Lincoln-Sudbury | 1501.6 |
 | 212 | Phillips Exeter | 1501.3 |
 | 213 | Sturgis West | 1501.1 |
