@@ -1,12 +1,14 @@
 # Football - 2026 Season
 
-Generated: 2026-08-23 11:17
+Generated: 2026-08-24 11:24
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
 | 2026-09-01 | 4:00 P.M. | Westford | Groton-Dunstable/NM | 64.9% | +10.7 |
+| 2026-09-01 | 3:30 P.M. | Quabbin | Burncoat | 77.9% | +21.9 |
+| 2026-09-01 | 5:00 P.M. | Marlborough | Nipmuc | 65.3% | +11.0 |
 | 2026-09-01 | 3:30 P.M. | Amesbury | Stoneham | 72.5% | +16.9 |
 | 2026-09-01 | 5:30 P.M. | Pentucket/Georgetown | Salem | 84.7% | +29.7 |
 | 2026-09-01 | 5:00 P.M. | Fairhaven | Diman | 71.8% | +16.3 |
@@ -26,8 +28,8 @@ Generated: 2026-08-23 11:17
 | 2026-09-01 | 5:30 P.M. | Winchester | Lynn English | 67.4% | +12.6 |
 | 2026-09-01 | 4:00 P.M. | Wellesley | Lexington | 92.5% | +43.8 |
 | 2026-09-01 | 5:00 P.M. | Waltham | Somerville | 39.4% | -7.5 |
-| 2026-09-01 | 5:00 P.M. | Marlborough | Nipmuc | 65.3% | +11.0 |
-| 2026-09-01 | 3:30 P.M. | Quabbin | Burncoat | 77.9% | +21.9 |
+| 2026-09-03 | 5:00 P.M. | Chelmsford | Haverhill | 87.2% | +33.4 |
+| 2026-09-03 | 6:00 P.M. | Danvers | Bishop Fenwick | 47.6% | -1.7 |
 
 ## Recent Games
 
@@ -210,8 +212,8 @@ Generated: 2026-08-23 11:17
 | 170 | Newton North | 1504.2 |
 | 171 | Bartlett | 1503.7 |
 | 172 | Woburn | 1503.2 |
-| 173 | Capital Prep (Conn.) | 1501.7 |
-| 174 | Forman | 1501.7 |
+| 173 | Forman | 1501.7 |
+| 174 | Capital Prep (Conn.) | 1501.7 |
 | 175 | Taunton | 1501.0 |
 | 176 | Martha’s Vineyard | 1501.0 |
 | 177 | Silver Lake | 1499.0 |
