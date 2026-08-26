@@ -1,6 +1,6 @@
 # Boys Soccer - 2026 Season
 
-Generated: 2026-08-25 11:23
+Generated: 2026-08-26 11:26
 
 ## Upcoming Games
 
@@ -34,9 +34,10 @@ Generated: 2026-08-25 11:23
 | 2026-09-03 | 4:00 P.M. | Gateway | Easthampton | 61.8% | +1.7 |
 | 2026-09-03 | 4:00 P.M. | Medway | Foxborough | 61.7% | +1.7 |
 | 2026-09-03 | 7:00 P.M. | East Longmeadow | Frontier | 48.7% | -0.2 |
-| 2026-09-04 | 10:00 A.M. | Oxford | Bay Path | 59.0% | +1.3 |
-| 2026-09-04 | 10:00 A.M. | Abington | Apponequet | 71.1% | +3.1 |
 | 2026-09-04 | 8:30 P.M. | Blue Hills | Archbishop Williams | 50.8% | +0.1 |
+| 2026-09-04 | 10:00 A.M. | Abington | Apponequet | 71.1% | +3.1 |
+| 2026-09-04 | 10:00 A.M. | Oxford | Bay Path | 59.0% | +1.3 |
+| 2026-09-05 | 6:00 P.M. | Deerfield | Frontier | 51.1% | +0.2 |
 
 ## Recent Games
 
@@ -249,14 +250,14 @@ Generated: 2026-08-25 11:23
 | 200 | Worcester Academy | 1502.9 |
 | 201 | Wheeler (R.I.) | 1501.7 |
 | 202 | Worcester South | 1501.7 |
-| 203 | Newton Country Day | 1501.7 |
-| 204 | Community Charter | 1501.7 |
-| 205 | La Salle (R.I.) | 1501.7 |
-| 206 | Argosy Collegiate | 1501.7 |
-| 207 | St. Mark’s | 1501.7 |
-| 208 | South Shore Christian | 1501.7 |
-| 209 | Xavier (Conn.) | 1501.7 |
-| 210 | Millis | 1501.7 |
+| 203 | Community Charter | 1501.7 |
+| 204 | South Shore Christian | 1501.7 |
+| 205 | St. Mark’s | 1501.7 |
+| 206 | La Salle (R.I.) | 1501.7 |
+| 207 | Argosy Collegiate | 1501.7 |
+| 208 | Xavier (Conn.) | 1501.7 |
+| 209 | Millis | 1501.7 |
+| 210 | Newton Country Day | 1501.7 |
 | 211 | Lincoln-Sudbury | 1501.6 |
 | 212 | Phillips Exeter | 1501.3 |
 | 213 | Sturgis West | 1501.1 |

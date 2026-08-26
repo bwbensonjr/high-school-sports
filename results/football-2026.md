@@ -1,35 +1,37 @@
 # Football - 2026 Season
 
-Generated: 2026-08-25 11:23
+Generated: 2026-08-26 11:26
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
 | 2026-09-01 | 4:00 P.M. | Westford | Groton-Dunstable/NM | 64.9% | +10.7 |
+| 2026-09-01 | 3:30 P.M. | Quabbin | Burncoat | 77.9% | +21.9 |
+| 2026-09-01 | 5:00 P.M. | Marlborough | Nipmuc | 65.3% | +11.0 |
 | 2026-09-01 | 3:30 P.M. | Amesbury | Stoneham | 72.5% | +16.9 |
 | 2026-09-01 | 5:30 P.M. | Pentucket/Georgetown | Salem | 84.7% | +29.7 |
-| 2026-09-01 | 5:00 P.M. | Fairhaven | Diman | 71.8% | +16.3 |
 | 2026-09-01 | 4:30 P.M. | Belchertown | Easthampton | 51.5% | +1.1 |
 | 2026-09-01 | 5:00 P.M. | Wilmington | Gloucester | 30.1% | -14.7 |
 | 2026-09-01 | 4:30 P.M. | Medway | Milford | 55.3% | +3.7 |
 | 2026-09-01 | 5:00 P.M. | Assabet | Hudson | 6.9% | -45.1 |
 | 2026-09-01 | 5:00 P.M. | Bay Path | Holyoke | 86.1% | +31.8 |
 | 2026-09-01 | 5:00 P.M. | Commerce | Bay Path | 19.4% | -24.7 |
-| 2026-09-01 | 5:00 P.M. | Catholic Memorial | Everett | 94.7% | +50.2 |
+| 2026-09-01 | 5:00 P.M. | Fairhaven | Diman | 71.8% | +16.3 |
 | 2026-09-01 | 4:30 P.M. | Melrose | Billerica | 47.6% | -1.7 |
 | 2026-09-01 | 6:00 P.M. | Algonquin | Shepherd Hill | 62.3% | +8.7 |
 | 2026-09-01 | 5:00 P.M. | Lynnfield | Peabody | 78.0% | +22.0 |
 | 2026-09-01 | 6:00 P.M. | Middleborough | Plymouth North | 56.1% | +4.3 |
 | 2026-09-01 | 4:30 P.M. | Winthrop | Beverly | 62.7% | +9.0 |
+| 2026-09-01 | 5:00 P.M. | Catholic Memorial | Everett | 94.7% | +50.2 |
 | 2026-09-01 | 3:45 P.M. | Hopkinton | Keefe Tech | 29.9% | -14.8 |
 | 2026-09-01 | 5:30 P.M. | Winchester | Lynn English | 67.4% | +12.6 |
 | 2026-09-01 | 4:00 P.M. | Wellesley | Lexington | 92.5% | +43.8 |
 | 2026-09-01 | 5:00 P.M. | Waltham | Somerville | 39.4% | -7.5 |
-| 2026-09-01 | 5:00 P.M. | Marlborough | Nipmuc | 65.3% | +11.0 |
-| 2026-09-01 | 3:30 P.M. | Quabbin | Burncoat | 77.9% | +21.9 |
 | 2026-09-03 | 6:00 P.M. | Danvers | Bishop Fenwick | 47.6% | -1.7 |
 | 2026-09-03 | 5:00 P.M. | Chelmsford | Haverhill | 87.2% | +33.4 |
+| 2026-09-04 | 10:00 A.M. | Wilmington | Medford | 51.3% | +0.9 |
+| 2026-09-04 | 4:00 P.M. | Blackstone-Millville/Hopedale | Quabbin | 21.6% | -22.4 |
 | 2026-09-04 | 6:30 P.M. | Dracut | Triton/Ipswich | 37.3% | -9.0 |
 | 2026-09-04 | 5:00 P.M. | Ashland | Nipmuc | 86.6% | +32.4 |
 | 2026-09-04 | 9:00 A.M. | Dartmouth | Dennis-Yarmouth | 77.2% | +21.2 |
@@ -38,21 +40,26 @@ Generated: 2026-08-25 11:23
 | 2026-09-04 | 4:15 P.M. | Melrose | Lynnfield | 44.9% | -3.6 |
 | 2026-09-04 | 5:00 P.M. | Fairhaven | Middleborough | 93.8% | +47.3 |
 | 2026-09-04 | 5:30 P.M. | Bellingham | Northbridge | 28.8% | -15.7 |
-| 2026-09-04 | 10:00 A.M. | Wilmington | Medford | 51.3% | +0.9 |
 | 2026-09-04 | 6:30 P.M. | Uxbridge | Medway | 68.5% | +13.5 |
-| 2026-09-04 | 5:00 P.M. | Cambridge | Lexington | 78.3% | +22.3 |
+| 2026-09-04 | 6:00 P.M. | Weston | Wellesley | 38.9% | -7.8 |
 | 2026-09-04 | 5:00 P.M. | Catholic Memorial | Central Catholic | 81.6% | +25.9 |
+| 2026-09-04 | 6:00 P.M. | Bishop Feehan | Old Rochester | 76.5% | +20.5 |
 | 2026-09-04 | 6:00 P.M. | Marblehead | Billerica | 79.4% | +23.5 |
 | 2026-09-04 | 5:00 P.M. | Woburn | Lynn English | 36.9% | -9.3 |
 | 2026-09-04 | 5:00 P.M. | Tantasqua | Westborough | 74.5% | +18.6 |
 | 2026-09-04 | 6:00 P.M. | Peabody | Everett | 47.5% | -1.8 |
 | 2026-09-04 | 12:00 P.M. | Watertown | Beverly | 44.7% | -3.7 |
 | 2026-09-04 | 4:00 P.M. | North Attleborough | Bridgewater-Raynham | 80.9% | +25.1 |
-| 2026-09-04 | 6:00 P.M. | Weston | Wellesley | 38.9% | -7.8 |
+| 2026-09-04 | 5:00 P.M. | Cambridge | Lexington | 78.3% | +22.3 |
 | 2026-09-04 | 10:00 A.M. | Burlington | Waltham | 88.0% | +34.7 |
 | 2026-09-04 | 4:30 P.M. | North Andover | Westford | 57.3% | +5.1 |
-| 2026-09-04 | 6:00 P.M. | Bishop Feehan | Old Rochester | 76.5% | +20.5 |
-| 2026-09-04 | 4:00 P.M. | Blackstone-Millville/Hopedale | Quabbin | 21.6% | -22.4 |
+| 2026-09-05 | 10:00 A.M. | Winthrop | Manchester Essex | 70.5% | +15.1 |
+| 2026-09-05 | 11:30 A.M. | Nantucket | Monomoy/JP II | 87.5% | +33.8 |
+| 2026-09-05 | 10:00 A.M. | East Bridgewater | Whitman-Hanson | 76.0% | +20.0 |
+| 2026-09-05 | TBD | Assabet | Minuteman | 27.5% | -16.9 |
+| 2026-09-05 | 10:00 A.M. | Algonquin | Hudson | 21.1% | -22.9 |
+| 2026-09-05 | 10:00 A.M. | Amherst-Pelham | Belchertown | 56.8% | +4.8 |
+| 2026-09-05 | 10:00 A.M. | Saugus | Arlington Catholic | 60.0% | +7.1 |
 
 ## Recent Games
 
@@ -235,9 +242,9 @@ Generated: 2026-08-25 11:23
 | 170 | Newton North | 1504.2 |
 | 171 | Bartlett | 1503.7 |
 | 172 | Woburn | 1503.2 |
-| 173 | Forman | 1501.7 |
-| 174 | Capital Prep (Conn.) | 1501.7 |
-| 175 | Triton/Ipswich | 1501.7 |
+| 173 | Triton/Ipswich | 1501.7 |
+| 174 | Forman | 1501.7 |
+| 175 | Capital Prep (Conn.) | 1501.7 |
 | 176 | Taunton | 1501.0 |
 | 177 | Martha’s Vineyard | 1501.0 |
 | 178 | Silver Lake | 1499.0 |
