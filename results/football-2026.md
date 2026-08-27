@@ -1,6 +1,6 @@
 # Football - 2026 Season
 
-Generated: 2026-08-26 11:26
+Generated: 2026-08-27 20:53
 
 ## Upcoming Games
 
@@ -242,9 +242,9 @@ Generated: 2026-08-26 11:26
 | 170 | Newton North | 1504.2 |
 | 171 | Bartlett | 1503.7 |
 | 172 | Woburn | 1503.2 |
-| 173 | Triton/Ipswich | 1501.7 |
+| 173 | Capital Prep (Conn.) | 1501.7 |
 | 174 | Forman | 1501.7 |
-| 175 | Capital Prep (Conn.) | 1501.7 |
+| 175 | Triton/Ipswich | 1501.7 |
 | 176 | Taunton | 1501.0 |
 | 177 | Martha’s Vineyard | 1501.0 |
 | 178 | Silver Lake | 1499.0 |

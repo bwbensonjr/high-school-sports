@@ -1,0 +1,30 @@
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
+2026-08-30,146357,UPCOMING,Bellingham,4033,,,Ashland,4015,,,Tri-Valley,Tri-Valley,4:00 P.M.,,0
+2026-08-30,146359,UPCOMING,Millis,4251,,,Ashland,4015,,,Tri-Valley,Tri-Valley,4:00 P.M.,,0
+2026-08-31,145988,UPCOMING,Westwood,4424,,,Archbishop Williams,4012,,,Tri-Valley,Catholic Central,3:30 P.M.,,0
+2026-08-31,146361,UPCOMING,Holliston,4174,,,Ashland,4015,,,Tri-Valley,Tri-Valley,3:00 P.M.,,0
+2026-08-31,146373,UPCOMING,Bedford,4031,,,Lexington,4209,,,Dual County,Middlesex,8:30 A.M.,,0
+2026-08-31,146794,UPCOMING,Grafton,4153,,,Millbury,4250,,,Mid-Wach,CMAC,3:00 P.M.,,0
+2026-08-31,146850,UPCOMING,Holliston,4174,,,Norton,4295,,,Tri-Valley,Tri-Valley,3:00 P.M.,,0
+2026-09-01,145991,UPCOMING,Archbishop Williams,4012,,,Bishop Fenwick,4043,,,Catholic Central,Catholic Central,3:45 P.M.,,0
+2026-09-01,146195,UPCOMING,Algonquin,4005,,,Wachusett,4400,,,Mid-Wach,Mid-Wach,3:30 P.M.,,0
+2026-09-01,146330,UPCOMING,Framingham,4143,,,Natick,4270,,,Bay State,Bay State,3:30 P.M.,,0
+2026-09-01,146374,UPCOMING,Bedford,4031,,,Wayland,4411,,,Dual County,Dual County,5:20 P.M.,,0
+2026-09-01,146795,UPCOMING,Westborough,4418,,,Grafton,4153,,,Mid-Wach,Mid-Wach,3:15 P.M.,,0
+2026-09-01,146818,UPCOMING,Marlborough,4233,,,Groton-Dunstable,4160,,,Mid-Wach,Mid-Wach,4:00 P.M.,,0
+2026-09-02,146196,UPCOMING,Shrewsbury,4348,,,Algonquin,4005,,,Mid-Wach,Mid-Wach,3:30 P.M.,,0
+2026-09-02,146261,UPCOMING,Westford,4421,,,Chelmsford,4085,,,Dual County,Merrimack Valley,3:30 P.M.,,0
+2026-09-02,146303,UPCOMING,Worcester Tech,4445,,,Doherty,4116,,,CMAC,CMAC,3:00 P.M.,,0
+2026-09-02,146364,UPCOMING,Hopkinton,4180,,,Ashland,4015,,,Tri-Valley,Tri-Valley,3:00 P.M.,,0
+2026-09-02,146763,UPCOMING,Dedham,4108,,,Norwood,4297,,,Tri-Valley,Tri-Valley,3:30 P.M.,,0
+2026-09-03,146021,UPCOMING,Acton-Boxborough,4003,,,Wayland,4411,,,Dual County,Dual County,3:30 P.M.,,0
+2026-09-03,146220,UPCOMING,Attleboro,4018,,,Mansfield,4230,,,Hockomock,Hockomock,2:20 P.M.,,0
+2026-09-03,146247,UPCOMING,Bishop Feehan,4042,,,Xaverian,4446,,,Catholic Central,Catholic Conference,3:00 P.M.,,0
+2026-09-03,146304,UPCOMING,Millbury,4250,,,Doherty,4116,,,CMAC,CMAC,3:15 P.M.,,0
+2026-09-03,146377,UPCOMING,Bedford,4031,,,Waltham,4405,,,Dual County,Dual County,3:30 P.M.,,0
+2026-09-03,146765,UPCOMING,Medway,4243,,,Dedham,4108,,,Tri-Valley,Tri-Valley,4:30 P.M.,,0
+2026-09-03,146796,UPCOMING,Grafton,4153,,,Wachusett,4400,,,Mid-Wach,Mid-Wach,3:00 P.M.,,0
+2026-09-03,146820,UPCOMING,Groton-Dunstable,4160,,,Shepherd Hill,4347,,,Mid-Wach,Mid-Wach,4:00 P.M.,,0
+2026-09-03,146823,UPCOMING,Groton-Dunstable,4160,,,St. Bernard’s,4365,,,Mid-Wach,CMAC,4:00 P.M.,,0
+2026-09-04,146221,UPCOMING,Franklin,4144,,,Attleboro,4018,,,Hockomock,Hockomock,3:30 P.M.,,0
+2026-09-04,146379,UPCOMING,Bedford,4031,,,Burlington,4065,,,Dual County,Middlesex,9:00 A.M.,,0

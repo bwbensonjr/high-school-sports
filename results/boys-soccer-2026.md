@@ -1,12 +1,11 @@
 # Boys Soccer - 2026 Season
 
-Generated: 2026-08-26 11:26
+Generated: 2026-08-27 20:53
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-08-26 | 8:30 A.M. | Blue Hills | Dedham | 50.7% | +0.1 |
 | 2026-08-27 | 6:00 P.M. | Marlborough | Bromfield | 40.6% | -1.3 |
 | 2026-08-27 | 4:30 P.M. | Falmouth | Silver Lake | 52.0% | +0.3 |
 | 2026-08-28 | 3:30 P.M. | Advanced Math and Science | Whitinsville Christian | 70.9% | +3.1 |
@@ -22,8 +21,8 @@ Generated: 2026-08-26 11:26
 | 2026-08-31 | 4:00 P.M. | Hanover | Cohasset | 44.1% | -0.8 |
 | 2026-08-31 | 4:00 P.M. | Falmouth | Plymouth North | 50.2% | +0.0 |
 | 2026-09-01 | 4:00 P.M. | Norwood | Foxborough | 51.1% | +0.2 |
-| 2026-09-01 | 4:00 P.M. | Lowell Catholic | Amesbury | 50.0% | -0.0 |
 | 2026-09-01 | 4:00 P.M. | Bromfield | Millis | 70.9% | +3.1 |
+| 2026-09-01 | 4:00 P.M. | Lowell Catholic | Amesbury | 50.0% | -0.0 |
 | 2026-09-02 | 3:30 P.M. | Abington | Fairhaven | 74.2% | +3.7 |
 | 2026-09-02 | 4:00 P.M. | Leicester | Advanced Math and Science | 55.3% | +0.7 |
 | 2026-09-02 | 3:30 P.M. | Clinton | Assabet | 53.4% | +0.5 |
@@ -34,10 +33,11 @@ Generated: 2026-08-26 11:26
 | 2026-09-03 | 4:00 P.M. | Gateway | Easthampton | 61.8% | +1.7 |
 | 2026-09-03 | 4:00 P.M. | Medway | Foxborough | 61.7% | +1.7 |
 | 2026-09-03 | 7:00 P.M. | East Longmeadow | Frontier | 48.7% | -0.2 |
-| 2026-09-04 | 8:30 P.M. | Blue Hills | Archbishop Williams | 50.8% | +0.1 |
 | 2026-09-04 | 10:00 A.M. | Abington | Apponequet | 71.1% | +3.1 |
 | 2026-09-04 | 10:00 A.M. | Oxford | Bay Path | 59.0% | +1.3 |
+| 2026-09-04 | 8:30 P.M. | Blue Hills | Archbishop Williams | 50.8% | +0.1 |
 | 2026-09-05 | 6:00 P.M. | Deerfield | Frontier | 51.1% | +0.2 |
+| 2026-09-06 | 12:00 P.M. | Revere | Central Catholic | 61.8% | +1.7 |
 
 ## Recent Games
 
@@ -250,14 +250,14 @@ Generated: 2026-08-26 11:26
 | 200 | Worcester Academy | 1502.9 |
 | 201 | Wheeler (R.I.) | 1501.7 |
 | 202 | Worcester South | 1501.7 |
-| 203 | Community Charter | 1501.7 |
-| 204 | South Shore Christian | 1501.7 |
-| 205 | St. Mark’s | 1501.7 |
-| 206 | La Salle (R.I.) | 1501.7 |
-| 207 | Argosy Collegiate | 1501.7 |
+| 203 | La Salle (R.I.) | 1501.7 |
+| 204 | Millis | 1501.7 |
+| 205 | Community Charter | 1501.7 |
+| 206 | Argosy Collegiate | 1501.7 |
+| 207 | Newton Country Day | 1501.7 |
 | 208 | Xavier (Conn.) | 1501.7 |
-| 209 | Millis | 1501.7 |
-| 210 | Newton Country Day | 1501.7 |
+| 209 | South Shore Christian | 1501.7 |
+| 210 | St. Mark’s | 1501.7 |
 | 211 | Lincoln-Sudbury | 1501.6 |
 | 212 | Phillips Exeter | 1501.3 |
 | 213 | Sturgis West | 1501.1 |
