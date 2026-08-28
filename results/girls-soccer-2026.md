@@ -1,12 +1,15 @@
 # Girls Soccer - 2026 Season
 
-Generated: 2026-08-27 20:53
+Generated: 2026-08-28 21:18
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
 | 2026-09-02 | 4:30 P.M. | Barnstable | Monomoy | 39.7% | -1.5 |
+| 2026-09-07 | 6:30 P.M. | Northbridge | Lunenburg | 50.2% | +0.0 |
+| 2026-09-07 | 1:00 P.M. | Mystic Valley | Lynn Tech | 69.8% | +2.9 |
+| 2026-09-07 | 4:30 P.M. | Wahconah | Mt. Greylock | 51.5% | +0.2 |
 
 ## Recent Games
 
@@ -213,14 +216,14 @@ Generated: 2026-08-27 20:53
 | 194 | Madison Park | 1503.9 |
 | 195 | Concord Academy | 1503.6 |
 | 196 | Canton | 1503.1 |
-| 197 | Neighborhood House Charter | 1502.8 |
-| 198 | Taft | 1502.8 |
-| 199 | Boston Prep | 1502.8 |
-| 200 | Kingswood-Oxford | 1502.8 |
-| 201 | Kent | 1502.8 |
-| 202 | Poughkeepsie Day (N.Y.) | 1502.8 |
-| 203 | South Shore Christian | 1502.8 |
-| 204 | Cumberland (R.I.) | 1502.8 |
+| 197 | South Shore Christian | 1502.8 |
+| 198 | Cumberland (R.I.) | 1502.8 |
+| 199 | Kent | 1502.8 |
+| 200 | Taft | 1502.8 |
+| 201 | Poughkeepsie Day (N.Y.) | 1502.8 |
+| 202 | Kingswood-Oxford | 1502.8 |
+| 203 | Neighborhood House Charter | 1502.8 |
+| 204 | Boston Prep | 1502.8 |
 | 205 | Bridgton Academy | 1502.8 |
 | 206 | Billerica | 1501.4 |
 | 207 | Melrose | 1500.7 |
