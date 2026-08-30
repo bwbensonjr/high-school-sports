@@ -54,3 +54,45 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-08,146461,UPCOMING,Middleborough,4247,,,East Bridgewater,4126,,,South Shore,South Shore,5:15 P.M.,,0
 2026-09-08,146489,UPCOMING,Rockland,4331,,,Norwell,4296,,,South Shore,South Shore,5:30 P.M.,,0
 2026-09-08,146689,UPCOMING,Nipmuc,4281,,,Millis,4251,,,CMAC,Tri-Valley,6:00 P.M.,,0
+2026-09-09,140926,UPCOMING,Needham,4272,,,Weymouth,4425,,,Bay State,Bay State,5:15 P.M.,,0
+2026-09-09,140966,UPCOMING,Natick,4270,,,Framingham,4143,,,Bay State,Bay State,4:00 P.M.,,0
+2026-09-09,140996,UPCOMING,Wellesley,4413,,,Newton North,4279,,,Bay State,Bay State,4:30 P.M.,,0
+2026-09-09,141023,UPCOMING,Milton,4252,,,Brookline,4059,,,Bay State,Bay State,4:30 P.M.,,0
+2026-09-09,141077,UPCOMING,Walpole,4404,,,Braintree,4051,,,Bay State,Bay State,4:00 P.M.,,0
+2026-09-09,141193,UPCOMING,Cardinal Spellman,4075,,,Brockton,4058,,,Catholic Central,Big Three,5:15 P.M.,,0
+2026-09-09,141333,UPCOMING,Muniz,5018,,,Academy/Pacific Rim,5038,,,Independent,Charter School Athletic,5:30 P.M.,,0
+2026-09-09,141380,UPCOMING,Latin Academy,4202,,,TechBoston/Henderson,4117,,,Boston City,Boston City,4:30 P.M.,,0
+2026-09-09,141464,UPCOMING,Ursuline,4448,,,Madison Park,4225,,,Catholic Conference,Boston City,5:30 P.M.,,0
+2026-09-09,141579,UPCOMING,Apponequet,4011,,,Fairhaven,4133,,,South Coast,South Coast,6:00 P.M.,,0
+2026-09-09,141612,UPCOMING,Sturgis East,4456,,,Sandwich,4340,,,Cape & Islands,Cape & Islands,7:00 P.M.,,0
+2026-09-09,141697,UPCOMING,Wareham,4407,,,Rising Tide Charter,4746,,,Mayflower,Cape & Islands,4:00 P.M.,,0
+2026-09-09,141739,UPCOMING,Lynn English,4221,,,Georgetown,4148,,,Greater Boston,Cape Ann,5:30 P.M.,,0
+2026-09-09,141867,UPCOMING,Triton,4395,,,Danvers,4103,,,Cape Ann,Northeastern,5:15 P.M.,,0
+2026-09-09,142013,UPCOMING,Bishop Feehan,4042,,,La Salle (R.I.),4201,,,Catholic Central,Independent,5:15 P.M.,,0
+2026-09-09,142155,UPCOMING,Notre Dame (Hingham),4449,,,Barnstable,4024,,,Catholic Conference,Pioneer,5:30 P.M.,,0
+2026-09-09,142367,UPCOMING,KIPP,4703,,,Prospect Hill,4593,,,Commonwealth,Charter School Athletic,5:30 P.M.,,0
+2026-09-09,142440,UPCOMING,Cristo Rey,4453,,,Nashoba Valley Tech,4268,,,Catholic Central,Commonwealth,5:15 P.M.,,0
+2026-09-09,142484,UPCOMING,Acton-Boxborough,4003,,,Lincoln-Sudbury,4211,,,Dual County,Dual County,6:00 P.M.,,0
+2026-09-09,142510,UPCOMING,Boston Latin,4049,,,Cambridge,4067,,,Dual County,Dual County,4:00 P.M.,,0
+2026-09-09,142538,UPCOMING,Bedford,4031,,,Concord-Carlisle,4097,,,Dual County,Dual County,5:30 P.M.,,0
+2026-09-09,142582,UPCOMING,Weston,4423,,,Newton South,4280,,,Dual County,Dual County,5:30 P.M.,,0
+2026-09-09,142601,UPCOMING,Westford,4421,,,Waltham,4405,,,Dual County,Dual County,5:30 P.M.,,0
+2026-09-09,142686,UPCOMING,Everett,4132,,,Chelsea,4086,,,Greater Boston,Greater Boston,5:15 P.M.,,0
+2026-09-09,143016,UPCOMING,Norfolk Aggie,4458,,,Foxborough,4142,,,Mayflower,Hockomock,5:00 P.M.,,0
+2026-09-09,143086,UPCOMING,Atlantis Charter,4818,,,Roxbury Prep,4847,,,Mayflower,Charter School Athletic,5:00 P.M.,,0
+2026-09-09,143145,UPCOMING,Holbrook,4172,,,Blue Hills,4047,,,Mayflower,Mayflower,5:00 P.M.,,0
+2026-09-09,143257,UPCOMING,South Shore Voc-Tech,4356,,,Bristol-Plymouth,4057,,,Mayflower,Mayflower,5:00 P.M.,,0
+2026-09-09,143310,UPCOMING,Southeastern,4358,,,Bristol Aggie,4463,,,Mayflower,Mayflower,5:00 P.M.,,0
+2026-09-09,143332,UPCOMING,Tri-County,4392,,,Old Colony,4300,,,Mayflower,Mayflower,5:00 P.M.,,0
+2026-09-09,145607,UPCOMING,Beverly,4038,,,Peabody,4306,,,Northeastern,Northeastern,5:30 P.M.,,0
+2026-09-09,145656,UPCOMING,Masconomet,4236,,,Marblehead,4231,,,Northeastern,Northeastern,5:30 P.M.,,0
+2026-09-09,145685,UPCOMING,Swampscott,4383,,,Salem,4336,,,Northeastern,Northeastern,6:00 P.M.,,0
+2026-09-09,146032,UPCOMING,Dighton-Rehoboth,4114,,,Bourne,4050,,,South Coast,South Coast,6:00 P.M.,,0
+2026-09-09,146060,UPCOMING,Greater New Bedford,4156,,,Joseph Case,4078,,,South Coast,South Coast,6:00 P.M.,,0
+2026-09-09,146088,UPCOMING,Old Rochester,4301,,,Seekonk,4344,,,South Coast,South Coast,6:00 P.M.,,0
+2026-09-09,146389,UPCOMING,Carver,4077,,,Abington,4002,,,South Shore,South Shore,5:30 P.M.,,0
+2026-09-09,146505,UPCOMING,Medfield,4241,,,Ashland,4015,,,Tri-Valley,Tri-Valley,6:30 P.M.,,0
+2026-09-09,146575,UPCOMING,Holliston,4174,,,Hopkinton,4180,,,Tri-Valley,Tri-Valley,5:00 P.M.,,0
+2026-09-09,146619,UPCOMING,Norwood,4297,,,Westwood,4424,,,Tri-Valley,Tri-Valley,5:30 P.M.,,0
+2026-09-09,146651,UPCOMING,Medway,4243,,,Bellingham,4033,,,Tri-Valley,Tri-Valley,5:00 P.M.,,0
+2026-09-09,146691,UPCOMING,Millis,4251,,,Norton,4295,,,Tri-Valley,Tri-Valley,6:15 P.M.,,0
