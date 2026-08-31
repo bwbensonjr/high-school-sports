@@ -1,6 +1,6 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-08-30 15:09
+Generated: 2026-08-31 17:51
 
 ## Upcoming Games
 
@@ -9,6 +9,11 @@ Generated: 2026-08-30 15:09
 | 2026-09-09 | 4:00 P.M. | Needham | Brookline | 18.2% | -26.1 |
 | 2026-09-09 | 4:00 P.M. | Wellesley | Framingham | 13.5% | -32.3 |
 | 2026-09-09 | 4:00 P.M. | Weymouth | Wellesley | 65.3% | +11.0 |
+| 2026-09-09 | 4:00 P.M. | Durfee | Bristol Aggie | 55.4% | +3.8 |
+| 2026-09-09 | 4:00 P.M. | Durfee | Diman | 71.2% | +15.7 |
+| 2026-09-09 | 4:00 P.M. | Bristol Aggie | Diman | 72.6% | +16.9 |
+| 2026-09-09 | 4:00 P.M. | Nauset | Monomoy | 58.3% | +5.8 |
+| 2026-09-09 | 4:00 P.M. | Barnstable | Falmouth | 42.9% | -4.9 |
 
 ## Recent Games
 
@@ -107,8 +112,8 @@ Generated: 2026-08-30 15:09
 | 86 | Agawam | 1535.7 |
 | 87 | Masconomet | 1534.9 |
 | 88 | Norfolk Aggie | 1533.3 |
-| 89 | Renaissance | 1532.5 |
-| 90 | Hudson | 1532.5 |
+| 89 | Hudson | 1532.5 |
+| 90 | Renaissance | 1532.5 |
 | 91 | Sturgis West | 1531.6 |
 | 92 | North Reading | 1531.2 |
 | 93 | Natick | 1531.0 |
@@ -139,21 +144,21 @@ Generated: 2026-08-30 15:09
 | 118 | East Longmeadow | 1507.1 |
 | 119 | Holbrook/Avon | 1506.7 |
 | 120 | Westfield Tech | 1503.8 |
-| 121 | Boston Latin | 1501.7 |
-| 122 | Amherst-Pelham | 1501.7 |
-| 123 | Notre Dame (Worcester) | 1501.7 |
-| 124 | Notre Dame (Tyngsborough) | 1501.7 |
-| 125 | Minnechaug | 1501.7 |
-| 126 | Wachusett | 1501.7 |
-| 127 | Westfield | 1501.7 |
-| 128 | Greater Lowell | 1501.7 |
-| 129 | Bedford | 1501.7 |
-| 130 | Waltham | 1501.7 |
-| 131 | Greater Lawrence | 1501.7 |
-| 132 | Saugus | 1501.7 |
-| 133 | Cape Cod Tech | 1501.7 |
-| 134 | Bridgewater-Raynham | 1501.7 |
-| 135 | Longmeadow | 1501.7 |
+| 121 | Saugus | 1501.7 |
+| 122 | Westfield | 1501.7 |
+| 123 | Bridgewater-Raynham | 1501.7 |
+| 124 | Boston Latin | 1501.7 |
+| 125 | Notre Dame (Worcester) | 1501.7 |
+| 126 | Greater Lawrence | 1501.7 |
+| 127 | Bedford | 1501.7 |
+| 128 | Minnechaug | 1501.7 |
+| 129 | Wachusett | 1501.7 |
+| 130 | Amherst-Pelham | 1501.7 |
+| 131 | Greater Lowell | 1501.7 |
+| 132 | Cape Cod Tech | 1501.7 |
+| 133 | Waltham | 1501.7 |
+| 134 | Longmeadow | 1501.7 |
+| 135 | Notre Dame (Tyngsborough) | 1501.7 |
 | 136 | Concord-Carlisle | 1499.6 |
 | 137 | Lexington Christian | 1498.2 |
 | 138 | Winthrop | 1497.4 |
@@ -194,8 +199,8 @@ Generated: 2026-08-30 15:09
 | 173 | Sutton | 1465.4 |
 | 174 | South Shore Voc-Tech | 1464.2 |
 | 175 | Amesbury | 1463.2 |
-| 176 | Clinton | 1463.0 |
-| 177 | Ayer Shirley | 1463.0 |
+| 176 | Ayer Shirley | 1463.0 |
+| 177 | Clinton | 1463.0 |
 | 178 | Blackstone Valley | 1462.7 |
 | 179 | Hampshire | 1460.5 |
 | 180 | Pope Francis | 1460.0 |

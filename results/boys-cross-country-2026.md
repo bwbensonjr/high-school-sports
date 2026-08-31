@@ -1,6 +1,6 @@
 # Boys Cross Country - 2026 Season
 
-Generated: 2026-08-30 15:09
+Generated: 2026-08-31 17:51
 
 ## Upcoming Games
 
@@ -9,6 +9,11 @@ Generated: 2026-08-30 15:09
 | 2026-09-09 | 4:00 P.M. | Brookline | Needham | 18.7% | -25.5 |
 | 2026-09-09 | 4:00 P.M. | Framingham | Wellesley | 83.8% | +28.5 |
 | 2026-09-09 | 4:00 P.M. | Weymouth | Wellesley | 68.7% | +13.6 |
+| 2026-09-09 | 4:00 P.M. | Durfee | Diman | 72.5% | +16.9 |
+| 2026-09-09 | 4:00 P.M. | Durfee | Bristol Aggie | 59.4% | +6.6 |
+| 2026-09-09 | 4:00 P.M. | Bristol Aggie | Diman | 70.6% | +15.2 |
+| 2026-09-09 | 4:00 P.M. | Nauset | Monomoy | 67.7% | +12.8 |
+| 2026-09-09 | 4:00 P.M. | Barnstable | Falmouth | 80.4% | +24.5 |
 
 ## Recent Games
 
@@ -146,18 +151,18 @@ Generated: 2026-08-30 15:09
 | 125 | Hampshire | 1503.8 |
 | 126 | Rising Tide Charter | 1502.3 |
 | 127 | Bellingham | 1501.9 |
-| 128 | Minnechaug | 1501.7 |
+| 128 | Greater Lowell | 1501.7 |
 | 129 | Watkinson | 1501.7 |
-| 130 | Greater Lowell | 1501.7 |
-| 131 | Longmeadow | 1501.7 |
-| 132 | Bridgewater-Raynham | 1501.7 |
-| 133 | Westfield | 1501.7 |
-| 134 | Notre Dame (Tyngsborough) | 1501.7 |
+| 130 | Tabor | 1501.7 |
+| 131 | Bridgewater-Raynham | 1501.7 |
+| 132 | Greater Lawrence | 1501.7 |
+| 133 | Minnechaug | 1501.7 |
+| 134 | Westfield | 1501.7 |
 | 135 | Wachusett | 1501.7 |
-| 136 | Riverview School | 1501.7 |
-| 137 | St. Sebastian’s | 1501.7 |
-| 138 | Tabor | 1501.7 |
-| 139 | Greater Lawrence | 1501.7 |
+| 136 | Longmeadow | 1501.7 |
+| 137 | Notre Dame (Tyngsborough) | 1501.7 |
+| 138 | Riverview School | 1501.7 |
+| 139 | St. Sebastian’s | 1501.7 |
 | 140 | Amherst-Pelham | 1501.7 |
 | 141 | East Bridgewater | 1500.4 |
 | 142 | Cambridge | 1499.0 |

@@ -94,3 +94,40 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-09,145463,UPCOMING,Hamilton-Wenham,4163,,,Amesbury,4007,,,Cape Ann,Cape Ann,4:00 P.M.,,0
 2026-09-09,145581,UPCOMING,Narragansett,4266,,,Maynard,4239,,,Mid-Wach,Mid-Wach,4:00 P.M.,,0
 2026-09-09,145602,UPCOMING,Tahanto,4513,,,Fitchburg,4139,,,Mid-Wach,Mid-Wach,4:00 P.M.,,0
+2026-09-10,139136,UPCOMING,Lexington,4209,,,Reading,4328,,,Middlesex,Middlesex,4:15 P.M.,,0
+2026-09-10,139261,UPCOMING,New Bedford,4273,,,Westport,4461,,,Big Three,Mayflower,4:00 P.M.,,0
+2026-09-10,139311,UPCOMING,Wareham/Mashpee,4407,,,Southeastern,4358,,,Mayflower,Mayflower,3:30 P.M.,,0
+2026-09-10,139351,UPCOMING,Everett,4132,,,Arlington Catholic,4014,,,Greater Boston,Catholic Central,4:15 P.M.,,0
+2026-09-10,139588,UPCOMING,Attleboro,4018,,,Sharon,4345,,,Hockomock,Hockomock,5:45 P.M.,,0
+2026-09-10,139721,UPCOMING,King Philip,4197,,,Mansfield,4230,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-09-10,139982,UPCOMING,Milford,4249,,,Franklin,4144,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-09-10,140049,UPCOMING,Lincoln-Sudbury,4211,,,Acton-Boxborough,4003,,,Dual County,Dual County,4:00 P.M.,,0
+2026-09-10,140082,UPCOMING,Taunton,4388,,,Stoughton,4381,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-09-10,140194,UPCOMING,Canton,4071,,,Oliver Ames,4302,,,Hockomock,Hockomock,6:30 P.M.,,0
+2026-09-10,140227,UPCOMING,Arlington,4013,,,Belmont,4034,,,Middlesex,Middlesex,4:30 P.M.,,0
+2026-09-10,140235,UPCOMING,Foxborough,4142,,,North Attleborough,4284,,,Hockomock,Hockomock,5:00 P.M.,,0
+2026-09-10,140291,UPCOMING,West Springfield,4417,,,Hampshire,4518,,,Suburban,County,7:00 P.M.,,0
+2026-09-10,140349,UPCOMING,Frontier,4146,,,Agawam,4004,,,Suburban,Suburban,4:00 P.M.,,0
+2026-09-10,140649,UPCOMING,Woburn,4438,,,Winchester,4434,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-09-10,140673,UPCOMING,Westwood,4424,,,Hopkinton,4180,,,Tri-Valley,Tri-Valley,6:00 P.M.,,0
+2026-09-10,140687,UPCOMING,Plymouth South,4316,,,East Bridgewater,4126,,,Patriot,South Shore,4:00 P.M.,,0
+2026-09-10,140760,UPCOMING,Beverly,4038,,,Marblehead,4231,,,Northeastern,Northeastern,6:00 P.M.,,0
+2026-09-10,143631,UPCOMING,Monty Tech,4259,,,Quaboag,4510,,,CMAC,CMAC,4:00 P.M.,,0
+2026-09-10,143687,UPCOMING,Northbridge,4292,,,Bay Path/David Prouty,4027,,,CMAC,CMAC,4:00 P.M.,,0
+2026-09-10,143711,UPCOMING,Tantasqua,4387,,,Shepherd Hill,4347,,,CMAC,Mid-Wach,4:00 P.M.,,0
+2026-09-10,143804,UPCOMING,East Longmeadow,4127,,,Greenfield,4157,,,Valley League,Suburban,7:00 P.M.,,0
+2026-09-10,143903,UPCOMING,Whitman-Hanson,4427,,,Martha’s Vineyard,4235,,,Patriot,Cape & Islands,3:30 P.M.,,0
+2026-09-10,143932,UPCOMING,Longmeadow,4214,,,Minnechaug,4254,,,Suburban,Suburban,5:00 P.M.,,0
+2026-09-10,143954,UPCOMING,Burlington,4065,,,Melrose,4244,,,Middlesex,Middlesex,4:15 P.M.,,0
+2026-09-10,144104,UPCOMING,Bellingham,4033,,,Dedham,4108,,,Tri-Valley,Tri-Valley,4:30 P.M.,,0
+2026-09-10,144160,UPCOMING,Apponequet,4011,,,Somerset Berkley,4350,,,South Coast,South Coast,4:00 P.M.,,0
+2026-09-10,144354,UPCOMING,Saugus,4341,,,Gloucester,4150,,,Northeastern,Northeastern,4:30 P.M.,,0
+2026-09-10,144373,UPCOMING,Wilmington,4432,,,Watertown,4409,,,Middlesex,Middlesex,6:00 P.M.,,0
+2026-09-10,144484,UPCOMING,Nantucket,4265,,,Falmouth,4134,,,Cape & Islands,Cape & Islands,3:45 P.M.,,0
+2026-09-10,144495,UPCOMING,Stoneham,4380,,,Wakefield,4402,,,Middlesex,Middlesex,6:00 P.M.,,0
+2026-09-10,144705,UPCOMING,Dover-Sherborn,4118,,,Monomoy,4706,,,Tri-Valley,Cape & Islands,4:00 P.M.,,0
+2026-09-10,144983,UPCOMING,Joseph Case,4078,,,Old Rochester,4301,,,South Coast,South Coast,3:45 P.M.,,0
+2026-09-10,145008,UPCOMING,Turners Falls,4396,,,Franklin County Tech,4145,,,Valley League,County,6:00 P.M.,,0
+2026-09-10,145056,UPCOMING,Fairhaven,4133,,,Seekonk,4344,,,South Coast,South Coast,3:30 P.M.,,0
+2026-09-10,145125,UPCOMING,Cohasset,4094,,,St. Mary’s,4374,,,South Shore,Catholic Central,6:30 P.M.,,0
+2026-09-10,145227,UPCOMING,Palmer,4304,,,Mahar,4226,,,County,Valley League,4:00 P.M.,,0
