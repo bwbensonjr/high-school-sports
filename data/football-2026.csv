@@ -123,7 +123,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-11,128502,UPCOMING,Westborough,4418,,,Ashland,4015,,,Mid-Wach,Tri-Valley,6:30 P.M.,,0
 2026-09-11,128515,UPCOMING,Greater Lawrence,4154,,,Wakefield,4402,,,Commonwealth,Middlesex,6:00 P.M.,,0
 2026-09-11,128526,UPCOMING,Algonquin,4005,,,Nashoba,4267,,,Mid-Wach,Mid-Wach,6:00 P.M.,,0
-2026-09-11,128539,UPCOMING,Wayland,4411,,,Hopkinton,4180,,,Dual County,Tri-Valley,7:00 P.M.,,0
+2026-09-11,128539,UPCOMING,Wayland,4411,,,Hopkinton,4180,,,Dual County,Tri-Valley,5:00 P.M.,,0
 2026-09-11,128545,UPCOMING,Amherst-Pelham,4008,,,Springfield International,4480,,,Suburban,Independent,7:00 P.M.,,0
 2026-09-11,128569,UPCOMING,Middleborough,4247,,,Apponequet,4011,,,South Shore,South Coast,7:00 P.M.,,0
 2026-09-11,128585,UPCOMING,Newburyport,4276,,,Manchester Essex,4229,,,Cape Ann,Cape Ann,6:30 P.M.,,0
@@ -168,3 +168,18 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-11,130230,UPCOMING,Bellingham,4033,,,Woburn,4438,,,Tri-Valley,Middlesex,6:00 P.M.,,0
 2026-09-11,131279,UPCOMING,Putnam,4362,,,Commerce,4361,,,Suburban,Intercounty,7:00 P.M.,,0
 2026-09-11,131419,UPCOMING,Wilmington,4432,,,Cardinal Spellman,4075,,,Middlesex,Catholic Central,6:00 P.M.,,0
+2026-09-12,127932,UPCOMING,Mt. Hope (R.I.),4658,,,Bristol-Plymouth,4057,,,Independent,Mayflower,2:00 P.M.,,0
+2026-09-12,128253,UPCOMING,Chicopee Comprehensive,4089,,,Holyoke,4176,,,AA,AA,11:00 A.M.,,0
+2026-09-12,128719,UPCOMING,Burncoat,4066,,,Bourne,4050,,,CMAC,South Coast,12:00 P.M.,,0
+2026-09-12,128817,UPCOMING,Blackstone Valley,4046,,,Auburn,4019,,,CMAC,CMAC,,,0
+2026-09-12,128833,UPCOMING,Northeast,4293,,,Bishop Fenwick,4043,,,Commonwealth,Catholic Central,10:30 A.M.,,0
+2026-09-12,128848,UPCOMING,Worcester Tech,4445,,,Assabet,4016,,,CMAC,CMAC,3:00 P.M.,,0
+2026-09-12,129070,UPCOMING,Norton,4295,,,Bay Path,4027,,,Tri-Valley,CMAC,12:00 P.M.,,0
+2026-09-12,129232,UPCOMING,Nauset,4271,,,Oakmont,4299,,,Cape & Islands,Mid-Wach,2:00 P.M.,,0
+2026-09-12,129334,UPCOMING,Upper Cape,4457,,,Sandwich,4340,,,Mayflower,Cape & Islands,11:00 A.M.,,0
+2026-09-12,129353,UPCOMING,Keefe Tech,4191,,,Murdock,4263,,,CMAC,Mid-Wach,12:00 P.M.,,0
+2026-09-12,129421,UPCOMING,Mahar,4226,,,Smith Vocational,4539,,,Intercounty,Tri-County,12:00 P.M.,,0
+2026-09-12,129444,UPCOMING,Hope (R.I.),4496,,,Atlantis,4818,,,Independent,Mayflower,12:00 P.M.,,0
+2026-09-12,129453,UPCOMING,Athol,4017,,,Frontier,4146,,,Intercounty,Intercounty,7:00 P.M.,,0
+2026-09-12,129488,UPCOMING,Blackstone-Millville/Hopedale,4486,,,Millis,4251,,,CMAC,Tri-Valley,12:00 P.M.,,0
+2026-09-12,132364,UPCOMING,Nantucket,4265,,,East Bridgewater,4126,,,Cape & Islands,South Shore,2:00 P.M.,,0
