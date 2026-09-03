@@ -1,12 +1,11 @@
 # Girls Soccer - 2026 Season
 
-Generated: 2026-09-02 14:57
+Generated: 2026-09-03 14:51
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-09-02 | 4:30 P.M. | Barnstable | Monomoy | 39.7% | -1.5 |
 | 2026-09-07 | 6:30 P.M. | Northbridge | Lunenburg | 50.2% | +0.0 |
 | 2026-09-07 | 1:00 P.M. | Mystic Valley | Lynn Tech | 69.8% | +2.9 |
 | 2026-09-07 | 4:30 P.M. | Wahconah | Mt. Greylock | 51.5% | +0.2 |
@@ -29,8 +28,8 @@ Generated: 2026-09-02 14:57
 | 2026-09-08 | 6:45 P.M. | Pioneer Charter I | Brooke Charter | 55.3% | +0.7 |
 | 2026-09-08 | 4:00 P.M. | Ipswich | Georgetown | 46.1% | -0.5 |
 | 2026-09-08 | 5:00 P.M. | Tyngsborough | Lowell Catholic | 70.8% | +3.1 |
+| 2026-09-08 | 4:00 P.M. | Rockport | Manchester Essex | 41.8% | -1.1 |
 | 2026-09-08 | 4:30 P.M. | Mashpee | Monomoy | 41.6% | -1.2 |
-| 2026-09-08 | 7:00 P.M. | West Springfield | Northampton | 52.5% | +0.3 |
 | 2026-09-08 | 4:00 P.M. | St. Mary (Westfield) | Westfield Tech | 58.2% | +1.1 |
 | 2026-09-08 | 4:00 P.M. | Commerce | Renaissance | 49.8% | -0.0 |
 | 2026-09-08 | 4:00 P.M. | Tahanto | Hudson | 59.6% | +1.4 |
@@ -48,7 +47,7 @@ Generated: 2026-09-02 14:57
 | 2026-09-08 | 4:30 P.M. | Hoosac School | Lee | 58.3% | +1.2 |
 | 2026-09-08 | 4:00 P.M. | Maynard | Marlborough | 60.4% | +1.5 |
 | 2026-09-08 | 4:00 P.M. | Greenfield | Smith Academy | 63.1% | +1.9 |
-| 2026-09-08 | 4:00 P.M. | Rockport | Manchester Essex | 41.8% | -1.1 |
+| 2026-09-08 | 7:00 P.M. | West Springfield | Northampton | 52.5% | +0.3 |
 | 2026-09-08 | 4:00 P.M. | Bromfield | West Boylston | 60.7% | +1.5 |
 | 2026-09-08 | 4:00 P.M. | Sturgis West | Sandwich | 52.0% | +0.3 |
 | 2026-09-08 | 3:30 P.M. | Assabet | Bay Path | 40.6% | -1.3 |
@@ -459,18 +458,18 @@ Generated: 2026-09-02 14:57
 | 194 | Madison Park | 1503.9 |
 | 195 | Concord Academy | 1503.6 |
 | 196 | Canton | 1503.1 |
-| 197 | Boston Prep | 1502.8 |
-| 198 | Kent | 1502.8 |
-| 199 | Cumberland (R.I.) | 1502.8 |
-| 200 | Bishop Guertin (N.H.) | 1502.8 |
-| 201 | South Shore Christian | 1502.8 |
-| 202 | Taft | 1502.8 |
-| 203 | Randolph | 1502.8 |
-| 204 | Neighborhood House Charter | 1502.8 |
-| 205 | Notre Dame Academy-Worcester | 1502.8 |
-| 206 | Kingswood-Oxford | 1502.8 |
-| 207 | Bridgton Academy | 1502.8 |
-| 208 | Poughkeepsie Day (N.Y.) | 1502.8 |
+| 197 | Bridgton Academy | 1502.8 |
+| 198 | Poughkeepsie Day (N.Y.) | 1502.8 |
+| 199 | Neighborhood House Charter | 1502.8 |
+| 200 | Notre Dame Academy-Worcester | 1502.8 |
+| 201 | Boston Prep | 1502.8 |
+| 202 | Cumberland (R.I.) | 1502.8 |
+| 203 | South Shore Christian | 1502.8 |
+| 204 | Bishop Guertin (N.H.) | 1502.8 |
+| 205 | Randolph | 1502.8 |
+| 206 | Kent | 1502.8 |
+| 207 | Taft | 1502.8 |
+| 208 | Kingswood-Oxford | 1502.8 |
 | 209 | Billerica | 1501.4 |
 | 210 | Melrose | 1500.7 |
 | 211 | Rivers | 1500.0 |

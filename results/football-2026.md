@@ -1,6 +1,6 @@
 # Football - 2026 Season
 
-Generated: 2026-09-02 14:57
+Generated: 2026-09-03 14:51
 
 ## Upcoming Games
 
@@ -350,16 +350,16 @@ Generated: 2026-09-02 14:57
 | 170 | Newton North | 1504.2 |
 | 171 | Bartlett | 1503.7 |
 | 172 | Woburn | 1503.2 |
-| 173 | Triton/Ipswich | 1501.7 |
-| 174 | Capital Prep (Conn.) | 1501.7 |
-| 175 | Mt. Hope (R.I.) | 1501.7 |
-| 176 | Millbury/Sutton | 1501.7 |
-| 177 | Portsmouth (R.I.) | 1501.7 |
-| 178 | Hope (R.I.) | 1501.7 |
-| 179 | St. Bernard's | 1501.7 |
-| 180 | Forman | 1501.7 |
-| 181 | Sharon/Dedham | 1501.7 |
-| 182 | Ayer Shirley/Bromfield/Littleton | 1501.7 |
+| 173 | St. Bernard's | 1501.7 |
+| 174 | Sharon/Dedham | 1501.7 |
+| 175 | Triton/Ipswich | 1501.7 |
+| 176 | Hope (R.I.) | 1501.7 |
+| 177 | Capital Prep (Conn.) | 1501.7 |
+| 178 | Mt. Hope (R.I.) | 1501.7 |
+| 179 | Millbury/Sutton | 1501.7 |
+| 180 | Ayer Shirley/Bromfield/Littleton | 1501.7 |
+| 181 | Forman | 1501.7 |
+| 182 | Portsmouth (R.I.) | 1501.7 |
 | 183 | Taunton | 1501.0 |
 | 184 | Martha’s Vineyard | 1501.0 |
 | 185 | Silver Lake | 1499.0 |

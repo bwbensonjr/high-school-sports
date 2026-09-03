@@ -1,6 +1,6 @@
 # Boys Tennis - 2026 Season
 
-Generated: 2026-09-02 14:57
+Generated: 2026-09-03 14:51
 
 ## Upcoming Games
 
@@ -136,8 +136,8 @@ Generated: 2026-09-02 14:57
 | 118 | Chelmsford | 1501.4 |
 | 119 | Pittsfield | 1500.0 |
 | 120 | Greater Lawrence | 1500.0 |
-| 121 | Greater Lowell | 1500.0 |
-| 122 | Fellowship Christian | 1500.0 |
+| 121 | Fellowship Christian | 1500.0 |
+| 122 | Greater Lowell | 1500.0 |
 | 123 | Ashland | 1499.7 |
 | 124 | Chicopee | 1498.1 |
 | 125 | Austin Prep | 1496.9 |

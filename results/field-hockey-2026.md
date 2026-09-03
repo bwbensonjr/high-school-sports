@@ -1,6 +1,6 @@
 # Field Hockey - 2026 Season
 
-Generated: 2026-09-02 14:57
+Generated: 2026-09-03 14:51
 
 ## Upcoming Games
 
@@ -322,12 +322,12 @@ Generated: 2026-09-02 14:57
 | 123 | Lawrence | 1503.2 |
 | 124 | Groton-Dunstable | 1502.6 |
 | 125 | Franklin County Tech | 1502.3 |
-| 126 | Hamden Hall Country Day | 1501.7 |
-| 127 | Kingswood-Oxford | 1501.7 |
-| 128 | St. Luke’s | 1501.7 |
-| 129 | Hopkins (Conn.) | 1501.7 |
-| 130 | Wareham/Mashpee | 1501.7 |
-| 131 | Notre Dame Academy-Worcester | 1501.7 |
+| 126 | St. Luke’s | 1501.7 |
+| 127 | Hopkins (Conn.) | 1501.7 |
+| 128 | Wareham/Mashpee | 1501.7 |
+| 129 | Notre Dame Academy-Worcester | 1501.7 |
+| 130 | Hamden Hall Country Day | 1501.7 |
+| 131 | Kingswood-Oxford | 1501.7 |
 | 132 | Kent | 1501.7 |
 | 133 | Milton Academy | 1500.8 |
 | 134 | Monty Tech | 1499.6 |
