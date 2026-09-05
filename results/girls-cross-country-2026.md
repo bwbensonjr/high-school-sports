@@ -1,6 +1,6 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-09-04 14:46
+Generated: 2026-09-05 13:39
 
 ## Upcoming Games
 
@@ -12,22 +12,29 @@ Generated: 2026-09-04 14:46
 | 2026-09-09 | 4:00 P.M. | Bedford | Wayland | 58.0% | +5.6 |
 | 2026-09-09 | 4:00 P.M. | Newton South | Westford | 68.5% | +13.5 |
 | 2026-09-09 | 4:00 P.M. | Bedford | Westford | 67.0% | +12.3 |
-| 2026-09-09 | 4:05 P.M. | Bedford | Newton South | 55.5% | +3.8 |
 | 2026-09-09 | 4:30 P.M. | Weston | Lincoln-Sudbury | 51.3% | +0.9 |
 | 2026-09-09 | 4:30 P.M. | Weston | Cambridge | 65.8% | +11.4 |
 | 2026-09-09 | 3:30 P.M. | Dartmouth | Bishop Stang | 33.9% | -11.6 |
 | 2026-09-09 | 4:00 P.M. | Nantucket | Sturgis West | 52.9% | +2.0 |
-| 2026-09-09 | 4:00 P.M. | Sturgis West | Sturgis East | 67.8% | +12.9 |
+| 2026-09-09 | 4:05 P.M. | Bedford | Newton South | 55.5% | +3.8 |
 | 2026-09-09 | 4:00 P.M. | Nantucket | Sturgis East | 63.9% | +9.9 |
-| 2026-09-09 | 4:00 P.M. | Barnstable | Falmouth | 42.9% | -4.9 |
-| 2026-09-09 | 4:00 P.M. | Nauset | Monomoy | 58.3% | +5.8 |
-| 2026-09-09 | 4:00 P.M. | Bristol Aggie | Diman | 72.6% | +16.9 |
-| 2026-09-09 | 4:00 P.M. | Durfee | Diman | 71.2% | +15.7 |
-| 2026-09-09 | 4:00 P.M. | Durfee | Bristol Aggie | 55.4% | +3.8 |
+| 2026-09-09 | 4:00 P.M. | Sturgis West | Sturgis East | 67.8% | +12.9 |
 | 2026-09-09 | 4:00 P.M. | Weymouth | Wellesley | 65.3% | +11.0 |
+| 2026-09-09 | 4:00 P.M. | Durfee | Bristol Aggie | 55.4% | +3.8 |
+| 2026-09-09 | 4:00 P.M. | Durfee | Diman | 71.2% | +15.7 |
 | 2026-09-09 | 4:00 P.M. | Wellesley | Framingham | 13.5% | -32.3 |
+| 2026-09-09 | 4:00 P.M. | Nauset | Monomoy | 58.3% | +5.8 |
+| 2026-09-09 | 4:00 P.M. | Barnstable | Falmouth | 42.9% | -4.9 |
+| 2026-09-09 | 4:00 P.M. | Bristol Aggie | Diman | 72.6% | +16.9 |
 | 2026-09-12 | 11:30 A.M. | Martha’s Vineyard | Nantucket | 66.4% | +11.8 |
 | 2026-09-12 | 9:15 A.M. | Newburyport | Danvers | 43.5% | -4.5 |
+| 2026-09-15 | 4:00 P.M. | Cardinal Spellman | Bishop Stang | 57.6% | +5.3 |
+| 2026-09-15 | 4:00 P.M. | Nauset | Falmouth | 42.3% | -5.4 |
+| 2026-09-15 | 4:00 P.M. | Dennis-Yarmouth | Sandwich | 53.9% | +2.7 |
+| 2026-09-15 | 4:00 P.M. | Cape Cod Academy | Sturgis West | 62.1% | +8.6 |
+| 2026-09-15 | 4:00 P.M. | Falmouth Academy | Sturgis East | 69.3% | +14.2 |
+| 2026-09-15 | 4:00 P.M. | Rising Tide Charter | Monomoy | 73.4% | +17.7 |
+| 2026-09-15 | 4:00 P.M. | Arlington Catholic | Bishop Fenwick | 83.7% | +28.4 |
 
 ## Recent Games
 
@@ -117,8 +124,8 @@ Generated: 2026-09-04 14:46
 | 77 | Douglas | 1542.8 |
 | 78 | Sizer | 1541.5 |
 | 79 | North Attleborough | 1540.6 |
-| 80 | Maynard | 1540.3 |
-| 81 | South Lancaster | 1540.3 |
+| 80 | South Lancaster | 1540.3 |
+| 81 | Maynard | 1540.3 |
 | 82 | Shawsheen | 1539.2 |
 | 83 | Tahanto | 1539.1 |
 | 84 | Millis | 1538.7 |
@@ -126,8 +133,8 @@ Generated: 2026-09-04 14:46
 | 86 | Agawam | 1535.7 |
 | 87 | Masconomet | 1534.9 |
 | 88 | Norfolk Aggie | 1533.3 |
-| 89 | Hudson | 1532.5 |
-| 90 | Renaissance | 1532.5 |
+| 89 | Renaissance | 1532.5 |
+| 90 | Hudson | 1532.5 |
 | 91 | Sturgis West | 1531.6 |
 | 92 | North Reading | 1531.2 |
 | 93 | Natick | 1531.0 |
@@ -158,22 +165,22 @@ Generated: 2026-09-04 14:46
 | 118 | East Longmeadow | 1507.1 |
 | 119 | Holbrook/Avon | 1506.7 |
 | 120 | Westfield Tech | 1503.8 |
-| 121 | Boston Latin | 1501.7 |
+| 121 | Minnechaug | 1501.7 |
 | 122 | Wachusett | 1501.7 |
-| 123 | Greater Lowell | 1501.7 |
-| 124 | Cape Cod Tech | 1501.7 |
-| 125 | Greater Lawrence | 1501.7 |
-| 126 | Amherst-Pelham | 1501.7 |
-| 127 | Saugus | 1501.7 |
-| 128 | Notre Dame (Worcester) | 1501.7 |
-| 129 | Longmeadow | 1501.7 |
-| 130 | Nantucket | 1501.7 |
-| 131 | Bedford | 1501.7 |
-| 132 | Minnechaug | 1501.7 |
-| 133 | Notre Dame (Tyngsborough) | 1501.7 |
-| 134 | Waltham | 1501.7 |
-| 135 | Bridgewater-Raynham | 1501.7 |
-| 136 | Westfield | 1501.7 |
+| 123 | Greater Lawrence | 1501.7 |
+| 124 | Bedford | 1501.7 |
+| 125 | Notre Dame (Tyngsborough) | 1501.7 |
+| 126 | Waltham | 1501.7 |
+| 127 | Boston Latin | 1501.7 |
+| 128 | Bridgewater-Raynham | 1501.7 |
+| 129 | Notre Dame (Worcester) | 1501.7 |
+| 130 | Westfield | 1501.7 |
+| 131 | Saugus | 1501.7 |
+| 132 | Amherst-Pelham | 1501.7 |
+| 133 | Cape Cod Tech | 1501.7 |
+| 134 | Longmeadow | 1501.7 |
+| 135 | Greater Lowell | 1501.7 |
+| 136 | Nantucket | 1501.7 |
 | 137 | Concord-Carlisle | 1499.6 |
 | 138 | Lexington Christian | 1498.2 |
 | 139 | Winthrop | 1497.4 |

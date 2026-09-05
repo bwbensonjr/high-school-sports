@@ -1,6 +1,6 @@
 # Boys Cross Country - 2026 Season
 
-Generated: 2026-09-04 14:46
+Generated: 2026-09-05 13:39
 
 ## Upcoming Games
 
@@ -11,13 +11,12 @@ Generated: 2026-09-04 14:46
 | 2026-09-09 | 4:00 P.M. | Chelsea | Malden | 81.6% | +25.9 |
 | 2026-09-09 | 4:00 P.M. | Bedford | Wayland | 50.0% | +0.0 |
 | 2026-09-09 | 4:00 P.M. | Westford | Newton South | 82.2% | +26.5 |
-| 2026-09-09 | 4:00 P.M. | Bedford | Westford | 42.3% | -5.4 |
 | 2026-09-09 | 4:00 P.M. | Bedford | Newton South | 71.7% | +16.1 |
 | 2026-09-09 | 4:30 P.M. | Weston | Lincoln-Sudbury | 55.6% | +3.9 |
 | 2026-09-09 | 4:30 P.M. | Weston | Cambridge | 52.5% | +1.7 |
 | 2026-09-09 | 3:30 P.M. | Dartmouth | Bishop Stang | 68.0% | +13.1 |
 | 2026-09-09 | 4:00 P.M. | Sturgis West | Nantucket | 76.6% | +20.6 |
-| 2026-09-09 | 4:00 P.M. | Sturgis West | Sturgis East | 54.7% | +3.3 |
+| 2026-09-09 | 4:00 P.M. | Bedford | Westford | 42.3% | -5.4 |
 | 2026-09-09 | 4:00 P.M. | Nantucket | Sturgis East | 32.9% | -12.3 |
 | 2026-09-09 | 4:00 P.M. | Barnstable | Falmouth | 80.4% | +24.5 |
 | 2026-09-09 | 4:00 P.M. | Nauset | Monomoy | 67.7% | +12.8 |
@@ -26,8 +25,18 @@ Generated: 2026-09-04 14:46
 | 2026-09-09 | 4:00 P.M. | Durfee | Diman | 72.5% | +16.9 |
 | 2026-09-09 | 4:00 P.M. | Weymouth | Wellesley | 68.7% | +13.6 |
 | 2026-09-09 | 4:00 P.M. | Framingham | Wellesley | 83.8% | +28.5 |
-| 2026-09-12 | 11:30 A.M. | Martha’s Vineyard | Nantucket | 78.0% | +22.0 |
+| 2026-09-09 | 4:00 P.M. | Sturgis West | Sturgis East | 54.7% | +3.3 |
 | 2026-09-12 | 10:30 A.M. | Newburyport | Danvers | 31.1% | -13.8 |
+| 2026-09-12 | 11:30 A.M. | Martha’s Vineyard | Nantucket | 78.0% | +22.0 |
+| 2026-09-15 | 4:00 P.M. | Nauset | Falmouth | 71.0% | +15.6 |
+| 2026-09-15 | 4:00 P.M. | Dennis-Yarmouth | Sandwich | 56.3% | +4.4 |
+| 2026-09-15 | 4:00 P.M. | Cape Cod Academy | Sturgis West | 59.5% | +6.7 |
+| 2026-09-15 | 4:00 P.M. | Falmouth Academy | Sturgis East | 60.1% | +7.1 |
+| 2026-09-15 | 4:00 P.M. | Rising Tide Charter | Monomoy | 73.5% | +17.7 |
+| 2026-09-15 | 4:00 P.M. | St. John’s (Shrewsbury) | BC High | 89.6% | +37.4 |
+| 2026-09-15 | 4:00 P.M. | St. John’s Prep | Xaverian | 47.2% | -2.0 |
+| 2026-09-15 | 4:00 P.M. | Cardinal Spellman | Bishop Stang | 87.6% | +34.0 |
+| 2026-09-15 | 4:00 P.M. | Arlington Catholic | Bishop Fenwick | 80.2% | +24.3 |
 
 ## Recent Games
 
@@ -135,8 +144,8 @@ Generated: 2026-09-04 14:46
 | 95 | Plymouth North | 1528.3 |
 | 96 | Whittier | 1527.5 |
 | 97 | Sandwich | 1527.0 |
-| 98 | Minuteman | 1526.5 |
-| 99 | Westborough | 1526.5 |
+| 98 | Westborough | 1526.5 |
+| 99 | Minuteman | 1526.5 |
 | 100 | Maynard | 1525.5 |
 | 101 | Essex Tech | 1525.5 |
 | 102 | Brooks | 1522.3 |
@@ -165,19 +174,19 @@ Generated: 2026-09-04 14:46
 | 125 | Hampshire | 1503.8 |
 | 126 | Rising Tide Charter | 1502.3 |
 | 127 | Bellingham | 1501.9 |
-| 128 | Greater Lowell | 1501.7 |
-| 129 | Bridgewater-Raynham | 1501.7 |
-| 130 | St. Sebastian’s | 1501.7 |
-| 131 | Longmeadow | 1501.7 |
-| 132 | Westfield | 1501.7 |
-| 133 | Wachusett | 1501.7 |
-| 134 | Watkinson | 1501.7 |
-| 135 | Amherst-Pelham | 1501.7 |
-| 136 | Greater Lawrence | 1501.7 |
-| 137 | Riverview School | 1501.7 |
-| 138 | Notre Dame (Tyngsborough) | 1501.7 |
-| 139 | Tabor | 1501.7 |
-| 140 | Minnechaug | 1501.7 |
+| 128 | Amherst-Pelham | 1501.7 |
+| 129 | Riverview School | 1501.7 |
+| 130 | Notre Dame (Tyngsborough) | 1501.7 |
+| 131 | Tabor | 1501.7 |
+| 132 | Greater Lowell | 1501.7 |
+| 133 | Greater Lawrence | 1501.7 |
+| 134 | Westfield | 1501.7 |
+| 135 | Watkinson | 1501.7 |
+| 136 | St. Sebastian’s | 1501.7 |
+| 137 | Longmeadow | 1501.7 |
+| 138 | Minnechaug | 1501.7 |
+| 139 | Bridgewater-Raynham | 1501.7 |
+| 140 | Wachusett | 1501.7 |
 | 141 | East Bridgewater | 1500.4 |
 | 142 | Cambridge | 1499.0 |
 | 143 | Lynn Classical | 1497.6 |
@@ -207,8 +216,8 @@ Generated: 2026-09-04 14:46
 | 167 | Landmark | 1477.8 |
 | 168 | Ayer Shirley | 1477.8 |
 | 169 | Lincoln-Sudbury | 1477.2 |
-| 170 | Algonquin | 1476.8 |
-| 171 | Mystic Valley | 1476.8 |
+| 170 | Mystic Valley | 1476.8 |
+| 171 | Algonquin | 1476.8 |
 | 172 | Tantasqua | 1475.1 |
 | 173 | Oakmont | 1474.9 |
 | 174 | Franklin | 1474.2 |
