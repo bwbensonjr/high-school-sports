@@ -60,7 +60,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-01,147610,FINAL,North Reading,4288,159,0,Newburyport,4276,181,1,Cape Ann,Cape Ann,3:30 P.M.,,0
 2026-09-01,147656,FINAL,Woburn,4438,29,0,Reading,4328,43,1,Middlesex,Middlesex,9:30 A.M.,,0
 2026-09-01,147746,FINAL,Walpole,4404,223,1,Weymouth,4425,239,0,Bay State,Bay State,,,0
-2026-09-01,147816,POSTPONED,Somerset Berkley,4350,,,Apponequet,4011,,,South Coast,South Coast,2:30 P.M.,,0
 2026-09-01,148191,FINAL,Waltham,4405,242,1,Boston Latin,4049,258,0,Dual County,Dual County,2:00 P.M.,,0
 2026-09-01,148242,FINAL,Georgetown,4148,173,0,Amesbury,4007,126,1,Cape Ann,Cape Ann,3:00 P.M.,,0
 2026-09-01,148591,POSTPONED,Clinton,4093,,,Tyngsborough,4397,,,Mid-Wach,Mid-Wach,3:00 P.M.,,0
@@ -490,3 +489,55 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-15,149556,UPCOMING,Mt. Everett,4533,,,Monument Mtn.,4260,,,Berkshire,Berkshire,3:30 P.M.,,0
 2026-09-15,149653,UPCOMING,Pope Francis,4796,,,Longmeadow,4214,,,Valley League,Valley League,2:40 P.M.,,0
 2026-09-15,149682,UPCOMING,Clinton,4093,,,Quabbin,4325,,,Mid-Wach,Mid-Wach,3:30 P.M.,,0
+2026-09-16,145997,UPCOMING,Dedham,4108,,,Archbishop Williams,4012,,,Tri-Valley,Catholic Central,3:30 P.M.,,0
+2026-09-16,146040,UPCOMING,Westford,4421,,,Acton-Boxborough,4003,,,Dual County,Dual County,3:30 P.M.,,0
+2026-09-16,146250,UPCOMING,St. John’s (Shrewsbury),4368,,,Bishop Feehan,4042,,,Catholic Conference,Catholic Central,3:15 P.M.,,0
+2026-09-16,146313,UPCOMING,Doherty,4116,,,Leicester,4207,,,CMAC,CMAC,3:00 P.M.,,0
+2026-09-16,146334,UPCOMING,Framingham,4143,,,Walpole,4404,,,Bay State,Bay State,3:30 P.M.,,0
+2026-09-16,146352,UPCOMING,Sharon,4345,,,Franklin,4144,,,Independent,Hockomock,3:15 P.M.,,0
+2026-09-16,146723,UPCOMING,Whitinsville Christian,4487,,,Blackstone Valley,4046,,,CMAC,CMAC,3:30 P.M.,,0
+2026-09-16,146749,UPCOMING,Blue Hills,4047,,,Southeastern,4358,,,Mayflower,Mayflower,2:30 P.M.,,0
+2026-09-16,146861,UPCOMING,Norwood,4297,,,Holliston,4174,,,Tri-Valley,Tri-Valley,3:30 P.M.,,0
+2026-09-16,146882,UPCOMING,Keefe Tech,4191,,,Assabet,4016,,,CMAC,CMAC,3:15 P.M.,,0
+2026-09-16,146912,UPCOMING,Lowell Catholic,4217,,,Northeast,4293,,,Independent,Commonwealth,4:30 P.M.,,0
+2026-09-16,146965,UPCOMING,Marlborough,4233,,,Advanced Math and Science,4595,,,Mid-Wach,CMAC,4:00 P.M.,,0
+2026-09-16,146988,UPCOMING,Medfield,4241,,,Norton,4295,,,Tri-Valley,Tri-Valley,4:00 P.M.,,0
+2026-09-16,147009,UPCOMING,Hopkinton,4180,,,Medway,4243,,,Tri-Valley,Tri-Valley,3:00 P.M.,,0
+2026-09-16,147079,UPCOMING,Norwood,4297,,,Millis,4251,,,Tri-Valley,Tri-Valley,3:30 P.M.,,0
+2026-09-16,147100,UPCOMING,Douglas,4506,,,St. Paul,4954,,,CMAC,CMAC,3:30 P.M.,,0
+2026-09-16,147129,UPCOMING,Shawsheen,4346,,,Nashoba Valley Tech,4268,,,Commonwealth,Commonwealth,3:00 P.M.,,0
+2026-09-16,147144,UPCOMING,Wayland,4411,,,Waltham,4405,,,Dual County,Dual County,4:00 P.M.,,0
+2026-09-16,147224,UPCOMING,Lexington,4209,,,Woburn,4438,,,Middlesex,Middlesex,3:45 P.M.,,0
+2026-09-16,147247,UPCOMING,Central Catholic,4081,,,Billerica,4040,,,Merrimack Valley,Merrimack Valley,3:00 P.M.,,0
+2026-09-16,147250,UPCOMING,Methuen,4246,,,Billerica,4040,,,Merrimack Valley,Merrimack Valley,3:00 P.M.,,0
+2026-09-16,147367,UPCOMING,Dover-Sherborn,4118,,,Lincoln-Sudbury,4211,,,Tri-Valley,Dual County,4:00 P.M.,,0
+2026-09-16,147407,UPCOMING,North Attleborough,4284,,,Milford,4249,,,Hockomock,Hockomock,3:00 P.M.,,0
+2026-09-16,147411,UPCOMING,Tyngsborough,4397,,,Dracut,4119,,,Mid-Wach,Merrimack Valley,3:30 P.M.,,0
+2026-09-16,147447,UPCOMING,Newburyport,4276,,,Essex Tech,4745,,,Cape Ann,Cape Ann,3:40 P.M.,,0
+2026-09-16,147469,UPCOMING,Gloucester,4150,,,Peabody,4306,,,Northeastern,Northeastern,3:30 P.M.,,0
+2026-09-16,147504,UPCOMING,Saugus,4341,,,Marblehead,4231,,,Northeastern,Northeastern,3:00 P.M.,,0
+2026-09-16,147526,UPCOMING,Salem,4336,,,Masconomet,4236,,,Northeastern,Northeastern,4:00 P.M.,,0
+2026-09-16,147591,UPCOMING,Milton,4252,,,Needham,4272,,,Bay State,Bay State,3:15 P.M.,,0
+2026-09-16,147688,UPCOMING,Somerville,4351,,,Cambridge,4067,,,Greater Boston,Dual County,3:35 P.M.,,0
+2026-09-16,147695,UPCOMING,Shrewsbury,4348,,,Wachusett,4400,,,Mid-Wach,Mid-Wach,3:30 P.M.,,0
+2026-09-16,147816,UPCOMING,Somerset Berkley,4350,,,Apponequet,4011,,,South Coast,South Coast,2:00 P.M.,,0
+2026-09-16,147856,UPCOMING,Bishop Stang,4045,,,Durfee,4122,,,Catholic Central,Big Three,3:15 P.M.,,0
+2026-09-16,148046,UPCOMING,Cape Cod Tech,4073,,,Dennis-Yarmouth,4111,,,Mayflower,Cape & Islands,3:00 P.M.,,0
+2026-09-16,148106,UPCOMING,Wilmington,4432,,,Belmont,4034,,,Middlesex,Middlesex,3:30 P.M.,,0
+2026-09-16,148118,UPCOMING,Dighton-Rehoboth,4114,,,Seekonk,4344,,,South Coast,South Coast,3:30 P.M.,,0
+2026-09-16,148145,UPCOMING,Swampscott,4383,,,Beverly,4038,,,Northeastern,Northeastern,4:00 P.M.,,0
+2026-09-16,148146,UPCOMING,Duxbury,4123,,,Silver Lake,4349,,,Patriot,Patriot,3:30 P.M.,,0
+2026-09-16,148177,UPCOMING,BC High,4029,,,St. John’s Prep,4369,,,Catholic Conference,Catholic Conference,3:30 P.M.,,0
+2026-09-16,148256,UPCOMING,Georgetown,4148,,,Lynnfield,4223,,,Cape Ann,Cape Ann,3:00 P.M.,,0
+2026-09-16,148411,UPCOMING,Oliver Ames,4302,,,Foxborough,4142,,,Hockomock,Hockomock,3:00 P.M.,,0
+2026-09-16,148437,UPCOMING,Haverhill,4167,,,North Andover,4283,,,Merrimack Valley,Merrimack Valley,3:00 P.M.,,0
+2026-09-16,148635,UPCOMING,Central Catholic,4081,,,Methuen,4246,,,Merrimack Valley,Merrimack Valley,3:00 P.M.,,0
+2026-09-16,148676,UPCOMING,Newton North,4279,,,Weymouth,4425,,,Bay State,Bay State,,,0
+2026-09-16,148806,UPCOMING,Pembroke,4308,,,Hanover,4164,,,Patriot,Patriot,3:30 P.M.,,0
+2026-09-16,148840,UPCOMING,Middleborough,4247,,,Norwell,4296,,,South Shore,South Shore,3:00 P.M.,,0
+2026-09-16,149108,UPCOMING,Plymouth South,4316,,,Scituate,4343,,,Patriot,Patriot,3:30 P.M.,,0
+2026-09-16,149313,UPCOMING,New Bedford,4273,,,Fairhaven,4133,,,Big Three,South Coast,3:15 P.M.,,0
+2026-09-16,149323,UPCOMING,North Quincy,4287,,,Quincy,4326,,,Patriot,Patriot,3:20 P.M.,,0
+2026-09-16,149355,UPCOMING,Stoughton,4381,,,Taunton,4388,,,Hockomock,Hockomock,3:00 P.M.,,0
+2026-09-16,149381,UPCOMING,St. Mary (Westfield),4537,,,Easthampton,4130,,,Bi-County,Bi-County,3:00 P.M.,,0
+2026-09-16,149559,UPCOMING,Pittsfield,4314,,,Monument Mtn.,4260,,,Berkshire,Berkshire,3:30 P.M.,,0
