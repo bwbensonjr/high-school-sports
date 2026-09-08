@@ -1,6 +1,6 @@
 # Boys Cross Country - 2026 Season
 
-Generated: 2026-09-07 16:16
+Generated: 2026-09-08 14:52
 
 ## Upcoming Games
 
@@ -53,30 +53,31 @@ Generated: 2026-09-07 16:16
 | 2026-09-15 | 4:00 P.M. | Cardinal Spellman | Bishop Stang | 87.6% | +34.0 |
 | 2026-09-15 | 4:00 P.M. | Rising Tide Charter | Monomoy | 73.5% | +17.7 |
 | 2026-09-15 | 4:00 P.M. | St. John’s (Shrewsbury) | BC High | 89.6% | +37.4 |
+| 2026-09-15 | 4:00 P.M. | St. John’s Prep | Xaverian | 47.2% | -2.0 |
 | 2026-09-15 | 4:00 P.M. | Falmouth Academy | Sturgis East | 60.1% | +7.1 |
 | 2026-09-15 | 4:00 P.M. | Cape Cod Academy | Sturgis West | 59.5% | +6.7 |
 | 2026-09-15 | 4:00 P.M. | Dennis-Yarmouth | Sandwich | 56.3% | +4.4 |
 | 2026-09-15 | 4:00 P.M. | Nauset | Falmouth | 71.0% | +15.6 |
-| 2026-09-15 | 4:00 P.M. | St. John’s Prep | Xaverian | 47.2% | -2.0 |
-| 2026-09-16 | 4:00 P.M. | Concord-Carlisle | Bishop Feehan | 60.7% | +7.5 |
 | 2026-09-16 | 4:30 P.M. | Concord-Carlisle | Lincoln-Sudbury | 49.1% | -0.6 |
 | 2026-09-16 | 4:00 P.M. | Acton-Boxborough | Newton South | 84.5% | +29.4 |
 | 2026-09-16 | 4:00 P.M. | Cambridge | Westford | 42.8% | -5.1 |
 | 2026-09-16 | 4:00 P.M. | Bedford | Weston | 61.2% | +7.9 |
 | 2026-09-16 | 4:00 P.M. | Wayland | Boston Latin | 68.2% | +13.2 |
 | 2026-09-16 | 4:00 P.M. | Bedford | Waltham | 51.3% | +0.9 |
+| 2026-09-16 | 4:00 P.M. | Somerville | Chelsea | 16.8% | -27.8 |
 | 2026-09-16 | 4:00 P.M. | Lynn Classical | Malden | 70.0% | +14.7 |
-| 2026-09-16 | 4:00 P.M. | Lynn English | Everett | 52.0% | +1.4 |
+| 2026-09-16 | 4:00 P.M. | Concord-Carlisle | Bishop Feehan | 60.7% | +7.5 |
 | 2026-09-16 | 4:00 P.M. | Revere | Medford | 56.9% | +4.8 |
 | 2026-09-16 | 4:00 P.M. | Salem | Danvers | 64.0% | +10.0 |
 | 2026-09-16 | 4:00 P.M. | Beverly | Winthrop | 30.4% | -14.4 |
 | 2026-09-16 | 4:00 P.M. | Masconomet | Marblehead | 57.9% | +5.5 |
 | 2026-09-16 | 4:00 P.M. | Swampscott | Peabody | 49.3% | -0.5 |
-| 2026-09-16 | 4:00 P.M. | Somerville | Chelsea | 16.8% | -27.8 |
+| 2026-09-16 | 4:00 P.M. | Saugus | Beverly | 75.0% | +19.1 |
+| 2026-09-16 | 4:00 P.M. | Lynn English | Everett | 52.0% | +1.4 |
 | 2026-09-16 | 4:00 P.M. | Archbishop Williams | St. Mary’s | 26.0% | -18.2 |
 | 2026-09-16 | 4:00 P.M. | Amesbury | Triton | 55.9% | +4.1 |
 | 2026-09-16 | 4:00 P.M. | Essex Tech | Lynnfield | 62.6% | +9.0 |
-| 2026-09-16 | 4:00 P.M. | Saugus | Beverly | 75.0% | +19.1 |
+| 2026-09-16 | 4:15 P.M. | Ashland | Holliston | 69.1% | +14.0 |
 | 2026-09-16 | 4:00 P.M. | Brookline | Milton | 13.1% | -32.8 |
 | 2026-09-16 | 4:00 P.M. | Natick | Brookline | 60.6% | +7.5 |
 | 2026-09-16 | 4:00 P.M. | Milton | Natick | 91.0% | +40.3 |
@@ -92,7 +93,7 @@ Generated: 2026-09-07 16:16
 | 2026-09-16 | 3:30 P.M. | Hamilton-Wenham | Georgetown | 12.4% | -34.0 |
 | 2026-09-16 | 4:00 P.M. | Newburyport | Pentucket | 38.8% | -7.9 |
 | 2026-09-16 | 4:00 P.M. | Ipswich | Manchester Essex/Rockport | 72.1% | +16.5 |
-| 2026-09-16 | 4:15 P.M. | Ashland | Holliston | 69.1% | +14.0 |
+| 2026-09-18 | 3:30 P.M. | Fairhaven | Bishop Stang | 84.5% | +29.5 |
 
 ## Recent Games
 
@@ -200,8 +201,8 @@ Generated: 2026-09-07 16:16
 | 95 | Plymouth North | 1528.3 |
 | 96 | Whittier | 1527.5 |
 | 97 | Sandwich | 1527.0 |
-| 98 | Minuteman | 1526.5 |
-| 99 | Westborough | 1526.5 |
+| 98 | Westborough | 1526.5 |
+| 99 | Minuteman | 1526.5 |
 | 100 | Maynard | 1525.5 |
 | 101 | Essex Tech | 1525.5 |
 | 102 | Brooks | 1522.3 |
@@ -230,20 +231,20 @@ Generated: 2026-09-07 16:16
 | 125 | Hampshire | 1503.8 |
 | 126 | Rising Tide Charter | 1502.3 |
 | 127 | Bellingham | 1501.9 |
-| 128 | Wachusett | 1501.7 |
-| 129 | Notre Dame (Tyngsborough) | 1501.7 |
-| 130 | St. Sebastian’s | 1501.7 |
-| 131 | Longmeadow | 1501.7 |
-| 132 | Minnechaug | 1501.7 |
-| 133 | Bridgewater-Raynham | 1501.7 |
-| 134 | Saugus | 1501.7 |
-| 135 | Tabor | 1501.7 |
+| 128 | Westfield | 1501.7 |
+| 129 | Amherst-Pelham | 1501.7 |
+| 130 | Riverview School | 1501.7 |
+| 131 | Bridgewater-Raynham | 1501.7 |
+| 132 | Longmeadow | 1501.7 |
+| 133 | Tabor | 1501.7 |
+| 134 | Wachusett | 1501.7 |
+| 135 | Watkinson | 1501.7 |
 | 136 | Greater Lawrence | 1501.7 |
-| 137 | Greater Lowell | 1501.7 |
-| 138 | Amherst-Pelham | 1501.7 |
-| 139 | Watkinson | 1501.7 |
-| 140 | Riverview School | 1501.7 |
-| 141 | Westfield | 1501.7 |
+| 137 | Saugus | 1501.7 |
+| 138 | Notre Dame (Tyngsborough) | 1501.7 |
+| 139 | Minnechaug | 1501.7 |
+| 140 | St. Sebastian’s | 1501.7 |
+| 141 | Greater Lowell | 1501.7 |
 | 142 | East Bridgewater | 1500.4 |
 | 143 | Cambridge | 1499.0 |
 | 144 | Lynn Classical | 1497.6 |
@@ -273,8 +274,8 @@ Generated: 2026-09-07 16:16
 | 168 | Landmark | 1477.8 |
 | 169 | Ayer Shirley | 1477.8 |
 | 170 | Lincoln-Sudbury | 1477.2 |
-| 171 | Algonquin | 1476.8 |
-| 172 | Mystic Valley | 1476.8 |
+| 171 | Mystic Valley | 1476.8 |
+| 172 | Algonquin | 1476.8 |
 | 173 | Tantasqua | 1475.1 |
 | 174 | Oakmont | 1474.9 |
 | 175 | Franklin | 1474.2 |

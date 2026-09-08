@@ -206,7 +206,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-04,149585,FINAL,Chicopee Comprehensive,4089,170,1,South Hadley,4353,184,0,Suburban,Suburban,2:30 P.M.,,0
 2026-09-04,149586,FINAL,Chicopee,4088,170,1,Chicopee Comprehensive,4089,230,0,Suburban,Suburban,2:30 P.M.,,0
 2026-09-07,147276,UPCOMING,Danvers,4103,,,Bishop Fenwick,4043,,,Northeastern,Catholic Central,3:00 P.M.,,0
-2026-09-07,148247,UPCOMING,Georgetown,4148,,,Ipswich,4190,,,Cape Ann,Cape Ann,3:00 P.M.,,0
+2026-09-07,148247,FINAL,Georgetown,4148,101,0,Ipswich,4190,164,1,Cape Ann,Cape Ann,3:00 P.M.,,0
 2026-09-08,145993,UPCOMING,Archbishop Williams,4012,,,Arlington Catholic,4014,,,Catholic Central,Catholic Central,3:45 P.M.,,0
 2026-09-08,146026,UPCOMING,Acton-Boxborough,4003,,,Weston,4423,,,Dual County,Dual County,3:30 P.M.,,0
 2026-09-08,146198,UPCOMING,Grafton,4153,,,Algonquin,4005,,,Mid-Wach,Mid-Wach,3:00 P.M.,,0
@@ -600,3 +600,18 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-17,149608,UPCOMING,Mt. Greylock,4262,,,Taconic,4385,,,Berkshire,Berkshire,3:30 P.M.,,0
 2026-09-17,149631,UPCOMING,Quaboag,4510,,,Oxford,4303,,,CMAC,CMAC,3:00 P.M.,,0
 2026-09-17,149656,UPCOMING,Pope Francis,4796,,,Agawam,4004,,,Valley League,Valley League,2:15 P.M.,,0
+2026-09-18,146205,UPCOMING,Wachusett,4400,,,Algonquin,4005,,,Mid-Wach,Mid-Wach,3:30 P.M.,,0
+2026-09-18,146356,UPCOMING,Franklin,4144,,,Sharon,4345,,,Hockomock,Independent,3:30 P.M.,,0
+2026-09-18,147060,UPCOMING,Shrewsbury,4348,,,Nashoba,4267,,,Mid-Wach,Mid-Wach,3:30 P.M.,,0
+2026-09-18,147194,UPCOMING,King Philip,4197,,,North Attleborough,4284,,,Hockomock,Hockomock,3:15 P.M.,,0
+2026-09-18,147297,UPCOMING,Burlington,4065,,,Melrose,4244,,,Middlesex,Middlesex,3:30 P.M.,,0
+2026-09-18,147472,UPCOMING,Rockport,4490,,,Gloucester,4150,,,Cape Ann,Northeastern,3:30 P.M.,,0
+2026-09-18,148089,UPCOMING,Greater New Bedford,4156,,,Dartmouth,4105,,,South Coast,Pioneer,3:15 P.M.,,0
+2026-09-18,148426,UPCOMING,Greater New Bedford,4156,,,Fairhaven,4133,,,South Coast,South Coast,3:15 P.M.,,0
+2026-09-18,148749,UPCOMING,Apponequet,4011,,,Bridgewater-Raynham,4053,,,South Coast,Pioneer,3:00 P.M.,,0
+2026-09-18,149413,UPCOMING,Frontier,4146,,,Pioneer Valley,4536,,,Suburban,Bi-County,3:00 P.M.,,0
+2026-09-18,149485,UPCOMING,Hampshire,4518,,,Westfield Tech,4420,,,Suburban,Bi-County,3:00 P.M.,,0
+2026-09-18,149561,UPCOMING,Hoosac Valley/Drury,4178,,,Monument Mtn.,4260,,,Berkshire,Berkshire,3:30 P.M.,,0
+2026-09-18,149610,UPCOMING,Taconic,4385,,,Mt. Greylock,4262,,,Berkshire,Berkshire,3:30 P.M.,,0
+2026-09-18,149659,UPCOMING,Pope Francis,4796,,,South Hadley,4353,,,Valley League,Suburban,2:20 P.M.,,0
+2026-09-18,149684,UPCOMING,Quabbin,4325,,,Athol,4017,,,Mid-Wach,Independent,3:00 P.M.,,0
