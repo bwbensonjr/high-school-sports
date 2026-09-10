@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-09-09 15:00
+Generated: 2026-09-10 14:48
 
 ## Upcoming Games
 
@@ -9,8 +9,9 @@ Generated: 2026-09-09 15:00
 
 ## Recent Games
 
-*No games in the last 7 days*
-
+| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
+|------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-09-09 | Wellesley | 74 | Walpole | 46 | +26.1 | +28.0 |
 
 ## Current Elo Ratings
 
@@ -22,8 +23,8 @@ Generated: 2026-09-09 15:00
 | 4 | Westwood | 1620.6 |
 | 5 | Nashoba | 1617.7 |
 | 6 | North Andover | 1615.5 |
-| 7 | Hingham | 1600.5 |
-| 8 | Wellesley | 1592.3 |
+| 7 | Wellesley | 1610.6 |
+| 8 | Hingham | 1600.5 |
 | 9 | Milton | 1589.5 |
 | 10 | Taunton | 1589.3 |
 | 11 | Concord-Carlisle | 1587.2 |
@@ -101,8 +102,8 @@ Generated: 2026-09-09 15:00
 | 83 | Malden Catholic | 1402.4 |
 | 84 | Holliston/Medway | 1391.4 |
 | 85 | Durfee | 1382.1 |
-| 86 | Walpole | 1381.0 |
-| 87 | Stoneham | 1379.9 |
-| 88 | Braintree | 1367.4 |
+| 86 | Stoneham | 1379.9 |
+| 87 | Braintree | 1367.4 |
+| 88 | Walpole | 1362.6 |
 | 89 | Old Rochester | 1338.5 |
 | 90 | Nauset | 1309.6 |

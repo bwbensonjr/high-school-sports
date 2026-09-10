@@ -1,6 +1,6 @@
 # Football - 2026 Season
 
-Generated: 2026-09-09 15:00
+Generated: 2026-09-10 14:48
 
 ## Upcoming Games
 
@@ -448,19 +448,19 @@ Generated: 2026-09-09 15:00
 | 170 | Newton North | 1504.2 |
 | 171 | Bartlett | 1503.7 |
 | 172 | Woburn | 1503.2 |
-| 173 | Triton/Ipswich | 1501.7 |
-| 174 | Ayer Shirley/Bromfield/Littleton | 1501.7 |
-| 175 | Blackstone-Millville | 1501.7 |
+| 173 | Hope (R.I.) | 1501.7 |
+| 174 | Triton/Ipswich | 1501.7 |
+| 175 | Capital Prep (Conn.) | 1501.7 |
 | 176 | St. Bernard's | 1501.7 |
-| 177 | Sharon/Dedham | 1501.7 |
-| 178 | Capital Prep (Conn.) | 1501.7 |
-| 179 | Christian Brothers (N.Y.) | 1501.7 |
-| 180 | Millbury/Sutton | 1501.7 |
-| 181 | Portsmouth (R.I.) | 1501.7 |
-| 182 | Nipmuc/Hopedale | 1501.7 |
-| 183 | Forman | 1501.7 |
-| 184 | Mt. Hope (R.I.) | 1501.7 |
-| 185 | Hope (R.I.) | 1501.7 |
+| 177 | Blackstone-Millville | 1501.7 |
+| 178 | Christian Brothers (N.Y.) | 1501.7 |
+| 179 | Ayer Shirley/Bromfield/Littleton | 1501.7 |
+| 180 | Sharon/Dedham | 1501.7 |
+| 181 | Millbury/Sutton | 1501.7 |
+| 182 | Mt. Hope (R.I.) | 1501.7 |
+| 183 | Nipmuc/Hopedale | 1501.7 |
+| 184 | Forman | 1501.7 |
+| 185 | Portsmouth (R.I.) | 1501.7 |
 | 186 | Taunton | 1501.0 |
 | 187 | Martha’s Vineyard | 1501.0 |
 | 188 | Silver Lake | 1499.0 |
