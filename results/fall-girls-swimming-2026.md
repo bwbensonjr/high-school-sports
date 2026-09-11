@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-09-10 14:48
+Generated: 2026-09-11 14:49
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-09-10 14:48
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-09-10 | Newton North | 81 | Milton | 101 | -0.9 | -20.0 |
 | 2026-09-09 | Wellesley | 74 | Walpole | 46 | +26.1 | +28.0 |
 
 ## Current Elo Ratings
@@ -19,13 +20,13 @@ Generated: 2026-09-10 14:48
 |------|------|------------|
 | 1 | Seekonk | 1719.3 |
 | 2 | Nantucket | 1695.1 |
-| 3 | Andover | 1630.1 |
-| 4 | Westwood | 1620.6 |
-| 5 | Nashoba | 1617.7 |
-| 6 | North Andover | 1615.5 |
-| 7 | Wellesley | 1610.6 |
-| 8 | Hingham | 1600.5 |
-| 9 | Milton | 1589.5 |
+| 3 | Milton | 1633.9 |
+| 4 | Andover | 1630.1 |
+| 5 | Westwood | 1620.6 |
+| 6 | Nashoba | 1617.7 |
+| 7 | North Andover | 1615.5 |
+| 8 | Wellesley | 1610.6 |
+| 9 | Hingham | 1600.5 |
 | 10 | Taunton | 1589.3 |
 | 11 | Concord-Carlisle | 1587.2 |
 | 12 | Hopkinton | 1580.7 |
@@ -51,24 +52,24 @@ Generated: 2026-09-10 14:48
 | 32 | Marshfield/Hanover | 1531.2 |
 | 33 | Lexington | 1531.1 |
 | 34 | Tantasqua | 1530.4 |
-| 35 | Newton North | 1530.2 |
-| 36 | Archbishop Williams | 1530.1 |
-| 37 | Belmont | 1529.4 |
-| 38 | Barnstable | 1528.4 |
-| 39 | Wayland | 1526.1 |
-| 40 | St. Mary’s | 1523.8 |
-| 41 | Canton | 1521.8 |
-| 42 | Martha’s Vineyard | 1519.7 |
-| 43 | Duxbury | 1519.5 |
-| 44 | Reading | 1519.4 |
-| 45 | Quincy | 1516.2 |
-| 46 | Mansfield | 1508.3 |
-| 47 | Sandwich | 1500.4 |
-| 48 | Dedham | 1499.9 |
-| 49 | Wakefield/Wakefield | 1490.8 |
-| 50 | Plymouth North/South | 1490.1 |
-| 51 | Shrewsbury | 1489.0 |
-| 52 | Arlington/Watertown | 1486.0 |
+| 35 | Archbishop Williams | 1530.1 |
+| 36 | Belmont | 1529.4 |
+| 37 | Barnstable | 1528.4 |
+| 38 | Wayland | 1526.1 |
+| 39 | St. Mary’s | 1523.8 |
+| 40 | Canton | 1521.8 |
+| 41 | Martha’s Vineyard | 1519.7 |
+| 42 | Duxbury | 1519.5 |
+| 43 | Reading | 1519.4 |
+| 44 | Quincy | 1516.2 |
+| 45 | Mansfield | 1508.3 |
+| 46 | Sandwich | 1500.4 |
+| 47 | Dedham | 1499.9 |
+| 48 | Wakefield/Wakefield | 1490.8 |
+| 49 | Plymouth North/South | 1490.1 |
+| 50 | Shrewsbury | 1489.0 |
+| 51 | Arlington/Watertown | 1486.0 |
+| 52 | Newton North | 1485.8 |
 | 53 | Gardner | 1477.7 |
 | 54 | Central Catholic | 1477.5 |
 | 55 | North Attleborough | 1477.2 |

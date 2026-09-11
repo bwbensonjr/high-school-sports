@@ -31,12 +31,17 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-09,149883,FINAL,Salem,4336,44,0,Swampscott,4383,17,1,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-09,149899,UPCOMING,Winthrop,4437,,,Saugus,4341,,,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-09,150356,FINAL,Monty Tech,4259,24,1,Keefe Tech,4191,32,0,CMAC,CMAC,,,0
+2026-09-09,150505,FINAL,Framingham,4143,50,0,Wellesley,4413,15,1,Bay State,Bay State,,,0
+2026-09-09,150508,FINAL,Walpole,4404,44,0,Newton North,4279,19,1,Bay State,Bay State,,,0
+2026-09-09,150509,FINAL,Natick,4270,43,0,Newton North,4279,19,1,Bay State,Bay State,,,0
+2026-09-09,150510,FINAL,Walpole,4404,33,0,Natick,4270,23,1,Bay State,Bay State,,,0
 2026-09-10,150030,UPCOMING,Millis,4251,,,Ashland,4015,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
 2026-09-10,150033,UPCOMING,Norwood,4297,,,Ashland,4015,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
 2026-09-10,150036,UPCOMING,Medway,4243,,,Ashland,4015,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
 2026-09-10,150038,UPCOMING,Millis,4251,,,Norwood,4297,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
 2026-09-10,150040,UPCOMING,Millis,4251,,,Medway,4243,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
 2026-09-10,150043,UPCOMING,Medway,4243,,,Norwood,4297,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
+2026-09-10,150503,FINAL,Framingham,4143,50,0,Weymouth,4425,15,1,Bay State,Bay State,,,0
 2026-09-12,147997,UPCOMING,Martha’s Vineyard,4235,,,Nantucket,4265,,,Cape & Islands,Cape & Islands,11:30 A.M.,,0
 2026-09-12,148366,UPCOMING,Newburyport,4276,,,Danvers,4103,,,Cape Ann,Northeastern,9:15 A.M.,,0
 2026-09-15,147945,UPCOMING,Nauset,4271,,,Falmouth,4134,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
