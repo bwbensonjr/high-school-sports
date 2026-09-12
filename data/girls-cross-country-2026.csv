@@ -4,7 +4,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-08,149977,UPCOMING,Cohasset,4094,,,Rockland,4331,,,South Shore,South Shore,4:00 P.M.,,0
 2026-09-08,149990,UPCOMING,Abington,4002,,,Carver,4077,,,South Shore,South Shore,4:30 P.M.,,0
 2026-09-09,136469,FINAL,Brookline,4059,30,0,Needham,4272,27,1,Bay State,Bay State,4:00 P.M.,,0
-2026-09-09,136630,FINAL,Wellesley,4413,15,1,Framingham,4143,50,0,Bay State,Bay State,4:00 P.M.,,0
+2026-09-09,136630,FINAL,Wellesley,4413,15.0,1.0,Framingham,4143,50.0,0.0,Bay State,Bay State,4:00 P.M.,,0
 2026-09-09,144050,FINAL,Weymouth,4425,20,1,Wellesley,4413,37,0,Bay State,Bay State,4:00 P.M.,,0
 2026-09-09,147914,UPCOMING,Durfee,4122,,,Bristol Aggie,4463,,,Big Three,Mayflower,4:00 P.M.,,0
 2026-09-09,147916,UPCOMING,Durfee,4122,,,Diman,4115,,,Big Three,Mayflower,4:00 P.M.,,0
@@ -90,3 +90,17 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-16,149902,UPCOMING,Beverly,4038,,,Saugus,4341,,,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-16,150046,UPCOMING,Ashland,4015,,,Holliston,4174,,,Tri-Valley,Tri-Valley,4:15 P.M.,,0
 2026-09-18,148550,UPCOMING,Fairhaven,4133,,,Bishop Stang,4045,,,South Coast,Catholic Central,3:30 P.M.,,0
+2026-09-22,147946,UPCOMING,Nantucket,4265,,,Nauset,4271,,,Cape & Islands,Cape & Islands,4:30 P.M.,,0
+2026-09-22,147966,UPCOMING,Falmouth,4134,,,Dennis-Yarmouth,4111,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-09-22,148001,UPCOMING,Martha’s Vineyard,4235,,,Sandwich,4340,,,Cape & Islands,Cape & Islands,3:30 P.M.,,0
+2026-09-22,148019,UPCOMING,Monomoy,4706,,,Cape Cod Academy,4072,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-09-22,148038,UPCOMING,Sturgis West,4735,,,Falmouth Academy,4135,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-09-22,148279,UPCOMING,Sturgis East,4456,,,Rising Tide Charter,4746,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-09-22,148572,UPCOMING,Arlington Catholic,4014,,,Archbishop Williams,4012,,,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-09-22,148656,UPCOMING,St. Mary’s,4374,,,Bishop Fenwick,4043,,,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-09-22,148659,UPCOMING,Cardinal Spellman,4075,,,Bishop Fenwick,4043,,,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-09-22,149933,UPCOMING,Abington,4002,,,East Bridgewater,4126,,,South Shore,South Shore,4:00 P.M.,,0
+2026-09-22,149953,UPCOMING,Middleborough,4247,,,Cohasset,4094,,,South Shore,South Shore,4:00 P.M.,,0
+2026-09-22,149982,UPCOMING,Rockland,4331,,,East Bridgewater,4126,,,South Shore,South Shore,4:00 P.M.,,0
+2026-09-22,149999,UPCOMING,Norwell,4296,,,Carver,4077,,,South Shore,South Shore,4:30 P.M.,,0
+2026-09-22,150010,UPCOMING,Mashpee,4237,,,Abington,4002,,,South Shore,South Shore,4:00 P.M.,,0

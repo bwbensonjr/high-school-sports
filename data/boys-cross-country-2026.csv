@@ -32,13 +32,16 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-09,149887,UPCOMING,Winthrop,4437,,,Saugus,4341,,,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-09,150355,FINAL,Monty Tech,4259,42,0,Keefe Tech,4191,19,1,CMAC,CMAC,,,0
 2026-09-09,150368,FINAL,Whittier,4428,30,0,Shawsheen,4346,25,1,Commonwealth,Commonwealth,4:00 P.M.,,0
-2026-09-09,150399,FINAL,Walpole,4404,40,0,Newton North,4279,19,1,Bay State,Bay State,,,0
+2026-09-09,150399,FINAL,Walpole,4404,40.0,0.0,Newton North,4279,19.0,1.0,Bay State,Bay State,,,0
 2026-09-10,150012,UPCOMING,Millis,4251,,,Ashland,4015,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
 2026-09-10,150015,UPCOMING,Norwood,4297,,,Ashland,4015,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
 2026-09-10,150016,UPCOMING,Medway,4243,,,Ashland,4015,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
 2026-09-10,150018,UPCOMING,Millis,4251,,,Norwood,4297,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
 2026-09-10,150021,UPCOMING,Millis,4251,,,Medway,4243,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
 2026-09-10,150022,UPCOMING,Norwood,4297,,,Medway,4243,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
+2026-09-11,150513,FINAL,Natick,4270,37,0,Newton North,4279,18,1,Bay State,Bay State,,,0
+2026-09-11,150515,FINAL,Walpole,4404,36,0,Newton North,4279,19,1,Bay State,Bay State,,,0
+2026-09-11,150517,FINAL,Walpole,4404,25,1,Natick,4270,30,0,Bay State,Bay State,,,0
 2026-09-12,147989,UPCOMING,Martha’s Vineyard,4235,,,Nantucket,4265,,,Cape & Islands,Cape & Islands,11:30 A.M.,,0
 2026-09-12,148357,UPCOMING,Newburyport,4276,,,Danvers,4103,,,Cape Ann,Northeastern,10:30 A.M.,,0
 2026-09-15,147935,UPCOMING,Nauset,4271,,,Falmouth,4134,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
@@ -90,3 +93,17 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-16,149890,UPCOMING,Saugus,4341,,,Beverly,4038,,,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-16,150023,UPCOMING,Ashland,4015,,,Holliston,4174,,,Tri-Valley,Tri-Valley,4:15 P.M.,,0
 2026-09-18,148534,UPCOMING,Fairhaven,4133,,,Bishop Stang,4045,,,South Coast,Catholic Central,3:30 P.M.,,0
+2026-09-22,147936,UPCOMING,Nantucket,4265,,,Nauset,4271,,,Cape & Islands,Cape & Islands,4:30 P.M.,,0
+2026-09-22,147955,UPCOMING,Falmouth,4134,,,Dennis-Yarmouth,4111,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-09-22,147994,UPCOMING,Sandwich,4340,,,Martha’s Vineyard,4235,,,Cape & Islands,Cape & Islands,3:30 P.M.,,0
+2026-09-22,148008,UPCOMING,Monomoy,4706,,,Cape Cod Academy,4072,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-09-22,148029,UPCOMING,Sturgis West,4735,,,Falmouth Academy,4135,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-09-22,148266,UPCOMING,Sturgis East,4456,,,Rising Tide Charter,4746,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-09-22,148503,UPCOMING,Xaverian,4446,,,Catholic Memorial,4080,,,Catholic Conference,Catholic Conference,4:00 P.M.,,0
+2026-09-22,148507,UPCOMING,Malden Catholic,4228,,,St. John’s (Shrewsbury),4368,,,Catholic Conference,Catholic Conference,4:00 P.M.,,0
+2026-09-22,148565,UPCOMING,Arlington Catholic,4014,,,Archbishop Williams,4012,,,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-09-22,148645,UPCOMING,St. Mary’s,4374,,,Bishop Fenwick,4043,,,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-09-22,148650,UPCOMING,Cardinal Spellman,4075,,,Bishop Fenwick,4043,,,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-09-22,149915,UPCOMING,Rockland,4331,,,East Bridgewater,4126,,,South Shore,South Shore,4:00 P.M.,,0
+2026-09-22,149941,UPCOMING,Middleborough,4247,,,Cohasset,4094,,,South Shore,South Shore,4:00 P.M.,,0
+2026-09-22,149963,UPCOMING,Norwell,4296,,,Carver,4077,,,South Shore,South Shore,4:30 P.M.,,0
