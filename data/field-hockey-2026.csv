@@ -540,3 +540,41 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-23,145509,UPCOMING,Cohasset,4094,,,Carver,4077,,,South Shore,South Shore,4:30 P.M.,,0
 2026-09-23,145513,UPCOMING,North Reading,4288,,,Manchester Essex,4229,,,Cape Ann,Cape Ann,4:00 P.M.,,0
 2026-09-23,145583,UPCOMING,Narragansett,4266,,,Bromfield,4505,,,Mid-Wach,Mid-Wach,4:00 P.M.,,0
+2026-09-24,139323,UPCOMING,Southeastern,4358,,,Westport,4461,,,Mayflower,Mayflower,3:30 P.M.,,0
+2026-09-24,139395,UPCOMING,Lowell,4216,,,Greater Lowell,4155,,,Merrimack Valley,Independent,3:45 P.M.,,0
+2026-09-24,139612,UPCOMING,Oliver Ames,4302,,,Sharon,4345,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-09-24,139654,UPCOMING,South High,4962,,,Oxford,4303,,,Independent,CMAC,3:30 P.M.,,0
+2026-09-24,139730,UPCOMING,King Philip,4197,,,Stoughton,4381,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-09-24,139770,UPCOMING,North Attleborough,4284,,,Attleboro,4018,,,Hockomock,Hockomock,6:00 P.M.,,0
+2026-09-24,139827,UPCOMING,Doherty,4116,,,Notre Dame Academy-Worcester,4451,,,CMAC,CMAC,3:45 P.M.,,0
+2026-09-24,139887,UPCOMING,Reading,4328,,,Belmont,4034,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-09-24,139994,UPCOMING,Foxborough,4142,,,Milford,4249,,,Hockomock,Hockomock,5:00 P.M.,,0
+2026-09-24,140087,UPCOMING,Mansfield,4230,,,Taunton,4388,,,Hockomock,Hockomock,7:00 P.M.,,0
+2026-09-24,140233,UPCOMING,Arlington,4013,,,Malden Catholic,4228,,,Middlesex,Catholic Conference,4:30 P.M.,,0
+2026-09-24,140350,UPCOMING,Watertown,4409,,,Natick,4270,,,Middlesex,Bay State,4:15 P.M.,,0
+2026-09-24,140384,UPCOMING,Canton,4071,,,Franklin,4144,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-09-24,140684,UPCOMING,Hopkinton,4180,,,Bellingham,4033,,,Tri-Valley,Tri-Valley,4:30 P.M.,,0
+2026-09-24,140765,UPCOMING,Beverly,4038,,,Danvers,4103,,,Northeastern,Northeastern,5:30 P.M.,,0
+2026-09-24,140812,UPCOMING,Gloucester,4150,,,Peabody,4306,,,Northeastern,Northeastern,7:00 P.M.,,0
+2026-09-24,140875,UPCOMING,Stoneham,4380,,,Woburn,4438,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-09-24,143636,UPCOMING,Monty Tech,4259,,,St. Paul,4954,,,CMAC,CMAC,4:00 P.M.,,0
+2026-09-24,143670,UPCOMING,Hopedale,4507,,,Blackstone Valley,4046,,,CMAC,CMAC,3:45 P.M.,,0
+2026-09-24,143693,UPCOMING,Bay Path/David Prouty,4027,,,Leicester,4207,,,CMAC,CMAC,3:30 P.M.,,0
+2026-09-24,143715,UPCOMING,Tantasqua,4387,,,St. Bernard’s,4365,,,CMAC,CMAC,4:00 P.M.,,0
+2026-09-24,143749,UPCOMING,North Brookfield,4508,,,Worcester Tech/Worcester North,4445,,,Independent,CMAC,3:45 P.M.,,0
+2026-09-24,144112,UPCOMING,Norwood,4297,,,Dedham,4108,,,Tri-Valley,Tri-Valley,4:00 P.M.,,0
+2026-09-24,144174,UPCOMING,Somerset Berkley,4350,,,Fairhaven,4133,,,South Coast,South Coast,3:30 P.M.,,0
+2026-09-24,144214,UPCOMING,Apponequet,4011,,,Dartmouth,4105,,,South Coast,Pioneer,4:00 P.M.,,0
+2026-09-24,144217,UPCOMING,Auburn,4019,,,Nipmuc,4281,,,CMAC,CMAC,3:30 P.M.,,0
+2026-09-24,144273,UPCOMING,Shepherd Hill,4347,,,Blackstone-Millville,4486,,,Mid-Wach,CMAC,4:00 P.M.,,0
+2026-09-24,144410,UPCOMING,Marblehead,4231,,,Saugus,4341,,,Northeastern,Northeastern,4:00 P.M.,,0
+2026-09-24,144457,UPCOMING,Bedford,4031,,,Burlington,4065,,,Dual County,Middlesex,4:00 P.M.,,0
+2026-09-24,144476,UPCOMING,Ashland,4015,,,Dover-Sherborn,4118,,,Tri-Valley,Tri-Valley,4:30 P.M.,,0
+2026-09-24,144585,UPCOMING,Amherst-Pelham,4008,,,Hampshire,4518,,,County,County,4:30 P.M.,,0
+2026-09-24,144676,UPCOMING,Bishop Stang,4045,,,Dighton-Rehoboth,4114,,,Catholic Central,South Coast,3:30 P.M.,,0
+2026-09-24,145007,UPCOMING,Old Rochester,4301,,,West Bridgewater,4415,,,South Coast,South Coast,3:45 P.M.,,0
+2026-09-24,145174,UPCOMING,Sutton,4512,,,Uxbridge,4398,,,CMAC,CMAC,4:45 P.M.,,0
+2026-09-24,145220,UPCOMING,Seekonk,4344,,,Joseph Case,4078,,,South Coast,South Coast,3:45 P.M.,,0
+2026-09-24,145334,UPCOMING,South Hadley,4353,,,Southwick,4519,,,Suburban,Valley League,4:00 P.M.,,0
+2026-09-24,145449,UPCOMING,Rockport,4490,,,Amesbury,4007,,,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-09-24,145528,UPCOMING,Sturgis East,4456,,,Wareham/Mashpee,4407,,,Cape & Islands,Mayflower,3:45 P.M.,,0

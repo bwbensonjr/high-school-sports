@@ -55,6 +55,18 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-15,149952,UPCOMING,Middleborough,4247,,,Carver,4077,,,South Shore,South Shore,4:30 P.M.,,0
 2026-09-15,149980,UPCOMING,Norwell,4296,,,Rockland,4331,,,South Shore,South Shore,4:00 P.M.,,0
 2026-09-15,150006,UPCOMING,Mashpee,4237,,,Cohasset,4094,,,South Shore,South Shore,4:30 P.M.,,0
+2026-09-15,150589,UPCOMING,Arlington,4013,,,Melrose,4244,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-09-15,150592,UPCOMING,Belmont,4034,,,Watertown,4409,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-09-15,150598,UPCOMING,Reading,4328,,,Burlington,4065,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-09-15,150604,UPCOMING,Winchester,4434,,,Wakefield,4402,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-09-15,150613,UPCOMING,Attleboro,4018,,,Sharon,4345,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-09-15,150618,UPCOMING,Franklin,4144,,,Stoughton,4381,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-09-15,150620,UPCOMING,Milford,4249,,,Taunton,4388,,,Hockomock,Hockomock,4:00 P.M.,,0
+2026-09-15,150623,UPCOMING,Foxborough,4142,,,North Attleborough,4284,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-09-15,150652,UPCOMING,Quincy/North Quincy,4326,,,Pembroke,4308,,,Patriot,Patriot,4:00 P.M.,,0
+2026-09-15,150655,UPCOMING,Marshfield,4234,,,Duxbury,4123,,,Patriot,Patriot,4:00 P.M.,,0
+2026-09-15,150660,UPCOMING,Silver Lake,4349,,,Hingham,4171,,,Patriot,Patriot,4:00 P.M.,,0
+2026-09-15,150661,UPCOMING,Plymouth North,4315,,,Whitman-Hanson,4427,,,Patriot,Patriot,4:00 P.M.,,0
 2026-09-16,136470,UPCOMING,Natick,4270,,,Brookline,4059,,,Bay State,Bay State,4:00 P.M.,,0
 2026-09-16,136473,UPCOMING,Milton,4252,,,Brookline,4059,,,Bay State,Bay State,4:00 P.M.,,0
 2026-09-16,143977,UPCOMING,Milton,4252,,,Natick,4270,,,Bay State,Bay State,4:00 P.M.,,0
@@ -89,6 +101,15 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-16,149869,UPCOMING,Swampscott,4383,,,Peabody,4306,,,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-16,149902,UPCOMING,Beverly,4038,,,Saugus,4341,,,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-16,150046,UPCOMING,Ashland,4015,,,Holliston,4174,,,Tri-Valley,Tri-Valley,4:15 P.M.,,0
+2026-09-16,150607,UPCOMING,Woburn,4438,,,Stoneham,4380,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-09-16,150622,UPCOMING,Canton,4071,,,Mansfield,4230,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-09-16,150630,UPCOMING,King Philip,4197,,,Oliver Ames,4302,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-09-16,150633,UPCOMING,Methuen,4246,,,North Andover,4283,,,Merrimack Valley,Merrimack Valley,3:30 P.M.,,0
+2026-09-16,150635,UPCOMING,Central Catholic,4081,,,Chelmsford,4085,,,Merrimack Valley,Merrimack Valley,3:45 P.M.,,0
+2026-09-16,150636,UPCOMING,Tewksbury,4389,,,Lowell,4216,,,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
+2026-09-16,150641,UPCOMING,Haverhill,4167,,,Billerica,4040,,,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
+2026-09-16,150644,UPCOMING,Andover,4009,,,Dracut,4119,,,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
+2026-09-16,150647,UPCOMING,Scituate,4343,,,Hanover,4164,,,Patriot,Patriot,4:00 P.M.,,0
 2026-09-18,148550,UPCOMING,Fairhaven,4133,,,Bishop Stang,4045,,,South Coast,Catholic Central,3:30 P.M.,,0
 2026-09-22,147946,UPCOMING,Nantucket,4265,,,Nauset,4271,,,Cape & Islands,Cape & Islands,4:30 P.M.,,0
 2026-09-22,147966,UPCOMING,Falmouth,4134,,,Dennis-Yarmouth,4111,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
@@ -104,6 +125,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-22,149982,UPCOMING,Rockland,4331,,,East Bridgewater,4126,,,South Shore,South Shore,4:00 P.M.,,0
 2026-09-22,149999,UPCOMING,Norwell,4296,,,Carver,4077,,,South Shore,South Shore,4:30 P.M.,,0
 2026-09-22,150010,UPCOMING,Mashpee,4237,,,Abington,4002,,,South Shore,South Shore,4:00 P.M.,,0
+2026-09-22,150596,UPCOMING,Lexington,4209,,,Arlington,4013,,,Middlesex,Middlesex,4:15 P.M.,,0
 2026-09-23,143978,UPCOMING,Braintree,4051,,,Natick,4270,,,Bay State,Bay State,4:00 P.M.,,0
 2026-09-23,143981,UPCOMING,Wellesley,4413,,,Natick,4270,,,Bay State,Bay State,4:00 P.M.,,0
 2026-09-23,143982,UPCOMING,Braintree,4051,,,Wellesley,4413,,,Bay State,Bay State,4:00 P.M.,,0

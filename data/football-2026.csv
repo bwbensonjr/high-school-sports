@@ -86,7 +86,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-11,127476,FINAL,Central Catholic,4081,34,1,BC High,4029,0,0,Merrimack Valley,Catholic Conference,7:00 P.M.,,0
 2026-09-11,127493,FINAL,Springfield Central,4360,14,0,St. John’s Prep,4369,29,1,AA,Catholic Conference,7:00 P.M.,,0
 2026-09-11,127525,FINAL,Lowell,4216,26,0,Westford,4421,33,1,Merrimack Valley,Dual County,6:00 P.M.,,0
-2026-09-11,127570,FINAL,Ayer Shirley/Bromfield/Littleton,4022,14,0,Lawrence,4203,26,1,Mid-Wach,Merrimack Valley,7:00 P.M.,,0
+2026-09-11,127570,FINAL,Ayer Shirley/Littleton,4022,14,0,Lawrence,4203,26,1,Mid-Wach,Merrimack Valley,7:00 P.M.,,0
 2026-09-11,127583,FINAL,Hudson,4182,26,1,Shrewsbury,4348,14,0,Mid-Wach,Mid-Wach,7:00 P.M.,,0
 2026-09-11,127599,FINAL,Durfee,4122,12,1,Attleboro,4018,9,0,Big Three,Hockomock,6:30 P.M.,,0
 2026-09-11,127643,FINAL,St. John’s (Shrewsbury),4368,34,1,Leominster,4208,18,0,Catholic Conference,Mid-Wach,6:00 P.M.,,0
@@ -275,7 +275,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-18,129053,UPCOMING,Groton-Dunstable/NM,4160,,,North Reading,4288,,,Mid-Wach,Cape Ann,7:00 P.M.,,0
 2026-09-18,129072,UPCOMING,Norton,4295,,,Archbishop Williams,4012,,,Tri-Valley,Catholic Central,7:00 P.M.,,0
 2026-09-18,129095,UPCOMING,Weston,4423,,,Dover-Sherborn,4118,,,Dual County,Tri-Valley,6:00 P.M.,,0
-2026-09-18,129114,UPCOMING,Tyngsborough,4397,,,Ayer Shirley/Bromfield/Littleton,4022,,,Mid-Wach,Mid-Wach,7:00 P.M.,,0
+2026-09-18,129114,UPCOMING,Tyngsborough,4397,,,Ayer Shirley/Littleton,4022,,,Mid-Wach,Mid-Wach,7:00 P.M.,,0
 2026-09-18,129140,UPCOMING,Manchester Essex,4229,,,KIPP,4703,,,Cape Ann,Commonwealth,6:30 P.M.,,0
 2026-09-18,129153,UPCOMING,Easthampton,4130,,,Chicopee,4088,,,Intercounty,Suburban,6:00 P.M.,,0
 2026-09-18,129185,UPCOMING,Dennis-Yarmouth,4111,,,Mashpee,4237,,,Cape & Islands,South Shore,6:00 P.M.,,0
@@ -303,6 +303,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-18,131286,UPCOMING,Bishop Fenwick,4043,,,Putnam,4362,,,Catholic Central,Suburban,7:00 P.M.,,0
 2026-09-18,131421,UPCOMING,Wilmington,4432,,,Triton/Ipswich,4395,,,Middlesex,Cape Ann,7:00 P.M.,,0
 2026-09-18,133864,UPCOMING,Maynard/AMSA,4239,,,Millbury/Sutton,4250,,,Mid-Wach,CMAC,7:00 P.M.,,0
+2026-09-18,150668,UPCOMING,Brunswick,4062,,,Salisbury (Conn.),4339,,,NEPSAC Class A,NEPSAC Class A,6:30 P.M.,,0
+2026-09-18,150673,UPCOMING,Suffield Academy,4382,,,Dexter Southfield,4113,,,NEPSAC Class A,NEPSAC Class A,6:00 P.M.,,0
 2026-09-19,127527,UPCOMING,New Bedford,4273,,,Lowell,4216,,,Big Three,Merrimack Valley,1:00 P.M.,,0
 2026-09-19,128042,UPCOMING,Beverly,4038,,,Revere,4329,,,Northeastern,Greater Boston,11:00 A.M.,,0
 2026-09-19,128226,UPCOMING,North Quincy,4287,,,Oliver Ames,4302,,,Patriot,Hockomock,4:00 P.M.,,0
@@ -314,3 +316,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-19,129239,UPCOMING,Narragansett,4266,,,Oakmont,4299,,,Mid-Wach,Mid-Wach,7:00 P.M.,,0
 2026-09-19,129385,UPCOMING,Franklin County Tech,4145,,,Frontier,4146,,,Intercounty,Intercounty,7:00 P.M.,,0
 2026-09-19,129489,UPCOMING,Blackstone-Millville,4486,,,David Prouty,4106,,,CMAC,CMAC,12:00 P.M.,,0
+2026-09-19,150665,UPCOMING,Phillips Andover,4310,,,Hotchkiss,4181,,,NEPSAC Class A,NEPSAC Class A,2:30 P.M.,,0
+2026-09-19,150669,UPCOMING,Taft,4386,,,Cheshire Academy,4087,,,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
+2026-09-19,150671,UPCOMING,Deerfield,4110,,,Loomis Chaffee (Conn.),4215,,,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
+2026-09-19,150672,UPCOMING,Phillips Exeter,4311,,,Choate,4090,,,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
+2026-09-19,150675,UPCOMING,Tabor,4384,,,Williston Northampton,4431,,,NEPSAC Class B,NEPSAC Class A,6:00 P.M.,,0
+2026-09-19,150677,UPCOMING,St. Luke’s,4618,,,Austin Prep,4020,,,Independent,NEPSAC Class C,2:30 P.M.,,0
+2026-09-19,150679,UPCOMING,Kingswood-Oxford,4198,,,Hamden Hall Country Day,4162,,,NEPSAC Class C,NEPSAC Class C,1:00 P.M.,,0
+2026-09-19,150681,UPCOMING,Greenwich CD (Conn.),5041,,,Blair Academy,4626,,,NEPSAC Class C,Independent,3:00 P.M.,,0
+2026-09-24,128093,UPCOMING,Sharon/Dedham,4345,,,Martha’s Vineyard,4235,,,Independent,Cape & Islands,5:30 P.M.,,0
+2026-09-24,128323,UPCOMING,Holyoke,4176,,,Agawam,4004,,,AA,Suburban,6:00 P.M.,,0
+2026-09-24,128342,UPCOMING,Northampton,4291,,,Wahconah,4401,,,Suburban,Suburban,7:00 P.M.,,0
+2026-09-24,128911,UPCOMING,Ludlow,4218,,,Belchertown,4032,,,Suburban,Intercounty,6:30 P.M.,,0
+2026-09-24,129155,UPCOMING,Smith Vocational,4539,,,Easthampton,4130,,,Tri-County,Intercounty,6:00 P.M.,,0
+2026-09-24,129158,UPCOMING,Dover-Sherborn,4118,,,Nipmuc/Hopedale,4281,,,Tri-Valley,CMAC,6:00 P.M.,,0
+2026-09-24,129503,UPCOMING,Springfield International,4480,,,Ware,4406,,,Independent,Intercounty,7:00 P.M.,,0
+2026-09-24,131366,UPCOMING,Tri-County,4392,,,Joseph Case,4078,,,Mayflower,South Coast,7:00 P.M.,,0

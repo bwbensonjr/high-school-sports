@@ -781,3 +781,79 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-23,138662,UPCOMING,Seekonk,4344,,,Greater New Bedford,4156,,,South Coast,South Coast,6:00 P.M.,,0
 2026-09-23,138856,UPCOMING,Parker Charter,4483,,,Burncoat,4066,,,CMAC,CMAC,3:30 P.M.,,0
 2026-09-23,139057,UPCOMING,West Bridgewater,4415,,,Old Rochester,4301,,,South Coast,South Coast,3:45 P.M.,,0
+2026-09-24,133746,UPCOMING,Amherst-Pelham,4008,,,Frontier,4146,,,Pioneer Valley,Pioneer Valley,4:30 P.M.,,0
+2026-09-24,133762,UPCOMING,Acton-Boxborough,4003,,,Nashoba,4267,,,Dual County,Mid-Wach,4:30 P.M.,,0
+2026-09-24,133820,UPCOMING,Algonquin,4005,,,Shepherd Hill,4347,,,Mid-Wach,Mid-Wach,6:00 P.M.,,0
+2026-09-24,134005,UPCOMING,Dartmouth,4105,,,Barnstable,4024,,,Pioneer,Pioneer,4:00 P.M.,,0
+2026-09-24,134092,UPCOMING,Attleboro,4018,,,Canton,4071,,,Hockomock,Hockomock,4:30 P.M.,,0
+2026-09-24,134163,UPCOMING,Marblehead,4231,,,Beverly,4038,,,Northeastern,Northeastern,7:00 P.M.,,0
+2026-09-24,134202,UPCOMING,Bishop Feehan,4042,,,Hope (R.I.),4496,,,Catholic Central,Independent,5:00 P.M.,,0
+2026-09-24,134233,UPCOMING,Boston Latin,4049,,,Ursuline,4448,,,Dual County,Catholic Conference,4:00 P.M.,,0
+2026-09-24,134256,UPCOMING,Braintree,4051,,,Newton North,4279,,,Bay State,Bay State,4:00 P.M.,,0
+2026-09-24,134341,UPCOMING,Brockton,4058,,,Abington,4002,,,Big Three,South Shore,6:00 P.M.,,0
+2026-09-24,134383,UPCOMING,Brookline,4059,,,Framingham,4143,,,Bay State,Bay State,4:00 P.M.,,0
+2026-09-24,134449,UPCOMING,Central Catholic,4081,,,Tewksbury,4389,,,Merrimack Valley,Merrimack Valley,7:00 P.M.,,0
+2026-09-24,134506,UPCOMING,Lawrence,4203,,,Chelmsford,4085,,,Merrimack Valley,Merrimack Valley,4:30 P.M.,,0
+2026-09-24,134555,UPCOMING,Durfee,4122,,,New Bedford,4273,,,Big Three,Big Three,6:00 P.M.,,0
+2026-09-24,134583,UPCOMING,Lynn Classical,4220,,,Everett,4132,,,Greater Boston,Greater Boston,5:45 P.M.,,0
+2026-09-24,134660,UPCOMING,North Andover,4283,,,Haverhill,4167,,,Merrimack Valley,Merrimack Valley,6:15 P.M.,,0
+2026-09-24,134766,UPCOMING,Shrewsbury,4348,,,Lincoln-Sudbury,4211,,,Mid-Wach,Dual County,6:00 P.M.,,0
+2026-09-24,134869,UPCOMING,Chelsea,4086,,,Malden,4227,,,Greater Boston,Greater Boston,4:15 P.M.,,0
+2026-09-24,134913,UPCOMING,Methuen,4246,,,Billerica,4040,,,Merrimack Valley,Merrimack Valley,5:30 P.M.,,0
+2026-09-24,134927,UPCOMING,Wellesley,4413,,,Natick,4270,,,Bay State,Bay State,4:00 P.M.,,0
+2026-09-24,134956,UPCOMING,Needham,4272,,,Milton,4252,,,Bay State,Bay State,4:00 P.M.,,0
+2026-09-24,135085,UPCOMING,Hingham,4171,,,Plymouth North,4315,,,Patriot,Patriot,4:00 P.M.,,0
+2026-09-24,135197,UPCOMING,Westfield,4419,,,Wachusett,4400,,,Coombs,Mid-Wach,5:00 P.M.,,0
+2026-09-24,135214,UPCOMING,Waltham,4405,,,Somerville,4351,,,Dual County,Greater Boston,6:00 P.M.,,0
+2026-09-24,135261,UPCOMING,Weymouth,4425,,,Walpole,4404,,,Bay State,Bay State,5:30 P.M.,,0
+2026-09-24,135401,UPCOMING,Blue Hills,4047,,,Bristol-Plymouth,4057,,,Mayflower,Mayflower,3:30 P.M.,,0
+2026-09-24,135543,UPCOMING,Upper Cape,4457,,,Diman,4115,,,Mayflower,Mayflower,3:30 P.M.,,0
+2026-09-24,135636,UPCOMING,Ludlow,4218,,,East Longmeadow,4127,,,Coombs,Coombs,3:45 P.M.,,0
+2026-09-24,135655,UPCOMING,Minnechaug,4254,,,Grafton,4153,,,Coombs,Mid-Wach,5:00 P.M.,,0
+2026-09-24,135789,UPCOMING,Pope Francis,4796,,,Longmeadow,4214,,,Bi-County,Kurty-Fielding,4:00 P.M.,,0
+2026-09-24,135811,UPCOMING,Lowell,4216,,,Dracut,4119,,,Merrimack Valley,Merrimack Valley,5:45 P.M.,,0
+2026-09-24,135839,UPCOMING,Stoughton,4381,,,Mansfield,4230,,,Hockomock,Hockomock,5:30 P.M.,,0
+2026-09-24,135879,UPCOMING,Whitman-Hanson,4427,,,Marshfield,4234,,,Patriot,Patriot,6:00 P.M.,,0
+2026-09-24,135950,UPCOMING,Hopedale,4507,,,Milford,4249,,,CMAC,Hockomock,3:45 P.M.,,0
+2026-09-24,136003,UPCOMING,Essex Tech,4745,,,Newburyport,4276,,,Cape Ann,Cape Ann,5:00 P.M.,,0
+2026-09-24,136042,UPCOMING,Norwell,4296,,,North Quincy,4287,,,South Shore,Patriot,4:00 P.M.,,0
+2026-09-24,136096,UPCOMING,Amesbury,4007,,,Rockport,4490,,,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-09-24,136161,UPCOMING,Ayer Shirley,4022,,,Fitchburg,4139,,,Mid-Wach,Mid-Wach,4:00 P.M.,,0
+2026-09-24,136198,UPCOMING,South High,4962,,,Bay Path,4027,,,Independent,CMAC,5:00 P.M.,,0
+2026-09-24,136343,UPCOMING,Littleton,4212,,,Bromfield,4505,,,Mid-Wach,Mid-Wach,7:00 P.M.,,0
+2026-09-24,136502,UPCOMING,Brooke Charter,5071,,,Foxborough Charter,4588,,,Charter School Athletic,Charter School Athletic,4:00 P.M.,,0
+2026-09-24,136652,UPCOMING,Clinton,4093,,,Quabbin,4325,,,Mid-Wach,Mid-Wach,5:30 P.M.,,0
+2026-09-24,136764,UPCOMING,Plymouth South,4316,,,Pembroke,4308,,,Patriot,Patriot,4:00 P.M.,,0
+2026-09-24,136798,UPCOMING,Easthampton,4130,,,Chicopee,4088,,,Pioneer Valley,Central,4:00 P.M.,,0
+2026-09-24,136817,UPCOMING,Putnam,4362,,,Renaissance,4664,,,Tri-County,Pioneer Valley,4:00 P.M.,,0
+2026-09-24,136863,UPCOMING,Excel Academy,4969,,,Collegiate Charter,4986,,,Charter School Athletic,Charter School Athletic,3:15 P.M.,,0
+2026-09-24,137038,UPCOMING,Tri-County,4392,,,Southeastern,4358,,,Mayflower,Mayflower,3:30 P.M.,,0
+2026-09-24,137120,UPCOMING,Gardner,4147,,,St. Bernard’s,4365,,,Mid-Wach,CMAC,4:30 P.M.,,0
+2026-09-24,137253,UPCOMING,Wareham,4407,,,Atlantis Charter,4818,,,Mayflower,Mayflower,3:45 P.M.,,0
+2026-09-24,137279,UPCOMING,Avon,4460,,,Holbrook,4172,,,Mayflower,Mayflower,3:30 P.M.,,0
+2026-09-24,137301,UPCOMING,Boston Collegiate,4592,,,Salem Academy,4604,,,Charter School Athletic,Charter School Athletic,4:00 P.M.,,0
+2026-09-24,137333,UPCOMING,Maimonides,4473,,,Brighton,4055,,,Independent,Boston City,5:30 P.M.,,0
+2026-09-24,137349,UPCOMING,Bristol Aggie,4463,,,South Shore Voc-Tech,4356,,,Mayflower,Mayflower,3:30 P.M.,,0
+2026-09-24,137377,UPCOMING,Norfolk Aggie,4458,,,Cape Cod Tech,4073,,,Mayflower,Mayflower,3:30 P.M.,,0
+2026-09-24,137436,UPCOMING,David Prouty,4106,,,Leicester,4207,,,CMAC,CMAC,6:30 P.M.,,0
+2026-09-24,137506,UPCOMING,Pittsfield,4314,,,Drury,4120,,,Kurty-Fielding,Pioneer Valley,6:00 P.M.,,0
+2026-09-24,137540,UPCOMING,Ipswich,4190,,,Hamilton-Wenham,4163,,,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-09-24,137600,UPCOMING,Franklin County Tech,4145,,,Mahar,4226,,,Bi-County,Grieve,7:00 P.M.,,0
+2026-09-24,137758,UPCOMING,Tahanto,4513,,,Lunenburg,4219,,,Mid-Wach,Mid-Wach,4:00 P.M.,,0
+2026-09-24,137807,UPCOMING,Gateway,4517,,,Lee,4206,,,Pioneer Valley,Independent,6:00 P.M.,,0
+2026-09-24,137874,UPCOMING,Falmouth,4134,,,Mashpee,4237,,,Cape & Islands,South Shore,4:00 P.M.,,0
+2026-09-24,137918,UPCOMING,Tyngsborough,4397,,,Maynard,4239,,,Mid-Wach,Mid-Wach,4:00 P.M.,,0
+2026-09-24,137944,UPCOMING,Hampden Charter East,4712,,,Mt. Everett,4533,,,Pioneer Valley,Pioneer Valley,4:00 P.M.,,0
+2026-09-24,138042,UPCOMING,KIPP,4703,,,Minuteman,4255,,,Commonwealth,Commonwealth,,,0
+2026-09-24,138072,UPCOMING,Sandwich,4340,,,Monomoy,4706,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-09-24,138215,UPCOMING,Mystic Valley,4264,,,Whittier,4428,,,Commonwealth,Commonwealth,4:30 P.M.,,0
+2026-09-24,138314,UPCOMING,Nashoba,4267,,,Northeast,4293,,,Mid-Wach,Independent,5:30 P.M.,,0
+2026-09-24,138426,UPCOMING,McCann Tech,4240,,,Ware,4406,,,Tri-County,Grieve,4:00 P.M.,,0
+2026-09-24,138441,UPCOMING,Southwick,4519,,,Monson,4429,,,Central,Central,4:00 P.M.,,0
+2026-09-24,138447,UPCOMING,Oxford,4303,,,Quaboag,4510,,,CMAC,CMAC,6:00 P.M.,,0
+2026-09-24,138533,UPCOMING,Nashoba Valley Tech,4268,,,Northeast,4293,,,Commonwealth,Independent,5:30 P.M.,,0
+2026-09-24,138667,UPCOMING,New Mission/English High,4494,,,Roxbury Prep,4847,,,Boston City,Charter School Athletic,4:00 P.M.,,0
+2026-09-24,138816,UPCOMING,Sturgis East,4456,,,Rising Tide Charter,4746,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-09-24,139031,UPCOMING,St. John Paul II,4689,,,Nantucket,4265,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-09-24,139053,UPCOMING,Smith Academy,4538,,,St. Mary (Westfield),4537,,,Bi-County,Bi-County,4:00 P.M.,,0
+2026-09-24,139091,UPCOMING,Taconic,4385,,,Westfield Tech,4420,,,Pioneer Valley,Tri-County,4:00 P.M.,,0
