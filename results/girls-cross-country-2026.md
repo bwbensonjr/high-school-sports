@@ -1,6 +1,6 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-09-14 16:45
+Generated: 2026-09-15 15:26
 
 ## Upcoming Games
 
@@ -243,12 +243,12 @@ Generated: 2026-09-14 16:45
 | 101 | Abington | 1517.5 |
 | 102 | Sturgis West | 1517.1 |
 | 103 | Southeastern | 1516.3 |
-| 104 | Brooks | 1516.0 |
-| 105 | Groton-Dunstable | 1516.0 |
+| 104 | Groton-Dunstable | 1516.0 |
+| 105 | Brooks | 1516.0 |
 | 106 | West Bridgewater | 1516.0 |
 | 107 | Barnstable | 1515.5 |
-| 108 | Chicopee Comprehensive | 1514.8 |
-| 109 | Rivers | 1514.8 |
+| 108 | Rivers | 1514.8 |
+| 109 | Chicopee Comprehensive | 1514.8 |
 | 110 | Wakefield | 1514.4 |
 | 111 | Minuteman | 1513.1 |
 | 112 | Medford | 1512.2 |
@@ -263,21 +263,21 @@ Generated: 2026-09-14 16:45
 | 121 | Holbrook/Avon | 1506.1 |
 | 122 | Westfield Tech | 1504.2 |
 | 123 | Revere | 1503.6 |
-| 124 | Amherst-Pelham | 1502.8 |
+| 124 | Notre Dame (Worcester) | 1502.8 |
 | 125 | Notre Dame (Tyngsborough) | 1502.8 |
-| 126 | Westfield | 1502.8 |
-| 127 | Greater Lowell | 1502.8 |
-| 128 | Saugus | 1502.8 |
-| 129 | Minnechaug | 1502.8 |
-| 130 | Bedford | 1502.8 |
-| 131 | Boston Latin | 1502.8 |
+| 126 | Amherst-Pelham | 1502.8 |
+| 127 | Bridgewater-Raynham | 1502.8 |
+| 128 | Bedford | 1502.8 |
+| 129 | Cape Cod Tech | 1502.8 |
+| 130 | Westfield | 1502.8 |
+| 131 | Greater Lowell | 1502.8 |
 | 132 | Greater Lawrence | 1502.8 |
-| 133 | Waltham | 1502.8 |
-| 134 | Notre Dame (Worcester) | 1502.8 |
-| 135 | Wachusett | 1502.8 |
-| 136 | Longmeadow | 1502.8 |
-| 137 | Cape Cod Tech | 1502.8 |
-| 138 | Bridgewater-Raynham | 1502.8 |
+| 133 | Longmeadow | 1502.8 |
+| 134 | Waltham | 1502.8 |
+| 135 | Saugus | 1502.8 |
+| 136 | Boston Latin | 1502.8 |
+| 137 | Minnechaug | 1502.8 |
+| 138 | Wachusett | 1502.8 |
 | 139 | Monomoy | 1501.6 |
 | 140 | Concord-Carlisle | 1501.4 |
 | 141 | Lexington Christian | 1500.4 |
@@ -318,8 +318,8 @@ Generated: 2026-09-14 16:45
 | 176 | Swampscott | 1478.1 |
 | 177 | South Shore Voc-Tech | 1477.7 |
 | 178 | Amesbury | 1477.0 |
-| 179 | Ayer Shirley | 1476.8 |
-| 180 | Clinton | 1476.8 |
+| 179 | Clinton | 1476.8 |
+| 180 | Ayer Shirley | 1476.8 |
 | 181 | Blackstone Valley | 1476.6 |
 | 182 | Hampshire | 1475.2 |
 | 183 | Pope Francis | 1474.9 |

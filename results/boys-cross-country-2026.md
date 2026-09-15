@@ -1,6 +1,6 @@
 # Boys Cross Country - 2026 Season
 
-Generated: 2026-09-14 16:45
+Generated: 2026-09-15 15:26
 
 ## Upcoming Games
 
@@ -267,20 +267,20 @@ Generated: 2026-09-14 16:45
 | 123 | Hampshire | 1504.2 |
 | 124 | Rising Tide Charter | 1503.2 |
 | 125 | Bellingham | 1502.9 |
-| 126 | Riverview School | 1502.8 |
-| 127 | Bridgewater-Raynham | 1502.8 |
-| 128 | Greater Lawrence | 1502.8 |
-| 129 | Wachusett | 1502.8 |
-| 130 | St. Sebastian’s | 1502.8 |
-| 131 | Watkinson | 1502.8 |
-| 132 | Longmeadow | 1502.8 |
-| 133 | Saugus | 1502.8 |
-| 134 | Notre Dame (Tyngsborough) | 1502.8 |
-| 135 | Westfield | 1502.8 |
-| 136 | Tabor | 1502.8 |
-| 137 | Minnechaug | 1502.8 |
-| 138 | Amherst-Pelham | 1502.8 |
-| 139 | Greater Lowell | 1502.8 |
+| 126 | Longmeadow | 1502.8 |
+| 127 | Notre Dame (Tyngsborough) | 1502.8 |
+| 128 | Bridgewater-Raynham | 1502.8 |
+| 129 | Tabor | 1502.8 |
+| 130 | Riverview School | 1502.8 |
+| 131 | Wachusett | 1502.8 |
+| 132 | Greater Lowell | 1502.8 |
+| 133 | Minnechaug | 1502.8 |
+| 134 | Westfield | 1502.8 |
+| 135 | Amherst-Pelham | 1502.8 |
+| 136 | St. Sebastian’s | 1502.8 |
+| 137 | Watkinson | 1502.8 |
+| 138 | Saugus | 1502.8 |
+| 139 | Greater Lawrence | 1502.8 |
 | 140 | East Bridgewater | 1501.9 |
 | 141 | Cambridge | 1501.0 |
 | 142 | Malden | 1500.0 |
@@ -309,8 +309,8 @@ Generated: 2026-09-14 16:45
 | 165 | Landmark | 1486.8 |
 | 166 | Ayer Shirley | 1486.8 |
 | 167 | Lincoln-Sudbury | 1486.4 |
-| 168 | Algonquin | 1486.1 |
-| 169 | Mystic Valley | 1486.1 |
+| 168 | Mystic Valley | 1486.1 |
+| 169 | Algonquin | 1486.1 |
 | 170 | Tantasqua | 1485.0 |
 | 171 | Oakmont | 1484.8 |
 | 172 | Franklin | 1484.3 |
