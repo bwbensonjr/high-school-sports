@@ -50,23 +50,30 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-15,148036,UPCOMING,Falmouth Academy,4135,,,Sturgis East,4456,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-09-15,148294,UPCOMING,Rising Tide Charter,4746,,,Monomoy,4706,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-09-15,148547,UPCOMING,Cardinal Spellman,4075,,,Bishop Stang,4045,,,Catholic Central,Catholic Central,4:00 P.M.,,0
-2026-09-15,148582,UPCOMING,Arlington Catholic,4014,,,Bishop Fenwick,4043,,,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-09-15,148582,FINAL,Arlington Catholic,4014,27,1,Bishop Fenwick,4043,33,0,Catholic Central,Catholic Central,4:00 P.M.,,0
 2026-09-15,149931,UPCOMING,Abington,4002,,,East Bridgewater,4126,,,South Shore,South Shore,4:00 P.M.,,0
 2026-09-15,149952,UPCOMING,Middleborough,4247,,,Carver,4077,,,South Shore,South Shore,4:30 P.M.,,0
-2026-09-15,149980,UPCOMING,Norwell,4296,,,Rockland,4331,,,South Shore,South Shore,4:00 P.M.,,0
+2026-09-15,149980,FINAL,Norwell,4296,15,1,Rockland,4331,53,0,South Shore,South Shore,4:00 P.M.,,0
 2026-09-15,150006,UPCOMING,Mashpee,4237,,,Cohasset,4094,,,South Shore,South Shore,4:30 P.M.,,0
 2026-09-15,150589,UPCOMING,Arlington,4013,,,Melrose,4244,,,Middlesex,Middlesex,4:00 P.M.,,0
 2026-09-15,150592,UPCOMING,Belmont,4034,,,Watertown,4409,,,Middlesex,Middlesex,4:00 P.M.,,0
 2026-09-15,150598,UPCOMING,Reading,4328,,,Burlington,4065,,,Middlesex,Middlesex,4:00 P.M.,,0
 2026-09-15,150604,UPCOMING,Winchester,4434,,,Wakefield,4402,,,Middlesex,Middlesex,4:00 P.M.,,0
-2026-09-15,150613,UPCOMING,Attleboro,4018,,,Sharon,4345,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-09-15,150613,FINAL,Attleboro,4018,46,0,Sharon,4345,17,1,Hockomock,Hockomock,3:45 P.M.,,0
 2026-09-15,150618,UPCOMING,Franklin,4144,,,Stoughton,4381,,,Hockomock,Hockomock,3:45 P.M.,,0
 2026-09-15,150620,UPCOMING,Milford,4249,,,Taunton,4388,,,Hockomock,Hockomock,4:00 P.M.,,0
 2026-09-15,150623,UPCOMING,Foxborough,4142,,,North Attleborough,4284,,,Hockomock,Hockomock,3:45 P.M.,,0
 2026-09-15,150652,UPCOMING,Quincy/North Quincy,4326,,,Pembroke,4308,,,Patriot,Patriot,4:00 P.M.,,0
 2026-09-15,150655,UPCOMING,Marshfield,4234,,,Duxbury,4123,,,Patriot,Patriot,4:00 P.M.,,0
-2026-09-15,150660,UPCOMING,Silver Lake,4349,,,Hingham,4171,,,Patriot,Patriot,4:00 P.M.,,0
-2026-09-15,150661,UPCOMING,Plymouth North,4315,,,Whitman-Hanson,4427,,,Patriot,Patriot,4:00 P.M.,,0
+2026-09-15,150660,FINAL,Silver Lake,4349,17,1,Hingham,4171,40,0,Patriot,Patriot,4:00 P.M.,,0
+2026-09-15,150661,FINAL,Plymouth North,4315,33,0,Whitman-Hanson,4427,22,1,Patriot,Patriot,4:00 P.M.,,0
+2026-09-15,150896,FINAL,Seekonk,4344,21,1,Dighton-Rehoboth,4114,41,0,South Coast,South Coast,,,0
+2026-09-15,150907,FINAL,Leicester,4207,35,0,Bay Path,4027,22,1,CMAC,CMAC,,,0
+2026-09-15,150911,FINAL,Somerset Berkley,4350,19,1,Fairhaven,4133,39,0,South Coast,South Coast,,,0
+2026-09-15,150912,FINAL,Springfield Central,4360,39,0,Agawam,4004,17,1,Valley League,Valley League,,,0
+2026-09-15,150915,FINAL,Keefe Tech,4191,31,0,Notre Dame Academy-Worcester,4451,16,1,CMAC,CMAC,,,0
+2026-09-15,150916,FINAL,Keefe Tech,4191,50,0,Doherty,4116,15,1,CMAC,CMAC,,,0
+2026-09-15,150923,FINAL,Uxbridge,4398,22,1,Sutton,4512,34,0,CMAC,CMAC,,,0
 2026-09-16,136470,UPCOMING,Natick,4270,,,Brookline,4059,,,Bay State,Bay State,4:00 P.M.,,0
 2026-09-16,136473,UPCOMING,Milton,4252,,,Brookline,4059,,,Bay State,Bay State,4:00 P.M.,,0
 2026-09-16,143977,UPCOMING,Milton,4252,,,Natick,4270,,,Bay State,Bay State,4:00 P.M.,,0

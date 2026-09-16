@@ -45,7 +45,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-08,144956,UPCOMING,Medway,4243,,,Bellingham,4033,,,Tri-Valley,Tri-Valley,3:30 P.M.,,0
 2026-09-08,145213,FINAL,Sutton,4512,3,1,Joseph Case,4078,0,0,CMAC,South Coast,4:00 P.M.,,0
 2026-09-08,145304,UPCOMING,Seekonk,4344,,,West Bridgewater,4415,,,South Coast,South Coast,3:45 P.M.,,0
-2026-09-09,139143,UPCOMING,Brockton,4058,,,Durfee,4122,,,Big Three,Big Three,6:30 P.M.,,0
+2026-09-09,139143,FINAL,Brockton,4058,0,0,Durfee,4122,7,1,Big Three,Big Three,6:30 P.M.,,0
 2026-09-09,139203,FINAL,Milton,4252,2,1,Brookline,4059,0,0,Bay State,Bay State,4:30 P.M.,,0
 2026-09-09,139207,FINAL,Leominster,4208,1,0,Notre Dame Academy-Worcester,4451,2,1,Mid-Wach,CMAC,6:30 P.M.,,0
 2026-09-09,139345,POSTPONED,Everett,4132,,,Malden,4227,,,Greater Boston,Greater Boston,4:15 P.M.,,0
@@ -241,11 +241,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-14,145502,FINAL,Tyngsborough,4397,2,0,Bromfield,4505,4,1,Mid-Wach,Mid-Wach,4:00 P.M.,,0
 2026-09-15,139644,UPCOMING,South High,4962,,,Worcester Tech/Worcester North,4445,,,Independent,CMAC,3:30 P.M.,,0
 2026-09-15,139846,UPCOMING,Bedford,4031,,,Newton South,4280,,,Dual County,Dual County,4:00 P.M.,,0
-2026-09-15,140051,UPCOMING,Acton-Boxborough,4003,,,Waltham,4405,,,Dual County,Dual County,4:00 P.M.,,0
+2026-09-15,140051,FINAL,Acton-Boxborough,4003,2,1,Waltham,4405,1,0,Dual County,Dual County,4:00 P.M.,,0
 2026-09-15,140651,UPCOMING,Melrose,4244,,,Winchester,4434,,,Middlesex,Middlesex,4:15 P.M.,,0
 2026-09-15,140676,UPCOMING,Hopkinton,4180,,,Ashland,4015,,,Tri-Valley,Tri-Valley,5:30 P.M.,,0
 2026-09-15,140761,UPCOMING,Swampscott,4383,,,Beverly,4038,,,Northeastern,Northeastern,4:30 P.M.,,0
-2026-09-15,140809,UPCOMING,Danvers,4103,,,Peabody,4306,,,Northeastern,Northeastern,4:00 P.M.,,0
+2026-09-15,140809,FINAL,Danvers,4103,8,1,Peabody,4306,3,0,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-15,143632,UPCOMING,St. Bernard’s,4365,,,Monty Tech,4259,,,CMAC,CMAC,4:00 P.M.,,0
 2026-09-15,143664,UPCOMING,Northbridge,4292,,,Blackstone Valley,4046,,,CMAC,CMAC,3:30 P.M.,,0
 2026-09-15,143688,UPCOMING,Bay Path/David Prouty,4027,,,Oxford,4303,,,CMAC,CMAC,3:30 P.M.,,0
@@ -257,7 +257,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-15,144167,UPCOMING,Somerset Berkley,4350,,,Joseph Case,4078,,,South Coast,South Coast,3:30 P.M.,,0
 2026-09-15,144206,UPCOMING,Quaboag,4510,,,Auburn,4019,,,CMAC,CMAC,3:30 P.M.,,0
 2026-09-15,144296,UPCOMING,Belchertown,4032,,,Northampton,4291,,,County,Valley League,4:00 P.M.,,0
-2026-09-15,144358,UPCOMING,Gloucester,4150,,,Marblehead,4231,,,Northeastern,Northeastern,4:30 P.M.,,0
+2026-09-15,144358,FINAL,Gloucester,4150,1,1,Marblehead,4231,0,0,Northeastern,Northeastern,4:30 P.M.,,0
 2026-09-15,144387,UPCOMING,Holliston,4174,,,Norwood,4297,,,Tri-Valley,Tri-Valley,5:00 P.M.,,0
 2026-09-15,144428,UPCOMING,Holyoke,4176,,,Westfield,4419,,,County,Valley League,6:00 P.M.,,0
 2026-09-15,144516,UPCOMING,Weston,4423,,,Wayland,4411,,,Dual County,Dual County,4:15 P.M.,,0
@@ -618,3 +618,14 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-25,145461,UPCOMING,Frontier,4146,,,Greenfield,4157,,,Suburban,Suburban,4:00 P.M.,,0
 2026-09-25,145489,UPCOMING,Lunenburg,4219,,,Bromfield,4505,,,Mid-Wach,Mid-Wach,4:00 P.M.,,0
 2026-09-25,145515,UPCOMING,Hampshire,4518,,,Mahar,4226,,,County,Valley League,4:00 P.M.,,0
+2026-09-26,139448,UPCOMING,Arlington Catholic,4014,,,Revere,4329,,,Catholic Central,Greater Boston,10:00 A.M.,,0
+2026-09-26,140110,UPCOMING,Beverly,4038,,,Andover,4009,,,Northeastern,Merrimack Valley,10:00 A.M.,,0
+2026-09-26,140302,UPCOMING,West Springfield,4417,,,Smith Academy,4538,,,Suburban,Valley League,11:00 A.M.,,0
+2026-09-26,140496,UPCOMING,Belmont,4034,,,Walpole,4404,,,Middlesex,Bay State,1:30 P.M.,,0
+2026-09-26,140641,UPCOMING,Concord-Carlisle,4097,,,North Andover,4283,,,Dual County,Merrimack Valley,11:00 A.M.,,0
+2026-09-26,140914,UPCOMING,Malden Catholic,4228,,,Ursuline,4448,,,Catholic Conference,Catholic Conference,2:00 P.M.,,0
+2026-09-26,144258,UPCOMING,Glastonbury (Conn.),4697,,,Longmeadow,4214,,,Independent,Suburban,2:00 P.M.,,0
+2026-09-26,144678,UPCOMING,Bishop Stang,4045,,,Fairhaven,4133,,,Catholic Central,South Coast,11:00 A.M.,,0
+2026-09-26,144710,UPCOMING,Uxbridge,4398,,,Dover-Sherborn,4118,,,CMAC,Tri-Valley,11:30 A.M.,,0
+2026-09-26,145077,UPCOMING,Monomoy,4706,,,Lynnfield,4223,,,Cape & Islands,Cape Ann,12:00 P.M.,,0
+2026-09-26,145111,UPCOMING,Nantucket,4265,,,West Bridgewater,4415,,,Cape & Islands,South Coast,1:00 P.M.,,0
