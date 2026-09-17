@@ -1,6 +1,6 @@
 # Football - 2026 Season
 
-Generated: 2026-09-16 15:19
+Generated: 2026-09-17 15:25
 
 ## Upcoming Games
 
@@ -608,13 +608,13 @@ Generated: 2026-09-16 15:19
 | 178 | Greater Lawrence | 1506.8 |
 | 179 | Newburyport | 1504.0 |
 | 180 | Blackstone Valley | 1503.9 |
-| 181 | Cranston West (R.I.) | 1502.8 |
-| 182 | Portsmouth (N.H.) | 1502.8 |
-| 183 | Capital Prep (Conn.) | 1502.8 |
-| 184 | Viera (Fla.) | 1502.8 |
-| 185 | St. Luke’s | 1502.8 |
-| 186 | Christian Brothers (N.Y.) | 1502.8 |
-| 187 | Forman | 1502.8 |
+| 181 | Capital Prep (Conn.) | 1502.8 |
+| 182 | Forman | 1502.8 |
+| 183 | Christian Brothers (N.Y.) | 1502.8 |
+| 184 | St. Luke’s | 1502.8 |
+| 185 | Cranston West (R.I.) | 1502.8 |
+| 186 | Viera (Fla.) | 1502.8 |
+| 187 | Portsmouth (N.H.) | 1502.8 |
 | 188 | Blair Academy | 1502.8 |
 | 189 | Leicester | 1502.6 |
 | 190 | Watertown | 1500.3 |

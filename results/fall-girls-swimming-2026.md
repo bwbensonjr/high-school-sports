@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-09-16 15:19
+Generated: 2026-09-17 15:25
 
 ## Upcoming Games
 
@@ -16,7 +16,6 @@ Generated: 2026-09-16 15:19
 | 2026-09-11 | Notre Dame (Hingham) | 101 | Ursuline | 81 | +4.5 | +20.0 |
 | 2026-09-11 | Malden Catholic | 71 | Stoneham | 88 | +7.3 | -17.0 |
 | 2026-09-10 | Newton North | 81 | Milton | 101 | -0.9 | -20.0 |
-| 2026-09-09 | Wellesley | 74 | Walpole | 46 | +26.1 | +28.0 |
 
 ## Current Elo Ratings
 
