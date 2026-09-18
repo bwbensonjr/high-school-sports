@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-09-17 15:25
+Generated: 2026-09-18 14:46
 
 ## Upcoming Games
 
@@ -15,7 +15,6 @@ Generated: 2026-09-17 15:25
 | 2026-09-11 | Central Catholic | 68 | Andover | 94 | -10.3 | -26.0 |
 | 2026-09-11 | Notre Dame (Hingham) | 101 | Ursuline | 81 | +4.5 | +20.0 |
 | 2026-09-11 | Malden Catholic | 71 | Stoneham | 88 | +7.3 | -17.0 |
-| 2026-09-10 | Newton North | 81 | Milton | 101 | -0.9 | -20.0 |
 
 ## Current Elo Ratings
 

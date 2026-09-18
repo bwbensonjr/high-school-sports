@@ -58,9 +58,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-15,149962,FINAL,Norwell,4296,15,1,Rockland,4331,50,0,South Shore,South Shore,4:00 P.M.,,0
 2026-09-15,150003,UPCOMING,Mashpee,4237,,,Cohasset,4094,,,South Shore,South Shore,4:30 P.M.,,0
 2026-09-15,150588,UPCOMING,Arlington,4013,,,Melrose,4244,,,Middlesex,Middlesex,4:00 P.M.,,0
-2026-09-15,150591,UPCOMING,Belmont,4034,,,Watertown,4409,,,Middlesex,Middlesex,4:00 P.M.,,0
-2026-09-15,150597,UPCOMING,Reading,4328,,,Burlington,4065,,,Middlesex,Middlesex,4:00 P.M.,,0
-2026-09-15,150601,UPCOMING,Winchester,4434,,,Wakefield,4402,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-09-15,150591,FINAL,Belmont,4034,18,1,Watertown,4409,45,0,Middlesex,Middlesex,4:00 P.M.,,0
+2026-09-15,150597,FINAL,Reading,4328,15,1,Burlington,4065,50,0,Middlesex,Middlesex,4:00 P.M.,,0
+2026-09-15,150601,FINAL,Winchester,4434,15,1,Wakefield,4402,48,0,Middlesex,Middlesex,4:00 P.M.,,0
 2026-09-15,150610,FINAL,Attleboro,4018,40,0,Sharon,4345,20,1,Hockomock,Hockomock,3:45 P.M.,,0
 2026-09-15,150616,UPCOMING,Franklin,4144,,,Stoughton,4381,,,Hockomock,Hockomock,3:45 P.M.,,0
 2026-09-15,150619,UPCOMING,Milford,4249,,,Taunton,4388,,,Hockomock,Hockomock,4:00 P.M.,,0
@@ -76,6 +76,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-15,150914,FINAL,Keefe Tech,4191,27,1,Doherty,4116,28,0,CMAC,CMAC,,,0
 2026-09-15,150920,FINAL,Uxbridge,4398,33,0,Douglas,4506,22,1,CMAC,CMAC,,,0
 2026-09-15,150922,FINAL,Uxbridge,4398,19,1,Sutton,4512,36,0,CMAC,CMAC,,,0
+2026-09-15,151108,FINAL,Catholic Memorial,4080,16,1,Malden Catholic,4228,44,0,Catholic Conference,Catholic Conference,,,0
 2026-09-16,136443,FINAL,Brookline,4059,18,1,Milton,4252,45,0,Bay State,Bay State,4:00 P.M.,,0
 2026-09-16,136463,FINAL,Natick,4270,35,0,Brookline,4059,24,1,Bay State,Bay State,4:00 P.M.,,0
 2026-09-16,136640,FINAL,Milton,4252,40,0,Natick,4270,17,1,Bay State,Bay State,4:00 P.M.,,0
@@ -113,7 +114,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-16,150023,UPCOMING,Ashland,4015,,,Holliston,4174,,,Tri-Valley,Tri-Valley,4:15 P.M.,,0
 2026-09-16,150606,UPCOMING,Woburn,4438,,,Stoneham,4380,,,Middlesex,Middlesex,4:00 P.M.,,0
 2026-09-16,150621,FINAL,Canton,4071,37,0,Mansfield,4230,20,1,Hockomock,Hockomock,3:45 P.M.,,0
-2026-09-16,150628,UPCOMING,King Philip,4197,,,Oliver Ames,4302,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-09-16,150628,FINAL,King Philip,4197,38,0,Oliver Ames,4302,17,1,Hockomock,Hockomock,3:45 P.M.,,0
 2026-09-16,150631,FINAL,Methuen,4246,42,0,North Andover,4283,19,1,Merrimack Valley,Merrimack Valley,3:30 P.M.,,0
 2026-09-16,150638,FINAL,Haverhill,4167,43,0,Billerica,4040,18,1,Merrimack Valley,Merrimack Valley,3:30 P.M.,,0
 2026-09-16,150645,FINAL,Scituate,4343,20,1,Hanover,4164,35,0,Patriot,Patriot,4:00 P.M.,,0
@@ -124,6 +125,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-16,151010,FINAL,Shawsheen,4346,19,1,Nashoba Valley Tech,4268,42,0,Commonwealth,Commonwealth,4:00 P.M.,,0
 2026-09-16,151012,FINAL,Shawsheen,4346,24,1,Mystic Valley,4264,35,0,Commonwealth,Commonwealth,4:00 P.M.,,0
 2026-09-16,151014,FINAL,Shawsheen,4346,28,0,Northeast,4293,27,1,Commonwealth,Commonwealth,4:00 P.M.,,0
+2026-09-16,151035,FINAL,Lincoln-Sudbury,4211,16,1,Bishop Feehan,4042,39,0,Dual County,Catholic Central,4:00 P.M.,,0
 2026-09-18,148534,UPCOMING,Fairhaven,4133,,,Bishop Stang,4045,,,South Coast,Catholic Central,3:30 P.M.,,0
 2026-09-22,147936,UPCOMING,Nantucket,4265,,,Nauset,4271,,,Cape & Islands,Cape & Islands,4:30 P.M.,,0
 2026-09-22,147955,UPCOMING,Falmouth,4134,,,Dennis-Yarmouth,4111,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0

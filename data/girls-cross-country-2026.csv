@@ -58,7 +58,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-15,150589,UPCOMING,Arlington,4013,,,Melrose,4244,,,Middlesex,Middlesex,4:00 P.M.,,0
 2026-09-15,150592,UPCOMING,Belmont,4034,,,Watertown,4409,,,Middlesex,Middlesex,4:00 P.M.,,0
 2026-09-15,150598,UPCOMING,Reading,4328,,,Burlington,4065,,,Middlesex,Middlesex,4:00 P.M.,,0
-2026-09-15,150604,UPCOMING,Winchester,4434,,,Wakefield,4402,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-09-15,150604,FINAL,Winchester,4434,17,1,Wakefield,4402,46,0,Middlesex,Middlesex,4:00 P.M.,,0
 2026-09-15,150613,FINAL,Attleboro,4018,46,0,Sharon,4345,17,1,Hockomock,Hockomock,3:45 P.M.,,0
 2026-09-15,150618,UPCOMING,Franklin,4144,,,Stoughton,4381,,,Hockomock,Hockomock,3:45 P.M.,,0
 2026-09-15,150620,UPCOMING,Milford,4249,,,Taunton,4388,,,Hockomock,Hockomock,4:00 P.M.,,0
@@ -110,7 +110,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-16,150046,UPCOMING,Ashland,4015,,,Holliston,4174,,,Tri-Valley,Tri-Valley,4:15 P.M.,,0
 2026-09-16,150607,FINAL,Woburn,4438,44,0,Stoneham,4380,18,1,Middlesex,Middlesex,4:00 P.M.,,0
 2026-09-16,150622,FINAL,Canton,4071,18,1,Mansfield,4230,44,0,Hockomock,Hockomock,3:45 P.M.,,0
-2026-09-16,150630,UPCOMING,King Philip,4197,,,Oliver Ames,4302,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-09-16,150630,FINAL,King Philip,4197,27,1,Oliver Ames,4302,28,0,Hockomock,Hockomock,3:45 P.M.,,0
 2026-09-16,150633,FINAL,Methuen,4246,50,0,North Andover,4283,15,1,Merrimack Valley,Merrimack Valley,3:30 P.M.,,0
 2026-09-16,150635,FINAL,Central Catholic,4081,21,1,Chelmsford,4085,40,0,Merrimack Valley,Merrimack Valley,3:45 P.M.,,0
 2026-09-16,150636,FINAL,Tewksbury,4389,38,0,Lowell,4216,23,1,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
@@ -123,6 +123,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-16,151002,FINAL,Shawsheen,4346,18,1,Nashoba Valley Tech,4268,40,0,Commonwealth,Commonwealth,4:00 P.M.,,0
 2026-09-16,151005,FINAL,Shawsheen,4346,23,1,Mystic Valley,4264,33,0,Commonwealth,Commonwealth,4:00 P.M.,,0
 2026-09-16,151008,FINAL,Shawsheen,4346,42,0,Northeast,4293,17,1,Commonwealth,Commonwealth,4:00 P.M.,,0
+2026-09-16,151037,FINAL,Lincoln-Sudbury,4211,39,0,Bishop Feehan,4042,20,1,Dual County,Catholic Central,4:00 P.M.,,0
 2026-09-18,148550,UPCOMING,Fairhaven,4133,,,Bishop Stang,4045,,,South Coast,Catholic Central,3:30 P.M.,,0
 2026-09-22,147946,UPCOMING,Nantucket,4265,,,Nauset,4271,,,Cape & Islands,Cape & Islands,4:30 P.M.,,0
 2026-09-22,147966,UPCOMING,Falmouth,4134,,,Dennis-Yarmouth,4111,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
