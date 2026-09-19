@@ -1,6 +1,6 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
 2026-09-08,149909,UPCOMING,Mashpee,4237,,,East Bridgewater,4126,,,South Shore,South Shore,4:00 P.M.,,0
-2026-09-08,149938,FINAL,Middleborough,4247,26,1,Norwell,4296,30,0,South Shore,South Shore,4:00 P.M.,,0
+2026-09-08,149938,FINAL,Middleborough,4247,26.0,1.0,Norwell,4296,30.0,0.0,South Shore,South Shore,4:00 P.M.,,0
 2026-09-08,149969,UPCOMING,Cohasset,4094,,,Rockland,4331,,,South Shore,South Shore,4:00 P.M.,,0
 2026-09-08,149987,UPCOMING,Abington,4002,,,Carver,4077,,,South Shore,South Shore,4:30 P.M.,,0
 2026-09-09,136440,FINAL,Brookline,4059,15,1,Needham,4272,50,0,Bay State,Bay State,4:00 P.M.,,0
@@ -98,7 +98,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-16,148632,FINAL,Concord-Carlisle,4097,15,1,Bishop Feehan,4042,50,0,Dual County,Catholic Central,4:00 P.M.,,0
 2026-09-16,148888,FINAL,Concord-Carlisle,4097,25,1,Lincoln-Sudbury,4211,36,0,Dual County,Dual County,4:30 P.M.,,0
 2026-09-16,148910,FINAL,Acton-Boxborough,4003,39,0,Newton South,4280,21,1,Dual County,Dual County,4:00 P.M.,,0
-2026-09-16,148923,UPCOMING,Cambridge,4067,,,Westford,4421,,,Dual County,Dual County,4:00 P.M.,,0
+2026-09-16,148923,FINAL,Cambridge,4067,15,1,Westford,4421,50,0,Dual County,Dual County,4:00 P.M.,,0
 2026-09-16,148960,FINAL,Bedford,4031,36,0,Weston,4423,19,1,Dual County,Dual County,4:00 P.M.,,0
 2026-09-16,148974,UPCOMING,Wayland,4411,,,Boston Latin,4049,,,Dual County,Dual County,4:00 P.M.,,0
 2026-09-16,148983,UPCOMING,Bedford,4031,,,Waltham,4405,,,Dual County,Dual County,4:00 P.M.,,0
@@ -121,7 +121,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-16,150955,FINAL,Bellingham,4033,24,1,Dedham,4108,33,0,Tri-Valley,Tri-Valley,4:05 P.M.,,0
 2026-09-16,150968,FINAL,Hopkinton,4180,16,1,Westwood,4424,45,0,Tri-Valley,Tri-Valley,4:00 P.M.,,0
 2026-09-16,150973,FINAL,Old Rochester,4301,20,1,Apponequet,4011,30,0,South Coast,South Coast,4:00 P.M.,,0
-2026-09-16,150997,FINAL,Central Catholic,4081,35,0,Chelmsford,4085,22,1,Merrimack Valley,Merrimack Valley,,,0
+2026-09-16,150997,FINAL,Central Catholic,4081,22,1,Chelmsford,4085,35,0,Merrimack Valley,Merrimack Valley,,,0
 2026-09-16,151010,FINAL,Shawsheen,4346,19,1,Nashoba Valley Tech,4268,42,0,Commonwealth,Commonwealth,4:00 P.M.,,0
 2026-09-16,151012,FINAL,Shawsheen,4346,24,1,Mystic Valley,4264,35,0,Commonwealth,Commonwealth,4:00 P.M.,,0
 2026-09-16,151014,FINAL,Shawsheen,4346,28,0,Northeast,4293,27,1,Commonwealth,Commonwealth,4:00 P.M.,,0
@@ -164,3 +164,15 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-23,149880,UPCOMING,Saugus,4341,,,Salem,4336,,,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-23,149893,UPCOMING,Winthrop,4437,,,Salem,4336,,,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-23,150024,UPCOMING,Hopkinton,4180,,,Ashland,4015,,,Tri-Valley,Tri-Valley,4:00 P.M.,,0
+2026-09-29,147937,UPCOMING,Martha’s Vineyard,4235,,,Nauset,4271,,,Cape & Islands,Cape & Islands,3:00 P.M.,,0
+2026-09-29,147956,UPCOMING,Dennis-Yarmouth,4111,,,Nantucket,4265,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-09-29,147977,UPCOMING,Falmouth,4134,,,Sandwich,4340,,,Cape & Islands,Cape & Islands,3:30 P.M.,,0
+2026-09-29,148009,UPCOMING,Cape Cod Academy,4072,,,Sturgis East,4456,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-09-29,148032,UPCOMING,Rising Tide Charter,4746,,,Falmouth Academy,4135,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-09-29,148288,UPCOMING,Monomoy,4706,,,Sturgis West,4735,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-09-29,148497,UPCOMING,BC High,4029,,,Xaverian,4446,,,Catholic Conference,Catholic Conference,4:00 P.M.,,0
+2026-09-29,148504,UPCOMING,St. John’s (Shrewsbury),4368,,,Catholic Memorial,4080,,,Catholic Conference,Catholic Conference,4:00 P.M.,,0
+2026-09-29,149917,UPCOMING,East Bridgewater,4126,,,Middleborough,4247,,,South Shore,South Shore,4:00 P.M.,,0
+2026-09-29,149964,UPCOMING,Abington,4002,,,Norwell,4296,,,South Shore,South Shore,4:00 P.M.,,0
+2026-09-29,149972,UPCOMING,Rockland,4331,,,Mashpee,4237,,,South Shore,South Shore,4:30 P.M.,,0
+2026-09-29,149994,UPCOMING,Carver,4077,,,Cohasset,4094,,,South Shore,South Shore,4:30 P.M.,,0

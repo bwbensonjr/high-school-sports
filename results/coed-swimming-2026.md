@@ -1,6 +1,6 @@
 # Coed Swimming - 2026 Season
 
-Generated: 2026-09-18 14:46
+Generated: 2026-09-19 14:09
 
 ## Upcoming Games
 
@@ -13,7 +13,6 @@ Generated: 2026-09-18 14:46
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-09-15 | Methuen/Tewksbury | 99 | Billerica | 86 | +2.0 | +13.0 |
 | 2026-09-15 | Braintree | 71 | Walpole | 97 | +2.0 | -26.0 |
-| 2026-09-11 | Methuen/Tewksbury | 88 | Haverhill | 93 | +3.3 | -5.0 |
 
 ## Current Elo Ratings
 

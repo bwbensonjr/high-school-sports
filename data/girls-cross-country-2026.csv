@@ -1,6 +1,6 @@
 date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
 2026-09-08,149929,UPCOMING,Mashpee,4237,,,East Bridgewater,4126,,,South Shore,South Shore,4:00 P.M.,,0
-2026-09-08,149949,FINAL,Middleborough,4247,40,0,Norwell,4296,16,1,South Shore,South Shore,4:00 P.M.,,0
+2026-09-08,149949,FINAL,Middleborough,4247,40.0,0.0,Norwell,4296,16.0,1.0,South Shore,South Shore,4:00 P.M.,,0
 2026-09-08,149977,UPCOMING,Cohasset,4094,,,Rockland,4331,,,South Shore,South Shore,4:00 P.M.,,0
 2026-09-08,149990,UPCOMING,Abington,4002,,,Carver,4077,,,South Shore,South Shore,4:30 P.M.,,0
 2026-09-09,136469,FINAL,Brookline,4059,30,0,Needham,4272,27,1,Bay State,Bay State,4:00 P.M.,,0
@@ -35,6 +35,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-09,150508,FINAL,Walpole,4404,44,0,Newton North,4279,19,1,Bay State,Bay State,,,0
 2026-09-09,150509,FINAL,Natick,4270,43,0,Newton North,4279,19,1,Bay State,Bay State,,,0
 2026-09-09,150510,FINAL,Walpole,4404,33,0,Natick,4270,23,1,Bay State,Bay State,,,0
+2026-09-09,151163,FINAL,Greater Lowell,4155,15,1,Greater Lawrence,4154,50,0,Commonwealth,Commonwealth,4:00 P.M.,,0
 2026-09-10,150030,UPCOMING,Millis,4251,,,Ashland,4015,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
 2026-09-10,150033,UPCOMING,Norwood,4297,,,Ashland,4015,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
 2026-09-10,150036,UPCOMING,Medway,4243,,,Ashland,4015,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
@@ -94,7 +95,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-16,148901,FINAL,Concord-Carlisle,4097,18,1,Lincoln-Sudbury,4211,49,0,Dual County,Dual County,4:30 P.M.,,0
 2026-09-16,148917,FINAL,Acton-Boxborough,4003,37,0,Newton South,4280,23,1,Dual County,Dual County,4:00 P.M.,,0
 2026-09-16,148932,UPCOMING,Cambridge,4067,,,Weston,4423,,,Dual County,Dual County,4:00 P.M.,,0
-2026-09-16,148957,UPCOMING,Cambridge,4067,,,Westford,4421,,,Dual County,Dual County,4:00 P.M.,,0
+2026-09-16,148957,FINAL,Cambridge,4067,17,1,Westford,4421,49,0,Dual County,Dual County,4:00 P.M.,,0
 2026-09-16,148968,FINAL,Bedford,4031,23,1,Weston,4423,36,0,Dual County,Dual County,4:00 P.M.,,0
 2026-09-16,148978,UPCOMING,Wayland,4411,,,Boston Latin,4049,,,Dual County,Dual County,4:00 P.M.,,0
 2026-09-16,148988,UPCOMING,Bedford,4031,,,Waltham,4405,,,Dual County,Dual County,4:00 P.M.,,0
@@ -107,7 +108,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-16,149842,FINAL,Masconomet,4236,41,0,Marblehead,4231,19,1,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-16,149869,FINAL,Swampscott,4383,25,1,Peabody,4306,30,0,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-16,149902,UPCOMING,Beverly,4038,,,Saugus,4341,,,Northeastern,Northeastern,4:00 P.M.,,0
-2026-09-16,150046,UPCOMING,Ashland,4015,,,Holliston,4174,,,Tri-Valley,Tri-Valley,4:15 P.M.,,0
+2026-09-16,150046,FINAL,Ashland,4015,34,0,Holliston,4174,25,1,Tri-Valley,Tri-Valley,4:15 P.M.,,0
 2026-09-16,150607,FINAL,Woburn,4438,44,0,Stoneham,4380,18,1,Middlesex,Middlesex,4:00 P.M.,,0
 2026-09-16,150622,FINAL,Canton,4071,18,1,Mansfield,4230,44,0,Hockomock,Hockomock,3:45 P.M.,,0
 2026-09-16,150630,FINAL,King Philip,4197,27,1,Oliver Ames,4302,28,0,Hockomock,Hockomock,3:45 P.M.,,0
@@ -124,6 +125,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-16,151005,FINAL,Shawsheen,4346,23,1,Mystic Valley,4264,33,0,Commonwealth,Commonwealth,4:00 P.M.,,0
 2026-09-16,151008,FINAL,Shawsheen,4346,42,0,Northeast,4293,17,1,Commonwealth,Commonwealth,4:00 P.M.,,0
 2026-09-16,151037,FINAL,Lincoln-Sudbury,4211,39,0,Bishop Feehan,4042,20,1,Dual County,Catholic Central,4:00 P.M.,,0
+2026-09-16,151161,FINAL,Greater Lowell,4155,15,1,Lowell Catholic,4217,50,0,Commonwealth,Commonwealth,,,0
 2026-09-18,148550,UPCOMING,Fairhaven,4133,,,Bishop Stang,4045,,,South Coast,Catholic Central,3:30 P.M.,,0
 2026-09-22,147946,UPCOMING,Nantucket,4265,,,Nauset,4271,,,Cape & Islands,Cape & Islands,4:30 P.M.,,0
 2026-09-22,147966,UPCOMING,Falmouth,4134,,,Dennis-Yarmouth,4111,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
@@ -163,3 +165,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-23,149857,UPCOMING,Peabody,4306,,,Masconomet,4236,,,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-23,149886,UPCOMING,Saugus,4341,,,Salem,4336,,,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-23,150047,UPCOMING,Hopkinton,4180,,,Ashland,4015,,,Tri-Valley,Tri-Valley,4:00 P.M.,,0
+2026-09-29,147948,UPCOMING,Martha’s Vineyard,4235,,,Nauset,4271,,,Cape & Islands,Cape & Islands,3:00 P.M.,,0
+2026-09-29,147969,UPCOMING,Dennis-Yarmouth,4111,,,Nantucket,4265,,,Cape & Islands,Cape & Islands,3:30 P.M.,,0
+2026-09-29,147985,UPCOMING,Falmouth,4134,,,Sandwich,4340,,,Cape & Islands,Cape & Islands,3:30 P.M.,,0
+2026-09-29,148022,UPCOMING,Cape Cod Academy,4072,,,Sturgis East,4456,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-09-29,148300,UPCOMING,Monomoy,4706,,,Sturgis West,4735,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-09-29,149934,UPCOMING,East Bridgewater,4126,,,Middleborough,4247,,,South Shore,South Shore,4:00 P.M.,,0
+2026-09-29,149983,UPCOMING,Rockland,4331,,,Mashpee,4237,,,South Shore,South Shore,4:30 P.M.,,0
+2026-09-29,150002,UPCOMING,Carver,4077,,,Cohasset,4094,,,South Shore,South Shore,4:30 P.M.,,0
+2026-09-29,150011,UPCOMING,Abington,4002,,,Norwell,4296,,,South Shore,South Shore,4:00 P.M.,,0

@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-09-18 14:46
+Generated: 2026-09-19 14:09
 
 ## Upcoming Games
 
@@ -11,10 +11,9 @@ Generated: 2026-09-18 14:46
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-09-11 | Billerica | 91 | North Andover | 92 | -12.3 | -1.0 |
-| 2026-09-11 | Central Catholic | 68 | Andover | 94 | -10.3 | -26.0 |
-| 2026-09-11 | Notre Dame (Hingham) | 101 | Ursuline | 81 | +4.5 | +20.0 |
-| 2026-09-11 | Malden Catholic | 71 | Stoneham | 88 | +7.3 | -17.0 |
+| 2026-09-18 | Newton North | 86 | Weymouth | 74 | +10.5 | +12.0 |
+| 2026-09-18 | Notre Dame (Hingham) | 103 | Boston Latin | 78 | +19.1 | +25.0 |
+| 2026-09-18 | Billerica | 82 | Chelmsford | 104 | -6.8 | -22.0 |
 
 ## Current Elo Ratings
 
@@ -23,22 +22,22 @@ Generated: 2026-09-18 14:46
 | 1 | Seekonk | 1719.3 |
 | 2 | Nantucket | 1695.1 |
 | 3 | Andover | 1665.4 |
-| 4 | Milton | 1633.9 |
-| 5 | North Andover | 1622.4 |
-| 6 | Westwood | 1620.6 |
-| 7 | Nashoba | 1617.7 |
-| 8 | Notre Dame (Hingham) | 1610.8 |
+| 4 | Notre Dame (Hingham) | 1635.2 |
+| 5 | Milton | 1633.9 |
+| 6 | North Andover | 1622.4 |
+| 7 | Westwood | 1620.6 |
+| 8 | Nashoba | 1617.7 |
 | 9 | Wellesley | 1610.6 |
 | 10 | Hingham | 1600.5 |
-| 11 | Taunton | 1589.3 |
-| 12 | Concord-Carlisle | 1587.2 |
-| 13 | Hopkinton | 1580.7 |
-| 14 | Brookline | 1574.0 |
-| 15 | Sharon | 1571.5 |
-| 16 | Methuen/Tewksbury | 1567.6 |
-| 17 | Acton-Boxborough | 1562.5 |
-| 18 | Winchester | 1560.1 |
-| 19 | Chelmsford | 1554.6 |
+| 11 | Chelmsford | 1592.5 |
+| 12 | Taunton | 1589.3 |
+| 13 | Concord-Carlisle | 1587.2 |
+| 14 | Hopkinton | 1580.7 |
+| 15 | Brookline | 1574.0 |
+| 16 | Sharon | 1571.5 |
+| 17 | Methuen/Tewksbury | 1567.6 |
+| 18 | Acton-Boxborough | 1562.5 |
+| 19 | Winchester | 1560.1 |
 | 20 | Franklin | 1552.6 |
 | 21 | Apponequet | 1543.3 |
 | 22 | Arlington Catholic | 1542.6 |
@@ -64,14 +63,14 @@ Generated: 2026-09-18 14:46
 | 42 | Duxbury | 1519.5 |
 | 43 | Reading | 1519.4 |
 | 44 | Quincy | 1516.2 |
-| 45 | Mansfield | 1508.3 |
-| 46 | Sandwich | 1500.4 |
-| 47 | Dedham | 1499.9 |
-| 48 | Wakefield/Wakefield | 1490.8 |
-| 49 | Plymouth North/South | 1490.1 |
-| 50 | Shrewsbury | 1489.0 |
-| 51 | Arlington/Watertown | 1486.0 |
-| 52 | Newton North | 1485.8 |
+| 45 | Newton North | 1512.9 |
+| 46 | Mansfield | 1508.3 |
+| 47 | Sandwich | 1500.4 |
+| 48 | Dedham | 1499.9 |
+| 49 | Wakefield/Wakefield | 1490.8 |
+| 50 | Plymouth North/South | 1490.1 |
+| 51 | Shrewsbury | 1489.0 |
+| 52 | Arlington/Watertown | 1486.0 |
 | 53 | Gardner | 1477.7 |
 | 54 | North Attleborough | 1477.2 |
 | 55 | Foxborough | 1475.0 |
@@ -79,30 +78,30 @@ Generated: 2026-09-18 14:46
 | 57 | Lincoln-Sudbury | 1470.2 |
 | 58 | Wakefield | 1469.8 |
 | 59 | Natick | 1469.6 |
-| 60 | Boston Latin | 1469.4 |
-| 61 | Framingham | 1468.6 |
-| 62 | Newton South | 1465.6 |
-| 63 | Silver Lake/Whitman-Hanson | 1462.0 |
-| 64 | Norwell | 1461.0 |
-| 65 | Bishop Stang | 1459.3 |
-| 66 | North Quincy/Quincy | 1457.5 |
-| 67 | Haverhill | 1456.6 |
-| 68 | Bridgewater-Raynham | 1455.2 |
-| 69 | Advanced Math and Science | 1451.5 |
-| 70 | Westford | 1450.8 |
-| 71 | Notre Dame (T)/Dracut | 1450.0 |
-| 72 | Lowell | 1449.9 |
+| 60 | Framingham | 1468.6 |
+| 61 | Newton South | 1465.6 |
+| 62 | Silver Lake/Whitman-Hanson | 1462.0 |
+| 63 | Norwell | 1461.0 |
+| 64 | Bishop Stang | 1459.3 |
+| 65 | North Quincy/Quincy | 1457.5 |
+| 66 | Haverhill | 1456.6 |
+| 67 | Bridgewater-Raynham | 1455.2 |
+| 68 | Advanced Math and Science | 1451.5 |
+| 69 | Westford | 1450.8 |
+| 70 | Notre Dame (T)/Dracut | 1450.0 |
+| 71 | Lowell | 1449.9 |
+| 72 | Boston Latin | 1445.0 |
 | 73 | Central Catholic | 1442.3 |
 | 74 | Attleboro | 1441.8 |
-| 75 | Billerica | 1436.1 |
-| 76 | Stoneham | 1432.1 |
-| 77 | Weymouth | 1430.4 |
-| 78 | Woburn | 1429.5 |
-| 79 | Medfield | 1428.6 |
-| 80 | Wachusett | 1414.8 |
-| 81 | Bishop Fenwick | 1414.5 |
-| 82 | Pembroke | 1411.2 |
-| 83 | Stoughton | 1409.6 |
+| 75 | Stoneham | 1432.1 |
+| 76 | Woburn | 1429.5 |
+| 77 | Medfield | 1428.6 |
+| 78 | Wachusett | 1414.8 |
+| 79 | Bishop Fenwick | 1414.5 |
+| 80 | Pembroke | 1411.2 |
+| 81 | Stoughton | 1409.6 |
+| 82 | Weymouth | 1403.2 |
+| 83 | Billerica | 1398.2 |
 | 84 | Holliston/Medway | 1391.4 |
 | 85 | Durfee | 1382.1 |
 | 86 | Braintree | 1367.4 |
