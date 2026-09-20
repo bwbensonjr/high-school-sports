@@ -3,18 +3,18 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-08,149949,FINAL,Middleborough,4247,40.0,0.0,Norwell,4296,16.0,1.0,South Shore,South Shore,4:00 P.M.,,0
 2026-09-08,149977,UPCOMING,Cohasset,4094,,,Rockland,4331,,,South Shore,South Shore,4:00 P.M.,,0
 2026-09-08,149990,UPCOMING,Abington,4002,,,Carver,4077,,,South Shore,South Shore,4:30 P.M.,,0
-2026-09-09,136469,FINAL,Brookline,4059,30,0,Needham,4272,27,1,Bay State,Bay State,4:00 P.M.,,0
+2026-09-09,136469,FINAL,Brookline,4059,30.0,0.0,Needham,4272,27.0,1.0,Bay State,Bay State,4:00 P.M.,,0
 2026-09-09,136630,FINAL,Wellesley,4413,15.0,1.0,Framingham,4143,50.0,0.0,Bay State,Bay State,4:00 P.M.,,0
-2026-09-09,144050,FINAL,Weymouth,4425,20,1,Wellesley,4413,37,0,Bay State,Bay State,4:00 P.M.,,0
+2026-09-09,144050,FINAL,Weymouth,4425,20.0,1.0,Wellesley,4413,37.0,0.0,Bay State,Bay State,4:00 P.M.,,0
 2026-09-09,147914,UPCOMING,Durfee,4122,,,Bristol Aggie,4463,,,Big Three,Mayflower,4:00 P.M.,,0
 2026-09-09,147916,UPCOMING,Durfee,4122,,,Diman,4115,,,Big Three,Mayflower,4:00 P.M.,,0
 2026-09-09,147917,UPCOMING,Bristol Aggie,4463,,,Diman,4115,,,Mayflower,Mayflower,4:00 P.M.,,0
-2026-09-09,147943,FINAL,Nauset,4271,24,1,Monomoy,4706,33,0,Cape & Islands,Cape & Islands,4:00 P.M.,,0
-2026-09-09,147982,FINAL,Barnstable,4024,36,0,Falmouth,4134,19,1,Pioneer,Cape & Islands,4:00 P.M.,,0
-2026-09-09,148270,FINAL,Nantucket,4265,41,0,Sturgis East,4456,19,1,Cape & Islands,Cape & Islands,4:00 P.M.,,0
-2026-09-09,148273,FINAL,Sturgis West,4735,38,0,Sturgis East,4456,20,1,Cape & Islands,Cape & Islands,4:00 P.M.,,0
-2026-09-09,148276,FINAL,Nantucket,4265,34,0,Sturgis West,4735,23,1,Cape & Islands,Cape & Islands,4:00 P.M.,,0
-2026-09-09,148544,FINAL,Dartmouth,4105,25,1,Bishop Stang,4045,32,0,Pioneer,Catholic Central,3:30 P.M.,,0
+2026-09-09,147943,FINAL,Nauset,4271,24.0,1.0,Monomoy,4706,33.0,0.0,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-09-09,147982,FINAL,Barnstable,4024,36.0,0.0,Falmouth,4134,19.0,1.0,Pioneer,Cape & Islands,4:00 P.M.,,0
+2026-09-09,148270,FINAL,Nantucket,4265,41.0,0.0,Sturgis East,4456,19.0,1.0,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-09-09,148273,FINAL,Sturgis West,4735,38.0,0.0,Sturgis East,4456,20.0,1.0,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-09-09,148276,FINAL,Nantucket,4265,34.0,0.0,Sturgis West,4735,23.0,1.0,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-09-09,148544,FINAL,Dartmouth,4105,25.0,1.0,Bishop Stang,4045,32.0,0.0,Pioneer,Catholic Central,3:30 P.M.,,0
 2026-09-09,148930,UPCOMING,Weston,4423,,,Cambridge,4067,,,Dual County,Dual County,4:30 P.M.,,0
 2026-09-09,148948,UPCOMING,Weston,4423,,,Lincoln-Sudbury,4211,,,Dual County,Dual County,4:30 P.M.,,0
 2026-09-09,148953,UPCOMING,Bedford,4031,,,Newton South,4280,,,Dual County,Dual County,4:05 P.M.,,0
@@ -24,18 +24,18 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-09,149018,UPCOMING,Chelsea,4086,,,Malden,4227,,,Greater Boston,Greater Boston,4:00 P.M.,,0
 2026-09-09,149045,UPCOMING,Everett,4132,,,Lynn Classical,4220,,,Greater Boston,Greater Boston,4:00 P.M.,,0
 2026-09-09,149741,UPCOMING,Lynn English,4221,,,Medford,4242,,,Greater Boston,Greater Boston,4:00 P.M.,,0
-2026-09-09,149775,FINAL,Somerville,4351,16,1,Revere,4329,49,0,Greater Boston,Greater Boston,4:00 P.M.,,0
-2026-09-09,149791,FINAL,Danvers,4103,26,1,Beverly,4038,32,0,Northeastern,Northeastern,4:00 P.M.,,0
+2026-09-09,149775,FINAL,Somerville,4351,16.0,1.0,Revere,4329,49.0,0.0,Greater Boston,Greater Boston,4:00 P.M.,,0
+2026-09-09,149791,FINAL,Danvers,4103,26.0,1.0,Beverly,4038,32.0,0.0,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-09,149840,UPCOMING,Peabody,4306,,,Marblehead,4231,,,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-09,149856,UPCOMING,Winthrop,4437,,,Masconomet,4236,,,Northeastern,Northeastern,4:00 P.M.,,0
-2026-09-09,149883,FINAL,Salem,4336,44,0,Swampscott,4383,17,1,Northeastern,Northeastern,4:00 P.M.,,0
+2026-09-09,149883,FINAL,Salem,4336,44.0,0.0,Swampscott,4383,17.0,1.0,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-09,149899,UPCOMING,Winthrop,4437,,,Saugus,4341,,,Northeastern,Northeastern,4:00 P.M.,,0
-2026-09-09,150356,FINAL,Monty Tech,4259,24,1,Keefe Tech,4191,32,0,CMAC,CMAC,,,0
-2026-09-09,150505,FINAL,Framingham,4143,50,0,Wellesley,4413,15,1,Bay State,Bay State,,,0
-2026-09-09,150508,FINAL,Walpole,4404,44,0,Newton North,4279,19,1,Bay State,Bay State,,,0
-2026-09-09,150509,FINAL,Natick,4270,43,0,Newton North,4279,19,1,Bay State,Bay State,,,0
-2026-09-09,150510,FINAL,Walpole,4404,33,0,Natick,4270,23,1,Bay State,Bay State,,,0
-2026-09-09,151163,FINAL,Greater Lowell,4155,15,1,Greater Lawrence,4154,50,0,Commonwealth,Commonwealth,4:00 P.M.,,0
+2026-09-09,150356,FINAL,Monty Tech,4259,24.0,1.0,Keefe Tech,4191,32.0,0.0,CMAC,CMAC,,,0
+2026-09-09,150505,FINAL,Framingham,4143,50.0,0.0,Wellesley,4413,15.0,1.0,Bay State,Bay State,,,0
+2026-09-09,150508,FINAL,Walpole,4404,44.0,0.0,Newton North,4279,19.0,1.0,Bay State,Bay State,,,0
+2026-09-09,150509,FINAL,Natick,4270,43.0,0.0,Newton North,4279,19.0,1.0,Bay State,Bay State,,,0
+2026-09-09,150510,FINAL,Walpole,4404,33.0,0.0,Natick,4270,23.0,1.0,Bay State,Bay State,,,0
+2026-09-09,151163,FINAL,Greater Lowell,4155,15.0,1.0,Greater Lawrence,4154,50.0,0.0,Commonwealth,Commonwealth,4:00 P.M.,,0
 2026-09-10,150030,UPCOMING,Millis,4251,,,Ashland,4015,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
 2026-09-10,150033,UPCOMING,Norwood,4297,,,Ashland,4015,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
 2026-09-10,150036,UPCOMING,Medway,4243,,,Ashland,4015,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
@@ -174,3 +174,28 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-29,149983,UPCOMING,Rockland,4331,,,Mashpee,4237,,,South Shore,South Shore,4:30 P.M.,,0
 2026-09-29,150002,UPCOMING,Carver,4077,,,Cohasset,4094,,,South Shore,South Shore,4:30 P.M.,,0
 2026-09-29,150011,UPCOMING,Abington,4002,,,Norwell,4296,,,South Shore,South Shore,4:00 P.M.,,0
+2026-09-30,136476,UPCOMING,Wellesley,4413,,,Brookline,4059,,,Bay State,Bay State,4:00 P.M.,,0
+2026-09-30,136633,UPCOMING,Milton,4252,,,Framingham,4143,,,Bay State,Bay State,4:00 P.M.,,0
+2026-09-30,143985,UPCOMING,Needham,4272,,,Natick,4270,,,Bay State,Bay State,4:00 P.M.,,0
+2026-09-30,144031,UPCOMING,Braintree,4051,,,Newton North,4279,,,Bay State,Bay State,4:00 P.M.,,0
+2026-09-30,144053,UPCOMING,Wellesley,4413,,,Walpole,4404,,,Bay State,Bay State,4:00 P.M.,,0
+2026-09-30,147922,UPCOMING,Durfee,4122,,,Dartmouth,4105,,,Big Three,Pioneer,4:00 P.M.,,0
+2026-09-30,147932,UPCOMING,New Bedford,4273,,,Bishop Stang,4045,,,Big Three,Catholic Central,4:00 P.M.,,0
+2026-09-30,148349,UPCOMING,Amesbury,4007,,,Hamilton-Wenham,4163,,,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-09-30,148371,UPCOMING,Newburyport,4276,,,North Reading,4288,,,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-09-30,148384,UPCOMING,Pentucket,4309,,,Essex Tech,4745,,,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-09-30,148469,UPCOMING,Georgetown,4148,,,Manchester Essex/Rockport,4229,,,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-09-30,148522,UPCOMING,Ursuline,4448,,,Fontbonne,4447,,,Catholic Conference,Catholic Conference,3:45 P.M.,,0
+2026-09-30,148903,UPCOMING,Newton South,4280,,,Concord-Carlisle,4097,,,Dual County,Dual County,4:30 P.M.,,0
+2026-09-30,148919,UPCOMING,Westford,4421,,,Acton-Boxborough,4003,,,Dual County,Dual County,4:00 P.M.,,0
+2026-09-30,148933,UPCOMING,Lincoln-Sudbury,4211,,,Cambridge,4067,,,Dual County,Dual County,4:30 P.M.,,0
+2026-09-30,149025,UPCOMING,Lynn English,4221,,,Chelsea,4086,,,Greater Boston,Greater Boston,4:00 P.M.,,0
+2026-09-30,149051,UPCOMING,Chelsea,4086,,,Everett,4132,,,Greater Boston,Greater Boston,4:00 P.M.,,0
+2026-09-30,149724,UPCOMING,Revere,4329,,,Lynn Classical,4220,,,Greater Boston,Greater Boston,4:00 P.M.,,0
+2026-09-30,149755,UPCOMING,Malden,4227,,,Medford,4242,,,Greater Boston,Greater Boston,4:00 P.M.,,0
+2026-09-30,149798,UPCOMING,Danvers,4103,,,Winthrop,4437,,,Northeastern,Northeastern,4:30 P.M.,,0
+2026-09-30,149821,UPCOMING,Beverly,4038,,,Peabody,4306,,,Northeastern,Northeastern,4:00 P.M.,,0
+2026-09-30,149843,UPCOMING,Salem,4336,,,Marblehead,4231,,,Northeastern,Northeastern,4:00 P.M.,,0
+2026-09-30,149859,UPCOMING,Swampscott,4383,,,Masconomet,4236,,,Northeastern,Northeastern,4:00 P.M.,,0
+2026-09-30,149907,UPCOMING,Danvers,4103,,,Saugus,4341,,,Northeastern,Northeastern,4:30 P.M.,,0
+2026-09-30,150050,UPCOMING,Ashland,4015,,,Westwood,4424,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
