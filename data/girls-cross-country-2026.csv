@@ -42,7 +42,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-10,150038,UPCOMING,Millis,4251,,,Norwood,4297,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
 2026-09-10,150040,UPCOMING,Millis,4251,,,Medway,4243,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
 2026-09-10,150043,UPCOMING,Medway,4243,,,Norwood,4297,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
-2026-09-10,150503,FINAL,Framingham,4143,50,0,Weymouth,4425,15,1,Bay State,Bay State,,,0
+2026-09-10,150503,FINAL,Framingham,4143,50.0,0.0,Weymouth,4425,15.0,1.0,Bay State,Bay State,,,0
 2026-09-12,147997,UPCOMING,Martha’s Vineyard,4235,,,Nantucket,4265,,,Cape & Islands,Cape & Islands,11:30 A.M.,,0
 2026-09-12,148366,UPCOMING,Newburyport,4276,,,Danvers,4103,,,Cape Ann,Northeastern,9:15 A.M.,,0
 2026-09-15,147945,UPCOMING,Nauset,4271,,,Falmouth,4134,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
@@ -142,6 +142,23 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-22,149999,UPCOMING,Norwell,4296,,,Carver,4077,,,South Shore,South Shore,4:30 P.M.,,0
 2026-09-22,150010,UPCOMING,Mashpee,4237,,,Abington,4002,,,South Shore,South Shore,4:00 P.M.,,0
 2026-09-22,150596,UPCOMING,Lexington,4209,,,Arlington,4013,,,Middlesex,Middlesex,4:15 P.M.,,0
+2026-09-22,151266,UPCOMING,Sharon,4345,,,Milford,4249,,,Hockomock,Hockomock,4:30 P.M.,,0
+2026-09-22,151271,UPCOMING,Attleboro,4018,,,Franklin,4144,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-09-22,151274,UPCOMING,Stoughton,4381,,,Taunton,4388,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-09-22,151280,UPCOMING,Foxborough,4142,,,Mansfield,4230,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-09-22,151282,UPCOMING,Oliver Ames,4302,,,North Attleborough,4284,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-09-22,151284,UPCOMING,Canton,4071,,,King Philip,4197,,,Hockomock,Hockomock,3:45 P.M.,,0
+2026-09-22,151306,UPCOMING,Winchester,4434,,,Belmont,4034,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-09-22,151311,UPCOMING,Reading,4328,,,Woburn,4438,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-09-22,151315,UPCOMING,Melrose,4244,,,Watertown,4409,,,Middlesex,Middlesex,4:15 P.M.,,0
+2026-09-22,151318,UPCOMING,Wilmington,4432,,,Stoneham,4380,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-09-22,151319,UPCOMING,Burlington,4065,,,Wakefield,4402,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-09-22,151328,UPCOMING,Plymouth South,4316,,,Pembroke,4308,,,Patriot,Patriot,4:00 P.M.,,0
+2026-09-22,151334,UPCOMING,Hanover,4164,,,Quincy/North Quincy,4326,,,Patriot,Patriot,4:00 P.M.,,0
+2026-09-22,151335,UPCOMING,Whitman-Hanson,4427,,,Silver Lake,4349,,,Patriot,Patriot,4:00 P.M.,,0
+2026-09-22,151340,UPCOMING,Hingham,4171,,,Duxbury,4123,,,Patriot,Patriot,4:00 P.M.,,0
+2026-09-22,151342,UPCOMING,Plymouth North,4315,,,Marshfield,4234,,,Patriot,Patriot,4:00 P.M.,,0
+2026-09-22,151374,UPCOMING,Medfield,4241,,,Westwood,4424,,,Tri-Valley,Tri-Valley,4:30 P.M.,,0
 2026-09-23,143978,UPCOMING,Braintree,4051,,,Natick,4270,,,Bay State,Bay State,4:00 P.M.,,0
 2026-09-23,143981,UPCOMING,Wellesley,4413,,,Natick,4270,,,Bay State,Bay State,4:00 P.M.,,0
 2026-09-23,143982,UPCOMING,Braintree,4051,,,Wellesley,4413,,,Bay State,Bay State,4:00 P.M.,,0
@@ -165,6 +182,15 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-23,149857,UPCOMING,Peabody,4306,,,Masconomet,4236,,,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-23,149886,UPCOMING,Saugus,4341,,,Salem,4336,,,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-23,150047,UPCOMING,Hopkinton,4180,,,Ashland,4015,,,Tri-Valley,Tri-Valley,4:00 P.M.,,0
+2026-09-23,151356,UPCOMING,Chelmsford,4085,,,Andover,4009,,,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
+2026-09-23,151359,UPCOMING,Billerica,4040,,,Methuen,4246,,,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
+2026-09-23,151360,UPCOMING,Lawrence,4203,,,Central Catholic,4081,,,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
+2026-09-23,151362,UPCOMING,North Andover,4283,,,Tewksbury,4389,,,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
+2026-09-23,151365,UPCOMING,Lawrence,4203,,,Haverhill,4167,,,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
+2026-09-23,151371,UPCOMING,Holliston,4174,,,Norwood,4297,,,Tri-Valley,Tri-Valley,5:00 P.M.,,0
+2026-09-23,151379,UPCOMING,Dedham,4108,,,Millis,4251,,,Tri-Valley,Tri-Valley,4:15 P.M.,,0
+2026-09-23,151381,UPCOMING,Dover-Sherborn,4118,,,Bellingham,4033,,,Tri-Valley,Tri-Valley,4:00 P.M.,,0
+2026-09-23,151388,UPCOMING,Norton,4295,,,Bellingham,4033,,,Tri-Valley,Tri-Valley,3:45 P.M.,,0
 2026-09-29,147948,UPCOMING,Martha’s Vineyard,4235,,,Nauset,4271,,,Cape & Islands,Cape & Islands,3:00 P.M.,,0
 2026-09-29,147969,UPCOMING,Dennis-Yarmouth,4111,,,Nantucket,4265,,,Cape & Islands,Cape & Islands,3:30 P.M.,,0
 2026-09-29,147985,UPCOMING,Falmouth,4134,,,Sandwich,4340,,,Cape & Islands,Cape & Islands,3:30 P.M.,,0
