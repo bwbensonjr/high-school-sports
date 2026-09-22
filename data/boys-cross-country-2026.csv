@@ -39,9 +39,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-10,150018,UPCOMING,Millis,4251,,,Norwood,4297,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
 2026-09-10,150021,UPCOMING,Millis,4251,,,Medway,4243,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
 2026-09-10,150022,UPCOMING,Norwood,4297,,,Medway,4243,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
-2026-09-11,150513,FINAL,Natick,4270,37,0,Newton North,4279,18,1,Bay State,Bay State,,,0
-2026-09-11,150515,FINAL,Walpole,4404,36,0,Newton North,4279,19,1,Bay State,Bay State,,,0
-2026-09-11,150517,FINAL,Walpole,4404,25,1,Natick,4270,30,0,Bay State,Bay State,,,0
+2026-09-11,150513,FINAL,Natick,4270,37.0,0.0,Newton North,4279,18.0,1.0,Bay State,Bay State,,,0
+2026-09-11,150515,FINAL,Walpole,4404,36.0,0.0,Newton North,4279,19.0,1.0,Bay State,Bay State,,,0
+2026-09-11,150517,FINAL,Walpole,4404,25.0,1.0,Natick,4270,30.0,0.0,Bay State,Bay State,,,0
 2026-09-12,147989,UPCOMING,Martha’s Vineyard,4235,,,Nantucket,4265,,,Cape & Islands,Cape & Islands,11:30 A.M.,,0
 2026-09-12,148357,UPCOMING,Newburyport,4276,,,Danvers,4103,,,Cape Ann,Northeastern,10:30 A.M.,,0
 2026-09-15,147935,FINAL,Nauset,4271,24,1,Falmouth,4134,33,0,Cape & Islands,Cape & Islands,4:00 P.M.,,0
@@ -127,7 +127,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-16,151014,FINAL,Shawsheen,4346,28,0,Northeast,4293,27,1,Commonwealth,Commonwealth,4:00 P.M.,,0
 2026-09-16,151035,FINAL,Lincoln-Sudbury,4211,16,1,Bishop Feehan,4042,39,0,Dual County,Catholic Central,4:00 P.M.,,0
 2026-09-18,148534,UPCOMING,Fairhaven,4133,,,Bishop Stang,4045,,,South Coast,Catholic Central,3:30 P.M.,,0
-2026-09-22,147936,UPCOMING,Nantucket,4265,,,Nauset,4271,,,Cape & Islands,Cape & Islands,4:30 P.M.,,0
+2026-09-22,147936,POSTPONED,Nantucket,4265,,,Nauset,4271,,,Cape & Islands,Cape & Islands,4:30 P.M.,,0
 2026-09-22,147955,UPCOMING,Falmouth,4134,,,Dennis-Yarmouth,4111,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-09-22,147994,UPCOMING,Sandwich,4340,,,Martha’s Vineyard,4235,,,Cape & Islands,Cape & Islands,3:30 P.M.,,0
 2026-09-22,148008,UPCOMING,Monomoy,4706,,,Cape Cod Academy,4072,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0

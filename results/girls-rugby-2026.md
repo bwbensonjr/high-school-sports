@@ -1,6 +1,6 @@
 # Girls Rugby - 2026 Season
 
-Generated: 2026-09-21 16:46
+Generated: 2026-09-22 15:24
 
 ## Upcoming Games
 
