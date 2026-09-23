@@ -1,6 +1,6 @@
 # Coed Swimming - 2026 Season
 
-Generated: 2026-09-22 15:24
+Generated: 2026-09-23 15:16
 
 ## Upcoming Games
 
@@ -11,8 +11,7 @@ Generated: 2026-09-22 15:24
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-09-15 | Methuen/Tewksbury | 99 | Billerica | 86 | +2.0 | +13.0 |
-| 2026-09-15 | Braintree | 71 | Walpole | 97 | +2.0 | -26.0 |
+| 2026-09-22 | Methuen/Tewksbury | 101 | Central Catholic | 72 | +4.0 | +29.0 |
 
 ## Current Elo Ratings
 
@@ -22,14 +21,14 @@ Generated: 2026-09-22 15:24
 | 2 | Malden | 1597.6 |
 | 3 | Medford | 1595.0 |
 | 4 | Marblehead | 1585.2 |
-| 5 | Bishop Feehan | 1563.1 |
-| 6 | Walpole | 1559.3 |
-| 7 | Boston Latin | 1556.8 |
-| 8 | Cambridge | 1553.2 |
-| 9 | Norwell | 1547.6 |
-| 10 | North Andover | 1537.4 |
-| 11 | Haverhill | 1535.9 |
-| 12 | Methuen/Tewksbury | 1535.9 |
+| 5 | Methuen/Tewksbury | 1572.7 |
+| 6 | Bishop Feehan | 1563.1 |
+| 7 | Walpole | 1559.3 |
+| 8 | Boston Latin | 1556.8 |
+| 9 | Cambridge | 1553.2 |
+| 10 | Norwell | 1547.6 |
+| 11 | North Andover | 1537.4 |
+| 12 | Haverhill | 1535.9 |
 | 13 | O’Bryant | 1535.9 |
 | 14 | Salem | 1533.4 |
 | 15 | Peabody | 1530.8 |
@@ -37,16 +36,16 @@ Generated: 2026-09-22 15:24
 | 17 | Lynn Tech | 1522.0 |
 | 18 | Danvers | 1502.3 |
 | 19 | Archbishop Williams | 1493.3 |
-| 20 | Central Catholic | 1486.4 |
-| 21 | Lowell | 1483.4 |
-| 22 | Bishop Fenwick | 1478.9 |
-| 23 | Masconomet | 1473.5 |
-| 24 | Melrose | 1471.6 |
-| 25 | Billerica | 1468.7 |
-| 26 | Gloucester | 1463.8 |
-| 27 | Lynn Classical | 1462.3 |
-| 28 | Somerville | 1461.0 |
-| 29 | Arlington Catholic | 1457.2 |
+| 20 | Lowell | 1483.4 |
+| 21 | Bishop Fenwick | 1478.9 |
+| 22 | Masconomet | 1473.5 |
+| 23 | Melrose | 1471.6 |
+| 24 | Billerica | 1468.7 |
+| 25 | Gloucester | 1463.8 |
+| 26 | Lynn Classical | 1462.3 |
+| 27 | Somerville | 1461.0 |
+| 28 | Arlington Catholic | 1457.2 |
+| 29 | Central Catholic | 1449.6 |
 | 30 | Braintree | 1446.3 |
 | 31 | Northeast | 1443.7 |
 | 32 | Swampscott | 1430.4 |
