@@ -200,7 +200,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-23,151386,FINAL,Norton,4295,32,0,Medway,4243,24,1,Tri-Valley,Tri-Valley,3:45 P.M.,,0
 2026-09-23,151747,FINAL,Wheeler (R.I.),4426,15,1,Beaver Country Day,4030,46,0,EIL,EIL,,,0
 2026-09-23,151750,FINAL,Portsmouth Abbey,4320,15,1,Beaver Country Day,4030,50,0,EIL,EIL,,,0
-2026-09-24,149713,UPCOMING,Lynn Classical,4220,,,Somerville,4351,,,Greater Boston,Greater Boston,4:00 P.M.,,0
+2026-09-23,151890,FINAL,Bancroft,4023,18,1,Landmark,4200,42,0,EIL,MBIL,,,0
+2026-09-23,151893,FINAL,Bancroft,4023,22,1,Pingree,4312,37,0,EIL,EIL,,,0
+2026-09-23,151894,FINAL,Pingree,4312,30,0,Landmark,4200,25,1,EIL,MBIL,,,0
+2026-09-24,149713,FINAL,Lynn Classical,4220,50,0,Somerville,4351,15,1,Greater Boston,Greater Boston,4:00 P.M.,,0
 2026-09-29,147937,UPCOMING,Martha’s Vineyard,4235,,,Nauset,4271,,,Cape & Islands,Cape & Islands,3:00 P.M.,,0
 2026-09-29,147956,UPCOMING,Dennis-Yarmouth,4111,,,Nantucket,4265,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-09-29,147977,UPCOMING,Falmouth,4134,,,Sandwich,4340,,,Cape & Islands,Cape & Islands,3:30 P.M.,,0
@@ -236,3 +239,4 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-30,149835,UPCOMING,Salem,4336,,,Marblehead,4231,,,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-30,149894,UPCOMING,Danvers,4103,,,Saugus,4341,,,Northeastern,Northeastern,4:30 P.M.,,0
 2026-09-30,150028,UPCOMING,Ashland,4015,,,Westwood,4424,,,Tri-Valley,Tri-Valley,4:45 P.M.,,0
+2026-10-05,148567,UPCOMING,Archbishop Williams,4012,,,Cardinal Spellman,4075,,,Catholic Central,Catholic Central,4:00 P.M.,,0
