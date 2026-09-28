@@ -185,11 +185,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-12,129453,FINAL,Athol,4017,0.0,0.0,Frontier,4146,36.0,1.0,Intercounty,Intercounty,7:00 P.M.,,0
 2026-09-12,129488,FINAL,Blackstone-Millville,4486,35.0,1.0,Millis,4251,12.0,0.0,CMAC,Tri-Valley,12:00 P.M.,,0
 2026-09-12,132364,FINAL,Nantucket,4265,16.0,1.0,East Bridgewater,4126,8.0,0.0,Cape & Islands,South Shore,2:00 P.M.,,0
-2026-09-17,127460,FINAL,Lexington,4209,6,0,Brookline,4059,46,1,Middlesex,Bay State,6:30 P.M.,,0
-2026-09-17,127571,FINAL,Lawrence,4203,6,0,Whittier,4428,22,1,Merrimack Valley,Commonwealth,6:00 P.M.,,0
-2026-09-17,128546,FINAL,Amherst-Pelham,4008,28,1,Greenfield,4157,0,0,Suburban,Intercounty,7:00 P.M.,,0
-2026-09-17,128910,FINAL,Smith Vocational,4539,38,1,Ludlow,4218,20,0,Tri-County,Suburban,6:00 P.M.,,0
-2026-09-17,130220,FINAL,Hudson,4182,26,1,Westborough,4418,14,0,Mid-Wach,Mid-Wach,7:00 P.M.,,0
+2026-09-17,127460,FINAL,Lexington,4209,6.0,0.0,Brookline,4059,46.0,1.0,Middlesex,Bay State,6:30 P.M.,,0
+2026-09-17,127571,FINAL,Lawrence,4203,6.0,0.0,Whittier,4428,22.0,1.0,Merrimack Valley,Commonwealth,6:00 P.M.,,0
+2026-09-17,128546,FINAL,Amherst-Pelham,4008,28.0,1.0,Greenfield,4157,0.0,0.0,Suburban,Intercounty,7:00 P.M.,,0
+2026-09-17,128910,FINAL,Smith Vocational,4539,38.0,1.0,Ludlow,4218,20.0,0.0,Tri-County,Suburban,6:00 P.M.,,0
+2026-09-17,130220,FINAL,Hudson,4182,26.0,1.0,Westborough,4418,14.0,0.0,Mid-Wach,Mid-Wach,7:00 P.M.,,0
 2026-09-18,127437,FINAL,Franklin,4144,31,1,Brockton,4058,14,0,Hockomock,Big Three,7:00 P.M.,,0
 2026-09-18,127477,FINAL,La Salle (R.I.),4201,40,1,BC High,4029,14,0,Independent,Catholic Conference,7:00 P.M.,,0
 2026-09-18,127496,FINAL,Central Catholic,4081,17,0,St. John’s Prep,4369,21,1,Merrimack Valley,Catholic Conference,7:00 P.M.,,0
@@ -615,3 +615,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-03,151672,UPCOMING,St. George’s,4367,,,Lawrence Academy,4204,,,NEPSAC Class C,NEPSAC Class C,3:30 P.M.,,0
 2026-10-03,151804,UPCOMING,Avon Old Farms,4021,,,BB&N,4028,,,NEPSAC Class A,NEPSAC Class B,3:00 P.M.,,0
 2026-10-03,151923,UPCOMING,St. Paul’s,4375,,,Trinity-Pawling,4394,,,NEPSAC Class B,NEPSAC Class B,3:00 P.M.,,0
+2026-10-08,127465,UPCOMING,Lexington,4209,,,Woburn,4438,,,Middlesex,Middlesex,6:00 P.M.,,0
+2026-10-08,127560,UPCOMING,Framingham,4143,,,Wellesley,4413,,,Bay State,Bay State,6:00 P.M.,,0
+2026-10-08,127575,UPCOMING,Lawrence,4203,,,Andover,4009,,,Merrimack Valley,Merrimack Valley,6:00 P.M.,,0
+2026-10-08,127927,UPCOMING,Tri-County,4392,,,Diman,4115,,,Mayflower,Mayflower,7:00 P.M.,,0
+2026-10-08,127951,UPCOMING,Whittier,4428,,,Northeast,4293,,,Commonwealth,Commonwealth,6:00 P.M.,,0
+2026-10-08,128387,UPCOMING,Plymouth North,4315,,,Whitman-Hanson,4427,,,Patriot,Patriot,7:00 P.M.,,0
+2026-10-08,128551,UPCOMING,Putnam,4362,,,Amherst-Pelham,4008,,,Suburban,Suburban,6:00 P.M.,,0
+2026-10-08,129269,UPCOMING,Winthrop,4437,,,Saugus,4341,,,Northeastern,Northeastern,6:30 P.M.,,0
+2026-10-08,129513,UPCOMING,Millis,4251,,,Bellingham,4033,,,Tri-Valley,Tri-Valley,6:00 P.M.,,0

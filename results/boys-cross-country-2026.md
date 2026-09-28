@@ -1,6 +1,6 @@
 # Boys Cross Country - 2026 Season
 
-Generated: 2026-09-27 15:30
+Generated: 2026-09-28 18:25
 
 ## Upcoming Games
 
@@ -284,20 +284,20 @@ Generated: 2026-09-27 15:30
 | 130 | Hampshire | 1504.2 |
 | 131 | New Bedford | 1503.8 |
 | 132 | Rising Tide Charter | 1503.2 |
-| 133 | Riverview School | 1502.8 |
-| 134 | Tabor | 1502.8 |
-| 135 | Longmeadow | 1502.8 |
+| 133 | Tabor | 1502.8 |
+| 134 | Riverview School | 1502.8 |
+| 135 | St. Sebastian’s | 1502.8 |
 | 136 | Westfield | 1502.8 |
-| 137 | Greater Lowell | 1502.8 |
-| 138 | Bridgewater-Raynham | 1502.8 |
-| 139 | Wachusett | 1502.8 |
-| 140 | St. Sebastian’s | 1502.8 |
-| 141 | Saugus | 1502.8 |
-| 142 | Amherst-Pelham | 1502.8 |
-| 143 | Minnechaug | 1502.8 |
-| 144 | Watkinson | 1502.8 |
-| 145 | Greater Lawrence | 1502.8 |
-| 146 | Notre Dame (Tyngsborough) | 1502.8 |
+| 137 | Longmeadow | 1502.8 |
+| 138 | Saugus | 1502.8 |
+| 139 | Greater Lawrence | 1502.8 |
+| 140 | Minnechaug | 1502.8 |
+| 141 | Amherst-Pelham | 1502.8 |
+| 142 | Bridgewater-Raynham | 1502.8 |
+| 143 | Wachusett | 1502.8 |
+| 144 | Notre Dame (Tyngsborough) | 1502.8 |
+| 145 | Watkinson | 1502.8 |
+| 146 | Greater Lowell | 1502.8 |
 | 147 | Weymouth | 1502.4 |
 | 148 | East Bridgewater | 1501.9 |
 | 149 | Ashland | 1500.9 |
