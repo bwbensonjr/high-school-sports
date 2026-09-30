@@ -1,6 +1,6 @@
 # Coed Swimming - 2026 Season
 
-Generated: 2026-09-29 16:47
+Generated: 2026-09-30 16:38
 
 ## Upcoming Games
 
@@ -9,9 +9,8 @@ Generated: 2026-09-29 16:47
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-09-22 | Methuen/Tewksbury | 101 | Central Catholic | 72 | +4.0 | +29.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 

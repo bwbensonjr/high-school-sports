@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-09-29 16:47
+Generated: 2026-09-30 16:38
 
 ## Upcoming Games
 
@@ -11,6 +11,8 @@ Generated: 2026-09-29 16:47
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-09-29 | Braintree | 52 | Newton North | 97 | -12.3 | -45.0 |
+| 2026-09-29 | Wakefield | 69 | Chelmsford | 99 | -7.3 | -30.0 |
 | 2026-09-25 | Notre Dame (Hingham) | 91 | Malden Catholic | 68 | +33.5 | +23.0 |
 | 2026-09-25 | Newton North | 92 | Walpole | 49 | +20.0 | +43.0 |
 
@@ -23,24 +25,24 @@ Generated: 2026-09-29 16:47
 | 3 | Andover | 1665.4 |
 | 4 | Notre Dame (Hingham) | 1647.3 |
 | 5 | Milton | 1633.9 |
-| 6 | North Andover | 1622.4 |
-| 7 | Westwood | 1620.6 |
-| 8 | Nashoba | 1617.7 |
-| 9 | Wellesley | 1610.6 |
-| 10 | Hingham | 1600.5 |
-| 11 | Chelmsford | 1592.5 |
+| 6 | Chelmsford | 1633.4 |
+| 7 | North Andover | 1622.4 |
+| 8 | Westwood | 1620.6 |
+| 9 | Nashoba | 1617.7 |
+| 10 | Wellesley | 1610.6 |
+| 11 | Hingham | 1600.5 |
 | 12 | Taunton | 1589.3 |
 | 13 | Concord-Carlisle | 1587.2 |
 | 14 | Hopkinton | 1580.7 |
-| 15 | Brookline | 1574.0 |
-| 16 | Sharon | 1571.5 |
-| 17 | Methuen/Tewksbury | 1567.6 |
-| 18 | Acton-Boxborough | 1562.5 |
-| 19 | Winchester | 1560.1 |
-| 20 | Franklin | 1552.6 |
-| 21 | Apponequet | 1543.3 |
-| 22 | Arlington Catholic | 1542.6 |
-| 23 | Newton North | 1540.1 |
+| 15 | Newton North | 1578.1 |
+| 16 | Brookline | 1574.0 |
+| 17 | Sharon | 1571.5 |
+| 18 | Methuen/Tewksbury | 1567.6 |
+| 19 | Acton-Boxborough | 1562.5 |
+| 20 | Winchester | 1560.1 |
+| 21 | Franklin | 1552.6 |
+| 22 | Apponequet | 1543.3 |
+| 23 | Arlington Catholic | 1542.6 |
 | 24 | Weston | 1539.9 |
 | 25 | Westborough | 1538.3 |
 | 26 | New Bedford | 1537.9 |
@@ -75,25 +77,25 @@ Generated: 2026-09-29 16:47
 | 55 | Foxborough | 1475.0 |
 | 56 | Norton | 1472.0 |
 | 57 | Lincoln-Sudbury | 1470.2 |
-| 58 | Wakefield | 1469.8 |
-| 59 | Natick | 1469.6 |
-| 60 | Framingham | 1468.6 |
-| 61 | Newton South | 1465.6 |
-| 62 | Silver Lake/Whitman-Hanson | 1462.0 |
-| 63 | Norwell | 1461.0 |
-| 64 | Bishop Stang | 1459.3 |
-| 65 | North Quincy/Quincy | 1457.5 |
-| 66 | Haverhill | 1456.6 |
-| 67 | Bridgewater-Raynham | 1455.2 |
-| 68 | Advanced Math and Science | 1451.5 |
-| 69 | Westford | 1450.8 |
-| 70 | Notre Dame (T)/Dracut | 1450.0 |
-| 71 | Lowell | 1449.9 |
-| 72 | Boston Latin | 1445.0 |
-| 73 | Central Catholic | 1442.3 |
-| 74 | Attleboro | 1441.8 |
-| 75 | Stoneham | 1432.1 |
-| 76 | Woburn | 1429.5 |
+| 58 | Natick | 1469.6 |
+| 59 | Framingham | 1468.6 |
+| 60 | Newton South | 1465.6 |
+| 61 | Silver Lake/Whitman-Hanson | 1462.0 |
+| 62 | Norwell | 1461.0 |
+| 63 | Bishop Stang | 1459.3 |
+| 64 | North Quincy/Quincy | 1457.5 |
+| 65 | Haverhill | 1456.6 |
+| 66 | Bridgewater-Raynham | 1455.2 |
+| 67 | Advanced Math and Science | 1451.5 |
+| 68 | Westford | 1450.8 |
+| 69 | Notre Dame (T)/Dracut | 1450.0 |
+| 70 | Lowell | 1449.9 |
+| 71 | Boston Latin | 1445.0 |
+| 72 | Central Catholic | 1442.3 |
+| 73 | Attleboro | 1441.8 |
+| 74 | Stoneham | 1432.1 |
+| 75 | Woburn | 1429.5 |
+| 76 | Wakefield | 1428.9 |
 | 77 | Medfield | 1428.6 |
 | 78 | Wachusett | 1414.8 |
 | 79 | Bishop Fenwick | 1414.5 |
@@ -103,8 +105,8 @@ Generated: 2026-09-29 16:47
 | 83 | Billerica | 1398.2 |
 | 84 | Holliston/Medway | 1391.4 |
 | 85 | Durfee | 1382.1 |
-| 86 | Braintree | 1367.4 |
-| 87 | Old Rochester | 1338.5 |
-| 88 | Malden Catholic | 1338.1 |
-| 89 | Walpole | 1335.4 |
+| 86 | Old Rochester | 1338.5 |
+| 87 | Malden Catholic | 1338.1 |
+| 88 | Walpole | 1335.4 |
+| 89 | Braintree | 1329.5 |
 | 90 | Nauset | 1309.6 |
