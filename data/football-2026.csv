@@ -474,12 +474,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-26,151681,FINAL,St. Paul’s,4375,28,1,Belmont Hill,4035,3,0,NEPSAC Class B,NEPSAC Class B,3:00 P.M.,,0
 2026-09-27,129346,POSTPONED,Nashoba Valley Tech,4268,,,Nantucket,4265,,,Commonwealth,Cape & Islands,1:30 P.M.,,0
 2026-09-28,151611,FINAL,Austin Prep,4020,0,0,Pingree,4312,27,1,NEPSAC Class C,NEPSAC Class C,5:00 P.M.,,0
-2026-10-01,128008,UPCOMING,Saugus,4341,,,Medford,4242,,,Northeastern,Greater Boston,6:00 P.M.,,0
-2026-10-01,128292,UPCOMING,Minnechaug,4254,,,West Springfield,4417,,,AA,Suburban,6:30 P.M.,,0
+2026-10-01,128008,FINAL,Saugus,4341,0,0,Medford,4242,33,1,Northeastern,Greater Boston,6:00 P.M.,,0
+2026-10-01,128292,FINAL,Minnechaug,4254,46,1,West Springfield,4417,14,0,AA,Suburban,6:30 P.M.,,0
 2026-10-01,129365,UPCOMING,Minuteman,4255,,,Millis,4251,,,Commonwealth,Tri-Valley,6:00 P.M.,,0
-2026-10-01,129401,UPCOMING,Smith Vocational,4539,,,Pathfinder,4305,,,Tri-County,Tri-County,6:00 P.M.,,0
-2026-10-01,130016,UPCOMING,North Andover,4283,,,Billerica,4040,,,Merrimack Valley,Merrimack Valley,6:30 P.M.,,0
-2026-10-01,133865,UPCOMING,Abington,4002,,,Norwell,4296,,,South Shore,South Shore,7:00 P.M.,,0
+2026-10-01,129401,FINAL,Smith Vocational,4539,16,0,Pathfinder,4305,31,1,Tri-County,Tri-County,6:00 P.M.,,0
+2026-10-01,130016,FINAL,North Andover,4283,20,0,Billerica,4040,26,1,Merrimack Valley,Merrimack Valley,6:30 P.M.,,0
+2026-10-01,133865,FINAL,Abington,4002,14,0,Norwell,4296,41,1,South Shore,South Shore,7:00 P.M.,,0
 2026-10-02,127443,UPCOMING,Brockton,4058,,,Catholic Memorial,4080,,,Big Three,Catholic Conference,6:00 P.M.,,0
 2026-10-02,127464,UPCOMING,Lexington,4209,,,Belmont,4034,,,Middlesex,Middlesex,6:00 P.M.,,0
 2026-10-02,127482,UPCOMING,BC High,4029,,,Bishop Feehan,4042,,,Catholic Conference,Independent,6:00 P.M.,,0
@@ -499,7 +499,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-02,127743,UPCOMING,Wellesley,4413,,,Weymouth,4425,,,Bay State,Bay State,6:00 P.M.,,0
 2026-10-02,127757,UPCOMING,Mansfield,4230,,,Natick,4270,,,Hockomock,Bay State,7:00 P.M.,,0
 2026-10-02,127779,UPCOMING,Durfee,4122,,,Braintree,4051,,,Big Three,Bay State,6:30 P.M.,,0
-2026-10-02,127797,UPCOMING,Quincy,4326,,,New Bedford,4273,,,Patriot,Big Three,6:30 P.M.,,0
 2026-10-02,127823,UPCOMING,St. John’s (Shrewsbury),4368,,,Masconomet,4236,,,Catholic Conference,Northeastern,6:00 P.M.,,0
 2026-10-02,127845,UPCOMING,Malden,4227,,,Everett,4132,,,Greater Boston,Independent,6:00 P.M.,,0
 2026-10-02,127860,UPCOMING,Westfield,4419,,,Springfield Central,4360,,,AA,AA,7:00 P.M.,,0
@@ -528,7 +527,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-02,128402,UPCOMING,Melrose,4244,,,Winchester,4434,,,Middlesex,Middlesex,7:00 P.M.,,0
 2026-10-02,128423,UPCOMING,Nashua South (N.H.),4579,,,Malden Catholic,4228,,,Independent,Catholic Conference,6:30 P.M.,,0
 2026-10-02,128431,UPCOMING,Norwood,4297,,,Medfield,4241,,,Tri-Valley,Tri-Valley,6:00 P.M.,,0
-2026-10-02,128444,UPCOMING,Danvers,4103,,,Marblehead,4231,,,Northeastern,Northeastern,6:30 P.M.,,0
 2026-10-02,128476,UPCOMING,Burlington,4065,,,Wilmington,4432,,,Middlesex,Middlesex,6:00 P.M.,,0
 2026-10-02,128491,UPCOMING,Concord-Carlisle,4097,,,Bedford,4031,,,Dual County,Dual County,7:00 P.M.,,0
 2026-10-02,128506,UPCOMING,Ashland,4015,,,Algonquin,4005,,,Tri-Valley,Mid-Wach,7:00 P.M.,,0
@@ -597,8 +595,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-02,150721,UPCOMING,Nobles,4282,,,Governor’s Academy,4152,,,NEPSAC Class C,NEPSAC Class C,2:30 P.M.,,0
 2026-10-03,127499,UPCOMING,St. John’s Prep,4369,,,La Salle (R.I.),4201,,,Catholic Conference,Independent,1:00 P.M.,,0
 2026-10-03,127766,UPCOMING,Stoughton,4381,,,Franklin,4144,,,Hockomock,Hockomock,4:00 P.M.,,0
+2026-10-03,127797,UPCOMING,Quincy,4326,,,New Bedford,4273,,,Patriot,Big Three,5:00 P.M.,,0
 2026-10-03,128156,UPCOMING,Westborough,4418,,,Doherty,4116,,,Mid-Wach,CMAC,3:00 P.M.,,0
 2026-10-03,128324,UPCOMING,Amherst-Pelham,4008,,,Agawam,4004,,,Suburban,Suburban,10:30 A.M.,,0
+2026-10-03,128444,UPCOMING,Danvers,4103,,,Marblehead,4231,,,Northeastern,Northeastern,11:00 A.M.,,0
 2026-10-03,128838,UPCOMING,Northeast,4293,,,Dover-Sherborn,4118,,,Commonwealth,Tri-Valley,10:30 A.M.,,0
 2026-10-03,129355,UPCOMING,Oxford,4303,,,Keefe Tech,4191,,,CMAC,CMAC,1:30 P.M.,,0
 2026-10-03,129473,UPCOMING,Worcester North,4443,,,Bartlett,4026,,,CMAC,CMAC,12:00 P.M.,,0

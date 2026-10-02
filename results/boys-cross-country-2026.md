@@ -1,22 +1,20 @@
 # Boys Cross Country - 2026 Season
 
-Generated: 2026-10-01 17:15
+Generated: 2026-10-02 16:28
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-10-01 | 4:00 P.M. | Whitman-Hanson | Hingham | 75.1% | +19.2 |
-| 2026-10-01 | 4:00 P.M. | Taunton | Sharon | 78.7% | +22.7 |
 | 2026-10-05 | 4:00 P.M. | Archbishop Williams | Cardinal Spellman | 31.2% | -13.7 |
 | 2026-10-06 | 4:00 P.M. | Carver | Mashpee | 58.5% | +6.0 |
 | 2026-10-06 | 4:00 P.M. | Cohasset | Abington | 61.3% | +8.0 |
-| 2026-10-06 | 4:00 P.M. | Rockland | Middleborough | 80.8% | +24.9 |
+| 2026-10-06 | 4:00 P.M. | Norwell | East Bridgewater | 36.7% | -9.5 |
 | 2026-10-06 | 4:00 P.M. | St. Mary’s | Arlington Catholic | 60.7% | +7.5 |
 | 2026-10-06 | 4:00 P.M. | Bishop Stang | Arlington Catholic | 27.1% | -17.2 |
 | 2026-10-06 | 4:00 P.M. | Bishop Stang | St. Mary’s | 24.3% | -19.7 |
 | 2026-10-06 | 4:00 P.M. | St. John’s (Shrewsbury) | St. John’s Prep | 81.9% | +26.2 |
-| 2026-10-06 | 4:00 P.M. | Norwell | East Bridgewater | 36.7% | -9.5 |
+| 2026-10-06 | 4:00 P.M. | Rockland | Middleborough | 80.8% | +24.9 |
 | 2026-10-06 | 4:00 P.M. | BC High | Catholic Memorial | 51.8% | +1.3 |
 | 2026-10-06 | 4:00 P.M. | Sturgis West | Rising Tide Charter | 64.2% | +10.1 |
 | 2026-10-06 | 4:00 P.M. | Sturgis East | Monomoy | 84.0% | +28.8 |
@@ -38,15 +36,15 @@ Generated: 2026-10-01 17:15
 | 2026-10-07 | 4:30 P.M. | Lincoln-Sudbury | Newton South | 60.3% | +7.2 |
 | 2026-10-07 | 4:00 P.M. | Everett | Malden | 69.2% | +14.0 |
 | 2026-10-07 | 4:00 P.M. | Lincoln-Sudbury | Westford | 32.0% | -13.1 |
-| 2026-10-07 | 4:00 P.M. | Wellesley | Milton | 58.8% | +6.2 |
+| 2026-10-07 | 4:00 P.M. | Durfee | Brockton | 70.8% | +15.4 |
 | 2026-10-07 | 4:15 P.M. | Concord-Carlisle | Acton-Boxborough | 22.3% | -21.7 |
 | 2026-10-07 | 3:45 P.M. | Lynnfield | North Reading | 47.4% | -1.8 |
 | 2026-10-07 | 4:00 P.M. | Georgetown | Ipswich | 67.5% | +12.7 |
 | 2026-10-07 | 3:30 P.M. | Manchester Essex/Rockport | Amesbury | 53.4% | +2.3 |
 | 2026-10-07 | 4:00 P.M. | Essex Tech | Newburyport | 68.0% | +13.1 |
 | 2026-10-07 | 3:30 P.M. | Triton | Hamilton-Wenham | 72.9% | +17.2 |
-| 2026-10-07 | 4:00 P.M. | Durfee | Brockton | 70.8% | +15.4 |
 | 2026-10-07 | 4:30 P.M. | Swampscott | Saugus | 63.0% | +9.3 |
+| 2026-10-07 | 4:00 P.M. | Wellesley | Milton | 58.8% | +6.2 |
 | 2026-10-07 | 4:30 P.M. | Newton North | Needham | 19.0% | -25.1 |
 | 2026-10-07 | 4:00 P.M. | Walpole | Braintree | 35.0% | -10.7 |
 | 2026-10-07 | 4:30 P.M. | Newton North | Framingham | 11.1% | -36.1 |
@@ -114,12 +112,11 @@ Generated: 2026-10-01 17:15
 | 2026-09-29 | North Attleborough | 23 | Canton | 32 | +11.9 | -9.0 |
 | 2026-09-29 | St. John’s Prep | 22 | Malden Catholic | 37 | -22.6 | -15.0 |
 | 2026-09-26 | BB&N | 40 | Roxbury Latin | 21 | +6.5 | +19.0 |
-| 2026-09-26 | Nobles | 15 | St. Mark’s | 50 | -11.3 | -35.0 |
 | 2026-09-26 | Nobles | 19 | Roxbury Latin | 43 | -2.1 | -24.0 |
-| 2026-09-26 | Nobles | 15 | BB&N | 50 | +9.0 | -35.0 |
+| 2026-09-26 | Nobles | 15 | St. Mark’s | 50 | -11.3 | -35.0 |
 | 2026-09-26 | St. Mark’s | 37 | BB&N | 23 | +11.8 | +14.0 |
 | 2026-09-26 | St. Mark’s | 40 | Roxbury Latin | 21 | +23.4 | +19.0 |
-| 2026-09-24 | Lynn Classical | 50 | Somerville | 15 | +29.8 | +35.0 |
+| 2026-09-26 | Nobles | 15 | BB&N | 50 | +9.0 | -35.0 |
 
 ## Current Elo Ratings
 
@@ -234,8 +231,8 @@ Generated: 2026-10-01 17:15
 | 107 | Oakmont | 1520.8 |
 | 108 | Leominster | 1520.7 |
 | 109 | Sandwich | 1519.7 |
-| 110 | Minuteman | 1519.4 |
-| 111 | Westborough | 1519.4 |
+| 110 | Westborough | 1519.4 |
+| 111 | Minuteman | 1519.4 |
 | 112 | Maynard | 1518.8 |
 | 113 | BB&N | 1518.7 |
 | 114 | Rising Tide Charter | 1517.8 |
@@ -259,19 +256,19 @@ Generated: 2026-10-01 17:15
 | 132 | New Bedford | 1503.8 |
 | 133 | Scituate | 1503.4 |
 | 134 | Apponequet | 1503.0 |
-| 135 | Watkinson | 1502.8 |
-| 136 | Amherst-Pelham | 1502.8 |
-| 137 | Greater Lawrence | 1502.8 |
-| 138 | Greater Lowell | 1502.8 |
-| 139 | Minnechaug | 1502.8 |
-| 140 | Tabor | 1502.8 |
+| 135 | Westfield | 1502.8 |
+| 136 | Greater Lowell | 1502.8 |
+| 137 | Bridgewater-Raynham | 1502.8 |
+| 138 | Saugus | 1502.8 |
+| 139 | Longmeadow | 1502.8 |
+| 140 | Greater Lawrence | 1502.8 |
 | 141 | St. Sebastian’s | 1502.8 |
-| 142 | Riverview School | 1502.8 |
-| 143 | Westfield | 1502.8 |
-| 144 | Saugus | 1502.8 |
-| 145 | Longmeadow | 1502.8 |
-| 146 | Notre Dame (Tyngsborough) | 1502.8 |
-| 147 | Bridgewater-Raynham | 1502.8 |
+| 142 | Watkinson | 1502.8 |
+| 143 | Tabor | 1502.8 |
+| 144 | Minnechaug | 1502.8 |
+| 145 | Notre Dame (Tyngsborough) | 1502.8 |
+| 146 | Riverview School | 1502.8 |
+| 147 | Amherst-Pelham | 1502.8 |
 | 148 | Wachusett | 1502.8 |
 | 149 | Weymouth | 1502.4 |
 | 150 | East Bridgewater | 1501.9 |

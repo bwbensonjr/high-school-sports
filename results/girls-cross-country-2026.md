@@ -1,21 +1,19 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-10-01 17:15
+Generated: 2026-10-02 16:28
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-10-01 | 4:00 P.M. | Whitman-Hanson | Hingham | 61.4% | +8.1 |
-| 2026-10-01 | 4:00 P.M. | Taunton | Sharon | 76.4% | +20.4 |
 | 2026-10-05 | 4:00 P.M. | Archbishop Williams | Cardinal Spellman | 34.6% | -11.1 |
-| 2026-10-06 | 4:00 P.M. | Carver | Mashpee | 59.0% | +6.3 |
+| 2026-10-06 | 4:00 P.M. | Cohasset | Abington | 55.6% | +3.9 |
 | 2026-10-06 | 4:00 P.M. | Rockland | Middleborough | 68.7% | +13.7 |
 | 2026-10-06 | 4:00 P.M. | Norwell | East Bridgewater | 27.2% | -17.1 |
 | 2026-10-06 | 4:00 P.M. | St. Mary’s | Arlington Catholic | 45.3% | -3.3 |
 | 2026-10-06 | 4:00 P.M. | Bishop Stang | Arlington Catholic | 63.8% | +9.8 |
 | 2026-10-06 | 4:00 P.M. | Bishop Stang | St. Mary’s | 74.0% | +18.1 |
-| 2026-10-06 | 4:00 P.M. | Cohasset | Abington | 55.6% | +3.9 |
+| 2026-10-06 | 4:00 P.M. | Carver | Mashpee | 59.0% | +6.3 |
 | 2026-10-06 | 4:00 P.M. | Sturgis East | Monomoy | 32.2% | -12.9 |
 | 2026-10-06 | 4:00 P.M. | Falmouth Academy | Cape Cod Academy | 55.6% | +3.9 |
 | 2026-10-06 | 4:00 P.M. | Nantucket | Falmouth | 68.0% | +13.1 |
@@ -35,14 +33,14 @@ Generated: 2026-10-01 17:15
 | 2026-10-07 | 4:00 P.M. | Lincoln-Sudbury | Westford | 74.2% | +18.4 |
 | 2026-10-07 | 4:00 P.M. | Revere | Lynn English | 46.7% | -2.3 |
 | 2026-10-07 | 4:15 P.M. | Concord-Carlisle | Cambridge | 49.9% | -0.1 |
-| 2026-10-07 | 4:00 P.M. | Walpole | Braintree | 63.9% | +9.9 |
+| 2026-10-07 | 4:00 P.M. | Durfee | Brockton | 61.2% | +7.9 |
 | 2026-10-07 | 3:45 P.M. | Lynnfield | North Reading | 55.9% | +4.1 |
 | 2026-10-07 | 4:00 P.M. | Georgetown | Ipswich | 67.9% | +13.0 |
 | 2026-10-07 | 3:30 P.M. | Triton | Hamilton-Wenham | 83.6% | +28.4 |
 | 2026-10-07 | 4:00 P.M. | Essex Tech | Newburyport | 81.9% | +26.3 |
 | 2026-10-07 | 3:30 P.M. | Amesbury | Hamilton-Wenham | 79.0% | +23.1 |
-| 2026-10-07 | 4:00 P.M. | Durfee | Brockton | 61.2% | +7.9 |
 | 2026-10-07 | 4:45 P.M. | Ashland | Norwood | 72.5% | +16.8 |
+| 2026-10-07 | 4:00 P.M. | Walpole | Braintree | 63.9% | +9.9 |
 | 2026-10-07 | 4:00 P.M. | Wellesley | Milton | 56.0% | +4.2 |
 | 2026-10-07 | 4:30 P.M. | Framingham | Needham | 95.9% | +54.7 |
 | 2026-10-07 | 4:30 P.M. | Newton North | Needham | 52.9% | +2.0 |
@@ -99,16 +97,15 @@ Generated: 2026-10-01 17:15
 | 2026-09-30 | Revere | 27 | Lynn Classical | 28 | -5.4 | -1.0 |
 | 2026-09-30 | Beverly | 27 | Peabody | 28 | +10.9 | -1.0 |
 | 2026-09-29 | Silver Lake | 20 | Marshfield | 37 | +6.5 | -17.0 |
-| 2026-09-29 | Monomoy | 38 | Sturgis West | 27 | +3.5 | +11.0 |
 | 2026-09-29 | Abington | 43 | Norwell | 17 | +29.1 | +26.0 |
 | 2026-09-29 | Stoneham | 33 | Melrose | 25 | +4.5 | +8.0 |
 | 2026-09-29 | Hanover | 24 | Plymouth South | 31 | +9.3 | -7.0 |
-| 2026-09-29 | Cape Cod Academy | 44 | Sturgis East | 15 | +21.8 | +29.0 |
+| 2026-09-29 | Monomoy | 38 | Sturgis West | 27 | +3.5 | +11.0 |
 | 2026-09-29 | Duxbury | 20 | Plymouth North | 43 | -10.4 | -23.0 |
 | 2026-09-29 | Tantasqua | 33 | Uxbridge | 22 | +9.7 | +11.0 |
 | 2026-09-29 | Apponequet | 26 | Fairhaven | 31 | -9.5 | -5.0 |
 | 2026-09-29 | North Attleborough | 42 | Canton | 18 | +24.9 | +24.0 |
-| 2026-09-24 | Lynn Classical | 50 | Somerville | 15 | +33.1 | +35.0 |
+| 2026-09-29 | Cape Cod Academy | 44 | Sturgis East | 15 | +21.8 | +29.0 |
 
 ## Current Elo Ratings
 
@@ -235,8 +232,8 @@ Generated: 2026-10-01 17:15
 | 119 | Somerset Berkley | 1516.1 |
 | 120 | Brooks | 1516.0 |
 | 121 | West Bridgewater | 1516.0 |
-| 122 | Rivers | 1514.8 |
-| 123 | Chicopee Comprehensive | 1514.8 |
+| 122 | Chicopee Comprehensive | 1514.8 |
+| 123 | Rivers | 1514.8 |
 | 124 | Minuteman | 1513.1 |
 | 125 | Medford | 1512.2 |
 | 126 | Newton South | 1510.5 |
@@ -247,17 +244,17 @@ Generated: 2026-10-01 17:15
 | 131 | Dedham | 1505.2 |
 | 132 | North Reading | 1504.5 |
 | 133 | Westfield Tech | 1504.2 |
-| 134 | Notre Dame (Tyngsborough) | 1502.8 |
-| 135 | Cape Cod Tech | 1502.8 |
-| 136 | Westfield | 1502.8 |
-| 137 | Notre Dame (Worcester) | 1502.8 |
-| 138 | Wachusett | 1502.8 |
-| 139 | Waltham | 1502.8 |
+| 134 | Wachusett | 1502.8 |
+| 135 | Notre Dame (Tyngsborough) | 1502.8 |
+| 136 | Minnechaug | 1502.8 |
+| 137 | Amherst-Pelham | 1502.8 |
+| 138 | Cape Cod Tech | 1502.8 |
+| 139 | Notre Dame (Worcester) | 1502.8 |
 | 140 | Longmeadow | 1502.8 |
-| 141 | Amherst-Pelham | 1502.8 |
-| 142 | Boston Latin | 1502.8 |
-| 143 | Minnechaug | 1502.8 |
-| 144 | Saugus | 1502.8 |
+| 141 | Saugus | 1502.8 |
+| 142 | Westfield | 1502.8 |
+| 143 | Waltham | 1502.8 |
+| 144 | Boston Latin | 1502.8 |
 | 145 | Winthrop | 1499.9 |
 | 146 | Bristol-Plymouth | 1499.4 |
 | 147 | Hopkinton | 1498.9 |
