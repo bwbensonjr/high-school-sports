@@ -168,41 +168,41 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-22,151554,FINAL,St. John’s Prep,4369,16.0,1.0,BC High,4029,44.0,0.0,Catholic Conference,Catholic Conference,,,0
 2026-09-22,151565,FINAL,Hanover,4164,50.0,0.0,North Quincy/Quincy,4287,15.0,1.0,Patriot,Patriot,,,0
 2026-09-22,151578,FINAL,Northampton,4291,20.0,1.0,Springfield Central,4360,38.0,0.0,Valley League,Valley League,,,0
-2026-09-23,136643,FINAL,Natick,4270,17,1,Braintree,4051,46,0,Bay State,Bay State,4:00 P.M.,,0
-2026-09-23,143973,FINAL,Wellesley,4413,37,0,Natick,4270,23,1,Bay State,Bay State,4:00 P.M.,,0
+2026-09-23,136643,FINAL,Natick,4270,17.0,1.0,Braintree,4051,46.0,0.0,Bay State,Bay State,4:00 P.M.,,0
+2026-09-23,143973,FINAL,Wellesley,4413,37.0,0.0,Natick,4270,23.0,1.0,Bay State,Bay State,4:00 P.M.,,0
 2026-09-23,143975,UPCOMING,Braintree,4051,,,Wellesley,4413,,,Bay State,Bay State,4:00 P.M.,,0
-2026-09-23,143991,FINAL,Milton,4252,42,0,Newton North,4279,20,1,Bay State,Bay State,4:00 P.M.,,0
-2026-09-23,143996,FINAL,Weymouth,4425,38,0,Newton North,4279,23,1,Bay State,Bay State,4:00 P.M.,,0
-2026-09-23,143997,FINAL,Milton,4252,25,1,Weymouth,4425,32,0,Bay State,Bay State,4:00 P.M.,,0
-2026-09-23,147909,FINAL,New Bedford,4273,23,1,Durfee,4122,34,0,Big Three,Big Three,4:00 P.M.,,0
-2026-09-23,148335,FINAL,Hamilton-Wenham,4163,16,1,Ipswich,4190,46,0,Cape Ann,Cape Ann,3:30 P.M.,,0
+2026-09-23,143991,FINAL,Milton,4252,42.0,0.0,Newton North,4279,20.0,1.0,Bay State,Bay State,4:00 P.M.,,0
+2026-09-23,143996,FINAL,Weymouth,4425,38.0,0.0,Newton North,4279,23.0,1.0,Bay State,Bay State,4:00 P.M.,,0
+2026-09-23,143997,FINAL,Milton,4252,25.0,1.0,Weymouth,4425,32.0,0.0,Bay State,Bay State,4:00 P.M.,,0
+2026-09-23,147909,FINAL,New Bedford,4273,23.0,1.0,Durfee,4122,34.0,0.0,Big Three,Big Three,4:00 P.M.,,0
+2026-09-23,148335,FINAL,Hamilton-Wenham,4163,16.0,1.0,Ipswich,4190,46.0,0.0,Cape Ann,Cape Ann,3:30 P.M.,,0
 2026-09-23,148375,UPCOMING,Pentucket,4309,,,Lynnfield,4223,,,Cape Ann,Cape Ann,4:00 P.M.,,0
-2026-09-23,148392,FINAL,Manchester Essex/Rockport,4229,27,1,Triton,4395,28,0,Cape Ann,Cape Ann,3:30 P.M.,,0
-2026-09-23,148402,FINAL,North Reading,4288,44,0,Essex Tech,4745,15,1,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-09-23,148392,FINAL,Manchester Essex/Rockport,4229,27.0,1.0,Triton,4395,28.0,0.0,Cape Ann,Cape Ann,3:30 P.M.,,0
+2026-09-23,148402,FINAL,North Reading,4288,44.0,0.0,Essex Tech,4745,15.0,1.0,Cape Ann,Cape Ann,4:00 P.M.,,0
 2026-09-23,148458,UPCOMING,Amesbury,4007,,,Georgetown,4148,,,Cape Ann,Cape Ann,4:00 P.M.,,0
 2026-09-23,149007,UPCOMING,Revere,4329,,,Chelsea,4086,,,Greater Boston,Greater Boston,4:00 P.M.,,0
-2026-09-23,149038,FINAL,Medford,4242,19,1,Everett,4132,42,0,Greater Boston,Greater Boston,4:00 P.M.,,0
+2026-09-23,149038,FINAL,Medford,4242,19.0,1.0,Everett,4132,42.0,0.0,Greater Boston,Greater Boston,4:00 P.M.,,0
 2026-09-23,149735,UPCOMING,Malden,4227,,,Lynn English,4221,,,Greater Boston,Greater Boston,4:00 P.M.,,0
-2026-09-23,149783,FINAL,Danvers,4103,17,1,Swampscott,4383,45,0,Northeastern,Northeastern,4:30 P.M.,,0
-2026-09-23,149811,FINAL,Marblehead,4231,19,1,Beverly,4038,42,0,Northeastern,Northeastern,4:00 P.M.,,0
+2026-09-23,149783,FINAL,Danvers,4103,17.0,1.0,Swampscott,4383,45.0,0.0,Northeastern,Northeastern,4:30 P.M.,,0
+2026-09-23,149811,FINAL,Marblehead,4231,19.0,1.0,Beverly,4038,42.0,0.0,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-23,149851,UPCOMING,Peabody,4306,,,Masconomet,4236,,,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-23,149880,UPCOMING,Saugus,4341,,,Salem,4336,,,Northeastern,Northeastern,4:00 P.M.,,0
 2026-09-23,149893,UPCOMING,Winthrop,4437,,,Salem,4336,,,Northeastern,Northeastern,4:00 P.M.,,0
-2026-09-23,150024,FINAL,Hopkinton,4180,24,1,Ashland,4015,35,0,Tri-Valley,Tri-Valley,4:00 P.M.,,0
-2026-09-23,151344,FINAL,Chelmsford,4085,42,0,Andover,4009,16,1,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
-2026-09-23,151346,FINAL,Billerica,4040,21,1,Methuen,4246,40,0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
-2026-09-23,151349,FINAL,Lawrence,4203,43,0,Central Catholic,4081,20,1,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
-2026-09-23,151352,FINAL,North Andover,4283,15,1,Tewksbury,4389,47,0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
-2026-09-23,151355,FINAL,Lowell,4216,15,1,Haverhill,4167,46,0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
-2026-09-23,151368,FINAL,Holliston,4174,15,1,Norwood,4297,50,0,Tri-Valley,Tri-Valley,5:00 P.M.,,0
+2026-09-23,150024,FINAL,Hopkinton,4180,24.0,1.0,Ashland,4015,35.0,0.0,Tri-Valley,Tri-Valley,4:00 P.M.,,0
+2026-09-23,151344,FINAL,Chelmsford,4085,42.0,0.0,Andover,4009,16.0,1.0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
+2026-09-23,151346,FINAL,Billerica,4040,21.0,1.0,Methuen,4246,40.0,0.0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
+2026-09-23,151349,FINAL,Lawrence,4203,43.0,0.0,Central Catholic,4081,20.0,1.0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
+2026-09-23,151352,FINAL,North Andover,4283,15.0,1.0,Tewksbury,4389,47.0,0.0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
+2026-09-23,151355,FINAL,Lowell,4216,15.0,1.0,Haverhill,4167,46.0,0.0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
+2026-09-23,151368,FINAL,Holliston,4174,15.0,1.0,Norwood,4297,50.0,0.0,Tri-Valley,Tri-Valley,5:00 P.M.,,0
 2026-09-23,151376,UPCOMING,Dedham,4108,,,Millis,4251,,,Tri-Valley,Tri-Valley,4:15 P.M.,,0
-2026-09-23,151384,FINAL,Dover-Sherborn,4118,18,1,Bellingham,4033,40,0,Tri-Valley,Tri-Valley,4:00 P.M.,,0
-2026-09-23,151386,FINAL,Norton,4295,32,0,Medway,4243,24,1,Tri-Valley,Tri-Valley,3:45 P.M.,,0
-2026-09-23,151747,FINAL,Wheeler (R.I.),4426,15,1,Beaver Country Day,4030,46,0,EIL,EIL,,,0
-2026-09-23,151750,FINAL,Portsmouth Abbey,4320,15,1,Beaver Country Day,4030,50,0,EIL,EIL,,,0
-2026-09-23,151890,FINAL,Bancroft,4023,18,1,Landmark,4200,42,0,EIL,MBIL,,,0
-2026-09-23,151893,FINAL,Bancroft,4023,22,1,Pingree,4312,37,0,EIL,EIL,,,0
-2026-09-23,151894,FINAL,Pingree,4312,30,0,Landmark,4200,25,1,EIL,MBIL,,,0
+2026-09-23,151384,FINAL,Dover-Sherborn,4118,18.0,1.0,Bellingham,4033,40.0,0.0,Tri-Valley,Tri-Valley,4:00 P.M.,,0
+2026-09-23,151386,FINAL,Norton,4295,32.0,0.0,Medway,4243,24.0,1.0,Tri-Valley,Tri-Valley,3:45 P.M.,,0
+2026-09-23,151747,FINAL,Wheeler (R.I.),4426,15.0,1.0,Beaver Country Day,4030,46.0,0.0,EIL,EIL,,,0
+2026-09-23,151750,FINAL,Portsmouth Abbey,4320,15.0,1.0,Beaver Country Day,4030,50.0,0.0,EIL,EIL,,,0
+2026-09-23,151890,FINAL,Bancroft,4023,18.0,1.0,Landmark,4200,42.0,0.0,EIL,MBIL,,,0
+2026-09-23,151893,FINAL,Bancroft,4023,22.0,1.0,Pingree,4312,37.0,0.0,EIL,EIL,,,0
+2026-09-23,151894,FINAL,Pingree,4312,30.0,0.0,Landmark,4200,25.0,1.0,EIL,MBIL,,,0
 2026-09-24,149713,FINAL,Lynn Classical,4220,50,0,Somerville,4351,15,1,Greater Boston,Greater Boston,4:00 P.M.,,0
 2026-09-26,152015,FINAL,Nobles,4282,15,1,BB&N,4028,50,0,ISL,ISL,,,0
 2026-09-26,152017,FINAL,Nobles,4282,15,1,St. Mark’s,4372,50,0,ISL,ISL,,,0
@@ -284,6 +284,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-30,152435,FINAL,Lexington Christian,4210,21,1,Landmark,4200,38,0,EIL,MBIL,,,0
 2026-10-01,152112,UPCOMING,Whitman-Hanson,4427,,,Hingham,4171,,,Patriot,Patriot,4:00 P.M.,,0
 2026-10-01,152311,UPCOMING,Taunton,4388,,,Sharon,4345,,,Hockomock,Hockomock,4:00 P.M.,,0
+2026-10-03,152719,FINAL,Marianapolis,4567,30,1,Beaver Country Day,4030,55,0,Independent,EIL,,,0
+2026-10-03,152721,FINAL,Marianapolis,4567,62,0,Worcester Academy,4441,30,1,Independent,Independent,,,0
+2026-10-03,152722,FINAL,Marianapolis,4567,30,1,Wilbraham & Monson,4545,72,0,Independent,Independent,,,0
+2026-10-03,152725,FINAL,Beaver Country Day,4030,55,1,Worcester Academy,4441,62,0,EIL,Independent,,,0
+2026-10-03,152728,FINAL,Beaver Country Day,4030,55,1,Wilbraham & Monson,4545,72,0,EIL,Independent,,,0
+2026-10-03,152729,FINAL,Worcester Academy,4441,62,1,Wilbraham & Monson,4545,72,0,Independent,Independent,,,0
 2026-10-05,148567,UPCOMING,Archbishop Williams,4012,,,Cardinal Spellman,4075,,,Catholic Central,Catholic Central,4:00 P.M.,,0
 2026-10-06,147938,UPCOMING,Sandwich,4340,,,Nauset,4271,,,Cape & Islands,Cape & Islands,4:30 P.M.,,0
 2026-10-06,147958,UPCOMING,Martha’s Vineyard,4235,,,Dennis-Yarmouth,4111,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
@@ -343,3 +349,20 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-13,149945,UPCOMING,Middleborough,4247,,,Mashpee,4237,,,South Shore,South Shore,4:00 P.M.,,0
 2026-10-13,149966,UPCOMING,Cohasset,4094,,,Norwell,4296,,,South Shore,South Shore,4:00 P.M.,,0
 2026-10-13,149974,UPCOMING,Rockland,4331,,,Abington,4002,,,South Shore,South Shore,4:00 P.M.,,0
+2026-10-14,144097,UPCOMING,Needham,4272,,,Milton,4252,,,Bay State,Bay State,4:00 P.M.,,0
+2026-10-14,144098,UPCOMING,Walpole,4404,,,Milton,4252,,,Bay State,Bay State,4:00 P.M.,,0
+2026-10-14,144099,UPCOMING,Walpole,4404,,,Needham,4272,,,Bay State,Bay State,4:00 P.M.,,0
+2026-10-14,147896,UPCOMING,Brockton,4058,,,New Bedford,4273,,,Big Three,Big Three,4:00 P.M.,,0
+2026-10-14,148342,UPCOMING,Manchester Essex/Rockport,4229,,,Hamilton-Wenham,4163,,,Cape Ann,Cape Ann,3:30 P.M.,,0
+2026-10-14,148363,UPCOMING,Lynnfield,4223,,,Newburyport,4276,,,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-10-14,148378,UPCOMING,North Reading,4288,,,Pentucket,4309,,,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-10-14,148460,UPCOMING,Ipswich,4190,,,Amesbury,4007,,,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-10-14,149014,UPCOMING,Chelsea,4086,,,Medford,4242,,,Greater Boston,Greater Boston,4:00 P.M.,,0
+2026-10-14,149042,UPCOMING,Somerville,4351,,,Everett,4132,,,Greater Boston,Greater Boston,4:00 P.M.,,0
+2026-10-14,149717,UPCOMING,Lynn Classical,4220,,,Lynn English,4221,,,Greater Boston,Greater Boston,4:00 P.M.,,0
+2026-10-14,149750,UPCOMING,Malden,4227,,,Revere,4329,,,Greater Boston,Greater Boston,4:00 P.M.,,0
+2026-10-14,149787,UPCOMING,Danvers,4103,,,Peabody,4306,,,Northeastern,Northeastern,4:00 P.M.,,0
+2026-10-14,149815,UPCOMING,Beverly,4038,,,Swampscott,4383,,,Northeastern,Northeastern,4:00 P.M.,,0
+2026-10-14,149836,UPCOMING,Saugus,4341,,,Marblehead,4231,,,Northeastern,Northeastern,4:00 P.M.,,0
+2026-10-14,149853,UPCOMING,Masconomet,4236,,,Salem,4336,,,Northeastern,Northeastern,4:00 P.M.,,0
+2026-10-14,150029,UPCOMING,Medfield,4241,,,Ashland,4015,,,Tri-Valley,Tri-Valley,4:30 P.M.,,0

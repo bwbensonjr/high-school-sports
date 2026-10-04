@@ -1,6 +1,6 @@
 # Boys Lacrosse - 2026 Season
 
-Generated: 2026-10-03 15:02
+Generated: 2026-10-04 15:38
 
 ## Upcoming Games
 
@@ -156,9 +156,9 @@ Generated: 2026-10-03 15:02
 | 138 | Landmark | 1501.3 |
 | 139 | Everett | 1500.0 |
 | 140 | St. Anthony’s (N.Y.) | 1500.0 |
-| 141 | Mashpee | 1500.0 |
+| 141 | Bourne | 1500.0 |
 | 142 | Latin Academy | 1500.0 |
-| 143 | Bourne | 1500.0 |
+| 143 | Mashpee | 1500.0 |
 | 144 | West Springfield | 1499.6 |
 | 145 | North Andover | 1496.9 |
 | 146 | Bancroft | 1496.5 |

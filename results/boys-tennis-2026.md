@@ -1,6 +1,6 @@
 # Boys Tennis - 2026 Season
 
-Generated: 2026-10-03 15:02
+Generated: 2026-10-04 15:38
 
 ## Upcoming Games
 
@@ -136,8 +136,8 @@ Generated: 2026-10-03 15:02
 | 118 | Chelmsford | 1501.4 |
 | 119 | Pittsfield | 1500.0 |
 | 120 | Fellowship Christian | 1500.0 |
-| 121 | Greater Lowell | 1500.0 |
-| 122 | Greater Lawrence | 1500.0 |
+| 121 | Greater Lawrence | 1500.0 |
+| 122 | Greater Lowell | 1500.0 |
 | 123 | Ashland | 1499.7 |
 | 124 | Chicopee | 1498.1 |
 | 125 | Austin Prep | 1496.9 |
@@ -152,8 +152,8 @@ Generated: 2026-10-03 15:02
 | 134 | Brooks | 1492.1 |
 | 135 | Brookline | 1491.7 |
 | 136 | Beaver Country Day | 1491.7 |
-| 137 | Agawam | 1491.1 |
-| 138 | Governor’s Academy | 1491.1 |
+| 137 | Governor’s Academy | 1491.1 |
+| 138 | Agawam | 1491.1 |
 | 139 | Worcester South | 1489.3 |
 | 140 | Millbury | 1489.0 |
 | 141 | Quaboag | 1488.5 |
