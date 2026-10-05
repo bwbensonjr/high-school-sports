@@ -1,6 +1,6 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-10-04 15:38
+Generated: 2026-10-05 19:30
 
 ## Upcoming Games
 
@@ -61,20 +61,21 @@ Generated: 2026-10-04 15:38
 | 2026-10-13 | 4:00 P.M. | Falmouth | Martha’s Vineyard | 43.8% | -4.4 |
 | 2026-10-13 | 4:00 P.M. | Dennis-Yarmouth | Nauset | 60.8% | +7.6 |
 | 2026-10-13 | 4:00 P.M. | Bishop Fenwick | Bishop Stang | 31.4% | -13.6 |
+| 2026-10-14 | 4:00 P.M. | Masconomet | Salem | 46.6% | -2.4 |
 | 2026-10-14 | 4:00 P.M. | Saugus | Marblehead | 75.7% | +19.7 |
 | 2026-10-14 | 4:00 P.M. | Beverly | Swampscott | 70.1% | +14.8 |
 | 2026-10-14 | 4:00 P.M. | Peabody | Danvers | 72.2% | +16.6 |
 | 2026-10-14 | 4:00 P.M. | Malden | Revere | 51.7% | +1.2 |
 | 2026-10-14 | 4:00 P.M. | Lynn Classical | Lynn English | 63.9% | +9.9 |
-| 2026-10-14 | 4:00 P.M. | Somerville | Everett | 31.1% | -13.8 |
-| 2026-10-14 | 4:00 P.M. | North Reading | Pentucket | 45.1% | -3.4 |
 | 2026-10-14 | 4:00 P.M. | Ipswich | Amesbury | 76.7% | +20.7 |
+| 2026-10-14 | 4:00 P.M. | Chelsea | Medford | 73.7% | +17.9 |
+| 2026-10-14 | 4:00 P.M. | North Reading | Pentucket | 45.1% | -3.4 |
 | 2026-10-14 | 4:00 P.M. | Lynnfield | Newburyport | 74.4% | +18.5 |
 | 2026-10-14 | 3:30 P.M. | Manchester Essex/Rockport | Hamilton-Wenham | 68.8% | +13.8 |
 | 2026-10-14 | 4:00 P.M. | Brockton | New Bedford | 67.9% | +13.0 |
-| 2026-10-14 | 4:00 P.M. | Masconomet | Salem | 46.6% | -2.4 |
-| 2026-10-14 | 4:00 P.M. | Chelsea | Medford | 73.7% | +17.9 |
 | 2026-10-14 | 4:30 P.M. | Medfield | Ashland | 51.4% | +1.0 |
+| 2026-10-14 | 4:00 P.M. | Somerville | Everett | 31.1% | -13.8 |
+| 2026-10-15 | 4:00 P.M. | Bishop Feehan | Archbishop Williams | 49.5% | -0.3 |
 
 ## Recent Games
 
@@ -241,8 +242,8 @@ Generated: 2026-10-04 15:38
 | 97 | Sizer | 1529.5 |
 | 98 | Bourne | 1529.3 |
 | 99 | Pingree | 1528.9 |
-| 100 | South Lancaster | 1528.7 |
-| 101 | Maynard | 1528.7 |
+| 100 | Maynard | 1528.7 |
+| 101 | South Lancaster | 1528.7 |
 | 102 | Shawsheen | 1527.9 |
 | 103 | Tahanto | 1527.8 |
 | 104 | Hanover | 1527.8 |
@@ -277,17 +278,17 @@ Generated: 2026-10-04 15:38
 | 133 | Dedham | 1505.2 |
 | 134 | North Reading | 1504.5 |
 | 135 | Westfield Tech | 1504.2 |
-| 136 | Longmeadow | 1502.8 |
-| 137 | Amherst-Pelham | 1502.8 |
-| 138 | Wachusett | 1502.8 |
-| 139 | Westfield | 1502.8 |
-| 140 | Notre Dame (Tyngsborough) | 1502.8 |
-| 141 | Waltham | 1502.8 |
-| 142 | Saugus | 1502.8 |
+| 136 | Waltham | 1502.8 |
+| 137 | Cape Cod Tech | 1502.8 |
+| 138 | Amherst-Pelham | 1502.8 |
+| 139 | Boston Latin | 1502.8 |
+| 140 | Minnechaug | 1502.8 |
+| 141 | Saugus | 1502.8 |
+| 142 | Longmeadow | 1502.8 |
 | 143 | Notre Dame (Worcester) | 1502.8 |
-| 144 | Minnechaug | 1502.8 |
-| 145 | Boston Latin | 1502.8 |
-| 146 | Cape Cod Tech | 1502.8 |
+| 144 | Wachusett | 1502.8 |
+| 145 | Westfield | 1502.8 |
+| 146 | Notre Dame (Tyngsborough) | 1502.8 |
 | 147 | Winthrop | 1499.9 |
 | 148 | Bristol-Plymouth | 1499.4 |
 | 149 | Hopkinton | 1498.9 |
@@ -313,8 +314,8 @@ Generated: 2026-10-04 15:38
 | 169 | King Philip | 1480.2 |
 | 170 | Milton Academy | 1479.0 |
 | 171 | South Shore Voc-Tech | 1477.7 |
-| 172 | Clinton | 1476.8 |
-| 173 | Ayer Shirley | 1476.8 |
+| 172 | Ayer Shirley | 1476.8 |
+| 173 | Clinton | 1476.8 |
 | 174 | Blackstone Valley | 1476.6 |
 | 175 | Notre Dame Academy-Worcester | 1475.4 |
 | 176 | Hampshire | 1475.2 |

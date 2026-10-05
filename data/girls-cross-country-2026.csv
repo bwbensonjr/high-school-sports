@@ -205,7 +205,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-23,151805,FINAL,Walpole,4404,15.0,1.0,Framingham,4143,50.0,0.0,Bay State,Bay State,,,0
 2026-09-23,151810,FINAL,Greater Lowell,4155,15.0,1.0,Shawsheen,4346,46.0,0.0,Commonwealth,Commonwealth,,,0
 2026-09-23,151888,FINAL,Pingree,4312,35.0,0.0,Winsor,4436,20.0,1.0,EIL,EIL,,,0
-2026-09-24,149722,FINAL,Lynn Classical,4220,50,0,Somerville,4351,15,1,Greater Boston,Greater Boston,4:00 P.M.,,0
+2026-09-24,149722,FINAL,Lynn Classical,4220,50.0,0.0,Somerville,4351,15.0,1.0,Greater Boston,Greater Boston,4:00 P.M.,,0
 2026-09-29,147948,UPCOMING,Martha’s Vineyard,4235,,,Nauset,4271,,,Cape & Islands,Cape & Islands,3:00 P.M.,,0
 2026-09-29,147969,UPCOMING,Dennis-Yarmouth,4111,,,Nantucket,4265,,,Cape & Islands,Cape & Islands,3:30 P.M.,,0
 2026-09-29,147985,UPCOMING,Falmouth,4134,,,Sandwich,4340,,,Cape & Islands,Cape & Islands,3:30 P.M.,,0
@@ -349,3 +349,4 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-14,149844,UPCOMING,Saugus,4341,,,Marblehead,4231,,,Northeastern,Northeastern,4:00 P.M.,,0
 2026-10-14,149861,UPCOMING,Masconomet,4236,,,Salem,4336,,,Northeastern,Northeastern,4:00 P.M.,,0
 2026-10-14,150055,UPCOMING,Medfield,4241,,,Ashland,4015,,,Tri-Valley,Tri-Valley,4:30 P.M.,,0
+2026-10-15,148577,UPCOMING,Bishop Feehan,4042,,,Archbishop Williams,4012,,,Catholic Central,Catholic Central,4:00 P.M.,,0
