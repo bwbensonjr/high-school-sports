@@ -243,7 +243,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-30,148337,FINAL,Amesbury,4007,25,1,Hamilton-Wenham,4163,34,0,Cape Ann,Cape Ann,4:00 P.M.,,0
 2026-09-30,148361,FINAL,Newburyport,4276,15,1,North Reading,4288,50,0,Cape Ann,Cape Ann,4:00 P.M.,,0
 2026-09-30,148377,UPCOMING,Pentucket,4309,,,Essex Tech,4745,,,Cape Ann,Cape Ann,4:00 P.M.,,0
-2026-09-30,148464,FINAL,Georgetown,4148,44,0,Manchester Essex/Rockport,4229,15,1,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-09-30,148464,FINAL,Georgetown,4148,44,0,ME/Rockport,4229,15,1,Cape Ann,Cape Ann,4:00 P.M.,,0
 2026-09-30,148889,FINAL,Newton South,4280,43,0,Concord-Carlisle,4097,20,1,Dual County,Dual County,4:30 P.M.,,0
 2026-09-30,148913,FINAL,Westford,4421,31,0,Acton-Boxborough,4003,26,1,Dual County,Dual County,4:00 P.M.,,0
 2026-09-30,148925,FINAL,Lincoln-Sudbury,4211,44,0,Cambridge,4067,14,1,Dual County,Dual County,4:30 P.M.,,0
@@ -290,7 +290,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-03,152725,FINAL,Beaver Country Day,4030,55,1,Worcester Academy,4441,62,0,EIL,Independent,,,0
 2026-10-03,152728,FINAL,Beaver Country Day,4030,55,1,Wilbraham & Monson,4545,72,0,EIL,Independent,,,0
 2026-10-03,152729,FINAL,Worcester Academy,4441,62,1,Wilbraham & Monson,4545,72,0,Independent,Independent,,,0
-2026-10-05,148567,UPCOMING,Archbishop Williams,4012,,,Cardinal Spellman,4075,,,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-10-05,148567,FINAL,Archbishop Williams,4012,15,1,Cardinal Spellman,4075,50,0,Catholic Central,Catholic Central,4:00 P.M.,,0
 2026-10-06,147938,UPCOMING,Sandwich,4340,,,Nauset,4271,,,Cape & Islands,Cape & Islands,4:30 P.M.,,0
 2026-10-06,147958,UPCOMING,Martha’s Vineyard,4235,,,Dennis-Yarmouth,4111,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-10-06,147978,UPCOMING,Nantucket,4265,,,Falmouth,4134,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
@@ -307,6 +307,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-06,149943,UPCOMING,Rockland,4331,,,Middleborough,4247,,,South Shore,South Shore,4:00 P.M.,,0
 2026-10-06,149989,UPCOMING,Cohasset,4094,,,Abington,4002,,,South Shore,South Shore,4:00 P.M.,,0
 2026-10-06,149996,UPCOMING,Carver,4077,,,Mashpee,4237,,,South Shore,South Shore,4:00 P.M.,,0
+2026-10-06,152795,UPCOMING,Arlington,4013,,,Belmont,4034,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-10-06,152803,UPCOMING,Lexington,4209,,,Reading,4328,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-10-06,152804,UPCOMING,Woburn,4438,,,Winchester,4434,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-10-06,152810,UPCOMING,Wilmington,4432,,,Melrose,4244,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-10-06,152811,UPCOMING,Watertown,4409,,,Burlington,4065,,,Middlesex,Middlesex,4:00 P.M.,,0
+2026-10-06,152815,UPCOMING,Watertown,4409,,,Wakefield,4402,,,Middlesex,Middlesex,4:00 P.M.,,0
 2026-10-07,136623,UPCOMING,Needham,4272,,,Framingham,4143,,,Bay State,Bay State,4:30 P.M.,,0
 2026-10-07,136627,UPCOMING,Newton North,4279,,,Framingham,4143,,,Bay State,Bay State,4:30 P.M.,,0
 2026-10-07,136645,UPCOMING,Walpole,4404,,,Braintree,4051,,,Bay State,Bay State,4:00 P.M.,,0
@@ -315,7 +321,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-07,147894,UPCOMING,Durfee,4122,,,Brockton,4058,,,Big Three,Big Three,4:00 P.M.,,0
 2026-10-07,148338,UPCOMING,Triton,4395,,,Hamilton-Wenham,4163,,,Cape Ann,Cape Ann,3:30 P.M.,,0
 2026-10-07,148362,UPCOMING,Essex Tech,4745,,,Newburyport,4276,,,Cape Ann,Cape Ann,4:00 P.M.,,0
-2026-10-07,148459,UPCOMING,Manchester Essex/Rockport,4229,,,Amesbury,4007,,,Cape Ann,Cape Ann,3:30 P.M.,,0
+2026-10-07,148459,UPCOMING,ME/Rockport,4229,,,Amesbury,4007,,,Cape Ann,Cape Ann,3:30 P.M.,,0
 2026-10-07,148467,UPCOMING,Georgetown,4148,,,Ipswich,4190,,,Cape Ann,Cape Ann,4:00 P.M.,,0
 2026-10-07,148474,UPCOMING,Lynnfield,4223,,,North Reading,4288,,,Cape Ann,Cape Ann,3:45 P.M.,,0
 2026-10-07,148892,UPCOMING,Concord-Carlisle,4097,,,Acton-Boxborough,4003,,,Dual County,Dual County,4:15 P.M.,,0
@@ -353,7 +359,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-14,144098,UPCOMING,Walpole,4404,,,Milton,4252,,,Bay State,Bay State,4:00 P.M.,,0
 2026-10-14,144099,UPCOMING,Walpole,4404,,,Needham,4272,,,Bay State,Bay State,4:00 P.M.,,0
 2026-10-14,147896,UPCOMING,Brockton,4058,,,New Bedford,4273,,,Big Three,Big Three,4:00 P.M.,,0
-2026-10-14,148342,UPCOMING,Manchester Essex/Rockport,4229,,,Hamilton-Wenham,4163,,,Cape Ann,Cape Ann,3:30 P.M.,,0
+2026-10-14,148342,UPCOMING,ME/Rockport,4229,,,Hamilton-Wenham,4163,,,Cape Ann,Cape Ann,3:30 P.M.,,0
 2026-10-14,148363,UPCOMING,Lynnfield,4223,,,Newburyport,4276,,,Cape Ann,Cape Ann,4:00 P.M.,,0
 2026-10-14,148378,UPCOMING,North Reading,4288,,,Pentucket,4309,,,Cape Ann,Cape Ann,4:00 P.M.,,0
 2026-10-14,148460,UPCOMING,Ipswich,4190,,,Amesbury,4007,,,Cape Ann,Cape Ann,4:00 P.M.,,0
