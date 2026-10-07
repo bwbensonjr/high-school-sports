@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-10-06 17:02
+Generated: 2026-10-07 17:39
 
 ## Upcoming Games
 
@@ -11,30 +11,29 @@ Generated: 2026-10-06 17:02
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-10-06 | Chelmsford | 102 | North Andover | 83 | +8.9 | +19.0 |
 | 2026-10-02 | Chelmsford | 98 | Methuen/Tewksbury | 83 | +11.6 | +15.0 |
 | 2026-10-02 | Needham | 84 | Newton North | 96 | +0.5 | -12.0 |
 | 2026-10-02 | Billerica | 89 | Andover | 97 | -21.7 | -8.0 |
 | 2026-09-30 | Notre Dame (Hingham) | 102 | Walpole | 56 | +36.2 | +46.0 |
-| 2026-09-29 | Braintree | 52 | Newton North | 97 | -12.3 | -45.0 |
-| 2026-09-29 | Wakefield | 69 | Chelmsford | 99 | -7.3 | -30.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Seekonk | 1719.3 |
-| 2 | Nantucket | 1695.1 |
-| 3 | Andover | 1680.0 |
-| 4 | Chelmsford | 1661.6 |
+| 2 | Chelmsford | 1695.2 |
+| 3 | Nantucket | 1695.1 |
+| 4 | Andover | 1680.0 |
 | 5 | Notre Dame (Hingham) | 1660.1 |
 | 6 | Milton | 1633.9 |
-| 7 | North Andover | 1622.4 |
-| 8 | Westwood | 1620.6 |
-| 9 | Nashoba | 1617.7 |
-| 10 | Newton North | 1617.1 |
-| 11 | Wellesley | 1610.6 |
-| 12 | Hingham | 1600.5 |
-| 13 | Taunton | 1589.3 |
+| 7 | Westwood | 1620.6 |
+| 8 | Nashoba | 1617.7 |
+| 9 | Newton North | 1617.1 |
+| 10 | Wellesley | 1610.6 |
+| 11 | Hingham | 1600.5 |
+| 12 | Taunton | 1589.3 |
+| 13 | North Andover | 1588.8 |
 | 14 | Concord-Carlisle | 1587.2 |
 | 15 | Hopkinton | 1580.7 |
 | 16 | Brookline | 1574.0 |
