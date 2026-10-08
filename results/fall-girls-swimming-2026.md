@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-10-07 17:39
+Generated: 2026-10-08 17:41
 
 ## Upcoming Games
 
@@ -15,7 +15,6 @@ Generated: 2026-10-07 17:39
 | 2026-10-02 | Chelmsford | 98 | Methuen/Tewksbury | 83 | +11.6 | +15.0 |
 | 2026-10-02 | Needham | 84 | Newton North | 96 | +0.5 | -12.0 |
 | 2026-10-02 | Billerica | 89 | Andover | 97 | -21.7 | -8.0 |
-| 2026-09-30 | Notre Dame (Hingham) | 102 | Walpole | 56 | +36.2 | +46.0 |
 
 ## Current Elo Ratings
 

@@ -1,6 +1,6 @@
 # Football - 2026 Season
 
-Generated: 2026-10-07 17:39
+Generated: 2026-10-08 17:41
 
 ## Upcoming Games
 
@@ -297,7 +297,7 @@ Generated: 2026-10-07 17:39
 | 2026-10-03 | St. John’s Prep | 60 | La Salle (R.I.) | 35 | +27.2 | +25.0 |
 | 2026-10-03 | Stoughton | 6 | Franklin | 43 | -25.7 | -37.0 |
 | 2026-10-03 | Quincy | 34 | New Bedford | 8 | +12.2 | +26.0 |
-| 2026-10-03 | Diman | 0 | Blue Hills | 6 | +18.9 | -6.0 |
+| 2026-10-03 | Westborough | 6 | Doherty | 20 | +3.1 | -14.0 |
 | 2026-10-03 | Amherst-Pelham | 37 | Agawam | 14 | +21.4 | +23.0 |
 | 2026-10-03 | Medway | 14 | Westwood | 16 | +9.3 | -2.0 |
 | 2026-10-03 | Monty Tech | 12 | Nipmuc/Hopedale | 36 | -13.6 | -24.0 |
@@ -306,22 +306,22 @@ Generated: 2026-10-07 17:39
 | 2026-10-03 | Chicopee | 14 | Springfield International | 47 | +2.4 | -33.0 |
 | 2026-10-03 | Maynard/AMSA | 27 | Oakmont | 28 | -16.2 | -1.0 |
 | 2026-10-03 | Upper Cape | 10 | Wareham | 26 | +9.5 | -16.0 |
-| 2026-10-03 | Westborough | 6 | Doherty | 20 | +3.1 | -14.0 |
+| 2026-10-03 | Diman | 0 | Blue Hills | 6 | +18.9 | -6.0 |
 | 2026-10-03 | Worcester North | 8 | Bartlett | 40 | +8.9 | -32.0 |
 | 2026-10-03 | Pingree | 55 | Capital Prep (Conn.) | 6 | +16.1 | +49.0 |
 | 2026-10-03 | Beverly | 7 | Peabody | 14 | -0.6 | -7.0 |
 | 2026-10-03 | Avon Old Farms | 35 | BB&N | 45 | +3.5 | -10.0 |
-| 2026-10-03 | St. George’s | 7 | Lawrence Academy | 27 | -6.1 | -20.0 |
 | 2026-10-03 | Dexter Southfield | 6 | Taft | 10 | +7.9 | -4.0 |
 | 2026-10-03 | Austin Prep | 0 | Greenwich CD (Conn.) | 38 | -5.5 | -38.0 |
-| 2026-10-03 | Phillips Andover | 30 | Salisbury (Conn.) | 21 | -1.9 | +9.0 |
+| 2026-10-03 | St. George’s | 7 | Lawrence Academy | 27 | -6.1 | -20.0 |
 | 2026-10-03 | Thayer | 20 | Brooks | 21 | +1.3 | -1.0 |
 | 2026-10-03 | Milton Academy | 14 | Tabor | 28 | +1.6 | -14.0 |
 | 2026-10-03 | Groton | 14 | Roxbury Latin | 17 | -7.1 | -3.0 |
 | 2026-10-03 | St. Mark’s | 40 | Rivers | 22 | +1.8 | +18.0 |
 | 2026-10-03 | St. Sebastian’s | 21 | Belmont Hill | 3 | +4.7 | +18.0 |
-| 2026-10-02 | Fairhaven | 22 | West Bridgewater | 13 | +26.0 | +9.0 |
+| 2026-10-02 | Lowell Catholic | 50 | Holbrook / Avon | 12 | +26.6 | +38.0 |
 | 2026-10-02 | Dighton-Rehoboth/Bristol Aggie | 7 | Norton | 12 | -11.8 | -5.0 |
+| 2026-10-02 | Fairhaven | 22 | West Bridgewater | 13 | +26.0 | +9.0 |
 | 2026-10-02 | Holyoke | 6 | Lee | 50 | -22.9 | -44.0 |
 | 2026-10-02 | Carver | 0 | Mashpee | 26 | -19.2 | -26.0 |
 | 2026-10-02 | Greenfield | 12 | Easthampton | 30 | -14.1 | -18.0 |
@@ -329,30 +329,31 @@ Generated: 2026-10-07 17:39
 | 2026-10-02 | Salem | 14 | Swampscott | 52 | -14.0 | -38.0 |
 | 2026-10-02 | Monument Mtn. | 8 | Belchertown | 37 | -18.0 | -29.0 |
 | 2026-10-02 | Cambridge | 0 | Weston | 21 | +4.3 | -21.0 |
-| 2026-10-02 | Triton/Ipswich | 21 | Hamilton-Wenham | 0 | -7.9 | +21.0 |
+| 2026-10-02 | Auburn | 39 | Leicester | 14 | +16.2 | +25.0 |
 | 2026-10-02 | Lunenburg | 14 | Tyngsborough | 44 | -22.8 | -30.0 |
 | 2026-10-02 | Nantucket | 13 | Falmouth | 14 | +22.4 | -1.0 |
 | 2026-10-02 | Manchester Essex | 8 | Amesbury | 46 | -27.5 | -38.0 |
 | 2026-10-02 | Watertown | 14 | Stoneham | 0 | +3.3 | +14.0 |
 | 2026-10-02 | Gloucester | 28 | Winthrop | 7 | +10.9 | +21.0 |
-| 2026-10-02 | Auburn | 39 | Leicester | 14 | +16.2 | +25.0 |
+| 2026-10-02 | Triton/Ipswich | 21 | Hamilton-Wenham | 0 | -7.9 | +21.0 |
 | 2026-10-02 | Pembroke | 6 | Hanover | 15 | +11.6 | -9.0 |
 | 2026-10-02 | Bay Path | 21 | Northbridge | 20 | -2.8 | +1.0 |
-| 2026-10-02 | St. Bernard's | 37 | Blackstone-Millville | 7 | +10.4 | +30.0 |
-| 2026-10-02 | Lowell Catholic | 50 | Holbrook / Avon | 12 | +26.6 | +38.0 |
-| 2026-10-02 | Murdock | 26 | David Prouty | 14 | +12.0 | +12.0 |
 | 2026-10-02 | Monomoy/JP II | 0 | Lynn Tech | 35 | -11.5 | -35.0 |
-| 2026-10-02 | Cathedral | 18 | Cardinal Spellman | 6 | +21.4 | +12.0 |
+| 2026-10-02 | St. Bernard's | 37 | Blackstone-Millville | 7 | +10.4 | +30.0 |
+| 2026-10-02 | Murdock | 26 | David Prouty | 14 | +12.0 | +12.0 |
+| 2026-10-02 | Pentucket/Georgetown | 7 | North Reading | 21 | -11.7 | -14.0 |
+| 2026-10-02 | TechBoston | 0 | Lynn Classical | 42 | +16.2 | -42.0 |
 | 2026-10-02 | O'Bryant | 40 | Southbridge | 0 | +12.3 | +40.0 |
 | 2026-10-02 | Xaverian | 51 | Central Catholic | 52 | +23.4 | -1.0 |
+| 2026-10-02 | Phillips Andover | 30 | Salisbury (Conn.) | 21 | -1.9 | +9.0 |
 | 2026-10-02 | Nobles | 6 | Governor’s Academy | 20 | +22.4 | -14.0 |
 | 2026-10-02 | Sharon/Dedham | 21 | Nauset | 12 | +22.2 | +9.0 |
 | 2026-10-02 | Westford | 22 | Lincoln-Sudbury | 15 | +5.4 | +7.0 |
 | 2026-10-02 | Hull | 35 | Brighton | 7 | +27.9 | +28.0 |
 | 2026-10-02 | Old Rochester | 14 | Foxborough | 35 | +0.5 | -21.0 |
-| 2026-10-02 | TechBoston | 0 | Lynn Classical | 42 | +16.2 | -42.0 |
+| 2026-10-02 | Cathedral | 18 | Cardinal Spellman | 6 | +21.4 | +12.0 |
+| 2026-10-02 | Archbishop Williams | 28 | Bishop Fenwick | 14 | -8.1 | +14.0 |
 | 2026-10-02 | Quabbin | 0 | West Boylston | 41 | -6.1 | -41.0 |
-| 2026-10-02 | Pentucket/Georgetown | 7 | North Reading | 21 | -11.7 | -14.0 |
 | 2026-10-02 | Athol | 12 | Mahar | 21 | +2.3 | -9.0 |
 | 2026-10-02 | Joseph Case | 64 | Bourne | 0 | +9.2 | +64.0 |
 | 2026-10-02 | Frontier | 60 | Commerce | 0 | +31.1 | +60.0 |
@@ -360,7 +361,6 @@ Generated: 2026-10-07 17:39
 | 2026-10-02 | Ware | 28 | Franklin County Tech | 32 | -9.6 | -4.0 |
 | 2026-10-02 | Sandwich | 15 | Cape Cod Tech | 38 | -6.2 | -23.0 |
 | 2026-10-02 | Bishop Stang | 35 | Arlington Catholic | 12 | +19.9 | +23.0 |
-| 2026-10-02 | Archbishop Williams | 28 | Bishop Fenwick | 14 | -8.1 | +14.0 |
 | 2026-10-02 | Hudson | 34 | Clinton | 7 | +30.8 | +27.0 |
 | 2026-10-02 | Quaboag | 8 | Worcester Tech | 44 | -2.1 | -36.0 |
 | 2026-10-02 | Chelsea | 0 | Revere | 33 | -2.2 | -33.0 |

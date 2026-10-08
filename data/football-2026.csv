@@ -586,6 +586,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-02,130792,FINAL,Sharon/Dedham,4345,21,1,Nauset,4271,12,0,Independent,Cape & Islands,6:00 P.M.,,0
 2026-10-02,147892,UPCOMING,Xaverian,4446,,,Central Catholic,4081,,,Catholic Conference,Merrimack Valley,6:00 P.M.,,0
 2026-10-02,150721,FINAL,Nobles,4282,6,0,Governor’s Academy,4152,20,1,NEPSAC Class C,NEPSAC Class C,2:30 P.M.,,0
+2026-10-02,151650,FINAL,Phillips Andover,4310,30,1,Salisbury (Conn.),4339,21,0,NEPSAC Class A,NEPSAC Class A,5:00 P.M.,,0
 2026-10-02,152628,FINAL,Xaverian,4446,51,0,Central Catholic,4081,52,1,Catholic Conference,Merrimack Valley,6:00 P.M.,,0
 2026-10-02,152670,FINAL,O'Bryant,4298,40,1,Southbridge,4357,0,0,Boston City,CMAC,6:30 P.M.,,0
 2026-10-03,127499,FINAL,St. John’s Prep,4369,60,1,La Salle (R.I.),4201,35,0,Catholic Conference,Independent,1:00 P.M.,,0
@@ -613,7 +614,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-03,151614,FINAL,Pingree,4312,55,1,Capital Prep (Conn.),4819,6,0,NEPSAC Class C,Independent,3:00 P.M.,,0
 2026-10-03,151623,FINAL,Austin Prep,4020,0,0,Greenwich CD (Conn.),5041,38,1,NEPSAC Class C,NEPSAC Class C,3:00 P.M.,,0
 2026-10-03,151633,FINAL,Dexter Southfield,4113,6,0,Taft,4386,10,1,NEPSAC Class A,NEPSAC Class A,6:00 P.M.,,0
-2026-10-03,151650,FINAL,Phillips Andover,4310,30,1,Salisbury (Conn.),4339,21,0,NEPSAC Class A,NEPSAC Class A,5:00 P.M.,,0
 2026-10-03,151672,FINAL,St. George’s,4367,7,0,Lawrence Academy,4204,27,1,NEPSAC Class C,NEPSAC Class C,3:30 P.M.,,0
 2026-10-03,151804,FINAL,Avon Old Farms,4021,35,0,BB&N,4028,45,1,NEPSAC Class A,NEPSAC Class B,3:00 P.M.,,0
 2026-10-03,151923,FINAL,St. Paul’s,4375,27,0,Trinity-Pawling,4394,28,1,NEPSAC Class B,NEPSAC Class B,3:00 P.M.,1.0,0
