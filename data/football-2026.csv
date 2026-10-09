@@ -473,7 +473,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-26,151649,FINAL,Williston Northampton,4431,48.0,1.0,Phillips Andover,4310,28.0,0.0,NEPSAC Class A,NEPSAC Class A,4:00 P.M.,,0
 2026-09-26,151681,FINAL,St. Paul’s,4375,28.0,1.0,Belmont Hill,4035,3.0,0.0,NEPSAC Class B,NEPSAC Class B,3:00 P.M.,,0
 2026-09-27,129346,POSTPONED,Nashoba Valley Tech,4268,,,Nantucket,4265,,,Commonwealth,Cape & Islands,1:30 P.M.,,0
-2026-09-28,151611,FINAL,Austin Prep,4020,0,0,Pingree,4312,27,1,NEPSAC Class C,NEPSAC Class C,5:00 P.M.,,0
+2026-09-28,151611,FINAL,Austin Prep,4020,0.0,0.0,Pingree,4312,27.0,1.0,NEPSAC Class C,NEPSAC Class C,5:00 P.M.,,0
 2026-10-01,127510,FINAL,Brookline,4059,13,1,Hopkinton,4180,10,0,Bay State,Tri-Valley,6:30 P.M.,,0
 2026-10-01,127916,FINAL,Southeastern,4358,13,1,Tri-County,4392,6,0,Mayflower,Mayflower,6:00 P.M.,,0
 2026-10-01,128008,FINAL,Saugus,4341,0,0,Medford,4242,33,1,Northeastern,Greater Boston,6:00 P.M.,,0
@@ -617,14 +617,16 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-03,151672,FINAL,St. George’s,4367,7,0,Lawrence Academy,4204,27,1,NEPSAC Class C,NEPSAC Class C,3:30 P.M.,,0
 2026-10-03,151804,FINAL,Avon Old Farms,4021,35,0,BB&N,4028,45,1,NEPSAC Class A,NEPSAC Class B,3:00 P.M.,,0
 2026-10-03,151923,FINAL,St. Paul’s,4375,27,0,Trinity-Pawling,4394,28,1,NEPSAC Class B,NEPSAC Class B,3:00 P.M.,1.0,0
-2026-10-08,127465,UPCOMING,Lexington,4209,,,Woburn,4438,,,Middlesex,Middlesex,6:00 P.M.,,0
-2026-10-08,127560,UPCOMING,Framingham,4143,,,Wellesley,4413,,,Bay State,Bay State,6:00 P.M.,,0
-2026-10-08,127575,UPCOMING,Lawrence,4203,,,Andover,4009,,,Merrimack Valley,Merrimack Valley,6:00 P.M.,,0
-2026-10-08,127927,UPCOMING,Tri-County,4392,,,Diman,4115,,,Mayflower,Mayflower,7:00 P.M.,,0
-2026-10-08,127951,UPCOMING,Whittier,4428,,,Northeast,4293,,,Commonwealth,Commonwealth,6:00 P.M.,,0
-2026-10-08,128387,UPCOMING,Plymouth North,4315,,,Whitman-Hanson,4427,,,Patriot,Patriot,7:00 P.M.,,0
-2026-10-08,128551,UPCOMING,Putnam,4362,,,Amherst-Pelham,4008,,,Suburban,Suburban,6:00 P.M.,,0
-2026-10-08,129269,UPCOMING,Winthrop,4437,,,Saugus,4341,,,Northeastern,Northeastern,6:30 P.M.,,0
+2026-10-08,127465,FINAL,Lexington,4209,8,0,Woburn,4438,43,1,Middlesex,Middlesex,6:00 P.M.,,0
+2026-10-08,127560,FINAL,Framingham,4143,41,1,Wellesley,4413,20,0,Bay State,Bay State,6:00 P.M.,,0
+2026-10-08,127575,FINAL,Lawrence,4203,12,0,Andover,4009,50,1,Merrimack Valley,Merrimack Valley,6:00 P.M.,,0
+2026-10-08,127927,FINAL,Tri-County,4392,7,0,Diman,4115,20,1,Mayflower,Mayflower,7:00 P.M.,,0
+2026-10-08,127951,FINAL,Whittier,4428,8,0,Northeast,4293,20,1,Commonwealth,Commonwealth,6:00 P.M.,,0
+2026-10-08,128296,FINAL,West Springfield,4417,15,0,Westfield,4419,49,1,Suburban,AA,7:00 P.M.,,0
+2026-10-08,128387,FINAL,Plymouth North,4315,34,1,Whitman-Hanson,4427,19,0,Patriot,Patriot,7:00 P.M.,,0
+2026-10-08,128551,FINAL,Putnam,4362,20,0,Amherst-Pelham,4008,28,1,Suburban,Suburban,7:00 P.M.,,0
+2026-10-08,129200,FINAL,Bourne,4050,0,0,West Bridgewater,4415,41,1,South Coast,South Coast,6:30 P.M.,,0
+2026-10-08,129269,FINAL,Winthrop,4437,47,1,Saugus,4341,6,0,Northeastern,Northeastern,6:30 P.M.,,0
 2026-10-08,129513,POSTPONED,Millis,4251,,,Bellingham,4033,,,Tri-Valley,Tri-Valley,6:00 P.M.,,0
 2026-10-09,127444,UPCOMING,Taunton,4388,,,Brockton,4058,,,Hockomock,Big Three,6:00 P.M.,,0
 2026-10-09,127485,UPCOMING,St. John’s Prep,4369,,,BC High,4029,,,Catholic Conference,Catholic Conference,6:00 P.M.,,0
@@ -661,7 +663,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-09,128229,UPCOMING,Oliver Ames,4302,,,Mansfield,4230,,,Hockomock,Hockomock,6:00 P.M.,,0
 2026-10-09,128234,UPCOMING,Canton,4071,,,Foxborough,4142,,,Hockomock,Hockomock,6:00 P.M.,,0
 2026-10-09,128263,UPCOMING,Chicopee Comprehensive,4089,,,Wahconah,4401,,,AA,Suburban,7:00 P.M.,,0
-2026-10-09,128296,UPCOMING,West Springfield,4417,,,Westfield,4419,,,Suburban,AA,7:00 P.M.,,0
 2026-10-09,128306,UPCOMING,Norwich Free Academy,4652,,,Shepherd Hill,4347,,,Independent,Mid-Wach,6:30 P.M.,,0
 2026-10-09,128325,UPCOMING,Taconic,4385,,,Agawam,4004,,,Suburban,Suburban,6:00 P.M.,,0
 2026-10-09,128352,UPCOMING,Springfield International,4480,,,Northampton,4291,,,Independent,Suburban,7:00 P.M.,,0
@@ -709,7 +710,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-09,129116,UPCOMING,Narragansett,4266,,,Tyngsborough,4397,,,Mid-Wach,Mid-Wach,7:00 P.M.,,0
 2026-10-09,129161,UPCOMING,Easthampton,4130,,,Holyoke,4176,,,Intercounty,AA,6:00 P.M.,,0
 2026-10-09,129190,UPCOMING,Mashpee,4237,,,Randolph,4327,,,South Shore,South Shore,6:00 P.M.,,0
-2026-10-09,129200,UPCOMING,Bourne,4050,,,West Bridgewater,4415,,,South Coast,South Coast,6:30 P.M.,,0
 2026-10-09,129212,UPCOMING,Carver,4077,,,Monomoy/JP II,4706,,,South Shore,Cape & Islands,6:00 P.M.,,0
 2026-10-09,129223,UPCOMING,Frontier,4146,,,Chicopee,4088,,,Intercounty,Suburban,7:00 P.M.,,0
 2026-10-09,129231,UPCOMING,Lowell Catholic,4217,,,Lynn Tech,4222,,,Commonwealth,Commonwealth,7:00 P.M.,,0

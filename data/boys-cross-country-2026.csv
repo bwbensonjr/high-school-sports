@@ -295,7 +295,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-06,147958,UPCOMING,Martha’s Vineyard,4235,,,Dennis-Yarmouth,4111,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-10-06,147978,UPCOMING,Nantucket,4265,,,Falmouth,4134,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-10-06,148011,UPCOMING,Falmouth Academy,4135,,,Cape Cod Academy,4072,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
-2026-10-06,148269,UPCOMING,Sturgis East,4456,,,Monomoy,4706,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-10-06,148269,FINAL,Sturgis East,4456,42,0,Monomoy,4706,18,1,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-10-06,148309,FINAL,Sturgis West,4735,26,1,Rising Tide Charter,4746,32,0,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-10-06,148500,FINAL,BC High,4029,15,1,Catholic Memorial,4080,49,0,Catholic Conference,Catholic Conference,4:00 P.M.,,0
 2026-10-06,148510,FINAL,Malden Catholic,4228,44,0,Xaverian,4446,18,1,Catholic Conference,Catholic Conference,4:00 P.M.,,0
@@ -365,6 +365,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-07,153100,FINAL,Dracut,4119,28,0,Tewksbury,4389,27,1,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
 2026-10-07,153102,FINAL,Tewksbury,4389,49,0,Chelmsford,4085,15,1,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
 2026-10-07,153104,FINAL,Cambridge,4067,15,1,Acton-Boxborough,4003,48,0,Dual County,Dual County,4:00 P.M.,,0
+2026-10-07,153122,FINAL,Beaver Country Day,4030,41,0,Berwick,4037,16,1,EIL,EIL,,,0
+2026-10-07,153123,FINAL,Pingree,4312,27,1,Beaver Country Day,4030,30,0,EIL,EIL,,,0
+2026-10-07,153125,FINAL,Pingree,4312,36,0,Berwick,4037,23,1,EIL,EIL,,,0
+2026-10-07,153136,FINAL,North Andover,4283,15,1,Lawrence,4203,49,0,Merrimack Valley,Merrimack Valley,,,0
 2026-10-13,147940,UPCOMING,Dennis-Yarmouth,4111,,,Nauset,4271,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-10-13,147980,UPCOMING,Falmouth,4134,,,Martha’s Vineyard,4235,,,Cape & Islands,Cape & Islands,3:30 P.M.,,0
 2026-10-13,148002,UPCOMING,Nantucket,4265,,,Sandwich,4340,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0

@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-10-08 17:41
+Generated: 2026-10-09 17:17
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-10-08 17:41
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-10-08 | Andover | 95 | Boston Latin | 79 | +28.5 | +16.0 |
 | 2026-10-06 | Chelmsford | 102 | North Andover | 83 | +8.9 | +19.0 |
 | 2026-10-02 | Chelmsford | 98 | Methuen/Tewksbury | 83 | +11.6 | +15.0 |
 | 2026-10-02 | Needham | 84 | Newton North | 96 | +0.5 | -12.0 |
@@ -23,7 +24,7 @@ Generated: 2026-10-08 17:41
 | 1 | Seekonk | 1719.3 |
 | 2 | Chelmsford | 1695.2 |
 | 3 | Nantucket | 1695.1 |
-| 4 | Andover | 1680.0 |
+| 4 | Andover | 1693.8 |
 | 5 | Notre Dame (Hingham) | 1660.1 |
 | 6 | Milton | 1633.9 |
 | 7 | Westwood | 1620.6 |
@@ -90,10 +91,10 @@ Generated: 2026-10-08 17:41
 | 68 | Westford | 1450.8 |
 | 69 | Notre Dame (T)/Dracut | 1450.0 |
 | 70 | Lowell | 1449.9 |
-| 71 | Boston Latin | 1445.0 |
-| 72 | Central Catholic | 1442.3 |
-| 73 | Attleboro | 1441.8 |
-| 74 | Stoneham | 1432.1 |
+| 71 | Central Catholic | 1442.3 |
+| 72 | Attleboro | 1441.8 |
+| 73 | Stoneham | 1432.1 |
+| 74 | Boston Latin | 1431.2 |
 | 75 | Woburn | 1429.5 |
 | 76 | Wakefield | 1428.9 |
 | 77 | Medfield | 1428.6 |
