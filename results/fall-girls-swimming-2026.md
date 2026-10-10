@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-10-09 17:17
+Generated: 2026-10-10 16:05
 
 ## Upcoming Games
 
@@ -11,11 +11,9 @@ Generated: 2026-10-09 17:17
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-10-09 | Newton North | 96 | Natick | 85 | +19.8 | +11.0 |
 | 2026-10-08 | Andover | 95 | Boston Latin | 79 | +28.5 | +16.0 |
 | 2026-10-06 | Chelmsford | 102 | North Andover | 83 | +8.9 | +19.0 |
-| 2026-10-02 | Chelmsford | 98 | Methuen/Tewksbury | 83 | +11.6 | +15.0 |
-| 2026-10-02 | Needham | 84 | Newton North | 96 | +0.5 | -12.0 |
-| 2026-10-02 | Billerica | 89 | Andover | 97 | -21.7 | -8.0 |
 
 ## Current Elo Ratings
 
@@ -26,10 +24,10 @@ Generated: 2026-10-09 17:17
 | 3 | Nantucket | 1695.1 |
 | 4 | Andover | 1693.8 |
 | 5 | Notre Dame (Hingham) | 1660.1 |
-| 6 | Milton | 1633.9 |
-| 7 | Westwood | 1620.6 |
-| 8 | Nashoba | 1617.7 |
-| 9 | Newton North | 1617.1 |
+| 6 | Newton North | 1635.2 |
+| 7 | Milton | 1633.9 |
+| 8 | Westwood | 1620.6 |
+| 9 | Nashoba | 1617.7 |
 | 10 | Wellesley | 1610.6 |
 | 11 | Hingham | 1600.5 |
 | 12 | Taunton | 1589.3 |
@@ -78,15 +76,15 @@ Generated: 2026-10-09 17:17
 | 55 | Foxborough | 1475.0 |
 | 56 | Norton | 1472.0 |
 | 57 | Lincoln-Sudbury | 1470.2 |
-| 58 | Natick | 1469.6 |
-| 59 | Framingham | 1468.6 |
-| 60 | Newton South | 1465.6 |
-| 61 | Silver Lake/Whitman-Hanson | 1462.0 |
-| 62 | Norwell | 1461.0 |
-| 63 | Bishop Stang | 1459.3 |
-| 64 | North Quincy/Quincy | 1457.5 |
-| 65 | Haverhill | 1456.6 |
-| 66 | Bridgewater-Raynham | 1455.2 |
+| 58 | Framingham | 1468.6 |
+| 59 | Newton South | 1465.6 |
+| 60 | Silver Lake/Whitman-Hanson | 1462.0 |
+| 61 | Norwell | 1461.0 |
+| 62 | Bishop Stang | 1459.3 |
+| 63 | North Quincy/Quincy | 1457.5 |
+| 64 | Haverhill | 1456.6 |
+| 65 | Bridgewater-Raynham | 1455.2 |
+| 66 | Natick | 1451.5 |
 | 67 | Advanced Math and Science | 1451.5 |
 | 68 | Westford | 1450.8 |
 | 69 | Notre Dame (T)/Dracut | 1450.0 |
