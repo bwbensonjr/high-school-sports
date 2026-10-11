@@ -1,6 +1,6 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-10-10 16:05
+Generated: 2026-10-11 16:32
 
 ## Upcoming Games
 
@@ -23,20 +23,36 @@ Generated: 2026-10-10 16:05
 | 2026-10-14 | 4:30 P.M. | Medfield | Ashland | 54.4% | +3.0 |
 | 2026-10-14 | 4:00 P.M. | Masconomet | Salem | 46.6% | -2.4 |
 | 2026-10-14 | 4:00 P.M. | Saugus | Marblehead | 80.4% | +24.6 |
-| 2026-10-14 | 4:00 P.M. | Beverly | Swampscott | 70.1% | +14.8 |
 | 2026-10-14 | 4:00 P.M. | Peabody | Danvers | 66.3% | +11.8 |
 | 2026-10-14 | 4:00 P.M. | Lynn Classical | Lynn English | 63.9% | +9.9 |
-| 2026-10-14 | 4:00 P.M. | Lynnfield | Newburyport | 79.6% | +23.7 |
+| 2026-10-14 | 4:00 P.M. | Beverly | Swampscott | 70.1% | +14.8 |
 | 2026-10-14 | 4:00 P.M. | Chelsea | Medford | 72.4% | +16.7 |
 | 2026-10-14 | 4:00 P.M. | Ipswich | Amesbury | 73.1% | +17.3 |
 | 2026-10-14 | 4:00 P.M. | North Reading | Pentucket | 39.7% | -7.2 |
+| 2026-10-14 | 4:00 P.M. | Somerville | Everett | 29.7% | -15.0 |
+| 2026-10-14 | 4:00 P.M. | Lynnfield | Newburyport | 79.6% | +23.7 |
 | 2026-10-14 | 3:30 P.M. | ME/Rockport | Hamilton-Wenham | 81.3% | +25.5 |
 | 2026-10-14 | 4:00 P.M. | Brockton | New Bedford | 67.9% | +13.0 |
-| 2026-10-14 | 4:00 P.M. | Somerville | Everett | 29.7% | -15.0 |
 | 2026-10-15 | 4:00 P.M. | Bishop Feehan | Archbishop Williams | 44.7% | -3.7 |
-| 2026-10-20 | 4:00 P.M. | Middleborough | Abington | 55.4% | +3.8 |
-| 2026-10-20 | 4:00 P.M. | East Bridgewater | Cohasset | 55.5% | +3.8 |
 | 2026-10-20 | 4:00 P.M. | Carver | Rockland | 50.1% | +0.1 |
+| 2026-10-20 | 4:00 P.M. | East Bridgewater | Cohasset | 55.5% | +3.8 |
+| 2026-10-20 | 4:00 P.M. | Middleborough | Abington | 55.4% | +3.8 |
+| 2026-10-21 | 4:00 P.M. | Lynn English | Chelsea | 46.6% | -2.3 |
+| 2026-10-21 | 4:30 P.M. | Masconomet | Danvers | 75.0% | +19.0 |
+| 2026-10-21 | 4:00 P.M. | Malden | Somerville | 80.4% | +24.6 |
+| 2026-10-21 | 4:00 P.M. | Beverly | Salem | 40.8% | -6.4 |
+| 2026-10-21 | 4:00 P.M. | Medford | Lynn Classical | 43.8% | -4.3 |
+| 2026-10-21 | 4:00 P.M. | Everett | Revere | 52.3% | +1.6 |
+| 2026-10-21 | 4:30 P.M. | Weston | Wayland | 65.9% | +11.4 |
+| 2026-10-21 | 4:00 P.M. | Milton | Braintree | 25.3% | -18.8 |
+| 2026-10-21 | 4:30 P.M. | Newton South | Cambridge | 68.2% | +13.2 |
+| 2026-10-21 | 4:00 P.M. | Lincoln-Sudbury | Acton-Boxborough | 54.5% | +3.2 |
+| 2026-10-21 | 3:30 P.M. | Westford | Concord-Carlisle | 78.3% | +22.2 |
+| 2026-10-21 | 4:00 P.M. | Needham | Wellesley | 26.6% | -17.6 |
+| 2026-10-21 | 4:00 P.M. | Brookline | Newton North | 89.6% | +37.4 |
+| 2026-10-21 | 4:30 P.M. | Swampscott | Marblehead | 75.2% | +19.3 |
+| 2026-10-21 | 4:00 P.M. | Boston Latin | Bedford | 61.7% | +8.3 |
+| 2026-10-21 | 4:30 P.M. | Winthrop | Peabody | 54.8% | +3.4 |
 
 ## Recent Games
 
@@ -228,8 +244,8 @@ Generated: 2026-10-10 16:05
 | 124 | Somerset Berkley | 1516.1 |
 | 125 | Brooks | 1516.0 |
 | 126 | West Bridgewater | 1516.0 |
-| 127 | Rivers | 1514.8 |
-| 128 | Chicopee Comprehensive | 1514.8 |
+| 127 | Chicopee Comprehensive | 1514.8 |
+| 128 | Rivers | 1514.8 |
 | 129 | Dana Hall | 1513.2 |
 | 130 | Minuteman | 1513.1 |
 | 131 | South Shore Voc-Tech | 1512.7 |
@@ -241,16 +257,16 @@ Generated: 2026-10-10 16:05
 | 137 | East Longmeadow | 1506.4 |
 | 138 | Holbrook/Avon | 1506.1 |
 | 139 | Westfield Tech | 1504.2 |
-| 140 | Longmeadow | 1502.8 |
+| 140 | Waltham | 1502.8 |
 | 141 | Wachusett | 1502.8 |
-| 142 | Amherst-Pelham | 1502.8 |
-| 143 | Minnechaug | 1502.8 |
-| 144 | Notre Dame (Worcester) | 1502.8 |
+| 142 | Cape Cod Tech | 1502.8 |
+| 143 | Notre Dame (Tyngsborough) | 1502.8 |
+| 144 | Longmeadow | 1502.8 |
 | 145 | Saugus | 1502.8 |
-| 146 | Notre Dame (Tyngsborough) | 1502.8 |
-| 147 | Waltham | 1502.8 |
-| 148 | Westfield | 1502.8 |
-| 149 | Cape Cod Tech | 1502.8 |
+| 146 | Minnechaug | 1502.8 |
+| 147 | Westfield | 1502.8 |
+| 148 | Notre Dame (Worcester) | 1502.8 |
+| 149 | Amherst-Pelham | 1502.8 |
 | 150 | Pingree | 1502.0 |
 | 151 | Winthrop | 1499.9 |
 | 152 | Bristol-Plymouth | 1499.4 |
@@ -274,8 +290,8 @@ Generated: 2026-10-10 16:05
 | 170 | Nauset | 1480.7 |
 | 171 | King Philip | 1480.2 |
 | 172 | Milton Academy | 1479.0 |
-| 173 | Clinton | 1476.8 |
-| 174 | Ayer Shirley | 1476.8 |
+| 173 | Ayer Shirley | 1476.8 |
+| 174 | Clinton | 1476.8 |
 | 175 | Blackstone Valley | 1476.6 |
 | 176 | Notre Dame Academy-Worcester | 1475.4 |
 | 177 | Hampshire | 1475.2 |

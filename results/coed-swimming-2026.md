@@ -1,6 +1,6 @@
 # Coed Swimming - 2026 Season
 
-Generated: 2026-10-10 16:05
+Generated: 2026-10-11 16:32
 
 ## Upcoming Games
 
@@ -9,8 +9,9 @@ Generated: 2026-10-10 16:05
 
 ## Recent Games
 
-*No games in the last 7 days*
-
+| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
+|------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-10-10 | North Andover | 94 | Methuen/Tewksbury | 81 | +0.6 | +13.0 |
 
 ## Current Elo Ratings
 
@@ -20,15 +21,15 @@ Generated: 2026-10-10 16:05
 | 2 | Malden | 1597.6 |
 | 3 | Medford | 1595.0 |
 | 4 | Marblehead | 1585.2 |
-| 5 | Methuen/Tewksbury | 1572.7 |
+| 5 | North Andover | 1575.3 |
 | 6 | Bishop Feehan | 1563.1 |
 | 7 | Walpole | 1559.3 |
 | 8 | Boston Latin | 1556.8 |
 | 9 | Cambridge | 1553.2 |
 | 10 | Norwell | 1547.6 |
-| 11 | North Andover | 1537.4 |
-| 12 | Haverhill | 1535.9 |
-| 13 | O’Bryant | 1535.9 |
+| 11 | Haverhill | 1535.9 |
+| 12 | O’Bryant | 1535.9 |
+| 13 | Methuen/Tewksbury | 1534.8 |
 | 14 | Salem | 1533.4 |
 | 15 | Peabody | 1530.8 |
 | 16 | Catholic Memorial | 1525.1 |
