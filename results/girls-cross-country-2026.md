@@ -1,6 +1,6 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-10-11 16:32
+Generated: 2026-10-12 20:06
 
 ## Upcoming Games
 
@@ -257,16 +257,16 @@ Generated: 2026-10-11 16:32
 | 137 | East Longmeadow | 1506.4 |
 | 138 | Holbrook/Avon | 1506.1 |
 | 139 | Westfield Tech | 1504.2 |
-| 140 | Waltham | 1502.8 |
-| 141 | Wachusett | 1502.8 |
+| 140 | Longmeadow | 1502.8 |
+| 141 | Minnechaug | 1502.8 |
 | 142 | Cape Cod Tech | 1502.8 |
-| 143 | Notre Dame (Tyngsborough) | 1502.8 |
-| 144 | Longmeadow | 1502.8 |
-| 145 | Saugus | 1502.8 |
-| 146 | Minnechaug | 1502.8 |
-| 147 | Westfield | 1502.8 |
-| 148 | Notre Dame (Worcester) | 1502.8 |
-| 149 | Amherst-Pelham | 1502.8 |
+| 143 | Wachusett | 1502.8 |
+| 144 | Waltham | 1502.8 |
+| 145 | Amherst-Pelham | 1502.8 |
+| 146 | Notre Dame (Worcester) | 1502.8 |
+| 147 | Saugus | 1502.8 |
+| 148 | Notre Dame (Tyngsborough) | 1502.8 |
+| 149 | Westfield | 1502.8 |
 | 150 | Pingree | 1502.0 |
 | 151 | Winthrop | 1499.9 |
 | 152 | Bristol-Plymouth | 1499.4 |

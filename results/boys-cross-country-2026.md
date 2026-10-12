@@ -1,6 +1,6 @@
 # Boys Cross Country - 2026 Season
 
-Generated: 2026-10-11 16:32
+Generated: 2026-10-12 20:06
 
 ## Upcoming Games
 
@@ -267,19 +267,19 @@ Generated: 2026-10-11 16:32
 | 136 | New Bedford | 1503.8 |
 | 137 | Scituate | 1503.4 |
 | 138 | Apponequet | 1503.0 |
-| 139 | Minnechaug | 1502.8 |
-| 140 | St. Sebastian’s | 1502.8 |
-| 141 | Longmeadow | 1502.8 |
-| 142 | Westfield | 1502.8 |
-| 143 | Riverview School | 1502.8 |
-| 144 | Tabor | 1502.8 |
-| 145 | Wachusett | 1502.8 |
-| 146 | Amherst-Pelham | 1502.8 |
-| 147 | Watkinson | 1502.8 |
-| 148 | Greater Lowell | 1502.8 |
-| 149 | Greater Lawrence | 1502.8 |
-| 150 | Bridgewater-Raynham | 1502.8 |
-| 151 | Notre Dame (Tyngsborough) | 1502.8 |
+| 139 | Watkinson | 1502.8 |
+| 140 | Amherst-Pelham | 1502.8 |
+| 141 | Greater Lowell | 1502.8 |
+| 142 | Tabor | 1502.8 |
+| 143 | Greater Lawrence | 1502.8 |
+| 144 | Riverview School | 1502.8 |
+| 145 | Longmeadow | 1502.8 |
+| 146 | Notre Dame (Tyngsborough) | 1502.8 |
+| 147 | St. Sebastian’s | 1502.8 |
+| 148 | Bridgewater-Raynham | 1502.8 |
+| 149 | Westfield | 1502.8 |
+| 150 | Wachusett | 1502.8 |
+| 151 | Minnechaug | 1502.8 |
 | 152 | East Bridgewater | 1501.9 |
 | 153 | Carver | 1500.6 |
 | 154 | Malden | 1500.0 |

@@ -474,14 +474,14 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-26,151681,FINAL,St. Paul’s,4375,28.0,1.0,Belmont Hill,4035,3.0,0.0,NEPSAC Class B,NEPSAC Class B,3:00 P.M.,,0
 2026-09-27,129346,POSTPONED,Nashoba Valley Tech,4268,,,Nantucket,4265,,,Commonwealth,Cape & Islands,1:30 P.M.,,0
 2026-09-28,151611,FINAL,Austin Prep,4020,0.0,0.0,Pingree,4312,27.0,1.0,NEPSAC Class C,NEPSAC Class C,5:00 P.M.,,0
-2026-10-01,127510,FINAL,Brookline,4059,13,1,Hopkinton,4180,10,0,Bay State,Tri-Valley,6:30 P.M.,,0
-2026-10-01,127916,FINAL,Southeastern,4358,13,1,Tri-County,4392,6,0,Mayflower,Mayflower,6:00 P.M.,,0
-2026-10-01,128008,FINAL,Saugus,4341,0,0,Medford,4242,33,1,Northeastern,Greater Boston,6:00 P.M.,,0
-2026-10-01,128292,FINAL,Minnechaug,4254,46,1,West Springfield,4417,14,0,AA,Suburban,6:30 P.M.,,0
-2026-10-01,129365,FINAL,Minuteman,4255,28,1,Millis,4251,26,0,Commonwealth,Tri-Valley,6:00 P.M.,,0
-2026-10-01,129401,FINAL,Smith Vocational,4539,16,0,Pathfinder,4305,31,1,Tri-County,Tri-County,6:00 P.M.,,0
-2026-10-01,130016,FINAL,North Andover,4283,20,0,Billerica,4040,26,1,Merrimack Valley,Merrimack Valley,6:30 P.M.,,0
-2026-10-01,133865,FINAL,Abington,4002,14,0,Norwell,4296,41,1,South Shore,South Shore,7:00 P.M.,,0
+2026-10-01,127510,FINAL,Brookline,4059,13.0,1.0,Hopkinton,4180,10.0,0.0,Bay State,Tri-Valley,6:30 P.M.,,0
+2026-10-01,127916,FINAL,Southeastern,4358,13.0,1.0,Tri-County,4392,6.0,0.0,Mayflower,Mayflower,6:00 P.M.,,0
+2026-10-01,128008,FINAL,Saugus,4341,0.0,0.0,Medford,4242,33.0,1.0,Northeastern,Greater Boston,6:00 P.M.,,0
+2026-10-01,128292,FINAL,Minnechaug,4254,46.0,1.0,West Springfield,4417,14.0,0.0,AA,Suburban,6:30 P.M.,,0
+2026-10-01,129365,FINAL,Minuteman,4255,28.0,1.0,Millis,4251,26.0,0.0,Commonwealth,Tri-Valley,6:00 P.M.,,0
+2026-10-01,129401,FINAL,Smith Vocational,4539,16.0,0.0,Pathfinder,4305,31.0,1.0,Tri-County,Tri-County,6:00 P.M.,,0
+2026-10-01,130016,FINAL,North Andover,4283,20.0,0.0,Billerica,4040,26.0,1.0,Merrimack Valley,Merrimack Valley,6:30 P.M.,,0
+2026-10-01,133865,FINAL,Abington,4002,14.0,0.0,Norwell,4296,41.0,1.0,South Shore,South Shore,7:00 P.M.,,0
 2026-10-02,127443,FINAL,Brockton,4058,3,0,Catholic Memorial,4080,35,1,Big Three,Catholic Conference,6:00 P.M.,,0
 2026-10-02,127464,FINAL,Lexington,4209,0,0,Belmont,4034,35,1,Middlesex,Middlesex,6:00 P.M.,,0
 2026-10-02,127482,FINAL,BC High,4029,7,0,Bishop Feehan,4042,28,1,Catholic Conference,Independent,6:00 P.M.,,0
@@ -902,3 +902,14 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-17,151617,UPCOMING,Pingree,4312,,,Worcester Academy,4441,,,NEPSAC Class C,NEPSAC Class C,3:00 P.M.,,0
 2026-10-17,151637,UPCOMING,Dexter Southfield,4113,,,Kent,4193,,,NEPSAC Class A,NEPSAC Class A,3:30 P.M.,,0
 2026-10-17,151921,UPCOMING,Loomis Chaffee (Conn.),4215,,,Milton Academy,4253,,,NEPSAC Class A,NEPSAC Class B,5:00 P.M.,,0
+2026-10-22,127470,UPCOMING,Winchester,4434,,,Lexington,4209,,,Middlesex,Middlesex,6:30 P.M.,,0
+2026-10-22,127866,UPCOMING,Minnechaug,4254,,,Springfield Central,4360,,,AA,AA,6:30 P.M.,,0
+2026-10-22,127957,UPCOMING,Whittier,4428,,,Greater Lowell,4155,,,Commonwealth,Commonwealth,6:00 P.M.,,0
+2026-10-22,128740,UPCOMING,South Shore Voc-Tech,4356,,,Wareham,4407,,,Mayflower,Mayflower,6:00 P.M.,,0
+2026-10-22,128893,UPCOMING,Putnam,4362,,,Wahconah,4401,,,Suburban,Suburban,7:00 P.M.,,0
+2026-10-22,129213,UPCOMING,Carver,4077,,,Randolph,4327,,,South Shore,South Shore,6:00 P.M.,,0
+2026-10-22,129287,UPCOMING,Minuteman,4255,,,Lynn Tech,4222,,,Commonwealth,Commonwealth,6:00 P.M.,,0
+2026-10-22,129329,UPCOMING,Bishop Feehan,4042,,,St. Mary’s,4374,,,Independent,Independent,6:00 P.M.,,0
+2026-10-22,129416,UPCOMING,Smith Vocational,4539,,,McCann Tech,4240,,,Tri-County,Tri-County,6:00 P.M.,,0
+2026-10-22,129458,UPCOMING,Springfield International,4480,,,Frontier,4146,,,Independent,Intercounty,7:00 P.M.,,0
+2026-10-22,129509,UPCOMING,Bourne,4050,,,Monomoy/JP II,4706,,,South Coast,Cape & Islands,6:30 P.M.,,0
