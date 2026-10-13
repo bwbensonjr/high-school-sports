@@ -1,6 +1,6 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-10-12 20:06
+Generated: 2026-10-13 17:55
 
 ## Upcoming Games
 
@@ -58,9 +58,8 @@ Generated: 2026-10-12 20:06
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-10-07 | Lincoln-Sudbury | 32 | Westford | 23 | +20.3 | +9.0 |
-| 2026-10-07 | Malden Catholic | 25 | Ursuline | 50 | +13.4 | -25.0 |
-| 2026-10-07 | Medford | 33 | Somerville | 23 | +29.0 | +10.0 |
+| 2026-10-07 | Wayland | 30 | Bedford | 29 | +9.1 | +1.0 |
+| 2026-10-07 | Weston | 35 | Boston Latin | 30 | +9.9 | +5.0 |
 | 2026-10-07 | Marblehead | 19 | Danvers | 42 | +0.5 | -23.0 |
 | 2026-10-07 | Ashland | 36 | Norwood | 20 | +16.8 | +16.0 |
 | 2026-10-07 | Norton | 24 | Dedham | 35 | -10.2 | -11.0 |
@@ -71,8 +70,8 @@ Generated: 2026-10-12 20:06
 | 2026-10-07 | North Andover | 15 | Lowell | 50 | -6.0 | -35.0 |
 | 2026-10-07 | North Andover | 15 | Lawrence | 50 | -43.4 | -35.0 |
 | 2026-10-07 | Central Catholic | 44 | Billerica | 18 | +12.9 | +26.0 |
+| 2026-10-07 | Malden Catholic | 25 | Ursuline | 50 | +13.4 | -25.0 |
 | 2026-10-07 | Medway | 50 | Dover-Sherborn | 15 | +36.8 | +35.0 |
-| 2026-10-07 | Wayland | 30 | Bedford | 29 | +9.1 | +1.0 |
 | 2026-10-07 | Cambridge | 18 | Acton-Boxborough | 41 | -17.0 | -23.0 |
 | 2026-10-07 | Dracut | 50 | Chelmsford | 15 | +11.8 | +35.0 |
 | 2026-10-07 | Dracut | 50 | Tewksbury | 15 | +15.7 | +35.0 |
@@ -84,35 +83,35 @@ Generated: 2026-10-12 20:06
 | 2026-10-07 | Hopkinton | 19 | Medfield | 37 | -0.0 | -18.0 |
 | 2026-10-07 | Weymouth | 24 | Brookline | 33 | -10.8 | -9.0 |
 | 2026-10-07 | Westwood | 24 | Holliston | 37 | -6.5 | -13.0 |
-| 2026-10-07 | Weston | 35 | Boston Latin | 30 | +9.9 | +5.0 |
+| 2026-10-07 | Medford | 33 | Somerville | 23 | +29.0 | +10.0 |
 | 2026-10-07 | Lincoln-Sudbury | 38 | Newton South | 23 | +17.7 | +15.0 |
-| 2026-10-07 | Newton North | 28 | Needham | 27 | +2.4 | +1.0 |
+| 2026-10-07 | Wellesley | 38 | Milton | 19 | +4.2 | +19.0 |
+| 2026-10-07 | Concord-Carlisle | 18 | Cambridge | 44 | -0.5 | -26.0 |
 | 2026-10-07 | Concord-Carlisle | 15 | Acton-Boxborough | 50 | -22.8 | -35.0 |
 | 2026-10-07 | Lynnfield | 39 | North Reading | 22 | +4.1 | +17.0 |
 | 2026-10-07 | Georgetown | 50 | Ipswich | 15 | +13.9 | +35.0 |
 | 2026-10-07 | Triton | 41 | Hamilton-Wenham | 20 | +28.4 | +21.0 |
 | 2026-10-07 | Essex Tech | 35 | Newburyport | 24 | +26.3 | +11.0 |
 | 2026-10-07 | Walpole | 26 | Braintree | 32 | +9.9 | -6.0 |
-| 2026-10-07 | Wellesley | 38 | Milton | 19 | +4.2 | +19.0 |
+| 2026-10-07 | Newton North | 28 | Needham | 27 | +2.4 | +1.0 |
 | 2026-10-07 | Framingham | 50 | Newton North | 15 | +58.4 | +35.0 |
 | 2026-10-07 | Needham | 15 | Framingham | 50 | -44.7 | -35.0 |
-| 2026-10-07 | Concord-Carlisle | 18 | Cambridge | 44 | -0.5 | -26.0 |
+| 2026-10-07 | Lincoln-Sudbury | 32 | Westford | 23 | +20.3 | +9.0 |
 | 2026-10-06 | Bishop Stang | 27 | Arlington Catholic | 30 | +12.1 | -3.0 |
 | 2026-10-06 | Norwell | 15 | East Bridgewater | 45 | -17.1 | -30.0 |
 | 2026-10-06 | St. Mary’s | 21 | Arlington Catholic | 38 | -8.4 | -17.0 |
-| 2026-10-06 | Sandwich | 20 | Nauset | 36 | +9.2 | -16.0 |
-| 2026-10-06 | Bishop Stang | 38 | St. Mary’s | 20 | +18.1 | +18.0 |
 | 2026-10-06 | Sturgis West | 21 | Rising Tide Charter | 35 | -1.3 | -14.0 |
+| 2026-10-06 | Bishop Stang | 38 | St. Mary’s | 20 | +18.1 | +18.0 |
 | 2026-10-06 | Whitman-Hanson | 27 | Marshfield | 28 | +20.9 | -1.0 |
 | 2026-10-06 | Lexington | 15 | Reading | 50 | -12.2 | -35.0 |
-| 2026-10-06 | Keefe Tech | 24 | Worcester Tech/North | 31 | +14.2 | -7.0 |
+| 2026-10-06 | Pembroke | 44 | Hanover | 15 | +11.4 | +29.0 |
 | 2026-10-06 | Burncoat | 47 | Advanced Math and Science | 16 | +20.0 | +31.0 |
 | 2026-10-06 | Parker Charter | 47 | Advanced Math and Science | 16 | +16.8 | +31.0 |
 | 2026-10-06 | Southeastern | 50 | Bishop Feehan | 15 | +13.0 | +35.0 |
 | 2026-10-06 | South Shore Voc-Tech | 50 | Bishop Feehan | 15 | +12.6 | +35.0 |
 | 2026-10-06 | Keefe Tech | 15 | Assabet | 50 | +9.8 | -35.0 |
-| 2026-10-06 | Pembroke | 44 | Hanover | 15 | +11.4 | +29.0 |
-| 2026-10-05 | Archbishop Williams | 15 | Cardinal Spellman | 46 | -11.1 | -31.0 |
+| 2026-10-06 | Keefe Tech | 24 | Worcester Tech/North | 31 | +14.2 | -7.0 |
+| 2026-10-06 | Sandwich | 20 | Nauset | 36 | +9.2 | -16.0 |
 
 ## Current Elo Ratings
 
@@ -221,16 +220,16 @@ Generated: 2026-10-12 20:06
 | 101 | Tantasqua | 1529.9 |
 | 102 | Sizer | 1529.5 |
 | 103 | Bourne | 1529.3 |
-| 104 | South Lancaster | 1528.7 |
-| 105 | Maynard | 1528.7 |
+| 104 | Maynard | 1528.7 |
+| 105 | South Lancaster | 1528.7 |
 | 106 | Shawsheen | 1527.9 |
 | 107 | Tahanto | 1527.8 |
 | 108 | Burncoat | 1527.7 |
 | 109 | Sutton | 1525.1 |
 | 110 | Norfolk Aggie | 1524.0 |
 | 111 | Medford | 1523.6 |
-| 112 | Hudson | 1523.4 |
-| 113 | Renaissance | 1523.4 |
+| 112 | Renaissance | 1523.4 |
+| 113 | Hudson | 1523.4 |
 | 114 | Shepherd Hill | 1522.0 |
 | 115 | Cohasset | 1521.9 |
 | 116 | Middleborough | 1521.1 |
@@ -257,16 +256,16 @@ Generated: 2026-10-12 20:06
 | 137 | East Longmeadow | 1506.4 |
 | 138 | Holbrook/Avon | 1506.1 |
 | 139 | Westfield Tech | 1504.2 |
-| 140 | Longmeadow | 1502.8 |
-| 141 | Minnechaug | 1502.8 |
-| 142 | Cape Cod Tech | 1502.8 |
+| 140 | Minnechaug | 1502.8 |
+| 141 | Amherst-Pelham | 1502.8 |
+| 142 | Westfield | 1502.8 |
 | 143 | Wachusett | 1502.8 |
 | 144 | Waltham | 1502.8 |
-| 145 | Amherst-Pelham | 1502.8 |
-| 146 | Notre Dame (Worcester) | 1502.8 |
-| 147 | Saugus | 1502.8 |
-| 148 | Notre Dame (Tyngsborough) | 1502.8 |
-| 149 | Westfield | 1502.8 |
+| 145 | Saugus | 1502.8 |
+| 146 | Notre Dame (Tyngsborough) | 1502.8 |
+| 147 | Longmeadow | 1502.8 |
+| 148 | Cape Cod Tech | 1502.8 |
+| 149 | Notre Dame (Worcester) | 1502.8 |
 | 150 | Pingree | 1502.0 |
 | 151 | Winthrop | 1499.9 |
 | 152 | Bristol-Plymouth | 1499.4 |

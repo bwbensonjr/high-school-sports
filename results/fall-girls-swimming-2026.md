@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-10-12 20:06
+Generated: 2026-10-13 17:55
 
 ## Upcoming Games
 
@@ -14,6 +14,7 @@ Generated: 2026-10-12 20:06
 | 2026-10-09 | Newton North | 96 | Natick | 85 | +19.8 | +11.0 |
 | 2026-10-08 | Andover | 95 | Boston Latin | 79 | +28.5 | +16.0 |
 | 2026-10-06 | Chelmsford | 102 | North Andover | 83 | +8.9 | +19.0 |
+| 2026-10-06 | Wellesley | 88 | Weymouth | 72 | +25.7 | +16.0 |
 
 ## Current Elo Ratings
 
@@ -26,9 +27,9 @@ Generated: 2026-10-12 20:06
 | 5 | Notre Dame (Hingham) | 1660.1 |
 | 6 | Newton North | 1635.2 |
 | 7 | Milton | 1633.9 |
-| 8 | Westwood | 1620.6 |
-| 9 | Nashoba | 1617.7 |
-| 10 | Wellesley | 1610.6 |
+| 8 | Wellesley | 1626.4 |
+| 9 | Westwood | 1620.6 |
+| 10 | Nashoba | 1617.7 |
 | 11 | Hingham | 1600.5 |
 | 12 | Taunton | 1589.3 |
 | 13 | North Andover | 1588.8 |
@@ -100,8 +101,8 @@ Generated: 2026-10-12 20:06
 | 79 | Bishop Fenwick | 1414.5 |
 | 80 | Pembroke | 1411.2 |
 | 81 | Stoughton | 1409.6 |
-| 82 | Weymouth | 1403.2 |
-| 83 | Holliston/Medway | 1391.4 |
+| 82 | Holliston/Medway | 1391.4 |
+| 83 | Weymouth | 1387.5 |
 | 84 | Billerica | 1383.6 |
 | 85 | Durfee | 1382.1 |
 | 86 | Old Rochester | 1338.5 |
