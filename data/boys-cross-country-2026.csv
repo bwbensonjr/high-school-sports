@@ -284,12 +284,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-30,152435,FINAL,Lexington Christian,4210,21.0,1.0,Landmark,4200,38.0,0.0,EIL,MBIL,,,0
 2026-10-01,152112,UPCOMING,Whitman-Hanson,4427,,,Hingham,4171,,,Patriot,Patriot,4:00 P.M.,,0
 2026-10-01,152311,UPCOMING,Taunton,4388,,,Sharon,4345,,,Hockomock,Hockomock,4:00 P.M.,,0
-2026-10-03,152719,FINAL,Marianapolis,4567,30,1,Beaver Country Day,4030,55,0,Independent,EIL,,,0
-2026-10-03,152721,FINAL,Marianapolis,4567,62,0,Worcester Academy,4441,30,1,Independent,Independent,,,0
-2026-10-03,152722,FINAL,Marianapolis,4567,30,1,Wilbraham & Monson,4545,72,0,Independent,Independent,,,0
-2026-10-03,152725,FINAL,Beaver Country Day,4030,55,1,Worcester Academy,4441,62,0,EIL,Independent,,,0
-2026-10-03,152728,FINAL,Beaver Country Day,4030,55,1,Wilbraham & Monson,4545,72,0,EIL,Independent,,,0
-2026-10-03,152729,FINAL,Worcester Academy,4441,62,1,Wilbraham & Monson,4545,72,0,Independent,Independent,,,0
+2026-10-03,152719,FINAL,Marianapolis,4567,30.0,1.0,Beaver Country Day,4030,55.0,0.0,Independent,EIL,,,0
+2026-10-03,152721,FINAL,Marianapolis,4567,62.0,0.0,Worcester Academy,4441,30.0,1.0,Independent,Independent,,,0
+2026-10-03,152722,FINAL,Marianapolis,4567,30.0,1.0,Wilbraham & Monson,4545,72.0,0.0,Independent,Independent,,,0
+2026-10-03,152725,FINAL,Beaver Country Day,4030,55.0,1.0,Worcester Academy,4441,62.0,0.0,EIL,Independent,,,0
+2026-10-03,152728,FINAL,Beaver Country Day,4030,55.0,1.0,Wilbraham & Monson,4545,72.0,0.0,EIL,Independent,,,0
+2026-10-03,152729,FINAL,Worcester Academy,4441,62.0,1.0,Wilbraham & Monson,4545,72.0,0.0,Independent,Independent,,,0
 2026-10-05,148567,FINAL,Archbishop Williams,4012,15,1,Cardinal Spellman,4075,50,0,Catholic Central,Catholic Central,4:00 P.M.,,0
 2026-10-06,147938,FINAL,Sandwich,4340,31,0,Nauset,4271,28,1,Cape & Islands,Cape & Islands,4:30 P.M.,,0
 2026-10-06,147978,UPCOMING,Nantucket,4265,,,Falmouth,4134,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
@@ -339,8 +339,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-07,148943,FINAL,Lincoln-Sudbury,4211,50,0,Westford,4421,15,1,Dual County,Dual County,4:00 P.M.,,0
 2026-10-07,148946,FINAL,Lincoln-Sudbury,4211,50,0,Newton South,4280,15,1,Dual County,Dual County,4:30 P.M.,,0
 2026-10-07,148962,FINAL,Wayland,4411,21,1,Bedford,4031,34,0,Dual County,Dual County,4:00 P.M.,,0
-2026-10-07,148977,UPCOMING,Waltham,4405,,,Boston Latin,4049,,,Dual County,Dual County,4:00 P.M.,,0
-2026-10-07,148985,UPCOMING,Waltham,4405,,,Weston,4423,,,Dual County,Dual County,4:00 P.M.,,0
+2026-10-07,148977,FINAL,Waltham,4405,50,0,Boston Latin,4049,15,1,Dual County,Dual County,4:00 P.M.,,0
+2026-10-07,148985,FINAL,Waltham,4405,50,0,Weston,4423,15,1,Dual County,Dual County,4:00 P.M.,,0
 2026-10-07,148986,FINAL,Weston,4423,24,1,Boston Latin,4049,33,0,Dual County,Dual County,4:00 P.M.,,0
 2026-10-07,149011,UPCOMING,Lynn Classical,4220,,,Chelsea,4086,,,Greater Boston,Greater Boston,4:00 P.M.,,0
 2026-10-07,149040,UPCOMING,Everett,4132,,,Malden,4227,,,Greater Boston,Greater Boston,4:00 P.M.,,0
@@ -368,20 +368,28 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-07,153123,FINAL,Pingree,4312,27,1,Beaver Country Day,4030,30,0,EIL,EIL,,,0
 2026-10-07,153125,FINAL,Pingree,4312,36,0,Berwick,4037,23,1,EIL,EIL,,,0
 2026-10-07,153136,FINAL,North Andover,4283,15,1,Lawrence,4203,49,0,Merrimack Valley,Merrimack Valley,,,0
-2026-10-13,147940,UPCOMING,Dennis-Yarmouth,4111,,,Nauset,4271,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-10-13,147940,FINAL,Dennis-Yarmouth,4111,42,0,Nauset,4271,20,1,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-10-13,147980,UPCOMING,Falmouth,4134,,,Martha’s Vineyard,4235,,,Cape & Islands,Cape & Islands,3:30 P.M.,,0
 2026-10-13,148002,UPCOMING,Nantucket,4265,,,Sandwich,4340,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-10-13,148014,UPCOMING,Cape Cod Academy,4072,,,Rising Tide Charter,4746,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
-2026-10-13,148033,UPCOMING,Monomoy,4706,,,Falmouth Academy,4135,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
-2026-10-13,148516,UPCOMING,Xaverian,4446,,,St. John’s (Shrewsbury),4368,,,Catholic Conference,Catholic Conference,4:00 P.M.,,0
-2026-10-13,148536,UPCOMING,Bishop Fenwick,4043,,,Bishop Stang,4045,,,Catholic Central,Catholic Central,4:00 P.M.,,0
-2026-10-13,148541,UPCOMING,Archbishop Williams,4012,,,Bishop Stang,4045,,,Catholic Central,Catholic Central,4:00 P.M.,,0
-2026-10-13,148569,UPCOMING,Bishop Fenwick,4043,,,Archbishop Williams,4012,,,Catholic Central,Catholic Central,4:00 P.M.,,0
-2026-10-13,148581,UPCOMING,Cardinal Spellman,4075,,,Arlington Catholic,4014,,,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-10-13,148033,FINAL,Monomoy,4706,27,1,Falmouth Academy,4135,28,0,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-10-13,148516,FINAL,Xaverian,4446,23,1,St. John’s (Shrewsbury),4368,34,0,Catholic Conference,Catholic Conference,4:00 P.M.,,0
+2026-10-13,148536,FINAL,Bishop Fenwick,4043,34,0,Bishop Stang,4045,23,1,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-10-13,148541,FINAL,Archbishop Williams,4012,17,1,Bishop Stang,4045,41,0,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-10-13,148569,FINAL,Bishop Fenwick,4043,42,0,Archbishop Williams,4012,19,1,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-10-13,148581,FINAL,Cardinal Spellman,4075,50,0,Arlington Catholic,4014,15,1,Catholic Central,Catholic Central,4:00 P.M.,,0
 2026-10-13,149923,UPCOMING,Carver,4077,,,East Bridgewater,4126,,,South Shore,South Shore,4:00 P.M.,,0
-2026-10-13,149945,UPCOMING,Middleborough,4247,,,Mashpee,4237,,,South Shore,South Shore,4:00 P.M.,,0
-2026-10-13,149966,UPCOMING,Cohasset,4094,,,Norwell,4296,,,South Shore,South Shore,4:00 P.M.,,0
+2026-10-13,149945,POSTPONED,Middleborough,4247,,,Mashpee,4237,,,South Shore,South Shore,4:00 P.M.,,0
+2026-10-13,149966,FINAL,Cohasset,4094,41,0,Norwell,4296,20,1,South Shore,South Shore,4:00 P.M.,,0
 2026-10-13,149974,UPCOMING,Rockland,4331,,,Abington,4002,,,South Shore,South Shore,4:00 P.M.,,0
+2026-10-13,153501,FINAL,Reading,4328,28,0,Arlington,4013,27,1,Middlesex,Middlesex,4:00 P.M.,,0
+2026-10-13,153515,FINAL,Marshfield,4234,22,1,Hingham,4171,45,0,Patriot,Patriot,4:00 P.M.,,0
+2026-10-13,153558,FINAL,Plymouth South,4316,24,1,Quincy/North Quincy,4326,33,0,Patriot,Patriot,4:00 P.M.,,0
+2026-10-13,153599,FINAL,Melrose,4244,37,0,Burlington,4065,22,1,Middlesex,Middlesex,4:00 P.M.,,0
+2026-10-13,153605,FINAL,Lexington,4209,15,1,Winchester,4434,50,0,Middlesex,Middlesex,4:00 P.M.,,0
+2026-10-13,153608,FINAL,Duxbury,4123,33,0,Whitman-Hanson,4427,25,1,Patriot,Patriot,,,0
+2026-10-13,153615,FINAL,Doherty,4116,31,0,Keefe Tech,4191,24,1,CMAC,CMAC,,,0
+2026-10-13,153617,FINAL,St. Bernard’s,4365,30,0,Keefe Tech,4191,15,1,CMAC,CMAC,,,0
 2026-10-14,144097,UPCOMING,Needham,4272,,,Milton,4252,,,Bay State,Bay State,4:00 P.M.,,0
 2026-10-14,144098,UPCOMING,Walpole,4404,,,Milton,4252,,,Bay State,Bay State,4:00 P.M.,,0
 2026-10-14,144099,UPCOMING,Walpole,4404,,,Needham,4272,,,Bay State,Bay State,4:00 P.M.,,0

@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-10-13 17:55
+Generated: 2026-10-14 15:41
 
 ## Upcoming Games
 
@@ -11,17 +11,16 @@ Generated: 2026-10-13 17:55
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-10-13 | Chelmsford | 94 | Acton-Boxborough | 92 | +18.3 | +2.0 |
 | 2026-10-09 | Newton North | 96 | Natick | 85 | +19.8 | +11.0 |
 | 2026-10-08 | Andover | 95 | Boston Latin | 79 | +28.5 | +16.0 |
-| 2026-10-06 | Chelmsford | 102 | North Andover | 83 | +8.9 | +19.0 |
-| 2026-10-06 | Wellesley | 88 | Weymouth | 72 | +25.7 | +16.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
 | 1 | Seekonk | 1719.3 |
-| 2 | Chelmsford | 1695.2 |
+| 2 | Chelmsford | 1703.8 |
 | 3 | Nantucket | 1695.1 |
 | 4 | Andover | 1693.8 |
 | 5 | Notre Dame (Hingham) | 1660.1 |
@@ -37,8 +36,8 @@ Generated: 2026-10-13 17:55
 | 15 | Hopkinton | 1580.7 |
 | 16 | Brookline | 1574.0 |
 | 17 | Sharon | 1571.5 |
-| 18 | Acton-Boxborough | 1562.5 |
-| 19 | Winchester | 1560.1 |
+| 18 | Winchester | 1560.1 |
+| 19 | Acton-Boxborough | 1554.0 |
 | 20 | Franklin | 1552.6 |
 | 21 | Apponequet | 1543.3 |
 | 22 | Arlington Catholic | 1542.6 |
