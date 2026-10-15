@@ -762,14 +762,16 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-10,151682,FINAL,Belmont Hill,4035,7,0,Brunswick,4062,55,1,NEPSAC Class B,NEPSAC Class A,2:00 P.M.,,0
 2026-10-10,151926,FINAL,Canterbury,4070,13,0,Trinity-Pawling,4394,20,1,NEPSAC Class C,NEPSAC Class B,3:00 P.M.,,0
 2026-10-10,153414,FINAL,Williston Northampton,4431,24,1,Loomis Chaffee (Conn.),4215,20,0,NEPSAC Class A,NEPSAC Class A,2:00 P.M.,,0
+2026-10-15,127608,UPCOMING,Franklin,4144,,,Attleboro,4018,,,Hockomock,Hockomock,6:30 P.M.,,0
 2026-10-15,127817,UPCOMING,Catholic Memorial,4080,,,Xaverian,4446,,,Catholic Conference,Catholic Conference,6:00 P.M.,,0
 2026-10-15,128011,UPCOMING,Medford,4242,,,Chelsea,4086,,,Greater Boston,Greater Boston,6:00 P.M.,,0
 2026-10-15,128326,UPCOMING,Agawam,4004,,,Putnam,4362,,,Suburban,Suburban,6:00 P.M.,,0
-2026-10-15,128667,UPCOMING,Latin Academy,4202,,,East Boston,4125,,,Boston City,Boston City,4:00 P.M.,,0
+2026-10-15,128667,UPCOMING,Latin Academy,4202,,,East Boston,4125,,,Boston City,Boston City,5:00 P.M.,,0
 2026-10-15,128849,UPCOMING,Holyoke,4176,,,South Hadley,4353,,,AA,Suburban,6:00 P.M.,,0
 2026-10-15,129082,UPCOMING,Medway,4243,,,Norton,4295,,,Tri-Valley,Tri-Valley,6:00 P.M.,,0
 2026-10-15,129164,UPCOMING,Dover-Sherborn,4118,,,Bellingham,4033,,,Tri-Valley,Tri-Valley,6:00 P.M.,,0
 2026-10-15,129224,UPCOMING,Chicopee,4088,,,Commerce,4361,,,Suburban,Intercounty,6:00 P.M.,,0
+2026-10-15,132367,UPCOMING,Nantucket,4265,,,Dennis-Yarmouth,4111,,,Cape & Islands,Cape & Islands,5:15 P.M.,,0
 2026-10-16,127450,UPCOMING,Weymouth,4425,,,Brockton,4058,,,Bay State,Big Three,7:00 P.M.,,0
 2026-10-16,127467,UPCOMING,Reading,4328,,,Lexington,4209,,,Middlesex,Middlesex,7:00 P.M.,,0
 2026-10-16,127502,UPCOMING,St. John’s (Shrewsbury),4368,,,St. John’s Prep,4369,,,Catholic Conference,Catholic Conference,6:00 P.M.,,0
@@ -779,7 +781,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-16,127562,UPCOMING,Framingham,4143,,,Durfee,4122,,,Bay State,Big Three,6:00 P.M.,,0
 2026-10-16,127578,UPCOMING,Methuen,4246,,,Lawrence,4203,,,Merrimack Valley,Merrimack Valley,7:00 P.M.,,0
 2026-10-16,127592,UPCOMING,Shrewsbury,4348,,,Leominster,4208,,,Mid-Wach,Mid-Wach,6:30 P.M.,,0
-2026-10-16,127608,UPCOMING,Franklin,4144,,,Attleboro,4018,,,Hockomock,Hockomock,6:00 P.M.,,0
 2026-10-16,127636,UPCOMING,Wachusett,4400,,,Westborough,4418,,,Mid-Wach,Mid-Wach,7:00 P.M.,,0
 2026-10-16,127664,UPCOMING,Wayland,4411,,,Acton-Boxborough,4003,,,Dual County,Dual County,7:00 P.M.,,0
 2026-10-16,127680,UPCOMING,Stoughton,4381,,,Taunton,4388,,,Hockomock,Hockomock,6:00 P.M.,,0
@@ -805,7 +806,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-16,128130,UPCOMING,Dartmouth,4105,,,Barnstable,4024,,,Pioneer,Pioneer,7:00 P.M.,,0
 2026-10-16,128147,UPCOMING,Revere,4329,,,Somerville,4351,,,Greater Boston,Greater Boston,6:00 P.M.,,0
 2026-10-16,128159,UPCOMING,Doherty,4116,,,Auburn,4019,,,CMAC,CMAC,6:00 P.M.,,0
-2026-10-16,128182,UPCOMING,Milton,4252,,,Walpole,4404,,,Bay State,Bay State,6:00 P.M.,,0
+2026-10-16,128182,UPCOMING,Milton,4252,,,Walpole,4404,,,Bay State,Bay State,7:00 P.M.,,0
 2026-10-16,128213,UPCOMING,Abington,4002,,,Milford,4249,,,South Shore,Hockomock,7:00 P.M.,,0
 2026-10-16,128230,UPCOMING,Oliver Ames,4302,,,Foxborough,4142,,,Hockomock,Hockomock,6:00 P.M.,,0
 2026-10-16,128243,UPCOMING,Mansfield,4230,,,North Attleborough,4284,,,Hockomock,Hockomock,6:30 P.M.,,0
@@ -878,7 +879,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-16,131376,UPCOMING,Assabet,4016,,,Nipmuc/Hopedale,4281,,,CMAC,CMAC,7:00 P.M.,,0
 2026-10-16,132072,UPCOMING,Old Rochester,4301,,,Bishop Fenwick,4043,,,South Coast,Catholic Central,6:30 P.M.,,0
 2026-10-16,132334,UPCOMING,Fairhaven,4133,,,Joseph Case,4078,,,South Coast,South Coast,6:30 P.M.,,0
-2026-10-16,132367,UPCOMING,Nantucket,4265,,,Dennis-Yarmouth,4111,,,Cape & Islands,Cape & Islands,5:15 P.M.,,0
 2026-10-16,133871,UPCOMING,Cardinal Spellman,4075,,,Arlington Catholic,4014,,,Catholic Central,Catholic Central,6:00 P.M.,,0
 2026-10-16,148786,UPCOMING,Peabody,4306,,,Waltham,4405,,,Northeastern,Dual County,7:00 P.M.,,0
 2026-10-16,150750,UPCOMING,Groton,4544,,,Austin Prep,4020,,,NEPSAC Class C,NEPSAC Class C,2:30 P.M.,,0

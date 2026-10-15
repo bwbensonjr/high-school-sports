@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-10-14 15:41
+Generated: 2026-10-15 15:28
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-10-14 15:41
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-10-14 | Notre Dame (Hingham) | 91 | Malden Catholic | 67 | +37.2 | +24.0 |
 | 2026-10-13 | Chelmsford | 94 | Acton-Boxborough | 92 | +18.3 | +2.0 |
 | 2026-10-09 | Newton North | 96 | Natick | 85 | +19.8 | +11.0 |
 | 2026-10-08 | Andover | 95 | Boston Latin | 79 | +28.5 | +16.0 |
@@ -23,7 +24,7 @@ Generated: 2026-10-14 15:41
 | 2 | Chelmsford | 1703.8 |
 | 3 | Nantucket | 1695.1 |
 | 4 | Andover | 1693.8 |
-| 5 | Notre Dame (Hingham) | 1660.1 |
+| 5 | Notre Dame (Hingham) | 1670.2 |
 | 6 | Newton North | 1635.2 |
 | 7 | Milton | 1633.9 |
 | 8 | Wellesley | 1626.4 |
@@ -105,7 +106,7 @@ Generated: 2026-10-14 15:41
 | 84 | Billerica | 1383.6 |
 | 85 | Durfee | 1382.1 |
 | 86 | Old Rochester | 1338.5 |
-| 87 | Malden Catholic | 1338.1 |
-| 88 | Braintree | 1329.5 |
+| 87 | Braintree | 1329.5 |
+| 88 | Malden Catholic | 1327.9 |
 | 89 | Walpole | 1322.6 |
 | 90 | Nauset | 1309.6 |
