@@ -279,7 +279,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-09-30,152611,FINAL,Greater Lowell,4155,22.0,1.0,Whittier,4428,35.0,0.0,Commonwealth,Commonwealth,4:00 P.M.,,0
 2026-10-01,152114,UPCOMING,Whitman-Hanson,4427,,,Hingham,4171,,,Patriot,Patriot,4:00 P.M.,,0
 2026-10-01,152314,UPCOMING,Taunton,4388,,,Sharon,4345,,,Hockomock,Hockomock,4:00 P.M.,,0
-2026-10-05,148575,FINAL,Archbishop Williams,4012,15,1,Cardinal Spellman,4075,46,0,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-10-05,148575,FINAL,Archbishop Williams,4012,15.0,1.0,Cardinal Spellman,4075,46.0,0.0,Catholic Central,Catholic Central,4:00 P.M.,,0
 2026-10-06,147950,FINAL,Sandwich,4340,20,1,Nauset,4271,36,0,Cape & Islands,Cape & Islands,4:30 P.M.,,0
 2026-10-06,147970,UPCOMING,Martha’s Vineyard,4235,,,Dennis-Yarmouth,4111,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-10-06,147986,UPCOMING,Nantucket,4265,,,Falmouth,4134,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
@@ -415,7 +415,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-14,153790,FINAL,Walpole,4404,38,0,Needham,4272,17,1,Bay State,Bay State,4:00 P.M.,,0
 2026-10-14,153791,FINAL,Walpole,4404,33,0,Milton,4252,22,1,Bay State,Bay State,4:00 P.M.,,0
 2026-10-14,153792,FINAL,Milton,4252,31,0,Needham,4272,24,1,Bay State,Bay State,4:00 P.M.,,0
-2026-10-15,148577,UPCOMING,Bishop Feehan,4042,,,Archbishop Williams,4012,,,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-10-15,148577,FINAL,Bishop Feehan,4042,15,1,Archbishop Williams,4012,50,0,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-10-15,154024,FINAL,Somerset Berkley,4350,25,1,Dighton-Rehoboth,4114,31,0,South Coast,South Coast,,,0
+2026-10-15,154026,FINAL,Somerset Berkley,4350,15,1,Bourne,4050,50,0,South Coast,South Coast,,,0
+2026-10-15,154048,FINAL,Stoughton,4381,50,0,Sharon,4345,15,1,Hockomock,Hockomock,,,0
 2026-10-20,148279,UPCOMING,Sturgis East,4456,,,Rising Tide Charter,4746,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-10-20,149937,UPCOMING,East Bridgewater,4126,,,Cohasset,4094,,,South Shore,South Shore,4:00 P.M.,,0
 2026-10-20,149959,UPCOMING,Middleborough,4247,,,Abington,4002,,,South Shore,South Shore,4:00 P.M.,,0

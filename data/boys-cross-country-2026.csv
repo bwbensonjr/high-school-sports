@@ -290,7 +290,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-03,152725,FINAL,Beaver Country Day,4030,55.0,1.0,Worcester Academy,4441,62.0,0.0,EIL,Independent,,,0
 2026-10-03,152728,FINAL,Beaver Country Day,4030,55.0,1.0,Wilbraham & Monson,4545,72.0,0.0,EIL,Independent,,,0
 2026-10-03,152729,FINAL,Worcester Academy,4441,62.0,1.0,Wilbraham & Monson,4545,72.0,0.0,Independent,Independent,,,0
-2026-10-05,148567,FINAL,Archbishop Williams,4012,15,1,Cardinal Spellman,4075,50,0,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-10-05,148567,FINAL,Archbishop Williams,4012,15.0,1.0,Cardinal Spellman,4075,50.0,0.0,Catholic Central,Catholic Central,4:00 P.M.,,0
 2026-10-06,147938,FINAL,Sandwich,4340,31,0,Nauset,4271,28,1,Cape & Islands,Cape & Islands,4:30 P.M.,,0
 2026-10-06,147978,UPCOMING,Nantucket,4265,,,Falmouth,4134,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-10-06,148011,UPCOMING,Falmouth Academy,4135,,,Cape Cod Academy,4072,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
@@ -424,7 +424,10 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-14,153702,FINAL,West Bridgewater,4415,20,1,Apponequet,4011,41,0,South Coast,South Coast,4:00 P.M.,,0
 2026-10-14,153707,FINAL,Westwood,4424,32,0,Norwood,4297,25,1,Tri-Valley,Tri-Valley,4:00 P.M.,,0
 2026-10-14,153747,FINAL,Natick,4270,20,1,Weymouth,4425,41,0,Bay State,Bay State,4:00 P.M.,,0
-2026-10-15,148570,UPCOMING,Bishop Feehan,4042,,,Archbishop Williams,4012,,,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-10-15,148570,FINAL,Bishop Feehan,4042,24,1,Archbishop Williams,4012,31,0,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-10-15,154019,FINAL,Somerset Berkley,4350,25,1,Dighton-Rehoboth,4114,31,0,South Coast,South Coast,,,0
+2026-10-15,154021,FINAL,Somerset Berkley,4350,16,1,Bourne,4050,46,0,South Coast,South Coast,,,0
+2026-10-15,154047,FINAL,Stoughton,4381,32,0,Sharon,4345,25,1,Hockomock,Hockomock,,,0
 2026-10-20,147958,UPCOMING,Martha’s Vineyard,4235,,,Dennis-Yarmouth,4111,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-10-20,149926,UPCOMING,East Bridgewater,4126,,,Cohasset,4094,,,South Shore,South Shore,4:00 P.M.,,0
 2026-10-20,149948,UPCOMING,Middleborough,4247,,,Abington,4002,,,South Shore,South Shore,4:00 P.M.,,0
