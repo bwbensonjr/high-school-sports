@@ -1,6 +1,6 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-10-16 15:11
+Generated: 2026-10-17 14:03
 
 ## Upcoming Games
 
@@ -10,22 +10,23 @@ Generated: 2026-10-16 15:11
 | 2026-10-20 | 4:00 P.M. | East Bridgewater | Cohasset | 53.6% | +2.5 |
 | 2026-10-20 | 4:00 P.M. | Middleborough | Abington | 55.4% | +3.8 |
 | 2026-10-20 | 4:00 P.M. | Carver | Rockland | 50.1% | +0.1 |
+| 2026-10-21 | 4:30 P.M. | Swampscott | Marblehead | 79.4% | +23.4 |
 | 2026-10-21 | 4:00 P.M. | Beverly | Salem | 35.3% | -10.5 |
 | 2026-10-21 | 4:30 P.M. | Masconomet | Danvers | 70.2% | +14.9 |
 | 2026-10-21 | 4:00 P.M. | Malden | Somerville | 82.1% | +26.4 |
 | 2026-10-21 | 4:00 P.M. | Medford | Lynn Classical | 43.8% | -4.3 |
 | 2026-10-21 | 4:00 P.M. | Everett | Revere | 54.9% | +3.4 |
 | 2026-10-21 | 4:00 P.M. | Lynn English | Chelsea | 46.6% | -2.3 |
-| 2026-10-21 | 4:30 P.M. | Weston | Wayland | 57.5% | +5.2 |
+| 2026-10-21 | 4:00 P.M. | Boston Latin | Bedford | 60.3% | +7.2 |
+| 2026-10-21 | 4:30 P.M. | Winthrop | Peabody | 60.6% | +7.5 |
 | 2026-10-21 | 4:30 P.M. | Newton South | Cambridge | 68.2% | +13.2 |
-| 2026-10-21 | 4:30 P.M. | Swampscott | Marblehead | 79.4% | +23.4 |
 | 2026-10-21 | 4:00 P.M. | Lincoln-Sudbury | Acton-Boxborough | 54.5% | +3.2 |
 | 2026-10-21 | 3:30 P.M. | Westford | Concord-Carlisle | 78.3% | +22.2 |
 | 2026-10-21 | 4:00 P.M. | Milton | Braintree | 26.6% | -17.6 |
 | 2026-10-21 | 4:00 P.M. | Needham | Wellesley | 24.1% | -19.9 |
 | 2026-10-21 | 4:00 P.M. | Brookline | Newton North | 87.5% | +33.8 |
-| 2026-10-21 | 4:00 P.M. | Boston Latin | Bedford | 60.3% | +7.2 |
-| 2026-10-21 | 4:30 P.M. | Winthrop | Peabody | 60.6% | +7.5 |
+| 2026-10-21 | 4:30 P.M. | Weston | Wayland | 57.5% | +5.2 |
+| 2026-10-27 | 3:30 P.M. | Dennis-Yarmouth | Barnstable | 64.4% | +10.3 |
 
 ## Recent Games
 
@@ -184,16 +185,16 @@ Generated: 2026-10-16 15:11
 | 102 | Douglas | 1530.3 |
 | 103 | Tantasqua | 1529.9 |
 | 104 | Sizer | 1529.5 |
-| 105 | Maynard | 1528.7 |
-| 106 | South Lancaster | 1528.7 |
+| 105 | South Lancaster | 1528.7 |
+| 106 | Maynard | 1528.7 |
 | 107 | Shawsheen | 1527.9 |
 | 108 | Tahanto | 1527.8 |
 | 109 | Burncoat | 1527.7 |
 | 110 | Sutton | 1525.1 |
 | 111 | Norfolk Aggie | 1524.0 |
 | 112 | Medford | 1523.6 |
-| 113 | Hudson | 1523.4 |
-| 114 | Renaissance | 1523.4 |
+| 113 | Renaissance | 1523.4 |
+| 114 | Hudson | 1523.4 |
 | 115 | Shepherd Hill | 1522.0 |
 | 116 | Middleborough | 1521.1 |
 | 117 | Leominster | 1520.0 |
@@ -203,8 +204,8 @@ Generated: 2026-10-16 15:11
 | 121 | Archbishop Williams | 1517.9 |
 | 122 | Whittier | 1516.9 |
 | 123 | Brooks | 1516.0 |
-| 124 | Chicopee Comprehensive | 1514.8 |
-| 125 | Rivers | 1514.8 |
+| 124 | Rivers | 1514.8 |
+| 125 | Chicopee Comprehensive | 1514.8 |
 | 126 | Dana Hall | 1513.2 |
 | 127 | Minuteman | 1513.1 |
 | 128 | South Shore Voc-Tech | 1512.7 |
@@ -218,15 +219,15 @@ Generated: 2026-10-16 15:11
 | 136 | Holbrook/Avon | 1506.1 |
 | 137 | Monomoy | 1505.6 |
 | 138 | Westfield Tech | 1504.2 |
-| 139 | Amherst-Pelham | 1502.8 |
+| 139 | Westfield | 1502.8 |
 | 140 | Notre Dame (Tyngsborough) | 1502.8 |
-| 141 | Wachusett | 1502.8 |
-| 142 | Minnechaug | 1502.8 |
-| 143 | Westfield | 1502.8 |
-| 144 | Saugus | 1502.8 |
-| 145 | Notre Dame (Worcester) | 1502.8 |
-| 146 | Cape Cod Tech | 1502.8 |
-| 147 | Longmeadow | 1502.8 |
+| 141 | Minnechaug | 1502.8 |
+| 142 | Amherst-Pelham | 1502.8 |
+| 143 | Wachusett | 1502.8 |
+| 144 | Notre Dame (Worcester) | 1502.8 |
+| 145 | Longmeadow | 1502.8 |
+| 146 | Saugus | 1502.8 |
+| 147 | Cape Cod Tech | 1502.8 |
 | 148 | Pingree | 1502.0 |
 | 149 | West Bridgewater | 1501.0 |
 | 150 | Winthrop | 1499.9 |
