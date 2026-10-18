@@ -1,6 +1,6 @@
 # Boys Golf - 2026 Season
 
-Generated: 2026-10-17 14:03
+Generated: 2026-10-18 14:17
 
 ## Upcoming Games
 
@@ -292,8 +292,8 @@ Generated: 2026-10-17 14:03
 | 132 | Dartmouth | 1510.6 |
 | 133 | Southeastern | 1507.3 |
 | 134 | St. Mary (Westfield) | 1506.2 |
-| 135 | St. Paul’s | 1502.8 |
-| 136 | Greenfield | 1502.8 |
+| 135 | Greenfield | 1502.8 |
+| 136 | St. Paul’s | 1502.8 |
 | 137 | Tewksbury | 1500.4 |
 | 138 | Pembroke | 1499.8 |
 | 139 | Swampscott | 1497.6 |

@@ -887,40 +887,40 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-16,150753,FINAL,BB&N,4028,28,1,Belmont Hill,4035,0,0,NEPSAC Class B,NEPSAC Class B,6:00 P.M.,,0
 2026-10-16,151654,FINAL,Phillips Andover,4310,13,0,Suffield Academy,4382,28,1,NEPSAC Class A,NEPSAC Class A,7:45 P.M.,,0
 2026-10-16,151676,FINAL,St. George’s,4367,13,0,Thayer,4390,34,1,NEPSAC Class C,NEPSAC Class C,6:30 P.M.,,0
+2026-10-16,154111,FINAL,Avon Old Farms,4021,28,1,Hotchkiss,4181,14,0,NEPSAC Class A,NEPSAC Class A,,,0
+2026-10-16,154142,FINAL,Hamden Hall Country Day,4162,8,0,Berkshire,4036,47,1,NEPSAC Class C,NEPSAC Class C,5:30 P.M.,,0
+2026-10-16,154147,FINAL,Canterbury,4070,41,1,Capital Prep Harbor (Conn.),4905,0,0,NEPSAC Class C,NEPSAC Class C,,,0
 2026-10-16,154175,FINAL,Londonderry (N.H.),4213,28,1,Central Catholic,4081,27,0,Independent,Merrimack Valley,7:00 P.M.,,0
 2026-10-16,154191,FINAL,Ashland,4015,29,1,Holliston,4174,15,0,Tri-Valley,Tri-Valley,6:00 P.M.,,0
 2026-10-16,154193,FINAL,Leicester,4207,19,1,Oxford,4303,0,0,CMAC,CMAC,6:30 P.M.,,0
-2026-10-17,127515,UPCOMING,Brookline,4059,,,Natick,4270,,,Bay State,Bay State,3:00 P.M.,,0
-2026-10-17,128202,UPCOMING,Hingham,4171,,,Whitman-Hanson,4427,,,Patriot,Patriot,3:30 P.M.,,0
-2026-10-17,128280,UPCOMING,Longmeadow,4214,,,West Springfield,4417,,,AA,Suburban,3:30 P.M.,,0
-2026-10-17,128341,UPCOMING,Duxbury,4123,,,Silver Lake,4349,,,Patriot,Patriot,2:00 P.M.,,0
-2026-10-17,128358,POSTPONED,Northampton,4291,,,Frontier,4146,,,Suburban,Intercounty,6:00 P.M.,,0
-2026-10-17,128577,UPCOMING,East Bridgewater,4126,,,Middleborough,4247,,,South Shore,South Shore,2:00 P.M.,,0
-2026-10-17,128695,UPCOMING,Monty Tech,4259,,,Burncoat,4066,,,CMAC,CMAC,6:00 P.M.,,0
-2026-10-17,128826,UPCOMING,Northbridge,4292,,,Blackstone Valley,4046,,,CMAC,CMAC,6:00 P.M.,,0
-2026-10-17,128841,UPCOMING,Bay Path,4027,,,Northeast,4293,,,CMAC,Commonwealth,6:00 P.M.,,0
-2026-10-17,128862,UPCOMING,Worcester Tech,4445,,,Bartlett,4026,,,CMAC,CMAC,12:00 P.M.,,0
-2026-10-17,129088,UPCOMING,Lunenburg,4219,,,Ayer Shirley/Littleton,4022,,,Mid-Wach,Mid-Wach,1:00 P.M.,,0
-2026-10-17,129403,UPCOMING,Pathfinder,4305,,,McCann Tech,4240,,,Tri-County,Tri-County,10:00 A.M.,,0
-2026-10-17,129485,UPCOMING,Quaboag,4510,,,Brighton,4055,,,CMAC,Boston City,10:00 A.M.,,0
-2026-10-17,129524,UPCOMING,Athol,4017,,,Ware,4406,,,Intercounty,Intercounty,12:00 P.M.,,0
-2026-10-17,150755,UPCOMING,Middlesex,4248,,,Brooks,4060,,,NEPSAC Class C,NEPSAC Class C,2:00 P.M.,,0
-2026-10-17,150758,UPCOMING,Lawrence Academy,4204,,,Roxbury Latin,4334,,,NEPSAC Class C,NEPSAC Class C,2:00 P.M.,,0
-2026-10-17,150760,UPCOMING,Governor’s Academy,4152,,,St. Mark’s,4372,,,NEPSAC Class C,NEPSAC Class C,2:00 P.M.,,0
-2026-10-17,150762,UPCOMING,St. Sebastian’s,4378,,,St. Paul’s,4375,,,NEPSAC Class B,NEPSAC Class B,3:00 P.M.,,0
-2026-10-17,150765,UPCOMING,Rivers,4330,,,Nobles,4282,,,NEPSAC Class C,NEPSAC Class C,3:30 P.M.,,0
-2026-10-17,151617,UPCOMING,Pingree,4312,,,Worcester Academy,4441,,,NEPSAC Class C,NEPSAC Class C,3:00 P.M.,,0
-2026-10-17,151637,UPCOMING,Dexter Southfield,4113,,,Kent,4193,,,NEPSAC Class A,NEPSAC Class A,3:30 P.M.,,0
-2026-10-17,151921,UPCOMING,Loomis Chaffee (Conn.),4215,,,Milton Academy,4253,,,NEPSAC Class A,NEPSAC Class B,5:00 P.M.,,0
-2026-10-17,154111,UPCOMING,Avon Old Farms,4021,,,Hotchkiss,4181,,,NEPSAC Class A,NEPSAC Class A,,,0
-2026-10-17,154114,UPCOMING,Choate,4090,,,Taft,4386,,,NEPSAC Class A,NEPSAC Class A,,,0
-2026-10-17,154124,UPCOMING,Brunswick,4062,,,Cheshire Academy,4087,,,NEPSAC Class A,NEPSAC Class A,,,0
-2026-10-17,154133,UPCOMING,Salisbury (Conn.),4339,,,Phillips Exeter,4311,,,NEPSAC Class A,NEPSAC Class A,,,0
-2026-10-17,154138,UPCOMING,Deerfield,4110,,,Williston Northampton,4431,,,NEPSAC Class A,NEPSAC Class A,,,0
-2026-10-17,154142,UPCOMING,Hamden Hall Country Day,4162,,,Berkshire,4036,,,NEPSAC Class C,NEPSAC Class C,,,0
-2026-10-17,154147,UPCOMING,Canterbury,4070,,,Capital Prep Harbor (Conn.),4905,,,NEPSAC Class C,NEPSAC Class C,,,0
-2026-10-17,154150,UPCOMING,Greenwich CD (Conn.),5041,,,St. Luke’s,4618,,,NEPSAC Class C,Independent,,,0
-2026-10-17,154159,UPCOMING,Portsmouth Abbey,4320,,,New Hampton,4275,,,NEPSAC Class C,NEPSAC Class C,,,0
+2026-10-17,127515,FINAL,Brookline,4059,6,0,Natick,4270,27,1,Bay State,Bay State,3:00 P.M.,,0
+2026-10-17,128202,FINAL,Hingham,4171,34,1,Whitman-Hanson,4427,7,0,Patriot,Patriot,3:30 P.M.,,0
+2026-10-17,128280,FINAL,Longmeadow,4214,42,1,West Springfield,4417,21,0,AA,Suburban,3:30 P.M.,,0
+2026-10-17,128341,FINAL,Duxbury,4123,34,1,Silver Lake,4349,19,0,Patriot,Patriot,2:00 P.M.,,0
+2026-10-17,128358,FINAL,Northampton,4291,6,0,Frontier,4146,28,1,Suburban,Intercounty,6:00 P.M.,,0
+2026-10-17,128577,FINAL,East Bridgewater,4126,7,0,Middleborough,4247,34,1,South Shore,South Shore,2:00 P.M.,,0
+2026-10-17,128695,FINAL,Monty Tech,4259,16,0,Burncoat,4066,31,1,CMAC,CMAC,12:00 P.M.,,0
+2026-10-17,128826,FINAL,Northbridge,4292,20,1,Blackstone Valley,4046,8,0,CMAC,CMAC,1:00 P.M.,,0
+2026-10-17,128841,FINAL,Bay Path,4027,13,0,Northeast,4293,20,1,CMAC,Commonwealth,6:00 P.M.,,0
+2026-10-17,128862,FINAL,Worcester Tech,4445,14,0,Bartlett,4026,48,1,CMAC,CMAC,12:00 P.M.,,0
+2026-10-17,129088,FINAL,Lunenburg,4219,0,0,Ayer Shirley/Littleton,4022,20,1,Mid-Wach,Mid-Wach,1:00 P.M.,,0
+2026-10-17,129403,FINAL,Pathfinder,4305,41,1,McCann Tech,4240,8,0,Tri-County,Tri-County,10:00 A.M.,,0
+2026-10-17,129485,FINAL,Quaboag,4510,0,0,Brighton,4055,14,1,CMAC,Boston City,10:00 A.M.,,0
+2026-10-17,129524,FINAL,Athol,4017,8,0,Ware,4406,36,1,Intercounty,Intercounty,12:00 P.M.,,0
+2026-10-17,150755,FINAL,Middlesex,4248,21,0,Brooks,4060,40,1,NEPSAC Class C,NEPSAC Class C,2:00 P.M.,,0
+2026-10-17,150758,FINAL,Lawrence Academy,4204,28,1,Roxbury Latin,4334,0,0,NEPSAC Class C,NEPSAC Class C,2:00 P.M.,,0
+2026-10-17,150760,FINAL,Governor’s Academy,4152,12,1,St. Mark’s,4372,7,0,NEPSAC Class C,NEPSAC Class C,2:00 P.M.,,0
+2026-10-17,150762,FINAL,St. Sebastian’s,4378,20,1,St. Paul’s,4375,0,0,NEPSAC Class B,NEPSAC Class B,3:00 P.M.,,0
+2026-10-17,150765,FINAL,Rivers,4330,20,0,Nobles,4282,35,1,NEPSAC Class C,NEPSAC Class C,3:30 P.M.,,0
+2026-10-17,151617,FINAL,Pingree,4312,21,1,Worcester Academy,4441,14,0,NEPSAC Class C,NEPSAC Class C,3:00 P.M.,,0
+2026-10-17,151637,FINAL,Dexter Southfield,4113,38,1,Kent,4193,13,0,NEPSAC Class A,NEPSAC Class A,3:30 P.M.,,0
+2026-10-17,151921,FINAL,Loomis Chaffee (Conn.),4215,14,1,Milton Academy,4253,10,0,NEPSAC Class A,NEPSAC Class B,5:00 P.M.,,0
+2026-10-17,154114,FINAL,Choate,4090,30,1,Taft,4386,27,0,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
+2026-10-17,154124,FINAL,Brunswick,4062,41,1,Cheshire Academy,4087,14,0,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
+2026-10-17,154133,FINAL,Salisbury (Conn.),4339,14,0,Phillips Exeter,4311,45,1,NEPSAC Class A,NEPSAC Class A,3:30 P.M.,,0
+2026-10-17,154138,FINAL,Deerfield,4110,7,0,Williston Northampton,4431,36,1,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
+2026-10-17,154150,FINAL,Greenwich CD (Conn.),5041,36,1,St. Luke’s,4618,6,0,NEPSAC Class C,Independent,3:45 P.M.,,0
+2026-10-17,154159,FINAL,Portsmouth Abbey,4320,14,0,New Hampton,4275,28,1,NEPSAC Class C,NEPSAC Class C,3:00 P.M.,,0
 2026-10-22,127470,UPCOMING,Winchester,4434,,,Lexington,4209,,,Middlesex,Middlesex,6:30 P.M.,,0
 2026-10-22,127866,UPCOMING,Minnechaug,4254,,,Springfield Central,4360,,,AA,AA,6:30 P.M.,,0
 2026-10-22,127957,UPCOMING,Whittier,4428,,,Greater Lowell,4155,,,Commonwealth,Commonwealth,6:00 P.M.,,0

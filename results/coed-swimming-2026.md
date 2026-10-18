@@ -1,6 +1,6 @@
 # Coed Swimming - 2026 Season
 
-Generated: 2026-10-17 14:03
+Generated: 2026-10-18 14:17
 
 ## Upcoming Games
 
@@ -9,9 +9,8 @@ Generated: 2026-10-17 14:03
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-10-10 | North Andover | 94 | Methuen/Tewksbury | 81 | +0.6 | +13.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 
