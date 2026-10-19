@@ -1,6 +1,6 @@
 # Boys Hockey - 2026 Season
 
-Generated: 2026-10-18 14:17
+Generated: 2026-10-19 17:19
 
 ## Upcoming Games
 
@@ -149,8 +149,8 @@ Generated: 2026-10-18 14:17
 | 131 | Northwood (N.Y.) | 1491.6 |
 | 132 | Amesbury/Whittier | 1491.3 |
 | 133 | Central Catholic | 1491.1 |
-| 134 | La Salle (R.I.) | 1490.8 |
-| 135 | Stanstead (Canada) | 1490.8 |
+| 134 | Stanstead (Canada) | 1490.8 |
+| 135 | La Salle (R.I.) | 1490.8 |
 | 136 | Loomis Chaffee (Conn.) | 1490.8 |
 | 137 | Hoosac School | 1490.2 |
 | 138 | Fairfield Prep (Conn.) | 1489.9 |

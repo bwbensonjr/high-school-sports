@@ -1,6 +1,6 @@
 # Boys Cross Country - 2026 Season
 
-Generated: 2026-10-18 14:17
+Generated: 2026-10-19 17:19
 
 ## Upcoming Games
 
@@ -199,8 +199,8 @@ Generated: 2026-10-18 14:17
 | 112 | Gateway | 1522.0 |
 | 113 | Frontier | 1521.2 |
 | 114 | Leominster | 1520.7 |
-| 115 | Westborough | 1519.4 |
-| 116 | Minuteman | 1519.4 |
+| 115 | Minuteman | 1519.4 |
+| 116 | Westborough | 1519.4 |
 | 117 | Maynard | 1518.8 |
 | 118 | BB&N | 1518.7 |
 | 119 | Burlington | 1517.2 |
@@ -225,19 +225,19 @@ Generated: 2026-10-18 14:17
 | 138 | New Bedford | 1503.8 |
 | 139 | Scituate | 1503.4 |
 | 140 | Sturgis West | 1503.1 |
-| 141 | Riverview School | 1502.8 |
-| 142 | Amherst-Pelham | 1502.8 |
-| 143 | Minnechaug | 1502.8 |
-| 144 | Greater Lawrence | 1502.8 |
-| 145 | Notre Dame (Tyngsborough) | 1502.8 |
+| 141 | Westfield | 1502.8 |
+| 142 | Minnechaug | 1502.8 |
+| 143 | Notre Dame (Tyngsborough) | 1502.8 |
+| 144 | Watkinson | 1502.8 |
+| 145 | Riverview School | 1502.8 |
 | 146 | St. Sebastian’s | 1502.8 |
-| 147 | Greater Lowell | 1502.8 |
-| 148 | Bridgewater-Raynham | 1502.8 |
+| 147 | Greater Lawrence | 1502.8 |
+| 148 | Amherst-Pelham | 1502.8 |
 | 149 | Longmeadow | 1502.8 |
-| 150 | Watkinson | 1502.8 |
-| 151 | Wachusett | 1502.8 |
-| 152 | Tabor | 1502.8 |
-| 153 | Westfield | 1502.8 |
+| 150 | Bridgewater-Raynham | 1502.8 |
+| 151 | Greater Lowell | 1502.8 |
+| 152 | Wachusett | 1502.8 |
+| 153 | Tabor | 1502.8 |
 | 154 | East Bridgewater | 1501.9 |
 | 155 | Carver | 1500.6 |
 | 156 | Malden | 1500.0 |

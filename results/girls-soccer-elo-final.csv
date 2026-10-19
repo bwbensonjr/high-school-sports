@@ -192,19 +192,19 @@ New Hampton,1504.706833499912
 Madison Park,1504.581058820388
 Williston Northampton,1504.5078547809549
 Boston Prep,1502.7555
-Kingswood-Oxford,1502.7555
-Taft,1502.7555
-La Salle (R.I.),1502.7555
-Newman School,1502.7555
-Pioneer Valley Chinese Immersion,1502.7555
-Poughkeepsie Day (N.Y.),1502.7555
 Barrington (R.I.),1502.7555
-KIPP,1502.7555
-Housatonic Regional (Conn.),1502.7555
-Bridgton Academy,1502.7555
+Kingswood-Oxford,1502.7555
 Kent,1502.7555
+Newman School,1502.7555
 Neighborhood House Charter,1502.7555
+KIPP,1502.7555
+Taft,1502.7555
+Poughkeepsie Day (N.Y.),1502.7555
 South Shore Christian,1502.7555
+Housatonic Regional (Conn.),1502.7555
+Pioneer Valley Chinese Immersion,1502.7555
+Bridgton Academy,1502.7555
+La Salle (R.I.),1502.7555
 Palmer,1502.5198521772252
 Cranston West (R.I.),1499.9493439497553
 Concord Academy,1499.888934889796
@@ -275,6 +275,7 @@ Sacred Heart,1476.0557459374825
 Argosy Collegiate,1475.9030929344758
 Wilbraham & Monson,1475.0782365692119
 Notre Dame Academy-Worcester,1473.684598623578
+Westfield,1472.9515606581353
 Gould,1472.8249420542684
 St. Mark’s,1472.477159538635
 Chelsea,1471.9969009557005
@@ -323,7 +324,6 @@ Mashpee,1446.6809819726388
 Waltham,1445.6200098404713
 North Attleborough,1445.533202699213
 Manchester Essex,1445.0409207857656
-Westfield,1444.0440438257867
 Millbury,1443.2057328760648
 Monument Mtn.,1442.9836970236756
 Malden Catholic,1442.7181301928251
@@ -341,7 +341,6 @@ Cushing,1436.7280084509161
 Leominster,1435.2682801438139
 Revere,1434.3586140105226
 St. John Paul II,1434.1509658399832
-Agawam,1433.1651640152768
 Ayer Shirley,1432.3481741042278
 Blackstone Valley,1432.1547127617173
 Durfee,1432.0344108561976
@@ -376,6 +375,7 @@ Maynard,1408.5741291594836
 Saugus,1406.953396946934
 Pentucket,1406.7301008301865
 Arlington Catholic,1405.6548390669732
+Agawam,1404.2576471829282
 Doherty,1402.8574458024555
 Northeast,1402.3231670845294
 Springfield Central,1399.4596825414492
