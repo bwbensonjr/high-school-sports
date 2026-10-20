@@ -1,6 +1,6 @@
 # Boys Cross Country - 2026 Season
 
-Generated: 2026-10-19 17:19
+Generated: 2026-10-20 15:32
 
 ## Upcoming Games
 
@@ -37,8 +37,7 @@ Generated: 2026-10-19 17:19
 | 2026-10-15 | Somerset Berkley | 16 | Bourne | 46 | -3.9 | -30.0 |
 | 2026-10-15 | Somerset Berkley | 25 | Dighton-Rehoboth | 31 | -16.2 | -6.0 |
 | 2026-10-15 | Bishop Feehan | 24 | Archbishop Williams | 31 | +38.6 | -7.0 |
-| 2026-10-14 | Billerica | 48 | North Andover | 15 | +8.8 | +33.0 |
-| 2026-10-14 | Danvers | 42 | Peabody | 19 | +14.4 | +23.0 |
+| 2026-10-14 | Tewksbury | 39 | Central Catholic | 22 | +26.2 | +17.0 |
 | 2026-10-14 | Beverly | 49 | Swampscott | 16 | +8.4 | +33.0 |
 | 2026-10-14 | Saugus | 42 | Marblehead | 19 | +18.7 | +23.0 |
 | 2026-10-14 | Masconomet | 15 | Salem | 46 | -22.5 | -31.0 |
@@ -46,21 +45,23 @@ Generated: 2026-10-19 17:19
 | 2026-10-14 | Lowell | 23 | Andover | 34 | -1.1 | -11.0 |
 | 2026-10-14 | Billerica | 25 | Dracut | 36 | -35.3 | -11.0 |
 | 2026-10-14 | North Andover | 25 | Dracut | 36 | -40.1 | -11.0 |
-| 2026-10-14 | Haverhill | 41 | Central Catholic | 19 | +36.0 | +22.0 |
-| 2026-10-14 | Tewksbury | 39 | Central Catholic | 22 | +26.2 | +17.0 |
-| 2026-10-14 | North Reading | 25 | Pentucket | 33 | +6.9 | -8.0 |
+| 2026-10-14 | Billerica | 48 | North Andover | 15 | +8.8 | +33.0 |
 | 2026-10-14 | Haverhill | 26 | Tewksbury | 33 | +12.7 | -7.0 |
+| 2026-10-14 | Haverhill | 41 | Central Catholic | 19 | +36.0 | +22.0 |
+| 2026-10-14 | Somerville | 22 | Everett | 37 | -20.1 | -15.0 |
 | 2026-10-14 | Framingham | 50 | Brookline | 15 | +54.0 | +35.0 |
 | 2026-10-14 | Braintree | 47 | Brookline | 16 | +57.9 | +31.0 |
 | 2026-10-14 | West Bridgewater | 20 | Apponequet | 41 | +0.6 | -21.0 |
 | 2026-10-14 | Westwood | 32 | Norwood | 25 | -18.9 | +7.0 |
 | 2026-10-14 | Natick | 20 | Weymouth | 41 | -10.1 | -21.0 |
-| 2026-10-14 | Somerville | 22 | Everett | 37 | -20.1 | -15.0 |
-| 2026-10-14 | Lynnfield | 50 | Newburyport | 15 | +30.7 | +35.0 |
+| 2026-10-14 | Catholic Memorial | 44 | St. John’s Prep | 15 | +25.8 | +29.0 |
+| 2026-10-14 | Danvers | 42 | Peabody | 19 | +14.4 | +23.0 |
+| 2026-10-14 | North Reading | 25 | Pentucket | 33 | +6.9 | -8.0 |
+| 2026-10-14 | ME/Rockport | 19 | Hamilton-Wenham | 40 | +11.7 | -21.0 |
 | 2026-10-14 | Walpole | 28 | Needham | 27 | +0.4 | +1.0 |
 | 2026-10-14 | Walpole | 25 | Milton | 30 | -5.0 | -5.0 |
 | 2026-10-14 | Needham | 26 | Milton | 29 | +1.7 | -3.0 |
-| 2026-10-14 | ME/Rockport | 19 | Hamilton-Wenham | 40 | +11.7 | -21.0 |
+| 2026-10-14 | Lynnfield | 50 | Newburyport | 15 | +30.7 | +35.0 |
 | 2026-10-13 | Monomoy | 27 | Falmouth Academy | 28 | -2.9 | -1.0 |
 | 2026-10-13 | Marshfield | 22 | Hingham | 45 | -3.9 | -23.0 |
 | 2026-10-13 | Xaverian | 23 | St. John’s (Shrewsbury) | 34 | -11.1 | -11.0 |
@@ -139,26 +140,26 @@ Generated: 2026-10-19 17:19
 | 52 | Taunton | 1572.2 |
 | 53 | Wakefield | 1571.8 |
 | 54 | Winchester | 1571.5 |
-| 55 | Danvers | 1569.6 |
-| 56 | Pingree | 1567.9 |
-| 57 | King Philip | 1565.0 |
-| 58 | Canton | 1563.7 |
-| 59 | Duxbury | 1562.9 |
-| 60 | Bristol Aggie | 1562.8 |
-| 61 | Dennis-Yarmouth | 1560.3 |
-| 62 | Bishop Feehan | 1557.8 |
-| 63 | Nashoba Valley Tech | 1557.7 |
-| 64 | Worcester Tech/North | 1557.6 |
-| 65 | Beverly | 1557.1 |
-| 66 | Joseph Case | 1556.2 |
-| 67 | Sutton | 1556.0 |
-| 68 | Weymouth | 1555.7 |
-| 69 | Rising Tide Charter | 1555.2 |
-| 70 | Marlborough | 1553.6 |
-| 71 | Springfield Central | 1553.2 |
-| 72 | Lunenburg | 1553.2 |
-| 73 | Hingham | 1552.1 |
-| 74 | Catholic Memorial | 1551.9 |
+| 55 | Catholic Memorial | 1570.7 |
+| 56 | Danvers | 1569.6 |
+| 57 | Pingree | 1567.9 |
+| 58 | King Philip | 1565.0 |
+| 59 | Canton | 1563.7 |
+| 60 | Duxbury | 1562.9 |
+| 61 | Bristol Aggie | 1562.8 |
+| 62 | Dennis-Yarmouth | 1560.3 |
+| 63 | Bishop Feehan | 1557.8 |
+| 64 | Nashoba Valley Tech | 1557.7 |
+| 65 | Worcester Tech/North | 1557.6 |
+| 66 | Beverly | 1557.1 |
+| 67 | Joseph Case | 1556.2 |
+| 68 | Sutton | 1556.0 |
+| 69 | Weymouth | 1555.7 |
+| 70 | Rising Tide Charter | 1555.2 |
+| 71 | Marlborough | 1553.6 |
+| 72 | Springfield Central | 1553.2 |
+| 73 | Lunenburg | 1553.2 |
+| 74 | Hingham | 1552.1 |
 | 75 | Apponequet | 1550.2 |
 | 76 | Norfolk Aggie | 1549.4 |
 | 77 | Whittier | 1543.8 |
@@ -225,18 +226,18 @@ Generated: 2026-10-19 17:19
 | 138 | New Bedford | 1503.8 |
 | 139 | Scituate | 1503.4 |
 | 140 | Sturgis West | 1503.1 |
-| 141 | Westfield | 1502.8 |
-| 142 | Minnechaug | 1502.8 |
-| 143 | Notre Dame (Tyngsborough) | 1502.8 |
-| 144 | Watkinson | 1502.8 |
-| 145 | Riverview School | 1502.8 |
-| 146 | St. Sebastian’s | 1502.8 |
-| 147 | Greater Lawrence | 1502.8 |
-| 148 | Amherst-Pelham | 1502.8 |
-| 149 | Longmeadow | 1502.8 |
-| 150 | Bridgewater-Raynham | 1502.8 |
-| 151 | Greater Lowell | 1502.8 |
-| 152 | Wachusett | 1502.8 |
+| 141 | Notre Dame (Tyngsborough) | 1502.8 |
+| 142 | Wachusett | 1502.8 |
+| 143 | Amherst-Pelham | 1502.8 |
+| 144 | Westfield | 1502.8 |
+| 145 | Minnechaug | 1502.8 |
+| 146 | Watkinson | 1502.8 |
+| 147 | Riverview School | 1502.8 |
+| 148 | St. Sebastian’s | 1502.8 |
+| 149 | Greater Lawrence | 1502.8 |
+| 150 | Longmeadow | 1502.8 |
+| 151 | Bridgewater-Raynham | 1502.8 |
+| 152 | Greater Lowell | 1502.8 |
 | 153 | Tabor | 1502.8 |
 | 154 | East Bridgewater | 1501.9 |
 | 155 | Carver | 1500.6 |
@@ -341,14 +342,14 @@ Generated: 2026-10-19 17:19
 | 254 | Dover-Sherborn | 1350.2 |
 | 255 | Oliver Ames | 1346.7 |
 | 256 | Keefe Tech | 1344.9 |
-| 257 | St. John’s Prep | 1343.6 |
-| 258 | Nantucket | 1342.2 |
-| 259 | Norwell | 1339.9 |
-| 260 | Natick | 1338.4 |
-| 261 | Archbishop Williams | 1334.8 |
-| 262 | Nobles | 1332.4 |
-| 263 | Somerset Berkley | 1330.5 |
-| 264 | Cambridge | 1325.5 |
+| 257 | Nantucket | 1342.2 |
+| 258 | Norwell | 1339.9 |
+| 259 | Natick | 1338.4 |
+| 260 | Archbishop Williams | 1334.8 |
+| 261 | Nobles | 1332.4 |
+| 262 | Somerset Berkley | 1330.5 |
+| 263 | Cambridge | 1325.5 |
+| 264 | St. John’s Prep | 1324.8 |
 | 265 | Newburyport | 1322.8 |
 | 266 | Somerville | 1319.5 |
 | 267 | Arlington | 1316.0 |

@@ -1664,35 +1664,35 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-08,153211,UPCOMING,Northeast,4293,,,Greater Lowell,4155,,,Commonwealth,Commonwealth,4:00 P.M.,,0
 2026-10-08,153269,FINAL,Mt. Greylock,4262,160.0,1.0,Pittsfield,4314,185.0,0.0,Berkshire,Berkshire,3:00 P.M.,,0
 2026-10-08,153272,FINAL,Medfield,4241,230.0,1.0,Dedham,4108,279.0,0.0,Tri-Valley,Tri-Valley,3:45 P.M.,,0
-2026-10-09,146874,FINAL,Medway,4243,308,0,Holliston,4174,307,1,Tri-Valley,Tri-Valley,3:15 P.M.,,0
-2026-10-09,147118,FINAL,St. Paul,4954,172,0,Douglas,4506,168,1,CMAC,CMAC,3:15 P.M.,,0
-2026-10-09,147210,FINAL,King Philip,4197,140,1,Foxborough,4142,152,0,Hockomock,Hockomock,3:15 P.M.,,0
+2026-10-09,146874,FINAL,Medway,4243,308.0,0.0,Holliston,4174,307.0,1.0,Tri-Valley,Tri-Valley,3:15 P.M.,,0
+2026-10-09,147118,FINAL,St. Paul,4954,172.0,0.0,Douglas,4506,168.0,1.0,CMAC,CMAC,3:15 P.M.,,0
+2026-10-09,147210,FINAL,King Philip,4197,140.0,1.0,Foxborough,4142,152.0,0.0,Hockomock,Hockomock,3:15 P.M.,,0
 2026-10-09,147313,UPCOMING,Burlington,4065,,,Arlington,4013,,,Middlesex,Middlesex,3:30 P.M.,,0
-2026-10-09,147333,FINAL,Oliver Ames,4302,133,1,Canton,4071,140,0,Hockomock,Hockomock,3:00 P.M.,,0
-2026-10-09,147843,FINAL,Methuen,4246,243,0,Andover,4009,228,1,Merrimack Valley,Merrimack Valley,2:45 P.M.,,0
+2026-10-09,147333,FINAL,Oliver Ames,4302,133.0,1.0,Canton,4071,140.0,0.0,Hockomock,Hockomock,3:00 P.M.,,0
+2026-10-09,147843,FINAL,Methuen,4246,243.0,0.0,Andover,4009,228.0,1.0,Merrimack Valley,Merrimack Valley,2:45 P.M.,,0
 2026-10-09,148131,UPCOMING,Greater New Bedford,4156,,,Dighton-Rehoboth,4114,,,South Coast,South Coast,3:15 P.M.,,0
-2026-10-09,148691,FINAL,Methuen,4246,243,0,North Andover,4283,242,1,Merrimack Valley,Merrimack Valley,2:45 P.M.,,0
-2026-10-09,149352,FINAL,Belchertown,4032,174,0,Minnechaug,4254,151,1,Suburban,Valley League,3:00 P.M.,,0
-2026-10-09,149469,FINAL,Oakmont,4299,159,1,Gardner,4147,164,0,Mid-Wach,Mid-Wach,3:30 P.M.,,0
+2026-10-09,148691,FINAL,Methuen,4246,243.0,0.0,North Andover,4283,242.0,1.0,Merrimack Valley,Merrimack Valley,2:45 P.M.,,0
+2026-10-09,149352,FINAL,Belchertown,4032,174.0,0.0,Minnechaug,4254,151.0,1.0,Suburban,Valley League,3:00 P.M.,,0
+2026-10-09,149469,FINAL,Oakmont,4299,159.0,1.0,Gardner,4147,164.0,0.0,Mid-Wach,Mid-Wach,3:30 P.M.,,0
 2026-10-09,149597,UPCOMING,Wahconah,4401,,,Monument Mtn.,4260,,,Berkshire,Berkshire,3:30 P.M.,,0
-2026-10-09,149624,FINAL,Mt. Greylock,4262,165,0,Lee,4206,192,1,Berkshire,Berkshire,3:30 P.M.,,0
+2026-10-09,149624,FINAL,Mt. Greylock,4262,165.0,0.0,Lee,4206,192.0,1.0,Berkshire,Berkshire,3:30 P.M.,,0
 2026-10-09,149702,UPCOMING,Littleton,4212,,,Quabbin,4325,,,Mid-Wach,Mid-Wach,3:30 P.M.,,0
 2026-10-09,150223,UPCOMING,Worcester Tech,4445,,,St. Bernard’s,4365,,,CMAC,CMAC,3:30 P.M.,,0
-2026-10-09,153302,FINAL,Salem,4336,33.5,0,Winthrop,4437,38.5,1,Northeastern,Northeastern,4:00 P.M.,,0
-2026-10-09,153308,FINAL,Bourne,4050,244,1,Upper Cape,4457,256,0,South Coast,Mayflower,3:30 P.M.,,0
-2026-10-09,153320,FINAL,North Andover,4283,242,0,Andover,4009,228,1,Merrimack Valley,Merrimack Valley,2:40 P.M.,,0
-2026-10-09,153321,FINAL,Athol,4017,196,1,Hopkins,4531,200,0,Independent,Bi-County,3:00 P.M.,,0
-2026-10-09,153322,FINAL,North Middlesex,4286,163,0,Wachusett,4400,153,1,Mid-Wach,Mid-Wach,3:30 P.M.,,0
-2026-10-09,153325,FINAL,North Middlesex,4286,163,0,Nashoba,4267,148,1,Mid-Wach,Mid-Wach,3:30 P.M.,,0
-2026-10-09,153328,FINAL,Ware,4406,188,1,Monson,4429,167,0,Suburban,Suburban,3:30 P.M.,,0
-2026-10-09,153335,FINAL,Beaver Country Day,4030,6,1,Bancroft,4023,0,0,EIL,EIL,,,0
-2026-10-09,153367,FINAL,Greater New Bedford,4156,278,0,Dartmouth,4105,233,1,South Coast,Pioneer,2:30 P.M.,,0
-2026-10-09,153370,FINAL,Uxbridge,4398,177,0,Nipmuc,4281,176,1,CMAC,CMAC,3:00 P.M.,,0
-2026-10-09,153372,FINAL,Chicopee Comprehensive,4089,156,0,West Springfield,4417,152,1,Suburban,Valley League,3:00 P.M.,,0
-2026-10-09,153375,FINAL,East Bridgewater,4126,113,0,Mashpee,4237,94,1,South Shore,South Shore,3:30 P.M.,,0
-2026-10-09,153377,FINAL,Beverly,4038,32,0,Marblehead,4231,40,1,Northeastern,Northeastern,3:30 P.M.,,0
-2026-10-09,153382,FINAL,Franklin County Tech,4145,153,1,Turners Falls,4396,199,0,Bi-County,Bi-County,3:00 P.M.,,0
-2026-10-09,153391,FINAL,Chicopee Comprehensive,4089,156,1,Chicopee,4088,217,0,Suburban,Suburban,3:00 P.M.,,0
+2026-10-09,153302,FINAL,Salem,4336,33.5,0.0,Winthrop,4437,38.5,1.0,Northeastern,Northeastern,4:00 P.M.,,0
+2026-10-09,153308,FINAL,Bourne,4050,244.0,1.0,Upper Cape,4457,256.0,0.0,South Coast,Mayflower,3:30 P.M.,,0
+2026-10-09,153320,FINAL,North Andover,4283,242.0,0.0,Andover,4009,228.0,1.0,Merrimack Valley,Merrimack Valley,2:40 P.M.,,0
+2026-10-09,153321,FINAL,Athol,4017,196.0,1.0,Hopkins,4531,200.0,0.0,Independent,Bi-County,3:00 P.M.,,0
+2026-10-09,153322,FINAL,North Middlesex,4286,163.0,0.0,Wachusett,4400,153.0,1.0,Mid-Wach,Mid-Wach,3:30 P.M.,,0
+2026-10-09,153325,FINAL,North Middlesex,4286,163.0,0.0,Nashoba,4267,148.0,1.0,Mid-Wach,Mid-Wach,3:30 P.M.,,0
+2026-10-09,153328,FINAL,Ware,4406,188.0,1.0,Monson,4429,167.0,0.0,Suburban,Suburban,3:30 P.M.,,0
+2026-10-09,153335,FINAL,Beaver Country Day,4030,6.0,1.0,Bancroft,4023,0.0,0.0,EIL,EIL,,,0
+2026-10-09,153367,FINAL,Greater New Bedford,4156,278.0,0.0,Dartmouth,4105,233.0,1.0,South Coast,Pioneer,2:30 P.M.,,0
+2026-10-09,153370,FINAL,Uxbridge,4398,177.0,0.0,Nipmuc,4281,176.0,1.0,CMAC,CMAC,3:00 P.M.,,0
+2026-10-09,153372,FINAL,Chicopee Comprehensive,4089,156.0,0.0,West Springfield,4417,152.0,1.0,Suburban,Valley League,3:00 P.M.,,0
+2026-10-09,153375,FINAL,East Bridgewater,4126,113.0,0.0,Mashpee,4237,94.0,1.0,South Shore,South Shore,3:30 P.M.,,0
+2026-10-09,153377,FINAL,Beverly,4038,32.0,0.0,Marblehead,4231,40.0,1.0,Northeastern,Northeastern,3:30 P.M.,,0
+2026-10-09,153382,FINAL,Franklin County Tech,4145,153.0,1.0,Turners Falls,4396,199.0,0.0,Bi-County,Bi-County,3:00 P.M.,,0
+2026-10-09,153391,FINAL,Chicopee Comprehensive,4089,156.0,1.0,Chicopee,4088,217.0,0.0,Suburban,Suburban,3:00 P.M.,,0
 2026-10-11,147027,UPCOMING,Bellingham,4033,,,Medfield,4241,,,Tri-Valley,Tri-Valley,2:45 P.M.,,0
 2026-10-11,147048,FINAL,Medway,4243,250,1,Westwood,4424,234,0,Tri-Valley,Tri-Valley,3:00 P.M.,,0
 2026-10-12,146944,UPCOMING,Nashoba,4267,,,Franklin,4144,,,Mid-Wach,Hockomock,3:30 P.M.,,0
@@ -1876,4 +1876,5 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-15,154045,FINAL,Central Catholic,4081,213,1,Dracut,4119,251,0,Merrimack Valley,Merrimack Valley,3:30 P.M.,,0
 2026-10-16,149599,UPCOMING,Monument Mtn.,4260,,,Wahconah,4401,,,Berkshire,Berkshire,4:00 P.M.,,0
 2026-10-16,150329,UPCOMING,Mt. Everett,4533,,,Wahconah,4401,,,Berkshire,Berkshire,3:30 P.M.,,0
+2026-10-19,154251,FINAL,Beaver Country Day,4030,4,1,Wheeler (R.I.),4426,2,0,EIL,EIL,,,0
 2026-10-20,148685,UPCOMING,Weymouth,4425,,,Newton North,4279,,,Bay State,Bay State,,,0

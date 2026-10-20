@@ -1,6 +1,6 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-10-19 17:19
+Generated: 2026-10-20 15:32
 
 ## Upcoming Games
 
@@ -188,16 +188,16 @@ Generated: 2026-10-19 17:19
 | 102 | Douglas | 1530.3 |
 | 103 | Tantasqua | 1529.9 |
 | 104 | Sizer | 1529.5 |
-| 105 | Maynard | 1528.7 |
-| 106 | South Lancaster | 1528.7 |
+| 105 | South Lancaster | 1528.7 |
+| 106 | Maynard | 1528.7 |
 | 107 | Shawsheen | 1527.9 |
 | 108 | Tahanto | 1527.8 |
 | 109 | Burncoat | 1527.7 |
 | 110 | Sutton | 1525.1 |
 | 111 | Norfolk Aggie | 1524.0 |
 | 112 | Medford | 1523.6 |
-| 113 | Renaissance | 1523.4 |
-| 114 | Hudson | 1523.4 |
+| 113 | Hudson | 1523.4 |
+| 114 | Renaissance | 1523.4 |
 | 115 | Shepherd Hill | 1522.0 |
 | 116 | Middleborough | 1521.1 |
 | 117 | Leominster | 1520.0 |
@@ -222,15 +222,15 @@ Generated: 2026-10-19 17:19
 | 136 | Holbrook/Avon | 1506.1 |
 | 137 | Monomoy | 1505.6 |
 | 138 | Westfield Tech | 1504.2 |
-| 139 | Saugus | 1502.8 |
-| 140 | Notre Dame (Tyngsborough) | 1502.8 |
-| 141 | Cape Cod Tech | 1502.8 |
-| 142 | Westfield | 1502.8 |
+| 139 | Longmeadow | 1502.8 |
+| 140 | Cape Cod Tech | 1502.8 |
+| 141 | Amherst-Pelham | 1502.8 |
+| 142 | Saugus | 1502.8 |
 | 143 | Wachusett | 1502.8 |
 | 144 | Minnechaug | 1502.8 |
-| 145 | Notre Dame (Worcester) | 1502.8 |
-| 146 | Longmeadow | 1502.8 |
-| 147 | Amherst-Pelham | 1502.8 |
+| 145 | Westfield | 1502.8 |
+| 146 | Notre Dame (Worcester) | 1502.8 |
+| 147 | Notre Dame (Tyngsborough) | 1502.8 |
 | 148 | Pingree | 1502.0 |
 | 149 | West Bridgewater | 1501.0 |
 | 150 | Winthrop | 1499.9 |
@@ -257,8 +257,8 @@ Generated: 2026-10-19 17:19
 | 171 | King Philip | 1480.2 |
 | 172 | Everett | 1479.3 |
 | 173 | Milton Academy | 1479.0 |
-| 174 | Ayer Shirley | 1476.8 |
-| 175 | Clinton | 1476.8 |
+| 174 | Clinton | 1476.8 |
+| 175 | Ayer Shirley | 1476.8 |
 | 176 | Blackstone Valley | 1476.6 |
 | 177 | Notre Dame Academy-Worcester | 1475.4 |
 | 178 | Hampshire | 1475.2 |
