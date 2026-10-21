@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-10-20 15:32
+Generated: 2026-10-21 15:49
 
 ## Upcoming Games
 
@@ -12,7 +12,6 @@ Generated: 2026-10-20 15:32
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-10-14 | Notre Dame (Hingham) | 91 | Malden Catholic | 67 | +37.2 | +24.0 |
-| 2026-10-13 | Chelmsford | 94 | Acton-Boxborough | 92 | +18.3 | +2.0 |
 
 ## Current Elo Ratings
 
