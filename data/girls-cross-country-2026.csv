@@ -421,22 +421,32 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-20,149937,UPCOMING,East Bridgewater,4126,,,Cohasset,4094,,,South Shore,South Shore,4:00 P.M.,,0
 2026-10-20,149959,UPCOMING,Middleborough,4247,,,Abington,4002,,,South Shore,South Shore,4:00 P.M.,,0
 2026-10-20,149986,UPCOMING,Carver,4077,,,Rockland,4331,,,South Shore,South Shore,4:00 P.M.,,0
-2026-10-21,136479,UPCOMING,Brookline,4059,,,Newton North,4279,,,Bay State,Bay State,4:00 P.M.,,0
-2026-10-21,144058,UPCOMING,Needham,4272,,,Wellesley,4413,,,Bay State,Bay State,4:00 P.M.,,0
-2026-10-21,144096,UPCOMING,Milton,4252,,,Braintree,4051,,,Bay State,Bay State,4:00 P.M.,,0
-2026-10-21,148909,UPCOMING,Westford,4421,,,Concord-Carlisle,4097,,,Dual County,Dual County,3:30 P.M.,,0
+2026-10-21,136479,FINAL,Brookline,4059,41,0,Newton North,4279,18,1,Bay State,Bay State,4:00 P.M.,,0
+2026-10-21,144058,FINAL,Needham,4272,20,1,Wellesley,4413,43,0,Bay State,Bay State,4:00 P.M.,,0
+2026-10-21,144096,FINAL,Milton,4252,22,1,Braintree,4051,39,0,Bay State,Bay State,4:00 P.M.,,0
+2026-10-21,148909,FINAL,Westford,4421,46,0,Concord-Carlisle,4097,16,1,Dual County,Dual County,3:30 P.M.,,0
 2026-10-21,148920,UPCOMING,Lincoln-Sudbury,4211,,,Acton-Boxborough,4003,,,Dual County,Dual County,4:00 P.M.,,0
 2026-10-21,148936,UPCOMING,Newton South,4280,,,Cambridge,4067,,,Dual County,Dual County,4:30 P.M.,,0
 2026-10-21,148973,UPCOMING,Boston Latin,4049,,,Bedford,4031,,,Dual County,Dual County,4:00 P.M.,,0
-2026-10-21,149000,UPCOMING,Weston,4423,,,Wayland,4411,,,Dual County,Dual County,4:30 P.M.,,0
+2026-10-21,149000,FINAL,Weston,4423,26,1,Wayland,4411,29,0,Dual County,Dual County,4:30 P.M.,,0
 2026-10-21,149032,UPCOMING,Lynn English,4221,,,Chelsea,4086,,,Greater Boston,Greater Boston,4:00 P.M.,,0
 2026-10-21,149058,UPCOMING,Everett,4132,,,Revere,4329,,,Greater Boston,Greater Boston,4:00 P.M.,,0
 2026-10-21,149729,UPCOMING,Medford,4242,,,Lynn Classical,4220,,,Greater Boston,Greater Boston,4:00 P.M.,,0
-2026-10-21,149760,UPCOMING,Malden,4227,,,Somerville,4351,,,Greater Boston,Greater Boston,4:00 P.M.,,0
+2026-10-21,149760,FINAL,Malden,4227,15,1,Somerville,4351,50,0,Greater Boston,Greater Boston,4:00 P.M.,,0
 2026-10-21,149806,UPCOMING,Masconomet,4236,,,Danvers,4103,,,Northeastern,Northeastern,4:30 P.M.,,0
 2026-10-21,149829,UPCOMING,Beverly,4038,,,Salem,4336,,,Northeastern,Northeastern,4:00 P.M.,,0
-2026-10-21,149847,UPCOMING,Swampscott,4383,,,Marblehead,4231,,,Northeastern,Northeastern,4:30 P.M.,,0
+2026-10-21,149847,FINAL,Swampscott,4383,40,0,Marblehead,4231,19,1,Northeastern,Northeastern,4:30 P.M.,,0
 2026-10-21,149875,UPCOMING,Winthrop,4437,,,Peabody,4306,,,Northeastern,Northeastern,4:30 P.M.,,0
+2026-10-21,154419,FINAL,Dedham,4108,21,1,Dover-Sherborn,4118,34,0,Tri-Valley,Tri-Valley,,,0
+2026-10-21,154422,FINAL,Weymouth,4425,19,1,Walpole,4404,42,0,Bay State,Bay State,,,0
+2026-10-21,154440,FINAL,Lowell,4216,25,1,Chelmsford,4085,35,0,Merrimack Valley,Merrimack Valley,,,0
+2026-10-21,154442,FINAL,Lowell,4216,50,0,Billerica,4040,15,1,Merrimack Valley,Merrimack Valley,,,0
+2026-10-21,154444,FINAL,Billerica,4040,20,1,Chelmsford,4085,43,0,Merrimack Valley,Merrimack Valley,,,0
+2026-10-21,154448,FINAL,Central Catholic,4081,23,1,North Andover,4283,33,0,Merrimack Valley,Merrimack Valley,,,0
+2026-10-21,154449,FINAL,Central Catholic,4081,24,1,Andover,4009,31,0,Merrimack Valley,Merrimack Valley,,,0
+2026-10-21,154487,FINAL,Natick,4270,20,1,Framingham,4143,40,0,Bay State,Bay State,,,0
+2026-10-21,154511,FINAL,Bancroft,4023,15,1,Beaver Country Day,4030,49,0,EIL,EIL,,,0
+2026-10-21,154513,FINAL,Concord Academy,4096,15,1,Beaver Country Day,4030,50,0,EIL,EIL,,,0
 2026-10-27,147973,UPCOMING,Dennis-Yarmouth,4111,,,Barnstable,4024,,,Cape & Islands,Pioneer,3:30 P.M.,,0
 2026-10-28,147922,UPCOMING,Durfee,4122,,,Dartmouth,4105,,,Big Three,Pioneer,4:00 P.M.,,0
 2026-10-28,147932,UPCOMING,New Bedford,4273,,,Bishop Stang,4045,,,Big Three,Catholic Central,4:00 P.M.,,0

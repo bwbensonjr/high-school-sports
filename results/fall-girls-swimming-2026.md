@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-10-21 15:49
+Generated: 2026-10-22 15:46
 
 ## Upcoming Games
 
@@ -11,7 +11,7 @@ Generated: 2026-10-21 15:49
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-10-14 | Notre Dame (Hingham) | 91 | Malden Catholic | 67 | +37.2 | +24.0 |
+| 2026-10-21 | Notre Dame (Hingham) | 107 | Ursuline | 77 | +18.4 | +30.0 |
 
 ## Current Elo Ratings
 
@@ -19,9 +19,9 @@ Generated: 2026-10-21 15:49
 |------|------|------------|
 | 1 | Seekonk | 1719.3 |
 | 2 | Chelmsford | 1703.8 |
-| 3 | Nantucket | 1695.1 |
-| 4 | Andover | 1693.8 |
-| 5 | Notre Dame (Hingham) | 1670.2 |
+| 3 | Notre Dame (Hingham) | 1696.7 |
+| 4 | Nantucket | 1695.1 |
+| 5 | Andover | 1693.8 |
 | 6 | Newton North | 1635.2 |
 | 7 | Milton | 1633.9 |
 | 8 | Wellesley | 1626.4 |
@@ -45,22 +45,22 @@ Generated: 2026-10-21 15:49
 | 26 | New Bedford | 1537.9 |
 | 27 | Oliver Ames | 1536.9 |
 | 28 | Scituate | 1536.5 |
-| 29 | Ursuline | 1536.0 |
-| 30 | Milford | 1535.7 |
-| 31 | Bishop Feehan | 1532.4 |
-| 32 | Marshfield/Hanover | 1531.2 |
-| 33 | Lexington | 1531.1 |
-| 34 | Tantasqua | 1530.4 |
-| 35 | Archbishop Williams | 1530.1 |
-| 36 | Belmont | 1529.4 |
-| 37 | Barnstable | 1528.4 |
-| 38 | Wayland | 1526.1 |
-| 39 | St. Mary’s | 1523.8 |
-| 40 | Canton | 1521.8 |
-| 41 | Martha’s Vineyard | 1519.7 |
-| 42 | Duxbury | 1519.5 |
-| 43 | Reading | 1519.4 |
-| 44 | Quincy | 1516.2 |
+| 29 | Milford | 1535.7 |
+| 30 | Bishop Feehan | 1532.4 |
+| 31 | Marshfield/Hanover | 1531.2 |
+| 32 | Lexington | 1531.1 |
+| 33 | Tantasqua | 1530.4 |
+| 34 | Archbishop Williams | 1530.1 |
+| 35 | Belmont | 1529.4 |
+| 36 | Barnstable | 1528.4 |
+| 37 | Wayland | 1526.1 |
+| 38 | St. Mary’s | 1523.8 |
+| 39 | Canton | 1521.8 |
+| 40 | Martha’s Vineyard | 1519.7 |
+| 41 | Duxbury | 1519.5 |
+| 42 | Reading | 1519.4 |
+| 43 | Quincy | 1516.2 |
+| 44 | Ursuline | 1509.5 |
 | 45 | Mansfield | 1508.3 |
 | 46 | Sandwich | 1500.4 |
 | 47 | Dedham | 1499.9 |

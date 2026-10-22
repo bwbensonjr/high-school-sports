@@ -1007,14 +1007,14 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-23,128919,UPCOMING,Ludlow,4218,,,Chicopee,4088,,,Suburban,Suburban,6:30 P.M.,,0
 2026-10-23,128929,UPCOMING,Medfield,4241,,,Hopkinton,4180,,,Tri-Valley,Tri-Valley,6:00 P.M.,,0
 2026-10-23,128956,UPCOMING,Bay Path,4027,,,Millbury/Sutton,4250,,,CMAC,CMAC,7:00 P.M.,,0
-2026-10-23,128998,POSTPONED,Saugus,4341,,,Gloucester,4150,,,Northeastern,Northeastern,6:00 P.M.,,0
+2026-10-23,128998,FORFEIT (Home),Saugus,4341,,0,Gloucester,4150,,1,Northeastern,Northeastern,6:00 P.M.,,0
 2026-10-23,129020,UPCOMING,Amesbury,4007,,,Triton/Ipswich,4395,,,Cape Ann,Cape Ann,6:30 P.M.,,0
 2026-10-23,129021,UPCOMING,Quincy,4326,,,Hanover,4164,,,Patriot,Patriot,7:00 P.M.,,0
 2026-10-23,129058,UPCOMING,Groton-Dunstable/NM,4160,,,Narragansett,4266,,,Mid-Wach,Mid-Wach,7:00 P.M.,,0
 2026-10-23,129063,UPCOMING,Bishop Stang,4045,,,Apponequet,4011,,,Catholic Central,South Coast,6:30 P.M.,,0
 2026-10-23,129085,UPCOMING,Millis,4251,,,Norton,4295,,,Tri-Valley,Tri-Valley,6:00 P.M.,,0
 2026-10-23,129092,UPCOMING,Lunenburg,4219,,,Murdock,4263,,,Mid-Wach,Mid-Wach,6:00 P.M.,,0
-2026-10-23,129119,UPCOMING,Tyngsborough,4397,,,Quabbin,4325,,,Mid-Wach,Mid-Wach,6:00 P.M.,,0
+2026-10-23,129119,FORFEIT (Away),Tyngsborough,4397,,1,Quabbin,4325,,0,Mid-Wach,Mid-Wach,6:00 P.M.,,0
 2026-10-23,129123,UPCOMING,Winthrop,4437,,,Swampscott,4383,,,Northeastern,Northeastern,6:30 P.M.,,0
 2026-10-23,129135,UPCOMING,Cohasset,4094,,,Archbishop Williams,4012,,,South Shore,Catholic Central,6:00 P.M.,,0
 2026-10-23,129166,UPCOMING,Dover-Sherborn,4118,,,Medway,4243,,,Tri-Valley,Tri-Valley,6:00 P.M.,,0
@@ -1078,7 +1078,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-29,129425,UPCOMING,Smith Vocational,4539,,,Quaboag,4510,,,Tri-County,CMAC,6:00 P.M.,,0
 2026-10-29,129577,UPCOMING,Ware,4406,,,Lee,4206,,,Intercounty,Intercounty,6:00 P.M.,,0
 2026-10-30,127453,UPCOMING,Durfee,4122,,,Brockton,4058,,,Big Three,Big Three,6:30 P.M.,,0
-2026-10-30,127473,UPCOMING,Arlington,4013,,,Lexington,4209,,,Middlesex,Middlesex,6:00 P.M.,,0
+2026-10-30,127473,FORFEIT (Away),Arlington,4013,,1,Lexington,4209,,0,Middlesex,Middlesex,6:00 P.M.,,0
 2026-10-30,127488,UPCOMING,BC High,4029,,,St. John’s (Shrewsbury),4368,,,Catholic Conference,Catholic Conference,6:00 P.M.,,0
 2026-10-30,127506,UPCOMING,Catholic Memorial,4080,,,St. John’s Prep,4369,,,Catholic Conference,Catholic Conference,6:00 P.M.,,0
 2026-10-30,127519,UPCOMING,Wellesley,4413,,,Brookline,4059,,,Bay State,Bay State,6:00 P.M.,,0

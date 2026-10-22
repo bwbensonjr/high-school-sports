@@ -1694,7 +1694,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-09,153382,FINAL,Franklin County Tech,4145,153.0,1.0,Turners Falls,4396,199.0,0.0,Bi-County,Bi-County,3:00 P.M.,,0
 2026-10-09,153391,FINAL,Chicopee Comprehensive,4089,156.0,1.0,Chicopee,4088,217.0,0.0,Suburban,Suburban,3:00 P.M.,,0
 2026-10-11,147027,UPCOMING,Bellingham,4033,,,Medfield,4241,,,Tri-Valley,Tri-Valley,2:45 P.M.,,0
-2026-10-11,147048,FINAL,Medway,4243,250,1,Westwood,4424,234,0,Tri-Valley,Tri-Valley,3:00 P.M.,,0
+2026-10-11,147048,FINAL,Medway,4243,250.0,1.0,Westwood,4424,234.0,0.0,Tri-Valley,Tri-Valley,3:00 P.M.,,0
 2026-10-12,146944,UPCOMING,Nashoba,4267,,,Franklin,4144,,,Mid-Wach,Hockomock,3:30 P.M.,,0
 2026-10-12,147700,UPCOMING,Leominster,4208,,,Shrewsbury,4348,,,Mid-Wach,Mid-Wach,3:30 P.M.,,0
 2026-10-12,149297,UPCOMING,Needham,4272,,,Weymouth,4425,,,Bay State,Bay State,3:30 P.M.,,0
