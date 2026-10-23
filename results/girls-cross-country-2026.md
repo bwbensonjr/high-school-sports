@@ -1,6 +1,6 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-10-22 15:46
+Generated: 2026-10-23 15:37
 
 ## Upcoming Games
 
@@ -14,27 +14,23 @@ Generated: 2026-10-22 15:46
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-10-21 | Swampscott | 40 | Marblehead | 19 | +23.4 | +21.0 |
-| 2026-10-21 | Dedham | 21 | Dover-Sherborn | 34 | +22.7 | -13.0 |
+| 2026-10-21 | Brookline | 41 | Newton North | 18 | +33.8 | +23.0 |
+| 2026-10-21 | Lowell | 25 | Chelmsford | 35 | -8.6 | -10.0 |
 | 2026-10-21 | Bancroft | 15 | Beaver Country Day | 49 | -16.1 | -34.0 |
 | 2026-10-21 | Natick | 20 | Framingham | 40 | -22.6 | -20.0 |
 | 2026-10-21 | Central Catholic | 24 | Andover | 31 | -7.4 | -7.0 |
 | 2026-10-21 | Central Catholic | 23 | North Andover | 33 | +6.7 | -10.0 |
 | 2026-10-21 | Billerica | 20 | Chelmsford | 43 | -42.0 | -23.0 |
 | 2026-10-21 | Lowell | 50 | Billerica | 15 | +31.4 | +35.0 |
-| 2026-10-21 | Lowell | 25 | Chelmsford | 35 | -8.6 | -10.0 |
 | 2026-10-21 | Weymouth | 19 | Walpole | 42 | -23.9 | -23.0 |
-| 2026-10-21 | Concord Academy | 15 | Beaver Country Day | 50 | -19.1 | -35.0 |
+| 2026-10-21 | Needham | 20 | Wellesley | 43 | -19.9 | -23.0 |
+| 2026-10-21 | Dedham | 21 | Dover-Sherborn | 34 | +22.7 | -13.0 |
+| 2026-10-21 | Swampscott | 40 | Marblehead | 19 | +23.4 | +21.0 |
 | 2026-10-21 | Malden | 15 | Somerville | 50 | +26.4 | -35.0 |
 | 2026-10-21 | Weston | 26 | Wayland | 29 | +5.2 | -3.0 |
 | 2026-10-21 | Westford | 46 | Concord-Carlisle | 16 | +22.2 | +30.0 |
 | 2026-10-21 | Milton | 22 | Braintree | 39 | -17.6 | -17.0 |
-| 2026-10-21 | Needham | 20 | Wellesley | 43 | -19.9 | -23.0 |
-| 2026-10-21 | Brookline | 41 | Newton North | 18 | +33.8 | +23.0 |
-| 2026-10-15 | Somerset Berkley | 25 | Dighton-Rehoboth | 31 | -1.1 | -6.0 |
-| 2026-10-15 | Stoughton | 50 | Sharon | 15 | +21.2 | +35.0 |
-| 2026-10-15 | Somerset Berkley | 15 | Bourne | 50 | +0.9 | -35.0 |
-| 2026-10-15 | Bishop Feehan | 15 | Archbishop Williams | 50 | -5.6 | -35.0 |
+| 2026-10-21 | Concord Academy | 15 | Beaver Country Day | 50 | -19.1 | -35.0 |
 
 ## Current Elo Ratings
 
@@ -163,8 +159,8 @@ Generated: 2026-10-22 15:46
 | 121 | Archbishop Williams | 1517.9 |
 | 122 | Whittier | 1516.9 |
 | 123 | Brooks | 1516.0 |
-| 124 | Chicopee Comprehensive | 1514.8 |
-| 125 | Rivers | 1514.8 |
+| 124 | Rivers | 1514.8 |
+| 125 | Chicopee Comprehensive | 1514.8 |
 | 126 | Wellesley | 1514.6 |
 | 127 | Dana Hall | 1513.2 |
 | 128 | Minuteman | 1513.1 |
@@ -179,14 +175,14 @@ Generated: 2026-10-22 15:46
 | 137 | Monomoy | 1505.6 |
 | 138 | Westfield Tech | 1504.2 |
 | 139 | Westfield | 1502.8 |
-| 140 | Wachusett | 1502.8 |
-| 141 | Notre Dame (Tyngsborough) | 1502.8 |
+| 140 | Notre Dame (Worcester) | 1502.8 |
+| 141 | Longmeadow | 1502.8 |
 | 142 | Amherst-Pelham | 1502.8 |
-| 143 | Minnechaug | 1502.8 |
-| 144 | Longmeadow | 1502.8 |
-| 145 | Notre Dame (Worcester) | 1502.8 |
-| 146 | Saugus | 1502.8 |
-| 147 | Cape Cod Tech | 1502.8 |
+| 143 | Saugus | 1502.8 |
+| 144 | Notre Dame (Tyngsborough) | 1502.8 |
+| 145 | Cape Cod Tech | 1502.8 |
+| 146 | Minnechaug | 1502.8 |
+| 147 | Wachusett | 1502.8 |
 | 148 | Pingree | 1502.0 |
 | 149 | West Bridgewater | 1501.0 |
 | 150 | Winthrop | 1499.9 |

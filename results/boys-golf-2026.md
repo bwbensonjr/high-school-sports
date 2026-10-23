@@ -1,6 +1,6 @@
 # Boys Golf - 2026 Season
 
-Generated: 2026-10-22 15:46
+Generated: 2026-10-23 15:37
 
 ## Upcoming Games
 
@@ -12,48 +12,6 @@ Generated: 2026-10-22 15:46
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-10-19 | Beaver Country Day | 4 | Wheeler (R.I.) | 2 | +3.7 | +2.0 |
-| 2026-10-15 | Wilmington | 38 | North Reading | 33 | -2.1 | +5.0 |
-| 2026-10-15 | Grafton | 205 | Sutton | 193 | +17.3 | +12.0 |
-| 2026-10-15 | Groton-Dunstable | 146 | Nashoba | 149 | -5.5 | -3.0 |
-| 2026-10-15 | Bellingham | 234 | Norwood | 235 | +31.0 | -1.0 |
-| 2026-10-15 | Seekonk | 246 | Fairhaven | 273 | -18.9 | -27.0 |
-| 2026-10-15 | Sturgis East | 270 | Monomoy | 232 | +32.5 | +38.0 |
-| 2026-10-15 | Upper Cape | 1 | Westport | 8 | +17.1 | -7.0 |
-| 2026-10-15 | Sturgis West | 253 | Rising Tide Charter | 318 | -12.2 | -65.0 |
-| 2026-10-15 | Manchester Essex | 134 | Ipswich | 171 | -26.1 | -37.0 |
-| 2026-10-15 | Rockport | 129 | Ipswich | 171 | -30.4 | -42.0 |
-| 2026-10-15 | Chelmsford | 226 | Dracut | 251 | -26.2 | -25.0 |
-| 2026-10-15 | Middleborough | 127 | Abington | 133 | -21.0 | -6.0 |
-| 2026-10-15 | Hamilton-Wenham | 177 | Lynn Classical | 98 | +25.8 | +79.0 |
-| 2026-10-15 | Beaver Country Day | 3 | Austin Prep | 5 | +0.2 | -2.0 |
-| 2026-10-15 | Clinton | 162 | Fitchburg | 231 | -37.5 | -69.0 |
-| 2026-10-15 | Taconic | 153 | Mt. Everett | 183 | -19.7 | -30.0 |
-| 2026-10-15 | Manchester Essex | 134 | Rockport | 129 | +7.0 | +5.0 |
-| 2026-10-15 | Chelmsford | 226 | Central Catholic | 213 | +3.4 | +13.0 |
-| 2026-10-15 | Central Catholic | 213 | Dracut | 251 | -31.7 | -38.0 |
-| 2026-10-15 | Bartlett | 173 | Bay Path | 141 | +48.5 | +32.0 |
-| 2026-10-15 | Algonquin | 192 | Auburn | 199 | +16.7 | -7.0 |
-| 2026-10-15 | Bishop Feehan | 216 | Bishop Stang | 168 | +28.4 | +48.0 |
-| 2026-10-15 | Norton | 238 | Dover-Sherborn | 236 | +6.6 | +2.0 |
-| 2026-10-15 | Milford | 167 | Franklin | 149 | +29.7 | +18.0 |
-| 2026-10-15 | King Philip | 139 | Canton | 143 | +11.6 | -4.0 |
-| 2026-10-15 | Beverly | 48 | Gloucester | 24 | +17.2 | +24.0 |
-| 2026-10-15 | Marblehead | 47 | Winthrop | 22 | +38.3 | +25.0 |
-| 2026-10-15 | Peabody | 23 | Saugus | 49 | -9.0 | -26.0 |
-| 2026-10-15 | Wellesley | 212 | BC High | 222 | +8.5 | -10.0 |
-| 2026-10-15 | Triton | 180 | Methuen | 138 | +13.9 | +42.0 |
-| 2026-10-15 | Bridgewater-Raynham | 119 | Barnstable | 129 | +23.1 | -10.0 |
-| 2026-10-15 | St. John’s (Shrewsbury) | 220 | Catholic Memorial | 245 | -30.4 | -25.0 |
-| 2026-10-15 | Apponequet | 254 | Dartmouth | 229 | -13.5 | +25.0 |
-| 2026-10-15 | Frontier | 166 | Belchertown | 157 | +22.5 | +9.0 |
-| 2026-10-15 | Taunton | 155 | Dighton-Rehoboth | 183 | -16.2 | -28.0 |
-| 2026-10-15 | Pope Francis | 152 | Tantasqua | 151 | +36.1 | +1.0 |
-| 2026-10-15 | Somerset Berkley | 253 | Durfee | 318 | +3.2 | -65.0 |
-| 2026-10-15 | St. John’s Prep | 224 | Winchester | 244 | -30.5 | -20.0 |
-| 2026-10-15 | Uxbridge | 179 | Douglas | 165 | +22.0 | +14.0 |
-| 2026-10-15 | McCann Tech | 160 | Athol | 201 | -31.7 | -41.0 |
-| 2026-10-15 | Westfield Tech | 162 | Turners Falls | 198 | -15.1 | -36.0 |
-| 2026-10-15 | Sandwich | 247 | Bourne | 265 | +4.2 | -18.0 |
 
 ## Current Elo Ratings
 
@@ -194,8 +152,8 @@ Generated: 2026-10-22 15:46
 | 133 | Southeastern | 1507.3 |
 | 134 | St. Mary (Westfield) | 1506.2 |
 | 135 | Beaver Country Day | 1504.0 |
-| 136 | St. Paul’s | 1502.8 |
-| 137 | Greenfield | 1502.8 |
+| 136 | Greenfield | 1502.8 |
+| 137 | St. Paul’s | 1502.8 |
 | 138 | Tewksbury | 1500.4 |
 | 139 | Pembroke | 1499.8 |
 | 140 | Swampscott | 1497.6 |

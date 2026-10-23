@@ -921,17 +921,21 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-17,154138,FINAL,Deerfield,4110,7,0,Williston Northampton,4431,36,1,NEPSAC Class A,NEPSAC Class A,3:00 P.M.,,0
 2026-10-17,154150,FINAL,Greenwich CD (Conn.),5041,36,1,St. Luke’s,4618,6,0,NEPSAC Class C,Independent,3:45 P.M.,,0
 2026-10-17,154159,FINAL,Portsmouth Abbey,4320,14,0,New Hampton,4275,28,1,NEPSAC Class C,NEPSAC Class C,3:00 P.M.,,0
-2026-10-22,127470,FORFEIT (Away),Winchester,4434,,1,Lexington,4209,,0,Middlesex,Middlesex,6:30 P.M.,,0
-2026-10-22,127866,UPCOMING,Minnechaug,4254,,,Springfield Central,4360,,,AA,AA,6:30 P.M.,,0
-2026-10-22,127957,UPCOMING,Whittier,4428,,,Greater Lowell,4155,,,Commonwealth,Commonwealth,6:00 P.M.,,0
-2026-10-22,128740,UPCOMING,South Shore Voc-Tech,4356,,,Wareham,4407,,,Mayflower,Mayflower,6:00 P.M.,,0
-2026-10-22,128893,UPCOMING,Putnam,4362,,,Wahconah,4401,,,Suburban,Suburban,7:00 P.M.,,0
-2026-10-22,129213,UPCOMING,Carver,4077,,,Randolph,4327,,,South Shore,South Shore,6:00 P.M.,,0
-2026-10-22,129287,UPCOMING,Minuteman,4255,,,Lynn Tech,4222,,,Commonwealth,Commonwealth,6:00 P.M.,,0
-2026-10-22,129329,UPCOMING,Bishop Feehan,4042,,,St. Mary’s,4374,,,Independent,Independent,6:00 P.M.,,0
-2026-10-22,129416,UPCOMING,Smith Vocational,4539,,,McCann Tech,4240,,,Tri-County,Tri-County,6:00 P.M.,,0
-2026-10-22,129458,UPCOMING,Springfield International,4480,,,Frontier,4146,,,Independent,Intercounty,7:00 P.M.,,0
-2026-10-22,129509,UPCOMING,Bourne,4050,,,Monomoy/JP II,4706,,,South Coast,Cape & Islands,6:30 P.M.,,0
+2026-10-22,127470,FORFEIT (Away),Winchester,4434,14,1,Lexington,4209,0,0,Middlesex,Middlesex,6:30 P.M.,,0
+2026-10-22,127866,FINAL,Minnechaug,4254,14,0,Springfield Central,4360,41,1,AA,AA,6:30 P.M.,,0
+2026-10-22,127957,FINAL,Whittier,4428,12,0,Greater Lowell,4155,18,1,Commonwealth,Commonwealth,6:00 P.M.,,0
+2026-10-22,128740,FINAL,South Shore Voc-Tech,4356,38,1,Wareham,4407,8,0,Mayflower,Mayflower,6:00 P.M.,,0
+2026-10-22,128893,FINAL,Putnam,4362,0,0,Wahconah,4401,49,1,Suburban,Suburban,7:00 P.M.,,0
+2026-10-22,129213,FINAL,Carver,4077,14,0,Randolph,4327,56,1,South Shore,South Shore,6:00 P.M.,,0
+2026-10-22,129287,FINAL,Minuteman,4255,10,0,Lynn Tech,4222,35,1,Commonwealth,Commonwealth,6:00 P.M.,,0
+2026-10-22,129329,FINAL,Bishop Feehan,4042,28,1,St. Mary’s,4374,12,0,Independent,Independent,6:00 P.M.,,0
+2026-10-22,129416,FINAL,Smith Vocational,4539,22,1,McCann Tech,4240,6,0,Tri-County,Tri-County,6:00 P.M.,,0
+2026-10-22,129458,FINAL,Springfield International,4480,50,1,Frontier,4146,28,0,Independent,Intercounty,7:00 P.M.,,0
+2026-10-22,129509,FINAL,Bourne,4050,30,0,Monomoy/JP II,4706,42,1,South Coast,Cape & Islands,6:30 P.M.,,0
+2026-10-22,154528,FINAL,Bishop Stang,4045,15,0,Apponequet,4011,35,1,Catholic Central,South Coast,6:30 P.M.,,0
+2026-10-22,154545,FINAL,Framingham,4143,50,1,Brookline,4059,29,0,Bay State,Bay State,6:00 P.M.,,0
+2026-10-22,154550,FINAL,Belchertown,4032,34,1,Pathfinder,4305,6,0,Intercounty,Tri-County,6:30 P.M.,,0
+2026-10-22,154552,FINAL,Franklin County Tech,4145,44,1,Athol,4017,14,0,Intercounty,Intercounty,7:00 P.M.,,0
 2026-10-23,127487,UPCOMING,BC High,4029,,,Xaverian,4446,,,Catholic Conference,Catholic Conference,6:00 P.M.,,0
 2026-10-23,127505,UPCOMING,St. John’s Prep,4369,,,Malden Catholic,4228,,,Catholic Conference,Catholic Conference,6:00 P.M.,,0
 2026-10-23,127518,UPCOMING,Framingham,4143,,,Brookline,4059,,,Bay State,Bay State,6:00 P.M.,,0
@@ -962,7 +966,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-23,128029,UPCOMING,Dighton-Rehoboth/Bristol Aggie,4114,,,Somerset Berkley,4350,,,South Coast,South Coast,6:30 P.M.,,0
 2026-10-23,128036,UPCOMING,Weston,4423,,,Boston Latin,4049,,,Dual County,Dual County,7:00 P.M.,,0
 2026-10-23,128050,UPCOMING,Revere,4329,,,Lynn English,4221,,,Greater Boston,Greater Boston,6:00 P.M.,,0
-2026-10-23,128063,UPCOMING,Manchester Essex,4229,,,Malden,4227,,,Cape Ann,Greater Boston,6:30 P.M.,,0
+2026-10-23,128063,FORFEIT (Home),Manchester Essex,4229,,0,Malden,4227,,1,Cape Ann,Greater Boston,6:30 P.M.,,0
 2026-10-23,128083,UPCOMING,Marshfield,4234,,,Hingham,4171,,,Patriot,Patriot,7:00 P.M.,,0
 2026-10-23,128119,UPCOMING,Foxborough,4142,,,King Philip,4197,,,Hockomock,Hockomock,7:00 P.M.,,0
 2026-10-23,128131,UPCOMING,Barnstable,4024,,,North Kingstown (R.I.),4285,,,Pioneer,Independent,6:00 P.M.,,0
