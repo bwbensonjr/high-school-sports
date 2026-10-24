@@ -367,31 +367,31 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-07,153123,FINAL,Pingree,4312,27.0,1.0,Beaver Country Day,4030,30.0,0.0,EIL,EIL,,,0
 2026-10-07,153125,FINAL,Pingree,4312,36.0,0.0,Berwick,4037,23.0,1.0,EIL,EIL,,,0
 2026-10-07,153136,FINAL,North Andover,4283,15.0,1.0,Lawrence,4203,49.0,0.0,Merrimack Valley,Merrimack Valley,,,0
-2026-10-13,147940,FINAL,Dennis-Yarmouth,4111,42,0,Nauset,4271,20,1,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-10-13,147940,FINAL,Dennis-Yarmouth,4111,42.0,0.0,Nauset,4271,20.0,1.0,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-10-13,147980,UPCOMING,Falmouth,4134,,,Martha’s Vineyard,4235,,,Cape & Islands,Cape & Islands,3:30 P.M.,,0
 2026-10-13,148002,UPCOMING,Nantucket,4265,,,Sandwich,4340,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
 2026-10-13,148014,UPCOMING,Cape Cod Academy,4072,,,Rising Tide Charter,4746,,,Cape & Islands,Cape & Islands,4:00 P.M.,,0
-2026-10-13,148033,FINAL,Monomoy,4706,27,1,Falmouth Academy,4135,28,0,Cape & Islands,Cape & Islands,4:00 P.M.,,0
-2026-10-13,148516,FINAL,Xaverian,4446,23,1,St. John’s (Shrewsbury),4368,34,0,Catholic Conference,Catholic Conference,4:00 P.M.,,0
-2026-10-13,148536,FINAL,Bishop Fenwick,4043,34,0,Bishop Stang,4045,23,1,Catholic Central,Catholic Central,4:00 P.M.,,0
-2026-10-13,148541,FINAL,Archbishop Williams,4012,17,1,Bishop Stang,4045,41,0,Catholic Central,Catholic Central,4:00 P.M.,,0
-2026-10-13,148569,FINAL,Bishop Fenwick,4043,42,0,Archbishop Williams,4012,19,1,Catholic Central,Catholic Central,4:00 P.M.,,0
-2026-10-13,148581,FINAL,Cardinal Spellman,4075,50,0,Arlington Catholic,4014,15,1,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-10-13,148033,FINAL,Monomoy,4706,27.0,1.0,Falmouth Academy,4135,28.0,0.0,Cape & Islands,Cape & Islands,4:00 P.M.,,0
+2026-10-13,148516,FINAL,Xaverian,4446,23.0,1.0,St. John’s (Shrewsbury),4368,34.0,0.0,Catholic Conference,Catholic Conference,4:00 P.M.,,0
+2026-10-13,148536,FINAL,Bishop Fenwick,4043,34.0,0.0,Bishop Stang,4045,23.0,1.0,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-10-13,148541,FINAL,Archbishop Williams,4012,17.0,1.0,Bishop Stang,4045,41.0,0.0,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-10-13,148569,FINAL,Bishop Fenwick,4043,42.0,0.0,Archbishop Williams,4012,19.0,1.0,Catholic Central,Catholic Central,4:00 P.M.,,0
+2026-10-13,148581,FINAL,Cardinal Spellman,4075,50.0,0.0,Arlington Catholic,4014,15.0,1.0,Catholic Central,Catholic Central,4:00 P.M.,,0
 2026-10-13,149923,UPCOMING,Carver,4077,,,East Bridgewater,4126,,,South Shore,South Shore,4:00 P.M.,,0
 2026-10-13,149945,POSTPONED,Middleborough,4247,,,Mashpee,4237,,,South Shore,South Shore,4:00 P.M.,,0
-2026-10-13,149966,FINAL,Cohasset,4094,41,0,Norwell,4296,20,1,South Shore,South Shore,4:00 P.M.,,0
+2026-10-13,149966,FINAL,Cohasset,4094,41.0,0.0,Norwell,4296,20.0,1.0,South Shore,South Shore,4:00 P.M.,,0
 2026-10-13,149974,UPCOMING,Rockland,4331,,,Abington,4002,,,South Shore,South Shore,4:00 P.M.,,0
-2026-10-13,153501,FINAL,Reading,4328,28,0,Arlington,4013,27,1,Middlesex,Middlesex,4:00 P.M.,,0
-2026-10-13,153515,FINAL,Marshfield,4234,22,1,Hingham,4171,45,0,Patriot,Patriot,4:00 P.M.,,0
-2026-10-13,153558,FINAL,Plymouth South,4316,24,1,Quincy/North Quincy,4326,33,0,Patriot,Patriot,4:00 P.M.,,0
-2026-10-13,153599,FINAL,Melrose,4244,37,0,Burlington,4065,22,1,Middlesex,Middlesex,4:00 P.M.,,0
-2026-10-13,153605,FINAL,Lexington,4209,15,1,Winchester,4434,50,0,Middlesex,Middlesex,4:00 P.M.,,0
-2026-10-13,153608,FINAL,Duxbury,4123,33,0,Whitman-Hanson,4427,25,1,Patriot,Patriot,,,0
-2026-10-13,153615,FINAL,Doherty,4116,31,0,Keefe Tech,4191,24,1,CMAC,CMAC,,,0
-2026-10-13,153617,FINAL,St. Bernard’s,4365,30,0,Keefe Tech,4191,15,1,CMAC,CMAC,,,0
-2026-10-13,153636,FINAL,Malden Catholic,4228,45,0,BC High,4029,18,1,Catholic Conference,Catholic Conference,4:00 P.M.,,0
-2026-10-13,153699,FINAL,Sturgis West,4735,23,1,Sturgis East,4456,37,0,Cape & Islands,Cape & Islands,,,0
-2026-10-13,154083,FINAL,Woburn,4438,43,0,Belmont,4034,18,1,Middlesex,Middlesex,,,0
+2026-10-13,153501,FINAL,Reading,4328,28.0,0.0,Arlington,4013,27.0,1.0,Middlesex,Middlesex,4:00 P.M.,,0
+2026-10-13,153515,FINAL,Marshfield,4234,22.0,1.0,Hingham,4171,45.0,0.0,Patriot,Patriot,4:00 P.M.,,0
+2026-10-13,153558,FINAL,Plymouth South,4316,24.0,1.0,Quincy/North Quincy,4326,33.0,0.0,Patriot,Patriot,4:00 P.M.,,0
+2026-10-13,153599,FINAL,Melrose,4244,37.0,0.0,Burlington,4065,22.0,1.0,Middlesex,Middlesex,4:00 P.M.,,0
+2026-10-13,153605,FINAL,Lexington,4209,15.0,1.0,Winchester,4434,50.0,0.0,Middlesex,Middlesex,4:00 P.M.,,0
+2026-10-13,153608,FINAL,Duxbury,4123,33.0,0.0,Whitman-Hanson,4427,25.0,1.0,Patriot,Patriot,,,0
+2026-10-13,153615,FINAL,Doherty,4116,31.0,0.0,Keefe Tech,4191,24.0,1.0,CMAC,CMAC,,,0
+2026-10-13,153617,FINAL,St. Bernard’s,4365,30.0,0.0,Keefe Tech,4191,15.0,1.0,CMAC,CMAC,,,0
+2026-10-13,153636,FINAL,Malden Catholic,4228,45.0,0.0,BC High,4029,18.0,1.0,Catholic Conference,Catholic Conference,4:00 P.M.,,0
+2026-10-13,153699,FINAL,Sturgis West,4735,23.0,1.0,Sturgis East,4456,37.0,0.0,Cape & Islands,Cape & Islands,,,0
+2026-10-13,154083,FINAL,Woburn,4438,43.0,0.0,Belmont,4034,18.0,1.0,Middlesex,Middlesex,,,0
 2026-10-14,144097,FINAL,Needham,4272,26,1,Milton,4252,29,0,Bay State,Bay State,4:00 P.M.,,0
 2026-10-14,144098,FINAL,Walpole,4404,25,1,Milton,4252,30,0,Bay State,Bay State,4:00 P.M.,,0
 2026-10-14,144099,FINAL,Walpole,4404,28,0,Needham,4272,27,1,Bay State,Bay State,4:00 P.M.,,0
@@ -433,6 +433,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-20,149926,UPCOMING,East Bridgewater,4126,,,Cohasset,4094,,,South Shore,South Shore,4:00 P.M.,,0
 2026-10-20,149948,UPCOMING,Middleborough,4247,,,Abington,4002,,,South Shore,South Shore,4:00 P.M.,,0
 2026-10-20,149976,UPCOMING,Carver,4077,,,Rockland,4331,,,South Shore,South Shore,4:00 P.M.,,0
+2026-10-20,154558,FINAL,Winchester,4434,41,0,Reading,4328,15,1,Middlesex,Middlesex,4:00 P.M.,,0
+2026-10-20,154565,FINAL,Woburn,4438,44,0,Arlington,4013,19,1,Middlesex,Middlesex,,,0
 2026-10-21,136456,FINAL,Brookline,4059,23,1,Newton North,4279,34,0,Bay State,Bay State,4:00 P.M.,,0
 2026-10-21,144049,FINAL,Needham,4272,29,0,Wellesley,4413,27,1,Bay State,Bay State,4:00 P.M.,,0
 2026-10-21,144071,FINAL,Milton,4252,18,1,Braintree,4051,43,0,Bay State,Bay State,4:00 P.M.,,0
@@ -455,5 +457,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-21,154452,FINAL,Central Catholic,4081,32,0,Andover,4009,25,1,Merrimack Valley,Merrimack Valley,,,0
 2026-10-21,154455,FINAL,Central Catholic,4081,46,0,North Andover,4283,17,1,Merrimack Valley,Merrimack Valley,,,0
 2026-10-21,154496,FINAL,Weymouth,4425,31,0,Walpole,4404,26,1,Bay State,Bay State,,,0
+2026-10-21,154553,FINAL,Lexington,4209,24,1,Belmont,4034,35,0,Middlesex,Middlesex,4:00 P.M.,,0
+2026-10-23,154555,FINAL,Natick,4270,32,0,Framingham,4143,25,1,Bay State,Bay State,,,0
 2026-10-27,147961,UPCOMING,Dennis-Yarmouth,4111,,,Barnstable,4024,,,Cape & Islands,Pioneer,3:30 P.M.,,0
 2026-10-28,147911,UPCOMING,Durfee,4122,,,Dartmouth,4105,,,Big Three,Pioneer,4:00 P.M.,,0

@@ -1,6 +1,6 @@
 # Baseball - 2026 Season
 
-Generated: 2026-10-23 15:37
+Generated: 2026-10-24 14:14
 
 ## Upcoming Games
 
@@ -196,13 +196,13 @@ Generated: 2026-10-23 15:37
 | 178 | Hampshire | 1505.6 |
 | 179 | North Andover | 1501.3 |
 | 180 | Maimonides | 1500.3 |
-| 181 | Cristo Rey | 1500.0 |
+| 181 | KIPP | 1500.0 |
 | 182 | Cape Cod Academy | 1500.0 |
-| 183 | Sturgis East | 1500.0 |
-| 184 | Portsmouth (R.I.) | 1500.0 |
-| 185 | KIPP | 1500.0 |
-| 186 | South Shore Christian | 1500.0 |
-| 187 | Londonderry (N.H.) | 1500.0 |
+| 183 | Cristo Rey | 1500.0 |
+| 184 | Londonderry (N.H.) | 1500.0 |
+| 185 | South Shore Christian | 1500.0 |
+| 186 | Sturgis East | 1500.0 |
+| 187 | Portsmouth (R.I.) | 1500.0 |
 | 188 | Upper Cape | 1498.2 |
 | 189 | Canton | 1497.5 |
 | 190 | Boston Collegiate | 1495.6 |

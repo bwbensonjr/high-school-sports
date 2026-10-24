@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-10-23 15:37
+Generated: 2026-10-24 14:14
 
 ## Upcoming Games
 
@@ -11,17 +11,19 @@ Generated: 2026-10-23 15:37
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-10-23 | Lowell | 79 | Methuen/Tewksbury | 99 | -4.0 | -20.0 |
+| 2026-10-23 | Andover | 82 | Chelmsford | 104 | +4.0 | -22.0 |
 | 2026-10-21 | Notre Dame (Hingham) | 107 | Ursuline | 77 | +18.4 | +30.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Seekonk | 1719.3 |
-| 2 | Chelmsford | 1703.8 |
+| 1 | Chelmsford | 1756.2 |
+| 2 | Seekonk | 1719.3 |
 | 3 | Notre Dame (Hingham) | 1696.7 |
 | 4 | Nantucket | 1695.1 |
-| 5 | Andover | 1693.8 |
+| 5 | Andover | 1641.4 |
 | 6 | Newton North | 1635.2 |
 | 7 | Milton | 1633.9 |
 | 8 | Wellesley | 1626.4 |
@@ -32,15 +34,15 @@ Generated: 2026-10-23 15:37
 | 13 | North Andover | 1588.8 |
 | 14 | Concord-Carlisle | 1587.2 |
 | 15 | Hopkinton | 1580.7 |
-| 16 | Brookline | 1574.0 |
-| 17 | Sharon | 1571.5 |
-| 18 | Winchester | 1560.1 |
-| 19 | Acton-Boxborough | 1554.0 |
-| 20 | Franklin | 1552.6 |
-| 21 | Apponequet | 1543.3 |
-| 22 | Arlington Catholic | 1542.6 |
-| 23 | Weston | 1539.9 |
-| 24 | Methuen/Tewksbury | 1539.4 |
+| 16 | Methuen/Tewksbury | 1579.9 |
+| 17 | Brookline | 1574.0 |
+| 18 | Sharon | 1571.5 |
+| 19 | Winchester | 1560.1 |
+| 20 | Acton-Boxborough | 1554.0 |
+| 21 | Franklin | 1552.6 |
+| 22 | Apponequet | 1543.3 |
+| 23 | Arlington Catholic | 1542.6 |
+| 24 | Weston | 1539.9 |
 | 25 | Westborough | 1538.3 |
 | 26 | New Bedford | 1537.9 |
 | 27 | Oliver Ames | 1536.9 |
@@ -86,18 +88,18 @@ Generated: 2026-10-23 15:37
 | 67 | Advanced Math and Science | 1451.5 |
 | 68 | Westford | 1450.8 |
 | 69 | Notre Dame (T)/Dracut | 1450.0 |
-| 70 | Lowell | 1449.9 |
-| 71 | Central Catholic | 1442.3 |
-| 72 | Attleboro | 1441.8 |
-| 73 | Stoneham | 1432.1 |
-| 74 | Boston Latin | 1431.2 |
-| 75 | Woburn | 1429.5 |
-| 76 | Wakefield | 1428.9 |
-| 77 | Medfield | 1428.6 |
-| 78 | Wachusett | 1414.8 |
-| 79 | Bishop Fenwick | 1414.5 |
-| 80 | Pembroke | 1411.2 |
-| 81 | Stoughton | 1409.6 |
+| 70 | Central Catholic | 1442.3 |
+| 71 | Attleboro | 1441.8 |
+| 72 | Stoneham | 1432.1 |
+| 73 | Boston Latin | 1431.2 |
+| 74 | Woburn | 1429.5 |
+| 75 | Wakefield | 1428.9 |
+| 76 | Medfield | 1428.6 |
+| 77 | Wachusett | 1414.8 |
+| 78 | Bishop Fenwick | 1414.5 |
+| 79 | Pembroke | 1411.2 |
+| 80 | Stoughton | 1409.6 |
+| 81 | Lowell | 1409.4 |
 | 82 | Holliston/Medway | 1391.4 |
 | 83 | Weymouth | 1387.5 |
 | 84 | Billerica | 1383.6 |
