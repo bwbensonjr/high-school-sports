@@ -392,39 +392,39 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-13,153636,FINAL,Malden Catholic,4228,45.0,0.0,BC High,4029,18.0,1.0,Catholic Conference,Catholic Conference,4:00 P.M.,,0
 2026-10-13,153699,FINAL,Sturgis West,4735,23.0,1.0,Sturgis East,4456,37.0,0.0,Cape & Islands,Cape & Islands,,,0
 2026-10-13,154083,FINAL,Woburn,4438,43.0,0.0,Belmont,4034,18.0,1.0,Middlesex,Middlesex,,,0
-2026-10-14,144097,FINAL,Needham,4272,26,1,Milton,4252,29,0,Bay State,Bay State,4:00 P.M.,,0
-2026-10-14,144098,FINAL,Walpole,4404,25,1,Milton,4252,30,0,Bay State,Bay State,4:00 P.M.,,0
-2026-10-14,144099,FINAL,Walpole,4404,28,0,Needham,4272,27,1,Bay State,Bay State,4:00 P.M.,,0
+2026-10-14,144097,FINAL,Needham,4272,26.0,1.0,Milton,4252,29.0,0.0,Bay State,Bay State,4:00 P.M.,,0
+2026-10-14,144098,FINAL,Walpole,4404,25.0,1.0,Milton,4252,30.0,0.0,Bay State,Bay State,4:00 P.M.,,0
+2026-10-14,144099,FINAL,Walpole,4404,28.0,0.0,Needham,4272,27.0,1.0,Bay State,Bay State,4:00 P.M.,,0
 2026-10-14,147896,UPCOMING,Brockton,4058,,,New Bedford,4273,,,Big Three,Big Three,4:00 P.M.,,0
-2026-10-14,148342,FINAL,ME/Rockport,4229,19,1,Hamilton-Wenham,4163,40,0,Cape Ann,Cape Ann,3:30 P.M.,,0
-2026-10-14,148363,FINAL,Lynnfield,4223,50,0,Newburyport,4276,15,1,Cape Ann,Cape Ann,4:00 P.M.,,0
-2026-10-14,148378,FINAL,North Reading,4288,25,1,Pentucket,4309,33,0,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-10-14,148342,FINAL,ME/Rockport,4229,19.0,1.0,Hamilton-Wenham,4163,40.0,0.0,Cape Ann,Cape Ann,3:30 P.M.,,0
+2026-10-14,148363,FINAL,Lynnfield,4223,50.0,0.0,Newburyport,4276,15.0,1.0,Cape Ann,Cape Ann,4:00 P.M.,,0
+2026-10-14,148378,FINAL,North Reading,4288,25.0,1.0,Pentucket,4309,33.0,0.0,Cape Ann,Cape Ann,4:00 P.M.,,0
 2026-10-14,148460,UPCOMING,Ipswich,4190,,,Amesbury,4007,,,Cape Ann,Cape Ann,4:00 P.M.,,0
 2026-10-14,149014,UPCOMING,Chelsea,4086,,,Medford,4242,,,Greater Boston,Greater Boston,4:00 P.M.,,0
-2026-10-14,149042,FINAL,Somerville,4351,22,1,Everett,4132,37,0,Greater Boston,Greater Boston,4:00 P.M.,,0
+2026-10-14,149042,FINAL,Somerville,4351,22.0,1.0,Everett,4132,37.0,0.0,Greater Boston,Greater Boston,4:00 P.M.,,0
 2026-10-14,149717,UPCOMING,Lynn Classical,4220,,,Lynn English,4221,,,Greater Boston,Greater Boston,4:00 P.M.,,0
 2026-10-14,149750,UPCOMING,Malden,4227,,,Revere,4329,,,Greater Boston,Greater Boston,4:00 P.M.,,0
-2026-10-14,149787,FINAL,Danvers,4103,42,0,Peabody,4306,19,1,Northeastern,Northeastern,4:00 P.M.,,0
-2026-10-14,149815,FINAL,Beverly,4038,49,0,Swampscott,4383,16,1,Northeastern,Northeastern,4:00 P.M.,,0
-2026-10-14,149836,FINAL,Saugus,4341,42,0,Marblehead,4231,19,1,Northeastern,Northeastern,4:00 P.M.,,0
-2026-10-14,149853,FINAL,Masconomet,4236,15,1,Salem,4336,46,0,Northeastern,Northeastern,4:00 P.M.,,0
-2026-10-14,150029,FINAL,Medfield,4241,35,0,Ashland,4015,21,1,Tri-Valley,Tri-Valley,4:30 P.M.,,0
-2026-10-14,153637,FINAL,Lowell,4216,23,1,Andover,4009,34,0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
-2026-10-14,153640,FINAL,Billerica,4040,25,1,Dracut,4119,36,0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
-2026-10-14,153642,FINAL,North Andover,4283,25,1,Dracut,4119,36,0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
-2026-10-14,153644,FINAL,Billerica,4040,48,0,North Andover,4283,15,1,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
+2026-10-14,149787,FINAL,Danvers,4103,42.0,0.0,Peabody,4306,19.0,1.0,Northeastern,Northeastern,4:00 P.M.,,0
+2026-10-14,149815,FINAL,Beverly,4038,49.0,0.0,Swampscott,4383,16.0,1.0,Northeastern,Northeastern,4:00 P.M.,,0
+2026-10-14,149836,FINAL,Saugus,4341,42.0,0.0,Marblehead,4231,19.0,1.0,Northeastern,Northeastern,4:00 P.M.,,0
+2026-10-14,149853,FINAL,Masconomet,4236,15.0,1.0,Salem,4336,46.0,0.0,Northeastern,Northeastern,4:00 P.M.,,0
+2026-10-14,150029,FINAL,Medfield,4241,35.0,0.0,Ashland,4015,21.0,1.0,Tri-Valley,Tri-Valley,4:30 P.M.,,0
+2026-10-14,153637,FINAL,Lowell,4216,23.0,1.0,Andover,4009,34.0,0.0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
+2026-10-14,153640,FINAL,Billerica,4040,25.0,1.0,Dracut,4119,36.0,0.0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
+2026-10-14,153642,FINAL,North Andover,4283,25.0,1.0,Dracut,4119,36.0,0.0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
+2026-10-14,153644,FINAL,Billerica,4040,48.0,0.0,North Andover,4283,15.0,1.0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
 2026-10-14,153646,UPCOMING,Chelmsford,4085,,,Lawrence,4203,,,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
 2026-10-14,153649,UPCOMING,Methuen,4246,,,Lawrence,4203,,,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
 2026-10-14,153650,UPCOMING,Methuen,4246,,,Chelmsford,4085,,,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
-2026-10-14,153652,FINAL,Tewksbury,4389,39,0,Central Catholic,4081,22,1,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
-2026-10-14,153653,FINAL,Haverhill,4167,41,0,Central Catholic,4081,19,1,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
-2026-10-14,153656,FINAL,Haverhill,4167,26,1,Tewksbury,4389,33,0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
-2026-10-14,153677,FINAL,Framingham,4143,50,0,Brookline,4059,15,1,Bay State,Bay State,4:00 P.M.,,0
-2026-10-14,153678,FINAL,Braintree,4051,47,0,Brookline,4059,16,1,Bay State,Bay State,4:00 P.M.,,0
-2026-10-14,153702,FINAL,West Bridgewater,4415,20,1,Apponequet,4011,41,0,South Coast,South Coast,4:00 P.M.,,0
-2026-10-14,153707,FINAL,Westwood,4424,32,0,Norwood,4297,25,1,Tri-Valley,Tri-Valley,4:00 P.M.,,0
-2026-10-14,153747,FINAL,Natick,4270,20,1,Weymouth,4425,41,0,Bay State,Bay State,4:00 P.M.,,0
-2026-10-14,154247,FINAL,Catholic Memorial,4080,44,0,St. John’s Prep,4369,15,1,Catholic Conference,Catholic Conference,,,0
+2026-10-14,153652,FINAL,Tewksbury,4389,39.0,0.0,Central Catholic,4081,22.0,1.0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
+2026-10-14,153653,FINAL,Haverhill,4167,41.0,0.0,Central Catholic,4081,19.0,1.0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
+2026-10-14,153656,FINAL,Haverhill,4167,26.0,1.0,Tewksbury,4389,33.0,0.0,Merrimack Valley,Merrimack Valley,4:00 P.M.,,0
+2026-10-14,153677,FINAL,Framingham,4143,50.0,0.0,Brookline,4059,15.0,1.0,Bay State,Bay State,4:00 P.M.,,0
+2026-10-14,153678,FINAL,Braintree,4051,47.0,0.0,Brookline,4059,16.0,1.0,Bay State,Bay State,4:00 P.M.,,0
+2026-10-14,153702,FINAL,West Bridgewater,4415,20.0,1.0,Apponequet,4011,41.0,0.0,South Coast,South Coast,4:00 P.M.,,0
+2026-10-14,153707,FINAL,Westwood,4424,32.0,0.0,Norwood,4297,25.0,1.0,Tri-Valley,Tri-Valley,4:00 P.M.,,0
+2026-10-14,153747,FINAL,Natick,4270,20.0,1.0,Weymouth,4425,41.0,0.0,Bay State,Bay State,4:00 P.M.,,0
+2026-10-14,154247,FINAL,Catholic Memorial,4080,44.0,0.0,St. John’s Prep,4369,15.0,1.0,Catholic Conference,Catholic Conference,,,0
 2026-10-15,148570,FINAL,Bishop Feehan,4042,24,1,Archbishop Williams,4012,31,0,Catholic Central,Catholic Central,4:00 P.M.,,0
 2026-10-15,154019,FINAL,Somerset Berkley,4350,25,1,Dighton-Rehoboth,4114,31,0,South Coast,South Coast,,,0
 2026-10-15,154021,FINAL,Somerset Berkley,4350,16,1,Bourne,4050,46,0,South Coast,South Coast,,,0

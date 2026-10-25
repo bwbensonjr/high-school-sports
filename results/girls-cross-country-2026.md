@@ -1,6 +1,6 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-10-24 14:14
+Generated: 2026-10-25 14:47
 
 ## Upcoming Games
 
@@ -165,8 +165,8 @@ Generated: 2026-10-24 14:14
 | 122 | Archbishop Williams | 1517.9 |
 | 123 | Whittier | 1516.9 |
 | 124 | Brooks | 1516.0 |
-| 125 | Chicopee Comprehensive | 1514.8 |
-| 126 | Rivers | 1514.8 |
+| 125 | Rivers | 1514.8 |
+| 126 | Chicopee Comprehensive | 1514.8 |
 | 127 | Wellesley | 1514.6 |
 | 128 | Dana Hall | 1513.2 |
 | 129 | Minuteman | 1513.1 |
@@ -180,14 +180,14 @@ Generated: 2026-10-24 14:14
 | 137 | Holbrook/Avon | 1506.1 |
 | 138 | Monomoy | 1505.6 |
 | 139 | Westfield Tech | 1504.2 |
-| 140 | Notre Dame (Worcester) | 1502.8 |
-| 141 | Longmeadow | 1502.8 |
-| 142 | Westfield | 1502.8 |
-| 143 | Notre Dame (Tyngsborough) | 1502.8 |
-| 144 | Cape Cod Tech | 1502.8 |
-| 145 | Amherst-Pelham | 1502.8 |
-| 146 | Wachusett | 1502.8 |
-| 147 | Minnechaug | 1502.8 |
+| 140 | Longmeadow | 1502.8 |
+| 141 | Amherst-Pelham | 1502.8 |
+| 142 | Notre Dame (Worcester) | 1502.8 |
+| 143 | Cape Cod Tech | 1502.8 |
+| 144 | Wachusett | 1502.8 |
+| 145 | Notre Dame (Tyngsborough) | 1502.8 |
+| 146 | Minnechaug | 1502.8 |
+| 147 | Westfield | 1502.8 |
 | 148 | Pingree | 1502.0 |
 | 149 | West Bridgewater | 1501.0 |
 | 150 | Winthrop | 1499.9 |
@@ -213,8 +213,8 @@ Generated: 2026-10-24 14:14
 | 170 | King Philip | 1480.2 |
 | 171 | Everett | 1479.3 |
 | 172 | Milton Academy | 1479.0 |
-| 173 | Clinton | 1476.8 |
-| 174 | Ayer Shirley | 1476.8 |
+| 173 | Ayer Shirley | 1476.8 |
+| 174 | Clinton | 1476.8 |
 | 175 | Blackstone Valley | 1476.6 |
 | 176 | Concord Academy | 1476.0 |
 | 177 | Notre Dame Academy-Worcester | 1475.4 |

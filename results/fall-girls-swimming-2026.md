@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-10-24 14:14
+Generated: 2026-10-25 14:47
 
 ## Upcoming Games
 
@@ -23,13 +23,13 @@ Generated: 2026-10-24 14:14
 | 2 | Seekonk | 1719.3 |
 | 3 | Notre Dame (Hingham) | 1696.7 |
 | 4 | Nantucket | 1695.1 |
-| 5 | Andover | 1641.4 |
-| 6 | Newton North | 1635.2 |
+| 5 | Wellesley | 1671.2 |
+| 6 | Andover | 1641.4 |
 | 7 | Milton | 1633.9 |
-| 8 | Wellesley | 1626.4 |
-| 9 | Westwood | 1620.6 |
-| 10 | Nashoba | 1617.7 |
-| 11 | Hingham | 1600.5 |
+| 8 | Westwood | 1620.6 |
+| 9 | Nashoba | 1617.7 |
+| 10 | Hingham | 1600.5 |
+| 11 | Newton North | 1597.8 |
 | 12 | Taunton | 1589.3 |
 | 13 | North Andover | 1588.8 |
 | 14 | Concord-Carlisle | 1587.2 |
@@ -105,7 +105,7 @@ Generated: 2026-10-24 14:14
 | 84 | Billerica | 1383.6 |
 | 85 | Durfee | 1382.1 |
 | 86 | Old Rochester | 1338.5 |
-| 87 | Braintree | 1329.5 |
-| 88 | Malden Catholic | 1327.9 |
-| 89 | Walpole | 1322.6 |
+| 87 | Malden Catholic | 1327.9 |
+| 88 | Walpole | 1322.6 |
+| 89 | Braintree | 1322.1 |
 | 90 | Nauset | 1309.6 |
