@@ -1,6 +1,6 @@
 # Boys Cross Country - 2026 Season
 
-Generated: 2026-10-25 14:47
+Generated: 2026-10-26 17:06
 
 ## Upcoming Games
 
@@ -178,18 +178,18 @@ Generated: 2026-10-25 14:47
 | 140 | Scituate | 1503.4 |
 | 141 | Sturgis West | 1503.1 |
 | 142 | Longmeadow | 1502.8 |
-| 143 | Tabor | 1502.8 |
-| 144 | Westfield | 1502.8 |
-| 145 | Greater Lawrence | 1502.8 |
-| 146 | Minnechaug | 1502.8 |
-| 147 | Notre Dame (Tyngsborough) | 1502.8 |
-| 148 | Bridgewater-Raynham | 1502.8 |
-| 149 | Riverview School | 1502.8 |
-| 150 | Wachusett | 1502.8 |
-| 151 | Watkinson | 1502.8 |
-| 152 | Greater Lowell | 1502.8 |
-| 153 | Amherst-Pelham | 1502.8 |
-| 154 | St. Sebastian’s | 1502.8 |
+| 143 | Amherst-Pelham | 1502.8 |
+| 144 | Watkinson | 1502.8 |
+| 145 | St. Sebastian’s | 1502.8 |
+| 146 | Riverview School | 1502.8 |
+| 147 | Greater Lowell | 1502.8 |
+| 148 | Minnechaug | 1502.8 |
+| 149 | Wachusett | 1502.8 |
+| 150 | Bridgewater-Raynham | 1502.8 |
+| 151 | Notre Dame (Tyngsborough) | 1502.8 |
+| 152 | Tabor | 1502.8 |
+| 153 | Westfield | 1502.8 |
+| 154 | Greater Lawrence | 1502.8 |
 | 155 | East Bridgewater | 1501.9 |
 | 156 | Carver | 1500.6 |
 | 157 | Auburn | 1499.9 |

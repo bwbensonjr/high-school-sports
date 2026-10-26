@@ -766,25 +766,25 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-10,154104,FINAL,Avon Old Farms,4021,25.0,0.0,Choate,4090,50.0,1.0,NEPSAC Class A,NEPSAC Class A,,,0
 2026-10-10,154120,FINAL,Taft,4386,27.0,1.0,Suffield Academy,4382,21.0,0.0,NEPSAC Class A,NEPSAC Class A,,,0
 2026-10-10,154162,FINAL,Capital Prep Harbor (Conn.),4905,20.0,0.0,St. Luke’s,4618,24.0,1.0,NEPSAC Class C,Independent,,,0
-2026-10-15,127467,FINAL,Reading,4328,62,1,Lexington,4209,0,0,Middlesex,Middlesex,6:00 P.M.,,0
-2026-10-15,127608,FINAL,Franklin,4144,21,1,Attleboro,4018,6,0,Hockomock,Hockomock,6:30 P.M.,,0
-2026-10-15,127817,FINAL,Catholic Memorial,4080,42,1,Xaverian,4446,21,0,Catholic Conference,Catholic Conference,6:00 P.M.,,0
-2026-10-15,127879,FINAL,Greater New Bedford,4156,13,0,Dighton-Rehoboth/Bristol Aggie,4114,27,1,South Coast,South Coast,6:30 P.M.,,0
-2026-10-15,128011,FINAL,Medford,4242,8,1,Chelsea,4086,3,0,Greater Boston,Greater Boston,6:00 P.M.,,0
-2026-10-15,128147,FINAL,Revere,4329,14,0,Somerville,4351,44,1,Greater Boston,Greater Boston,6:00 P.M.,,0
-2026-10-15,128326,FINAL,Agawam,4004,32,1,Putnam,4362,20,0,Suburban,Suburban,6:00 P.M.,,0
-2026-10-15,128478,FINAL,Stoneham,4380,16,1,Burlington,4065,14,0,Middlesex,Middlesex,6:30 P.M.,,0
-2026-10-15,128667,FINAL,Latin Academy,4202,24,0,East Boston,4125,38,1,Boston City,Boston City,5:00 P.M.,,0
-2026-10-15,128849,FINAL,Holyoke,4176,0,0,South Hadley,4353,56,1,AA,Suburban,6:00 P.M.,,0
-2026-10-15,129082,FINAL,Medway,4243,0,0,Norton,4295,7,1,Tri-Valley,Tri-Valley,6:00 P.M.,,0
-2026-10-15,129162,FINAL,Easthampton,4130,6,0,Lee,4206,48,1,Intercounty,Intercounty,6:00 P.M.,,0
-2026-10-15,129164,FINAL,Dover-Sherborn,4118,6,0,Bellingham,4033,48,1,Tri-Valley,Tri-Valley,6:00 P.M.,,0
-2026-10-15,129224,FINAL,Chicopee,4088,40,1,Commerce,4361,16,0,Suburban,Intercounty,6:00 P.M.,,0
-2026-10-15,130001,FINAL,Bishop Feehan,4042,6,0,Bridgewater-Raynham,4053,34,1,Independent,Pioneer,6:00 P.M.,,0
-2026-10-15,132367,FINAL,Nantucket,4265,10,0,Dennis-Yarmouth,4111,29,1,Cape & Islands,Cape & Islands,5:15 P.M.,,0
-2026-10-15,154062,FINAL,Springfield Central,4360,55,1,East Longmeadow,4127,14,0,AA,Suburban,,,0
-2026-10-15,154065,FINAL,Framingham,4143,28,1,Durfee,4122,27,0,Bay State,Big Three,6:00 P.M.,,0
-2026-10-15,154072,FINAL,Apponequet,4011,33,1,Somerset Berkley,4350,8,0,South Coast,South Coast,,,0
+2026-10-15,127467,FINAL,Reading,4328,62.0,1.0,Lexington,4209,0.0,0.0,Middlesex,Middlesex,6:00 P.M.,,0
+2026-10-15,127608,FINAL,Franklin,4144,21.0,1.0,Attleboro,4018,6.0,0.0,Hockomock,Hockomock,6:30 P.M.,,0
+2026-10-15,127817,FINAL,Catholic Memorial,4080,42.0,1.0,Xaverian,4446,21.0,0.0,Catholic Conference,Catholic Conference,6:00 P.M.,,0
+2026-10-15,127879,FINAL,Greater New Bedford,4156,13.0,0.0,Dighton-Rehoboth/Bristol Aggie,4114,27.0,1.0,South Coast,South Coast,6:30 P.M.,,0
+2026-10-15,128011,FINAL,Medford,4242,8.0,1.0,Chelsea,4086,3.0,0.0,Greater Boston,Greater Boston,6:00 P.M.,,0
+2026-10-15,128147,FINAL,Revere,4329,14.0,0.0,Somerville,4351,44.0,1.0,Greater Boston,Greater Boston,6:00 P.M.,,0
+2026-10-15,128326,FINAL,Agawam,4004,32.0,1.0,Putnam,4362,20.0,0.0,Suburban,Suburban,6:00 P.M.,,0
+2026-10-15,128478,FINAL,Stoneham,4380,16.0,1.0,Burlington,4065,14.0,0.0,Middlesex,Middlesex,6:30 P.M.,,0
+2026-10-15,128667,FINAL,Latin Academy,4202,24.0,0.0,East Boston,4125,38.0,1.0,Boston City,Boston City,5:00 P.M.,,0
+2026-10-15,128849,FINAL,Holyoke,4176,0.0,0.0,South Hadley,4353,56.0,1.0,AA,Suburban,6:00 P.M.,,0
+2026-10-15,129082,FINAL,Medway,4243,0.0,0.0,Norton,4295,7.0,1.0,Tri-Valley,Tri-Valley,6:00 P.M.,,0
+2026-10-15,129162,FINAL,Easthampton,4130,6.0,0.0,Lee,4206,48.0,1.0,Intercounty,Intercounty,6:00 P.M.,,0
+2026-10-15,129164,FINAL,Dover-Sherborn,4118,6.0,0.0,Bellingham,4033,48.0,1.0,Tri-Valley,Tri-Valley,6:00 P.M.,,0
+2026-10-15,129224,FINAL,Chicopee,4088,40.0,1.0,Commerce,4361,16.0,0.0,Suburban,Intercounty,6:00 P.M.,,0
+2026-10-15,130001,FINAL,Bishop Feehan,4042,6.0,0.0,Bridgewater-Raynham,4053,34.0,1.0,Independent,Pioneer,6:00 P.M.,,0
+2026-10-15,132367,FINAL,Nantucket,4265,10.0,0.0,Dennis-Yarmouth,4111,29.0,1.0,Cape & Islands,Cape & Islands,5:15 P.M.,,0
+2026-10-15,154062,FINAL,Springfield Central,4360,55.0,1.0,East Longmeadow,4127,14.0,0.0,AA,Suburban,,,0
+2026-10-15,154065,FINAL,Framingham,4143,28.0,1.0,Durfee,4122,27.0,0.0,Bay State,Big Three,6:00 P.M.,,0
+2026-10-15,154072,FINAL,Apponequet,4011,33.0,1.0,Somerset Berkley,4350,8.0,0.0,South Coast,South Coast,,,0
 2026-10-16,127450,FINAL,Weymouth,4425,8,0,Brockton,4058,21,1,Bay State,Big Three,7:00 P.M.,,0
 2026-10-16,127502,FINAL,St. John’s (Shrewsbury),4368,20,0,St. John’s Prep,4369,43,1,Catholic Conference,Catholic Conference,5:00 P.M.,,0
 2026-10-16,127532,FINAL,Billerica,4040,41,1,Lowell,4216,18,0,Merrimack Valley,Merrimack Valley,7:00 P.M.,,0
