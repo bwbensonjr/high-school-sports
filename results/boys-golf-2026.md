@@ -1,6 +1,6 @@
 # Boys Golf - 2026 Season
 
-Generated: 2026-10-26 17:06
+Generated: 2026-10-27 16:10
 
 ## Upcoming Games
 
@@ -9,9 +9,8 @@ Generated: 2026-10-26 17:06
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-10-19 | Beaver Country Day | 4 | Wheeler (R.I.) | 2 | +3.7 | +2.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 
@@ -152,8 +151,8 @@ Generated: 2026-10-26 17:06
 | 133 | Southeastern | 1507.3 |
 | 134 | St. Mary (Westfield) | 1506.2 |
 | 135 | Beaver Country Day | 1504.0 |
-| 136 | Greenfield | 1502.8 |
-| 137 | St. Paul’s | 1502.8 |
+| 136 | St. Paul’s | 1502.8 |
+| 137 | Greenfield | 1502.8 |
 | 138 | Tewksbury | 1500.4 |
 | 139 | Pembroke | 1499.8 |
 | 140 | Swampscott | 1497.6 |

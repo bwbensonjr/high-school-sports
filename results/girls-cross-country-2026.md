@@ -1,6 +1,6 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-10-26 17:06
+Generated: 2026-10-27 16:10
 
 ## Upcoming Games
 
@@ -180,14 +180,14 @@ Generated: 2026-10-26 17:06
 | 137 | Holbrook/Avon | 1506.1 |
 | 138 | Monomoy | 1505.6 |
 | 139 | Westfield Tech | 1504.2 |
-| 140 | Minnechaug | 1502.8 |
-| 141 | Cape Cod Tech | 1502.8 |
-| 142 | Longmeadow | 1502.8 |
-| 143 | Notre Dame (Tyngsborough) | 1502.8 |
-| 144 | Wachusett | 1502.8 |
-| 145 | Amherst-Pelham | 1502.8 |
-| 146 | Notre Dame (Worcester) | 1502.8 |
-| 147 | Westfield | 1502.8 |
+| 140 | Notre Dame (Tyngsborough) | 1502.8 |
+| 141 | Longmeadow | 1502.8 |
+| 142 | Notre Dame (Worcester) | 1502.8 |
+| 143 | Amherst-Pelham | 1502.8 |
+| 144 | Westfield | 1502.8 |
+| 145 | Minnechaug | 1502.8 |
+| 146 | Cape Cod Tech | 1502.8 |
+| 147 | Wachusett | 1502.8 |
 | 148 | Pingree | 1502.0 |
 | 149 | West Bridgewater | 1501.0 |
 | 150 | Winthrop | 1499.9 |
@@ -213,8 +213,8 @@ Generated: 2026-10-26 17:06
 | 170 | King Philip | 1480.2 |
 | 171 | Everett | 1479.3 |
 | 172 | Milton Academy | 1479.0 |
-| 173 | Clinton | 1476.8 |
-| 174 | Ayer Shirley | 1476.8 |
+| 173 | Ayer Shirley | 1476.8 |
+| 174 | Clinton | 1476.8 |
 | 175 | Blackstone Valley | 1476.6 |
 | 176 | Concord Academy | 1476.0 |
 | 177 | Notre Dame Academy-Worcester | 1475.4 |
