@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-10-27 16:10
+Generated: 2026-10-28 16:58
 
 ## Upcoming Games
 
@@ -11,6 +11,7 @@ Generated: 2026-10-27 16:10
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-10-27 | Notre Dame (Hingham) | 96 | Braintree | 41 | +42.5 | +55.0 |
 | 2026-10-23 | Lowell | 79 | Methuen/Tewksbury | 99 | -4.0 | -20.0 |
 | 2026-10-23 | Andover | 82 | Chelmsford | 104 | +4.0 | -22.0 |
 | 2026-10-21 | Notre Dame (Hingham) | 107 | Ursuline | 77 | +18.4 | +30.0 |
@@ -21,7 +22,7 @@ Generated: 2026-10-27 16:10
 |------|------|------------|
 | 1 | Chelmsford | 1756.2 |
 | 2 | Seekonk | 1719.3 |
-| 3 | Notre Dame (Hingham) | 1696.7 |
+| 3 | Notre Dame (Hingham) | 1706.4 |
 | 4 | Nantucket | 1695.1 |
 | 5 | Wellesley | 1671.2 |
 | 6 | Andover | 1641.4 |
@@ -107,5 +108,5 @@ Generated: 2026-10-27 16:10
 | 86 | Old Rochester | 1338.5 |
 | 87 | Malden Catholic | 1327.9 |
 | 88 | Walpole | 1322.6 |
-| 89 | Braintree | 1322.1 |
+| 89 | Braintree | 1312.5 |
 | 90 | Nauset | 1309.6 |
