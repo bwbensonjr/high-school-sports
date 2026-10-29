@@ -1,6 +1,6 @@
 # Boys Golf - 2026 Season
 
-Generated: 2026-10-28 16:58
+Generated: 2026-10-29 17:17
 
 ## Upcoming Games
 
@@ -151,8 +151,8 @@ Generated: 2026-10-28 16:58
 | 133 | Southeastern | 1507.3 |
 | 134 | St. Mary (Westfield) | 1506.2 |
 | 135 | Beaver Country Day | 1504.0 |
-| 136 | St. Paul’s | 1502.8 |
-| 137 | Greenfield | 1502.8 |
+| 136 | Greenfield | 1502.8 |
+| 137 | St. Paul’s | 1502.8 |
 | 138 | Tewksbury | 1500.4 |
 | 139 | Pembroke | 1499.8 |
 | 140 | Swampscott | 1497.6 |

@@ -1,33 +1,17 @@
 # Boys Cross Country - 2026 Season
 
-Generated: 2026-10-28 16:58
+Generated: 2026-10-29 17:17
 
 ## Upcoming Games
 
-| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
-|------|------|-----------|-----------|------------|------------------|
-| 2026-10-28 | 4:00 P.M. | Durfee | Dartmouth | 81.7% | +26.0 |
+*No upcoming games scheduled*
+
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-10-23 | Natick | 32 | Framingham | 25 | -32.9 | +7.0 |
-| 2026-10-21 | Brookline | 23 | Newton North | 34 | +1.7 | -11.0 |
-| 2026-10-21 | Needham | 29 | Wellesley | 27 | +9.3 | +2.0 |
-| 2026-10-21 | Milton | 18 | Braintree | 43 | -5.1 | -25.0 |
-| 2026-10-21 | Newton South | 46 | Cambridge | 15 | +13.5 | +31.0 |
-| 2026-10-21 | Weston | 22 | Wayland | 35 | -5.9 | -13.0 |
-| 2026-10-21 | Malden | 28 | Somerville | 29 | +23.1 | -1.0 |
-| 2026-10-21 | Masconomet | 15 | Danvers | 50 | -16.8 | -35.0 |
-| 2026-10-21 | Swampscott | 21 | Marblehead | 38 | +8.7 | -17.0 |
-| 2026-10-21 | Lowell | 15 | Chelmsford | 50 | -17.5 | -35.0 |
-| 2026-10-21 | Lowell | 20 | Billerica | 38 | -2.8 | -18.0 |
-| 2026-10-21 | Weston | 18 | Waltham | 45 | -20.0 | -27.0 |
-| 2026-10-21 | Central Catholic | 32 | Andover | 25 | +7.4 | +7.0 |
-| 2026-10-21 | Central Catholic | 46 | North Andover | 17 | +30.0 | +29.0 |
-| 2026-10-21 | Weymouth | 31 | Walpole | 26 | +9.1 | +5.0 |
-| 2026-10-21 | Lexington | 24 | Belmont | 35 | -9.4 | -11.0 |
 
 ## Current Elo Ratings
 
@@ -148,8 +132,8 @@ Generated: 2026-10-28 16:58
 | 113 | Frontier | 1521.2 |
 | 114 | Leominster | 1520.7 |
 | 115 | Wayland | 1520.1 |
-| 116 | Westborough | 1519.4 |
-| 117 | Minuteman | 1519.4 |
+| 116 | Minuteman | 1519.4 |
+| 117 | Westborough | 1519.4 |
 | 118 | Maynard | 1518.8 |
 | 119 | BB&N | 1518.7 |
 | 120 | Burlington | 1517.2 |
@@ -174,19 +158,19 @@ Generated: 2026-10-28 16:58
 | 139 | New Bedford | 1503.8 |
 | 140 | Scituate | 1503.4 |
 | 141 | Sturgis West | 1503.1 |
-| 142 | Bridgewater-Raynham | 1502.8 |
+| 142 | Notre Dame (Tyngsborough) | 1502.8 |
 | 143 | Tabor | 1502.8 |
-| 144 | Westfield | 1502.8 |
-| 145 | Minnechaug | 1502.8 |
-| 146 | Riverview School | 1502.8 |
-| 147 | Greater Lawrence | 1502.8 |
-| 148 | Notre Dame (Tyngsborough) | 1502.8 |
-| 149 | Watkinson | 1502.8 |
+| 144 | Amherst-Pelham | 1502.8 |
+| 145 | Westfield | 1502.8 |
+| 146 | Greater Lawrence | 1502.8 |
+| 147 | St. Sebastian’s | 1502.8 |
+| 148 | Longmeadow | 1502.8 |
+| 149 | Bridgewater-Raynham | 1502.8 |
 | 150 | Greater Lowell | 1502.8 |
-| 151 | St. Sebastian’s | 1502.8 |
+| 151 | Minnechaug | 1502.8 |
 | 152 | Wachusett | 1502.8 |
-| 153 | Amherst-Pelham | 1502.8 |
-| 154 | Longmeadow | 1502.8 |
+| 153 | Watkinson | 1502.8 |
+| 154 | Riverview School | 1502.8 |
 | 155 | East Bridgewater | 1501.9 |
 | 156 | Carver | 1500.6 |
 | 157 | Auburn | 1499.9 |

@@ -1,36 +1,16 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-10-28 16:58
+Generated: 2026-10-29 17:17
 
 ## Upcoming Games
 
-| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
-|------|------|-----------|-----------|------------|------------------|
-| 2026-10-28 | 4:00 P.M. | Durfee | Dartmouth | 74.6% | +18.7 |
-| 2026-10-28 | 4:00 P.M. | New Bedford | Bishop Stang | 30.8% | -14.0 |
+*No upcoming games scheduled*
+
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-10-21 | Brookline | 41 | Newton North | 18 | +33.8 | +23.0 |
-| 2026-10-21 | Needham | 20 | Wellesley | 43 | -19.9 | -23.0 |
-| 2026-10-21 | Bancroft | 15 | Beaver Country Day | 49 | -16.1 | -34.0 |
-| 2026-10-21 | Natick | 20 | Framingham | 40 | -22.6 | -20.0 |
-| 2026-10-21 | Central Catholic | 24 | Andover | 31 | -7.4 | -7.0 |
-| 2026-10-21 | Central Catholic | 23 | North Andover | 33 | +6.7 | -10.0 |
-| 2026-10-21 | Billerica | 20 | Chelmsford | 43 | -42.0 | -23.0 |
-| 2026-10-21 | Lowell | 50 | Billerica | 15 | +31.4 | +35.0 |
-| 2026-10-21 | Lowell | 25 | Chelmsford | 35 | -8.6 | -10.0 |
-| 2026-10-21 | Weymouth | 19 | Walpole | 42 | -23.9 | -23.0 |
-| 2026-10-21 | Dedham | 21 | Dover-Sherborn | 34 | +22.7 | -13.0 |
-| 2026-10-21 | Swampscott | 40 | Marblehead | 19 | +25.5 | +21.0 |
-| 2026-10-21 | Malden | 15 | Somerville | 50 | +26.4 | -35.0 |
-| 2026-10-21 | Weston | 26 | Wayland | 29 | +5.2 | -3.0 |
-| 2026-10-21 | Newton South | 28 | Cambridge | 27 | +13.2 | +1.0 |
-| 2026-10-21 | Westford | 46 | Concord-Carlisle | 16 | +22.2 | +30.0 |
-| 2026-10-21 | Milton | 22 | Braintree | 39 | -17.6 | -17.0 |
-| 2026-10-21 | Concord Academy | 15 | Beaver Country Day | 50 | -19.1 | -35.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 
@@ -149,8 +129,8 @@ Generated: 2026-10-28 16:58
 | 111 | Norfolk Aggie | 1524.0 |
 | 112 | Saugus | 1523.8 |
 | 113 | Medford | 1523.6 |
-| 114 | Renaissance | 1523.4 |
-| 115 | Hudson | 1523.4 |
+| 114 | Hudson | 1523.4 |
+| 115 | Renaissance | 1523.4 |
 | 116 | Shepherd Hill | 1522.0 |
 | 117 | Middleborough | 1521.1 |
 | 118 | Leominster | 1520.0 |
@@ -175,13 +155,13 @@ Generated: 2026-10-28 16:58
 | 137 | Holbrook/Avon | 1506.1 |
 | 138 | Monomoy | 1505.6 |
 | 139 | Westfield Tech | 1504.2 |
-| 140 | Amherst-Pelham | 1502.8 |
-| 141 | Longmeadow | 1502.8 |
-| 142 | Notre Dame (Tyngsborough) | 1502.8 |
-| 143 | Minnechaug | 1502.8 |
-| 144 | Westfield | 1502.8 |
-| 145 | Cape Cod Tech | 1502.8 |
-| 146 | Wachusett | 1502.8 |
+| 140 | Minnechaug | 1502.8 |
+| 141 | Wachusett | 1502.8 |
+| 142 | Cape Cod Tech | 1502.8 |
+| 143 | Longmeadow | 1502.8 |
+| 144 | Amherst-Pelham | 1502.8 |
+| 145 | Notre Dame (Tyngsborough) | 1502.8 |
+| 146 | Westfield | 1502.8 |
 | 147 | Notre Dame (Worcester) | 1502.8 |
 | 148 | Pingree | 1502.0 |
 | 149 | West Bridgewater | 1501.0 |
