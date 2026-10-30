@@ -1,70 +1,70 @@
-date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
-2025-12-22,71912,FINAL,Xaverian,4446,104.0,1,BC High,4029,82.0,0,Catholic Conference,Catholic Conference,,,0
-2025-12-22,72340,FINAL,Durfee,4122,80.0,1,Taunton,4388,60.0,0,Big Three,Hockomock,3:30 P.M.,,0
-2025-12-23,72785,FINAL,Chelmsford,4085,96.0,1,Natick,4270,85.0,0,Merrimack Valley,Bay State,,,0
-2025-12-23,72874,FINAL,Wellesley,4413,86.0,0,Belmont,4034,97.0,1,Bay State,Middlesex,,,0
-2026-01-06,77993,FINAL,St. John’s Prep,4369,95.0,1,Chelmsford,4085,89.0,0,Catholic Conference,Merrimack Valley,,,0
-2026-01-06,77997,FINAL,Barnstable,4024,57.0,0,Nauset,4271,67.0,1,Pioneer,Cape & Islands,,,0
-2026-01-06,78000,FINAL,Dedham,4108,35.0,0,Ashland,4015,38.0,1,Independent,Tri-Valley,,,0
-2026-01-06,78011,FINAL,Bishop Stang,4045,77.0,0,Apponequet/Old Colony,4011,90.0,1,Catholic Central,South Coast,,,0
-2026-01-06,78245,FINAL,Sandwich,4340,87.0,1,Norwell,4296,37.0,0,Cape & Islands,South Shore,,,0
-2026-01-08,78239,FINAL,Sandwich,4340,79.0,0,Nantucket,4265,83.0,1,Cape & Islands,Cape & Islands,,,0
-2026-01-08,78328,FINAL,Marshfield/Hanover,4234,80.0,0,Quincy/North Quincy,4326,96.0,1,Patriot,Patriot,,,0
-2026-01-08,78342,FINAL,Brockton,4058,24.0,0,Durfee,4122,74.0,1,Big Three,Big Three,,,0
-2026-01-09,78361,FINAL,Andover,4009,90.0,1,Central Catholic,4081,67.0,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-09,78542,FINAL,Chelmsford,4085,101.0,1,Haverhill,4167,80.0,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-09,78717,FINAL,Nashoba,4267,50.0,0,Advanced Math and Science,4595,122.0,1,Mid-Wach,Independent,,,0
-2026-01-09,78766,FINAL,Wachusett,4400,44.0,0,Shrewsbury,4348,108.0,1,Mid-Wach,Mid-Wach,,,0
-2026-01-09,78769,FINAL,Westwood,4424,95.0,1,Medfield,4241,63.0,0,Tri-Valley,Tri-Valley,,,0
-2026-01-09,78788,FINAL,Bishop Feehan,4042,89.0,1,Cardinal Spellman,4075,56.0,0,Catholic Central,Catholic Central,,,0
-2026-01-09,78801,FINAL,North Attleborough,4284,109.0,1,Stoughton,4381,36.0,0,Hockomock,Hockomock,,,0
-2026-01-10,78942,FINAL,Westford,4421,99.0,1,Concord-Carlisle,4097,77.0,0,Dual County,Dual County,,,0
-2026-01-10,78948,FINAL,Attleboro,4018,70.0,0,Sharon,4345,96.0,1,Hockomock,Hockomock,,,0
-2026-01-12,78991,FINAL,Catholic Memorial,4080,77.0,0,Xaverian,4446,93.0,1,Catholic Conference,Catholic Conference,,,0
-2026-01-12,79015,FINAL,Weston,4423,98.0,1,Newton South,4280,86.0,0,Dual County,Dual County,,,0
-2026-01-13,79399,FINAL,Central Catholic,4081,67.0,0,Haverhill,4167,87.0,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-13,79773,FINAL,Chelmsford,4085,100.0,1,Andover,4009,75.0,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-13,79780,FINAL,Durfee,4122,109.0,1,Foxborough,4142,66.0,0,Big Three,Hockomock,,,0
-2026-01-13,79789,FINAL,Apponequet/Old Colony,4011,96.0,1,Seekonk,4344,83.0,0,South Coast,South Coast,,,0
-2026-01-13,79791,FINAL,Wellesley,4413,90.0,0,Brookline,4059,93.0,1,Bay State,Bay State,,,0
-2026-01-13,79868,FINAL,Pembroke,4308,27.0,0,Quincy/North Quincy,4326,85.0,1,Patriot,Patriot,,,0
-2026-01-14,80174,FINAL,St. John’s Prep,4369,108.5,1,Xaverian,4446,76.5,0,Catholic Conference,Catholic Conference,4:00 P.M.,,0
-2026-01-14,80192,FINAL,Dedham,4108,75.0,0,Westwood,4424,93.0,1,Independent,Tri-Valley,3:30 P.M.,,0
-2026-01-14,80244,FINAL,Catholic Memorial,4080,97.0,1,Medfield,4241,34.0,0,Catholic Conference,Tri-Valley,,,0
-2026-01-14,80306,FINAL,Nantucket,4265,93.0,1,Nauset,4271,47.0,0,Cape & Islands,Cape & Islands,,,0
-2026-01-14,80337,FINAL,Oliver Ames,4302,75.0,1,Stoughton,4381,57.0,0,Hockomock,Hockomock,4:30 P.M.,,0
-2026-01-14,80382,FINAL,Martha’s Vineyard,4235,100.0,1,Sandwich,4340,62.0,0,Cape & Islands,Cape & Islands,,,0
-2026-01-15,80644,FINAL,Durfee,4122,62.0,0,Old Rochester,4301,90.0,1,Big Three,South Coast,,,0
-2026-01-16,80676,FINAL,Central Catholic,4081,55.0,0,Chelmsford,4085,100.0,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-16,80706,FINAL,Catholic Memorial,4080,85.0,1,BC High,4029,84.0,0,Catholic Conference,Catholic Conference,,,0
-2026-01-16,80711,FINAL,Dedham,4108,97.0,1,Medfield,4241,62.0,0,Independent,Tri-Valley,,,0
-2026-01-16,80732,FINAL,Holliston/Medway,4174,77.0,0,Westwood,4424,97.0,1,Tri-Valley,Tri-Valley,,,0
-2026-01-16,80802,FINAL,Acton-Boxborough,4003,91.0,0,Concord-Carlisle,4097,92.0,1,Dual County,Dual County,,,0
-2026-01-16,80857,FINAL,Nauset,4271,54.0,0,Martha’s Vineyard,4235,89.0,1,Cape & Islands,Cape & Islands,,,0
-2026-01-20,81370,FINAL,Nashoba,4267,66.0,0,Shrewsbury,4348,105.0,1,Mid-Wach,Mid-Wach,,,0
-2026-01-20,81377,FINAL,Andover,4009,93.0,1,Central Catholic,4081,67.0,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-20,81614,FINAL,Chelmsford,4085,108.0,1,Haverhill,4167,72.0,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-20,81678,FINAL,St. John’s (Shrewsbury),4368,44.0,0,Xaverian,4446,124.0,1,Catholic Conference,Catholic Conference,,,0
-2026-01-20,81679,FINAL,Xaverian,4446,112.0,1,Malden Catholic,4228,66.0,0,Catholic Conference,Catholic Conference,,,0
-2026-01-20,81687,FINAL,Scituate,4343,59.0,0,Quincy/North Quincy,4326,110.0,1,Patriot,Patriot,,,0
-2026-01-20,81690,FINAL,Needham,4272,79.5,0,Wellesley,4413,103.5,1,Bay State,Bay State,,,0
-2026-01-21,81983,FINAL,Nashoba,4267,76.0,1,Wachusett,4400,61.0,0,Mid-Wach,Mid-Wach,,,0
-2026-01-21,82121,FINAL,Franklin,4144,46.0,0,Sharon,4345,105.0,1,Hockomock,Hockomock,,,0
-2026-01-22,82367,FINAL,Old Rochester,4301,102.0,1,Seekonk,4344,74.0,0,South Coast,South Coast,,,0
-2026-01-22,82371,FINAL,Hopkinton,4180,85.0,2,Holliston/Medway,4174,85.0,2,Tri-Valley,Tri-Valley,,,0
-2026-01-23,82489,FINAL,Central Catholic,4081,69.0,0,Haverhill,4167,87.0,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-23,82490,FINAL,Central Catholic,4081,67.0,0,Andover,4009,93.0,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-23,82514,FINAL,Chelmsford,4085,100.0,1,Andover,4009,80.0,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-23,82539,FINAL,Catholic Memorial,4080,91.0,1,O’Bryant,4298,75.0,0,Catholic Conference,Boston City,,,0
-2026-01-23,82565,FINAL,Westwood,4424,86.0,0,Xaverian,4446,99.0,1,Tri-Valley,Catholic Conference,,,0
-2026-01-23,82648,FINAL,Stoughton,4381,46.0,0,Canton,4071,75.0,1,Hockomock,Hockomock,,,0
-2026-01-23,82924,FINAL,Nashoba,4267,66.0,0,Gardner,4147,71.0,1,Mid-Wach,Mid-Wach,,,0
-2026-01-23,82955,FINAL,Hingham,4171,92.0,1,Silver Lake/Whitman-Hanson,4349,10.0,0,Patriot,Patriot,6:30 P.M.,,0
-2026-01-28,83628,FINAL,Nauset,4271,50.0,0,Sandwich,4340,83.0,1,Cape & Islands,Cape & Islands,4:00 P.M.,,0
-2026-01-28,83647,FINAL,Hingham,4171,68.0,0,Quincy/North Quincy,4326,97.0,1,Patriot,Patriot,,,0
-2026-01-28,83656,FINAL,Durfee,4122,52.0,0,Sharon,4345,102.0,1,Big Three,Hockomock,,,0
-2026-01-29,83738,FINAL,Old Rochester,4301,331.0,0,Seekonk,4344,348.0,1,South Coast,South Coast,,,0
-2026-01-29,83741,FINAL,Apponequet/Old Colony,4011,273.0,0,Seekonk,4344,348.0,1,South Coast,South Coast,,,0
-2026-01-29,83745,FINAL,Apponequet/Old Colony,4011,273.0,0,Old Rochester,4301,331.0,1,South Coast,South Coast,,,0
-2026-01-29,83772,FINAL,Marblehead,4231,92.0,1,Swampscott,4383,75.0,0,Northeastern,Independent,,,0
-2026-07-08,121536,FINAL,Seekonk,4344,99,1,Durfee,4122,77,0,South Coast,Big Three,,,0
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win,tourney_name,tourney_level
+2025-12-22,71912,FINAL,Xaverian,4446,104.0,1,BC High,4029,82.0,0,Catholic Conference,Catholic Conference,,,0,,
+2025-12-22,72340,FINAL,Durfee,4122,80.0,1,Taunton,4388,60.0,0,Big Three,Hockomock,3:30 P.M.,,0,,
+2025-12-23,72785,FINAL,Chelmsford,4085,96.0,1,Natick,4270,85.0,0,Merrimack Valley,Bay State,,,0,,
+2025-12-23,72874,FINAL,Wellesley,4413,86.0,0,Belmont,4034,97.0,1,Bay State,Middlesex,,,0,,
+2026-01-06,77993,FINAL,St. John’s Prep,4369,95.0,1,Chelmsford,4085,89.0,0,Catholic Conference,Merrimack Valley,,,0,,
+2026-01-06,77997,FINAL,Barnstable,4024,57.0,0,Nauset,4271,67.0,1,Pioneer,Cape & Islands,,,0,,
+2026-01-06,78000,FINAL,Dedham,4108,35.0,0,Ashland,4015,38.0,1,Independent,Tri-Valley,,,0,,
+2026-01-06,78011,FINAL,Bishop Stang,4045,77.0,0,Apponequet/Old Colony,4011,90.0,1,Catholic Central,South Coast,,,0,,
+2026-01-06,78245,FINAL,Sandwich,4340,87.0,1,Norwell,4296,37.0,0,Cape & Islands,South Shore,,,0,,
+2026-01-08,78239,FINAL,Sandwich,4340,79.0,0,Nantucket,4265,83.0,1,Cape & Islands,Cape & Islands,,,0,,
+2026-01-08,78328,FINAL,Marshfield/Hanover,4234,80.0,0,Quincy/North Quincy,4326,96.0,1,Patriot,Patriot,,,0,,
+2026-01-08,78342,FINAL,Brockton,4058,24.0,0,Durfee,4122,74.0,1,Big Three,Big Three,,,0,,
+2026-01-09,78361,FINAL,Andover,4009,90.0,1,Central Catholic,4081,67.0,0,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-09,78542,FINAL,Chelmsford,4085,101.0,1,Haverhill,4167,80.0,0,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-09,78717,FINAL,Nashoba,4267,50.0,0,Advanced Math and Science,4595,122.0,1,Mid-Wach,Independent,,,0,,
+2026-01-09,78766,FINAL,Wachusett,4400,44.0,0,Shrewsbury,4348,108.0,1,Mid-Wach,Mid-Wach,,,0,,
+2026-01-09,78769,FINAL,Westwood,4424,95.0,1,Medfield,4241,63.0,0,Tri-Valley,Tri-Valley,,,0,,
+2026-01-09,78788,FINAL,Bishop Feehan,4042,89.0,1,Cardinal Spellman,4075,56.0,0,Catholic Central,Catholic Central,,,0,,
+2026-01-09,78801,FINAL,North Attleborough,4284,109.0,1,Stoughton,4381,36.0,0,Hockomock,Hockomock,,,0,,
+2026-01-10,78942,FINAL,Westford,4421,99.0,1,Concord-Carlisle,4097,77.0,0,Dual County,Dual County,,,0,,
+2026-01-10,78948,FINAL,Attleboro,4018,70.0,0,Sharon,4345,96.0,1,Hockomock,Hockomock,,,0,,
+2026-01-12,78991,FINAL,Catholic Memorial,4080,77.0,0,Xaverian,4446,93.0,1,Catholic Conference,Catholic Conference,,,0,,
+2026-01-12,79015,FINAL,Weston,4423,98.0,1,Newton South,4280,86.0,0,Dual County,Dual County,,,0,,
+2026-01-13,79399,FINAL,Central Catholic,4081,67.0,0,Haverhill,4167,87.0,1,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-13,79773,FINAL,Chelmsford,4085,100.0,1,Andover,4009,75.0,0,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-13,79780,FINAL,Durfee,4122,109.0,1,Foxborough,4142,66.0,0,Big Three,Hockomock,,,0,,
+2026-01-13,79789,FINAL,Apponequet/Old Colony,4011,96.0,1,Seekonk,4344,83.0,0,South Coast,South Coast,,,0,,
+2026-01-13,79791,FINAL,Wellesley,4413,90.0,0,Brookline,4059,93.0,1,Bay State,Bay State,,,0,,
+2026-01-13,79868,FINAL,Pembroke,4308,27.0,0,Quincy/North Quincy,4326,85.0,1,Patriot,Patriot,,,0,,
+2026-01-14,80174,FINAL,St. John’s Prep,4369,108.5,1,Xaverian,4446,76.5,0,Catholic Conference,Catholic Conference,4:00 P.M.,,0,,
+2026-01-14,80192,FINAL,Dedham,4108,75.0,0,Westwood,4424,93.0,1,Independent,Tri-Valley,3:30 P.M.,,0,,
+2026-01-14,80244,FINAL,Catholic Memorial,4080,97.0,1,Medfield,4241,34.0,0,Catholic Conference,Tri-Valley,,,0,,
+2026-01-14,80306,FINAL,Nantucket,4265,93.0,1,Nauset,4271,47.0,0,Cape & Islands,Cape & Islands,,,0,,
+2026-01-14,80337,FINAL,Oliver Ames,4302,75.0,1,Stoughton,4381,57.0,0,Hockomock,Hockomock,4:30 P.M.,,0,,
+2026-01-14,80382,FINAL,Martha’s Vineyard,4235,100.0,1,Sandwich,4340,62.0,0,Cape & Islands,Cape & Islands,,,0,,
+2026-01-15,80644,FINAL,Durfee,4122,62.0,0,Old Rochester,4301,90.0,1,Big Three,South Coast,,,0,,
+2026-01-16,80676,FINAL,Central Catholic,4081,55.0,0,Chelmsford,4085,100.0,1,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-16,80706,FINAL,Catholic Memorial,4080,85.0,1,BC High,4029,84.0,0,Catholic Conference,Catholic Conference,,,0,,
+2026-01-16,80711,FINAL,Dedham,4108,97.0,1,Medfield,4241,62.0,0,Independent,Tri-Valley,,,0,,
+2026-01-16,80732,FINAL,Holliston/Medway,4174,77.0,0,Westwood,4424,97.0,1,Tri-Valley,Tri-Valley,,,0,,
+2026-01-16,80802,FINAL,Acton-Boxborough,4003,91.0,0,Concord-Carlisle,4097,92.0,1,Dual County,Dual County,,,0,,
+2026-01-16,80857,FINAL,Nauset,4271,54.0,0,Martha’s Vineyard,4235,89.0,1,Cape & Islands,Cape & Islands,,,0,,
+2026-01-20,81370,FINAL,Nashoba,4267,66.0,0,Shrewsbury,4348,105.0,1,Mid-Wach,Mid-Wach,,,0,,
+2026-01-20,81377,FINAL,Andover,4009,93.0,1,Central Catholic,4081,67.0,0,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-20,81614,FINAL,Chelmsford,4085,108.0,1,Haverhill,4167,72.0,0,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-20,81678,FINAL,St. John’s (Shrewsbury),4368,44.0,0,Xaverian,4446,124.0,1,Catholic Conference,Catholic Conference,,,0,,
+2026-01-20,81679,FINAL,Xaverian,4446,112.0,1,Malden Catholic,4228,66.0,0,Catholic Conference,Catholic Conference,,,0,,
+2026-01-20,81687,FINAL,Scituate,4343,59.0,0,Quincy/North Quincy,4326,110.0,1,Patriot,Patriot,,,0,,
+2026-01-20,81690,FINAL,Needham,4272,79.5,0,Wellesley,4413,103.5,1,Bay State,Bay State,,,0,,
+2026-01-21,81983,FINAL,Nashoba,4267,76.0,1,Wachusett,4400,61.0,0,Mid-Wach,Mid-Wach,,,0,,
+2026-01-21,82121,FINAL,Franklin,4144,46.0,0,Sharon,4345,105.0,1,Hockomock,Hockomock,,,0,,
+2026-01-22,82367,FINAL,Old Rochester,4301,102.0,1,Seekonk,4344,74.0,0,South Coast,South Coast,,,0,,
+2026-01-22,82371,FINAL,Hopkinton,4180,85.0,2,Holliston/Medway,4174,85.0,2,Tri-Valley,Tri-Valley,,,0,,
+2026-01-23,82489,FINAL,Central Catholic,4081,69.0,0,Haverhill,4167,87.0,1,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-23,82490,FINAL,Central Catholic,4081,67.0,0,Andover,4009,93.0,1,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-23,82514,FINAL,Chelmsford,4085,100.0,1,Andover,4009,80.0,0,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-23,82539,FINAL,Catholic Memorial,4080,91.0,1,O’Bryant,4298,75.0,0,Catholic Conference,Boston City,,,0,,
+2026-01-23,82565,FINAL,Westwood,4424,86.0,0,Xaverian,4446,99.0,1,Tri-Valley,Catholic Conference,,,0,,
+2026-01-23,82648,FINAL,Stoughton,4381,46.0,0,Canton,4071,75.0,1,Hockomock,Hockomock,,,0,,
+2026-01-23,82924,FINAL,Nashoba,4267,66.0,0,Gardner,4147,71.0,1,Mid-Wach,Mid-Wach,,,0,,
+2026-01-23,82955,FINAL,Hingham,4171,92.0,1,Silver Lake/Whitman-Hanson,4349,10.0,0,Patriot,Patriot,6:30 P.M.,,0,,
+2026-01-28,83628,FINAL,Nauset,4271,50.0,0,Sandwich,4340,83.0,1,Cape & Islands,Cape & Islands,4:00 P.M.,,0,,
+2026-01-28,83647,FINAL,Hingham,4171,68.0,0,Quincy/North Quincy,4326,97.0,1,Patriot,Patriot,,,0,,
+2026-01-28,83656,FINAL,Durfee,4122,52.0,0,Sharon,4345,102.0,1,Big Three,Hockomock,,,0,,
+2026-01-29,83738,FINAL,Old Rochester,4301,331.0,0,Seekonk,4344,348.0,1,South Coast,South Coast,,,0,,
+2026-01-29,83741,FINAL,Apponequet/Old Colony,4011,273.0,0,Seekonk,4344,348.0,1,South Coast,South Coast,,,0,,
+2026-01-29,83745,FINAL,Apponequet/Old Colony,4011,273.0,0,Old Rochester,4301,331.0,1,South Coast,South Coast,,,0,,
+2026-01-29,83772,FINAL,Marblehead,4231,92.0,1,Swampscott,4383,75.0,0,Northeastern,Independent,,,0,,
+2026-07-08,121536,FINAL,Seekonk,4344,99,1,Durfee,4122,77,0,South Coast,Big Three,,,0,,

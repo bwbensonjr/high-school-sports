@@ -1,0 +1,32 @@
+miaa_sport,season,gender,sport_slug
+Field Hockey,fall,,field-hockey
+Football,fall,,football
+Boys Soccer,fall,,boys-soccer
+Girls Soccer,fall,,girls-soccer
+Volleyball,fall,,girls-volleyball
+Cross Country,fall,,boys-cross-country
+Cross Country,fall,,girls-cross-country
+Fall Golf,fall,,boys-golf
+Girls Fall Swim,fall,,fall-girls-swimming
+Boys Basketball,winter,,boys-basketball
+Girls Basketball,winter,,girls-basketball
+Gymnastics,winter,,girls-gymnastics
+Boys Ice Hockey,winter,,boys-hockey
+Girls Ice Hockey,winter,,girls-hockey
+Indoor Track,winter,,boys-indoor-track
+Indoor Track,winter,,girls-indoor-track
+Boys Swimming & Diving,winter,,boys-swimming
+Wrestling,winter,,wrestling
+Wrestling,winter,,boys-wrestling
+Baseball,spring,,baseball
+Spring Golf,spring,,girls-golf
+Lacrosse - Boys,spring,,boys-lacrosse
+Lacrosse - Girls,spring,,girls-lacrosse
+Rugby - Boys,spring,,boys-rugby
+Rugby - Girls,spring,,girls-rugby
+Softball,spring,,softball
+Team Tennis - Boys,spring,,boys-tennis
+Team Tennis - Girls,spring,,girls-tennis
+Outdoor Track,spring,,boys-track
+Outdoor Track,spring,,girls-track
+Volleyball - Spring,spring,,boys-volleyball

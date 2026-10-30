@@ -1,6 +1,6 @@
-team,elo
-Nauset,1550.0336561447734
-Central Catholic,1548.6499448656455
-Keefe Tech,1534.7532720736529
-Andover,1451.3500551343545
-Atlantis Charter,1415.2130717815737
+team,elo,team_id,overall_rank,division,division_status,division_rank
+Nauset,1550.0336561447734,4271,1,S 3,assigned,1
+Central Catholic,1548.6499448656455,4081,2,N 1,assigned,1
+Keefe Tech,1534.7532720736529,4191,3,C 3,assigned,1
+Andover,1451.3500551343545,4009,4,N 1,assigned,2
+Atlantis Charter,1415.2130717815737,4818,5,S 3,assigned,2

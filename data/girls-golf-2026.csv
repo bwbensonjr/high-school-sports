@@ -1,71 +1,71 @@
-date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
-2026-04-01,95645,FINAL,Silver Lake,4349,2.5,0,Marshfield,4234,3.5,1,Patriot,Independent,,,0
-2026-04-02,96304,FINAL,Worcester,4066,4.5,0,Hopkinton,4180,27.5,1,Independent,Independent,,,0
-2026-04-06,98022,FINAL,Hingham,4171,6.0,1,Silver Lake,4349,0.0,0,Patriot,Patriot,,,0
-2026-04-06,98034,FINAL,Quabbin,4325,17.5,0,Nashoba,4267,18.5,1,Mid-Wach,Independent,,,0
-2026-04-07,98542,FINAL,North Quincy/Quincy,4287,0.0,0,Duxbury,4123,6.0,1,Patriot,Patriot,,,0
-2026-04-07,98560,FINAL,Nashoba,4267,12.0,0,Hopkinton,4180,30.0,1,Independent,Independent,,,0
-2026-04-08,99188,FINAL,Duxbury,4123,6.0,1,Cohasset,4094,0.0,0,Patriot,Patriot,,,0
-2026-04-09,99435,FINAL,Duxbury,4123,6.0,1,Marshfield,4234,0.0,0,Patriot,Independent,,,0
-2026-04-09,99473,FINAL,Malden Catholic,4228,4.0,1,Fontbonne,4447,2.0,0,Catholic Conference,Catholic Conference,,,0
-2026-04-13,101247,FINAL,Bishop Feehan,4042,30.0,1,Notre Dame (Worcester),4451,20.0,0,Independent,Independent,,,0
-2026-04-13,101417,FINAL,Nashoba,4267,22.5,1,Wachusett,4400,21.5,0,Independent,Mid-Wach,,,0
-2026-04-13,101515,FINAL,Walpole,4404,3.5,1,Wellesley,4413,2.5,0,Bay State,Bay State,,,0
-2026-04-14,101626,FINAL,Wellesley,4413,4.5,1,Ursuline,4448,1.5,0,Bay State,Catholic Conference,,,0
-2026-04-14,101665,FINAL,Duxbury,4123,6.0,1,Silver Lake,4349,0.0,0,Patriot,Patriot,,,0
-2026-04-14,101706,FINAL,Archbishop Williams,4012,1.5,0,Malden Catholic,4228,4.5,1,Independent,Catholic Conference,,,0
-2026-04-14,101791,FINAL,Marshfield,4234,3.5,1,Quincy,4326,2.5,0,Independent,Patriot,,,0
-2026-04-14,101797,FINAL,Nauset,4271,6.0,1,Falmouth,4134,0.0,0,Cape & Islands,Cape & Islands,,,0
-2026-04-15,102461,FINAL,Braintree,4051,6.0,1,Framingham,4143,0.0,0,Bay State,Bay State,,,0
-2026-04-16,102655,FINAL,Dennis-Yarmouth,4111,0.0,0,Bishop Feehan,4042,6.0,1,Cape & Islands,Independent,,,0
-2026-04-16,102924,FINAL,Worcester,4066,8.5,0,Nashoba,4267,27.5,1,Independent,Independent,,,0
-2026-04-27,107379,FINAL,Bishop Feehan,4042,31.0,1,Auburn,4019,23.0,0,Independent,Independent,,,0
-2026-04-27,107423,FINAL,North Quincy/Quincy,4287,3.5,1,Marshfield,4234,2.5,0,Patriot,Independent,3:15 P.M.,,0
-2026-04-27,107630,FINAL,Braintree,4051,0.0,0,Wellesley,4413,6.0,1,Bay State,Bay State,,,0
-2026-04-28,107632,FINAL,Weymouth,4425,0.0,0,Wellesley,4413,6.0,1,Bay State,Bay State,,,0
-2026-04-28,107634,FINAL,Braintree,4051,5.0,1,Weymouth,4425,1.0,0,Bay State,Bay State,,,0
-2026-04-28,107814,FINAL,Quabbin,4325,23.0,1,Nashoba,4267,19.0,0,Mid-Wach,Independent,,,0
-2026-04-28,107822,FINAL,Malden Catholic,4228,4.0,1,Fontbonne,4447,2.0,0,Catholic Conference,Catholic Conference,,,0
-2026-04-29,108348,FINAL,Duxbury,4123,6.0,1,North Quincy/Quincy,4287,0.0,0,Patriot,Patriot,,,0
-2026-04-29,108411,FINAL,Hopkinton,4180,31.0,1,Notre Dame (Hingham),4449,23.0,0,Independent,Catholic Conference,,,0
-2026-04-30,108933,FINAL,Walpole,4404,5.0,1,Bishop Feehan,4042,1.0,0,Bay State,Independent,,,0
-2026-04-30,108936,FINAL,Notre Dame (Tyngsborough),4540,323.0,1,Duxbury,4123,287.0,0,Catholic Conference,Patriot,,,0
-2026-04-30,108964,FINAL,Wellesley,4413,4.0,1,Newton North,4279,2.0,0,Bay State,Bay State,,,0
-2026-04-30,108993,FINAL,Nashoba,4267,33.0,1,Worcester,4066,9.0,0,Independent,Independent,,,0
-2026-04-30,109017,FINAL,Hopkinton,4180,38.5,1,Westborough,4418,15.5,0,Independent,Mid-Wach,,,0
-2026-05-01,109464,FINAL,Marshfield,4234,0.0,0,Duxbury,4123,6.0,1,Independent,Patriot,,,0
-2026-05-04,110210,FINAL,Wellesley,4413,6.0,1,Braintree,4051,0.0,0,Bay State,Bay State,,,0
-2026-05-04,110273,FINAL,Hingham,4171,5.0,1,North Quincy/Quincy,4287,1.0,0,Patriot,Patriot,,,0
-2026-05-04,110360,FINAL,Quabbin,4325,19.5,0,Hopkinton,4180,34.5,1,Mid-Wach,Independent,,,0
-2026-05-05,111148,FINAL,Malden Catholic,4228,4.0,1,Ursuline,4448,2.0,0,Catholic Conference,Catholic Conference,,,0
-2026-05-05,111151,FINAL,Duxbury,4123,6.0,1,Cohasset,4094,0.0,0,Patriot,Patriot,,,0
-2026-05-05,111198,FINAL,Silver Lake,4349,1.5,0,Scituate,4343,4.5,1,Patriot,Independent,,,0
-2026-05-05,112166,FINAL,Needham,4272,0.0,0,Wellesley,4413,6.0,1,Bay State,Bay State,,,0
-2026-05-06,111673,FINAL,Ursuline,4448,4.0,1,Fontbonne,4447,2.0,0,Catholic Conference,Catholic Conference,,,0
-2026-05-07,112164,FINAL,Wellesley,4413,5.0,1,Needham,4272,1.0,0,Bay State,Bay State,,,0
-2026-05-07,112168,FINAL,Notre Dame (Worcester),4451,16.5,0,Bishop Feehan,4042,22.5,1,Independent,Independent,,,0
-2026-05-07,112170,FINAL,Worcester,4066,1.0,0,Bishop Feehan,4042,29.0,1,Independent,Independent,,,0
-2026-05-07,112214,FINAL,Nashoba,4267,30.5,1,Westborough,4418,20.5,0,Independent,Mid-Wach,,,0
-2026-05-07,112227,FINAL,Duxbury,4123,6.0,1,Silver Lake,4349,0.0,0,Patriot,Patriot,,,0
-2026-05-07,112232,FINAL,Malden Catholic,4228,5.0,1,Archbishop Williams,4012,1.0,0,Catholic Conference,Independent,,,0
-2026-05-07,112239,FINAL,Ursuline,4448,5.0,1,Fontbonne,4447,1.0,0,Catholic Conference,Catholic Conference,,,0
-2026-05-07,112255,FINAL,Nauset,4271,6.0,1,Falmouth,4134,0.0,0,Cape & Islands,Cape & Islands,,,0
-2026-05-08,112768,FINAL,Quabbin,4325,30.5,1,Wachusett,4400,23.5,0,Mid-Wach,Mid-Wach,,,0
-2026-05-11,113438,FINAL,Barnstable,4024,310.0,0,Duxbury,4123,263.0,1,Cape & Islands,Patriot,,,0
-2026-05-11,113440,FINAL,Silver Lake,4349,3.0,0,North Quincy/Quincy,4287,3.5,1,Patriot,Patriot,,,0
-2026-05-11,113446,FINAL,Wellesley,4413,6.0,1,Brookline,4059,0.0,0,Bay State,Bay State,,,0
-2026-05-11,113488,FINAL,Nauset,4271,4.5,1,Monomoy,4706,3.5,0,Cape & Islands,Cape & Islands,,,0
-2026-05-12,114148,FINAL,Hingham,4171,4.0,1,Cohasset,4094,2.0,0,Patriot,Patriot,,,0
-2026-05-13,114558,FINAL,Duxbury,4123,5.0,1,Scituate,4343,1.0,0,Patriot,Independent,,,0
-2026-05-13,114599,FINAL,Nashoba,4267,29.0,1,Wachusett,4400,17.0,0,Independent,Mid-Wach,,,0
-2026-05-13,114635,FINAL,Notre Dame (Hingham),4449,0.0,0,Ursuline,4448,6.0,1,Catholic Conference,Catholic Conference,,,0
-2026-05-14,115094,FINAL,Wellesley,4413,6.0,1,Framingham,4143,0.0,0,Bay State,Bay State,,,0
-2026-05-18,116363,FINAL,Hingham,4171,2.0,0,Notre Dame (Hingham),4449,4.0,1,Patriot,Catholic Conference,,,0
-2026-05-19,116736,FINAL,Brookline,4059,1.0,0,Wellesley,4413,5.0,1,Bay State,Bay State,,,0
-2026-05-19,116813,FINAL,Duxbury,4123,128.0,1,Hingham,4171,118.0,0,Patriot,Patriot,,,0
-2026-05-19,116822,FINAL,Hopkinton,4180,28.0,1,Nashoba,4267,17.0,0,Independent,Independent,,,0
-2026-05-20,117317,FINAL,Marshfield,4234,4.0,1,Cohasset,4094,2.0,0,Independent,Patriot,,,0
-2026-05-20,117324,FINAL,Wellesley,4413,4.0,1,Newton North,4279,2.0,0,Bay State,Bay State,,,0
-2026-05-21,117443,FINAL,Martha’s Vineyard,4235,323,1,Duxbury,4123,267,0,Cape & Islands,Patriot,,,0
-2026-05-21,117447,FINAL,Wellesley,4413,33.5,1,Westborough,4418,20.5,0,Bay State,Mid-Wach,,,0
-2026-05-21,117448,FINAL,Auburn,4019,37,1,Nashoba,4267,11,0,Independent,Independent,,,0
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win,tourney_name,tourney_level
+2026-04-01,95645,FINAL,Silver Lake,4349,2.5,0,Marshfield,4234,3.5,1,Patriot,Independent,,,0,,
+2026-04-02,96304,FINAL,Worcester,4066,4.5,0,Hopkinton,4180,27.5,1,Independent,Independent,,,0,,
+2026-04-06,98022,FINAL,Hingham,4171,6.0,1,Silver Lake,4349,0.0,0,Patriot,Patriot,,,0,,
+2026-04-06,98034,FINAL,Quabbin,4325,17.5,0,Nashoba,4267,18.5,1,Mid-Wach,Independent,,,0,,
+2026-04-07,98542,FINAL,North Quincy/Quincy,4287,0.0,0,Duxbury,4123,6.0,1,Patriot,Patriot,,,0,,
+2026-04-07,98560,FINAL,Nashoba,4267,12.0,0,Hopkinton,4180,30.0,1,Independent,Independent,,,0,,
+2026-04-08,99188,FINAL,Duxbury,4123,6.0,1,Cohasset,4094,0.0,0,Patriot,Patriot,,,0,,
+2026-04-09,99435,FINAL,Duxbury,4123,6.0,1,Marshfield,4234,0.0,0,Patriot,Independent,,,0,,
+2026-04-09,99473,FINAL,Malden Catholic,4228,4.0,1,Fontbonne,4447,2.0,0,Catholic Conference,Catholic Conference,,,0,,
+2026-04-13,101247,FINAL,Bishop Feehan,4042,30.0,1,Notre Dame (Worcester),4451,20.0,0,Independent,Independent,,,0,,
+2026-04-13,101417,FINAL,Nashoba,4267,22.5,1,Wachusett,4400,21.5,0,Independent,Mid-Wach,,,0,,
+2026-04-13,101515,FINAL,Walpole,4404,3.5,1,Wellesley,4413,2.5,0,Bay State,Bay State,,,0,,
+2026-04-14,101626,FINAL,Wellesley,4413,4.5,1,Ursuline,4448,1.5,0,Bay State,Catholic Conference,,,0,,
+2026-04-14,101665,FINAL,Duxbury,4123,6.0,1,Silver Lake,4349,0.0,0,Patriot,Patriot,,,0,,
+2026-04-14,101706,FINAL,Archbishop Williams,4012,1.5,0,Malden Catholic,4228,4.5,1,Independent,Catholic Conference,,,0,,
+2026-04-14,101791,FINAL,Marshfield,4234,3.5,1,Quincy,4326,2.5,0,Independent,Patriot,,,0,,
+2026-04-14,101797,FINAL,Nauset,4271,6.0,1,Falmouth,4134,0.0,0,Cape & Islands,Cape & Islands,,,0,,
+2026-04-15,102461,FINAL,Braintree,4051,6.0,1,Framingham,4143,0.0,0,Bay State,Bay State,,,0,,
+2026-04-16,102655,FINAL,Dennis-Yarmouth,4111,0.0,0,Bishop Feehan,4042,6.0,1,Cape & Islands,Independent,,,0,,
+2026-04-16,102924,FINAL,Worcester,4066,8.5,0,Nashoba,4267,27.5,1,Independent,Independent,,,0,,
+2026-04-27,107379,FINAL,Bishop Feehan,4042,31.0,1,Auburn,4019,23.0,0,Independent,Independent,,,0,,
+2026-04-27,107423,FINAL,North Quincy/Quincy,4287,3.5,1,Marshfield,4234,2.5,0,Patriot,Independent,3:15 P.M.,,0,,
+2026-04-27,107630,FINAL,Braintree,4051,0.0,0,Wellesley,4413,6.0,1,Bay State,Bay State,,,0,,
+2026-04-28,107632,FINAL,Weymouth,4425,0.0,0,Wellesley,4413,6.0,1,Bay State,Bay State,,,0,,
+2026-04-28,107634,FINAL,Braintree,4051,5.0,1,Weymouth,4425,1.0,0,Bay State,Bay State,,,0,,
+2026-04-28,107814,FINAL,Quabbin,4325,23.0,1,Nashoba,4267,19.0,0,Mid-Wach,Independent,,,0,,
+2026-04-28,107822,FINAL,Malden Catholic,4228,4.0,1,Fontbonne,4447,2.0,0,Catholic Conference,Catholic Conference,,,0,,
+2026-04-29,108348,FINAL,Duxbury,4123,6.0,1,North Quincy/Quincy,4287,0.0,0,Patriot,Patriot,,,0,,
+2026-04-29,108411,FINAL,Hopkinton,4180,31.0,1,Notre Dame (Hingham),4449,23.0,0,Independent,Catholic Conference,,,0,,
+2026-04-30,108933,FINAL,Walpole,4404,5.0,1,Bishop Feehan,4042,1.0,0,Bay State,Independent,,,0,,
+2026-04-30,108936,FINAL,Notre Dame (Tyngsborough),4540,323.0,1,Duxbury,4123,287.0,0,Catholic Conference,Patriot,,,0,,
+2026-04-30,108964,FINAL,Wellesley,4413,4.0,1,Newton North,4279,2.0,0,Bay State,Bay State,,,0,,
+2026-04-30,108993,FINAL,Nashoba,4267,33.0,1,Worcester,4066,9.0,0,Independent,Independent,,,0,,
+2026-04-30,109017,FINAL,Hopkinton,4180,38.5,1,Westborough,4418,15.5,0,Independent,Mid-Wach,,,0,,
+2026-05-01,109464,FINAL,Marshfield,4234,0.0,0,Duxbury,4123,6.0,1,Independent,Patriot,,,0,,
+2026-05-04,110210,FINAL,Wellesley,4413,6.0,1,Braintree,4051,0.0,0,Bay State,Bay State,,,0,,
+2026-05-04,110273,FINAL,Hingham,4171,5.0,1,North Quincy/Quincy,4287,1.0,0,Patriot,Patriot,,,0,,
+2026-05-04,110360,FINAL,Quabbin,4325,19.5,0,Hopkinton,4180,34.5,1,Mid-Wach,Independent,,,0,,
+2026-05-05,111148,FINAL,Malden Catholic,4228,4.0,1,Ursuline,4448,2.0,0,Catholic Conference,Catholic Conference,,,0,,
+2026-05-05,111151,FINAL,Duxbury,4123,6.0,1,Cohasset,4094,0.0,0,Patriot,Patriot,,,0,,
+2026-05-05,111198,FINAL,Silver Lake,4349,1.5,0,Scituate,4343,4.5,1,Patriot,Independent,,,0,,
+2026-05-05,112166,FINAL,Needham,4272,0.0,0,Wellesley,4413,6.0,1,Bay State,Bay State,,,0,,
+2026-05-06,111673,FINAL,Ursuline,4448,4.0,1,Fontbonne,4447,2.0,0,Catholic Conference,Catholic Conference,,,0,,
+2026-05-07,112164,FINAL,Wellesley,4413,5.0,1,Needham,4272,1.0,0,Bay State,Bay State,,,0,,
+2026-05-07,112168,FINAL,Notre Dame (Worcester),4451,16.5,0,Bishop Feehan,4042,22.5,1,Independent,Independent,,,0,,
+2026-05-07,112170,FINAL,Worcester,4066,1.0,0,Bishop Feehan,4042,29.0,1,Independent,Independent,,,0,,
+2026-05-07,112214,FINAL,Nashoba,4267,30.5,1,Westborough,4418,20.5,0,Independent,Mid-Wach,,,0,,
+2026-05-07,112227,FINAL,Duxbury,4123,6.0,1,Silver Lake,4349,0.0,0,Patriot,Patriot,,,0,,
+2026-05-07,112232,FINAL,Malden Catholic,4228,5.0,1,Archbishop Williams,4012,1.0,0,Catholic Conference,Independent,,,0,,
+2026-05-07,112239,FINAL,Ursuline,4448,5.0,1,Fontbonne,4447,1.0,0,Catholic Conference,Catholic Conference,,,0,,
+2026-05-07,112255,FINAL,Nauset,4271,6.0,1,Falmouth,4134,0.0,0,Cape & Islands,Cape & Islands,,,0,,
+2026-05-08,112768,FINAL,Quabbin,4325,30.5,1,Wachusett,4400,23.5,0,Mid-Wach,Mid-Wach,,,0,,
+2026-05-11,113438,FINAL,Barnstable,4024,310.0,0,Duxbury,4123,263.0,1,Cape & Islands,Patriot,,,0,,
+2026-05-11,113440,FINAL,Silver Lake,4349,3.0,0,North Quincy/Quincy,4287,3.5,1,Patriot,Patriot,,,0,,
+2026-05-11,113446,FINAL,Wellesley,4413,6.0,1,Brookline,4059,0.0,0,Bay State,Bay State,,,0,,
+2026-05-11,113488,FINAL,Nauset,4271,4.5,1,Monomoy,4706,3.5,0,Cape & Islands,Cape & Islands,,,0,,
+2026-05-12,114148,FINAL,Hingham,4171,4.0,1,Cohasset,4094,2.0,0,Patriot,Patriot,,,0,,
+2026-05-13,114558,FINAL,Duxbury,4123,5.0,1,Scituate,4343,1.0,0,Patriot,Independent,,,0,,
+2026-05-13,114599,FINAL,Nashoba,4267,29.0,1,Wachusett,4400,17.0,0,Independent,Mid-Wach,,,0,,
+2026-05-13,114635,FINAL,Notre Dame (Hingham),4449,0.0,0,Ursuline,4448,6.0,1,Catholic Conference,Catholic Conference,,,0,,
+2026-05-14,115094,FINAL,Wellesley,4413,6.0,1,Framingham,4143,0.0,0,Bay State,Bay State,,,0,,
+2026-05-18,116363,FINAL,Hingham,4171,2,0,Notre Dame (Hingham),4449,4,1,Patriot,Catholic Conference,,,0,,
+2026-05-19,116736,FINAL,Brookline,4059,1,0,Wellesley,4413,5,1,Bay State,Bay State,,,0,,
+2026-05-19,116813,FINAL,Duxbury,4123,128,1,Hingham,4171,118,0,Patriot,Patriot,,,0,,
+2026-05-19,116822,FINAL,Hopkinton,4180,28,1,Nashoba,4267,17,0,Independent,Independent,,,0,,
+2026-05-20,117317,FINAL,Marshfield,4234,4,1,Cohasset,4094,2,0,Independent,Patriot,,,0,,
+2026-05-20,117324,FINAL,Wellesley,4413,4,1,Newton North,4279,2,0,Bay State,Bay State,,,0,,
+2026-05-21,117443,FINAL,Martha’s Vineyard,4235,323,1,Duxbury,4123,267,0,Cape & Islands,Patriot,,,0,,
+2026-05-21,117447,FINAL,Wellesley,4413,33.5,1,Westborough,4418,20.5,0,Bay State,Mid-Wach,,,0,,
+2026-05-21,117448,FINAL,Auburn,4019,37,1,Nashoba,4267,11,0,Independent,Independent,,,0,,

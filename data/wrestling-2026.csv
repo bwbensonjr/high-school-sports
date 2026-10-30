@@ -1,421 +1,421 @@
-date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
-2025-12-23,72477,FINAL,Walpole,4404,68,1,Stoughton,4381,12,0,Bay State,Hockomock,,,0
-2025-12-23,72554,FINAL,Cohasset,4094,71,1,East Boston,4125,12,0,South Shore,Boston City,1:00 P.M.,,0
-2025-12-23,73835,FINAL,Burlington,4065,31,0,Arlington,4013,46,1,Middlesex,Middlesex,,,0
-2025-12-23,73838,FINAL,Burlington,4065,54,1,Catholic Memorial,4080,5,0,Middlesex,Catholic Conference,,,0
-2025-12-23,73841,FINAL,Burlington,4065,18,0,Leominster,4208,63,1,Middlesex,Mid-Wach,,,0
-2025-12-27,74531,FINAL,Shawsheen,4346,56,1,Tewksbury,4389,7,0,Commonwealth,Merrimack Valley,,,0
-2025-12-27,74532,FINAL,Shawsheen,4346,56,1,Woburn,4438,21,0,Commonwealth,Middlesex,,,0
-2025-12-27,74533,FINAL,Shawsheen,4346,63,1,Andover,4009,18,0,Commonwealth,Merrimack Valley,,,0
-2025-12-27,74550,FINAL,Billerica,4040,21,0,Burlington,4065,53,1,Merrimack Valley,Middlesex,,,0
-2025-12-27,74552,FINAL,Lexington,4209,24,0,Burlington,4065,55,1,Middlesex,Middlesex,,,0
-2025-12-27,74554,FINAL,Gloucester,4150,36,0,Burlington,4065,43,1,Northeastern,Middlesex,,,0
-2025-12-30,74908,FINAL,Wayland,4411,71,1,Danvers,4103,12,0,Dual County,Northeastern,,,0
-2025-12-30,74909,FINAL,Wayland,4411,29,0,New Bedford,4273,39,1,Dual County,Big Three,,,0
-2025-12-30,74911,FINAL,Wayland,4411,27,0,Woburn,4438,46,1,Dual County,Middlesex,,,0
-2025-12-30,74912,FINAL,Wayland,4411,48,1,North Attleborough,4284,22,0,Dual County,Hockomock,,,0
-2025-12-30,74922,FINAL,North Attleborough,4284,28,0,New Bedford,4273,48,1,Hockomock,Big Three,,,0
-2025-12-31,75309,FINAL,St. John’s Prep,4369,25,0,Shawsheen,4346,48,1,Catholic Conference,Commonwealth,,,0
-2025-12-31,75366,FINAL,Keene (N.H.),4192,6,0,Shawsheen,4346,65,1,Independent,Commonwealth,,,0
-2025-12-31,75368,FINAL,Salem (N.H.),4337,12,0,Shawsheen,4346,59,1,Independent,Commonwealth,,,0
-2025-12-31,75370,FINAL,Pentucket,4309,40,1,Burlington,4065,32,0,Cape Ann,Middlesex,,,0
-2025-12-31,75373,FINAL,Worcester Tech,4445,9,0,Burlington,4065,71,1,Independent,Middlesex,,,0
-2025-12-31,75375,FINAL,Saugus/Peabody,4341,55,1,Burlington,4065,18,0,Northeastern,Middlesex,,,0
-2026-01-01,76316,FINAL,Winchester,4434,45,1,Wellesley,4413,30,0,Middlesex,Bay State,,,0
-2026-01-02,77266,FINAL,Wilmington,4432,20,0,Burlington,4065,58,1,Middlesex,Middlesex,,,0
-2026-01-03,77097,FINAL,East Longmeadow,4127,24,0,Wayland,4411,33,1,Independent,Dual County,,,0
-2026-01-03,77099,FINAL,Westfield/Westfield Tech,4419,11,0,Wayland,4411,47,1,Independent,Dual County,,,0
-2026-01-03,77100,FINAL,Monty Tech/Fitchburg,4259,7,0,Wayland,4411,49,1,Independent,Dual County,,,0
-2026-01-03,77106,FINAL,Sharon,4345,20,0,Whittier,4428,55,1,Hockomock,Commonwealth,,,0
-2026-01-03,77109,FINAL,Sharon,4345,45,1,Bellingham,4033,33,0,Hockomock,Tri-Valley,,,0
-2026-01-03,77111,FINAL,Sharon,4345,59,1,Mansfield,4230,24,0,Hockomock,Hockomock,,,0
-2026-01-03,77112,FINAL,Newton South,4280,32,0,Braintree,4051,44,1,Dual County,Bay State,,,0
-2026-01-03,77113,FINAL,Danvers,4103,23,0,Lynnfield/North Reading,4223,53,1,Northeastern,Cape Ann,,,0
-2026-01-03,77116,FINAL,Triton,4395,15,0,Wakefield,4402,55,1,Cape Ann,Middlesex,,,0
-2026-01-03,77121,FINAL,Weymouth,4425,50,1,Plymouth North,4315,16,0,Bay State,Patriot,,,0
-2026-01-03,77125,FINAL,Franklin,4144,24,0,Mt. Hope (R.I.),4658,50,1,Hockomock,Independent,,,0
-2026-01-03,77126,FINAL,Brookline,4059,18,0,Agawam,4004,63,1,Bay State,Independent,,,0
-2026-01-03,77128,FINAL,Mt. Hope (R.I.),4658,70,1,Brookline,4059,12,0,Independent,Bay State,,,0
-2026-01-03,77129,FINAL,Franklin,4144,27,0,Agawam,4004,54,1,Hockomock,Independent,,,0
-2026-01-03,77131,FINAL,Mt. Hope (R.I.),4658,52,1,Agawam,4004,30,0,Independent,Independent,,,0
-2026-01-03,77133,FINAL,Franklin,4144,56,1,Brookline,4059,17,0,Hockomock,Bay State,,,0
-2026-01-03,77135,FINAL,Algonquin,4005,7,0,Salem (N.H.),4337,69,1,Mid-Wach,Independent,,,0
-2026-01-03,77138,FINAL,Natick,4270,45,1,Hopkinton,4180,36,0,Bay State,Tri-Valley,,,0
-2026-01-03,77139,FINAL,Salem (N.H.),4337,59,1,Hopkinton,4180,10,0,Independent,Tri-Valley,,,0
-2026-01-03,77141,FINAL,Natick,4270,60,1,Algonquin,4005,6,0,Bay State,Mid-Wach,,,0
-2026-01-03,77144,FINAL,Natick,4270,45,1,Salem (N.H.),4337,35,0,Bay State,Independent,,,0
-2026-01-03,77147,FINAL,Algonquin,4005,24,0,Hopkinton,4180,47,1,Mid-Wach,Tri-Valley,,,0
-2026-01-03,77148,FINAL,Natick,4270,37,0,Mt. Hope (R.I.),4658,41,1,Bay State,Independent,,,0
-2026-01-03,77164,FINAL,Gloucester,4150,28,0,Pentucket,4309,50,1,Northeastern,Cape Ann,,,0
-2026-01-03,77173,FINAL,Excel Academy,4969,27,0,Pentucket,4309,46,1,Independent,Cape Ann,,,0
-2026-01-03,77179,FINAL,Scituate,4343,35,0,Pentucket,4309,44,1,Patriot,Cape Ann,,,0
-2026-01-03,77205,FINAL,Weymouth,4425,48,1,Oliver Ames,4302,30,0,Bay State,Hockomock,,,0
-2026-01-03,77206,FINAL,Weymouth,4425,48,1,Brockton,4058,25,0,Bay State,Big Three,,,0
-2026-01-03,77243,FINAL,Burlington,4065,40,1,Reading,4328,36,0,Middlesex,Middlesex,,,0
-2026-01-03,77246,FINAL,King Philip,4197,30,0,Rockland,4331,54,1,Hockomock,South Shore,,,0
-2026-01-03,77249,FINAL,Burlington,4065,29,1,Stoughton,4381,12,0,Middlesex,Hockomock,,,0
-2026-01-03,77252,FINAL,Barnstable,4024,0,0,Rockland,4331,69,1,Pioneer,South Shore,,,0
-2026-01-03,77255,FINAL,Burlington,4065,44,1,Bedford / A-B,4031,34,0,Middlesex,Dual County,,,0
-2026-01-03,77258,FINAL,Belmont,4034,36,0,Rockland,4331,46,1,Middlesex,South Shore,,,0
-2026-01-03,77265,FINAL,Quincy/North Quincy,4326,28,0,Rockland,4331,53,1,Patriot,South Shore,,,0
-2026-01-03,77278,FINAL,Braintree,4051,24,0,Roxbury Latin,4334,52,1,Bay State,ISL,,,0
-2026-01-03,77285,FINAL,Wilmington,4432,18,0,Watertown,4409,60,1,Middlesex,Middlesex,,,0
-2026-01-03,77287,FINAL,Lynn Tech,4222,6,0,Watertown,4409,70,1,Independent,Middlesex,,,0
-2026-01-03,77304,FINAL,Boston Latin,4049,34,0,Roxbury Latin,4334,43,1,Dual County,ISL,,,0
-2026-01-03,77307,FINAL,Newton South,4280,27,0,Roxbury Latin,4334,45,1,Dual County,ISL,,,0
-2026-01-03,77330,FINAL,Braintree,4051,44,1,Boston Latin,4049,34,0,Bay State,Dual County,,,0
-2026-01-06,77981,FINAL,Latin Academy,4202,58,1,East Boston,4125,12,0,Boston City,Boston City,,,0
-2026-01-06,77984,FINAL,Latin Academy,4202,40,1,Malden/Everett,4227,33,0,Boston City,Greater Boston,,,0
-2026-01-06,77995,FINAL,Norton,4295,24,0,Holliston,4174,54,1,Tri-Valley,Tri-Valley,,,0
-2026-01-07,78122,FINAL,Milton,4252,42,2,Brookline,4059,42,2,Bay State,Bay State,,,0
-2026-01-07,78125,FINAL,Quincy/North Quincy,4326,34,1,Pembroke,4308,31,0,Patriot,Patriot,,,0
-2026-01-07,78126,FINAL,Danvers,4103,48,1,Gloucester,4150,34,0,Northeastern,Northeastern,,,0
-2026-01-07,78129,FINAL,Marshfield,4234,34,0,Hingham,4171,45,1,Patriot,Patriot,,,0
-2026-01-07,78132,FINAL,Duxbury,4123,48,1,Whitman-Hanson,4427,32,0,Patriot,Patriot,,,0
-2026-01-07,78144,FINAL,Plymouth North,4315,29,0,Silver Lake,4349,50,1,Patriot,Patriot,,,0
-2026-01-07,78146,FINAL,Melrose,4244,62,1,Burlington,4065,17,0,Middlesex,Middlesex,,,0
-2026-01-07,78152,FINAL,Lynnfield/North Reading,4223,54,1,Triton,4395,27,0,Cape Ann,Cape Ann,,,0
-2026-01-07,78153,FINAL,Wayland,4411,44,1,Westford,4421,22,0,Dual County,Dual County,,,0
-2026-01-07,78155,FINAL,North Andover,4283,34,0,Methuen,4246,46,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-07,78158,FINAL,Wellesley,4413,37,0,Braintree,4051,39,1,Bay State,Bay State,,,0
-2026-01-07,78159,FINAL,Concord-Carlisle,4097,39,2,Boston Latin,4049,39,2,Dual County,Dual County,,,0
-2026-01-07,78160,FINAL,Rockland,4331,34,0,Middleborough,4247,48,1,South Shore,South Shore,,,0
-2026-01-07,78162,FINAL,Chelmsford,4085,54,1,Tewksbury,4389,24,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-07,78165,FINAL,Salem,4336,30,0,Beverly,4038,49,1,Northeastern,Northeastern,,,0
-2026-01-07,78171,FINAL,Gloucester,4150,48,1,Danvers,4103,34,0,Northeastern,Northeastern,,,0
-2026-01-07,78181,FINAL,Framingham,4143,36,0,Weymouth,4425,44,1,Bay State,Bay State,,,0
-2026-01-07,78184,FINAL,Sharon,4345,36,0,Taunton,4388,43,1,Hockomock,Hockomock,,,0
-2026-01-07,78187,FINAL,Woburn,4438,56,1,Reading,4328,22,0,Middlesex,Middlesex,,,0
-2026-01-07,78188,FINAL,Andover,4009,45,1,Lawrence,4203,29,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-07,78191,FINAL,Martha’s Vineyard,4235,54,1,Falmouth/Mashpee,4134,24,0,Cape & Islands,Cape & Islands,,,0
-2026-01-07,78194,FINAL,Lowell,4216,47,1,Billerica,4040,17,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-08,78249,FINAL,Scituate,4343,50,1,Hanover,4164,29,0,Patriot,Patriot,,,0
-2026-01-08,78252,FINAL,Nauset,4271,46,1,Barnstable,4024,27,0,Cape & Islands,Pioneer,,,0
-2026-01-08,78350,FINAL,Excel Academy,4969,33,0,Latin Academy,4202,43,1,Independent,Boston City,,,0
-2026-01-09,78783,FINAL,East Boston,4125,36,0,Atlantis Charter,4818,51,1,Boston City,Independent,6:15 P.M.,,0
-2026-01-10,78816,FINAL,Lynnfield/North Reading,4223,53,1,Salem,4336,29,0,Cape Ann,Northeastern,,,0
-2026-01-10,78837,FINAL,Roxbury Latin,4334,51,1,East Boston,4125,6,0,ISL,Boston City,,,0
-2026-01-10,78839,FINAL,Roxbury Latin,4334,62,1,Thayer,4390,18,0,ISL,ISL,,,0
-2026-01-10,78845,FINAL,Quincy/North Quincy,4326,39,2,Whitman-Hanson,4427,39,2,Patriot,Patriot,,,0
-2026-01-10,78848,FINAL,Stoughton,4381,0,0,Whitman-Hanson,4427,78,1,Hockomock,Patriot,,,0
-2026-01-10,78851,FINAL,Whitman-Hanson,4427,30,0,Newton North,4279,42,1,Patriot,Bay State,,,0
-2026-01-10,78852,FINAL,Hingham,4171,44,1,Tewksbury,4389,28,0,Patriot,Merrimack Valley,,,0
-2026-01-10,78854,FINAL,Hingham,4171,22,0,Methuen,4246,60,1,Patriot,Merrimack Valley,,,0
-2026-01-10,78857,FINAL,Hingham,4171,34,0,Whittier,4428,45,1,Patriot,Commonwealth,,,0
-2026-01-10,78863,FINAL,Milford,4249,25,0,Shawsheen,4346,41,1,Hockomock,Commonwealth,,,0
-2026-01-10,78864,FINAL,Mahar,4226,18,0,St. John’s (Shrewsbury),4368,62,1,Independent,Catholic Conference,,,0
-2026-01-10,78867,FINAL,Athol,4017,18,0,St. John’s (Shrewsbury),4368,62,1,Independent,Catholic Conference,,,0
-2026-01-10,78868,FINAL,Pioneer Valley,4536,0,0,St. John’s (Shrewsbury),4368,82,1,Independent,Catholic Conference,,,0
-2026-01-10,78869,FINAL,Worcester Tech,4445,21,0,St. John’s (Shrewsbury),4368,60,1,Independent,Catholic Conference,,,0
-2026-01-10,78872,FINAL,Foxborough,4142,7,0,Shawsheen,4346,68,1,Hockomock,Commonwealth,,,0
-2026-01-10,78874,FINAL,Bridgewater-Raynham,4053,18,0,Shawsheen,4346,63,1,Independent,Commonwealth,,,0
-2026-01-10,78876,FINAL,Beverly,4038,31,0,Bristol-Plymouth,4057,43,1,Northeastern,Mayflower,,,0
-2026-01-10,78877,FINAL,Beverly,4038,32,0,Wellesley,4413,42,1,Northeastern,Bay State,,,0
-2026-01-10,78879,FINAL,Beverly,4038,30,0,Greater Lowell,4155,53,1,Northeastern,Commonwealth,,,0
-2026-01-10,78881,FINAL,Tewksbury,4389,27,0,Methuen,4246,45,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-10,78882,FINAL,Whittier,4428,27,0,Methuen,4246,53,1,Commonwealth,Merrimack Valley,,,0
-2026-01-10,78883,FINAL,Springfield Central,4360,48,1,Taunton,4388,26,0,Independent,Hockomock,,,0
-2026-01-10,78886,FINAL,Mount Anthony (Vt.),4728,33,0,Taunton,4388,45,1,Independent,Hockomock,,,0
-2026-01-10,78888,FINAL,Natick,4270,42,1,Taunton,4388,23,0,Bay State,Hockomock,,,0
-2026-01-10,78889,FINAL,Middlebury (Vt.),4727,9,0,Taunton,4388,68,1,Independent,Hockomock,,,0
-2026-01-10,78895,FINAL,St. John’s Prep,4369,44,1,Taunton,4388,25,0,Catholic Conference,Hockomock,,,0
-2026-01-10,78898,FINAL,Hope (R.I.),4496,24,0,Andover,4009,44,1,Independent,Merrimack Valley,,,0
-2026-01-10,78899,FINAL,Newton South,4280,28,0,Andover,4009,51,1,Dual County,Merrimack Valley,,,0
-2026-01-10,78902,FINAL,Marlborough,4233,24,0,Andover,4009,48,1,Mid-Wach,Merrimack Valley,,,0
-2026-01-10,78905,FINAL,Scituate (R.I.),5257,51,1,Andover,4009,29,0,Independent,Merrimack Valley,,,0
-2026-01-10,78908,FINAL,Wellesley,4413,38,0,Greater Lowell,4155,40,1,Bay State,Commonwealth,,,0
-2026-01-10,78910,FINAL,Bristol-Plymouth,4057,40,1,Greater Lowell,4155,32,0,Mayflower,Commonwealth,,,0
-2026-01-10,78913,FINAL,Frontier,4146,6,0,Greater Lawrence,4154,60,1,Independent,Commonwealth,,,0
-2026-01-10,78915,FINAL,Agawam,4004,6,0,Greater Lawrence,4154,75,1,Independent,Commonwealth,,,0
-2026-01-10,78918,FINAL,Greater Lawrence,4154,51,1,Holyoke,4176,26,0,Commonwealth,Independent,,,0
-2026-01-10,78921,FINAL,Belchertown,4032,17,0,Greater Lawrence,4154,57,1,Independent,Commonwealth,,,0
-2026-01-11,78962,FINAL,Tewksbury,4389,22,0,Hingham,4171,44,1,Merrimack Valley,Patriot,,,0
-2026-01-11,78964,FINAL,Hingham,4171,22,0,Methuen,4246,60,1,Patriot,Merrimack Valley,,,0
-2026-01-11,78965,FINAL,Hingham,4171,34,0,Whittier,4428,45,1,Patriot,Commonwealth,,,0
-2026-01-12,78995,FINAL,Latin Academy,4202,54,1,Maimonides,4473,15,0,Boston City,Independent,,,0
-2026-01-13,79806,FINAL,Watertown,4409,45,1,Belmont,4034,29,0,Middlesex,Middlesex,,,0
-2026-01-13,79808,FINAL,Dedham,4108,51,1,Hopkinton,4180,29,0,Tri-Valley,Tri-Valley,,,0
-2026-01-14,80200,FINAL,Roxbury Latin,4334,72,1,BB&N,4028,6,0,ISL,ISL,,,0
-2026-01-14,80203,FINAL,Roxbury Latin,4334,78,1,Governor’s Academy,4152,0,0,ISL,ISL,,,0
-2026-01-14,80206,FINAL,Roxbury Latin,4334,65,1,Milton Academy,4253,6,0,ISL,ISL,,,0
-2026-01-14,80226,FINAL,Duxbury,4123,42,1,Plymouth North,4315,40,0,Patriot,Patriot,,,0
-2026-01-14,80229,FINAL,Xaverian,4446,47,1,Newton North,4279,30,0,Catholic Conference,Bay State,,,0
-2026-01-14,80250,FINAL,Cambridge,4067,40,1,Bedford / A-B,4031,32,0,Dual County,Dual County,,,0
-2026-01-14,80257,FINAL,Concord-Carlisle,4097,33,0,Westford,4421,43,1,Dual County,Dual County,,,0
-2026-01-14,80268,FINAL,Danvers,4103,33,0,Marblehead/Swampscott,4231,42,1,Northeastern,Northeastern,,,0
-2026-01-14,80272,FINAL,Taunton,4388,46,1,King Philip,4197,33,0,Hockomock,Hockomock,,,0
-2026-01-14,80285,FINAL,Lawrence,4203,21,0,Methuen,4246,52,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-14,80288,FINAL,East Boston,4125,24,0,Worcester Tech,4445,60,1,Boston City,Independent,,,0
-2026-01-14,80291,FINAL,Worcester Tech,4445,39,0,Latin Academy,4202,42,1,Independent,Boston City,,,0
-2026-01-14,80300,FINAL,Lynnfield/North Reading,4223,57,1,Pentucket,4309,22,0,Cape Ann,Cape Ann,,,0
-2026-01-14,80318,FINAL,Ashland,4015,12,0,Shawsheen,4346,61,1,Tri-Valley,Commonwealth,,,0
-2026-01-14,80319,FINAL,Weymouth,4425,51,1,Milton,4252,28,0,Bay State,Bay State,,,0
-2026-01-14,80321,FINAL,Burlington,4065,29,0,St. John’s (Shrewsbury),4368,41,1,Middlesex,Catholic Conference,,,0
-2026-01-14,80322,FINAL,Tewksbury,4389,42,1,Haverhill,4167,34,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-14,80329,FINAL,Essex Tech / Masco,4745,40,0,Triton,4395,42,1,Cape Ann,Cape Ann,,,0
-2026-01-14,80345,FINAL,West Springfield,4417,29,0,Springfield Central,4360,42,1,Independent,Independent,,,0
-2026-01-14,80347,FINAL,Brookline,4059,28,0,Wellesley,4413,49,1,Bay State,Bay State,,,0
-2026-01-14,80348,FINAL,Gloucester,4150,41,1,Beverly,4038,39,0,Northeastern,Northeastern,,,0
-2026-01-14,80351,FINAL,Brooks,4060,44,1,Middlesex,4248,33,0,ISL,ISL,,,0
-2026-01-14,80354,FINAL,Brooks,4060,36,1,Thayer,4390,31,0,ISL,ISL,,,0
-2026-01-14,80372,FINAL,Norwood,4297,32,0,Holliston,4174,45,1,Tri-Valley,Tri-Valley,,,0
-2026-01-15,80634,FINAL,Ashland,4015,16,0,Wayland,4411,57,1,Tri-Valley,Dual County,,,0
-2026-01-16,80716,FINAL,Lexington,4209,30,0,Watertown,4409,45,1,Middlesex,Middlesex,,,0
-2026-01-17,80809,FINAL,Weymouth,4425,31,0,Chelmsford,4085,34,1,Bay State,Merrimack Valley,,,0
-2026-01-17,80811,FINAL,Weymouth,4425,40,0,North Attleborough,4284,42,1,Bay State,Hockomock,,,0
-2026-01-17,80813,FINAL,Weymouth,4425,35,0,Whittier,4428,45,1,Bay State,Commonwealth,,,0
-2026-01-17,80814,FINAL,Pembroke,4308,3,0,Wayland,4411,64,1,Patriot,Dual County,,,0
-2026-01-17,80817,FINAL,Nashoba,4267,24,0,Wayland,4411,54,1,Mid-Wach,Dual County,,,0
-2026-01-17,80820,FINAL,Norton,4295,15,0,Wayland,4411,47,1,Tri-Valley,Dual County,,,0
-2026-01-17,80823,FINAL,Beverly,4038,45,1,Quincy/North Quincy,4326,30,0,Northeastern,Patriot,,,0
-2026-01-17,80825,FINAL,Central (R.I.),4497,25,0,Winchester,4434,41,1,Independent,Middlesex,,,0
-2026-01-17,80827,FINAL,Portland/So. Portland (Maine),4493,24,0,Beverly,4038,36,1,Independent,Northeastern,,,0
-2026-01-17,80828,FINAL,Central (R.I.),4497,55,1,Quincy/North Quincy,4326,24,0,Independent,Patriot,,,0
-2026-01-17,80830,FINAL,Winchester,4434,53,1,Beverly,4038,27,0,Middlesex,Northeastern,,,0
-2026-01-17,80833,FINAL,Portland/So. Portland (Maine),4493,24,0,Quincy/North Quincy,4326,54,1,Independent,Patriot,,,0
-2026-01-17,80836,FINAL,Portland/So. Portland (Maine),4493,12,0,Winchester,4434,66,1,Independent,Middlesex,,,0
-2026-01-17,80838,FINAL,Beverly,4038,27,0,Central (R.I.),4497,48,1,Northeastern,Independent,,,0
-2026-01-17,80840,FINAL,Winchester,4434,47,1,Quincy/North Quincy,4326,33,0,Middlesex,Patriot,,,0
-2026-01-17,80842,FINAL,Central (R.I.),4497,58,1,Portland/So. Portland (Maine),4493,24,0,Independent,Independent,,,0
-2026-01-17,80844,FINAL,Newton South,4280,27,0,Cambridge,4067,38,1,Dual County,Dual County,,,0
-2026-01-17,80847,FINAL,Brookline,4059,48,1,Plymouth South,4316,36,0,Bay State,Patriot,,,0
-2026-01-17,80850,FINAL,Gloucester,4150,35,0,Plymouth South,4316,44,1,Northeastern,Patriot,,,0
-2026-01-17,80852,FINAL,Brookline,4059,34,0,Newton South,4280,47,1,Bay State,Dual County,,,0
-2026-01-17,80856,FINAL,Brookline,4059,34,0,Gloucester,4150,44,1,Bay State,Northeastern,,,0
-2026-01-17,80859,FINAL,Plymouth South,4316,37,0,Cambridge,4067,40,1,Patriot,Dual County,,,0
-2026-01-17,80862,FINAL,Newton South,4280,47,1,Plymouth South,4316,28,0,Dual County,Patriot,,,0
-2026-01-17,80865,FINAL,Gloucester,4150,25,0,Cambridge,4067,46,1,Northeastern,Dual County,,,0
-2026-01-17,80867,FINAL,Braintree,4051,33,0,Hingham,4171,47,1,Bay State,Patriot,,,0
-2026-01-17,80868,FINAL,Foxborough,4142,43,1,Hingham,4171,34,0,Hockomock,Patriot,,,0
-2026-01-17,80871,FINAL,Hingham,4171,23,0,West Springfield,4417,53,1,Patriot,Independent,,,0
-2026-01-17,80876,FINAL,Tyngsborough/Dracut,4397,31,0,Tewksbury,4389,38,1,Mid-Wach,Merrimack Valley,,,0
-2026-01-17,80878,FINAL,Triton,4395,30,0,Tewksbury,4389,50,1,Cape Ann,Merrimack Valley,,,0
-2026-01-17,80880,FINAL,St. John’s (Shrewsbury),4368,39,0,Tewksbury,4389,42,1,Catholic Conference,Merrimack Valley,,,0
-2026-01-17,80882,FINAL,Quincy Upper,4515,23,0,Tewksbury,4389,42,1,Boston City,Merrimack Valley,,,0
-2026-01-17,80887,FINAL,Brookline,4059,36,0,Cambridge,4067,46,1,Bay State,Dual County,,,0
-2026-01-17,80888,FINAL,Newton South,4280,47,1,Gloucester,4150,34,0,Dual County,Northeastern,,,0
-2026-01-17,80891,FINAL,King Philip,4197,50,1,Danvers,4103,24,0,Hockomock,Northeastern,,,0
-2026-01-17,80894,FINAL,Danvers,4103,12,0,Hope (R.I.),4496,67,1,Northeastern,Independent,,,0
-2026-01-17,80895,FINAL,Brookline,4059,36,0,Beverly,4038,42,1,Bay State,Northeastern,,,0
-2026-01-17,80896,FINAL,Gloucester,4150,36,1,Portland/So. Portland (Maine),4493,28,0,Northeastern,Independent,,,0
-2026-01-17,80897,FINAL,Marshfield,4234,48,1,Hanover,4164,36,0,Patriot,Patriot,,,0
-2026-01-17,80900,FINAL,Marshfield,4234,41,1,Framingham,4143,39,0,Patriot,Bay State,,,0
-2026-01-17,80902,FINAL,Marshfield,4234,28,0,Bristol-Plymouth,4057,52,1,Patriot,Mayflower,,,0
-2026-01-17,80903,FINAL,Marshfield,4234,48,1,Durfee,4122,36,0,Patriot,Big Three,,,0
-2026-01-17,80912,FINAL,Roxbury Latin,4334,81,1,Hyde,4186,0,0,ISL,Independent,,,0
-2026-01-17,80915,FINAL,Roxbury Latin,4334,44,1,Phillips Andover,4310,35,0,ISL,Independent,,,0
-2026-01-17,80916,FINAL,BC High,4029,18,0,Pentucket,4309,63,1,Catholic Conference,Cape Ann,,,0
-2026-01-17,80917,FINAL,Greater Lowell,4155,34,0,Pentucket,4309,45,1,Commonwealth,Cape Ann,,,0
-2026-01-17,80919,FINAL,North Andover,4283,38,2,Pentucket,4309,38,2,Merrimack Valley,Cape Ann,,,0
-2026-01-17,80921,FINAL,St. John’s (Shrewsbury),4368,6,0,Triton,4395,30,1,Catholic Conference,Cape Ann,,,0
-2026-01-17,80924,FINAL,Triton,4395,35,0,Tyngsborough/Dracut,4397,47,1,Cape Ann,Mid-Wach,,,0
-2026-01-17,80927,FINAL,Triton,4395,24,1,Quincy Upper,4515,12,0,Cape Ann,Boston City,,,0
-2026-01-17,80929,FINAL,Haverhill,4167,20,0,Methuen,4246,57,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-17,80931,FINAL,North Middlesex,4286,6,0,Methuen,4246,38,1,Independent,Merrimack Valley,,,0
-2026-01-17,80932,FINAL,Foxborough,4142,18,0,West Springfield,4417,58,1,Hockomock,Independent,,,0
-2026-01-17,80935,FINAL,Braintree,4051,18,0,West Springfield,4417,65,1,Bay State,Independent,,,0
-2026-01-17,80937,FINAL,Latin Academy,4202,29,0,Norwood,4297,39,1,Boston City,Tri-Valley,,,0
-2026-01-17,80940,FINAL,Latin Academy,4202,30,0,Milton,4252,54,1,Boston City,Bay State,,,0
-2026-01-17,80941,FINAL,Latin Academy,4202,36,0,Oliver Ames,4302,45,1,Boston City,Hockomock,,,0
-2026-01-17,80944,FINAL,Wilmington,4432,0,0,Westford,4421,59,1,Middlesex,Dual County,,,0
-2026-01-17,80947,FINAL,Algonquin,4005,30,0,Westford,4421,54,1,Mid-Wach,Dual County,,,0
-2026-01-17,80950,FINAL,Frontier,4146,6,0,Westford,4421,63,1,Independent,Dual County,,,0
-2026-01-17,80953,FINAL,Pathfinder,4305,0,0,Westford,4421,47,1,Independent,Dual County,,,0
-2026-01-17,80980,FINAL,Brooks,4060,30,0,Milton Academy,4253,37,1,ISL,ISL,,,0
-2026-01-17,80983,FINAL,Brooks,4060,30,0,Pomfret,4317,42,1,ISL,Independent,,,0
-2026-01-17,80986,FINAL,Brooks,4060,48,1,Marianapolis,4567,18,0,ISL,Independent,,,0
-2026-01-19,81015,FINAL,St. John’s Prep,4369,57,1,St. John’s (Shrewsbury),4368,18,0,Catholic Conference,Catholic Conference,,,0
-2026-01-19,81018,FINAL,St. John’s Prep,4369,71,1,Catholic Memorial,4080,11,0,Catholic Conference,Catholic Conference,,,0
-2026-01-19,81019,FINAL,St. John’s Prep,4369,72,1,BC High,4029,6,0,Catholic Conference,Catholic Conference,,,0
-2026-01-19,81021,FINAL,St. John’s Prep,4369,74,1,Malden Catholic,4228,5,0,Catholic Conference,Catholic Conference,,,0
-2026-01-19,81024,FINAL,St. John’s Prep,4369,63,1,Xaverian,4446,15,0,Catholic Conference,Catholic Conference,,,0
-2026-01-19,81039,FINAL,Malden Catholic,4228,3,0,St. John’s (Shrewsbury),4368,76,1,Catholic Conference,Catholic Conference,,,0
-2026-01-19,81042,FINAL,Xaverian,4446,27,0,St. John’s (Shrewsbury),4368,53,1,Catholic Conference,Catholic Conference,,,0
-2026-01-19,81043,FINAL,BC High,4029,29,0,St. John’s (Shrewsbury),4368,54,1,Catholic Conference,Catholic Conference,,,0
-2026-01-19,81045,FINAL,St. John’s (Shrewsbury),4368,63,1,Catholic Memorial,4080,17,0,Catholic Conference,Catholic Conference,,,0
-2026-01-21,81882,FINAL,Hingham,4171,33,0,Duxbury,4123,47,1,Patriot,Patriot,,,0
-2026-01-21,81889,FINAL,Danvers,4103,18,0,Beverly,4038,57,1,Northeastern,Northeastern,,,0
-2026-01-21,81897,FINAL,Saugus/Peabody,4341,34,1,Gloucester,4150,26,0,Northeastern,Northeastern,,,0
-2026-01-21,81900,FINAL,Nashoba Valley Tech,4268,6,0,Shawsheen,4346,74,1,Commonwealth,Commonwealth,,,0
-2026-01-21,81962,FINAL,Chelmsford,4085,46,1,North Andover,4283,23,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-21,81986,FINAL,Latin Academy,4202,42,1,Boston Latin,4049,33,0,Boston City,Dual County,,,0
-2026-01-21,82131,FINAL,Holliston,4174,52,1,Northbridge,4292,27,0,Tri-Valley,Independent,,,0
-2026-01-21,82137,FINAL,Brooks,4060,33,1,St. Sebastian’s,4378,30,0,ISL,ISL,,,0
-2026-01-21,82312,FINAL,Westford,4421,60,1,Lincoln-Sudbury,4211,12,0,Dual County,Dual County,,,0
-2026-01-22,82337,FINAL,St. John’s (Shrewsbury),4368,63,1,Monty Tech/Fitchburg,4259,11,0,Catholic Conference,Independent,,,0
-2026-01-22,82340,FINAL,Triton,4395,36,0,Salem,4336,42,1,Cape Ann,Northeastern,,,0
-2026-01-23,82487,FINAL,Roxbury Latin,4334,54,1,Latin Academy,4202,28,0,ISL,Boston City,,,0
-2026-01-23,82503,FINAL,Cohasset,4094,47,1,Sandwich,4340,30,0,South Shore,Cape & Islands,,,0
-2026-01-23,82505,FINAL,Cohasset,4094,59,1,Pembroke,4308,18,0,South Shore,Patriot,,,0
-2026-01-23,82508,FINAL,Cohasset,4094,58,1,Barnstable,4024,24,0,South Shore,Pioneer,,,0
-2026-01-23,82545,FINAL,St. Sebastian’s,4378,44,1,Nobles,4282,27,0,ISL,ISL,,,0
-2026-01-23,82549,FINAL,Nashoba,4267,53,1,Pembroke,4308,28,0,Mid-Wach,Patriot,,,0
-2026-01-23,82658,FINAL,Middleborough,4247,39,2,Burlington,4065,39,2,South Shore,Middlesex,,,0
-2026-01-23,82659,FINAL,Silver Lake,4349,42,1,Burlington,4065,30,0,Patriot,Middlesex,,,0
-2026-01-23,82664,FINAL,Burlington,4065,55,1,Oliver Ames,4302,18,0,Middlesex,Hockomock,,,0
-2026-01-24,82627,FINAL,Weymouth,4425,54,1,Newton North,4279,30,0,Bay State,Bay State,,,0
-2026-01-24,82628,FINAL,Weymouth,4425,27,0,Natick,4270,50,1,Bay State,Bay State,,,0
-2026-01-24,82629,FINAL,Weymouth,4425,53,1,Wellesley,4413,25,0,Bay State,Bay State,,,0
-2026-01-24,82630,FINAL,Carver,4077,30,0,Hanover,4164,43,1,South Shore,Patriot,,,0
-2026-01-24,82633,FINAL,Hanover,4164,53,1,Woonsocket (R.I.),4673,22,0,Patriot,Independent,,,0
-2026-01-24,82636,FINAL,Upper Cape,4457,36,0,Hanover,4164,46,1,Mayflower,Patriot,,,0
-2026-01-24,82637,FINAL,Hingham,4171,26,0,North Attleborough,4284,36,1,Patriot,Hockomock,,,0
-2026-01-24,82640,FINAL,Hingham,4171,45,1,Plymouth South,4316,33,0,Patriot,Patriot,,,0
-2026-01-24,82641,FINAL,Hingham,4171,40,0,Brockton,4058,42,1,Patriot,Big Three,,,0
-2026-01-24,82643,FINAL,Lynnfield/North Reading,4223,63,1,Belmont,4034,12,0,Cape Ann,Middlesex,,,0
-2026-01-24,82765,FINAL,Lynnfield/North Reading,4223,9,0,Shawsheen,4346,60,1,Cape Ann,Commonwealth,,,0
-2026-01-24,82776,FINAL,Beverly,4038,16,0,Shawsheen,4346,55,1,Northeastern,Commonwealth,,,0
-2026-01-24,82782,FINAL,Belmont,4034,8,0,Shawsheen,4346,64,1,Middlesex,Commonwealth,,,0
-2026-01-24,82803,FINAL,Triton,4395,48,1,Pelham (N.H.),4307,24,0,Cape Ann,Independent,,,0
-2026-01-24,82805,FINAL,Triton,4395,60,1,York (Maine),4858,12,0,Cape Ann,Independent,,,0
-2026-01-24,82806,FINAL,Triton,4395,48,1,Marblehead/Swampscott,4231,34,0,Cape Ann,Northeastern,,,0
-2026-01-24,82807,FINAL,Hopkinton,4180,44,1,Duxbury,4123,32,0,Tri-Valley,Patriot,,,0
-2026-01-24,82809,FINAL,Algonquin,4005,18,0,Duxbury,4123,56,1,Mid-Wach,Patriot,,,0
-2026-01-24,82811,FINAL,Algonquin,4005,16,0,Hopkinton,4180,59,1,Mid-Wach,Tri-Valley,,,0
-2026-01-24,82813,FINAL,Newton South,4280,32,0,Tewksbury,4389,48,1,Dual County,Merrimack Valley,,,0
-2026-01-24,82815,FINAL,Plymouth North,4315,24,0,Tewksbury,4389,52,1,Patriot,Merrimack Valley,,,0
-2026-01-24,82816,FINAL,Tewksbury,4389,30,0,Melrose,4244,42,1,Merrimack Valley,Middlesex,,,0
-2026-01-24,82818,FINAL,Greater Lowell,4155,60,1,Malden Catholic,4228,6,0,Commonwealth,Catholic Conference,,,0
-2026-01-24,82819,FINAL,Greater Lowell,4155,52,1,Weston,4423,12,0,Commonwealth,Dual County,,,0
-2026-01-24,82822,FINAL,Greater Lowell,4155,53,1,Chicopee,4088,12,0,Commonwealth,Independent,,,0
-2026-01-24,82941,FINAL,West Springfield,4417,16,0,St. John’s Prep,4369,55,1,Independent,Catholic Conference,,,0
-2026-01-24,82943,FINAL,Franklin,4144,21,0,St. John’s Prep,4369,54,1,Hockomock,Catholic Conference,,,0
-2026-01-24,82944,FINAL,Marlborough,4233,16,0,St. John’s Prep,4369,66,1,Mid-Wach,Catholic Conference,,,0
-2026-01-24,82947,FINAL,Southwick,4519,4,0,St. John’s Prep,4369,69,1,Independent,Catholic Conference,,,0
-2026-01-24,82949,FINAL,Methuen,4246,58,1,St. John’s (Shrewsbury),4368,23,0,Merrimack Valley,Catholic Conference,,,0
-2026-01-24,82956,FINAL,Methuen,4246,56,1,Lexington,4209,3,0,Merrimack Valley,Middlesex,,,0
-2026-01-24,82958,FINAL,Methuen,4246,51,1,Greater Lawrence,4154,23,0,Merrimack Valley,Commonwealth,,,0
-2026-01-24,82961,FINAL,Methuen,4246,36,2,Taunton,4388,36,2,Merrimack Valley,Hockomock,,,0
-2026-01-24,82967,FINAL,Gloucester,4150,38,1,Dedham,4108,36,0,Northeastern,Tri-Valley,,,0
-2026-01-24,82968,FINAL,Watertown,4409,33,0,Dedham,4108,44,1,Middlesex,Tri-Valley,,,0
-2026-01-24,82970,FINAL,Foxborough,4142,32,0,Dedham,4108,47,1,Hockomock,Tri-Valley,,,0
-2026-01-24,82971,FINAL,Greater Lawrence,4154,32,0,Taunton,4388,45,1,Commonwealth,Hockomock,,,0
-2026-01-24,82972,FINAL,Lexington,4209,23,0,Taunton,4388,60,1,Middlesex,Hockomock,,,0
-2026-01-24,82974,FINAL,St. John’s (Shrewsbury),4368,38,0,Taunton,4388,39,1,Catholic Conference,Hockomock,,,0
-2026-01-24,82977,FINAL,St. Mark’s,4372,18,0,Roxbury Latin,4334,64,1,ISL,ISL,,,0
-2026-01-24,82978,FINAL,Eagle Hill,4733,24,0,Roxbury Latin,4334,50,1,Independent,ISL,,,0
-2026-01-24,82979,FINAL,Portsmouth Abbey,4320,6,0,Roxbury Latin,4334,77,1,Independent,ISL,,,0
-2026-01-24,82984,FINAL,Sharon,4345,46,1,Belchertown,4032,27,0,Hockomock,Independent,,,0
-2026-01-24,82985,FINAL,Sharon,4345,22,0,Holliston,4174,53,1,Hockomock,Tri-Valley,,,0
-2026-01-24,82987,FINAL,Sharon,4345,63,1,Quincy Upper,4515,10,0,Hockomock,Boston City,,,0
-2026-01-24,82994,FINAL,Sharon,4345,54,1,Scituate,4343,27,0,Hockomock,Patriot,,,0
-2026-01-24,82997,FINAL,Woburn,4438,28,0,Bristol-Plymouth,4057,48,1,Middlesex,Mayflower,,,0
-2026-01-24,83002,FINAL,Woburn,4438,39,2,Whittier,4428,39,2,Middlesex,Commonwealth,,,0
-2026-01-24,83051,FINAL,Middlesex,4248,29,0,Nobles,4282,33,1,ISL,ISL,,,0
-2026-01-24,83053,FINAL,Chapel Hill,4082,12,0,Nobles,4282,42,1,EIL,ISL,,,0
-2026-01-24,83059,FINAL,BB&N,4028,24,0,Nobles,4282,41,1,ISL,ISL,,,0
-2026-01-24,83094,FINAL,Wayland,4411,58,1,King Philip,4197,15,0,Dual County,Hockomock,,,0
-2026-01-24,83095,FINAL,Wayland,4411,38,1,Toll Gate (R.I.),4836,32,0,Dual County,Independent,,,0
-2026-01-24,83098,FINAL,Wayland,4411,55,1,Norwood,4297,15,0,Dual County,Tri-Valley,,,0
-2026-01-24,83101,FINAL,Wayland,4411,46,1,Mansfield,4230,16,0,Dual County,Hockomock,,,0
-2026-01-24,83123,FINAL,Brooks,4060,15,0,Belmont Hill,4035,63,1,ISL,ISL,,,0
-2026-01-24,83125,FINAL,Brooks,4060,21,0,Phillips Exeter,4311,58,1,ISL,Independent,,,0
-2026-01-24,83128,FINAL,Brooks,4060,17,0,Phillips Andover,4310,61,1,ISL,Independent,,,0
-2026-01-28,83570,FINAL,Nauset,4271,57,1,Martha’s Vineyard,4235,18,0,Cape & Islands,Cape & Islands,5:00 P.M.,,0
-2026-01-28,83575,FINAL,Pembroke,4308,31,0,Scituate,4343,48,1,Patriot,Patriot,,,0
-2026-01-28,83586,FINAL,Westford,4421,51,1,Boston Latin,4049,30,0,Dual County,Dual County,,,0
-2026-01-28,83591,FINAL,Central Catholic,4081,73,1,Lawrence,4203,6,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-28,83594,FINAL,Concord-Carlisle,4097,15,0,Wayland,4411,61,1,Dual County,Dual County,,,0
-2026-01-28,83611,FINAL,South Shore Voc-Tech,4356,39,0,Upper Cape,4457,42,1,Mayflower,Mayflower,,,0
-2026-01-28,83615,FINAL,Andover,4009,53,1,Tewksbury,4389,24,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-28,83617,FINAL,Whitman-Hanson,4427,45,1,Plymouth North,4315,35,0,Patriot,Patriot,,,0
-2026-01-28,83619,FINAL,Hingham,4171,48,1,Silver Lake,4349,27,0,Patriot,Patriot,6:00 P.M.,,0
-2026-01-28,83622,FINAL,Malden Catholic,4228,39,0,Northeast/Bishop Fenwick,4293,42,1,Catholic Conference,Commonwealth,,,0
-2026-01-28,83624,FINAL,Newton South,4280,58,1,Latin Academy,4202,21,0,Dual County,Boston City,,,0
-2026-01-28,83631,FINAL,Lynnfield/North Reading,4223,55,1,Essex Tech / Masco,4745,21,0,Cape Ann,Cape Ann,,,0
-2026-01-28,83669,FINAL,Lowell,4216,27,0,Methuen,4246,37,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-28,83671,FINAL,Greater Lawrence,4154,9,0,Shawsheen,4346,71,1,Commonwealth,Commonwealth,,,0
-2026-01-28,83692,FINAL,Burlington,4065,66,1,Keefe Tech,4191,6,0,Middlesex,Independent,,,0
-2026-01-28,83694,FINAL,Danvers,4103,48,1,Quincy Upper,4515,18,0,Northeastern,Boston City,,,0
-2026-01-28,83695,FINAL,Danvers,4103,21,0,Saugus/Peabody,4341,54,1,Northeastern,Northeastern,,,0
-2026-01-29,83696,FINAL,Randolph,4327,0,0,Cohasset,4094,78,1,South Shore,South Shore,5:30 P.M.,,0
-2026-01-29,83705,FINAL,Wellesley,4413,36,0,Framingham,4143,39,1,Bay State,Bay State,,,0
-2026-01-29,83713,FINAL,Northbridge,4292,26,0,St. John’s (Shrewsbury),4368,50,1,Independent,Catholic Conference,,,0
-2026-01-29,83716,FINAL,Dedham,4108,58,1,Norton,4295,15,0,Tri-Valley,Tri-Valley,,,0
-2026-01-29,83773,FINAL,Governor’s Academy,4152,37,1,Brooks,4060,36,0,ISL,ISL,,,0
-2026-01-30,83803,FINAL,Wakefield,4402,53,1,Burlington,4065,20,0,Middlesex,Middlesex,,,0
-2026-01-30,83910,FINAL,Holliston,4174,41,1,Marlborough,4233,29,0,Tri-Valley,Mid-Wach,,,0
-2026-01-31,83895,FINAL,Nobles,4282,18,0,Thayer,4390,48,1,ISL,ISL,,,0
-2026-01-31,83896,FINAL,Governor’s Academy,4152,48,1,Nobles,4282,14,0,ISL,ISL,,,0
-2026-01-31,83899,FINAL,Nobles,4282,19,0,St. Mark’s,4372,60,1,ISL,ISL,,,0
-2026-01-31,83901,FINAL,Brooks,4060,30,0,Nobles,4282,31,1,ISL,ISL,,,0
-2026-01-31,83902,FINAL,Hingham,4171,39,1,New Bedford,4273,37,0,Patriot,Big Three,,,0
-2026-01-31,83903,FINAL,Quabbin,4325,20,0,Hingham,4171,48,1,Mid-Wach,Patriot,,,0
-2026-01-31,83904,FINAL,Hingham,4171,59,1,Milton,4252,18,0,Patriot,Bay State,,,0
-2026-01-31,83911,FINAL,Wayland,4411,66,1,Malden/Everett,4227,9,0,Dual County,Greater Boston,,,0
-2026-01-31,83912,FINAL,Wayland,4411,48,1,Lexington,4209,18,0,Dual County,Middlesex,,,0
-2026-01-31,83916,FINAL,Belmont Hill,4035,54,1,Roxbury Latin,4334,21,0,ISL,ISL,,,0
-2026-01-31,83918,FINAL,Northfield Mt. Hermon,4294,48,1,Roxbury Latin,4334,31,0,Independent,ISL,,,0
-2026-01-31,83920,FINAL,Choate,4090,12,0,Roxbury Latin,4334,70,1,Independent,ISL,,,0
-2026-01-31,83923,FINAL,Mount St. Charles (R.I.),4488,18,0,Roxbury Latin,4334,66,1,Independent,ISL,,,0
-2026-02-02,84018,FINAL,Concord Academy,4096,46,1,Brooks,4060,30,0,EIL,ISL,,,0
-2026-02-03,84236,FINAL,Newton North,4279,34,0,Watertown,4409,43,1,Bay State,Middlesex,,,0
-2026-02-04,84295,FINAL,Nauset,4271,61,1,Falmouth/Mashpee,4134,10,0,Cape & Islands,Cape & Islands,,,0
-2026-02-04,84301,FINAL,Wayland,4411,56,1,Newton South,4280,17,0,Dual County,Dual County,,,0
-2026-02-04,84311,FINAL,Athol,4017,35,0,Belchertown,4032,42,1,Independent,Independent,,,0
-2026-02-04,84315,FINAL,Hingham,4171,75,1,Plymouth North,4315,6,0,Patriot,Patriot,,,0
-2026-02-04,84322,FINAL,St. John’s (Shrewsbury),4368,42,1,Westford,4421,36,0,Catholic Conference,Dual County,,,0
-2026-02-04,84324,FINAL,Marshfield,4234,66,1,Whitman-Hanson,4427,12,0,Patriot,Patriot,,,0
-2026-02-04,84330,FINAL,Wilmington,4432,17,0,Lynnfield/North Reading,4223,65,1,Middlesex,Cape Ann,,,0
-2026-02-04,84338,FINAL,Norwood,4297,19,0,Dedham,4108,53,1,Tri-Valley,Tri-Valley,,,0
-2026-02-04,84353,FINAL,Tewksbury,4389,57,1,Billerica,4040,11,0,Merrimack Valley,Merrimack Valley,,,0
-2026-02-04,84366,FINAL,Chelmsford,4085,23,0,Methuen,4246,44,1,Merrimack Valley,Merrimack Valley,,,0
-2026-02-04,84369,FINAL,Shawsheen,4346,61,1,New Bedford,4273,8,0,Commonwealth,Big Three,,,0
-2026-02-04,84377,FINAL,Weymouth,4425,59,1,Walpole,4404,24,0,Bay State,Bay State,,,0
-2026-02-04,84381,FINAL,Scituate,4343,40,1,Plymouth South,4316,30,0,Patriot,Patriot,,,0
-2026-02-04,84384,FINAL,Silver Lake,4349,24,0,Duxbury,4123,56,1,Patriot,Patriot,,,0
-2026-02-04,84386,FINAL,Lowell,4216,42,1,Haverhill,4167,36,0,Merrimack Valley,Merrimack Valley,,,0
-2026-02-04,84387,FINAL,Middleborough,4247,42,1,Cohasset,4094,34,0,South Shore,South Shore,,,0
-2026-02-04,84390,FINAL,Woburn,4438,40,1,Arlington,4013,30,0,Middlesex,Middlesex,,,0
-2026-02-04,84416,FINAL,Greater Lowell,4155,51,1,Cambridge,4067,26,0,Commonwealth,Dual County,,,0
-2026-02-04,84418,FINAL,St. John’s Prep,4369,59,1,Salem,4336,15,0,Catholic Conference,Northeastern,,,0
-2026-02-04,84419,FINAL,Newton North,4279,40,0,Brookline,4059,41,1,Bay State,Bay State,,,0
-2026-02-05,84514,FINAL,Hanover,4164,60,1,Pembroke,4308,21,0,Patriot,Patriot,,,0
-2026-02-05,84533,FINAL,Melrose,4244,41,1,Wakefield,4402,26,0,Middlesex,Middlesex,,,0
-2026-02-05,84541,FINAL,Triton,4395,39,1,Excel Academy,4969,34,0,Cape Ann,Independent,,,0
-2026-02-05,84545,FINAL,Watertown,4409,42,1,Burlington,4065,31,0,Middlesex,Middlesex,,,0
-2026-02-06,84579,FINAL,Cohasset,4094,70,1,Weston,4423,6,0,South Shore,Dual County,,,0
-2026-02-06,84580,FINAL,Cohasset,4094,54,1,Wellesley,4413,30,0,South Shore,Bay State,,,0
-2026-02-06,84583,FINAL,Cohasset,4094,60,1,Mansfield,4230,18,0,South Shore,Hockomock,,,0
-2026-02-07,84612,FINAL,Weymouth,4425,36,1,Keene (N.H.),4192,34,0,Bay State,Independent,,,0
-2026-02-07,84614,FINAL,Weymouth,4425,35,0,Arlington,4013,41,1,Bay State,Middlesex,,,0
-2026-02-07,84616,FINAL,Weymouth,4425,40,0,Andover,4009,42,1,Bay State,Merrimack Valley,,,0
-2026-02-07,84619,FINAL,Weymouth,4425,30,0,Bishop Hendricken (R.I.),4044,52,1,Bay State,Independent,,,0
-2026-02-07,84622,FINAL,Braintree,4051,20,0,New Bedford,4273,56,1,Bay State,Big Three,,,0
-2026-02-07,84624,FINAL,Braintree,4051,23,1,Stoughton,4381,11,0,Bay State,Hockomock,,,0
-2026-02-07,84625,FINAL,Braintree,4051,43,1,Canton,4071,34,0,Bay State,Hockomock,,,0
-2026-02-07,84627,FINAL,Burlington,4065,70,1,Newton North,4279,10,0,Middlesex,Bay State,,,0
-2026-02-07,84628,FINAL,Burlington,4065,36,0,Waltham,4405,37,1,Middlesex,Dual County,,,0
-2026-02-07,84634,FINAL,Weston,4423,6,0,Cohasset,4094,76,1,Dual County,South Shore,,,0
-2026-02-07,84636,FINAL,Cohasset,4094,54,1,Wellesley,4413,30,0,South Shore,Bay State,,,0
-2026-02-07,84638,FINAL,Cohasset,4094,60,1,Mansfield,4230,18,0,South Shore,Hockomock,,,0
-2026-02-07,84641,FINAL,Dedham,4108,36,0,Lynnfield/North Reading,4223,46,1,Tri-Valley,Cape Ann,,,0
-2026-02-07,84643,FINAL,Brookline,4059,24,0,Lynnfield/North Reading,4223,54,1,Bay State,Cape Ann,,,0
-2026-02-07,84650,FINAL,Wayland,4411,42,1,Wakefield,4402,28,0,Dual County,Middlesex,,,0
-2026-02-07,84652,FINAL,Wayland,4411,57,1,Latin Academy,4202,6,0,Dual County,Boston City,,,0
-2026-02-07,84653,FINAL,Wayland,4411,36,1,Belmont,4034,23,0,Dual County,Middlesex,,,0
-2026-02-07,84673,FINAL,Brockton,4058,29,0,Taunton,4388,44,1,Big Three,Hockomock,,,0
-2026-02-07,84675,FINAL,Xaverian,4446,31,0,Taunton,4388,41,1,Catholic Conference,Hockomock,,,0
-2026-02-07,84676,FINAL,Quincy/North Quincy,4326,11,0,Taunton,4388,68,1,Patriot,Hockomock,,,0
-2026-02-07,84677,FINAL,Middleborough,4247,35,0,Taunton,4388,47,1,South Shore,Hockomock,,,0
-2026-02-07,84679,FINAL,West Springfield,4417,21,0,Milford,4249,53,1,Independent,Hockomock,,,0
-2026-02-07,84680,FINAL,Melrose,4244,36,0,Milford,4249,46,1,Middlesex,Hockomock,,,0
-2026-02-07,84681,FINAL,North Attleborough,4284,30,0,Milford,4249,42,1,Hockomock,Hockomock,,,0
-2026-02-07,84683,FINAL,Salem (N.H.),4337,32,0,Lowell,4216,42,1,Independent,Merrimack Valley,,,0
-2026-02-07,84686,FINAL,Haverhill,4167,36,0,Lowell,4216,43,1,Merrimack Valley,Merrimack Valley,,,0
-2026-02-07,84687,FINAL,Chicopee,4088,11,0,Lowell,4216,69,1,Independent,Merrimack Valley,,,0
-2026-02-07,84688,FINAL,Newton South,4280,20,0,Lowell,4216,46,1,Dual County,Merrimack Valley,,,0
-2026-02-07,84691,FINAL,Franklin County Tech,4145,33,0,Holliston,4174,46,1,Independent,Tri-Valley,,,0
-2026-02-07,84694,FINAL,Tewksbury,4389,36,0,Holliston,4174,43,1,Merrimack Valley,Tri-Valley,,,0
-2026-02-07,84696,FINAL,Tyngsborough/Dracut,4397,36,0,Holliston,4174,41,1,Mid-Wach,Tri-Valley,,,0
-2026-02-07,84698,FINAL,Greater Lawrence,4154,54,1,Reading,4328,27,0,Commonwealth,Middlesex,,,0
-2026-02-07,84701,FINAL,Greater Lawrence,4154,42,1,Winchester,4434,33,0,Commonwealth,Middlesex,,,0
-2026-02-07,84702,FINAL,Greater Lawrence,4154,55,1,Gloucester,4150,24,0,Commonwealth,Northeastern,,,0
-2026-02-10,84852,FINAL,Whitman-Hanson,4427,26,0,Bristol-Plymouth,4057,50,1,Patriot,Mayflower,,,0
-2026-02-11,84987,FINAL,Wilmington,4432,17,0,Triton,4395,52,1,Middlesex,Cape Ann,,,0
-2026-02-11,85014,FINAL,Lowell,4216,54,1,Chelmsford,4085,13,0,Merrimack Valley,Merrimack Valley,,,0
-2026-02-11,85016,FINAL,Quincy/North Quincy,4326,12,0,Weymouth,4425,65,1,Patriot,Bay State,,,0
-2026-02-11,85022,FINAL,Northeast/Bishop Fenwick,4293,23,0,Gloucester,4150,57,1,Commonwealth,Northeastern,,,0
-2026-02-11,85032,FINAL,Andover,4009,42,1,Haverhill,4167,28,0,Merrimack Valley,Merrimack Valley,,,0
-2026-02-11,85035,FINAL,Tewksbury,4389,38,1,Lawrence,4203,33,0,Merrimack Valley,Merrimack Valley,,,0
-2026-02-11,85038,FINAL,Shawsheen,4346,55,1,Wellesley,4413,3,0,Commonwealth,Bay State,,,0
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win,tourney_name,tourney_level
+2025-12-23,72477,FINAL,Walpole,4404,68,1,Stoughton,4381,12,0,Bay State,Hockomock,,,0,,
+2025-12-23,72554,FINAL,Cohasset,4094,71,1,East Boston,4125,12,0,South Shore,Boston City,1:00 P.M.,,0,,
+2025-12-23,73835,FINAL,Burlington,4065,31,0,Arlington,4013,46,1,Middlesex,Middlesex,,,0,,
+2025-12-23,73838,FINAL,Burlington,4065,54,1,Catholic Memorial,4080,5,0,Middlesex,Catholic Conference,,,0,,
+2025-12-23,73841,FINAL,Burlington,4065,18,0,Leominster,4208,63,1,Middlesex,Mid-Wach,,,0,,
+2025-12-27,74531,FINAL,Shawsheen,4346,56,1,Tewksbury,4389,7,0,Commonwealth,Merrimack Valley,,,0,,
+2025-12-27,74532,FINAL,Shawsheen,4346,56,1,Woburn,4438,21,0,Commonwealth,Middlesex,,,0,,
+2025-12-27,74533,FINAL,Shawsheen,4346,63,1,Andover,4009,18,0,Commonwealth,Merrimack Valley,,,0,,
+2025-12-27,74550,FINAL,Billerica,4040,21,0,Burlington,4065,53,1,Merrimack Valley,Middlesex,,,0,,
+2025-12-27,74552,FINAL,Lexington,4209,24,0,Burlington,4065,55,1,Middlesex,Middlesex,,,0,,
+2025-12-27,74554,FINAL,Gloucester,4150,36,0,Burlington,4065,43,1,Northeastern,Middlesex,,,0,,
+2025-12-30,74908,FINAL,Wayland,4411,71,1,Danvers,4103,12,0,Dual County,Northeastern,,,0,,
+2025-12-30,74909,FINAL,Wayland,4411,29,0,New Bedford,4273,39,1,Dual County,Big Three,,,0,,
+2025-12-30,74911,FINAL,Wayland,4411,27,0,Woburn,4438,46,1,Dual County,Middlesex,,,0,,
+2025-12-30,74912,FINAL,Wayland,4411,48,1,North Attleborough,4284,22,0,Dual County,Hockomock,,,0,,
+2025-12-30,74922,FINAL,North Attleborough,4284,28,0,New Bedford,4273,48,1,Hockomock,Big Three,,,0,,
+2025-12-31,75309,FINAL,St. John’s Prep,4369,25,0,Shawsheen,4346,48,1,Catholic Conference,Commonwealth,,,0,,
+2025-12-31,75366,FINAL,Keene (N.H.),4192,6,0,Shawsheen,4346,65,1,Independent,Commonwealth,,,0,,
+2025-12-31,75368,FINAL,Salem (N.H.),4337,12,0,Shawsheen,4346,59,1,Independent,Commonwealth,,,0,,
+2025-12-31,75370,FINAL,Pentucket,4309,40,1,Burlington,4065,32,0,Cape Ann,Middlesex,,,0,,
+2025-12-31,75373,FINAL,Worcester Tech,4445,9,0,Burlington,4065,71,1,Independent,Middlesex,,,0,,
+2025-12-31,75375,FINAL,Saugus/Peabody,4341,55,1,Burlington,4065,18,0,Northeastern,Middlesex,,,0,,
+2026-01-01,76316,FINAL,Winchester,4434,45,1,Wellesley,4413,30,0,Middlesex,Bay State,,,0,,
+2026-01-02,77266,FINAL,Wilmington,4432,20,0,Burlington,4065,58,1,Middlesex,Middlesex,,,0,,
+2026-01-03,77097,FINAL,East Longmeadow,4127,24,0,Wayland,4411,33,1,Independent,Dual County,,,0,,
+2026-01-03,77099,FINAL,Westfield/Westfield Tech,4419,11,0,Wayland,4411,47,1,Independent,Dual County,,,0,,
+2026-01-03,77100,FINAL,Monty Tech/Fitchburg,4259,7,0,Wayland,4411,49,1,Independent,Dual County,,,0,,
+2026-01-03,77106,FINAL,Sharon,4345,20,0,Whittier,4428,55,1,Hockomock,Commonwealth,,,0,,
+2026-01-03,77109,FINAL,Sharon,4345,45,1,Bellingham,4033,33,0,Hockomock,Tri-Valley,,,0,,
+2026-01-03,77111,FINAL,Sharon,4345,59,1,Mansfield,4230,24,0,Hockomock,Hockomock,,,0,,
+2026-01-03,77112,FINAL,Newton South,4280,32,0,Braintree,4051,44,1,Dual County,Bay State,,,0,,
+2026-01-03,77113,FINAL,Danvers,4103,23,0,Lynnfield/North Reading,4223,53,1,Northeastern,Cape Ann,,,0,,
+2026-01-03,77116,FINAL,Triton,4395,15,0,Wakefield,4402,55,1,Cape Ann,Middlesex,,,0,,
+2026-01-03,77121,FINAL,Weymouth,4425,50,1,Plymouth North,4315,16,0,Bay State,Patriot,,,0,,
+2026-01-03,77125,FINAL,Franklin,4144,24,0,Mt. Hope (R.I.),4658,50,1,Hockomock,Independent,,,0,,
+2026-01-03,77126,FINAL,Brookline,4059,18,0,Agawam,4004,63,1,Bay State,Independent,,,0,,
+2026-01-03,77128,FINAL,Mt. Hope (R.I.),4658,70,1,Brookline,4059,12,0,Independent,Bay State,,,0,,
+2026-01-03,77129,FINAL,Franklin,4144,27,0,Agawam,4004,54,1,Hockomock,Independent,,,0,,
+2026-01-03,77131,FINAL,Mt. Hope (R.I.),4658,52,1,Agawam,4004,30,0,Independent,Independent,,,0,,
+2026-01-03,77133,FINAL,Franklin,4144,56,1,Brookline,4059,17,0,Hockomock,Bay State,,,0,,
+2026-01-03,77135,FINAL,Algonquin,4005,7,0,Salem (N.H.),4337,69,1,Mid-Wach,Independent,,,0,,
+2026-01-03,77138,FINAL,Natick,4270,45,1,Hopkinton,4180,36,0,Bay State,Tri-Valley,,,0,,
+2026-01-03,77139,FINAL,Salem (N.H.),4337,59,1,Hopkinton,4180,10,0,Independent,Tri-Valley,,,0,,
+2026-01-03,77141,FINAL,Natick,4270,60,1,Algonquin,4005,6,0,Bay State,Mid-Wach,,,0,,
+2026-01-03,77144,FINAL,Natick,4270,45,1,Salem (N.H.),4337,35,0,Bay State,Independent,,,0,,
+2026-01-03,77147,FINAL,Algonquin,4005,24,0,Hopkinton,4180,47,1,Mid-Wach,Tri-Valley,,,0,,
+2026-01-03,77148,FINAL,Natick,4270,37,0,Mt. Hope (R.I.),4658,41,1,Bay State,Independent,,,0,,
+2026-01-03,77164,FINAL,Gloucester,4150,28,0,Pentucket,4309,50,1,Northeastern,Cape Ann,,,0,,
+2026-01-03,77173,FINAL,Excel Academy,4969,27,0,Pentucket,4309,46,1,Independent,Cape Ann,,,0,,
+2026-01-03,77179,FINAL,Scituate,4343,35,0,Pentucket,4309,44,1,Patriot,Cape Ann,,,0,,
+2026-01-03,77205,FINAL,Weymouth,4425,48,1,Oliver Ames,4302,30,0,Bay State,Hockomock,,,0,,
+2026-01-03,77206,FINAL,Weymouth,4425,48,1,Brockton,4058,25,0,Bay State,Big Three,,,0,,
+2026-01-03,77243,FINAL,Burlington,4065,40,1,Reading,4328,36,0,Middlesex,Middlesex,,,0,,
+2026-01-03,77246,FINAL,King Philip,4197,30,0,Rockland,4331,54,1,Hockomock,South Shore,,,0,,
+2026-01-03,77249,FINAL,Burlington,4065,29,1,Stoughton,4381,12,0,Middlesex,Hockomock,,,0,,
+2026-01-03,77252,FINAL,Barnstable,4024,0,0,Rockland,4331,69,1,Pioneer,South Shore,,,0,,
+2026-01-03,77255,FINAL,Burlington,4065,44,1,Bedford / A-B,4031,34,0,Middlesex,Dual County,,,0,,
+2026-01-03,77258,FINAL,Belmont,4034,36,0,Rockland,4331,46,1,Middlesex,South Shore,,,0,,
+2026-01-03,77265,FINAL,Quincy/North Quincy,4326,28,0,Rockland,4331,53,1,Patriot,South Shore,,,0,,
+2026-01-03,77278,FINAL,Braintree,4051,24,0,Roxbury Latin,4334,52,1,Bay State,ISL,,,0,,
+2026-01-03,77285,FINAL,Wilmington,4432,18,0,Watertown,4409,60,1,Middlesex,Middlesex,,,0,,
+2026-01-03,77287,FINAL,Lynn Tech,4222,6,0,Watertown,4409,70,1,Independent,Middlesex,,,0,,
+2026-01-03,77304,FINAL,Boston Latin,4049,34,0,Roxbury Latin,4334,43,1,Dual County,ISL,,,0,,
+2026-01-03,77307,FINAL,Newton South,4280,27,0,Roxbury Latin,4334,45,1,Dual County,ISL,,,0,,
+2026-01-03,77330,FINAL,Braintree,4051,44,1,Boston Latin,4049,34,0,Bay State,Dual County,,,0,,
+2026-01-06,77981,FINAL,Latin Academy,4202,58,1,East Boston,4125,12,0,Boston City,Boston City,,,0,,
+2026-01-06,77984,FINAL,Latin Academy,4202,40,1,Malden/Everett,4227,33,0,Boston City,Greater Boston,,,0,,
+2026-01-06,77995,FINAL,Norton,4295,24,0,Holliston,4174,54,1,Tri-Valley,Tri-Valley,,,0,,
+2026-01-07,78122,FINAL,Milton,4252,42,2,Brookline,4059,42,2,Bay State,Bay State,,,0,,
+2026-01-07,78125,FINAL,Quincy/North Quincy,4326,34,1,Pembroke,4308,31,0,Patriot,Patriot,,,0,,
+2026-01-07,78126,FINAL,Danvers,4103,48,1,Gloucester,4150,34,0,Northeastern,Northeastern,,,0,,
+2026-01-07,78129,FINAL,Marshfield,4234,34,0,Hingham,4171,45,1,Patriot,Patriot,,,0,,
+2026-01-07,78132,FINAL,Duxbury,4123,48,1,Whitman-Hanson,4427,32,0,Patriot,Patriot,,,0,,
+2026-01-07,78144,FINAL,Plymouth North,4315,29,0,Silver Lake,4349,50,1,Patriot,Patriot,,,0,,
+2026-01-07,78146,FINAL,Melrose,4244,62,1,Burlington,4065,17,0,Middlesex,Middlesex,,,0,,
+2026-01-07,78152,FINAL,Lynnfield/North Reading,4223,54,1,Triton,4395,27,0,Cape Ann,Cape Ann,,,0,,
+2026-01-07,78153,FINAL,Wayland,4411,44,1,Westford,4421,22,0,Dual County,Dual County,,,0,,
+2026-01-07,78155,FINAL,North Andover,4283,34,0,Methuen,4246,46,1,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-07,78158,FINAL,Wellesley,4413,37,0,Braintree,4051,39,1,Bay State,Bay State,,,0,,
+2026-01-07,78159,FINAL,Concord-Carlisle,4097,39,2,Boston Latin,4049,39,2,Dual County,Dual County,,,0,,
+2026-01-07,78160,FINAL,Rockland,4331,34,0,Middleborough,4247,48,1,South Shore,South Shore,,,0,,
+2026-01-07,78162,FINAL,Chelmsford,4085,54,1,Tewksbury,4389,24,0,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-07,78165,FINAL,Salem,4336,30,0,Beverly,4038,49,1,Northeastern,Northeastern,,,0,,
+2026-01-07,78171,FINAL,Gloucester,4150,48,1,Danvers,4103,34,0,Northeastern,Northeastern,,,0,,
+2026-01-07,78181,FINAL,Framingham,4143,36,0,Weymouth,4425,44,1,Bay State,Bay State,,,0,,
+2026-01-07,78184,FINAL,Sharon,4345,36,0,Taunton,4388,43,1,Hockomock,Hockomock,,,0,,
+2026-01-07,78187,FINAL,Woburn,4438,56,1,Reading,4328,22,0,Middlesex,Middlesex,,,0,,
+2026-01-07,78188,FINAL,Andover,4009,45,1,Lawrence,4203,29,0,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-07,78191,FINAL,Martha’s Vineyard,4235,54,1,Falmouth/Mashpee,4134,24,0,Cape & Islands,Cape & Islands,,,0,,
+2026-01-07,78194,FINAL,Lowell,4216,47,1,Billerica,4040,17,0,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-08,78249,FINAL,Scituate,4343,50,1,Hanover,4164,29,0,Patriot,Patriot,,,0,,
+2026-01-08,78252,FINAL,Nauset,4271,46,1,Barnstable,4024,27,0,Cape & Islands,Pioneer,,,0,,
+2026-01-08,78350,FINAL,Excel Academy,4969,33,0,Latin Academy,4202,43,1,Independent,Boston City,,,0,,
+2026-01-09,78783,FINAL,East Boston,4125,36,0,Atlantis Charter,4818,51,1,Boston City,Independent,6:15 P.M.,,0,,
+2026-01-10,78816,FINAL,Lynnfield/North Reading,4223,53,1,Salem,4336,29,0,Cape Ann,Northeastern,,,0,,
+2026-01-10,78837,FINAL,Roxbury Latin,4334,51,1,East Boston,4125,6,0,ISL,Boston City,,,0,,
+2026-01-10,78839,FINAL,Roxbury Latin,4334,62,1,Thayer,4390,18,0,ISL,ISL,,,0,,
+2026-01-10,78845,FINAL,Quincy/North Quincy,4326,39,2,Whitman-Hanson,4427,39,2,Patriot,Patriot,,,0,,
+2026-01-10,78848,FINAL,Stoughton,4381,0,0,Whitman-Hanson,4427,78,1,Hockomock,Patriot,,,0,,
+2026-01-10,78851,FINAL,Whitman-Hanson,4427,30,0,Newton North,4279,42,1,Patriot,Bay State,,,0,,
+2026-01-10,78852,FINAL,Hingham,4171,44,1,Tewksbury,4389,28,0,Patriot,Merrimack Valley,,,0,,
+2026-01-10,78854,FINAL,Hingham,4171,22,0,Methuen,4246,60,1,Patriot,Merrimack Valley,,,0,,
+2026-01-10,78857,FINAL,Hingham,4171,34,0,Whittier,4428,45,1,Patriot,Commonwealth,,,0,,
+2026-01-10,78863,FINAL,Milford,4249,25,0,Shawsheen,4346,41,1,Hockomock,Commonwealth,,,0,,
+2026-01-10,78864,FINAL,Mahar,4226,18,0,St. John’s (Shrewsbury),4368,62,1,Independent,Catholic Conference,,,0,,
+2026-01-10,78867,FINAL,Athol,4017,18,0,St. John’s (Shrewsbury),4368,62,1,Independent,Catholic Conference,,,0,,
+2026-01-10,78868,FINAL,Pioneer Valley,4536,0,0,St. John’s (Shrewsbury),4368,82,1,Independent,Catholic Conference,,,0,,
+2026-01-10,78869,FINAL,Worcester Tech,4445,21,0,St. John’s (Shrewsbury),4368,60,1,Independent,Catholic Conference,,,0,,
+2026-01-10,78872,FINAL,Foxborough,4142,7,0,Shawsheen,4346,68,1,Hockomock,Commonwealth,,,0,,
+2026-01-10,78874,FINAL,Bridgewater-Raynham,4053,18,0,Shawsheen,4346,63,1,Independent,Commonwealth,,,0,,
+2026-01-10,78876,FINAL,Beverly,4038,31,0,Bristol-Plymouth,4057,43,1,Northeastern,Mayflower,,,0,,
+2026-01-10,78877,FINAL,Beverly,4038,32,0,Wellesley,4413,42,1,Northeastern,Bay State,,,0,,
+2026-01-10,78879,FINAL,Beverly,4038,30,0,Greater Lowell,4155,53,1,Northeastern,Commonwealth,,,0,,
+2026-01-10,78881,FINAL,Tewksbury,4389,27,0,Methuen,4246,45,1,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-10,78882,FINAL,Whittier,4428,27,0,Methuen,4246,53,1,Commonwealth,Merrimack Valley,,,0,,
+2026-01-10,78883,FINAL,Springfield Central,4360,48,1,Taunton,4388,26,0,Independent,Hockomock,,,0,,
+2026-01-10,78886,FINAL,Mount Anthony (Vt.),4728,33,0,Taunton,4388,45,1,Independent,Hockomock,,,0,,
+2026-01-10,78888,FINAL,Natick,4270,42,1,Taunton,4388,23,0,Bay State,Hockomock,,,0,,
+2026-01-10,78889,FINAL,Middlebury (Vt.),4727,9,0,Taunton,4388,68,1,Independent,Hockomock,,,0,,
+2026-01-10,78895,FINAL,St. John’s Prep,4369,44,1,Taunton,4388,25,0,Catholic Conference,Hockomock,,,0,,
+2026-01-10,78898,FINAL,Hope (R.I.),4496,24,0,Andover,4009,44,1,Independent,Merrimack Valley,,,0,,
+2026-01-10,78899,FINAL,Newton South,4280,28,0,Andover,4009,51,1,Dual County,Merrimack Valley,,,0,,
+2026-01-10,78902,FINAL,Marlborough,4233,24,0,Andover,4009,48,1,Mid-Wach,Merrimack Valley,,,0,,
+2026-01-10,78905,FINAL,Scituate (R.I.),5257,51,1,Andover,4009,29,0,Independent,Merrimack Valley,,,0,,
+2026-01-10,78908,FINAL,Wellesley,4413,38,0,Greater Lowell,4155,40,1,Bay State,Commonwealth,,,0,,
+2026-01-10,78910,FINAL,Bristol-Plymouth,4057,40,1,Greater Lowell,4155,32,0,Mayflower,Commonwealth,,,0,,
+2026-01-10,78913,FINAL,Frontier,4146,6,0,Greater Lawrence,4154,60,1,Independent,Commonwealth,,,0,,
+2026-01-10,78915,FINAL,Agawam,4004,6,0,Greater Lawrence,4154,75,1,Independent,Commonwealth,,,0,,
+2026-01-10,78918,FINAL,Greater Lawrence,4154,51,1,Holyoke,4176,26,0,Commonwealth,Independent,,,0,,
+2026-01-10,78921,FINAL,Belchertown,4032,17,0,Greater Lawrence,4154,57,1,Independent,Commonwealth,,,0,,
+2026-01-11,78962,FINAL,Tewksbury,4389,22,0,Hingham,4171,44,1,Merrimack Valley,Patriot,,,0,,
+2026-01-11,78964,FINAL,Hingham,4171,22,0,Methuen,4246,60,1,Patriot,Merrimack Valley,,,0,,
+2026-01-11,78965,FINAL,Hingham,4171,34,0,Whittier,4428,45,1,Patriot,Commonwealth,,,0,,
+2026-01-12,78995,FINAL,Latin Academy,4202,54,1,Maimonides,4473,15,0,Boston City,Independent,,,0,,
+2026-01-13,79806,FINAL,Watertown,4409,45,1,Belmont,4034,29,0,Middlesex,Middlesex,,,0,,
+2026-01-13,79808,FINAL,Dedham,4108,51,1,Hopkinton,4180,29,0,Tri-Valley,Tri-Valley,,,0,,
+2026-01-14,80200,FINAL,Roxbury Latin,4334,72,1,BB&N,4028,6,0,ISL,ISL,,,0,,
+2026-01-14,80203,FINAL,Roxbury Latin,4334,78,1,Governor’s Academy,4152,0,0,ISL,ISL,,,0,,
+2026-01-14,80206,FINAL,Roxbury Latin,4334,65,1,Milton Academy,4253,6,0,ISL,ISL,,,0,,
+2026-01-14,80226,FINAL,Duxbury,4123,42,1,Plymouth North,4315,40,0,Patriot,Patriot,,,0,,
+2026-01-14,80229,FINAL,Xaverian,4446,47,1,Newton North,4279,30,0,Catholic Conference,Bay State,,,0,,
+2026-01-14,80250,FINAL,Cambridge,4067,40,1,Bedford / A-B,4031,32,0,Dual County,Dual County,,,0,,
+2026-01-14,80257,FINAL,Concord-Carlisle,4097,33,0,Westford,4421,43,1,Dual County,Dual County,,,0,,
+2026-01-14,80268,FINAL,Danvers,4103,33,0,Marblehead/Swampscott,4231,42,1,Northeastern,Northeastern,,,0,,
+2026-01-14,80272,FINAL,Taunton,4388,46,1,King Philip,4197,33,0,Hockomock,Hockomock,,,0,,
+2026-01-14,80285,FINAL,Lawrence,4203,21,0,Methuen,4246,52,1,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-14,80288,FINAL,East Boston,4125,24,0,Worcester Tech,4445,60,1,Boston City,Independent,,,0,,
+2026-01-14,80291,FINAL,Worcester Tech,4445,39,0,Latin Academy,4202,42,1,Independent,Boston City,,,0,,
+2026-01-14,80300,FINAL,Lynnfield/North Reading,4223,57,1,Pentucket,4309,22,0,Cape Ann,Cape Ann,,,0,,
+2026-01-14,80318,FINAL,Ashland,4015,12,0,Shawsheen,4346,61,1,Tri-Valley,Commonwealth,,,0,,
+2026-01-14,80319,FINAL,Weymouth,4425,51,1,Milton,4252,28,0,Bay State,Bay State,,,0,,
+2026-01-14,80321,FINAL,Burlington,4065,29,0,St. John’s (Shrewsbury),4368,41,1,Middlesex,Catholic Conference,,,0,,
+2026-01-14,80322,FINAL,Tewksbury,4389,42,1,Haverhill,4167,34,0,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-14,80329,FINAL,Essex Tech / Masco,4745,40,0,Triton,4395,42,1,Cape Ann,Cape Ann,,,0,,
+2026-01-14,80345,FINAL,West Springfield,4417,29,0,Springfield Central,4360,42,1,Independent,Independent,,,0,,
+2026-01-14,80347,FINAL,Brookline,4059,28,0,Wellesley,4413,49,1,Bay State,Bay State,,,0,,
+2026-01-14,80348,FINAL,Gloucester,4150,41,1,Beverly,4038,39,0,Northeastern,Northeastern,,,0,,
+2026-01-14,80351,FINAL,Brooks,4060,44,1,Middlesex,4248,33,0,ISL,ISL,,,0,,
+2026-01-14,80354,FINAL,Brooks,4060,36,1,Thayer,4390,31,0,ISL,ISL,,,0,,
+2026-01-14,80372,FINAL,Norwood,4297,32,0,Holliston,4174,45,1,Tri-Valley,Tri-Valley,,,0,,
+2026-01-15,80634,FINAL,Ashland,4015,16,0,Wayland,4411,57,1,Tri-Valley,Dual County,,,0,,
+2026-01-16,80716,FINAL,Lexington,4209,30,0,Watertown,4409,45,1,Middlesex,Middlesex,,,0,,
+2026-01-17,80809,FINAL,Weymouth,4425,31,0,Chelmsford,4085,34,1,Bay State,Merrimack Valley,,,0,,
+2026-01-17,80811,FINAL,Weymouth,4425,40,0,North Attleborough,4284,42,1,Bay State,Hockomock,,,0,,
+2026-01-17,80813,FINAL,Weymouth,4425,35,0,Whittier,4428,45,1,Bay State,Commonwealth,,,0,,
+2026-01-17,80814,FINAL,Pembroke,4308,3,0,Wayland,4411,64,1,Patriot,Dual County,,,0,,
+2026-01-17,80817,FINAL,Nashoba,4267,24,0,Wayland,4411,54,1,Mid-Wach,Dual County,,,0,,
+2026-01-17,80820,FINAL,Norton,4295,15,0,Wayland,4411,47,1,Tri-Valley,Dual County,,,0,,
+2026-01-17,80823,FINAL,Beverly,4038,45,1,Quincy/North Quincy,4326,30,0,Northeastern,Patriot,,,0,,
+2026-01-17,80825,FINAL,Central (R.I.),4497,25,0,Winchester,4434,41,1,Independent,Middlesex,,,0,,
+2026-01-17,80827,FINAL,Portland/So. Portland (Maine),4493,24,0,Beverly,4038,36,1,Independent,Northeastern,,,0,,
+2026-01-17,80828,FINAL,Central (R.I.),4497,55,1,Quincy/North Quincy,4326,24,0,Independent,Patriot,,,0,,
+2026-01-17,80830,FINAL,Winchester,4434,53,1,Beverly,4038,27,0,Middlesex,Northeastern,,,0,,
+2026-01-17,80833,FINAL,Portland/So. Portland (Maine),4493,24,0,Quincy/North Quincy,4326,54,1,Independent,Patriot,,,0,,
+2026-01-17,80836,FINAL,Portland/So. Portland (Maine),4493,12,0,Winchester,4434,66,1,Independent,Middlesex,,,0,,
+2026-01-17,80838,FINAL,Beverly,4038,27,0,Central (R.I.),4497,48,1,Northeastern,Independent,,,0,,
+2026-01-17,80840,FINAL,Winchester,4434,47,1,Quincy/North Quincy,4326,33,0,Middlesex,Patriot,,,0,,
+2026-01-17,80842,FINAL,Central (R.I.),4497,58,1,Portland/So. Portland (Maine),4493,24,0,Independent,Independent,,,0,,
+2026-01-17,80844,FINAL,Newton South,4280,27,0,Cambridge,4067,38,1,Dual County,Dual County,,,0,,
+2026-01-17,80847,FINAL,Brookline,4059,48,1,Plymouth South,4316,36,0,Bay State,Patriot,,,0,,
+2026-01-17,80850,FINAL,Gloucester,4150,35,0,Plymouth South,4316,44,1,Northeastern,Patriot,,,0,,
+2026-01-17,80852,FINAL,Brookline,4059,34,0,Newton South,4280,47,1,Bay State,Dual County,,,0,,
+2026-01-17,80856,FINAL,Brookline,4059,34,0,Gloucester,4150,44,1,Bay State,Northeastern,,,0,,
+2026-01-17,80859,FINAL,Plymouth South,4316,37,0,Cambridge,4067,40,1,Patriot,Dual County,,,0,,
+2026-01-17,80862,FINAL,Newton South,4280,47,1,Plymouth South,4316,28,0,Dual County,Patriot,,,0,,
+2026-01-17,80865,FINAL,Gloucester,4150,25,0,Cambridge,4067,46,1,Northeastern,Dual County,,,0,,
+2026-01-17,80867,FINAL,Braintree,4051,33,0,Hingham,4171,47,1,Bay State,Patriot,,,0,,
+2026-01-17,80868,FINAL,Foxborough,4142,43,1,Hingham,4171,34,0,Hockomock,Patriot,,,0,,
+2026-01-17,80871,FINAL,Hingham,4171,23,0,West Springfield,4417,53,1,Patriot,Independent,,,0,,
+2026-01-17,80876,FINAL,Tyngsborough/Dracut,4397,31,0,Tewksbury,4389,38,1,Mid-Wach,Merrimack Valley,,,0,,
+2026-01-17,80878,FINAL,Triton,4395,30,0,Tewksbury,4389,50,1,Cape Ann,Merrimack Valley,,,0,,
+2026-01-17,80880,FINAL,St. John’s (Shrewsbury),4368,39,0,Tewksbury,4389,42,1,Catholic Conference,Merrimack Valley,,,0,,
+2026-01-17,80882,FINAL,Quincy Upper,4515,23,0,Tewksbury,4389,42,1,Boston City,Merrimack Valley,,,0,,
+2026-01-17,80887,FINAL,Brookline,4059,36,0,Cambridge,4067,46,1,Bay State,Dual County,,,0,,
+2026-01-17,80888,FINAL,Newton South,4280,47,1,Gloucester,4150,34,0,Dual County,Northeastern,,,0,,
+2026-01-17,80891,FINAL,King Philip,4197,50,1,Danvers,4103,24,0,Hockomock,Northeastern,,,0,,
+2026-01-17,80894,FINAL,Danvers,4103,12,0,Hope (R.I.),4496,67,1,Northeastern,Independent,,,0,,
+2026-01-17,80895,FINAL,Brookline,4059,36,0,Beverly,4038,42,1,Bay State,Northeastern,,,0,,
+2026-01-17,80896,FINAL,Gloucester,4150,36,1,Portland/So. Portland (Maine),4493,28,0,Northeastern,Independent,,,0,,
+2026-01-17,80897,FINAL,Marshfield,4234,48,1,Hanover,4164,36,0,Patriot,Patriot,,,0,,
+2026-01-17,80900,FINAL,Marshfield,4234,41,1,Framingham,4143,39,0,Patriot,Bay State,,,0,,
+2026-01-17,80902,FINAL,Marshfield,4234,28,0,Bristol-Plymouth,4057,52,1,Patriot,Mayflower,,,0,,
+2026-01-17,80903,FINAL,Marshfield,4234,48,1,Durfee,4122,36,0,Patriot,Big Three,,,0,,
+2026-01-17,80912,FINAL,Roxbury Latin,4334,81,1,Hyde,4186,0,0,ISL,Independent,,,0,,
+2026-01-17,80915,FINAL,Roxbury Latin,4334,44,1,Phillips Andover,4310,35,0,ISL,Independent,,,0,,
+2026-01-17,80916,FINAL,BC High,4029,18,0,Pentucket,4309,63,1,Catholic Conference,Cape Ann,,,0,,
+2026-01-17,80917,FINAL,Greater Lowell,4155,34,0,Pentucket,4309,45,1,Commonwealth,Cape Ann,,,0,,
+2026-01-17,80919,FINAL,North Andover,4283,38,2,Pentucket,4309,38,2,Merrimack Valley,Cape Ann,,,0,,
+2026-01-17,80921,FINAL,St. John’s (Shrewsbury),4368,6,0,Triton,4395,30,1,Catholic Conference,Cape Ann,,,0,,
+2026-01-17,80924,FINAL,Triton,4395,35,0,Tyngsborough/Dracut,4397,47,1,Cape Ann,Mid-Wach,,,0,,
+2026-01-17,80927,FINAL,Triton,4395,24,1,Quincy Upper,4515,12,0,Cape Ann,Boston City,,,0,,
+2026-01-17,80929,FINAL,Haverhill,4167,20,0,Methuen,4246,57,1,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-17,80931,FINAL,North Middlesex,4286,6,0,Methuen,4246,38,1,Independent,Merrimack Valley,,,0,,
+2026-01-17,80932,FINAL,Foxborough,4142,18,0,West Springfield,4417,58,1,Hockomock,Independent,,,0,,
+2026-01-17,80935,FINAL,Braintree,4051,18,0,West Springfield,4417,65,1,Bay State,Independent,,,0,,
+2026-01-17,80937,FINAL,Latin Academy,4202,29,0,Norwood,4297,39,1,Boston City,Tri-Valley,,,0,,
+2026-01-17,80940,FINAL,Latin Academy,4202,30,0,Milton,4252,54,1,Boston City,Bay State,,,0,,
+2026-01-17,80941,FINAL,Latin Academy,4202,36,0,Oliver Ames,4302,45,1,Boston City,Hockomock,,,0,,
+2026-01-17,80944,FINAL,Wilmington,4432,0,0,Westford,4421,59,1,Middlesex,Dual County,,,0,,
+2026-01-17,80947,FINAL,Algonquin,4005,30,0,Westford,4421,54,1,Mid-Wach,Dual County,,,0,,
+2026-01-17,80950,FINAL,Frontier,4146,6,0,Westford,4421,63,1,Independent,Dual County,,,0,,
+2026-01-17,80953,FINAL,Pathfinder,4305,0,0,Westford,4421,47,1,Independent,Dual County,,,0,,
+2026-01-17,80980,FINAL,Brooks,4060,30,0,Milton Academy,4253,37,1,ISL,ISL,,,0,,
+2026-01-17,80983,FINAL,Brooks,4060,30,0,Pomfret,4317,42,1,ISL,Independent,,,0,,
+2026-01-17,80986,FINAL,Brooks,4060,48,1,Marianapolis,4567,18,0,ISL,Independent,,,0,,
+2026-01-19,81015,FINAL,St. John’s Prep,4369,57,1,St. John’s (Shrewsbury),4368,18,0,Catholic Conference,Catholic Conference,,,0,,
+2026-01-19,81018,FINAL,St. John’s Prep,4369,71,1,Catholic Memorial,4080,11,0,Catholic Conference,Catholic Conference,,,0,,
+2026-01-19,81019,FINAL,St. John’s Prep,4369,72,1,BC High,4029,6,0,Catholic Conference,Catholic Conference,,,0,,
+2026-01-19,81021,FINAL,St. John’s Prep,4369,74,1,Malden Catholic,4228,5,0,Catholic Conference,Catholic Conference,,,0,,
+2026-01-19,81024,FINAL,St. John’s Prep,4369,63,1,Xaverian,4446,15,0,Catholic Conference,Catholic Conference,,,0,,
+2026-01-19,81039,FINAL,Malden Catholic,4228,3,0,St. John’s (Shrewsbury),4368,76,1,Catholic Conference,Catholic Conference,,,0,,
+2026-01-19,81042,FINAL,Xaverian,4446,27,0,St. John’s (Shrewsbury),4368,53,1,Catholic Conference,Catholic Conference,,,0,,
+2026-01-19,81043,FINAL,BC High,4029,29,0,St. John’s (Shrewsbury),4368,54,1,Catholic Conference,Catholic Conference,,,0,,
+2026-01-19,81045,FINAL,St. John’s (Shrewsbury),4368,63,1,Catholic Memorial,4080,17,0,Catholic Conference,Catholic Conference,,,0,,
+2026-01-21,81882,FINAL,Hingham,4171,33,0,Duxbury,4123,47,1,Patriot,Patriot,,,0,,
+2026-01-21,81889,FINAL,Danvers,4103,18,0,Beverly,4038,57,1,Northeastern,Northeastern,,,0,,
+2026-01-21,81897,FINAL,Saugus/Peabody,4341,34,1,Gloucester,4150,26,0,Northeastern,Northeastern,,,0,,
+2026-01-21,81900,FINAL,Nashoba Valley Tech,4268,6,0,Shawsheen,4346,74,1,Commonwealth,Commonwealth,,,0,,
+2026-01-21,81962,FINAL,Chelmsford,4085,46,1,North Andover,4283,23,0,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-21,81986,FINAL,Latin Academy,4202,42,1,Boston Latin,4049,33,0,Boston City,Dual County,,,0,,
+2026-01-21,82131,FINAL,Holliston,4174,52,1,Northbridge,4292,27,0,Tri-Valley,Independent,,,0,,
+2026-01-21,82137,FINAL,Brooks,4060,33,1,St. Sebastian’s,4378,30,0,ISL,ISL,,,0,,
+2026-01-21,82312,FINAL,Westford,4421,60,1,Lincoln-Sudbury,4211,12,0,Dual County,Dual County,,,0,,
+2026-01-22,82337,FINAL,St. John’s (Shrewsbury),4368,63,1,Monty Tech/Fitchburg,4259,11,0,Catholic Conference,Independent,,,0,,
+2026-01-22,82340,FINAL,Triton,4395,36,0,Salem,4336,42,1,Cape Ann,Northeastern,,,0,,
+2026-01-23,82487,FINAL,Roxbury Latin,4334,54,1,Latin Academy,4202,28,0,ISL,Boston City,,,0,,
+2026-01-23,82503,FINAL,Cohasset,4094,47,1,Sandwich,4340,30,0,South Shore,Cape & Islands,,,0,,
+2026-01-23,82505,FINAL,Cohasset,4094,59,1,Pembroke,4308,18,0,South Shore,Patriot,,,0,,
+2026-01-23,82508,FINAL,Cohasset,4094,58,1,Barnstable,4024,24,0,South Shore,Pioneer,,,0,,
+2026-01-23,82545,FINAL,St. Sebastian’s,4378,44,1,Nobles,4282,27,0,ISL,ISL,,,0,,
+2026-01-23,82549,FINAL,Nashoba,4267,53,1,Pembroke,4308,28,0,Mid-Wach,Patriot,,,0,,
+2026-01-23,82658,FINAL,Middleborough,4247,39,2,Burlington,4065,39,2,South Shore,Middlesex,,,0,,
+2026-01-23,82659,FINAL,Silver Lake,4349,42,1,Burlington,4065,30,0,Patriot,Middlesex,,,0,,
+2026-01-23,82664,FINAL,Burlington,4065,55,1,Oliver Ames,4302,18,0,Middlesex,Hockomock,,,0,,
+2026-01-24,82627,FINAL,Weymouth,4425,54,1,Newton North,4279,30,0,Bay State,Bay State,,,0,,
+2026-01-24,82628,FINAL,Weymouth,4425,27,0,Natick,4270,50,1,Bay State,Bay State,,,0,,
+2026-01-24,82629,FINAL,Weymouth,4425,53,1,Wellesley,4413,25,0,Bay State,Bay State,,,0,,
+2026-01-24,82630,FINAL,Carver,4077,30,0,Hanover,4164,43,1,South Shore,Patriot,,,0,,
+2026-01-24,82633,FINAL,Hanover,4164,53,1,Woonsocket (R.I.),4673,22,0,Patriot,Independent,,,0,,
+2026-01-24,82636,FINAL,Upper Cape,4457,36,0,Hanover,4164,46,1,Mayflower,Patriot,,,0,,
+2026-01-24,82637,FINAL,Hingham,4171,26,0,North Attleborough,4284,36,1,Patriot,Hockomock,,,0,,
+2026-01-24,82640,FINAL,Hingham,4171,45,1,Plymouth South,4316,33,0,Patriot,Patriot,,,0,,
+2026-01-24,82641,FINAL,Hingham,4171,40,0,Brockton,4058,42,1,Patriot,Big Three,,,0,,
+2026-01-24,82643,FINAL,Lynnfield/North Reading,4223,63,1,Belmont,4034,12,0,Cape Ann,Middlesex,,,0,,
+2026-01-24,82765,FINAL,Lynnfield/North Reading,4223,9,0,Shawsheen,4346,60,1,Cape Ann,Commonwealth,,,0,,
+2026-01-24,82776,FINAL,Beverly,4038,16,0,Shawsheen,4346,55,1,Northeastern,Commonwealth,,,0,,
+2026-01-24,82782,FINAL,Belmont,4034,8,0,Shawsheen,4346,64,1,Middlesex,Commonwealth,,,0,,
+2026-01-24,82803,FINAL,Triton,4395,48,1,Pelham (N.H.),4307,24,0,Cape Ann,Independent,,,0,,
+2026-01-24,82805,FINAL,Triton,4395,60,1,York (Maine),4858,12,0,Cape Ann,Independent,,,0,,
+2026-01-24,82806,FINAL,Triton,4395,48,1,Marblehead/Swampscott,4231,34,0,Cape Ann,Northeastern,,,0,,
+2026-01-24,82807,FINAL,Hopkinton,4180,44,1,Duxbury,4123,32,0,Tri-Valley,Patriot,,,0,,
+2026-01-24,82809,FINAL,Algonquin,4005,18,0,Duxbury,4123,56,1,Mid-Wach,Patriot,,,0,,
+2026-01-24,82811,FINAL,Algonquin,4005,16,0,Hopkinton,4180,59,1,Mid-Wach,Tri-Valley,,,0,,
+2026-01-24,82813,FINAL,Newton South,4280,32,0,Tewksbury,4389,48,1,Dual County,Merrimack Valley,,,0,,
+2026-01-24,82815,FINAL,Plymouth North,4315,24,0,Tewksbury,4389,52,1,Patriot,Merrimack Valley,,,0,,
+2026-01-24,82816,FINAL,Tewksbury,4389,30,0,Melrose,4244,42,1,Merrimack Valley,Middlesex,,,0,,
+2026-01-24,82818,FINAL,Greater Lowell,4155,60,1,Malden Catholic,4228,6,0,Commonwealth,Catholic Conference,,,0,,
+2026-01-24,82819,FINAL,Greater Lowell,4155,52,1,Weston,4423,12,0,Commonwealth,Dual County,,,0,,
+2026-01-24,82822,FINAL,Greater Lowell,4155,53,1,Chicopee,4088,12,0,Commonwealth,Independent,,,0,,
+2026-01-24,82941,FINAL,West Springfield,4417,16,0,St. John’s Prep,4369,55,1,Independent,Catholic Conference,,,0,,
+2026-01-24,82943,FINAL,Franklin,4144,21,0,St. John’s Prep,4369,54,1,Hockomock,Catholic Conference,,,0,,
+2026-01-24,82944,FINAL,Marlborough,4233,16,0,St. John’s Prep,4369,66,1,Mid-Wach,Catholic Conference,,,0,,
+2026-01-24,82947,FINAL,Southwick,4519,4,0,St. John’s Prep,4369,69,1,Independent,Catholic Conference,,,0,,
+2026-01-24,82949,FINAL,Methuen,4246,58,1,St. John’s (Shrewsbury),4368,23,0,Merrimack Valley,Catholic Conference,,,0,,
+2026-01-24,82956,FINAL,Methuen,4246,56,1,Lexington,4209,3,0,Merrimack Valley,Middlesex,,,0,,
+2026-01-24,82958,FINAL,Methuen,4246,51,1,Greater Lawrence,4154,23,0,Merrimack Valley,Commonwealth,,,0,,
+2026-01-24,82961,FINAL,Methuen,4246,36,2,Taunton,4388,36,2,Merrimack Valley,Hockomock,,,0,,
+2026-01-24,82967,FINAL,Gloucester,4150,38,1,Dedham,4108,36,0,Northeastern,Tri-Valley,,,0,,
+2026-01-24,82968,FINAL,Watertown,4409,33,0,Dedham,4108,44,1,Middlesex,Tri-Valley,,,0,,
+2026-01-24,82970,FINAL,Foxborough,4142,32,0,Dedham,4108,47,1,Hockomock,Tri-Valley,,,0,,
+2026-01-24,82971,FINAL,Greater Lawrence,4154,32,0,Taunton,4388,45,1,Commonwealth,Hockomock,,,0,,
+2026-01-24,82972,FINAL,Lexington,4209,23,0,Taunton,4388,60,1,Middlesex,Hockomock,,,0,,
+2026-01-24,82974,FINAL,St. John’s (Shrewsbury),4368,38,0,Taunton,4388,39,1,Catholic Conference,Hockomock,,,0,,
+2026-01-24,82977,FINAL,St. Mark’s,4372,18,0,Roxbury Latin,4334,64,1,ISL,ISL,,,0,,
+2026-01-24,82978,FINAL,Eagle Hill,4733,24,0,Roxbury Latin,4334,50,1,Independent,ISL,,,0,,
+2026-01-24,82979,FINAL,Portsmouth Abbey,4320,6,0,Roxbury Latin,4334,77,1,Independent,ISL,,,0,,
+2026-01-24,82984,FINAL,Sharon,4345,46,1,Belchertown,4032,27,0,Hockomock,Independent,,,0,,
+2026-01-24,82985,FINAL,Sharon,4345,22,0,Holliston,4174,53,1,Hockomock,Tri-Valley,,,0,,
+2026-01-24,82987,FINAL,Sharon,4345,63,1,Quincy Upper,4515,10,0,Hockomock,Boston City,,,0,,
+2026-01-24,82994,FINAL,Sharon,4345,54,1,Scituate,4343,27,0,Hockomock,Patriot,,,0,,
+2026-01-24,82997,FINAL,Woburn,4438,28,0,Bristol-Plymouth,4057,48,1,Middlesex,Mayflower,,,0,,
+2026-01-24,83002,FINAL,Woburn,4438,39,2,Whittier,4428,39,2,Middlesex,Commonwealth,,,0,,
+2026-01-24,83051,FINAL,Middlesex,4248,29,0,Nobles,4282,33,1,ISL,ISL,,,0,,
+2026-01-24,83053,FINAL,Chapel Hill,4082,12,0,Nobles,4282,42,1,EIL,ISL,,,0,,
+2026-01-24,83059,FINAL,BB&N,4028,24,0,Nobles,4282,41,1,ISL,ISL,,,0,,
+2026-01-24,83094,FINAL,Wayland,4411,58,1,King Philip,4197,15,0,Dual County,Hockomock,,,0,,
+2026-01-24,83095,FINAL,Wayland,4411,38,1,Toll Gate (R.I.),4836,32,0,Dual County,Independent,,,0,,
+2026-01-24,83098,FINAL,Wayland,4411,55,1,Norwood,4297,15,0,Dual County,Tri-Valley,,,0,,
+2026-01-24,83101,FINAL,Wayland,4411,46,1,Mansfield,4230,16,0,Dual County,Hockomock,,,0,,
+2026-01-24,83123,FINAL,Brooks,4060,15,0,Belmont Hill,4035,63,1,ISL,ISL,,,0,,
+2026-01-24,83125,FINAL,Brooks,4060,21,0,Phillips Exeter,4311,58,1,ISL,Independent,,,0,,
+2026-01-24,83128,FINAL,Brooks,4060,17,0,Phillips Andover,4310,61,1,ISL,Independent,,,0,,
+2026-01-28,83570,FINAL,Nauset,4271,57,1,Martha’s Vineyard,4235,18,0,Cape & Islands,Cape & Islands,5:00 P.M.,,0,,
+2026-01-28,83575,FINAL,Pembroke,4308,31,0,Scituate,4343,48,1,Patriot,Patriot,,,0,,
+2026-01-28,83586,FINAL,Westford,4421,51,1,Boston Latin,4049,30,0,Dual County,Dual County,,,0,,
+2026-01-28,83591,FINAL,Central Catholic,4081,73,1,Lawrence,4203,6,0,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-28,83594,FINAL,Concord-Carlisle,4097,15,0,Wayland,4411,61,1,Dual County,Dual County,,,0,,
+2026-01-28,83611,FINAL,South Shore Voc-Tech,4356,39,0,Upper Cape,4457,42,1,Mayflower,Mayflower,,,0,,
+2026-01-28,83615,FINAL,Andover,4009,53,1,Tewksbury,4389,24,0,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-28,83617,FINAL,Whitman-Hanson,4427,45,1,Plymouth North,4315,35,0,Patriot,Patriot,,,0,,
+2026-01-28,83619,FINAL,Hingham,4171,48,1,Silver Lake,4349,27,0,Patriot,Patriot,6:00 P.M.,,0,,
+2026-01-28,83622,FINAL,Malden Catholic,4228,39,0,Northeast/Bishop Fenwick,4293,42,1,Catholic Conference,Commonwealth,,,0,,
+2026-01-28,83624,FINAL,Newton South,4280,58,1,Latin Academy,4202,21,0,Dual County,Boston City,,,0,,
+2026-01-28,83631,FINAL,Lynnfield/North Reading,4223,55,1,Essex Tech / Masco,4745,21,0,Cape Ann,Cape Ann,,,0,,
+2026-01-28,83669,FINAL,Lowell,4216,27,0,Methuen,4246,37,1,Merrimack Valley,Merrimack Valley,,,0,,
+2026-01-28,83671,FINAL,Greater Lawrence,4154,9,0,Shawsheen,4346,71,1,Commonwealth,Commonwealth,,,0,,
+2026-01-28,83692,FINAL,Burlington,4065,66,1,Keefe Tech,4191,6,0,Middlesex,Independent,,,0,,
+2026-01-28,83694,FINAL,Danvers,4103,48,1,Quincy Upper,4515,18,0,Northeastern,Boston City,,,0,,
+2026-01-28,83695,FINAL,Danvers,4103,21,0,Saugus/Peabody,4341,54,1,Northeastern,Northeastern,,,0,,
+2026-01-29,83696,FINAL,Randolph,4327,0,0,Cohasset,4094,78,1,South Shore,South Shore,5:30 P.M.,,0,,
+2026-01-29,83705,FINAL,Wellesley,4413,36,0,Framingham,4143,39,1,Bay State,Bay State,,,0,,
+2026-01-29,83713,FINAL,Northbridge,4292,26,0,St. John’s (Shrewsbury),4368,50,1,Independent,Catholic Conference,,,0,,
+2026-01-29,83716,FINAL,Dedham,4108,58,1,Norton,4295,15,0,Tri-Valley,Tri-Valley,,,0,,
+2026-01-29,83773,FINAL,Governor’s Academy,4152,37,1,Brooks,4060,36,0,ISL,ISL,,,0,,
+2026-01-30,83803,FINAL,Wakefield,4402,53,1,Burlington,4065,20,0,Middlesex,Middlesex,,,0,,
+2026-01-30,83910,FINAL,Holliston,4174,41,1,Marlborough,4233,29,0,Tri-Valley,Mid-Wach,,,0,,
+2026-01-31,83895,FINAL,Nobles,4282,18,0,Thayer,4390,48,1,ISL,ISL,,,0,,
+2026-01-31,83896,FINAL,Governor’s Academy,4152,48,1,Nobles,4282,14,0,ISL,ISL,,,0,,
+2026-01-31,83899,FINAL,Nobles,4282,19,0,St. Mark’s,4372,60,1,ISL,ISL,,,0,,
+2026-01-31,83901,FINAL,Brooks,4060,30,0,Nobles,4282,31,1,ISL,ISL,,,0,,
+2026-01-31,83902,FINAL,Hingham,4171,39,1,New Bedford,4273,37,0,Patriot,Big Three,,,0,,
+2026-01-31,83903,FINAL,Quabbin,4325,20,0,Hingham,4171,48,1,Mid-Wach,Patriot,,,0,,
+2026-01-31,83904,FINAL,Hingham,4171,59,1,Milton,4252,18,0,Patriot,Bay State,,,0,,
+2026-01-31,83911,FINAL,Wayland,4411,66,1,Malden/Everett,4227,9,0,Dual County,Greater Boston,,,0,,
+2026-01-31,83912,FINAL,Wayland,4411,48,1,Lexington,4209,18,0,Dual County,Middlesex,,,0,,
+2026-01-31,83916,FINAL,Belmont Hill,4035,54,1,Roxbury Latin,4334,21,0,ISL,ISL,,,0,,
+2026-01-31,83918,FINAL,Northfield Mt. Hermon,4294,48,1,Roxbury Latin,4334,31,0,Independent,ISL,,,0,,
+2026-01-31,83920,FINAL,Choate,4090,12,0,Roxbury Latin,4334,70,1,Independent,ISL,,,0,,
+2026-01-31,83923,FINAL,Mount St. Charles (R.I.),4488,18,0,Roxbury Latin,4334,66,1,Independent,ISL,,,0,,
+2026-02-02,84018,FINAL,Concord Academy,4096,46,1,Brooks,4060,30,0,EIL,ISL,,,0,,
+2026-02-03,84236,FINAL,Newton North,4279,34,0,Watertown,4409,43,1,Bay State,Middlesex,,,0,,
+2026-02-04,84295,FINAL,Nauset,4271,61,1,Falmouth/Mashpee,4134,10,0,Cape & Islands,Cape & Islands,,,0,,
+2026-02-04,84301,FINAL,Wayland,4411,56,1,Newton South,4280,17,0,Dual County,Dual County,,,0,,
+2026-02-04,84311,FINAL,Athol,4017,35,0,Belchertown,4032,42,1,Independent,Independent,,,0,,
+2026-02-04,84315,FINAL,Hingham,4171,75,1,Plymouth North,4315,6,0,Patriot,Patriot,,,0,,
+2026-02-04,84322,FINAL,St. John’s (Shrewsbury),4368,42,1,Westford,4421,36,0,Catholic Conference,Dual County,,,0,,
+2026-02-04,84324,FINAL,Marshfield,4234,66,1,Whitman-Hanson,4427,12,0,Patriot,Patriot,,,0,,
+2026-02-04,84330,FINAL,Wilmington,4432,17,0,Lynnfield/North Reading,4223,65,1,Middlesex,Cape Ann,,,0,,
+2026-02-04,84338,FINAL,Norwood,4297,19,0,Dedham,4108,53,1,Tri-Valley,Tri-Valley,,,0,,
+2026-02-04,84353,FINAL,Tewksbury,4389,57,1,Billerica,4040,11,0,Merrimack Valley,Merrimack Valley,,,0,,
+2026-02-04,84366,FINAL,Chelmsford,4085,23,0,Methuen,4246,44,1,Merrimack Valley,Merrimack Valley,,,0,,
+2026-02-04,84369,FINAL,Shawsheen,4346,61,1,New Bedford,4273,8,0,Commonwealth,Big Three,,,0,,
+2026-02-04,84377,FINAL,Weymouth,4425,59,1,Walpole,4404,24,0,Bay State,Bay State,,,0,,
+2026-02-04,84381,FINAL,Scituate,4343,40,1,Plymouth South,4316,30,0,Patriot,Patriot,,,0,,
+2026-02-04,84384,FINAL,Silver Lake,4349,24,0,Duxbury,4123,56,1,Patriot,Patriot,,,0,,
+2026-02-04,84386,FINAL,Lowell,4216,42,1,Haverhill,4167,36,0,Merrimack Valley,Merrimack Valley,,,0,,
+2026-02-04,84387,FINAL,Middleborough,4247,42,1,Cohasset,4094,34,0,South Shore,South Shore,,,0,,
+2026-02-04,84390,FINAL,Woburn,4438,40,1,Arlington,4013,30,0,Middlesex,Middlesex,,,0,,
+2026-02-04,84416,FINAL,Greater Lowell,4155,51,1,Cambridge,4067,26,0,Commonwealth,Dual County,,,0,,
+2026-02-04,84418,FINAL,St. John’s Prep,4369,59,1,Salem,4336,15,0,Catholic Conference,Northeastern,,,0,,
+2026-02-04,84419,FINAL,Newton North,4279,40,0,Brookline,4059,41,1,Bay State,Bay State,,,0,,
+2026-02-05,84514,FINAL,Hanover,4164,60,1,Pembroke,4308,21,0,Patriot,Patriot,,,0,,
+2026-02-05,84533,FINAL,Melrose,4244,41,1,Wakefield,4402,26,0,Middlesex,Middlesex,,,0,,
+2026-02-05,84541,FINAL,Triton,4395,39,1,Excel Academy,4969,34,0,Cape Ann,Independent,,,0,,
+2026-02-05,84545,FINAL,Watertown,4409,42,1,Burlington,4065,31,0,Middlesex,Middlesex,,,0,,
+2026-02-06,84579,FINAL,Cohasset,4094,70,1,Weston,4423,6,0,South Shore,Dual County,,,0,,
+2026-02-06,84580,FINAL,Cohasset,4094,54,1,Wellesley,4413,30,0,South Shore,Bay State,,,0,,
+2026-02-06,84583,FINAL,Cohasset,4094,60,1,Mansfield,4230,18,0,South Shore,Hockomock,,,0,,
+2026-02-07,84612,FINAL,Weymouth,4425,36,1,Keene (N.H.),4192,34,0,Bay State,Independent,,,0,,
+2026-02-07,84614,FINAL,Weymouth,4425,35,0,Arlington,4013,41,1,Bay State,Middlesex,,,0,,
+2026-02-07,84616,FINAL,Weymouth,4425,40,0,Andover,4009,42,1,Bay State,Merrimack Valley,,,0,,
+2026-02-07,84619,FINAL,Weymouth,4425,30,0,Bishop Hendricken (R.I.),4044,52,1,Bay State,Independent,,,0,,
+2026-02-07,84622,FINAL,Braintree,4051,20,0,New Bedford,4273,56,1,Bay State,Big Three,,,0,,
+2026-02-07,84624,FINAL,Braintree,4051,23,1,Stoughton,4381,11,0,Bay State,Hockomock,,,0,,
+2026-02-07,84625,FINAL,Braintree,4051,43,1,Canton,4071,34,0,Bay State,Hockomock,,,0,,
+2026-02-07,84627,FINAL,Burlington,4065,70,1,Newton North,4279,10,0,Middlesex,Bay State,,,0,,
+2026-02-07,84628,FINAL,Burlington,4065,36,0,Waltham,4405,37,1,Middlesex,Dual County,,,0,,
+2026-02-07,84634,FINAL,Weston,4423,6,0,Cohasset,4094,76,1,Dual County,South Shore,,,0,,
+2026-02-07,84636,FINAL,Cohasset,4094,54,1,Wellesley,4413,30,0,South Shore,Bay State,,,0,,
+2026-02-07,84638,FINAL,Cohasset,4094,60,1,Mansfield,4230,18,0,South Shore,Hockomock,,,0,,
+2026-02-07,84641,FINAL,Dedham,4108,36,0,Lynnfield/North Reading,4223,46,1,Tri-Valley,Cape Ann,,,0,,
+2026-02-07,84643,FINAL,Brookline,4059,24,0,Lynnfield/North Reading,4223,54,1,Bay State,Cape Ann,,,0,,
+2026-02-07,84650,FINAL,Wayland,4411,42,1,Wakefield,4402,28,0,Dual County,Middlesex,,,0,,
+2026-02-07,84652,FINAL,Wayland,4411,57,1,Latin Academy,4202,6,0,Dual County,Boston City,,,0,,
+2026-02-07,84653,FINAL,Wayland,4411,36,1,Belmont,4034,23,0,Dual County,Middlesex,,,0,,
+2026-02-07,84673,FINAL,Brockton,4058,29,0,Taunton,4388,44,1,Big Three,Hockomock,,,0,,
+2026-02-07,84675,FINAL,Xaverian,4446,31,0,Taunton,4388,41,1,Catholic Conference,Hockomock,,,0,,
+2026-02-07,84676,FINAL,Quincy/North Quincy,4326,11,0,Taunton,4388,68,1,Patriot,Hockomock,,,0,,
+2026-02-07,84677,FINAL,Middleborough,4247,35,0,Taunton,4388,47,1,South Shore,Hockomock,,,0,,
+2026-02-07,84679,FINAL,West Springfield,4417,21,0,Milford,4249,53,1,Independent,Hockomock,,,0,,
+2026-02-07,84680,FINAL,Melrose,4244,36,0,Milford,4249,46,1,Middlesex,Hockomock,,,0,,
+2026-02-07,84681,FINAL,North Attleborough,4284,30,0,Milford,4249,42,1,Hockomock,Hockomock,,,0,,
+2026-02-07,84683,FINAL,Salem (N.H.),4337,32,0,Lowell,4216,42,1,Independent,Merrimack Valley,,,0,,
+2026-02-07,84686,FINAL,Haverhill,4167,36,0,Lowell,4216,43,1,Merrimack Valley,Merrimack Valley,,,0,,
+2026-02-07,84687,FINAL,Chicopee,4088,11,0,Lowell,4216,69,1,Independent,Merrimack Valley,,,0,,
+2026-02-07,84688,FINAL,Newton South,4280,20,0,Lowell,4216,46,1,Dual County,Merrimack Valley,,,0,,
+2026-02-07,84691,FINAL,Franklin County Tech,4145,33,0,Holliston,4174,46,1,Independent,Tri-Valley,,,0,,
+2026-02-07,84694,FINAL,Tewksbury,4389,36,0,Holliston,4174,43,1,Merrimack Valley,Tri-Valley,,,0,,
+2026-02-07,84696,FINAL,Tyngsborough/Dracut,4397,36,0,Holliston,4174,41,1,Mid-Wach,Tri-Valley,,,0,,
+2026-02-07,84698,FINAL,Greater Lawrence,4154,54,1,Reading,4328,27,0,Commonwealth,Middlesex,,,0,,
+2026-02-07,84701,FINAL,Greater Lawrence,4154,42,1,Winchester,4434,33,0,Commonwealth,Middlesex,,,0,,
+2026-02-07,84702,FINAL,Greater Lawrence,4154,55,1,Gloucester,4150,24,0,Commonwealth,Northeastern,,,0,,
+2026-02-10,84852,FINAL,Whitman-Hanson,4427,26,0,Bristol-Plymouth,4057,50,1,Patriot,Mayflower,,,0,,
+2026-02-11,84987,FINAL,Wilmington,4432,17,0,Triton,4395,52,1,Middlesex,Cape Ann,,,0,,
+2026-02-11,85014,FINAL,Lowell,4216,54,1,Chelmsford,4085,13,0,Merrimack Valley,Merrimack Valley,,,0,,
+2026-02-11,85016,FINAL,Quincy/North Quincy,4326,12,0,Weymouth,4425,65,1,Patriot,Bay State,,,0,,
+2026-02-11,85022,FINAL,Northeast/Bishop Fenwick,4293,23,0,Gloucester,4150,57,1,Commonwealth,Northeastern,,,0,,
+2026-02-11,85032,FINAL,Andover,4009,42,1,Haverhill,4167,28,0,Merrimack Valley,Merrimack Valley,,,0,,
+2026-02-11,85035,FINAL,Tewksbury,4389,38,1,Lawrence,4203,33,0,Merrimack Valley,Merrimack Valley,,,0,,
+2026-02-11,85038,FINAL,Shawsheen,4346,55,1,Wellesley,4413,3,0,Commonwealth,Bay State,,,0,,

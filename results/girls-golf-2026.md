@@ -1,6 +1,6 @@
 # Girls Golf - 2026 Season
 
-Generated: 2026-10-29 17:17
+Generated: 2026-10-30 08:10
 
 ## Upcoming Games
 
@@ -53,3 +53,60 @@ Generated: 2026-10-29 17:17
 | 35 | Westborough | 1435.9 |
 | 36 | Silver Lake | 1407.5 |
 | 37 | Worcester | 1341.6 |
+
+## Elo Ratings by Division
+
+
+### Division NCW 1
+
+| Division Rank | Team | Elo Rating | Overall Rank |
+|---------------|------|------------|--------------|
+| 1 | Wellesley | 1701.3 | 1 |
+| 2 | Hopkinton | 1699.2 | 2 |
+| 3 | Malden Catholic | 1575.3 | 4 |
+| 4 | Notre Dame (Tyngsborough) | 1563.4 | 7 |
+| 5 | Ursuline | 1535.2 | 9 |
+| 6 | Auburn | 1530.8 | 11 |
+| 7 | Quabbin | 1507.2 | 13 |
+| 8 | Nashoba | 1502.4 | 14 |
+| 9 | Brookline | 1469.9 | 23 |
+| 10 | Needham | 1463.8 | 25 |
+| 11 | Notre Dame (Worcester) | 1443.3 | 31 |
+| 12 | Fontbonne | 1440.8 | 32 |
+| 13 | Wachusett | 1438.9 | 33 |
+| 14 | Westborough | 1435.9 | 35 |
+| 15 | Worcester | 1341.6 | 37 |
+
+### Division S 1
+
+| Division Rank | Team | Elo Rating | Overall Rank |
+|---------------|------|------------|--------------|
+| 1 | Bishop Feehan | 1612.6 | 3 |
+| 2 | Barnstable | 1567.3 | 5 |
+| 3 | Martha’s Vineyard | 1566.8 | 6 |
+| 4 | Nauset | 1553.6 | 8 |
+| 5 | Walpole | 1534.8 | 10 |
+| 6 | Duxbury | 1518.8 | 12 |
+| 7 | Scituate | 1501.2 | 15 |
+| 8 | Hingham | 1500.0 | 16 |
+| 9 | Monomoy | 1492.4 | 17 |
+| 10 | Braintree | 1490.6 | 19 |
+| 11 | Newton North | 1482.6 | 20 |
+| 12 | Notre Dame (Hingham) | 1472.3 | 22 |
+| 13 | Dennis-Yarmouth | 1469.2 | 24 |
+| 14 | Framingham | 1462.7 | 26 |
+| 15 | Archbishop Williams | 1461.7 | 27 |
+| 16 | Falmouth | 1454.0 | 28 |
+| 17 | Weymouth | 1451.0 | 29 |
+| 18 | North Quincy/Quincy | 1450.3 | 30 |
+| 19 | Cohasset | 1436.0 | 34 |
+| 20 | Silver Lake | 1407.5 | 36 |
+
+### Other teams
+
+Non-MIAA opponents and teams without a known division.
+
+| Team | Elo Rating | Overall Rank | Status |
+|------|------------|--------------|--------|
+| Quincy | 1490.8 | 18 | unknown |
+| Marshfield | 1474.7 | 21 | unknown |

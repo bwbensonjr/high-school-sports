@@ -1,5 +1,5 @@
-team,elo
-Springfield Central,1550.205099986591
-North Andover,1509.2075116324618
-Greater Lawrence,1470.397720870392
-Framingham,1470.1896675105552
+team,elo,team_id,overall_rank,division,division_status,division_rank
+Springfield Central,1550.205099986591,4360,1,,unknown,
+North Andover,1509.2075116324618,4283,2,,unknown,
+Greater Lawrence,1470.397720870392,4154,3,,unknown,
+Framingham,1470.1896675105552,4143,4,,unknown,

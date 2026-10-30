@@ -1,6 +1,6 @@
 # Girls Squash - 2025 Season
 
-Generated: 2026-10-29 17:17
+Generated: 2026-10-30 08:10
 
 ## Upcoming Games
 
@@ -18,3 +18,7 @@ Generated: 2026-10-29 17:17
 |------|------|------------|
 | 1 | Dana Hall | 1517.8 |
 | 2 | St. Mark’s | 1482.2 |
+
+## Elo Ratings by Division
+
+*MIAA division data is unavailable for this sport and season.*

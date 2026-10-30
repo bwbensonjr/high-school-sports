@@ -1,0 +1,637 @@
+team_id,team_name,sport,school,status,method,confirmed,note
+5149,ADK United,,,non-member,manual,True,out-of-state (N.Y.)
+4503,Abby Kelley Foster,,Abby Kelley Foster Regional Charter H,member,tourney,True,score 1.67; alternates: Argosy Collegiate Charter School (1.07); Edward Kennedy Acad for Health Career (1.04)
+4002,Abington,,Abington High School,member,auto,True,exact normalized match
+5066,Academie Saint-Louis (Que.),,,non-member,auto,True,out-of-state
+5237,Academy of Holy Names (N.Y.),,,non-member,auto,True,out-of-state
+5038,Academy/Pacific Rim,,Academy of the Pacific Rim,member,tourney,True,score 1.55; alternates: Academy of Notre Dame (1.09); Salem Academy Charter School (1.05)
+4003,Acton-Boxborough,,Acton-Boxborough Reg H.S.,member,auto,True,exact normalized match
+4595,Advanced Math and Science,,Advanced Math & Science Acad.,member,tourney,True,score 1.74; alternates: Advanced Math & Science Acad. Charter (1.61); Cathedral High School (0.93)
+4004,Agawam,,Agawam High School,member,auto,True,exact normalized match
+4623,Albany Academy,,,non-member,tourney,True,NEPSAC tournament team
+4005,Algonquin,,Algonquin Reg. High School,member,auto,True,exact normalized match
+4007,Amesbury,,Amesbury High School,member,auto,True,exact normalized match
+4008,Amherst-Pelham,,Amherst-Pelham Reg High School,member,auto,True,exact normalized match
+4009,Andover,,Andover High School,member,auto,True,exact normalized match
+4011,Apponequet,,Apponequet Regional H.S.,member,auto,True,exact normalized match
+4743,Archbishop Stepinac (N.Y.),,,non-member,auto,True,out-of-state
+4012,Archbishop Williams,,Archbishop Williams High School,member,auto,True,exact normalized match
+5032,Argosy Collegiate,,Argosy Collegiate Charter School,member,tourney,True,score 1.66; alternates: Boston Collegiate Charter School (1.22); KIPP Academy Lynn Collegiate (1.18)
+4013,Arlington,,Arlington High School,member,auto,True,exact normalized match
+4014,Arlington Catholic,,Arlington Catholic High School,member,auto,True,exact normalized match
+4015,Ashland,,Ashland High School,member,auto,True,exact normalized match
+4016,Assabet,,Assabet Valley Reg Tech HS,member,tourney,True,score 1.39; alternates: Joseph Case High School (0.93); Academy of Notre Dame (0.92)
+4017,Athol,,Athol High School,member,auto,True,exact normalized match
+4818,Atlantis Charter,,Atlantis Charter School,member,auto,True,exact normalized match
+4018,Attleboro,,Attleboro High School,member,auto,True,exact normalized match
+4019,Auburn,,Auburn High School,member,auto,True,exact normalized match
+4020,Austin Prep,,,non-member,tourney,True,NEPSAC tournament team
+4460,Avon,,Avon Mid/High School,member,tourney,True,score 1.47; alternates: Monson High School (1.00); David Prouty High School (0.97)
+4021,Avon Old Farms,,,non-member,tourney,True,NEPSAC tournament team
+4022,Ayer Shirley,,Ayer Shirley Regional High School,member,auto,True,exact normalized match
+4028,BB&N,,,non-member,tourney,True,NEPSAC tournament team
+4029,BC High,,Boston College High School,member,manual,True,reviewed
+4063,BU Academy,,,non-member,auto,True,MBIL independent school
+4023,Bancroft,,,non-member,tourney,True,NEPSAC tournament team
+4024,Barnstable,,Barnstable High School,member,auto,True,exact normalized match
+4025,Barrington (R.I.),,,non-member,auto,True,out-of-state
+4026,Bartlett,,Bartlett High School,member,auto,True,exact normalized match
+5128,Batson Academy,,Ruth Batson Academy,member,manual,True,reviewed
+5128,Batson Academy,baseball,Excel High School,member,manual,True,co-op guest of Excel High School
+4027,Bay Path,,Bay Path RVT High School,member,tourney,True,score 1.65; alternates: Libertas Academy Charter School (0.97); Baystate Academy Charter Public (0.97)
+4846,Baystate Academy,,Baystate Academy Charter Public,member,tourney,True,score 1.65; alternates: Smith Academy (1.29); Dearborn STEM Academy (1.25)
+4030,Beaver Country Day,,,non-member,tourney,True,NEPSAC tournament team
+4031,Bedford,,Bedford High School,member,auto,True,exact normalized match
+5185,Bedford (Mich.),,,non-member,auto,True,out-of-state
+4742,Bedford (N.H.),,,non-member,auto,True,out-of-state
+4032,Belchertown,,Belchertown High School,member,auto,True,exact normalized match
+4033,Bellingham,,Bellingham High School,member,auto,True,exact normalized match
+4034,Belmont,,Belmont High School,member,auto,True,exact normalized match
+4035,Belmont Hill,,,non-member,auto,True,ISL independent school
+5246,Bergen Catholic (N.J.),,,non-member,auto,True,out-of-state
+4036,Berkshire,,,non-member,tourney,True,NEPSAC tournament team
+4037,Berwick,,,non-member,tourney,True,NEPSAC tournament team
+4504,Bethany Christian,,Bethany Christian Academy,member,tourney,True,score 1.66; alternates: Pioneer Valley Christian Academy (1.13); Martha's Vineyard Charter School (1.10)
+4038,Beverly,,Beverly High School,member,auto,True,exact normalized match
+5236,Biddeford (Maine),,,non-member,auto,True,out-of-state
+4040,Billerica,,Billerica Memorial High School,member,auto,True,exact normalized match
+4568,Bishop Brady (N.H.),,,non-member,auto,True,out-of-state
+4041,Bishop Connolly,,,non-member,manual,True,not in 2025-27 MIAA alignments (school closed)
+5274,Bishop England (S.C.),,,non-member,auto,True,out-of-state
+4042,Bishop Feehan,,Bishop Feehan High School,member,auto,True,exact normalized match
+4043,Bishop Fenwick,,Bishop Fenwick High School,member,auto,True,exact normalized match
+4501,Bishop Guertin (N.H.),,,non-member,auto,True,out-of-state
+4044,Bishop Hendricken (R.I.),,,non-member,auto,True,out-of-state
+4045,Bishop Stang,,Bishop Stang High School,member,auto,True,exact normalized match
+4046,Blackstone Valley,,Blackstone Valley Reg Voc/Tech HS,member,tourney,True,score 1.64; alternates: Shawsheen Valley Tech School (1.13); Assabet Valley Reg Tech HS (1.10)
+4486,Blackstone-Millville,,Blackstone-Millville Reg HS,member,auto,True,exact normalized match
+4626,Blair Academy,,,non-member,manual,True,out-of-state prep (N.J.)
+4047,Blue Hills,,Blue Hills Regional Tech Sch.,member,tourney,True,score 1.65; alternates: Leicester High School (1.02); South Hadley High School (0.96)
+4592,Boston Collegiate,,Boston Collegiate Charter School,member,tourney,True,score 1.66; alternates: Argosy Collegiate Charter School (1.22); Boston Prep Charter Public School (1.21)
+4547,Boston International,,Boston International High School,member,auto,True,exact normalized match
+4049,Boston Latin,,Boston Latin School,member,auto,True,exact normalized match
+4655,Boston Prep,,Boston Prep Charter Public School,member,tourney,True,score 1.58; alternates: Roxbury Prep High School (1.12); West Boylston Middle/High School (1.10)
+4542,Boston Trinity,,,non-member,auto,True,MBIL independent school
+4798,Boston United,,Green Academy,member,manual,True,Globe school page slug green-academy
+4050,Bourne,,Bourne High School,member,auto,True,exact normalized match
+4051,Braintree,,Braintree High School,member,auto,True,exact normalized match
+4729,Brattleboro (Vt.),,,non-member,auto,True,out-of-state
+5122,Brewer (Maine),,,non-member,auto,True,out-of-state
+4052,Brewster Academy,,,non-member,tourney,True,NEPSAC tournament team
+4053,Bridgewater-Raynham,,Bridgewater-Raynham Reg High School,member,auto,True,exact normalized match
+4054,Bridgton Academy,,,non-member,tourney,True,NEPSAC tournament team
+4055,Brighton,,Brighton High School,member,auto,True,exact normalized match
+4056,Brimmer & May,,,non-member,tourney,True,NEPSAC tournament team
+4463,Bristol Aggie,,Bristol County Agricultural HS,member,tourney,True,score 1.15; alternates: Brighton High School (1.08); Bartlett High School (1.08)
+5002,Bristol Central (Conn.),,,non-member,auto,True,out-of-state
+4057,Bristol-Plymouth,,Bristol-Plymouth Reg Voc Tech,member,tourney,True,score 1.63; alternates: Amherst-Pelham Reg High School (0.83); Dartmouth High School (0.68)
+4058,Brockton,,Brockton High School,member,auto,True,exact normalized match
+4505,Bromfield,,Bromfield School,member,auto,True,exact normalized match
+5071,Brooke Charter,,Brooke Charter High School,member,auto,True,exact normalized match
+4059,Brookline,,Brookline High School,member,auto,True,exact normalized match
+4060,Brooks,,,non-member,tourney,True,NEPSAC tournament team
+4062,Brunswick,,,non-member,tourney,True,NEPSAC tournament team
+4065,Burlington,,Burlington High School,member,auto,True,exact normalized match
+4066,Burncoat,,Burncoat High School,member,auto,True,exact normalized match
+4715,Burrillville (R.I.),,,non-member,auto,True,out-of-state
+4187,CASH,,Community Academy of Sci & Health,member,manual,True,reviewed
+4828,Calvary Chapel,,Calvary Chapel Academy,member,tourney,True,score 1.63; alternates: Atlantis Charter School (1.13); Salem Academy Charter School (1.06)
+4609,Calvary Christian,,,non-member,manual,True,not in 2025-27 MIAA alignments
+4067,Cambridge,,Cambridge Rindge & Latin Schl.,member,tourney,True,score 1.58; alternates: Brookline High School (1.04); Braintree High School (1.04)
+4069,Cambridge Weston,,,non-member,auto,True,IGC independent school
+4070,Canterbury,,,non-member,tourney,True,NEPSAC tournament team
+4071,Canton,,Canton High School,member,auto,True,exact normalized match
+4072,Cape Cod Academy,,Cape Cod Academy,member,auto,True,exact normalized match
+4073,Cape Cod Tech,,Cape Cod Regional Tech HS,member,auto,True,exact normalized match
+5023,Cape Elizabeth (Maine),,,non-member,auto,True,out-of-state
+4819,Capital Prep (Conn.),,,non-member,auto,True,out-of-state
+4905,Capital Prep Harbor (Conn.),,,non-member,auto,True,out-of-state
+4826,Cardinal Hayes (N.J.),,,non-member,auto,True,out-of-state
+4075,Cardinal Spellman,,Cardinal Spellman High School,member,auto,True,exact normalized match
+4077,Carver,,Carver Middle/High School,member,auto,True,exact normalized match
+4079,Cathedral,,Cathedral High School,member,auto,True,exact normalized match
+4080,Catholic Memorial,,Catholic Memorial School,member,auto,True,exact normalized match
+4497,Central (R.I.),,,non-member,auto,True,out-of-state
+4081,Central Catholic,,Central Catholic High School,member,auto,True,exact normalized match
+5075,Central High (R.I.),,,non-member,auto,True,out-of-state
+4755,Chaminade (N.Y.),,,non-member,auto,True,out-of-state
+4082,Chapel Hill,,,non-member,tourney,True,NEPSAC tournament team
+4084,Charlestown,,Charlestown High School,member,auto,True,exact normalized match
+4085,Chelmsford,,Chelmsford High School,member,auto,True,exact normalized match
+4086,Chelsea,,Chelsea High School,member,auto,True,exact normalized match
+4793,Cheshire (Conn.),,,non-member,auto,True,out-of-state
+4087,Cheshire Academy,,,non-member,tourney,True,NEPSAC tournament team
+4088,Chicopee,,Chicopee High School,member,auto,True,exact normalized match
+4089,Chicopee Comprehensive,,Chicopee Comprehensive HS,member,auto,True,exact normalized match
+4090,Choate,,,non-member,tourney,True,NEPSAC tournament team
+4691,Christian Brothers (N.Y.),,,non-member,auto,True,out-of-state
+4641,Christian Heritage,,,non-member,tourney,True,NEPSAC tournament team
+4959,Ciciro-North Syracuse (N.Y.),,,non-member,auto,True,out-of-state
+4093,Clinton,,Clinton High School,member,auto,True,exact normalized match
+4482,Codman Charter,,Codman Academy Charter Public School,member,tourney,True,score 1.63; alternates: Atlantis Charter School (1.27); Salem Academy Charter School (1.23)
+4094,Cohasset,,Cohasset High School,member,auto,True,exact normalized match
+4986,Collegiate Charter,,Collegiate Charter School of Lowell,member,tourney,True,score 1.69; alternates: Boston Collegiate Charter School (1.69); Argosy Collegiate Charter School (1.69)
+5065,Colonie Central (N.Y.),,,non-member,auto,True,out-of-state
+4361,Commerce,,High School of Commerce,member,auto,True,exact normalized match
+4095,Commonwealth,,,non-member,auto,True,MBIL independent school
+4587,Community Charter,,Community Charter School of,member,auto,True,exact normalized match
+4001,Conard (Conn.),,,non-member,auto,True,out-of-state
+4576,Concord (N.H.),,,non-member,auto,True,out-of-state
+4096,Concord Academy,,,non-member,auto,True,EIL independent school
+4097,Concord-Carlisle,,Concord-Carlisle High School,member,auto,True,exact normalized match
+4629,Covenant Christian,,,non-member,tourney,True,NEPSAC tournament team
+4696,Coventry (R.I.),,,non-member,auto,True,out-of-state
+4100,Cranston West (R.I.),,,non-member,auto,True,out-of-state
+4453,Cristo Rey,,Cristo Rey Boston,member,auto,True,score 0.99; alternates: Notre Dame Cristo Rey HS (0.90); Somerset Berkley Regional High School (0.54)
+4714,Cumberland (R.I.),,,non-member,auto,True,out-of-state
+4101,Cushing,,,non-member,tourney,True,NEPSAC tournament team
+4102,Dana Hall,,,non-member,tourney,True,NEPSAC tournament team
+4103,Danvers,,Danvers High School,member,auto,True,exact normalized match
+4668,Darien (Conn.),,,non-member,auto,True,out-of-state
+4104,Darrow,,,non-member,tourney,True,NEPSAC tournament team
+4105,Dartmouth,,Dartmouth High School,member,auto,True,exact normalized match
+4106,David Prouty,,David Prouty High School,member,auto,True,exact normalized match
+4996,Davies Tech (R.I),,,non-member,auto,True,out-of-state
+5016,Dearborn STEM,,Dearborn STEM Academy,member,tourney,True,score 1.61; alternates: Hampden Charter Sch of Science HS (1.04); Neighborhood House Charter School (1.01)
+4108,Dedham,,Dedham High School,member,auto,True,exact normalized match
+4110,Deerfield,,,non-member,tourney,True,NEPSAC tournament team
+4111,Dennis-Yarmouth,,Dennis-Yarmouth Regional HS,member,auto,True,exact normalized match
+5259,Desoto County (Fla.),,,non-member,auto,True,out-of-state
+4113,Dexter Southfield,,,non-member,tourney,True,NEPSAC tournament team
+4114,Dighton-Rehoboth,,Dighton-Rehoboth Regional HS,member,auto,True,exact normalized match
+4115,Diman,,Diman Regional Voc/Tech HS,member,tourney,True,score 1.38; alternates: Malden High School (0.85); Taunton High School (0.69)
+4116,Doherty,,Doherty Memorial High School,member,auto,True,exact normalized match
+4852,Don Bosco Prep (N.J.),,,non-member,auto,True,out-of-state
+4506,Douglas,,Douglas High School,member,auto,True,exact normalized match
+4118,Dover-Sherborn,,Dover-Sherborn High School,member,auto,True,exact normalized match
+4119,Dracut,,Dracut High School,member,auto,True,exact normalized match
+4120,Drury,,Drury High School,member,auto,True,exact normalized match
+4121,Dublin,,,non-member,manual,True,out-of-state prep (N.H.)
+4843,Duggan Academy,,John J. Duggan Academy,member,tourney,True,score 1.65; alternates: Muniz Academy (1.34); Green Academy (1.34)
+4122,Durfee,,Durfee High School,member,auto,True,exact normalized match
+4123,Duxbury,,Duxbury High School,member,auto,True,exact normalized match
+4733,Eagle Hill,,,non-member,manual,True,independent school
+4125,East Boston,,East Boston High School,member,auto,True,exact normalized match
+4126,East Bridgewater,,East Bridgewater Jr/Sr High School,member,auto,True,exact normalized match
+4834,East Catholic (Conn.),,,non-member,auto,True,out-of-state
+4835,East Greenwich (R.I.),,,non-member,auto,True,out-of-state
+4127,East Longmeadow,,East Longmeadow High School,member,auto,True,exact normalized match
+4130,Easthampton,,Easthampton High School,member,auto,True,exact normalized match
+4989,Ellington (Conn.),,,non-member,auto,True,out-of-state
+4048,English High,,English High School (Boston),member,tourney,True,score 1.22; alternates: Renaissance School (1.04); Greenfield High School (0.95)
+4745,Essex Tech,,Essex North Shore Agric & Tech School,member,tourney,True,score 1.38; alternates: Southeastern Reg. Voc/Tech School (0.92); Worcester Technical High School (0.85)
+4131,Ethel Walker,,,non-member,tourney,True,NEPSAC tournament team
+4132,Everett,,Everett High School,member,auto,True,exact normalized match
+4969,Excel Academy,,Excel Academy Charter High School,member,tourney,True,score 1.61; alternates: Falmouth Academy (1.22); Bethany Christian Academy (1.13)
+4577,Exeter (N.H.),,,non-member,auto,True,out-of-state
+4640,Fairfield Prep (Conn.),,,non-member,auto,True,out-of-state
+4133,Fairhaven,,Fairhaven High School,member,auto,True,exact normalized match
+4134,Falmouth,,Falmouth High School,member,auto,True,exact normalized match
+4855,Falmouth (Maine),,,non-member,auto,True,out-of-state
+4135,Falmouth Academy,,Falmouth Academy,member,auto,True,exact normalized match
+4454,Fellowship Christian,,,non-member,manual,True,not in 2025-27 MIAA alignments
+4492,Fenway,,Fenway High School,member,auto,True,exact normalized match
+5283,Fillmore (N.Y.),,,non-member,auto,True,out-of-state
+4139,Fitchburg,,Fitchburg High School,member,auto,True,exact normalized match
+4447,Fontbonne,,Fontbonne Academy,member,tourney,True,score 1.54; alternates: Leominster High School (1.02); Foxborough High School (1.02)
+4141,Forman,,,non-member,manual,True,out-of-state prep (Conn.)
+4142,Foxborough,,Foxborough High School,member,auto,True,exact normalized match
+4588,Foxborough Charter,,Foxborough Regional Charter School,member,auto,True,exact normalized match
+4143,Framingham,,Framingham High School,member,auto,True,exact normalized match
+4144,Franklin,,Franklin High School,member,auto,True,exact normalized match
+4145,Franklin County Tech,,Franklin County Tech. School,member,auto,True,exact normalized match
+4161,Frederick Gunn (Conn.),,,non-member,auto,True,out-of-state
+4146,Frontier,,Frontier Regional School,member,auto,True,exact normalized match
+4541,Gann Academy,,,non-member,auto,True,MBIL independent school
+4147,Gardner,,Gardner High School,member,auto,True,exact normalized match
+4517,Gateway,,Gateway Reg. High School,member,auto,True,exact normalized match
+5248,Gateway (Fla.),,,non-member,auto,True,out-of-state
+4148,Georgetown,,Georgetown High School,member,auto,True,exact normalized match
+5235,Georgetown Visitation (D.C.),,,non-member,auto,True,out-of-state
+4697,Glastonbury (Conn.),,,non-member,auto,True,out-of-state
+5247,Glens Falls (N.Y.),,,non-member,auto,True,out-of-state
+4150,Gloucester,,Gloucester High School,member,auto,True,exact normalized match
+4151,Gould,,,non-member,manual,True,out-of-state prep (Maine)
+4152,Governor’s Academy,,,non-member,tourney,True,NEPSAC tournament team
+4153,Grafton,,Grafton High School,member,auto,True,exact normalized match
+4520,Granby,,Granby Jr./Sr. High School,member,tourney,True,score 1.75; alternates: Gateway Reg. High School (1.06); Green Academy (1.02)
+5243,Grasso Tech (Conn).,,,non-member,manual,True,out-of-state (Conn.)
+4154,Greater Lawrence,,Greater Lawrence Tech HS,member,tourney,True,score 1.71; alternates: Advanced Math & Science Acad. (0.98); Foxborough Regional Charter School (0.89)
+4155,Greater Lowell,,Greater Lowell Tech HS,member,tourney,True,score 1.70; alternates: Watertown High School (1.12); Norwell High School (1.08)
+4156,Greater New Bedford,,Greater New Bedford RVTHS,member,tourney,True,score 1.71; alternates: Dover-Sherborn High School (1.02); Martha's Vineyard Reg. High Sch. (1.01)
+4157,Greenfield,,Greenfield High School,member,auto,True,exact normalized match
+4158,Greens Farms,,,non-member,tourney,True,NEPSAC tournament team
+4738,Greenwich (Conn.),,,non-member,auto,True,out-of-state
+4159,Greenwich Academy (Conn.),,,non-member,auto,True,out-of-state
+5041,Greenwich CD (Conn.),,,non-member,auto,True,out-of-state
+4544,Groton,,,non-member,auto,True,ISL independent school
+4160,Groton-Dunstable,,Groton-Dunstable Reg. High School,member,auto,True,exact normalized match
+5271,Guilderland (N.Y.),,,non-member,auto,True,out-of-state
+5152,Haldane (N.Y.),,,non-member,auto,True,out-of-state
+4838,Hall (Conn.),,,non-member,auto,True,out-of-state
+4162,Hamden Hall Country Day,,,non-member,tourney,True,NEPSAC tournament team
+4163,Hamilton-Wenham,,Hamilton-Wenham Reg HS,member,auto,True,exact normalized match
+4712,Hampden Charter East,,Hampden Charter Sch of Science HS,member,manual,True,MIAA lists the team under the HS campus; tournament divisions agree
+4985,Hampden Charter West,,Hampden Charter Sch of Science HS,member,manual,True,reviewed
+4518,Hampshire,,Hampshire Regional Middle/High School,member,auto,True,exact normalized match
+4164,Hanover,,Hanover High School,member,auto,True,exact normalized match
+4762,Hanover (N.H.),,,non-member,auto,True,out-of-state
+4166,Harvey (N.Y.),,,non-member,auto,True,out-of-state
+4167,Haverhill,,Haverhill High School,member,auto,True,exact normalized match
+4168,Hebron (Maine),,,non-member,auto,True,out-of-state
+5011,Hillhouse (Conn.),,,non-member,auto,True,out-of-state
+4171,Hingham,,Hingham High School,member,auto,True,exact normalized match
+4172,Holbrook,,Holbrook Middle-High School,member,auto,True,exact normalized match
+4173,Holderness,,,non-member,tourney,True,NEPSAC tournament team
+4064,Holland (Burke),,Albert D Holland Sch of Technology,member,manual,True,reviewed
+4867,Hollis Brookline (N.H.),,,non-member,auto,True,out-of-state
+4174,Holliston,,Holliston High School,member,auto,True,exact normalized match
+4176,Holyoke,,Holyoke High School,member,auto,True,exact normalized match
+4688,Hoosac School,,,non-member,manual,True,out-of-state prep (N.Y.)
+4178,Hoosac Valley,,Hoosac Valley Middle/High School,member,auto,True,exact normalized match
+4496,Hope (R.I.),,,non-member,auto,True,out-of-state
+4507,Hopedale,,Hopedale Jr./Sr. High School,member,tourney,True,score 1.80; alternates: Palmer High School (1.17); Hoosac Valley Middle/High School (1.08)
+4531,Hopkins,,Hopkins Academy,member,tourney,True,score 1.49; alternates: Monson High School (1.06); Hopedale Jr./Sr. High School (1.02)
+4612,Hopkins (Conn.),,,non-member,auto,True,out-of-state
+4180,Hopkinton,,Hopkinton High School,member,auto,True,exact normalized match
+4181,Hotchkiss,,,non-member,tourney,True,NEPSAC tournament team
+5022,Housatonic Regional (Conn.),,,non-member,auto,True,out-of-state
+4182,Hudson,,Hudson High School,member,auto,True,exact normalized match
+4184,Hull,,Hull High School,member,auto,True,exact normalized match
+4186,Hyde,,,non-member,tourney,True,NEPSAC tournament team
+4832,Immaculate Heart of Mary,,Immaculate Heart of Mary School,member,auto,True,exact normalized match
+4690,Innovation Academy,,Innovation Academy Charter School,member,tourney,True,score 1.67; alternates: Falmouth Academy (1.19); Green Academy (1.18)
+4717,International School,,,non-member,manual,True,not in 2025-27 MIAA alignments
+4753,Iona Prep (N.Y.),,,non-member,auto,True,out-of-state
+4190,Ipswich,,Ipswich High School,member,auto,True,exact normalized match
+5234,Jackson-Reed (D.C),,,non-member,auto,True,out-of-state
+4794,Johnston (R.I.),,,non-member,auto,True,out-of-state
+4078,Joseph Case,,Joseph Case High School,member,auto,True,exact normalized match
+4703,KIPP,,KIPP Academy Lynn Collegiate,member,tourney,True,score 1.10; alternates: Rockport High School (0.93); Roxbury Prep High School (0.85)
+4191,Keefe Tech,,Keefe Technical HS,member,tourney,True,score 1.40; alternates: Edward Kennedy Acad for Health Career (0.90); Libertas Academy Charter School (0.89)
+4192,Keene (N.H.),,,non-member,auto,True,out-of-state
+4590,Kennedy Academy,,Edward Kennedy Acad for Health Career,member,manual,True,reviewed
+4193,Kent,,,non-member,tourney,True,NEPSAC tournament team
+4194,Kents Hill,,,non-member,tourney,True,NEPSAC tournament team
+4906,Killingly High,,,non-member,manual,True,out-of-state (Conn.)
+4196,Kimball Union,,,non-member,tourney,True,NEPSAC tournament team
+4199,King (Conn.),,,non-member,auto,True,out-of-state
+4197,King Philip,,King Philip Regional H.S.,member,auto,True,exact normalized match
+4198,Kingswood-Oxford,,,non-member,tourney,True,NEPSAC tournament team
+4201,La Salle (R.I.),,,non-member,auto,True,out-of-state
+4713,Lake Region (Maine),,,non-member,auto,True,out-of-state
+4200,Landmark,,,non-member,tourney,True,NEPSAC tournament team
+4202,Latin Academy,,Boston Latin Academy,member,tourney,True,score 1.64; alternates: Ursuline Academy (1.36); Notre Dame Academy (W) (1.15)
+4203,Lawrence,,Lawrence High School,member,auto,True,exact normalized match
+4204,Lawrence Academy,,,non-member,auto,True,ISL independent school
+4205,Lawrenceville (N.J.),,,non-member,auto,True,out-of-state
+4206,Lee,,Lee Middle/High School,member,auto,True,exact normalized match
+4207,Leicester,,Leicester High School,member,auto,True,exact normalized match
+4532,Lenox,,Lenox Memorial Middle & High School,member,auto,True,exact normalized match
+4208,Leominster,,Leominster High School,member,auto,True,exact normalized match
+4209,Lexington,,Lexington High School,member,auto,True,exact normalized match
+4210,Lexington Christian,,,non-member,tourney,True,NEPSAC tournament team
+5111,Libertas Academy,,Libertas Academy Charter School,member,tourney,True,score 1.65; alternates: Smith Academy (1.29); Hopkins Academy (1.25)
+4682,Lincoln (R.I.),,,non-member,auto,True,out-of-state
+4211,Lincoln-Sudbury,,Lincoln-Sudbury Reg. High School,member,auto,True,exact normalized match
+4212,Littleton,,Littleton High School,member,auto,True,exact normalized match
+4213,Londonderry (N.H.),,,non-member,auto,True,out-of-state
+4214,Longmeadow,,Longmeadow High School,member,auto,True,exact normalized match
+4215,Loomis Chaffee (Conn.),,,non-member,auto,True,out-of-state
+4216,Lowell,,Lowell High School,member,auto,True,exact normalized match
+4217,Lowell Catholic,,Lowell Catholic High School,member,auto,True,exact normalized match
+4218,Ludlow,,Ludlow High School,member,auto,True,exact normalized match
+4219,Lunenburg,,Lunenburg High School,member,auto,True,exact normalized match
+4220,Lynn Classical,,Lynn Classical High School,member,auto,True,exact normalized match
+4221,Lynn English,,Lynn English High School,member,auto,True,exact normalized match
+4222,Lynn Tech,,Lynn Vocational Technical Inst,member,tourney,True,score 1.21; alternates: Frontier Regional School (0.95); Mystic Valley Regional Charter School (0.93)
+4223,Lynnfield,,Lynnfield High School,member,auto,True,exact normalized match
+4594,MATCH Charter,,MATCH Charter High School,member,auto,True,exact normalized match
+4224,MacDuffie,,,non-member,tourney,True,NEPSAC tournament team
+4225,Madison Park,,Madison Park Tech/Voc H.S.,member,tourney,True,score 1.58; alternates: Maynard High School (1.13); Ruth Batson Academy (0.99)
+4226,Mahar,,Mahar Regional School,member,auto,True,exact normalized match
+4473,Maimonides,,Maimonides School,member,auto,True,exact normalized match
+4227,Malden,,Malden High School,member,auto,True,exact normalized match
+4228,Malden Catholic,,Malden Catholic HS,member,auto,True,exact normalized match
+4229,Manchester Essex,,Manchester Essex Reg. High School,member,auto,True,exact normalized match
+4230,Mansfield,,Mansfield High School,member,auto,True,exact normalized match
+4231,Marblehead,,Marblehead High School,member,auto,True,exact normalized match
+4567,Marianapolis,,,non-member,tourney,True,NEPSAC tournament team
+4560,Marie Philip,,,non-member,auto,True,MBIL independent school
+4233,Marlborough,,Marlborough High School,member,auto,True,exact normalized match
+4234,Marshfield,,Marshfield High School,member,auto,True,exact normalized match
+4235,Martha’s Vineyard,,Martha's Vineyard Reg. High Sch.,member,tourney,True,score 1.57; alternates: North Reading High School (1.01); Pittsfield High School (0.98)
+4608,Marvelwood,,,non-member,tourney,True,NEPSAC tournament team
+4236,Masconomet,,Masconomet Reg. High School,member,auto,True,exact normalized match
+4237,Mashpee,,Mashpee Middle/High School,member,auto,True,exact normalized match
+4768,Masters (N.Y.),,,non-member,auto,True,out-of-state
+4622,Master’s (Conn.),,,non-member,auto,True,out-of-state
+4548,Master’s Academy,,,non-member,manual,True,not in 2025-27 MIAA alignments
+4239,Maynard,,Maynard High School,member,auto,True,exact normalized match
+4240,McCann Tech,,McCann Technical High School,member,tourney,True,score 1.41; alternates: Cape Cod Regional Tech HS (1.18); Franklin County Tech. School (1.12)
+4241,Medfield,,Medfield High School,member,auto,True,exact normalized match
+4242,Medford,,Medford High School,member,auto,True,exact normalized match
+4844,Medgar Evers Prep (N.Y.),,,non-member,auto,True,out-of-state
+4243,Medway,,Medway High School,member,auto,True,exact normalized match
+4244,Melrose,,Melrose High School,member,auto,True,exact normalized match
+4245,Merrimack (N.H.),,,non-member,auto,True,out-of-state
+4246,Methuen,,Methuen High School,member,auto,True,exact normalized match
+4910,Middetown (R.I.),,,non-member,auto,True,out-of-state
+4247,Middleborough,,Middleboro High School,member,tourney,True,score 1.62; alternates: Danvers High School (0.90); Albert D Holland Sch of Technology (0.85)
+4727,Middlebury (Vt.),,,non-member,auto,True,out-of-state
+4248,Middlesex,,,non-member,auto,True,ISL independent school
+4249,Milford,,Milford High School,member,auto,True,exact normalized match
+4616,Millbrook (N.Y.),,,non-member,auto,True,out-of-state
+4250,Millbury,,Millbury Mem.Jr./Sr.H.S.,member,tourney,True,score 1.80; alternates: Amesbury High School (1.23); Lunenburg High School (1.07)
+4251,Millis,,Millis High School,member,auto,True,exact normalized match
+4252,Milton,,Milton High School,member,auto,True,exact normalized match
+4253,Milton Academy,,,non-member,auto,True,ISL independent school
+4254,Minnechaug,,Minnechaug Reg. High School,member,auto,True,exact normalized match
+4255,Minuteman,,Minuteman Regional High School,member,auto,True,exact normalized match
+4257,Miss Porter’s,,,non-member,tourney,True,NEPSAC tournament team
+4258,Mohawk Trail,,Mohawk Trail Regional HS/MS,member,tourney,True,score 1.65; alternates: Mahar Regional School (1.07); McCann Technical High School (1.03)
+4706,Monomoy,,Monomoy Regional High School,member,auto,True,exact normalized match
+4880,Monsignor Scanlan (N.Y.),,,non-member,auto,True,out-of-state
+4429,Monson,,Monson High School,member,auto,True,exact normalized match
+4561,Montrose,,,non-member,tourney,True,NEPSAC tournament team
+4259,Monty Tech,,Montachusett RVT High School,member,manual,True,reviewed
+4260,Monument Mtn.,,Monument Mountain Reg HS,member,tourney,True,score 1.43; alternates: Mount Greylock Regional School (1.06); Hamilton-Wenham Reg HS (1.04)
+4261,Moses Brown (R.I.),,,non-member,auto,True,out-of-state
+4728,Mount Anthony (Vt.),,,non-member,auto,True,out-of-state
+4488,Mount St. Charles (R.I.),,,non-member,auto,True,out-of-state
+4533,Mt. Everett,,Mount Everett Reg. High School,member,auto,True,exact normalized match
+4262,Mt. Greylock,,Mount Greylock Regional School,member,auto,True,exact normalized match
+4658,Mt. Hope (R.I.),,,non-member,auto,True,out-of-state
+4495,Mt. Pleasant (R.I.),,,non-member,auto,True,out-of-state
+5018,Muniz,,Muniz Academy,member,tourney,True,score 1.41; alternates: Monson High School (0.96); Community Charter School of (0.96)
+4263,Murdock,,Murdock High School,member,auto,True,exact normalized match
+4264,Mystic Valley,,Mystic Valley Regional Charter School,member,tourney,True,score 1.61; alternates: Ayer Shirley Regional High School (1.08); Blackstone-Millville Reg HS (1.02)
+4659,N.Y. Military Academy,,,non-member,tourney,True,NEPSAC tournament team
+4265,Nantucket,,Nantucket High School,member,auto,True,exact normalized match
+4266,Narragansett,,Narragansett Reg. High School,member,auto,True,exact normalized match
+4267,Nashoba,,Nashoba Reg. High School,member,auto,True,exact normalized match
+4268,Nashoba Valley Tech,,Nashoba Valley Technical High School,member,tourney,True,score 1.24; alternates: Hoosac Valley Middle/High School (1.23); Abby Kelley Foster Regional Charter H (1.13)
+4269,Nashua North (N.H.),,,non-member,auto,True,out-of-state
+4579,Nashua South (N.H.),,,non-member,auto,True,out-of-state
+4270,Natick,,Natick High School,member,auto,True,exact normalized match
+4271,Nauset,,Nauset Reg. High School,member,auto,True,exact normalized match
+4272,Needham,,Needham High School,member,auto,True,exact normalized match
+5035,Neighborhood House Charter,,Neighborhood House Charter School,member,auto,True,exact normalized match
+4273,New Bedford,,New Bedford High School,member,auto,True,exact normalized match
+4275,New Hampton,,,non-member,tourney,True,NEPSAC tournament team
+5088,New Heights Charter,,New Heights Charter School,member,auto,True,exact normalized match
+4494,New Mission,,New Mission High School,member,auto,True,exact normalized match
+4276,Newburyport,,Newburyport High School,member,auto,True,exact normalized match
+4277,Newman School,,,non-member,tourney,True,NEPSAC tournament team
+4278,Newton Country Day,,,non-member,auto,True,EIL independent school
+4279,Newton North,,Newton North High School,member,auto,True,exact normalized match
+4280,Newton South,,Newton South High School,member,auto,True,exact normalized match
+5134,Nichols (N.Y.),,,non-member,auto,True,out-of-state
+4281,Nipmuc,,Nipmuc Regional High School,member,auto,True,exact normalized match
+5118,Niskayuna (N.Y.),,,non-member,auto,True,out-of-state
+4282,Nobles,,,non-member,tourney,True,NEPSAC tournament team
+4458,Norfolk Aggie,,Norfolk County Agricultural,member,tourney,True,score 1.15; alternates: North Brookfield Jr./Sr. HS (0.96); Neighborhood House Charter School (0.96)
+4283,North Andover,,North Andover High School,member,auto,True,exact normalized match
+4284,North Attleborough,,North Attleborough High School,member,auto,True,exact normalized match
+4508,North Brookfield,,North Brookfield Jr./Sr. HS,member,tourney,True,score 1.89; alternates: Southbridge High School (1.12); Holbrook Middle-High School (1.10)
+4814,North Haven (Conn.),,,non-member,auto,True,out-of-state
+4285,North Kingstown (R.I.),,,non-member,auto,True,out-of-state
+4286,North Middlesex,,North Middlesex Regional HS,member,auto,True,exact normalized match
+4287,North Quincy,,North Quincy High School,member,auto,True,exact normalized match
+4288,North Reading,,North Reading High School,member,auto,True,exact normalized match
+4290,North Yarmouth (Maine),,,non-member,auto,True,out-of-state
+4291,Northampton,,Northampton High School,member,auto,True,exact normalized match
+4292,Northbridge,,Northbridge High School,member,auto,True,exact normalized match
+4293,Northeast,,Northeast Metro. Reg. Voc. School,member,tourney,True,score 1.49; alternates: Brooke Charter High School (0.95); Immaculate Heart of Mary School (0.93)
+4294,Northfield Mt. Hermon,,,non-member,tourney,True,NEPSAC tournament team
+4676,Northwood (N.Y.),,,non-member,auto,True,out-of-state
+4295,Norton,,Norton High School,member,auto,True,exact normalized match
+4296,Norwell,,Norwell High School,member,auto,True,exact normalized match
+4652,Norwich Free Academy,,,non-member,manual,True,out-of-state (Conn.)
+4297,Norwood,,Norwood Senior High School,member,auto,True,exact normalized match
+4449,Notre Dame (Hingham),,Notre Dame Academy (H),member,tourney,True,score 1.32; alternates: Hingham High School (0.99); Reading Memorial High School (0.91)
+4540,Notre Dame (Tyngsborough),,Academy of Notre Dame,member,tourney,True,score 1.09; alternates: Veritas Prepartory Charter School (0.93); Upper Cape Cod RVT School (0.89)
+4647,Notre Dame (West Haven),,,non-member,manual,True,out-of-state (Conn.)
+4451,Notre Dame (Worcester),,Notre Dame Academy (W),member,tourney,True,score 1.20; alternates: Old Rochester Reg. High School (1.15); Gloucester High School (1.07)
+5127,Notre Dame Cristo Rey,,Notre Dame Cristo Rey HS,member,auto,True,exact normalized match
+5299,Oak Ridge (Calif.),,,non-member,auto,True,out-of-state
+4299,Oakmont,,Oakmont Regional High School,member,auto,True,exact normalized match
+5280,Oceanside (S.C.),,,non-member,auto,True,out-of-state
+4300,Old Colony,,Old Colony Reg Voc/Tech HS,member,tourney,True,score 1.54; alternates: Notre Dame Cristo Rey HS (0.99); Calvary Chapel Academy (0.91)
+4301,Old Rochester,,Old Rochester Reg. High School,member,auto,True,exact normalized match
+4302,Oliver Ames,,Oliver Ames High School,member,auto,True,exact normalized match
+4303,Oxford,,Oxford High School,member,auto,True,exact normalized match
+4833,Oyster River (N.H.),,,non-member,auto,True,out-of-state
+4298,O’Bryant,,O'Bryant High School,member,tourney,True,score 1.53; alternates: Foxborough Regional Charter School (1.00); Northeast Metro. Reg. Voc. School (0.91)
+4478,Pacific Rim Charter,,Academy of the Pacific Rim,member,manual,True,reviewed
+4304,Palmer,,Palmer High School,member,auto,True,exact normalized match
+4483,Parker Charter,,Parker Charter Essential School,member,tourney,True,score 1.59; alternates: MATCH Charter High School (1.27); Boston Prep Charter Public School (1.27)
+4305,Pathfinder,,Pathfinder RVT High School,member,tourney,True,score 1.68; alternates: Southbridge High School (1.08); Pioneer Valley Regional School (1.02)
+4306,Peabody,,Peabody Vet. Mem. High School,member,tourney,True,score 1.78; alternates: Westborough High School (0.93); Brockton High School (0.87)
+4307,Pelham (N.H.),,,non-member,auto,True,out-of-state
+4308,Pembroke,,Pembroke High School,member,auto,True,exact normalized match
+4853,Penguin Hall,,,non-member,manual,True,independent school
+4309,Pentucket,,Pentucket Reg. High School,member,auto,True,exact normalized match
+4310,Phillips Andover,,,non-member,tourney,True,NEPSAC tournament team
+4311,Phillips Exeter,,,non-member,tourney,True,NEPSAC tournament team
+4656,Pilgrim (R.I.),,,non-member,auto,True,out-of-state
+4312,Pingree,,,non-member,tourney,True,NEPSAC tournament team
+4313,Pinkerton (N.H.),,,non-member,auto,True,out-of-state
+4701,Pioneer Charter I,,Pioneer Charter School of Science,member,tourney,True,score 1.45; alternates: Pioneer Charter School of Science II (1.39); Pioneer Valley Regional School (1.25)
+4964,Pioneer Charter II,,Pioneer Charter School of Science II,member,tourney,True,score 1.67; alternates: Pioneer Charter School of Science (1.43); Pioneer Valley Regional School (1.23)
+4536,Pioneer Valley,,Pioneer Valley Regional School,member,auto,True,exact normalized match
+4955,Pioneer Valley Chinese Immersion,,Pioneer Valley Chinese Immersion,member,auto,True,exact normalized match
+4535,Pioneer Valley Christian,,Pioneer Valley Christian Academy,member,tourney,True,score 1.71; alternates: Pioneer Valley Regional School (1.34); Pioneer Charter School of Science (1.15)
+4314,Pittsfield,,Pittsfield High School,member,auto,True,exact normalized match
+4315,Plymouth North,,Plymouth North High School,member,auto,True,exact normalized match
+4316,Plymouth South,,Plymouth South High School,member,auto,True,exact normalized match
+4317,Pomfret,,,non-member,tourney,True,NEPSAC tournament team
+4796,Pope Francis,,Pope Francis Preparatory School,member,tourney,True,score 1.52; alternates: Notre Dame Academy (W) (0.91); Bishop Fenwick High School (0.84)
+5264,Port Charlotte (Fla.),,,non-member,auto,True,out-of-state
+4493,Portland/So. Portland (Maine),,,non-member,auto,True,out-of-state
+4649,Portsmouth (N.H.),,,non-member,auto,True,out-of-state
+4319,Portsmouth (R.I.),,,non-member,auto,True,out-of-state
+4320,Portsmouth Abbey,,,non-member,tourney,True,NEPSAC tournament team
+4916,Poughkeepsie Day (N.Y.),,,non-member,auto,True,out-of-state
+4321,Proctor,,,non-member,tourney,True,NEPSAC tournament team
+4593,Prospect Hill,,Prospect Hill Academy Charter School,member,tourney,True,score 1.47; alternates: Hoosac Valley Middle/High School (1.06); Norfolk County Agricultural (1.00)
+4323,Providence Country Day,,,non-member,manual,True,out-of-state prep (R.I.)
+4362,Putnam,,Putnam Voc/Tech High School,member,tourney,True,score 1.42; alternates: Ruth Batson Academy (1.00); Immaculate Heart of Mary School (0.90)
+4325,Quabbin,,Quabbin Regional High School,member,auto,True,exact normalized match
+4510,Quaboag,,Quaboag Regional Middle/High School,member,auto,True,exact normalized match
+4326,Quincy,,Quincy High School,member,auto,True,exact normalized match
+4515,Quincy Upper,,Quincy Upper School,member,auto,True,exact normalized match
+4327,Randolph,,Randolph High School,member,auto,True,exact normalized match
+4328,Reading,,Reading Memorial High School,member,auto,True,exact normalized match
+4664,Renaissance,,Renaissance School,member,auto,True,exact normalized match
+4329,Revere,,Revere High School,member,auto,True,exact normalized match
+4746,Rising Tide Charter,,Rising Tide Charter Public School,member,auto,True,exact normalized match
+4330,Rivers,,,non-member,tourney,True,NEPSAC tournament team
+4957,Riverview School,,Riverview School,member,auto,True,exact normalized match
+4331,Rockland,,Rockland High School,member,auto,True,exact normalized match
+4490,Rockport,,Rockport High School,member,auto,True,exact normalized match
+4332,Rocky Hill Country Day,,,non-member,tourney,True,NEPSAC tournament team
+4334,Roxbury Latin,,,non-member,auto,True,ISL independent school
+4847,Roxbury Prep,,Roxbury Prep High School,member,auto,True,exact normalized match
+4795,Ruth Batson Academy,,Ruth Batson Academy,member,auto,True,exact normalized match
+4335,Rutland (Vt.),,,non-member,auto,True,out-of-state
+4462,Sacred Heart,,,non-member,manual,True,not in 2025-27 MIAA alignments
+4586,Sacred Heart (Conn.),,,non-member,auto,True,out-of-state
+4336,Salem,,Salem High School,member,auto,True,exact normalized match
+4337,Salem (N.H.),,,non-member,auto,True,out-of-state
+4604,Salem Academy,,Salem Academy Charter School,member,tourney,True,score 1.76; alternates: Smith Academy (1.37); Muniz Academy (1.29)
+4339,Salisbury (Conn.),,,non-member,auto,True,out-of-state
+4340,Sandwich,,Sandwich High School,member,auto,True,exact normalized match
+4341,Saugus,,Saugus Middle/High School,member,auto,True,exact normalized match
+4859,Scarborough (Maine),,,non-member,auto,True,out-of-state
+4343,Scituate,,Scituate High School,member,auto,True,exact normalized match
+5257,Scituate (R.I.),,,non-member,auto,True,out-of-state
+4344,Seekonk,,Seekonk High School,member,auto,True,exact normalized match
+5033,Shaker (N.Y.),,,non-member,auto,True,out-of-state
+4345,Sharon,,Sharon High School,member,auto,True,exact normalized match
+4346,Shawsheen,,Shawsheen Valley Tech School,member,tourney,True,score 1.45; alternates: Salem High School (1.03); Saugus Middle/High School (1.00)
+4347,Shepherd Hill,,Shepherd Hill Regional HS,member,auto,True,exact normalized match
+4348,Shrewsbury,,Shrewsbury High School,member,auto,True,exact normalized match
+4349,Silver Lake,,Silver Lake Reg. High School,member,auto,True,exact normalized match
+4700,Simsbury (Conn.),,,non-member,auto,True,out-of-state
+4509,Sizer,,Sizer School,member,auto,True,exact normalized match
+4538,Smith Academy,,Smith Academy,member,auto,True,exact normalized match
+4539,Smith Voc.,,Smith Vocational and Agricultural HS,member,tourney,True,score 1.07; alternates: Ruth Batson Academy (0.96); Community Charter School of (0.91)
+4657,Smithfield (R.I.),,,non-member,auto,True,out-of-state
+4452,Snowden,,Snowden Int'l School @ Copley,member,tourney,True,score 1.33; alternates: Southbridge High School (1.04); Charlestown High School (1.04)
+4350,Somerset Berkley,,Somerset Berkley Regional High School,member,auto,True,exact normalized match
+4351,Somerville,,Somerville High School,member,auto,True,exact normalized match
+5286,Souhegan (N.H.),,,non-member,auto,True,out-of-state
+4352,South Boston,,Excel High School,member,manual,True,reviewed
+5089,South County Storm (R.I.).,,,non-member,auto,True,out-of-state
+4353,South Hadley,,South Hadley High School,member,auto,True,exact normalized match
+4962,South High,,South High Community School,member,manual,True,same school as Worcester South (4444)
+4354,South Kent,,,non-member,tourney,True,NEPSAC tournament team
+4484,South Lancaster,,South Lancaster Academy,member,auto,True,score 1.19; alternates: South Hadley High School (0.59); South Shore Charter Public School (0.59)
+4589,South Shore Charter,,South Shore Charter Public School,member,auto,True,exact normalized match
+4489,South Shore Christian,,,non-member,manual,True,not in 2025-27 MIAA alignments
+4356,South Shore Voc-Tech,,South Shore Voc/Tech. HS,member,tourney,True,score 1.55; alternates: Northeast Metro. Reg. Voc. School (1.06); Southwick Regional School (1.01)
+4566,South Windsor (Conn.),,,non-member,auto,True,out-of-state
+4357,Southbridge,,Southbridge High School,member,auto,True,exact normalized match
+4358,Southeastern,,Southeastern Reg. Voc/Tech School,member,tourney,True,score 1.58; alternates: Worcester Technical High School (1.05); Cathedral High School (0.98)
+4519,Southwick,,Southwick Regional School,member,auto,True,exact normalized match
+4360,Springfield Central,,Springfield Central High School,member,auto,True,exact normalized match
+4480,Springfield International,,Springfield Int'l Charter School,member,tourney,True,score 1.43; alternates: Springfield HS of Sci. and Tech. (1.12); Ursuline Academy (0.89)
+4363,Springfield Sci-Tech,,Springfield HS of Sci. and Tech.,member,auto,True,exact normalized match
+4364,St. Andrew’s,,,non-member,tourney,True,NEPSAC tournament team
+4754,St. Anthony’s (N.Y.),,,non-member,auto,True,out-of-state
+4365,St. Bernard’s,,Saint Bernard's High School,member,tourney,True,score 1.56; alternates: Maimonides School (1.02); Sturgis Charter School West (0.95)
+5240,St. Dominic (N.Y.),,,non-member,auto,True,out-of-state
+4752,St. Francis Prep (N.Y.),,,non-member,auto,True,out-of-state
+4367,St. George’s,,,non-member,tourney,True,NEPSAC tournament team
+5249,St. John Neumann (Fla.),,,non-member,auto,True,out-of-state
+4689,St. John Paul II,,Saint John Paul II High School,member,auto,True,exact normalized match
+4368,St. John’s (Shrewsbury),,Saint John's High School,member,manual,True,reviewed
+4369,St. John’s Prep,,Saint John's Preparatory School,member,tourney,True,score 1.39; alternates: Saint John's High School (1.37); Arlington High School (1.08)
+4618,St. Luke’s,,,non-member,tourney,True,NEPSAC tournament team
+4372,St. Mark’s,,,non-member,auto,True,ISL independent school
+4537,St. Mary (Westfield),,Saint Mary's High School (Westfield),member,auto,True,exact normalized match
+4374,St. Mary’s,,Saint Mary's High School,member,tourney,True,score 1.55; alternates: Fontbonne Academy (0.96); Albert D Holland Sch of Technology (0.86)
+4954,St. Paul,,Saint Paul Diocesan Jr/Sr HS,member,tourney,True,score 1.54; alternates: Cathedral High School (1.02); Boston Latin Academy (1.00)
+4375,St. Paul’s,,,non-member,tourney,True,NEPSAC tournament team
+4378,St. Sebastian’s,,,non-member,tourney,True,NEPSAC tournament team
+4856,St. Thomas Aquinas (N.H.),,,non-member,auto,True,out-of-state
+5182,St. Thomas Aquinas (N.J.),,,non-member,auto,True,out-of-state
+4379,St. Thomas More,,,non-member,tourney,True,NEPSAC tournament team
+4931,Stanstead (Canada),,,non-member,auto,True,out-of-state
+4651,Staples (Conn.),,,non-member,auto,True,out-of-state
+4380,Stoneham,,Stoneham High School,member,auto,True,exact normalized match
+4585,Stoneleigh-Burnham,,,non-member,tourney,True,NEPSAC tournament team
+4797,Storm King,,,non-member,manual,True,out-of-state prep (N.Y.)
+4381,Stoughton,,Stoughton High School,member,auto,True,exact normalized match
+4456,Sturgis East,,Sturgis Charter School East,member,tourney,True,score 1.60; alternates: Sturgis Charter School West (1.29); Manchester Essex Reg. High School (1.03)
+4456,Sturgis East,boys-tennis,Sturgis Charter School West,member,manual,True,co-op hosted by Sturgis West
+4735,Sturgis West,,Sturgis Charter School West,member,tourney,True,score 1.60; alternates: Sturgis Charter School East (1.29); Westport Middle High School (1.00)
+4382,Suffield Academy,,,non-member,tourney,True,NEPSAC tournament team
+5270,Summit (N.J.),,,non-member,auto,True,out-of-state
+4512,Sutton,,Sutton High School,member,auto,True,exact normalized match
+4383,Swampscott,,Swampscott High School,member,auto,True,exact normalized match
+4384,Tabor,,,non-member,tourney,True,NEPSAC tournament team
+4385,Taconic,,Taconic High School,member,auto,True,exact normalized match
+4386,Taft,,,non-member,tourney,True,NEPSAC tournament team
+4513,Tahanto,,Tahanto Regional Middle/High School,member,auto,True,exact normalized match
+5277,Tamarac (N.Y.),,,non-member,auto,True,out-of-state
+4387,Tantasqua,,Tantasqua Regional Senior High School,member,auto,True,exact normalized match
+4388,Taunton,,Taunton High School,member,auto,True,exact normalized match
+4117,TechBoston,,Tech Boston Academy,member,tourney,True,score 1.29; alternates: English High School (Boston) (1.27); Brighton High School (1.04)
+4389,Tewksbury,,Tewksbury Memorial High School,member,auto,True,exact normalized match
+4390,Thayer,,,non-member,tourney,True,NEPSAC tournament team
+4391,Tilton,,,non-member,manual,True,out-of-state prep (N.H.)
+4502,Timberlane (N.H.),,,non-member,auto,True,out-of-state
+4643,Tiverton (R.I.),,,non-member,auto,True,out-of-state
+4836,Toll Gate (R.I.),,,non-member,auto,True,out-of-state
+4645,Tolman (R.I.),,,non-member,auto,True,out-of-state
+4392,Tri-County,,Tri-County RVT High School,member,tourney,True,score 1.68; alternates: Bethany Christian Academy (0.94); Greater Lawrence Tech HS (0.92)
+4580,Trinity (N.H.),,,non-member,auto,True,out-of-state
+4801,Trinity Christian,,,non-member,manual,True,not in 2025-27 MIAA alignments
+4394,Trinity-Pawling,,,non-member,auto,True,NEPSAC Class B independent school
+4395,Triton,,Triton Regional High School,member,auto,True,exact normalized match
+4686,Trivium,,Trivium School,member,auto,True,exact normalized match
+4396,Turners Falls,,Turners Falls High School,member,auto,True,exact normalized match
+4397,Tyngsborough,,Tyngsborough High School,member,auto,True,exact normalized match
+4514,University Park,,University Park Campus,member,tourney,True,score 1.66; alternates: Turners Falls High School (1.10); Community Charter School of (1.10)
+4457,Upper Cape,,Upper Cape Cod RVT School,member,tourney,True,score 1.56; alternates: Dearborn STEM Academy (0.99); Ruth Batson Academy (0.94)
+4448,Ursuline,,Ursuline Academy,member,tourney,True,score 1.52; alternates: Auburn High School (1.03); Martha's Vineyard Reg. High Sch. (0.95)
+4868,Ursuline (Mo.),,,non-member,auto,True,out-of-state
+5151,Ursuline (Texas),,,non-member,manual,True,out-of-state (Texas)
+4398,Uxbridge,,Uxbridge High School,member,auto,True,exact normalized match
+5040,Veritas Prep,,Veritas Prepartory Charter School,member,tourney,True,score 1.23; alternates: University Park Campus (1.13); Libertas Academy Charter School (1.04)
+4399,Vermont Academy,,,non-member,tourney,True,NEPSAC tournament team
+4864,Viera (Fla.),,,non-member,auto,True,out-of-state
+4400,Wachusett,,Wachusett Regional High School,member,auto,True,exact normalized match
+4401,Wahconah,,Wahconah Regional High School,member,auto,True,exact normalized match
+4402,Wakefield,,Wakefield Memorial High School,member,auto,True,exact normalized match
+4404,Walpole,,Walpole High School,member,auto,True,exact normalized match
+4405,Waltham,,Waltham High School,member,auto,True,exact normalized match
+5269,Ward Melville (N.Y.),,,non-member,auto,True,out-of-state
+4406,Ware,,Ware Jr/Sr High School,member,auto,True,exact normalized match
+4407,Wareham,,Wareham High School,member,auto,True,exact normalized match
+4408,Waring,,,non-member,auto,True,MBIL independent school
+4409,Watertown,,Watertown High School,member,auto,True,exact normalized match
+4410,Watkinson,,,non-member,tourney,True,NEPSAC tournament team
+4411,Wayland,,Wayland High School,member,auto,True,exact normalized match
+4413,Wellesley,,Wellesley High School,member,auto,True,exact normalized match
+4414,West Boylston,,West Boylston Middle/High School,member,auto,True,exact normalized match
+4415,West Bridgewater,,West Bridgewater Mid/Sr. HS,member,tourney,True,score 1.82; alternates: Northbridge High School (1.12); Westport Middle High School (1.10)
+4417,West Springfield,,West Springfield High School,member,auto,True,exact normalized match
+4418,Westborough,,Westborough High School,member,auto,True,exact normalized match
+4908,Westerly (R.I.),,,non-member,auto,True,out-of-state
+4419,Westfield,,Westfield High School,member,auto,True,exact normalized match
+4420,Westfield Tech,,Westfield Technical Academy,member,tourney,True,score 1.43; alternates: Keefe Technical HS (1.15); Sturgis Charter School East (0.95)
+4421,Westford,,Westford Academy,member,tourney,True,score 1.67; alternates: Chelmsford High School (1.27); Medford High School (1.16)
+4422,Westminster,,,non-member,tourney,True,NEPSAC tournament team
+4423,Weston,,Weston High School,member,auto,True,exact normalized match
+4461,Westport,,Westport Middle High School,member,auto,True,exact normalized match
+4424,Westwood,,Westwood High School,member,auto,True,exact normalized match
+4425,Weymouth,,Weymouth High School,member,auto,True,exact normalized match
+4426,Wheeler (R.I.),,,non-member,auto,True,out-of-state
+4487,Whitinsville Christian,,Whitinsville Christian School,member,auto,True,exact normalized match
+4427,Whitman-Hanson,,Whitman-Hanson Regional HS,member,auto,True,exact normalized match
+4428,Whittier,,Whittier RVT High School,member,tourney,True,score 1.65; alternates: Pittsfield High School (1.16); Watertown High School (1.07)
+4545,Wilbraham & Monson,,,non-member,tourney,True,NEPSAC tournament team
+4430,Williams (Conn.),,,non-member,auto,True,out-of-state
+4431,Williston Northampton,,,non-member,tourney,True,NEPSAC tournament team
+4432,Wilmington,,Wilmington High School,member,auto,True,exact normalized match
+4433,Winchendon,,,non-member,tourney,True,NEPSAC tournament team
+4434,Winchester,,Winchester High School,member,auto,True,exact normalized match
+4718,Windham (N.H.),,,non-member,auto,True,out-of-state
+4654,Windsor (Conn.),,,non-member,auto,True,out-of-state
+4436,Winsor,,,non-member,tourney,True,NEPSAC tournament team
+4437,Winthrop,,Winthrop High School,member,auto,True,exact normalized match
+4438,Woburn,,Woburn Memorial High School,member,auto,True,exact normalized match
+4543,Woodward,,,non-member,auto,True,IGC independent school
+4673,Woonsocket (R.I.),,,non-member,auto,True,out-of-state
+4440,Wooster,,,non-member,manual,True,out-of-state prep (Conn.)
+4441,Worcester Academy,,,non-member,manual,True,NEPSAC independent school
+4443,Worcester North,,North High School,member,manual,True,MIAA lists Worcester North as North High School
+4443,Worcester North,girls-tennis,Worcester North,member,manual,True,girls tennis lists the school as Worcester North
+4444,Worcester South,,South High Community School,member,tourney,True,score 1.08; alternates: Worcester North (1.02); Barnstable High School (0.92)
+4445,Worcester Tech,,Worcester Technical High School,member,tourney,True,score 1.60; alternates: Southeastern Reg. Voc/Tech School (1.23); Greater Lowell Tech HS (1.21)
+4446,Xaverian,,Xaverian Brothers High School,member,tourney,True,score 1.49; alternates: Andover High School (1.13); Arlington High School (1.07)
+4584,Xavier (Conn.),,,non-member,auto,True,out-of-state
+4858,York (Maine),,,non-member,auto,True,out-of-state
