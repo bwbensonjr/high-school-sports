@@ -6,6 +6,10 @@ import argparse
 from datetime import datetime, timedelta
 from pathlib import Path
 
+def is_completed_status(status):
+    """FINAL results and forfeit rulings may replace a FINAL row; pre-game statuses may not."""
+    return status == "FINAL" or str(status).startswith("FORFEIT")
+
 def process_games_json(data):
     """Convert JSON data to per-sport CSV files."""
 
@@ -70,6 +74,14 @@ def process_games_json(data):
             # If file exists, append and remove duplicates, otherwise create new
             if csv_filename.exists():
                 existing_df = pd.read_csv(csv_filename)
+                # Re-fetching an older window can return a game's stale entry, such as a
+                # rescheduled game still POSTPONED on its original date; never let that
+                # replace a completed result
+                final_ids = existing_df.loc[existing_df["status"] == "FINAL", "game_id"]
+                stale = df["game_id"].isin(final_ids) & ~df["status"].map(is_completed_status)
+                if stale.any():
+                    print(f"Kept {stale.sum()} FINAL games in {csv_filename} over stale re-fetched entries")
+                    df = df[~stale]
                 combined_df = pd.concat([existing_df, df], ignore_index=True)
                 # Remove duplicates based on game_id
                 combined_df = combined_df.drop_duplicates(subset=['game_id'], keep='last')
