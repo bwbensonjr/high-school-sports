@@ -1,6 +1,6 @@
 # Boys Hockey - 2026 Season
 
-Generated: 2026-10-30 08:10
+Generated: 2026-10-30 16:55
 
 ## Upcoming Games
 
@@ -134,8 +134,8 @@ Generated: 2026-10-30 08:10
 | 116 | Governor’s Academy | 1506.6 |
 | 117 | Deerfield | 1504.2 |
 | 118 | Billerica | 1503.0 |
-| 119 | Darien (Conn.) | 1502.8 |
-| 120 | Timberlane (N.H.) | 1502.8 |
+| 119 | Timberlane (N.H.) | 1502.8 |
+| 120 | Darien (Conn.) | 1502.8 |
 | 121 | Worcester | 1502.4 |
 | 122 | Canterbury | 1499.4 |
 | 123 | Weston | 1497.5 |
@@ -150,8 +150,8 @@ Generated: 2026-10-30 08:10
 | 132 | Amesbury/Whittier | 1491.3 |
 | 133 | Central Catholic | 1491.1 |
 | 134 | Loomis Chaffee (Conn.) | 1490.8 |
-| 135 | Stanstead (Canada) | 1490.8 |
-| 136 | La Salle (R.I.) | 1490.8 |
+| 135 | La Salle (R.I.) | 1490.8 |
+| 136 | Stanstead (Canada) | 1490.8 |
 | 137 | Hoosac School | 1490.2 |
 | 138 | Fairfield Prep (Conn.) | 1489.9 |
 | 139 | St. Paul’s | 1489.7 |
@@ -510,8 +510,8 @@ Non-MIAA opponents and teams without a known division.
 | Choate | 1510.7 | 114 | non-member |
 | Governor’s Academy | 1506.6 | 116 | non-member |
 | Deerfield | 1504.2 | 117 | non-member |
-| Darien (Conn.) | 1502.8 | 119 | non-member |
-| Timberlane (N.H.) | 1502.8 | 120 | non-member |
+| Timberlane (N.H.) | 1502.8 | 119 | non-member |
+| Darien (Conn.) | 1502.8 | 120 | non-member |
 | Canterbury | 1499.4 | 122 | non-member |
 | Weston | 1497.5 | 123 | unknown |
 | Kent | 1497.2 | 124 | non-member |
@@ -520,8 +520,8 @@ Non-MIAA opponents and teams without a known division.
 | North Yarmouth (Maine) | 1493.6 | 128 | non-member |
 | Northwood (N.Y.) | 1491.6 | 131 | non-member |
 | Loomis Chaffee (Conn.) | 1490.8 | 134 | non-member |
-| Stanstead (Canada) | 1490.8 | 135 | non-member |
-| La Salle (R.I.) | 1490.8 | 136 | non-member |
+| La Salle (R.I.) | 1490.8 | 135 | non-member |
+| Stanstead (Canada) | 1490.8 | 136 | non-member |
 | Hoosac School | 1490.2 | 137 | non-member |
 | Fairfield Prep (Conn.) | 1489.9 | 138 | non-member |
 | St. Paul’s | 1489.7 | 139 | non-member |

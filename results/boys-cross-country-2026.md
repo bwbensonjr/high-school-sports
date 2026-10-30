@@ -1,6 +1,6 @@
 # Boys Cross Country - 2026 Season
 
-Generated: 2026-10-30 08:10
+Generated: 2026-10-30 16:55
 
 ## Upcoming Games
 
@@ -158,19 +158,19 @@ Generated: 2026-10-30 08:10
 | 139 | New Bedford | 1503.8 |
 | 140 | Scituate | 1503.4 |
 | 141 | Sturgis West | 1503.1 |
-| 142 | Bridgewater-Raynham | 1502.8 |
-| 143 | Wachusett | 1502.8 |
+| 142 | Greater Lowell | 1502.8 |
+| 143 | Tabor | 1502.8 |
 | 144 | Riverview School | 1502.8 |
 | 145 | Notre Dame (Tyngsborough) | 1502.8 |
-| 146 | Longmeadow | 1502.8 |
-| 147 | Amherst-Pelham | 1502.8 |
-| 148 | St. Sebastian’s | 1502.8 |
-| 149 | Greater Lawrence | 1502.8 |
-| 150 | Westfield | 1502.8 |
-| 151 | Minnechaug | 1502.8 |
-| 152 | Greater Lowell | 1502.8 |
-| 153 | Tabor | 1502.8 |
-| 154 | Watkinson | 1502.8 |
+| 146 | Bridgewater-Raynham | 1502.8 |
+| 147 | Minnechaug | 1502.8 |
+| 148 | Amherst-Pelham | 1502.8 |
+| 149 | Watkinson | 1502.8 |
+| 150 | Longmeadow | 1502.8 |
+| 151 | Westfield | 1502.8 |
+| 152 | Greater Lawrence | 1502.8 |
+| 153 | St. Sebastian’s | 1502.8 |
+| 154 | Wachusett | 1502.8 |
 | 155 | East Bridgewater | 1501.9 |
 | 156 | Carver | 1500.6 |
 | 157 | Auburn | 1499.9 |
@@ -336,8 +336,8 @@ Generated: 2026-10-30 08:10
 | 35 | Chelmsford | 1512.9 | 129 |
 | 36 | Worcester Tech | 1508.1 | 133 |
 | 37 | New Bedford | 1503.8 | 139 |
-| 38 | Bridgewater-Raynham | 1502.8 | 142 |
-| 39 | Wachusett | 1502.8 | 143 |
+| 38 | Bridgewater-Raynham | 1502.8 | 146 |
+| 39 | Wachusett | 1502.8 | 154 |
 | 40 | Lynn English | 1496.1 | 160 |
 | 41 | Diman | 1494.3 | 163 |
 | 42 | Algonquin | 1486.1 | 170 |
@@ -433,11 +433,11 @@ Generated: 2026-10-30 08:10
 | 48 | Norton | 1504.2 | 138 |
 | 49 | Scituate | 1503.4 | 140 |
 | 50 | Riverview School | 1502.8 | 144 |
-| 51 | Longmeadow | 1502.8 | 146 |
-| 52 | Amherst-Pelham | 1502.8 | 147 |
-| 53 | Greater Lawrence | 1502.8 | 149 |
-| 54 | Westfield | 1502.8 | 150 |
-| 55 | Minnechaug | 1502.8 | 151 |
+| 51 | Minnechaug | 1502.8 | 147 |
+| 52 | Amherst-Pelham | 1502.8 | 148 |
+| 53 | Longmeadow | 1502.8 | 150 |
+| 54 | Westfield | 1502.8 | 151 |
+| 55 | Greater Lawrence | 1502.8 | 152 |
 | 56 | Auburn | 1499.9 | 157 |
 | 57 | St. Paul | 1498.8 | 158 |
 | 58 | Walpole | 1494.4 | 162 |
@@ -521,8 +521,8 @@ Generated: 2026-10-30 08:10
 | 40 | Bourne | 1511.0 | 131 |
 | 41 | Hampshire | 1504.2 | 137 |
 | 42 | Sturgis West | 1503.1 | 141 |
-| 43 | Notre Dame (Tyngsborough) | 1502.8 | 145 |
-| 44 | Greater Lowell | 1502.8 | 152 |
+| 43 | Greater Lowell | 1502.8 | 142 |
+| 44 | Notre Dame (Tyngsborough) | 1502.8 | 145 |
 | 45 | East Bridgewater | 1501.9 | 155 |
 | 46 | Carver | 1500.6 | 156 |
 | 47 | Old Rochester | 1496.0 | 161 |
@@ -575,9 +575,9 @@ Non-MIAA opponents and teams without a known division.
 | BB&N | 1518.7 | 119 | non-member |
 | Brooks | 1516.6 | 121 | non-member |
 | Dexter Southfield | 1513.6 | 127 | non-member |
-| St. Sebastian’s | 1502.8 | 148 | non-member |
-| Tabor | 1502.8 | 153 | non-member |
-| Watkinson | 1502.8 | 154 | non-member |
+| Tabor | 1502.8 | 143 | non-member |
+| Watkinson | 1502.8 | 149 | non-member |
+| St. Sebastian’s | 1502.8 | 153 | non-member |
 | Milton Academy | 1498.4 | 159 | non-member |
 | Middlesex | 1486.9 | 168 | non-member |
 | Worcester Academy | 1474.4 | 191 | non-member |

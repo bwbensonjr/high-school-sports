@@ -1,6 +1,6 @@
 # Boys Volleyball - 2026 Season
 
-Generated: 2026-10-30 08:10
+Generated: 2026-10-30 16:55
 
 ## Upcoming Games
 
@@ -86,8 +86,8 @@ Generated: 2026-10-30 08:10
 | 68 | Burlington | 1502.4 |
 | 69 | Keefe Tech | 1502.3 |
 | 70 | Minnechaug | 1501.0 |
-| 71 | Walpole | 1500.0 |
-| 72 | Phillips Andover | 1500.0 |
+| 71 | Phillips Andover | 1500.0 |
+| 72 | Walpole | 1500.0 |
 | 73 | Bay Path | 1499.1 |
 | 74 | North Middlesex | 1496.4 |
 | 75 | Leominster | 1494.1 |
@@ -277,7 +277,7 @@ Generated: 2026-10-30 08:10
 | 28 | University Park/Claremont | 1503.5 | 65 |
 | 29 | Burlington | 1502.4 | 68 |
 | 30 | Keefe Tech | 1502.3 | 69 |
-| 31 | Walpole | 1500.0 | 71 |
+| 31 | Walpole | 1500.0 | 72 |
 | 32 | Bay Path | 1499.1 | 73 |
 | 33 | North Middlesex | 1496.4 | 74 |
 | 34 | Boston Collegiate | 1489.3 | 78 |
@@ -330,7 +330,7 @@ Non-MIAA opponents and teams without a known division.
 |------|------------|--------------|--------|
 | Shrewsbury | 1561.2 | 34 | unknown |
 | Tolman (R.I.) | 1518.2 | 55 | non-member |
-| Phillips Andover | 1500.0 | 72 | non-member |
+| Phillips Andover | 1500.0 | 71 | non-member |
 | La Salle (R.I.) | 1489.7 | 77 | non-member |
 | Southeastern | 1409.9 | 131 | unknown |
 | Georgetown | 1349.6 | 143 | unknown |

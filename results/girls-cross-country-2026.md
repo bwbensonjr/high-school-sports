@@ -1,6 +1,6 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-10-30 08:10
+Generated: 2026-10-30 16:56
 
 ## Upcoming Games
 
@@ -120,16 +120,16 @@ Generated: 2026-10-30 08:10
 | 102 | Douglas | 1530.3 |
 | 103 | Tantasqua | 1529.9 |
 | 104 | Sizer | 1529.5 |
-| 105 | South Lancaster | 1528.7 |
-| 106 | Maynard | 1528.7 |
+| 105 | Maynard | 1528.7 |
+| 106 | South Lancaster | 1528.7 |
 | 107 | Shawsheen | 1527.9 |
 | 108 | Tahanto | 1527.8 |
 | 109 | Burncoat | 1527.7 |
 | 110 | Sutton | 1525.1 |
 | 111 | Norfolk Aggie | 1524.0 |
 | 112 | Saugus | 1523.8 |
-| 113 | Hudson | 1523.4 |
-| 114 | Renaissance | 1523.4 |
+| 113 | Renaissance | 1523.4 |
+| 114 | Hudson | 1523.4 |
 | 115 | Medford | 1523.2 |
 | 116 | Shepherd Hill | 1522.0 |
 | 117 | Middleborough | 1521.1 |
@@ -140,8 +140,8 @@ Generated: 2026-10-30 08:10
 | 122 | Archbishop Williams | 1517.9 |
 | 123 | Whittier | 1516.9 |
 | 124 | Brooks | 1516.0 |
-| 125 | Chicopee Comprehensive | 1514.8 |
-| 126 | Rivers | 1514.8 |
+| 125 | Rivers | 1514.8 |
+| 126 | Chicopee Comprehensive | 1514.8 |
 | 127 | Wellesley | 1514.6 |
 | 128 | Dana Hall | 1513.2 |
 | 129 | Minuteman | 1513.1 |
@@ -156,14 +156,14 @@ Generated: 2026-10-30 08:10
 | 138 | Monomoy | 1505.6 |
 | 139 | Revere | 1505.4 |
 | 140 | Westfield Tech | 1504.2 |
-| 141 | Notre Dame (Worcester) | 1502.8 |
-| 142 | Longmeadow | 1502.8 |
-| 143 | Amherst-Pelham | 1502.8 |
-| 144 | Minnechaug | 1502.8 |
-| 145 | Cape Cod Tech | 1502.8 |
-| 146 | Wachusett | 1502.8 |
-| 147 | Notre Dame (Tyngsborough) | 1502.8 |
-| 148 | Westfield | 1502.8 |
+| 141 | Westfield | 1502.8 |
+| 142 | Cape Cod Tech | 1502.8 |
+| 143 | Notre Dame (Tyngsborough) | 1502.8 |
+| 144 | Longmeadow | 1502.8 |
+| 145 | Wachusett | 1502.8 |
+| 146 | Notre Dame (Worcester) | 1502.8 |
+| 147 | Minnechaug | 1502.8 |
+| 148 | Amherst-Pelham | 1502.8 |
 | 149 | Pingree | 1502.0 |
 | 150 | West Bridgewater | 1501.0 |
 | 151 | Winthrop | 1499.9 |
@@ -319,11 +319,11 @@ Generated: 2026-10-30 08:10
 | 28 | Attleboro | 1530.5 | 100 |
 | 29 | Medford | 1523.2 | 115 |
 | 30 | Algonquin | 1519.7 | 120 |
-| 31 | Chicopee Comprehensive | 1514.8 | 125 |
+| 31 | Chicopee Comprehensive | 1514.8 | 126 |
 | 32 | Wellesley | 1514.6 | 127 |
 | 33 | Springfield Central | 1510.1 | 131 |
 | 34 | Beverly | 1507.4 | 135 |
-| 35 | Wachusett | 1502.8 | 146 |
+| 35 | Wachusett | 1502.8 | 145 |
 | 36 | Newton South | 1495.1 | 157 |
 | 37 | Bay Path | 1494.6 | 158 |
 | 38 | Malden Catholic | 1491.9 | 160 |
@@ -409,7 +409,7 @@ Generated: 2026-10-30 08:10
 | 37 | Scituate | 1533.1 | 95 |
 | 38 | Wayland | 1530.4 | 101 |
 | 39 | Tantasqua | 1529.9 | 103 |
-| 40 | South Lancaster | 1528.7 | 105 |
+| 40 | South Lancaster | 1528.7 | 106 |
 | 41 | Shawsheen | 1527.9 | 107 |
 | 42 | Burncoat | 1527.7 | 109 |
 | 43 | Shepherd Hill | 1522.0 | 116 |
@@ -421,11 +421,11 @@ Generated: 2026-10-30 08:10
 | 49 | Swampscott | 1508.5 | 133 |
 | 50 | Greater New Bedford | 1508.0 | 134 |
 | 51 | Revere | 1505.4 | 139 |
-| 52 | Notre Dame (Worcester) | 1502.8 | 141 |
-| 53 | Longmeadow | 1502.8 | 142 |
-| 54 | Amherst-Pelham | 1502.8 | 143 |
-| 55 | Minnechaug | 1502.8 | 144 |
-| 56 | Westfield | 1502.8 | 148 |
+| 52 | Westfield | 1502.8 | 141 |
+| 53 | Longmeadow | 1502.8 | 144 |
+| 54 | Notre Dame (Worcester) | 1502.8 | 146 |
+| 55 | Minnechaug | 1502.8 | 147 |
+| 56 | Amherst-Pelham | 1502.8 | 148 |
 | 57 | Bristol-Plymouth | 1499.4 | 152 |
 | 58 | Holliston | 1499.1 | 153 |
 | 59 | ME/Rockport | 1498.9 | 154 |
@@ -500,12 +500,12 @@ Generated: 2026-10-30 08:10
 | 30 | Mystic Valley | 1531.3 | 99 |
 | 31 | Douglas | 1530.3 | 102 |
 | 32 | Sizer | 1529.5 | 104 |
-| 33 | Maynard | 1528.7 | 106 |
+| 33 | Maynard | 1528.7 | 105 |
 | 34 | Tahanto | 1527.8 | 108 |
 | 35 | Sutton | 1525.1 | 110 |
 | 36 | Norfolk Aggie | 1524.0 | 111 |
-| 37 | Hudson | 1523.4 | 113 |
-| 38 | Renaissance | 1523.4 | 114 |
+| 37 | Renaissance | 1523.4 | 113 |
+| 38 | Hudson | 1523.4 | 114 |
 | 39 | Littleton | 1519.9 | 119 |
 | 40 | Blackstone-Millville | 1519.4 | 121 |
 | 41 | South Shore Voc-Tech | 1512.7 | 130 |
@@ -513,8 +513,8 @@ Generated: 2026-10-30 08:10
 | 43 | Holbrook/Avon | 1506.1 | 137 |
 | 44 | Monomoy | 1505.6 | 138 |
 | 45 | Westfield Tech | 1504.2 | 140 |
-| 46 | Cape Cod Tech | 1502.8 | 145 |
-| 47 | Notre Dame (Tyngsborough) | 1502.8 | 147 |
+| 46 | Cape Cod Tech | 1502.8 | 142 |
+| 47 | Notre Dame (Tyngsborough) | 1502.8 | 143 |
 | 48 | West Bridgewater | 1501.0 | 150 |
 | 49 | Winthrop | 1499.9 | 151 |
 | 50 | Dennis-Yarmouth | 1498.7 | 155 |
@@ -554,7 +554,7 @@ Non-MIAA opponents and teams without a known division.
 | Taft | 1534.0 | 94 | non-member |
 | Saugus | 1523.8 | 112 | unknown |
 | Brooks | 1516.0 | 124 | non-member |
-| Rivers | 1514.8 | 126 | non-member |
+| Rivers | 1514.8 | 125 | non-member |
 | Dana Hall | 1513.2 | 128 | non-member |
 | Tabor | 1507.1 | 136 | non-member |
 | Pingree | 1502.0 | 149 | non-member |

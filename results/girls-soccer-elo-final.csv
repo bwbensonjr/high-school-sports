@@ -85,18 +85,18 @@ Chelmsford,1584.0829980567155,4085,83,1,assigned,19
 Nashoba Valley Tech,1584.0632479458009,4268,84,5,assigned,7
 South Hadley,1582.8150847487755,4353,85,4,assigned,21
 Chicopee,1582.4562945249484,4088,86,3,assigned,21
-Greater Lawrence,1581.489350053018,4154,87,4,assigned,22
-St. Mary’s,1581.0348712172047,4374,88,3,assigned,22
-Peabody,1578.9410604487348,4306,89,1,assigned,20
-Notre Dame (Hingham),1578.647311875977,4449,90,2,assigned,13
-Minnechaug,1577.4961540607528,4254,91,2,assigned,14
-Boston Collegiate,1577.1386893420308,4592,92,5,assigned,8
-Cathedral/Cristo Rey,1576.4930274377045,4079,93,4,assigned,23
-East Bridgewater,1576.2999806937446,4126,94,3,assigned,23
-Norfolk Aggie,1572.9243135017462,4458,95,5,assigned,9
-Hopkinton,1571.9445856422906,4180,96,1,assigned,21
-Georgetown,1568.68195670309,4148,97,4,assigned,24
-Holbrook,1568.6079373826838,4172,98,5,assigned,10
+Holbrook,1581.6763176325214,4172,87,5,assigned,8
+Greater Lawrence,1581.489350053018,4154,88,4,assigned,22
+St. Mary’s,1581.0348712172047,4374,89,3,assigned,22
+Peabody,1578.9410604487348,4306,90,1,assigned,20
+Notre Dame (Hingham),1578.647311875977,4449,91,2,assigned,13
+Minnechaug,1577.4961540607528,4254,92,2,assigned,14
+Boston Collegiate,1577.1386893420308,4592,93,5,assigned,9
+Cathedral/Cristo Rey,1576.4930274377045,4079,94,4,assigned,23
+East Bridgewater,1576.2999806937446,4126,95,3,assigned,23
+Norfolk Aggie,1572.9243135017462,4458,96,5,assigned,10
+Hopkinton,1571.9445856422906,4180,97,1,assigned,21
+Georgetown,1568.68195670309,4148,98,4,assigned,24
 Brookline,1567.9145882831144,4059,99,1,assigned,22
 Lee,1567.428975033461,4206,100,5,assigned,11
 Old Rochester,1567.2351590954006,4301,101,3,assigned,24
@@ -194,20 +194,20 @@ Madison Park,1504.4950393746567,4225,192,4,assigned,44
 David Prouty,1504.1432916853462,4106,193,5,assigned,22
 Boston Latin,1503.568135589507,4049,194,1,assigned,28
 Pittsfield,1502.867139739888,4314,195,3,assigned,38
-Housatonic Regional (Conn.),1502.7555,5022,196,,non-member,
-KIPP,1502.7555,4703,197,5,assigned,23
+Kingswood-Oxford,1502.7555,4198,196,,non-member,
+Pioneer Valley Chinese Immersion,1502.7555,4955,197,5,assigned,23
 Boston Prep,1502.7555,4655,198,5,assigned,24
-La Salle (R.I.),1502.7555,4201,199,,non-member,
+Bridgton Academy,1502.7555,4054,199,,non-member,
 Barrington (R.I.),1502.7555,4025,200,,non-member,
-Newman School,1502.7555,4277,201,,non-member,
-Neighborhood House Charter,1502.7555,5035,202,5,assigned,25
-Bridgton Academy,1502.7555,4054,203,,non-member,
-Kingswood-Oxford,1502.7555,4198,204,,non-member,
-Kent,1502.7555,4193,205,,non-member,
-South Shore Christian,1502.7555,4489,206,,non-member,
+Neighborhood House Charter,1502.7555,5035,201,5,assigned,25
+South Shore Christian,1502.7555,4489,202,,non-member,
+Kent,1502.7555,4193,203,,non-member,
+Housatonic Regional (Conn.),1502.7555,5022,204,,non-member,
+La Salle (R.I.),1502.7555,4201,205,,non-member,
+Poughkeepsie Day (N.Y.),1502.7555,4916,206,,non-member,
 Taft,1502.7555,4386,207,,non-member,
-Poughkeepsie Day (N.Y.),1502.7555,4916,208,,non-member,
-Pioneer Valley Chinese Immersion,1502.7555,4955,209,5,assigned,26
+Newman School,1502.7555,4277,208,,non-member,
+KIPP,1502.7555,4703,209,5,assigned,26
 Woburn,1502.333877771069,4438,210,1,assigned,29
 Oxford,1501.7570010593429,4303,211,4,assigned,45
 North Andover,1501.2997195433154,4283,212,1,assigned,30
@@ -409,11 +409,11 @@ Innovation Academy,1328.4215121017032,4690,407,5,assigned,63
 Watertown,1323.5803245024001,4409,408,3,assigned,69
 Taconic,1323.2403674322377,4385,409,3,assigned,70
 Sizer,1318.597318823838,4509,410,5,assigned,64
-Randolph,1316.3676812822478,4327,411,4,assigned,71
-Gloucester,1313.26774610991,4150,412,3,assigned,71
-Atlantis Charter,1312.9796531791958,4818,413,5,assigned,65
-Upper Cape,1308.7646571073044,4457,414,5,assigned,66
-St. Paul,1305.2883003833845,4954,415,4,assigned,72
+Gloucester,1313.26774610991,4150,411,3,assigned,71
+Atlantis Charter,1312.9796531791958,4818,412,5,assigned,65
+Upper Cape,1308.7646571073044,4457,413,5,assigned,66
+St. Paul,1305.2883003833845,4954,414,4,assigned,71
+Randolph,1303.29930103241,4327,415,4,assigned,72
 Amesbury,1301.527107408176,4007,416,4,assigned,73
 Greenfield,1292.5064939515185,4157,417,5,assigned,67
 Monomoy,1289.2148916767503,4706,418,4,assigned,74

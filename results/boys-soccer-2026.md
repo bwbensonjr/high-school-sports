@@ -1,6 +1,6 @@
 # Boys Soccer - 2026 Season
 
-Generated: 2026-10-30 08:10
+Generated: 2026-10-30 16:55
 
 ## Upcoming Games
 
@@ -601,9 +601,9 @@ Generated: 2026-10-30 08:10
 | 206 | Pacific Rim Charter | 1503.6 |
 | 207 | Cardinal Spellman | 1503.1 |
 | 208 | Wheeler (R.I.) | 1502.9 |
-| 209 | Xavier (Conn.) | 1502.8 |
+| 209 | South Shore Christian | 1502.8 |
 | 210 | Newton Country Day | 1502.8 |
-| 211 | South Shore Christian | 1502.8 |
+| 211 | Xavier (Conn.) | 1502.8 |
 | 212 | Phillips Exeter | 1502.5 |
 | 213 | Covenant Christian | 1501.3 |
 | 214 | St. Andrew’s | 1501.1 |
@@ -1232,9 +1232,9 @@ Non-MIAA opponents and teams without a known division.
 | Worcester Academy | 1503.9 | 203 | non-member |
 | Darrow | 1503.7 | 205 | non-member |
 | Wheeler (R.I.) | 1502.9 | 208 | non-member |
-| Xavier (Conn.) | 1502.8 | 209 | non-member |
+| South Shore Christian | 1502.8 | 209 | non-member |
 | Newton Country Day | 1502.8 | 210 | non-member |
-| South Shore Christian | 1502.8 | 211 | non-member |
+| Xavier (Conn.) | 1502.8 | 211 | non-member |
 | Phillips Exeter | 1502.5 | 212 | non-member |
 | Covenant Christian | 1501.3 | 213 | non-member |
 | St. Andrew’s | 1501.1 | 214 | non-member |
