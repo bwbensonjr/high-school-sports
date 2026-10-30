@@ -1,4 +1,5 @@
 from elo import Elo
+from divisions import ASSIGNED, DivisionLookup
 import pandas as pd
 import numpy as np
 import glob
@@ -154,6 +155,10 @@ def compute_elo_ratings(sport):
     all_games_with_elo["date"] = pd.to_datetime(all_games_with_elo["date"])
     all_games_with_elo = all_games_with_elo.sort_values("date").reset_index(drop=True)
 
+    # Attach MIAA divisions as of each game's own date
+    divisions = DivisionLookup()
+    add_game_divisions(all_games_with_elo, sport, divisions)
+
     # Save results
     output_file = f"results/{sport}-elo-ratings.csv"
     os.makedirs("results", exist_ok=True)
@@ -167,6 +172,11 @@ def compute_elo_ratings(sport):
         "elo": [elo_system.team_rating(team) for team in teams],
     }).sort_values("elo", ascending=False)
 
+    # Divisions are those in effect at the end of the current season's results
+    current_season = max(all_games_with_elo["season"].unique())
+    reference_date = division_reference_date(all_games_with_elo, current_season)
+    final_ratings = add_rating_divisions(final_ratings, games_df, sport, divisions, reference_date)
+
     # Save final Elo ratings
     elo_output_file = f"results/{sport}-elo-final.csv"
     final_ratings.to_csv(elo_output_file, index=False)
@@ -174,14 +184,60 @@ def compute_elo_ratings(sport):
     print(final_ratings.iloc[:30])
 
     # Generate Markdown report for the current season
-    current_season = max(all_games_with_elo["season"].unique())
     generate_markdown_report(
         sport,
         current_season,
         upcoming_games_with_elo,
         completed_games_with_elo,
-        final_ratings
+        final_ratings,
+        has_divisions=divisions.has_alignment(sport, reference_date),
     )
+
+
+def add_game_divisions(games, sport, divisions):
+    """Add home and visitor MIAA division columns resolved for each game's date."""
+    for side in ("home", "visitor"):
+        games[f"{side}_division"] = [
+            divisions.division_for(sport, team_id, game_date)[0]
+            for team_id, game_date in zip(games[f"{side}_team_id"], games["date"])
+        ]
+
+
+def division_reference_date(games, season):
+    """Date whose alignment cycle applies to current ratings: the season's latest completed game."""
+    season_games = games[games["season"] == season]
+    completed = season_games[season_games["status"] == "FINAL"]
+    return (completed if len(completed) else season_games)["date"].max()
+
+
+def division_sort_key(label):
+    """Order statewide divisions numerically and sectional ones by section, then number."""
+    section, _, number = str(label).rpartition(" ")
+    return (section, int(number))
+
+
+def add_rating_divisions(final_ratings, games, sport, divisions, reference_date):
+    """Add team ID, overall rank, division, division status, and rank within division."""
+    # Map each team name to the ID it carried in its most recent game
+    appearances = pd.concat([
+        games[["date", "home_team", "home_team_id"]].set_axis(["date", "team", "team_id"], axis=1),
+        games[["date", "visitor_team", "visitor_team_id"]].set_axis(["date", "team", "team_id"], axis=1),
+    ]).sort_values("date")
+    team_ids = appearances.drop_duplicates("team", keep="last").set_index("team")["team_id"]
+
+    ratings = final_ratings.copy()
+    ratings["team_id"] = ratings["team"].map(team_ids).astype("Int64")
+    ratings["overall_rank"] = range(1, len(ratings) + 1)
+    resolved = [divisions.division_for(sport, team_id, reference_date) for team_id in ratings["team_id"]]
+    ratings["division"] = [division for division, _ in resolved]
+    ratings["division_status"] = [status for _, status in resolved]
+    ratings["division_rank"] = (
+        ratings[ratings["division_status"] == ASSIGNED]
+        .groupby("division")["elo"]
+        .rank(method="first", ascending=False)
+        .astype("Int64")
+    )
+    return ratings
 
 
 def process_game_elo(elo, games_input, sport, verbose=False):
@@ -289,7 +345,7 @@ def process_upcoming_games(elo, games_input):
     return games
 
 
-def generate_markdown_report(sport, season, upcoming_games_df, completed_games_df, final_ratings_df):
+def generate_markdown_report(sport, season, upcoming_games_df, completed_games_df, final_ratings_df, has_divisions=False):
     """
     Generate a Markdown report with upcoming game predictions, recent results, and current Elo ratings.
 
@@ -298,7 +354,8 @@ def generate_markdown_report(sport, season, upcoming_games_df, completed_games_d
         season (int): Season year
         upcoming_games_df (DataFrame): Upcoming games with Elo predictions
         completed_games_df (DataFrame): Completed games with Elo ratings
-        final_ratings_df (DataFrame): Current Elo ratings for all teams
+        final_ratings_df (DataFrame): Current Elo ratings for all teams, with division columns
+        has_divisions (bool): Whether MIAA alignment data covers this sport and season
     """
     # Filter for upcoming games in the current season
     upcoming = upcoming_games_df[
@@ -414,6 +471,32 @@ def generate_markdown_report(sport, season, upcoming_games_df, completed_games_d
         team = row["team"]
         elo = row["elo"]
         markdown_lines.append(f"| {rank} | {team} | {elo:.1f} |")
+
+    # Section 4: Elo Ratings by MIAA Division
+    markdown_lines.append("\n## Elo Ratings by Division\n")
+    if not has_divisions:
+        markdown_lines.append("*MIAA division data is unavailable for this sport and season.*\n")
+    else:
+        assigned = final_ratings_df[final_ratings_df["division_status"] == ASSIGNED]
+        for division in sorted(assigned["division"].unique(), key=division_sort_key):
+            markdown_lines.append(f"\n### Division {division}\n")
+            markdown_lines.append("| Division Rank | Team | Elo Rating | Overall Rank |")
+            markdown_lines.append("|---------------|------|------------|--------------|")
+            for _, row in assigned[assigned["division"] == division].sort_values("division_rank").iterrows():
+                markdown_lines.append(
+                    f"| {row['division_rank']} | {row['team']} | {row['elo']:.1f} | {row['overall_rank']} |"
+                )
+
+        others = final_ratings_df[final_ratings_df["division_status"] != ASSIGNED]
+        if len(others):
+            markdown_lines.append("\n### Other teams\n")
+            markdown_lines.append("Non-MIAA opponents and teams without a known division.\n")
+            markdown_lines.append("| Team | Elo Rating | Overall Rank | Status |")
+            markdown_lines.append("|------|------------|--------------|--------|")
+            for _, row in others.iterrows():
+                markdown_lines.append(
+                    f"| {row['team']} | {row['elo']:.1f} | {row['overall_rank']} | {row['division_status']} |"
+                )
 
     # Write to file
     markdown_content = "\n".join(markdown_lines)

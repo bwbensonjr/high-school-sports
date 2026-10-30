@@ -16,7 +16,8 @@ This is a Python project that tracks Massachusetts high school sports scores and
   - Per-sport CSV files generated (e.g., `data/field-hockey-2025.csv`) containing game results and matchups
   - Elo results saved to `results/` directory (e.g., `results/field-hockey-elo-ratings.csv`)
   - Automatic deduplication based on game_id when updating existing files
-- **Dependencies**: Uses pandas for data processing, requests for API calls, and argparse for CLI
+- **MIAA divisions**: `miaa_alignment.py` ingests MIAA alignment PDFs per two-year cycle and builds the Globe team to MIAA school crosswalk in `data/miaa/`; `divisions.py` resolves (sport, team_id, date) to a division for `high_school_elo.py`
+- **Dependencies**: Uses pandas for data processing, requests for API calls, pdfplumber for alignment PDFs, and argparse for CLI
 
 ## Core Components
 
@@ -55,6 +56,14 @@ This is a Python project that tracks Massachusetts high school sports scores and
 - **View available sports**: Check `data/` directory for `{sport}-{year}.csv` files
 - **Results location**: Elo calculations are saved to `results/{sport}-elo-ratings.csv`
 
+### MIAA Division Commands
+
+- **Ingest a cycle's alignments**: `python miaa_alignment.py ingest --cycle 2025-27 --index-url https://www.miaa.net/2025-26-2026-27-tournament-alignment-cycle`
+- **Propose crosswalk rows for unmapped teams**: `python miaa_alignment.py crosswalk` (review rows with `confirmed=False`)
+- **Coverage and validation report**: `python miaa_alignment.py report --cycle 2025-27`
+- **Run tests**: `uv run pytest`
+- The cycle for a game is chosen by school year (starting August 1) of the game date, not the data file year; winter files span calendar years
+
 ### Data Processing Behavior
 
 - **Automatic updates**: Running the same date multiple times will update existing CSV files, replacing duplicate games based on game_id
@@ -68,4 +77,6 @@ The API returns nested JSON with date/sport/game structure. Key fields:
 - Games have home/visitor teams with scores, IDs, and outcomes
 - Teams are identified by ID and name
 - Status field indicates if game is "FINAL" or ongoing
+- `tourney_name` (e.g., "MIAA Division 3", "NEPSAC Class A") and `tourney_level` (e.g., "First round", "Final") identify tournament games; both are empty for regular-season games and for rows written before these columns were added
+- Backfilling past dates replaces rows by game_id in processing order, so re-fetching an older window can overwrite a rescheduled game's later FINAL result with its stale original entry; compare against the committed file afterward
 - Score multipliers are calculated using logarithmic scaling based on point differential

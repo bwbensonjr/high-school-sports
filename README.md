@@ -124,6 +124,7 @@ The script creates separate CSV files for each sport (e.g., `boys-soccer-2025.cs
 - Game status (FINAL, UPCOMING, etc.)
 - Conference information
 - Game time and metadata
+- Tournament name and round (`tourney_name`, e.g. "MIAA Division 3", and `tourney_level`, e.g. "Quarterfinals"), empty for regular-season games
 
 ## Computing Elo Ratings
 
@@ -150,7 +151,13 @@ python high_school_elo.py field-hockey
 ### Output
 
 The script creates:
-- `results/{sport}-elo-ratings.csv`: Complete game results with Elo data
+- `results/{sport}-elo-ratings.csv`: Complete game results with Elo data, including
+  `home_division` and `visitor_division` resolved for each game's date
+- `results/{sport}-elo-final.csv`: Current ratings with `team_id`, `overall_rank`,
+  `division`, `division_status` (`assigned`, `non-member`, or `unknown`), and
+  `division_rank` (rank within the team's MIAA division)
+- `results/{sport}-{season}.md`: Report with upcoming games, recent results, the
+  overall Elo table, and an Elo table for each MIAA division followed by other teams
 - Console output showing top 20 team rankings
 
 ### Elo System Parameters
@@ -161,3 +168,62 @@ The script creates:
 - **Score multiplier**: Logarithmic based on point differential
 - **Regression factor**: 33% toward mean between seasons
 
+
+## MIAA Divisions
+
+MIAA assigns each member school a tournament division per sport for a
+two-year alignment cycle (for example 2025-26 and 2026-27, written
+`2025-27`), based on enrollment adjusted by a Competitive Equity
+Modifier, private-school placement, and appeals. Statewide divisions
+are numbers (`1`-`8`); swimming, golf, gymnastics, and wrestling align
+by section, written like `N 1`.
+
+Division data lives in `data/miaa/`:
+
+- `alignment-{cycle}.csv`: one row per school and sport, parsed from MIAA's alignment PDFs
+- `alignment-{cycle}-manifest.csv`: each source document's URL, SHA-256, row count, and status
+- `sport-map.csv`: MIAA alignment documents mapped to this project's sport names
+- `team-crosswalk.csv`: Globe team IDs mapped to MIAA school names, or marked `non-member`
+  (prep and out-of-state teams). Rows with a `sport` value override the school-wide row for
+  co-ops. Only rows with `confirmed=True` are used.
+- `coverage-{cycle}.md`: coverage and validation report
+
+A game's division comes from the cycle containing its date, where school
+years start on August 1. The daily update only reads these files; it never
+contacts MIAA.
+
+### Refreshing alignments each cycle
+
+MIAA publishes the next cycle's alignments by season during the school year
+before it starts (fall first, then winter, then spring). Run this when a new
+cycle page is posted, and again if MIAA revises a sport after appeals:
+
+```bash
+# 1. Download and parse every sport's alignment PDF (cached in data/miaa/pdf/, not committed)
+python miaa_alignment.py ingest --cycle 2025-27 \
+  --index-url https://www.miaa.net/2025-26-2026-27-tournament-alignment-cycle
+
+# 2. Propose crosswalk rows for any Globe team without a confirmed mapping.
+#    Confirmed rows are never changed. Review rows with confirmed=False, fix the
+#    school or status where needed, and set confirmed=True.
+python miaa_alignment.py crosswalk
+
+# 3. Check coverage, tournament-division disagreements, and unmatched teams
+python miaa_alignment.py report --cycle 2025-27
+
+# 4. Recompute Elo so reports pick up the divisions, then commit data/miaa/ and results/
+python high_school_elo.py
+```
+
+Add any new MIAA sport to `sport-map.csv`; the report lists unmapped sports on
+both sides. Tournament games recorded in the game CSVs are the main check on
+the crosswalk: a team's alignment division should match the "MIAA Division N"
+tournament it plays in.
+
+### Tests
+
+```bash
+uv run pytest
+```
+
+PDF parsing tests use the cached PDFs and are skipped until `ingest` has run.

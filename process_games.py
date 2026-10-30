@@ -48,7 +48,9 @@ def process_games_json(data):
                     'visitor_conference': game.get('visitorConference', ''),
                     'time': game.get('time', ''),
                     'overtime': game.get('overtime'),
-                    'is_shootout_win': game.get('isShootoutWin', 0)
+                    'is_shootout_win': game.get('isShootoutWin', 0),
+                    "tourney_name": game.get("tourneyName") or "",
+                    "tourney_level": game.get("tourneyLevel") or ""
                 }
 
                 sports_games[sport_name].append(game_record)
@@ -213,7 +215,7 @@ def test_game_updates():
                     "name": "field hockey",
                     "games": [
                         {
-                            "id": 12347,  # New game
+                            "id": 12347,  # New tournament game
                             "date": "2025-09-21",
                             "status": "UPCOMING",
                             "teams": {
@@ -222,6 +224,8 @@ def test_game_updates():
                             },
                             "homeConference": "League 3",
                             "visitorConference": "League 3",
+                            "tourneyName": "MIAA Division 3",
+                            "tourneyLevel": "First round",
                             "time": "5:00 P.M.",
                             "overtime": None,
                             "isShootoutWin": 0
@@ -236,17 +240,29 @@ def test_game_updates():
         # Change to temporary directory
         os.chdir(temp_dir)
 
+        # Seed a file in the older format without tournament columns
+        csv_file = test_data_dir / "field-hockey-2025.csv"
+        pd.DataFrame([{
+            "date": "2025-09-19", "game_id": 12000, "status": "FINAL",
+            "home_team": "Team G", "home_team_id": 106, "home_score": 1.0, "home_outcome": 1,
+            "visitor_team": "Team H", "visitor_team_id": 107, "visitor_score": 0.0, "visitor_outcome": 0,
+            "home_conference": "League 4", "visitor_conference": "League 4",
+            "time": "", "overtime": None, "is_shootout_win": 0,
+        }]).to_csv(csv_file, index=False)
+
         # Process day 1 data
         print("Processing day 1 data...")
         process_games_json(day1_data)
 
         # Check initial state
-        csv_file = test_data_dir / "field-hockey-2025.csv"
         df1 = pd.read_csv(csv_file)
         print(f"After day 1: {len(df1)} games")
 
         # Verify initial data
-        assert len(df1) == 2, f"Expected 2 games, got {len(df1)}"
+        assert len(df1) == 3, f"Expected 3 games, got {len(df1)}"
+        assert {"tourney_name", "tourney_level"} <= set(df1.columns), "Tournament columns should be added"
+        game_12000 = df1[df1["game_id"] == 12000].iloc[0]
+        assert pd.isna(game_12000["tourney_name"]) and pd.isna(game_12000["tourney_level"]), "Older rows should have empty tournament fields"
         upcoming_games = df1[df1['status'] == 'UPCOMING']
         assert len(upcoming_games) == 1, f"Expected 1 upcoming game, got {len(upcoming_games)}"
 
@@ -259,7 +275,7 @@ def test_game_updates():
         print(f"After day 2: {len(df2)} games")
 
         # Verify updates
-        assert len(df2) == 3, f"Expected 3 games total, got {len(df2)}"
+        assert len(df2) == 4, f"Expected 4 games total, got {len(df2)}"
 
         # Check that game 12345 was updated from UPCOMING to FINAL
         game_12345 = df2[df2['game_id'] == 12345]
@@ -271,11 +287,15 @@ def test_game_updates():
         game_12347 = df2[df2['game_id'] == 12347]
         assert len(game_12347) == 1, "New game 12347 should be present"
         assert game_12347.iloc[0]['date'] == '2025-09-21', "New game should have correct date"
+        assert game_12347.iloc[0]["tourney_name"] == "MIAA Division 3", "Tournament name should be stored"
+        assert game_12347.iloc[0]["tourney_level"] == "First round", "Tournament level should be stored"
+        assert pd.isna(game_12345.iloc[0]["tourney_name"]), "Regular-season game should have empty tournament name"
 
         print("✓ All tests passed!")
         print("✓ Games properly updated when scores/status change")
         print("✓ New games properly added")
         print("✓ No duplicate games in final CSV")
+        print("✓ Tournament fields stored and older files upgraded")
 
     finally:
         # Clean up - change back to original directory and remove temp
