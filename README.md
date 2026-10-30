@@ -111,6 +111,7 @@ python process_games.py --help
 - **Automatic data fetching**: Downloads game data directly from the Boston Globe API
 - **Smart updates**: Running the same date multiple times updates existing CSV files without creating duplicates
 - **Score updates**: Games initially marked as "UPCOMING" are updated with final scores when re-processed
+- **Completed results are kept**: Re-fetching an older date never replaces a FINAL game with a stale UPCOMING or POSTPONED entry; only score corrections and forfeit rulings replace a FINAL game
 - **Date range processing**: Process multiple days of games in a single command
 - **Error handling**: Graceful handling of network errors and invalid dates
 - **Built-in testing**: Comprehensive tests verify that game updates work correctly

@@ -78,5 +78,5 @@ The API returns nested JSON with date/sport/game structure. Key fields:
 - Teams are identified by ID and name
 - Status field indicates if game is "FINAL" or ongoing
 - `tourney_name` (e.g., "MIAA Division 3", "NEPSAC Class A") and `tourney_level` (e.g., "First round", "Final") identify tournament games; both are empty for regular-season games and for rows written before these columns were added
-- Backfilling past dates replaces rows by game_id in processing order, so re-fetching an older window can overwrite a rescheduled game's later FINAL result with its stale original entry; compare against the committed file afterward
+- Re-fetched rows replace existing rows by game_id, except that a FINAL row is only replaced by another FINAL (score correction) or a FORFEIT ruling; stale UPCOMING, POSTPONED, SUSPENDED, or LIVE entries from older windows (e.g. a rescheduled game on its original date) are ignored
 - Score multipliers are calculated using logarithmic scaling based on point differential
