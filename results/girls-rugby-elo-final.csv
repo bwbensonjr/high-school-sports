@@ -1,8 +1,8 @@
-team,elo
-Belmont,1663.4321182500985
-Weymouth,1599.6420507696446
-Needham,1533.0004022960861
-Brookline,1504.5194042073604
-Lincoln-Sudbury,1448.606611548723
-Cambridge,1396.0273564232277
-Algonquin,1354.7720565048594
+team,elo,team_id,overall_rank,division,division_status,division_rank
+Belmont,1659.9486119202172,4034,1,1,assigned,1
+Weymouth,1628.2593407922404,4425,2,1,assigned,2
+Needham,1503.2729530390916,4272,3,1,assigned,3
+Lincoln-Sudbury,1492.240046457416,4211,4,1,assigned,4
+Brookline,1474.1084390354965,4059,5,1,assigned,5
+Cambridge,1389.2610973100109,4067,6,1,assigned,6
+Algonquin,1352.9095114455274,4005,7,1,assigned,7

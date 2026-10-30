@@ -1,6 +1,6 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-10-29 17:17
+Generated: 2026-10-30 08:10
 
 ## Upcoming Games
 
@@ -35,3 +35,35 @@ Generated: 2026-10-29 17:17
 | 17 | Weymouth | 1363.1 |
 | 18 | Catholic Memorial | 1337.3 |
 | 19 | Lincoln-Sudbury | 1306.0 |
+
+## Elo Ratings by Division
+
+
+### Division 1
+
+| Division Rank | Team | Elo Rating | Overall Rank |
+|---------------|------|------------|--------------|
+| 1 | BC High | 1734.2 | 1 |
+| 2 | Milton | 1613.1 | 4 |
+| 3 | Xaverian | 1527.7 | 9 |
+| 4 | Belmont | 1460.3 | 11 |
+| 5 | St. John’s Prep | 1448.0 | 12 |
+| 6 | Weymouth | 1363.1 | 17 |
+| 7 | Lincoln-Sudbury | 1306.0 | 19 |
+
+### Division 2
+
+| Division Rank | Team | Elo Rating | Overall Rank |
+|---------------|------|------------|--------------|
+| 1 | Hanover | 1633.4 | 2 |
+| 2 | Brookline | 1614.8 | 3 |
+| 3 | Hingham/Norwell | 1590.8 | 5 |
+| 4 | Algonquin/Westboro | 1565.2 | 6 |
+| 5 | Malden Catholic | 1564.9 | 7 |
+| 6 | Blue Hills | 1560.4 | 8 |
+| 7 | Braintree | 1500.0 | 10 |
+| 8 | Chelmsford | 1438.5 | 13 |
+| 9 | Marshfield/SST | 1423.1 | 14 |
+| 10 | Burncoat | 1412.2 | 15 |
+| 11 | Cambridge | 1407.2 | 16 |
+| 12 | Catholic Memorial | 1337.3 | 18 |

@@ -1,4 +1,4 @@
-team,elo
-Bedford,1500
-Lincoln-Sudbury,1500
-Nashoba,1500
+team,elo,team_id,overall_rank,division,division_status,division_rank
+Lincoln-Sudbury,1500,4211,1,,unknown,
+Bedford,1500,4031,2,,unknown,
+Nashoba,1500,4267,3,,unknown,

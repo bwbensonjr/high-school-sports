@@ -1,6 +1,6 @@
 # Coed Swimming - 2026 Season
 
-Generated: 2026-10-29 17:17
+Generated: 2026-10-30 08:10
 
 ## Upcoming Games
 
@@ -52,3 +52,7 @@ Generated: 2026-10-29 17:17
 | 34 | Revere | 1392.4 |
 | 35 | Brockton | 1383.8 |
 | 36 | St. Mary’s | 1381.1 |
+
+## Elo Ratings by Division
+
+*MIAA division data is unavailable for this sport and season.*

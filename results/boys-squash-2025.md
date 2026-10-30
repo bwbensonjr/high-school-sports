@@ -1,6 +1,6 @@
 # Boys Squash - 2025 Season
 
-Generated: 2026-10-29 17:17
+Generated: 2026-10-30 08:10
 
 ## Upcoming Games
 
@@ -18,3 +18,7 @@ Generated: 2026-10-29 17:17
 |------|------|------------|
 | 1 | Tabor | 1535.6 |
 | 2 | St. Mark’s | 1464.4 |
+
+## Elo Ratings by Division
+
+*MIAA division data is unavailable for this sport and season.*
