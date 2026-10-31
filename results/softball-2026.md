@@ -1,6 +1,6 @@
 # Softball - 2026 Season
 
-Generated: 2026-10-31 11:42
+Generated: 2026-10-31 08:11
 
 ## Upcoming Games
 
@@ -185,11 +185,11 @@ Generated: 2026-10-31 11:42
 | 167 | Whitman-Hanson | 1505.7 |
 | 168 | Sturgis | 1502.8 |
 | 169 | Westfield Tech/St. Mary (Westfield) | 1502.7 |
-| 170 | Prospect Hill | 1500.0 |
-| 171 | St. John Paul II | 1500.0 |
+| 170 | Woodward | 1500.0 |
+| 171 | Tiverton (R.I.) | 1500.0 |
 | 172 | Dover-Sherborn | 1500.0 |
-| 173 | Woodward | 1500.0 |
-| 174 | Tiverton (R.I.) | 1500.0 |
+| 173 | St. John Paul II | 1500.0 |
+| 174 | Prospect Hill | 1500.0 |
 | 175 | Mt. Greylock | 1499.1 |
 | 176 | Ayer Shirley | 1498.5 |
 | 177 | Greenfield | 1497.6 |
@@ -617,7 +617,7 @@ Generated: 2026-10-31 11:42
 | 26 | St. Bernard’s | 1512.9 | 161 |
 | 27 | Easthampton | 1511.8 | 162 |
 | 28 | Sturgis | 1502.8 | 168 |
-| 29 | St. John Paul II | 1500.0 | 171 |
+| 29 | St. John Paul II | 1500.0 | 173 |
 | 30 | Mt. Greylock | 1499.1 | 175 |
 | 31 | Ayer Shirley | 1498.5 | 176 |
 | 32 | Ipswich | 1495.9 | 179 |
@@ -743,9 +743,9 @@ Non-MIAA opponents and teams without a known division.
 | St. Paul’s | 1515.4 | 157 | non-member |
 | Londonderry (N.H.) | 1513.6 | 160 | non-member |
 | Austin Prep | 1507.3 | 166 | non-member |
-| Prospect Hill | 1500.0 | 170 | unknown |
-| Woodward | 1500.0 | 173 | non-member |
-| Tiverton (R.I.) | 1500.0 | 174 | non-member |
+| Woodward | 1500.0 | 170 | non-member |
+| Tiverton (R.I.) | 1500.0 | 171 | non-member |
+| Prospect Hill | 1500.0 | 174 | unknown |
 | Choate | 1491.8 | 184 | non-member |
 | Mount St. Charles (R.I.) | 1489.0 | 187 | non-member |
 | Mount Anthony (Vt.) | 1488.6 | 188 | non-member |

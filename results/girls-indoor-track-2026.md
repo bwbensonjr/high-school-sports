@@ -1,6 +1,6 @@
 # Girls Indoor Track - 2026 Season
 
-Generated: 2026-10-31 11:42
+Generated: 2026-10-31 08:11
 
 ## Upcoming Games
 
@@ -60,8 +60,8 @@ Generated: 2026-10-31 11:42
 | 42 | Natick | 1523.1 |
 | 43 | Holliston | 1522.0 |
 | 44 | Chelmsford | 1507.9 |
-| 45 | North Reading | 1502.8 |
-| 46 | Essex Tech | 1502.8 |
+| 45 | Essex Tech | 1502.8 |
+| 46 | North Reading | 1502.8 |
 | 47 | Billerica | 1495.9 |
 | 48 | Needham | 1493.8 |
 | 49 | Greater New Bedford | 1491.3 |
@@ -154,7 +154,7 @@ Generated: 2026-10-31 11:42
 | 8 | Hopkinton | 1537.2 | 36 |
 | 9 | Marshfield | 1527.2 | 40 |
 | 10 | Chelmsford | 1507.9 | 44 |
-| 11 | Essex Tech | 1502.8 | 46 |
+| 11 | Essex Tech | 1502.8 | 45 |
 | 12 | Billerica | 1495.9 | 47 |
 | 13 | North Quincy/Quincy | 1475.2 | 58 |
 | 14 | Beverly | 1462.4 | 69 |
@@ -230,7 +230,7 @@ Generated: 2026-10-31 11:42
 | 7 | Brighton | 1569.3 | 23 |
 | 8 | Manchester Essex | 1567.5 | 25 |
 | 9 | Triton | 1545.5 | 30 |
-| 10 | North Reading | 1502.8 | 45 |
+| 10 | North Reading | 1502.8 | 46 |
 | 11 | Dighton-Rehoboth | 1487.3 | 51 |
 | 12 | Charlestown | 1475.7 | 57 |
 | 13 | Martha’s Vineyard | 1471.9 | 60 |

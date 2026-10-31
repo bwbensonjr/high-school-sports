@@ -1,6 +1,6 @@
 # Boys Basketball - 2026 Season
 
-Generated: 2026-10-31 11:42
+Generated: 2026-10-31 08:11
 
 ## Upcoming Games
 
@@ -239,12 +239,12 @@ Generated: 2026-10-31 11:42
 | 221 | Newton South | 1503.6 |
 | 222 | Minnechaug | 1503.2 |
 | 223 | Frederick Gunn (Conn.) | 1503.0 |
-| 224 | Marie Philip | 1502.8 |
-| 225 | Ruth Batson Academy | 1502.8 |
-| 226 | Bishop Connolly | 1502.8 |
-| 227 | International School | 1502.8 |
-| 228 | Waring | 1502.8 |
-| 229 | North Haven (Conn.) | 1502.8 |
+| 224 | Waring | 1502.8 |
+| 225 | Bishop Connolly | 1502.8 |
+| 226 | North Haven (Conn.) | 1502.8 |
+| 227 | Marie Philip | 1502.8 |
+| 228 | Ruth Batson Academy | 1502.8 |
+| 229 | International School | 1502.8 |
 | 230 | Pelham (N.H.) | 1502.3 |
 | 231 | Kimball Union | 1501.9 |
 | 232 | Arlington Catholic | 1501.1 |
@@ -753,7 +753,7 @@ Generated: 2026-10-31 11:42
 | 32 | South Shore Voc-Tech | 1510.5 | 209 |
 | 33 | Mashpee | 1507.7 | 212 |
 | 34 | Blackstone-Millville | 1506.4 | 215 |
-| 35 | Ruth Batson Academy | 1502.8 | 225 |
+| 35 | Ruth Batson Academy | 1502.8 | 228 |
 | 36 | Smith Voc. | 1490.7 | 248 |
 | 37 | St. Bernard’s | 1487.7 | 257 |
 | 38 | Uxbridge | 1483.0 | 266 |
@@ -931,11 +931,11 @@ Non-MIAA opponents and teams without a known division.
 | Mt. Hope (R.I.) | 1505.7 | 216 | non-member |
 | N.Y. Military Academy | 1503.6 | 220 | non-member |
 | Frederick Gunn (Conn.) | 1503.0 | 223 | non-member |
-| Marie Philip | 1502.8 | 224 | non-member |
-| Bishop Connolly | 1502.8 | 226 | non-member |
-| International School | 1502.8 | 227 | non-member |
-| Waring | 1502.8 | 228 | non-member |
-| North Haven (Conn.) | 1502.8 | 229 | non-member |
+| Waring | 1502.8 | 224 | non-member |
+| Bishop Connolly | 1502.8 | 225 | non-member |
+| North Haven (Conn.) | 1502.8 | 226 | non-member |
+| Marie Philip | 1502.8 | 227 | non-member |
+| International School | 1502.8 | 229 | non-member |
 | Pelham (N.H.) | 1502.3 | 230 | non-member |
 | Kimball Union | 1501.9 | 231 | non-member |
 | Pingree | 1494.8 | 239 | non-member |

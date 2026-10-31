@@ -1,6 +1,6 @@
 # Boys Volleyball - 2026 Season
 
-Generated: 2026-10-31 11:42
+Generated: 2026-10-31 08:11
 
 ## Upcoming Games
 
@@ -16,155 +16,155 @@ Generated: 2026-10-31 11:42
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Wayland | 1770.2 |
-| 2 | Needham | 1735.5 |
-| 3 | Brookline | 1729.8 |
-| 4 | Westfield | 1709.9 |
-| 5 | Chelmsford | 1705.6 |
-| 6 | Natick | 1699.9 |
-| 7 | Lexington | 1695.8 |
-| 8 | Lowell | 1677.1 |
-| 9 | Revere | 1675.9 |
-| 10 | Medfield | 1661.9 |
-| 11 | Barnstable | 1649.7 |
-| 12 | North Quincy | 1645.4 |
-| 13 | Greater New Bedford | 1639.6 |
-| 14 | Agawam | 1631.0 |
-| 15 | Norton | 1620.8 |
-| 16 | North Andover | 1619.7 |
-| 17 | Milford | 1613.4 |
-| 18 | Methuen | 1601.2 |
-| 19 | Newton South | 1598.3 |
-| 20 | Quincy | 1596.3 |
-| 21 | Chicopee Comprehensive | 1593.2 |
-| 22 | Marlborough | 1589.4 |
-| 23 | Lawrence | 1588.3 |
-| 24 | Nipmuc | 1586.9 |
-| 25 | Belchertown | 1584.2 |
-| 26 | Greater Lowell | 1582.9 |
-| 27 | Greater Lawrence | 1580.7 |
-| 28 | Pioneer Valley Christian | 1579.2 |
-| 29 | Latin Academy | 1570.9 |
-| 30 | Arlington | 1567.2 |
-| 31 | Acton-Boxborough | 1565.9 |
-| 32 | Veritas Prep | 1565.3 |
-| 33 | Ayer Shirley | 1561.4 |
-| 34 | Shrewsbury | 1561.2 |
-| 35 | Randolph | 1560.6 |
-| 36 | Springfield International | 1557.1 |
-| 37 | Weymouth | 1556.6 |
-| 38 | Westford | 1554.0 |
-| 39 | West Springfield | 1553.9 |
-| 40 | Excel Academy | 1553.8 |
-| 41 | Milton | 1553.7 |
-| 42 | Assabet | 1547.9 |
-| 43 | Longmeadow | 1547.8 |
-| 44 | Lynn Classical | 1545.7 |
-| 45 | O’Bryant | 1542.2 |
-| 46 | Granby | 1541.5 |
-| 47 | Malden | 1541.1 |
-| 48 | Cambridge | 1540.1 |
-| 49 | Somerville | 1538.5 |
-| 50 | Bellingham | 1535.4 |
-| 51 | Ware | 1534.0 |
-| 52 | Newton North | 1525.4 |
-| 53 | Brockton | 1521.9 |
-| 54 | Pioneer Charter II | 1518.9 |
-| 55 | Tolman (R.I.) | 1518.2 |
-| 56 | Winchester | 1517.0 |
-| 57 | BC High | 1515.7 |
-| 58 | KIPP | 1511.5 |
-| 59 | Woburn | 1509.9 |
-| 60 | St. John’s (Shrewsbury) | 1507.1 |
-| 61 | Braintree | 1506.9 |
-| 62 | Worcester South | 1505.7 |
-| 63 | Billerica | 1505.1 |
-| 64 | Collegiate Charter | 1504.5 |
-| 65 | University Park/Claremont | 1503.5 |
-| 66 | Hopkinton | 1502.8 |
-| 67 | Boston Latin | 1502.5 |
-| 68 | Burlington | 1502.4 |
-| 69 | Keefe Tech | 1502.3 |
-| 70 | Minnechaug | 1501.0 |
-| 71 | Phillips Andover | 1500.0 |
-| 72 | Walpole | 1500.0 |
-| 73 | Bay Path | 1499.1 |
-| 74 | North Middlesex | 1496.4 |
-| 75 | Leominster | 1494.1 |
-| 76 | Lynn English | 1490.0 |
-| 77 | La Salle (R.I.) | 1489.7 |
-| 78 | Boston Collegiate | 1489.3 |
-| 79 | Pioneer Charter I | 1488.6 |
-| 80 | Lowell Catholic | 1488.6 |
-| 81 | Worcester North | 1485.1 |
-| 82 | Athol | 1484.5 |
-| 83 | Boston United | 1483.0 |
-| 84 | King Philip | 1481.9 |
-| 85 | Salem Academy | 1481.5 |
-| 86 | Dracut | 1473.6 |
-| 87 | Springfield Central | 1473.4 |
-| 88 | Taunton | 1472.9 |
-| 89 | Prospect Hill | 1470.1 |
-| 90 | Springfield Sci-Tech | 1469.5 |
-| 91 | Burncoat | 1469.3 |
-| 92 | Argosy Collegiate | 1468.3 |
-| 93 | Codman Charter | 1462.2 |
-| 94 | Southwick | 1458.6 |
-| 95 | Lincoln-Sudbury | 1458.5 |
-| 96 | Doherty | 1458.2 |
-| 97 | Wachusett | 1456.8 |
-| 98 | Frontier | 1455.9 |
-| 99 | Putnam | 1455.5 |
-| 100 | Foxborough Charter | 1450.6 |
-| 101 | Innovation Academy | 1450.0 |
-| 102 | Chicopee | 1449.4 |
-| 103 | Millis | 1449.1 |
-| 104 | Whittier | 1448.6 |
-| 105 | Holyoke | 1447.1 |
-| 106 | Duggan Academy | 1446.6 |
-| 107 | Lynn Tech | 1446.2 |
-| 108 | East Longmeadow | 1444.7 |
-| 109 | Medford | 1443.2 |
-| 110 | Algonquin | 1438.5 |
-| 111 | St. John’s Prep | 1438.0 |
-| 112 | Hampden Charter East | 1437.5 |
-| 113 | Durfee | 1435.3 |
-| 114 | Westwood | 1434.2 |
-| 115 | Central Catholic | 1433.4 |
-| 116 | South Lancaster | 1431.0 |
-| 117 | Ludlow | 1429.0 |
-| 118 | Worcester Tech | 1428.9 |
-| 119 | Brooke Charter | 1428.2 |
-| 120 | Fitchburg | 1428.2 |
-| 121 | Haverhill | 1424.2 |
-| 122 | Belmont | 1420.2 |
-| 123 | Andover | 1418.4 |
-| 124 | Madison Park | 1417.4 |
-| 125 | Libertas Academy | 1417.4 |
-| 126 | Wakefield | 1415.2 |
-| 127 | Commerce | 1415.1 |
-| 128 | Academy/Pacific Rim | 1413.9 |
-| 129 | Dighton-Rehoboth | 1412.3 |
-| 130 | Waltham/Weston | 1410.7 |
-| 131 | Southeastern | 1409.9 |
-| 132 | Xaverian | 1409.4 |
-| 133 | New Bedford | 1406.6 |
-| 134 | Wellesley | 1397.8 |
-| 135 | Nashoba | 1395.5 |
-| 136 | Catholic Memorial | 1384.2 |
-| 137 | Attleboro | 1376.4 |
+| 1 | Wayland | 1757.7 |
+| 2 | Brookline | 1727.3 |
+| 3 | Needham | 1718.9 |
+| 4 | Westfield | 1707.5 |
+| 5 | Chelmsford | 1700.5 |
+| 6 | Lexington | 1694.8 |
+| 7 | Natick | 1690.8 |
+| 8 | Revere | 1683.9 |
+| 9 | Lowell | 1678.1 |
+| 10 | Medfield | 1663.7 |
+| 11 | Barnstable | 1663.3 |
+| 12 | North Quincy | 1650.7 |
+| 13 | Greater New Bedford | 1642.1 |
+| 14 | Norton | 1637.2 |
+| 15 | Agawam | 1621.7 |
+| 16 | North Andover | 1613.5 |
+| 17 | Quincy | 1601.7 |
+| 18 | Milford | 1601.6 |
+| 19 | Methuen | 1599.3 |
+| 20 | Greater Lowell | 1593.6 |
+| 21 | Lawrence | 1592.7 |
+| 22 | Belchertown | 1591.1 |
+| 23 | Nipmuc | 1589.8 |
+| 24 | Newton South | 1588.4 |
+| 25 | Marlborough | 1584.9 |
+| 26 | Chicopee Comprehensive | 1582.2 |
+| 27 | Greater Lawrence | 1582.2 |
+| 28 | Arlington | 1581.5 |
+| 29 | Pioneer Valley Christian | 1581.1 |
+| 30 | Acton-Boxborough | 1572.5 |
+| 31 | Ayer Shirley | 1569.8 |
+| 32 | Shrewsbury | 1563.5 |
+| 33 | Veritas Prep | 1562.2 |
+| 34 | Lynn Classical | 1558.8 |
+| 35 | Springfield International | 1557.3 |
+| 36 | Latin Academy | 1557.0 |
+| 37 | Randolph | 1556.0 |
+| 38 | Weymouth | 1555.5 |
+| 39 | Excel Academy | 1554.0 |
+| 40 | Milton | 1552.5 |
+| 41 | Assabet | 1549.2 |
+| 42 | Westford | 1548.7 |
+| 43 | West Springfield | 1546.5 |
+| 44 | Ware | 1542.6 |
+| 45 | Somerville | 1541.3 |
+| 46 | Longmeadow | 1540.4 |
+| 47 | O’Bryant | 1534.0 |
+| 48 | Malden | 1533.8 |
+| 49 | Granby | 1532.6 |
+| 50 | Cambridge | 1532.6 |
+| 51 | Bellingham | 1529.6 |
+| 52 | Newton North | 1527.6 |
+| 53 | KIPP | 1526.5 |
+| 54 | Brockton | 1525.9 |
+| 55 | BC High | 1518.2 |
+| 56 | Pioneer Charter II | 1516.0 |
+| 57 | Tolman (R.I.) | 1514.3 |
+| 58 | Winchester | 1514.0 |
+| 59 | Braintree | 1512.1 |
+| 60 | Woburn | 1510.9 |
+| 61 | Billerica | 1509.3 |
+| 62 | Worcester South | 1508.3 |
+| 63 | St. John’s (Shrewsbury) | 1505.2 |
+| 64 | University Park/Claremont | 1503.4 |
+| 65 | Collegiate Charter | 1503.0 |
+| 66 | Keefe Tech | 1502.5 |
+| 67 | Bay Path | 1502.1 |
+| 68 | Phillips Andover | 1500.0 |
+| 69 | Walpole | 1500.0 |
+| 70 | Minnechaug | 1498.3 |
+| 71 | Hopkinton | 1497.6 |
+| 72 | Burlington | 1497.0 |
+| 73 | Lynn English | 1496.7 |
+| 74 | Boston Latin | 1493.9 |
+| 75 | North Middlesex | 1492.9 |
+| 76 | Lowell Catholic | 1492.7 |
+| 77 | La Salle (R.I.) | 1491.8 |
+| 78 | Leominster | 1491.7 |
+| 79 | Boston Collegiate | 1490.8 |
+| 80 | Athol | 1490.5 |
+| 81 | Pioneer Charter I | 1490.5 |
+| 82 | Salem Academy | 1490.3 |
+| 83 | Boston United | 1486.7 |
+| 84 | King Philip | 1484.6 |
+| 85 | Worcester North | 1483.9 |
+| 86 | Dracut | 1481.8 |
+| 87 | Prospect Hill | 1475.7 |
+| 88 | Springfield Central | 1474.3 |
+| 89 | Burncoat | 1470.0 |
+| 90 | Taunton | 1469.4 |
+| 91 | Doherty | 1469.3 |
+| 92 | Codman Charter | 1469.1 |
+| 93 | Argosy Collegiate | 1467.7 |
+| 94 | Wachusett | 1463.7 |
+| 95 | Springfield Sci-Tech | 1462.9 |
+| 96 | Innovation Academy | 1462.2 |
+| 97 | Southwick | 1461.1 |
+| 98 | Putnam | 1458.4 |
+| 99 | Frontier | 1457.0 |
+| 100 | Millis | 1453.4 |
+| 101 | Lincoln-Sudbury | 1452.8 |
+| 102 | East Longmeadow | 1452.5 |
+| 103 | Duggan Academy | 1451.7 |
+| 104 | Foxborough Charter | 1451.5 |
+| 105 | Chicopee | 1450.0 |
+| 106 | Holyoke | 1444.7 |
+| 107 | Whittier | 1443.8 |
+| 108 | Lynn Tech | 1443.7 |
+| 109 | Fitchburg | 1442.2 |
+| 110 | Medford | 1442.1 |
+| 111 | Algonquin | 1441.2 |
+| 112 | Durfee | 1439.9 |
+| 113 | Westwood | 1436.0 |
+| 114 | Haverhill | 1435.3 |
+| 115 | Hampden Charter East | 1434.3 |
+| 116 | St. John’s Prep | 1430.5 |
+| 117 | Central Catholic | 1430.0 |
+| 118 | Brooke Charter | 1427.8 |
+| 119 | Commerce | 1425.7 |
+| 120 | South Lancaster | 1425.5 |
+| 121 | Worcester Tech | 1423.2 |
+| 122 | Ludlow | 1423.1 |
+| 123 | Academy/Pacific Rim | 1422.0 |
+| 124 | Libertas Academy | 1418.8 |
+| 125 | Belmont | 1415.2 |
+| 126 | Wakefield | 1415.1 |
+| 127 | Southeastern | 1412.5 |
+| 128 | Dighton-Rehoboth | 1412.0 |
+| 129 | Madison Park | 1411.2 |
+| 130 | Andover | 1410.9 |
+| 131 | Xaverian | 1409.6 |
+| 132 | New Bedford | 1406.9 |
+| 133 | Waltham/Weston | 1402.2 |
+| 134 | Wellesley | 1398.8 |
+| 135 | Nashoba | 1385.3 |
+| 136 | Catholic Memorial | 1381.6 |
+| 137 | Attleboro | 1378.2 |
 | 138 | Silver Lake | 1375.1 |
-| 139 | Everett | 1367.5 |
-| 140 | Nashoba Valley Tech | 1367.1 |
-| 141 | Chelsea | 1362.3 |
-| 142 | Abby Kelley Foster | 1355.0 |
-| 143 | Georgetown | 1349.6 |
-| 144 | Hingham | 1344.0 |
-| 145 | Norwood | 1338.7 |
-| 146 | Essex Tech | 1334.7 |
-| 147 | Framingham | 1334.4 |
-| 148 | Salem | 1315.8 |
-| 149 | Scituate | 1278.6 |
+| 139 | Nashoba Valley Tech | 1367.6 |
+| 140 | Everett | 1362.5 |
+| 141 | Chelsea | 1361.7 |
+| 142 | Georgetown | 1356.4 |
+| 143 | Abby Kelley Foster | 1351.3 |
+| 144 | Hingham | 1348.3 |
+| 145 | Norwood | 1330.7 |
+| 146 | Essex Tech | 1330.1 |
+| 147 | Framingham | 1328.3 |
+| 148 | Salem | 1307.8 |
+| 149 | Scituate | 1274.7 |
 
 ## Elo Ratings by Division
 
@@ -173,154 +173,154 @@ Generated: 2026-10-31 11:42
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Needham | 1735.5 | 2 |
-| 2 | Brookline | 1729.8 | 3 |
-| 3 | Chelmsford | 1705.6 | 5 |
-| 4 | Natick | 1699.9 | 6 |
-| 5 | Lexington | 1695.8 | 7 |
-| 6 | Lowell | 1677.1 | 8 |
-| 7 | Revere | 1675.9 | 9 |
-| 8 | Barnstable | 1649.7 | 11 |
-| 9 | North Quincy | 1645.4 | 12 |
-| 10 | Greater New Bedford | 1639.6 | 13 |
-| 11 | Agawam | 1631.0 | 14 |
-| 12 | North Andover | 1619.7 | 16 |
-| 13 | Methuen | 1601.2 | 18 |
-| 14 | Newton South | 1598.3 | 19 |
-| 15 | Quincy | 1596.3 | 20 |
-| 16 | Lawrence | 1588.3 | 23 |
-| 17 | Nipmuc | 1586.9 | 24 |
-| 18 | Arlington | 1567.2 | 30 |
-| 19 | Acton-Boxborough | 1565.9 | 31 |
-| 20 | Weymouth | 1556.6 | 37 |
-| 21 | Westford | 1554.0 | 38 |
-| 22 | West Springfield | 1553.9 | 39 |
-| 23 | Milton | 1553.7 | 41 |
-| 24 | Malden | 1541.1 | 47 |
-| 25 | Cambridge | 1540.1 | 48 |
-| 26 | Somerville | 1538.5 | 49 |
-| 27 | Newton North | 1525.4 | 52 |
-| 28 | Brockton | 1521.9 | 53 |
-| 29 | Winchester | 1517.0 | 56 |
-| 30 | BC High | 1515.7 | 57 |
-| 31 | Woburn | 1509.9 | 59 |
-| 32 | St. John’s (Shrewsbury) | 1507.1 | 60 |
-| 33 | Braintree | 1506.9 | 61 |
-| 34 | Worcester South | 1505.7 | 62 |
-| 35 | Billerica | 1505.1 | 63 |
-| 36 | Hopkinton | 1502.8 | 66 |
-| 37 | Boston Latin | 1502.5 | 67 |
-| 38 | Minnechaug | 1501.0 | 70 |
-| 39 | Leominster | 1494.1 | 75 |
-| 40 | Lynn English | 1490.0 | 76 |
-| 41 | Lowell Catholic | 1488.6 | 80 |
-| 42 | King Philip | 1481.9 | 84 |
-| 43 | Springfield Central | 1473.4 | 87 |
-| 44 | Taunton | 1472.9 | 88 |
-| 45 | Lincoln-Sudbury | 1458.5 | 95 |
-| 46 | Doherty | 1458.2 | 96 |
-| 47 | Wachusett | 1456.8 | 97 |
-| 48 | Putnam | 1455.5 | 99 |
-| 49 | Medford | 1443.2 | 109 |
-| 50 | Algonquin | 1438.5 | 110 |
-| 51 | St. John’s Prep | 1438.0 | 111 |
-| 52 | Durfee | 1435.3 | 113 |
-| 53 | Central Catholic | 1433.4 | 115 |
-| 54 | South Lancaster | 1431.0 | 116 |
-| 55 | Worcester Tech | 1428.9 | 118 |
-| 56 | Haverhill | 1424.2 | 121 |
-| 57 | Belmont | 1420.2 | 122 |
-| 58 | Andover | 1418.4 | 123 |
-| 59 | Waltham/Weston | 1410.7 | 130 |
-| 60 | Xaverian | 1409.4 | 132 |
-| 61 | New Bedford | 1406.6 | 133 |
-| 62 | Wellesley | 1397.8 | 134 |
-| 63 | Catholic Memorial | 1384.2 | 136 |
-| 64 | Attleboro | 1376.4 | 137 |
+| 1 | Brookline | 1727.3 | 2 |
+| 2 | Needham | 1718.9 | 3 |
+| 3 | Chelmsford | 1700.5 | 5 |
+| 4 | Lexington | 1694.8 | 6 |
+| 5 | Natick | 1690.8 | 7 |
+| 6 | Revere | 1683.9 | 8 |
+| 7 | Lowell | 1678.1 | 9 |
+| 8 | Barnstable | 1663.3 | 11 |
+| 9 | North Quincy | 1650.7 | 12 |
+| 10 | Greater New Bedford | 1642.1 | 13 |
+| 11 | Agawam | 1621.7 | 15 |
+| 12 | North Andover | 1613.5 | 16 |
+| 13 | Quincy | 1601.7 | 17 |
+| 14 | Methuen | 1599.3 | 19 |
+| 15 | Lawrence | 1592.7 | 21 |
+| 16 | Nipmuc | 1589.8 | 23 |
+| 17 | Newton South | 1588.4 | 24 |
+| 18 | Arlington | 1581.5 | 28 |
+| 19 | Acton-Boxborough | 1572.5 | 30 |
+| 20 | Weymouth | 1555.5 | 38 |
+| 21 | Milton | 1552.5 | 40 |
+| 22 | Westford | 1548.7 | 42 |
+| 23 | West Springfield | 1546.5 | 43 |
+| 24 | Somerville | 1541.3 | 45 |
+| 25 | Malden | 1533.8 | 48 |
+| 26 | Cambridge | 1532.6 | 50 |
+| 27 | Newton North | 1527.6 | 52 |
+| 28 | Brockton | 1525.9 | 54 |
+| 29 | BC High | 1518.2 | 55 |
+| 30 | Winchester | 1514.0 | 58 |
+| 31 | Braintree | 1512.1 | 59 |
+| 32 | Woburn | 1510.9 | 60 |
+| 33 | Billerica | 1509.3 | 61 |
+| 34 | Worcester South | 1508.3 | 62 |
+| 35 | St. John’s (Shrewsbury) | 1505.2 | 63 |
+| 36 | Minnechaug | 1498.3 | 70 |
+| 37 | Hopkinton | 1497.6 | 71 |
+| 38 | Lynn English | 1496.7 | 73 |
+| 39 | Boston Latin | 1493.9 | 74 |
+| 40 | Lowell Catholic | 1492.7 | 76 |
+| 41 | Leominster | 1491.7 | 78 |
+| 42 | King Philip | 1484.6 | 84 |
+| 43 | Springfield Central | 1474.3 | 88 |
+| 44 | Taunton | 1469.4 | 90 |
+| 45 | Doherty | 1469.3 | 91 |
+| 46 | Wachusett | 1463.7 | 94 |
+| 47 | Putnam | 1458.4 | 98 |
+| 48 | Lincoln-Sudbury | 1452.8 | 101 |
+| 49 | Medford | 1442.1 | 110 |
+| 50 | Algonquin | 1441.2 | 111 |
+| 51 | Durfee | 1439.9 | 112 |
+| 52 | Haverhill | 1435.3 | 114 |
+| 53 | St. John’s Prep | 1430.5 | 116 |
+| 54 | Central Catholic | 1430.0 | 117 |
+| 55 | South Lancaster | 1425.5 | 120 |
+| 56 | Worcester Tech | 1423.2 | 121 |
+| 57 | Belmont | 1415.2 | 125 |
+| 58 | Andover | 1410.9 | 130 |
+| 59 | Xaverian | 1409.6 | 131 |
+| 60 | New Bedford | 1406.9 | 132 |
+| 61 | Waltham/Weston | 1402.2 | 133 |
+| 62 | Wellesley | 1398.8 | 134 |
+| 63 | Catholic Memorial | 1381.6 | 136 |
+| 64 | Attleboro | 1378.2 | 137 |
 | 65 | Silver Lake | 1375.1 | 138 |
-| 66 | Everett | 1367.5 | 139 |
-| 67 | Hingham | 1344.0 | 144 |
-| 68 | Essex Tech | 1334.7 | 146 |
-| 69 | Framingham | 1334.4 | 147 |
+| 66 | Everett | 1362.5 | 140 |
+| 67 | Hingham | 1348.3 | 144 |
+| 68 | Essex Tech | 1330.1 | 146 |
+| 69 | Framingham | 1328.3 | 147 |
 
 ### Division 2
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Wayland | 1770.2 | 1 |
-| 2 | Westfield | 1709.9 | 4 |
-| 3 | Medfield | 1661.9 | 10 |
-| 4 | Norton | 1620.8 | 15 |
-| 5 | Milford | 1613.4 | 17 |
-| 6 | Chicopee Comprehensive | 1593.2 | 21 |
-| 7 | Marlborough | 1589.4 | 22 |
-| 8 | Belchertown | 1584.2 | 25 |
-| 9 | Greater Lowell | 1582.9 | 26 |
-| 10 | Greater Lawrence | 1580.7 | 27 |
-| 11 | Pioneer Valley Christian | 1579.2 | 28 |
-| 12 | Latin Academy | 1570.9 | 29 |
-| 13 | Veritas Prep | 1565.3 | 32 |
-| 14 | Ayer Shirley | 1561.4 | 33 |
-| 15 | Randolph | 1560.6 | 35 |
-| 16 | Springfield International | 1557.1 | 36 |
-| 17 | Excel Academy | 1553.8 | 40 |
-| 18 | Assabet | 1547.9 | 42 |
-| 19 | Longmeadow | 1547.8 | 43 |
-| 20 | Lynn Classical | 1545.7 | 44 |
-| 21 | O’Bryant | 1542.2 | 45 |
-| 22 | Granby | 1541.5 | 46 |
-| 23 | Bellingham | 1535.4 | 50 |
-| 24 | Ware | 1534.0 | 51 |
-| 25 | Pioneer Charter II | 1518.9 | 54 |
-| 26 | KIPP | 1511.5 | 58 |
-| 27 | Collegiate Charter | 1504.5 | 64 |
-| 28 | University Park/Claremont | 1503.5 | 65 |
-| 29 | Burlington | 1502.4 | 68 |
-| 30 | Keefe Tech | 1502.3 | 69 |
-| 31 | Walpole | 1500.0 | 72 |
-| 32 | Bay Path | 1499.1 | 73 |
-| 33 | North Middlesex | 1496.4 | 74 |
-| 34 | Boston Collegiate | 1489.3 | 78 |
-| 35 | Pioneer Charter I | 1488.6 | 79 |
-| 36 | Worcester North | 1485.1 | 81 |
-| 37 | Athol | 1484.5 | 82 |
-| 38 | Boston United | 1483.0 | 83 |
-| 39 | Salem Academy | 1481.5 | 85 |
-| 40 | Dracut | 1473.6 | 86 |
-| 41 | Prospect Hill | 1470.1 | 89 |
-| 42 | Springfield Sci-Tech | 1469.5 | 90 |
-| 43 | Burncoat | 1469.3 | 91 |
-| 44 | Argosy Collegiate | 1468.3 | 92 |
-| 45 | Codman Charter | 1462.2 | 93 |
-| 46 | Southwick | 1458.6 | 94 |
-| 47 | Frontier | 1455.9 | 98 |
-| 48 | Foxborough Charter | 1450.6 | 100 |
-| 49 | Innovation Academy | 1450.0 | 101 |
-| 50 | Chicopee | 1449.4 | 102 |
-| 51 | Millis | 1449.1 | 103 |
-| 52 | Whittier | 1448.6 | 104 |
-| 53 | Holyoke | 1447.1 | 105 |
-| 54 | Duggan Academy | 1446.6 | 106 |
-| 55 | Lynn Tech | 1446.2 | 107 |
-| 56 | East Longmeadow | 1444.7 | 108 |
-| 57 | Hampden Charter East | 1437.5 | 112 |
-| 58 | Westwood | 1434.2 | 114 |
-| 59 | Ludlow | 1429.0 | 117 |
-| 60 | Brooke Charter | 1428.2 | 119 |
-| 61 | Fitchburg | 1428.2 | 120 |
-| 62 | Madison Park | 1417.4 | 124 |
-| 63 | Libertas Academy | 1417.4 | 125 |
-| 64 | Wakefield | 1415.2 | 126 |
-| 65 | Commerce | 1415.1 | 127 |
-| 66 | Academy/Pacific Rim | 1413.9 | 128 |
-| 67 | Dighton-Rehoboth | 1412.3 | 129 |
-| 68 | Nashoba | 1395.5 | 135 |
-| 69 | Nashoba Valley Tech | 1367.1 | 140 |
-| 70 | Chelsea | 1362.3 | 141 |
-| 71 | Abby Kelley Foster | 1355.0 | 142 |
-| 72 | Norwood | 1338.7 | 145 |
-| 73 | Salem | 1315.8 | 148 |
-| 74 | Scituate | 1278.6 | 149 |
+| 1 | Wayland | 1757.7 | 1 |
+| 2 | Westfield | 1707.5 | 4 |
+| 3 | Medfield | 1663.7 | 10 |
+| 4 | Norton | 1637.2 | 14 |
+| 5 | Milford | 1601.6 | 18 |
+| 6 | Greater Lowell | 1593.6 | 20 |
+| 7 | Belchertown | 1591.1 | 22 |
+| 8 | Marlborough | 1584.9 | 25 |
+| 9 | Chicopee Comprehensive | 1582.2 | 26 |
+| 10 | Greater Lawrence | 1582.2 | 27 |
+| 11 | Pioneer Valley Christian | 1581.1 | 29 |
+| 12 | Ayer Shirley | 1569.8 | 31 |
+| 13 | Veritas Prep | 1562.2 | 33 |
+| 14 | Lynn Classical | 1558.8 | 34 |
+| 15 | Springfield International | 1557.3 | 35 |
+| 16 | Latin Academy | 1557.0 | 36 |
+| 17 | Randolph | 1556.0 | 37 |
+| 18 | Excel Academy | 1554.0 | 39 |
+| 19 | Assabet | 1549.2 | 41 |
+| 20 | Ware | 1542.6 | 44 |
+| 21 | Longmeadow | 1540.4 | 46 |
+| 22 | O’Bryant | 1534.0 | 47 |
+| 23 | Granby | 1532.6 | 49 |
+| 24 | Bellingham | 1529.6 | 51 |
+| 25 | KIPP | 1526.5 | 53 |
+| 26 | Pioneer Charter II | 1516.0 | 56 |
+| 27 | University Park/Claremont | 1503.4 | 64 |
+| 28 | Collegiate Charter | 1503.0 | 65 |
+| 29 | Keefe Tech | 1502.5 | 66 |
+| 30 | Bay Path | 1502.1 | 67 |
+| 31 | Walpole | 1500.0 | 69 |
+| 32 | Burlington | 1497.0 | 72 |
+| 33 | North Middlesex | 1492.9 | 75 |
+| 34 | Boston Collegiate | 1490.8 | 79 |
+| 35 | Athol | 1490.5 | 80 |
+| 36 | Pioneer Charter I | 1490.5 | 81 |
+| 37 | Salem Academy | 1490.3 | 82 |
+| 38 | Boston United | 1486.7 | 83 |
+| 39 | Worcester North | 1483.9 | 85 |
+| 40 | Dracut | 1481.8 | 86 |
+| 41 | Prospect Hill | 1475.7 | 87 |
+| 42 | Burncoat | 1470.0 | 89 |
+| 43 | Codman Charter | 1469.1 | 92 |
+| 44 | Argosy Collegiate | 1467.7 | 93 |
+| 45 | Springfield Sci-Tech | 1462.9 | 95 |
+| 46 | Innovation Academy | 1462.2 | 96 |
+| 47 | Southwick | 1461.1 | 97 |
+| 48 | Frontier | 1457.0 | 99 |
+| 49 | Millis | 1453.4 | 100 |
+| 50 | East Longmeadow | 1452.5 | 102 |
+| 51 | Duggan Academy | 1451.7 | 103 |
+| 52 | Foxborough Charter | 1451.5 | 104 |
+| 53 | Chicopee | 1450.0 | 105 |
+| 54 | Holyoke | 1444.7 | 106 |
+| 55 | Whittier | 1443.8 | 107 |
+| 56 | Lynn Tech | 1443.7 | 108 |
+| 57 | Fitchburg | 1442.2 | 109 |
+| 58 | Westwood | 1436.0 | 113 |
+| 59 | Hampden Charter East | 1434.3 | 115 |
+| 60 | Brooke Charter | 1427.8 | 118 |
+| 61 | Commerce | 1425.7 | 119 |
+| 62 | Ludlow | 1423.1 | 122 |
+| 63 | Academy/Pacific Rim | 1422.0 | 123 |
+| 64 | Libertas Academy | 1418.8 | 124 |
+| 65 | Wakefield | 1415.1 | 126 |
+| 66 | Dighton-Rehoboth | 1412.0 | 128 |
+| 67 | Madison Park | 1411.2 | 129 |
+| 68 | Nashoba | 1385.3 | 135 |
+| 69 | Nashoba Valley Tech | 1367.6 | 139 |
+| 70 | Chelsea | 1361.7 | 141 |
+| 71 | Abby Kelley Foster | 1351.3 | 143 |
+| 72 | Norwood | 1330.7 | 145 |
+| 73 | Salem | 1307.8 | 148 |
+| 74 | Scituate | 1274.7 | 149 |
 
 ### Other teams
 
@@ -328,9 +328,9 @@ Non-MIAA opponents and teams without a known division.
 
 | Team | Elo Rating | Overall Rank | Status |
 |------|------------|--------------|--------|
-| Shrewsbury | 1561.2 | 34 | unknown |
-| Tolman (R.I.) | 1518.2 | 55 | non-member |
-| Phillips Andover | 1500.0 | 71 | non-member |
-| La Salle (R.I.) | 1489.7 | 77 | non-member |
-| Southeastern | 1409.9 | 131 | unknown |
-| Georgetown | 1349.6 | 143 | unknown |
+| Shrewsbury | 1563.5 | 32 | unknown |
+| Tolman (R.I.) | 1514.3 | 57 | non-member |
+| Phillips Andover | 1500.0 | 68 | non-member |
+| La Salle (R.I.) | 1491.8 | 77 | non-member |
+| Southeastern | 1412.5 | 127 | unknown |
+| Georgetown | 1356.4 | 142 | unknown |

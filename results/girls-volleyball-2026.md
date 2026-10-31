@@ -1,262 +1,262 @@
 # Girls Volleyball - 2026 Season
 
-Generated: 2026-10-31 11:42
+Generated: 2026-10-31 08:11
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-10-31 | 1:00 P.M. | Andover | Reading | 54.0% | +0.8 |
-| 2026-10-31 | 12:00 P.M. | Smith Voc. | Old Colony | 51.4% | +0.3 |
-| 2026-10-31 | 10:00 A.M. | Greater Lawrence | Greater Lowell | 83.1% | +7.9 |
-| 2026-10-31 | 11:00 A.M. | Greater New Bedford | Shawsheen | 46.0% | -0.8 |
-| 2026-10-31 | 12:00 P.M. | Diman | Bristol-Plymouth | 67.1% | +3.5 |
+| 2026-10-31 | 1:00 P.M. | Andover | Reading | 54.0% | -0.0 |
+| 2026-10-31 | 12:00 P.M. | Smith Voc. | Old Colony | 51.4% | -0.2 |
+| 2026-10-31 | 10:00 A.M. | Greater Lawrence | Greater Lowell | 83.1% | +2.6 |
+| 2026-10-31 | 11:00 A.M. | Greater New Bedford | Shawsheen | 46.0% | -0.6 |
+| 2026-10-31 | 12:00 P.M. | Diman | Bristol-Plymouth | 67.1% | +1.0 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-10-30 | Fairhaven | 1 | Joseph Case | 3 | -1.5 | -2.0 |
-| 2026-10-30 | Weston | 3 | Wakefield | 1 | +0.2 | +2.0 |
-| 2026-10-30 | Concord-Carlisle | 1 | Lexington | 3 | -3.9 | -2.0 |
-| 2026-10-30 | Acton-Boxborough | 3 | Algonquin | 1 | +4.6 | +2.0 |
-| 2026-10-30 | Greater Lowell | 3 | Cristo Rey | 0 | +2.5 | +3.0 |
-| 2026-10-30 | Barnstable | 3 | Notre Dame (Hingham) | 0 | +5.2 | +3.0 |
-| 2026-10-30 | Oliver Ames | 3 | Bishop Feehan | 1 | +5.5 | +2.0 |
-| 2026-10-30 | Arlington Catholic | 3 | Hudson | 1 | +2.1 | +2.0 |
-| 2026-10-30 | Lynnfield | 3 | Haverhill | 1 | +7.9 | +2.0 |
-| 2026-10-30 | Sturgis West | 1 | Monomoy | 3 | -1.1 | -2.0 |
-| 2026-10-30 | Nauset | 3 | Cape Cod Tech | 1 | +1.4 | +2.0 |
-| 2026-10-30 | New Bedford | 3 | Middleborough | 1 | +2.9 | +2.0 |
-| 2026-10-30 | Weymouth | 0 | Plymouth North | 3 | -3.1 | -3.0 |
-| 2026-10-30 | Brockton | 1 | Milton | 3 | -1.1 | -2.0 |
-| 2026-10-30 | Walpole | 2 | Mansfield | 3 | -1.1 | -1.0 |
-| 2026-10-30 | Newton South | 0 | Brookline | 3 | -3.9 | -3.0 |
-| 2026-10-30 | Winchester | 2 | Newton North | 3 | +4.3 | -1.0 |
-| 2026-10-30 | Boston Latin | 1 | Belmont | 3 | -4.9 | -2.0 |
-| 2026-10-30 | Westborough | 3 | Dennis-Yarmouth | 0 | +6.4 | +3.0 |
-| 2026-10-30 | Malden | 1 | Lowell | 3 | +5.3 | -2.0 |
-| 2026-10-30 | Holliston | 3 | Westwood | 2 | +1.4 | +1.0 |
-| 2026-10-30 | Medford | 0 | Revere | 3 | +1.6 | -3.0 |
-| 2026-10-30 | Gloucester | 0 | Triton | 3 | +6.5 | -3.0 |
-| 2026-10-30 | Burncoat | 0 | Marlborough | 3 | +1.4 | -3.0 |
-| 2026-10-30 | St. George’s | 0 | BB&N | 3 | -6.1 | -3.0 |
-| 2026-10-30 | Medway | 3 | Hopedale | 0 | -1.6 | +3.0 |
-| 2026-10-30 | Medfield | 1 | Hopkinton | 3 | -1.0 | -2.0 |
-| 2026-10-30 | Hopkinton | 3 | Algonquin | 1 | +5.7 | +2.0 |
-| 2026-10-30 | Blackstone Valley | 3 | Assabet | 0 | +4.7 | +3.0 |
-| 2026-10-30 | Dartmouth | 1 | Old Rochester | 3 | -3.0 | -2.0 |
-| 2026-10-30 | Norwell | 3 | Plymouth South | 0 | +10.0 | +3.0 |
-| 2026-10-30 | Hanover | 3 | Rockland | 2 | +2.3 | +1.0 |
-| 2026-10-30 | Beverly | 3 | Saugus | 1 | +10.2 | +2.0 |
-| 2026-10-30 | Burlington | 3 | Peabody | 0 | +8.7 | +3.0 |
-| 2026-10-30 | Methuen | 0 | Melrose | 3 | -3.9 | -3.0 |
+| 2026-10-30 | Fairhaven | 1 | Joseph Case | 3 | -0.8 | -2.0 |
+| 2026-10-30 | Weston | 3 | Wakefield | 1 | -0.2 | +2.0 |
+| 2026-10-30 | Concord-Carlisle | 1 | Lexington | 3 | -1.7 | -2.0 |
+| 2026-10-30 | Acton-Boxborough | 3 | Algonquin | 1 | +1.4 | +2.0 |
+| 2026-10-30 | Greater Lowell | 3 | Cristo Rey | 0 | +0.6 | +3.0 |
+| 2026-10-30 | Barnstable | 3 | Notre Dame (Hingham) | 0 | +1.6 | +3.0 |
+| 2026-10-30 | Oliver Ames | 3 | Bishop Feehan | 1 | +1.7 | +2.0 |
+| 2026-10-30 | Arlington Catholic | 3 | Hudson | 1 | +0.5 | +2.0 |
+| 2026-10-30 | Lynnfield | 3 | Haverhill | 1 | +2.6 | +2.0 |
+| 2026-10-30 | Sturgis West | 1 | Monomoy | 3 | -0.7 | -2.0 |
+| 2026-10-30 | Nauset | 3 | Cape Cod Tech | 1 | +0.2 | +2.0 |
+| 2026-10-30 | New Bedford | 3 | Middleborough | 1 | +0.8 | +2.0 |
+| 2026-10-30 | Weymouth | 0 | Plymouth North | 3 | -1.4 | -3.0 |
+| 2026-10-30 | Brockton | 1 | Milton | 3 | -0.7 | -2.0 |
+| 2026-10-30 | Walpole | 2 | Mansfield | 3 | -0.7 | -1.0 |
+| 2026-10-30 | Newton South | 0 | Brookline | 3 | -1.7 | -3.0 |
+| 2026-10-30 | Winchester | 2 | Newton North | 3 | +1.3 | -1.0 |
+| 2026-10-30 | Boston Latin | 1 | Belmont | 3 | -2.1 | -2.0 |
+| 2026-10-30 | Westborough | 3 | Dennis-Yarmouth | 0 | +2.0 | +3.0 |
+| 2026-10-30 | Malden | 1 | Lowell | 3 | +1.6 | -2.0 |
+| 2026-10-30 | Holliston | 3 | Westwood | 2 | +0.2 | +1.0 |
+| 2026-10-30 | Medford | 0 | Revere | 3 | +0.3 | -3.0 |
+| 2026-10-30 | Gloucester | 0 | Triton | 3 | +2.1 | -3.0 |
+| 2026-10-30 | Burncoat | 0 | Marlborough | 3 | +0.2 | -3.0 |
+| 2026-10-30 | St. George’s | 0 | BB&N | 3 | -2.5 | -3.0 |
+| 2026-10-30 | Medway | 3 | Hopedale | 0 | -0.9 | +3.0 |
+| 2026-10-30 | Medfield | 1 | Hopkinton | 3 | -0.7 | -2.0 |
+| 2026-10-30 | Hopkinton | 3 | Algonquin | 1 | +1.8 | +2.0 |
+| 2026-10-30 | Blackstone Valley | 3 | Assabet | 0 | +1.4 | +3.0 |
+| 2026-10-30 | Dartmouth | 1 | Old Rochester | 3 | -1.4 | -2.0 |
+| 2026-10-30 | Norwell | 3 | Plymouth South | 0 | +3.4 | +3.0 |
+| 2026-10-30 | Hanover | 3 | Rockland | 2 | +0.5 | +1.0 |
+| 2026-10-30 | Beverly | 3 | Saugus | 1 | +3.4 | +2.0 |
+| 2026-10-30 | Burlington | 3 | Peabody | 0 | +2.9 | +3.0 |
+| 2026-10-30 | Methuen | 0 | Melrose | 3 | -1.7 | -3.0 |
 | 2026-10-30 | Seekonk | 0 | Diman | 3 | -0.4 | -3.0 |
-| 2026-10-29 | Greater Lowell | 3 | Lawrence | 2 | +5.2 | +1.0 |
-| 2026-10-29 | Pentucket | 1 | Essex Tech | 3 | -4.4 | -2.0 |
-| 2026-10-29 | Andover | 3 | Newburyport | 0 | -0.0 | +3.0 |
+| 2026-10-29 | Greater Lowell | 3 | Lawrence | 2 | +1.6 | +1.0 |
+| 2026-10-29 | Pentucket | 1 | Essex Tech | 3 | -1.9 | -2.0 |
+| 2026-10-29 | Andover | 3 | Newburyport | 0 | -0.3 | +3.0 |
 | 2026-10-29 | Cardinal Spellman | 0 | Arlington Catholic | 3 | -0.5 | -3.0 |
-| 2026-10-29 | St. Mary’s | 3 | Methuen | 0 | +0.4 | +3.0 |
-| 2026-10-29 | Tewksbury | 2 | Shawsheen | 3 | -6.2 | -1.0 |
-| 2026-10-29 | Collegiate Charter | 1 | Lowell Catholic | 3 | +5.5 | -2.0 |
-| 2026-10-29 | Whittier | 0 | Notre Dame (Tyngsborough) | 3 | +4.3 | -3.0 |
-| 2026-10-29 | Bedford | 3 | Minuteman | 1 | -0.3 | +2.0 |
-| 2026-10-29 | Gloucester | 3 | KIPP | 1 | +5.0 | +2.0 |
-| 2026-10-29 | Ipswich | 0 | Hamilton-Wenham | 3 | +0.2 | -3.0 |
-| 2026-10-29 | North Reading | 1 | Lynnfield | 3 | -5.2 | -2.0 |
-| 2026-10-29 | Framingham | 0 | Milton | 3 | -5.5 | -3.0 |
-| 2026-10-29 | Georgetown | 0 | Triton | 3 | -0.6 | -3.0 |
-| 2026-10-29 | Nantucket | 1 | Mashpee | 3 | +3.2 | -2.0 |
-| 2026-10-29 | Monomoy | 0 | Sturgis East | 3 | +4.6 | -3.0 |
-| 2026-10-29 | Sandwich | 1 | St. John Paul II | 3 | +1.3 | -2.0 |
-| 2026-10-29 | Bridgewater-Raynham | 3 | Falmouth | 0 | +8.1 | +3.0 |
-| 2026-10-29 | Bishop Stang | 1 | Durfee | 3 | +7.7 | -2.0 |
-| 2026-10-29 | Weymouth | 0 | Wellesley | 3 | -5.9 | -3.0 |
-| 2026-10-29 | Braintree | 1 | Brookline | 3 | -5.7 | -2.0 |
-| 2026-10-29 | Walpole | 0 | Newton North | 3 | -11.5 | -3.0 |
-| 2026-10-29 | Natick | 3 | Needham | 2 | -1.0 | +1.0 |
-| 2026-10-29 | Chelsea | 0 | Northeast | 3 | -7.1 | -3.0 |
-| 2026-10-29 | Nashoba Valley Tech | 3 | Keefe Tech | 0 | -2.7 | +3.0 |
-| 2026-10-29 | Shrewsbury | 3 | Concord-Carlisle | 0 | +8.0 | +3.0 |
-| 2026-10-29 | Monty Tech | 2 | Southeastern | 3 | +4.1 | -1.0 |
-| 2026-10-29 | Scituate | 0 | North Quincy | 3 | -7.1 | -3.0 |
-| 2026-10-29 | Westford | 3 | Weston | 1 | +5.6 | +2.0 |
-| 2026-10-29 | Greater Lawrence | 3 | Dracut | 0 | +7.3 | +3.0 |
-| 2026-10-29 | Maimonides | 0 | Calvary Chapel | 3 | -5.3 | -3.0 |
-| 2026-10-29 | Nobles | 2 | Austin Prep | 3 | +3.4 | -1.0 |
-| 2026-10-29 | Norfolk Aggie | 3 | Bristol Aggie | 0 | -0.7 | +3.0 |
+| 2026-10-29 | St. Mary’s | 3 | Methuen | 0 | -0.1 | +3.0 |
+| 2026-10-29 | Tewksbury | 2 | Shawsheen | 3 | -2.6 | -1.0 |
+| 2026-10-29 | Collegiate Charter | 1 | Lowell Catholic | 3 | +1.7 | -2.0 |
+| 2026-10-29 | Whittier | 0 | Notre Dame (Tyngsborough) | 3 | +1.3 | -3.0 |
+| 2026-10-29 | Bedford | 3 | Minuteman | 1 | -0.4 | +2.0 |
+| 2026-10-29 | Gloucester | 3 | KIPP | 1 | +1.5 | +2.0 |
+| 2026-10-29 | Ipswich | 0 | Hamilton-Wenham | 3 | -0.2 | -3.0 |
+| 2026-10-29 | North Reading | 1 | Lynnfield | 3 | -2.2 | -2.0 |
+| 2026-10-29 | Framingham | 0 | Milton | 3 | -2.3 | -3.0 |
+| 2026-10-29 | Georgetown | 0 | Triton | 3 | -0.5 | -3.0 |
+| 2026-10-29 | Nantucket | 1 | Mashpee | 3 | +0.9 | -2.0 |
+| 2026-10-29 | Monomoy | 0 | Sturgis East | 3 | +1.4 | -3.0 |
+| 2026-10-29 | Sandwich | 1 | St. John Paul II | 3 | +0.2 | -2.0 |
+| 2026-10-29 | Bridgewater-Raynham | 3 | Falmouth | 0 | +2.7 | +3.0 |
+| 2026-10-29 | Bishop Stang | 1 | Durfee | 3 | +2.5 | -2.0 |
+| 2026-10-29 | Weymouth | 0 | Wellesley | 3 | -2.5 | -3.0 |
+| 2026-10-29 | Braintree | 1 | Brookline | 3 | -2.4 | -2.0 |
+| 2026-10-29 | Walpole | 0 | Newton North | 3 | -4.5 | -3.0 |
+| 2026-10-29 | Natick | 3 | Needham | 2 | -0.7 | +1.0 |
+| 2026-10-29 | Chelsea | 0 | Northeast | 3 | -2.9 | -3.0 |
+| 2026-10-29 | Nashoba Valley Tech | 3 | Keefe Tech | 0 | -1.3 | +3.0 |
+| 2026-10-29 | Shrewsbury | 3 | Concord-Carlisle | 0 | +2.7 | +3.0 |
+| 2026-10-29 | Monty Tech | 2 | Southeastern | 3 | +1.2 | -1.0 |
+| 2026-10-29 | Scituate | 0 | North Quincy | 3 | -2.9 | -3.0 |
+| 2026-10-29 | Westford | 3 | Weston | 1 | +1.8 | +2.0 |
+| 2026-10-29 | Greater Lawrence | 3 | Dracut | 0 | +2.4 | +3.0 |
+| 2026-10-29 | Maimonides | 0 | Calvary Chapel | 3 | -2.2 | -3.0 |
+| 2026-10-29 | Nobles | 2 | Austin Prep | 3 | +0.9 | -1.0 |
+| 2026-10-29 | Norfolk Aggie | 3 | Bristol Aggie | 0 | -0.5 | +3.0 |
 | 2026-10-29 | Bay Path | 3 | Tri-County | 2 | -0.5 | +1.0 |
-| 2026-10-29 | Millis | 0 | Bellingham | 3 | -12.6 | -3.0 |
-| 2026-10-29 | Norton | 1 | Dedham | 3 | +1.7 | -2.0 |
-| 2026-10-29 | Rockland | 3 | Randolph | 0 | +8.4 | +3.0 |
+| 2026-10-29 | Millis | 0 | Bellingham | 3 | -4.9 | -3.0 |
+| 2026-10-29 | Norton | 1 | Dedham | 3 | +0.3 | -2.0 |
+| 2026-10-29 | Rockland | 3 | Randolph | 0 | +2.8 | +3.0 |
 | 2026-10-29 | Joseph Case | 3 | East Bridgewater | 1 | -0.5 | +2.0 |
-| 2026-10-29 | Norwood | 3 | Ashland | 2 | +1.0 | +1.0 |
-| 2026-10-29 | Masconomet | 2 | Swampscott | 3 | +0.5 | -1.0 |
-| 2026-10-29 | Wareham | 0 | Carver | 3 | -7.2 | -3.0 |
-| 2026-10-29 | Chelmsford | 3 | Franklin | 2 | +0.5 | +1.0 |
-| 2026-10-29 | Whitinsville Christian | 3 | Milford | 0 | +5.7 | +3.0 |
-| 2026-10-29 | Danvers | 3 | Salem | 1 | +1.6 | +2.0 |
-| 2026-10-29 | Avon | 1 | Abington | 3 | +0.9 | -2.0 |
-| 2026-10-29 | Taunton | 3 | North Attleborough | 0 | +7.7 | +3.0 |
-| 2026-10-29 | Middleborough | 3 | Bristol-Plymouth | 1 | -1.0 | +2.0 |
-| 2026-10-29 | Marblehead | 3 | Billerica | 1 | +6.1 | +2.0 |
-| 2026-10-29 | Stoneham | 3 | Wilmington | 2 | +1.4 | +1.0 |
-| 2026-10-28 | Westwood | 1 | Ashland | 3 | -1.1 | -2.0 |
-| 2026-10-28 | Westborough | 3 | Dartmouth | 0 | +2.3 | +3.0 |
-| 2026-10-28 | Cohasset | 3 | West Bridgewater | 0 | +1.1 | +3.0 |
-| 2026-10-28 | Bourne | 0 | Duxbury | 3 | -7.5 | -3.0 |
-| 2026-10-28 | Norwell | 3 | Scituate | 1 | +7.6 | +2.0 |
+| 2026-10-29 | Norwood | 3 | Ashland | 2 | +0.1 | +1.0 |
+| 2026-10-29 | Masconomet | 2 | Swampscott | 3 | -0.1 | -1.0 |
+| 2026-10-29 | Wareham | 0 | Carver | 3 | -2.9 | -3.0 |
+| 2026-10-29 | Chelmsford | 3 | Franklin | 2 | -0.1 | +1.0 |
+| 2026-10-29 | Whitinsville Christian | 3 | Milford | 0 | +1.8 | +3.0 |
+| 2026-10-29 | Danvers | 3 | Salem | 1 | +0.3 | +2.0 |
+| 2026-10-29 | Avon | 1 | Abington | 3 | +0.1 | -2.0 |
+| 2026-10-29 | Taunton | 3 | North Attleborough | 0 | +2.5 | +3.0 |
+| 2026-10-29 | Middleborough | 3 | Bristol-Plymouth | 1 | -0.7 | +2.0 |
+| 2026-10-29 | Marblehead | 3 | Billerica | 1 | +2.0 | +2.0 |
+| 2026-10-29 | Stoneham | 3 | Wilmington | 2 | +0.2 | +1.0 |
+| 2026-10-28 | Westwood | 1 | Ashland | 3 | -0.7 | -2.0 |
+| 2026-10-28 | Westborough | 3 | Dartmouth | 0 | +0.5 | +3.0 |
+| 2026-10-28 | Cohasset | 3 | West Bridgewater | 0 | +0.1 | +3.0 |
+| 2026-10-28 | Bourne | 0 | Duxbury | 3 | -3.1 | -3.0 |
+| 2026-10-28 | Norwell | 3 | Scituate | 1 | +2.5 | +2.0 |
 | 2026-10-28 | North Quincy | 1 | Barnstable | 3 | -0.4 | -2.0 |
-| 2026-10-28 | Malden Catholic | 3 | Swampscott | 1 | -2.2 | +2.0 |
-| 2026-10-28 | Plymouth North | 3 | Hanover | 0 | +0.4 | +3.0 |
-| 2026-10-28 | Avon | 3 | Randolph | 0 | +7.2 | +3.0 |
-| 2026-10-28 | Saugus | 2 | Gloucester | 3 | -5.2 | -1.0 |
-| 2026-10-28 | Marblehead | 3 | Peabody | 0 | +10.7 | +3.0 |
-| 2026-10-28 | Danvers | 3 | Masconomet | 0 | +3.5 | +3.0 |
-| 2026-10-28 | Middleborough | 1 | Old Colony | 3 | -6.6 | -2.0 |
-| 2026-10-28 | Diman | 1 | Westport | 3 | +0.1 | -2.0 |
-| 2026-10-28 | Wareham | 0 | Bristol Aggie | 3 | +1.0 | -3.0 |
-| 2026-10-28 | Holliston | 3 | Medfield | 1 | -1.2 | +2.0 |
-| 2026-10-28 | Dedham | 3 | Medway | 2 | -1.1 | +1.0 |
+| 2026-10-28 | Malden Catholic | 3 | Swampscott | 1 | -1.1 | +2.0 |
+| 2026-10-28 | Plymouth North | 3 | Hanover | 0 | -0.1 | +3.0 |
+| 2026-10-28 | Avon | 3 | Randolph | 0 | +2.3 | +3.0 |
+| 2026-10-28 | Saugus | 2 | Gloucester | 3 | -2.2 | -1.0 |
+| 2026-10-28 | Marblehead | 3 | Peabody | 0 | +3.6 | +3.0 |
+| 2026-10-28 | Danvers | 3 | Masconomet | 0 | +1.0 | +3.0 |
+| 2026-10-28 | Middleborough | 1 | Old Colony | 3 | -2.7 | -2.0 |
+| 2026-10-28 | Diman | 1 | Westport | 3 | -0.3 | -2.0 |
+| 2026-10-28 | Wareham | 0 | Bristol Aggie | 3 | +0.1 | -3.0 |
+| 2026-10-28 | Holliston | 3 | Medfield | 1 | -0.7 | +2.0 |
+| 2026-10-28 | Dedham | 3 | Medway | 2 | -0.7 | +1.0 |
 | 2026-10-28 | Thayer | 3 | Winsor | 1 | -0.5 | +2.0 |
-| 2026-10-28 | Hopkinton | 3 | Norwood | 0 | +1.2 | +3.0 |
-| 2026-10-28 | Old Rochester | 3 | Dennis-Yarmouth | 0 | +8.7 | +3.0 |
-| 2026-10-28 | South Shore Voc-Tech | 3 | Franklin County Tech | 2 | +2.7 | +1.0 |
-| 2026-10-28 | Assabet | 3 | Marlborough | 0 | -2.3 | +3.0 |
-| 2026-10-28 | Douglas | 2 | Whitinsville Christian | 3 | -0.9 | -1.0 |
-| 2026-10-28 | O’Bryant | 3 | Madison Park | 0 | +1.2 | +3.0 |
-| 2026-10-28 | New Mission | 3 | Dearborn STEM | 0 | +3.5 | +3.0 |
-| 2026-10-28 | Governor’s Academy | 1 | Nobles | 3 | +0.9 | -2.0 |
+| 2026-10-28 | Hopkinton | 3 | Norwood | 0 | +0.1 | +3.0 |
+| 2026-10-28 | Old Rochester | 3 | Dennis-Yarmouth | 0 | +2.9 | +3.0 |
+| 2026-10-28 | South Shore Voc-Tech | 3 | Franklin County Tech | 2 | +0.7 | +1.0 |
+| 2026-10-28 | Assabet | 3 | Marlborough | 0 | -1.2 | +3.0 |
+| 2026-10-28 | Douglas | 2 | Whitinsville Christian | 3 | -0.6 | -1.0 |
+| 2026-10-28 | O’Bryant | 3 | Madison Park | 0 | +0.1 | +3.0 |
+| 2026-10-28 | New Mission | 3 | Dearborn STEM | 0 | +1.0 | +3.0 |
+| 2026-10-28 | Governor’s Academy | 1 | Nobles | 3 | +0.0 | -2.0 |
 | 2026-10-28 | Woburn | 2 | Melrose | 3 | -0.4 | -1.0 |
-| 2026-10-28 | Norton | 0 | Bellingham | 3 | -10.8 | -3.0 |
-| 2026-10-28 | Burlington | 2 | Lexington | 3 | +3.0 | -1.0 |
-| 2026-10-28 | Concord Academy | 0 | Austin Prep | 3 | +1.8 | -3.0 |
-| 2026-10-28 | Lawrence Academy | 3 | Brooks | 0 | +0.3 | +3.0 |
-| 2026-10-28 | Watertown | 1 | Stoneham | 3 | +0.4 | -2.0 |
-| 2026-10-28 | BB&N | 3 | Phillips Exeter | 0 | +7.7 | +3.0 |
-| 2026-10-28 | Winchester | 3 | Reading | 0 | +3.1 | +3.0 |
-| 2026-10-28 | Abington | 3 | Holbrook | 1 | -4.6 | +2.0 |
-| 2026-10-28 | Dighton-Rehoboth | 3 | Foxborough | 2 | +3.9 | +1.0 |
-| 2026-10-28 | Durfee | 2 | Fairhaven | 3 | -7.8 | -1.0 |
-| 2026-10-28 | Whitman-Hanson | 3 | Cardinal Spellman | 0 | +2.0 | +3.0 |
+| 2026-10-28 | Norton | 0 | Bellingham | 3 | -4.3 | -3.0 |
+| 2026-10-28 | Burlington | 2 | Lexington | 3 | +0.8 | -1.0 |
+| 2026-10-28 | Concord Academy | 0 | Austin Prep | 3 | +0.4 | -3.0 |
+| 2026-10-28 | Lawrence Academy | 3 | Brooks | 0 | -0.2 | +3.0 |
+| 2026-10-28 | Watertown | 1 | Stoneham | 3 | -0.2 | -2.0 |
+| 2026-10-28 | BB&N | 3 | Phillips Exeter | 0 | +2.5 | +3.0 |
+| 2026-10-28 | Winchester | 3 | Reading | 0 | +0.8 | +3.0 |
+| 2026-10-28 | Abington | 3 | Holbrook | 1 | -2.0 | +2.0 |
+| 2026-10-28 | Dighton-Rehoboth | 3 | Foxborough | 2 | +1.2 | +1.0 |
+| 2026-10-28 | Durfee | 2 | Fairhaven | 3 | -3.1 | -1.0 |
+| 2026-10-28 | Whitman-Hanson | 3 | Cardinal Spellman | 0 | +0.4 | +3.0 |
 | 2026-10-28 | Lynn English | 2 | Medford | 3 | -0.4 | -1.0 |
-| 2026-10-28 | Waltham | 3 | Framingham | 0 | +0.4 | +3.0 |
-| 2026-10-28 | Stoughton | 3 | Brockton | 2 | -5.5 | +1.0 |
-| 2026-10-28 | Greater New Bedford | 3 | New Bedford | 1 | +4.4 | +2.0 |
-| 2026-10-28 | Nantucket | 3 | Nauset | 2 | +4.2 | +1.0 |
-| 2026-10-28 | Mashpee | 3 | Sturgis East | 1 | +2.4 | +2.0 |
+| 2026-10-28 | Waltham | 3 | Framingham | 0 | -0.2 | +3.0 |
+| 2026-10-28 | Stoughton | 3 | Brockton | 2 | -2.3 | +1.0 |
+| 2026-10-28 | Greater New Bedford | 3 | New Bedford | 1 | +1.3 | +2.0 |
+| 2026-10-28 | Nantucket | 3 | Nauset | 2 | +1.2 | +1.0 |
+| 2026-10-28 | Mashpee | 3 | Sturgis East | 1 | +0.6 | +2.0 |
 | 2026-10-28 | Attleboro | 1 | Bishop Feehan | 3 | -0.5 | -2.0 |
-| 2026-10-28 | Bishop Fenwick | 0 | Beverly | 3 | -4.1 | -3.0 |
-| 2026-10-28 | Weston | 3 | Arlington Catholic | 0 | +3.7 | +3.0 |
-| 2026-10-28 | Bristol-Plymouth | 1 | Fontbonne | 3 | +0.8 | -2.0 |
-| 2026-10-28 | Salem | 0 | Whittier | 3 | +5.1 | -3.0 |
-| 2026-10-28 | Lynn Tech | 3 | KIPP | 1 | +5.9 | +2.0 |
-| 2026-10-28 | Lincoln-Sudbury | 3 | Acton-Boxborough | 1 | +1.6 | +2.0 |
-| 2026-10-28 | Cambridge | 3 | Lowell | 1 | +5.8 | +2.0 |
-| 2026-10-28 | Somerville | 3 | Chelsea | 1 | +10.0 | +2.0 |
-| 2026-10-28 | Malden | 3 | Everett | 0 | +8.2 | +3.0 |
-| 2026-10-28 | Revere | 0 | Lynn Classical | 3 | -4.8 | -3.0 |
-| 2026-10-27 | Marshfield | 3 | Sandwich | 0 | -1.0 | +3.0 |
-| 2026-10-27 | Notre Dame (Hingham) | 0 | Plymouth North | 3 | +4.5 | -3.0 |
-| 2026-10-27 | Bishop Stang | 3 | Middleborough | 0 | +6.5 | +3.0 |
-| 2026-10-27 | Ipswich | 0 | Newburyport | 3 | -3.6 | -3.0 |
-| 2026-10-27 | Triton | 2 | Pentucket | 3 | -1.5 | -1.0 |
-| 2026-10-27 | Lynnfield | 3 | Hamilton-Wenham | 2 | +6.5 | +1.0 |
-| 2026-10-27 | Georgetown | 0 | North Reading | 3 | -6.9 | -3.0 |
-| 2026-10-27 | Calvary Chapel | 3 | St. John Paul II | 1 | +4.5 | +2.0 |
-| 2026-10-27 | Essex Tech | 3 | Revere | 0 | +5.6 | +3.0 |
-| 2026-10-27 | Pembroke | 3 | Falmouth | 0 | +11.3 | +3.0 |
-| 2026-10-27 | Milton | 3 | Walpole | 0 | +9.0 | +3.0 |
-| 2026-10-27 | Braintree | 3 | Weymouth | 0 | +5.2 | +3.0 |
-| 2026-10-27 | Brookline | 3 | Wellesley | 0 | +5.0 | +3.0 |
-| 2026-10-27 | Newton North | 3 | Natick | 0 | +4.6 | +3.0 |
-| 2026-10-27 | Needham | 3 | Framingham | 0 | +11.1 | +3.0 |
-| 2026-10-27 | Cristo Rey | 0 | Greater Lowell | 3 | +2.0 | -3.0 |
-| 2026-10-27 | North Middlesex | 1 | Greater Lawrence | 3 | -5.0 | -2.0 |
-| 2026-10-27 | Shawsheen | 3 | Concord-Carlisle | 2 | +7.9 | +1.0 |
-| 2026-10-27 | Innovation Academy | 0 | South Lancaster | 3 | -2.5 | -3.0 |
-| 2026-10-27 | Central Catholic | 3 | Westborough | 0 | +5.3 | +3.0 |
-| 2026-10-27 | Madison Park | 3 | East Boston | 0 | +5.7 | +3.0 |
-| 2026-10-27 | Whittier | 3 | Mystic Valley | 0 | -0.8 | +3.0 |
-| 2026-10-27 | Brighton | 1 | Dearborn STEM | 3 | +2.8 | -2.0 |
-| 2026-10-27 | O’Bryant | 3 | TechBoston/Henderson | 1 | +5.0 | +2.0 |
-| 2026-10-27 | Wachusett | 3 | Nashoba | 0 | +3.4 | +3.0 |
-| 2026-10-27 | Joseph Case | 3 | West Bridgewater | 0 | +5.7 | +3.0 |
-| 2026-10-27 | Silver Lake | 0 | East Bridgewater | 3 | -7.6 | -3.0 |
-| 2026-10-27 | New Mission | 3 | Latin Academy | 1 | +7.0 | +2.0 |
-| 2026-10-27 | Carver | 3 | Wareham | 0 | +9.1 | +3.0 |
+| 2026-10-28 | Bishop Fenwick | 0 | Beverly | 3 | -1.8 | -3.0 |
+| 2026-10-28 | Weston | 3 | Arlington Catholic | 0 | +1.1 | +3.0 |
+| 2026-10-28 | Bristol-Plymouth | 1 | Fontbonne | 3 | -0.0 | -2.0 |
+| 2026-10-28 | Salem | 0 | Whittier | 3 | +1.6 | -3.0 |
+| 2026-10-28 | Lynn Tech | 3 | KIPP | 1 | +1.9 | +2.0 |
+| 2026-10-28 | Lincoln-Sudbury | 3 | Acton-Boxborough | 1 | +0.3 | +2.0 |
+| 2026-10-28 | Cambridge | 3 | Lowell | 1 | +1.8 | +2.0 |
+| 2026-10-28 | Somerville | 3 | Chelsea | 1 | +3.4 | +2.0 |
+| 2026-10-28 | Malden | 3 | Everett | 0 | +2.7 | +3.0 |
+| 2026-10-28 | Revere | 0 | Lynn Classical | 3 | -2.0 | -3.0 |
+| 2026-10-27 | Marshfield | 3 | Sandwich | 0 | -0.7 | +3.0 |
+| 2026-10-27 | Notre Dame (Hingham) | 0 | Plymouth North | 3 | +1.4 | -3.0 |
+| 2026-10-27 | Bishop Stang | 3 | Middleborough | 0 | +2.1 | +3.0 |
+| 2026-10-27 | Ipswich | 0 | Newburyport | 3 | -1.6 | -3.0 |
+| 2026-10-27 | Triton | 2 | Pentucket | 3 | -0.8 | -1.0 |
+| 2026-10-27 | Lynnfield | 3 | Hamilton-Wenham | 2 | +2.1 | +1.0 |
+| 2026-10-27 | Georgetown | 0 | North Reading | 3 | -2.8 | -3.0 |
+| 2026-10-27 | Calvary Chapel | 3 | St. John Paul II | 1 | +1.4 | +2.0 |
+| 2026-10-27 | Essex Tech | 3 | Revere | 0 | +1.8 | +3.0 |
+| 2026-10-27 | Pembroke | 3 | Falmouth | 0 | +3.9 | +3.0 |
+| 2026-10-27 | Milton | 3 | Walpole | 0 | +3.0 | +3.0 |
+| 2026-10-27 | Braintree | 3 | Weymouth | 0 | +1.6 | +3.0 |
+| 2026-10-27 | Brookline | 3 | Wellesley | 0 | +1.5 | +3.0 |
+| 2026-10-27 | Newton North | 3 | Natick | 0 | +1.4 | +3.0 |
+| 2026-10-27 | Needham | 3 | Framingham | 0 | +3.8 | +3.0 |
+| 2026-10-27 | Cristo Rey | 0 | Greater Lowell | 3 | +0.4 | -3.0 |
+| 2026-10-27 | North Middlesex | 1 | Greater Lawrence | 3 | -2.1 | -2.0 |
+| 2026-10-27 | Shawsheen | 3 | Concord-Carlisle | 2 | +2.6 | +1.0 |
+| 2026-10-27 | Innovation Academy | 0 | South Lancaster | 3 | -1.2 | -3.0 |
+| 2026-10-27 | Central Catholic | 3 | Westborough | 0 | +1.6 | +3.0 |
+| 2026-10-27 | Madison Park | 3 | East Boston | 0 | +1.8 | +3.0 |
+| 2026-10-27 | Whittier | 3 | Mystic Valley | 0 | -0.6 | +3.0 |
+| 2026-10-27 | Brighton | 1 | Dearborn STEM | 3 | +0.7 | -2.0 |
+| 2026-10-27 | O’Bryant | 3 | TechBoston/Henderson | 1 | +1.5 | +2.0 |
+| 2026-10-27 | Wachusett | 3 | Nashoba | 0 | +1.0 | +3.0 |
+| 2026-10-27 | Joseph Case | 3 | West Bridgewater | 0 | +1.8 | +3.0 |
+| 2026-10-27 | Silver Lake | 0 | East Bridgewater | 3 | -3.1 | -3.0 |
+| 2026-10-27 | New Mission | 3 | Latin Academy | 1 | +2.3 | +2.0 |
+| 2026-10-27 | Carver | 3 | Wareham | 0 | +3.0 | +3.0 |
 | 2026-10-27 | Tewksbury | 3 | Bedford | 2 | -0.4 | +1.0 |
-| 2026-10-27 | Westford | 2 | Chelmsford | 3 | -0.8 | -1.0 |
-| 2026-10-27 | Nashoba Valley Tech | 2 | Maimonides | 3 | -2.7 | -1.0 |
-| 2026-10-27 | Methuen | 3 | Sharon | 0 | +2.2 | +3.0 |
-| 2026-10-26 | Maimonides | 3 | Nashoba Valley Tech | 1 | +5.0 | +2.0 |
-| 2026-10-26 | Cardinal Spellman | 0 | Whitman-Hanson | 3 | +2.3 | -3.0 |
-| 2026-10-26 | St. Mary’s | 3 | KIPP | 0 | +4.1 | +3.0 |
-| 2026-10-26 | Fontbonne | 3 | Malden Catholic | 0 | +2.7 | +3.0 |
-| 2026-10-26 | Notre Dame (Hingham) | 3 | Stoughton | 1 | +11.7 | +2.0 |
-| 2026-10-26 | Millbury | 1 | Greater Lawrence | 3 | -3.6 | -2.0 |
-| 2026-10-26 | Ursuline | 3 | Arlington Catholic | 0 | +6.8 | +3.0 |
-| 2026-10-26 | Shrewsbury | 2 | Acton-Boxborough | 3 | +1.5 | -1.0 |
-| 2026-10-26 | Notre Dame (Tyngsborough) | 0 | Dracut | 3 | -0.6 | -3.0 |
-| 2026-10-26 | Boston Latin | 1 | Newton South | 3 | -4.5 | -2.0 |
-| 2026-10-26 | Bedford | 3 | Waltham | 2 | +4.2 | +1.0 |
-| 2026-10-26 | Wayland | 3 | Weston | 1 | +1.7 | +2.0 |
-| 2026-10-26 | Lynn English | 3 | Chelsea | 0 | +2.5 | +3.0 |
-| 2026-10-26 | Revere | 3 | Everett | 0 | +4.9 | +3.0 |
-| 2026-10-26 | Bishop Feehan | 3 | Andover | 1 | +0.2 | +2.0 |
-| 2026-10-26 | Norwood | 3 | Holliston | 0 | +4.8 | +3.0 |
-| 2026-10-26 | Newburyport | 3 | Masconomet | 0 | +8.1 | +3.0 |
-| 2026-10-26 | Essex Tech | 3 | Bishop Fenwick | 0 | +8.7 | +3.0 |
-| 2026-10-26 | Monomoy | 2 | Westport | 3 | +1.7 | -1.0 |
-| 2026-10-26 | St. John Paul II | 1 | Nantucket | 3 | +5.7 | -2.0 |
-| 2026-10-26 | Sandwich | 3 | Sturgis West | 0 | +7.1 | +3.0 |
-| 2026-10-26 | Falmouth | 0 | Fairhaven | 3 | -8.3 | -3.0 |
-| 2026-10-26 | Dennis-Yarmouth | 0 | Somerset Berkley | 3 | -0.0 | -3.0 |
-| 2026-10-26 | Taunton | 3 | New Bedford | 0 | +6.6 | +3.0 |
-| 2026-10-26 | Apponequet | 1 | Durfee | 3 | +2.3 | -2.0 |
-| 2026-10-26 | Braintree | 3 | Bridgewater-Raynham | 1 | +1.0 | +2.0 |
-| 2026-10-26 | Central Catholic | 3 | Wellesley | 1 | +5.2 | +2.0 |
-| 2026-10-26 | Marlborough | 3 | Framingham | 2 | +8.2 | +1.0 |
-| 2026-10-26 | Chelmsford | 3 | Needham | 2 | +4.9 | +1.0 |
-| 2026-10-26 | Medford | 0 | Malden | 3 | -0.8 | -3.0 |
-| 2026-10-26 | Somerville | 0 | Lynn Classical | 3 | +1.0 | -3.0 |
-| 2026-10-26 | Medway | 3 | Norton | 0 | +2.3 | +3.0 |
-| 2026-10-26 | Attleboro | 1 | Bellingham | 3 | -4.3 | -2.0 |
-| 2026-10-26 | Rockland | 0 | Hanover | 3 | +1.2 | -3.0 |
-| 2026-10-26 | Wakefield | 3 | Burlington | 0 | +0.3 | +3.0 |
-| 2026-10-26 | Nauset | 3 | Sturgis West | 2 | +1.6 | +1.0 |
-| 2026-10-26 | Reading | 3 | Melrose | 0 | +2.4 | +3.0 |
-| 2026-10-26 | Burncoat | 1 | Whitinsville Christian | 3 | +2.4 | -2.0 |
-| 2026-10-26 | Woburn | 0 | Winchester | 3 | -3.2 | -3.0 |
-| 2026-10-26 | Medfield | 3 | Westwood | 2 | +2.6 | +1.0 |
-| 2026-10-26 | Millis | 0 | Dedham | 3 | +1.9 | -3.0 |
-| 2026-10-26 | Hopkinton | 2 | Ashland | 3 | +2.4 | -1.0 |
-| 2026-10-26 | Carver | 3 | Norwell | 0 | +5.3 | +3.0 |
-| 2026-10-26 | Bourne | 1 | Greater New Bedford | 3 | -2.1 | -2.0 |
-| 2026-10-26 | Cohasset | 3 | Scituate | 0 | +7.9 | +3.0 |
-| 2026-10-26 | Canton | 3 | King Philip | 1 | +4.9 | +2.0 |
-| 2026-10-26 | North Quincy | 3 | Quincy | 1 | +3.1 | +2.0 |
-| 2026-10-26 | Saugus | 3 | Swampscott | 2 | -7.2 | +1.0 |
-| 2026-10-26 | Danvers | 3 | Peabody | 0 | +7.4 | +3.0 |
-| 2026-10-26 | Beverly | 0 | Marblehead | 3 | -0.8 | -3.0 |
-| 2026-10-26 | Billerica | 3 | Tewksbury | 0 | +5.6 | +3.0 |
-| 2026-10-26 | Norfolk Aggie | 0 | West Bridgewater | 3 | -3.4 | -3.0 |
-| 2026-10-26 | Mashpee | 1 | Cape Cod Tech | 3 | +3.7 | -2.0 |
-| 2026-10-26 | Tri-County | 3 | South Shore Voc-Tech | 0 | +1.3 | +3.0 |
-| 2026-10-26 | Salem | 3 | Winthrop | 0 | +8.1 | +3.0 |
-| 2026-10-26 | Southeastern | 0 | Old Colony | 3 | -5.0 | -3.0 |
-| 2026-10-26 | Diman | 2 | Bristol-Plymouth | 3 | +3.2 | -1.0 |
-| 2026-10-26 | Seekonk | 3 | Avon | 0 | -2.1 | +3.0 |
-| 2026-10-26 | Barnstable | 0 | Oliver Ames | 3 | -1.9 | -3.0 |
-| 2026-10-26 | Methuen | 3 | Mansfield | 0 | +5.3 | +3.0 |
-| 2026-10-25 | Archbishop Williams | 2 | Brockton | 3 | +6.3 | -1.0 |
-| 2026-10-24 | Acton-Boxborough | 1 | Chelmsford | 3 | -2.7 | -2.0 |
-| 2026-10-24 | Muniz | 0 | Nantucket | 3 | +0.8 | -3.0 |
-| 2026-10-24 | Medfield | 3 | Bourne | 0 | +6.3 | +3.0 |
-| 2026-10-24 | Winthrop | 3 | Georgetown | 1 | +4.2 | +2.0 |
-| 2026-10-24 | BB&N | 3 | Groton | 0 | +6.6 | +3.0 |
-| 2026-10-24 | Tabor | 3 | St. George’s | 1 | +2.2 | +2.0 |
-| 2026-10-24 | Newton South | 3 | Needham | 2 | -0.8 | +1.0 |
+| 2026-10-27 | Westford | 2 | Chelmsford | 3 | -0.6 | -1.0 |
+| 2026-10-27 | Nashoba Valley Tech | 2 | Maimonides | 3 | -1.3 | -1.0 |
+| 2026-10-27 | Methuen | 3 | Sharon | 0 | +0.5 | +3.0 |
+| 2026-10-26 | Maimonides | 3 | Nashoba Valley Tech | 1 | +1.5 | +2.0 |
+| 2026-10-26 | Cardinal Spellman | 0 | Whitman-Hanson | 3 | +0.6 | -3.0 |
+| 2026-10-26 | St. Mary’s | 3 | KIPP | 0 | +1.2 | +3.0 |
+| 2026-10-26 | Fontbonne | 3 | Malden Catholic | 0 | +0.7 | +3.0 |
+| 2026-10-26 | Notre Dame (Hingham) | 3 | Stoughton | 1 | +4.0 | +2.0 |
+| 2026-10-26 | Millbury | 1 | Greater Lawrence | 3 | -1.6 | -2.0 |
+| 2026-10-26 | Ursuline | 3 | Arlington Catholic | 0 | +2.2 | +3.0 |
+| 2026-10-26 | Shrewsbury | 2 | Acton-Boxborough | 3 | +0.2 | -1.0 |
+| 2026-10-26 | Notre Dame (Tyngsborough) | 0 | Dracut | 3 | -0.5 | -3.0 |
+| 2026-10-26 | Boston Latin | 1 | Newton South | 3 | -1.9 | -2.0 |
+| 2026-10-26 | Bedford | 3 | Waltham | 2 | +1.2 | +1.0 |
+| 2026-10-26 | Wayland | 3 | Weston | 1 | +0.3 | +2.0 |
+| 2026-10-26 | Lynn English | 3 | Chelsea | 0 | +0.6 | +3.0 |
+| 2026-10-26 | Revere | 3 | Everett | 0 | +1.5 | +3.0 |
+| 2026-10-26 | Bishop Feehan | 3 | Andover | 1 | -0.2 | +2.0 |
+| 2026-10-26 | Norwood | 3 | Holliston | 0 | +1.5 | +3.0 |
+| 2026-10-26 | Newburyport | 3 | Masconomet | 0 | +2.7 | +3.0 |
+| 2026-10-26 | Essex Tech | 3 | Bishop Fenwick | 0 | +2.9 | +3.0 |
+| 2026-10-26 | Monomoy | 2 | Westport | 3 | +0.3 | -1.0 |
+| 2026-10-26 | St. John Paul II | 1 | Nantucket | 3 | +1.8 | -2.0 |
+| 2026-10-26 | Sandwich | 3 | Sturgis West | 0 | +2.3 | +3.0 |
+| 2026-10-26 | Falmouth | 0 | Fairhaven | 3 | -3.3 | -3.0 |
+| 2026-10-26 | Dennis-Yarmouth | 0 | Somerset Berkley | 3 | -0.3 | -3.0 |
+| 2026-10-26 | Taunton | 3 | New Bedford | 0 | +2.1 | +3.0 |
+| 2026-10-26 | Apponequet | 1 | Durfee | 3 | +0.6 | -2.0 |
+| 2026-10-26 | Braintree | 3 | Bridgewater-Raynham | 1 | +0.1 | +2.0 |
+| 2026-10-26 | Central Catholic | 3 | Wellesley | 1 | +1.6 | +2.0 |
+| 2026-10-26 | Marlborough | 3 | Framingham | 2 | +2.7 | +1.0 |
+| 2026-10-26 | Chelmsford | 3 | Needham | 2 | +1.5 | +1.0 |
+| 2026-10-26 | Medford | 0 | Malden | 3 | -0.6 | -3.0 |
+| 2026-10-26 | Somerville | 0 | Lynn Classical | 3 | +0.1 | -3.0 |
+| 2026-10-26 | Medway | 3 | Norton | 0 | +0.6 | +3.0 |
+| 2026-10-26 | Attleboro | 1 | Bellingham | 3 | -1.9 | -2.0 |
+| 2026-10-26 | Rockland | 0 | Hanover | 3 | +0.1 | -3.0 |
+| 2026-10-26 | Wakefield | 3 | Burlington | 0 | -0.2 | +3.0 |
+| 2026-10-26 | Nauset | 3 | Sturgis West | 2 | +0.3 | +1.0 |
+| 2026-10-26 | Reading | 3 | Melrose | 0 | +0.6 | +3.0 |
+| 2026-10-26 | Burncoat | 1 | Whitinsville Christian | 3 | +0.6 | -2.0 |
+| 2026-10-26 | Woburn | 0 | Winchester | 3 | -1.5 | -3.0 |
+| 2026-10-26 | Medfield | 3 | Westwood | 2 | +0.7 | +1.0 |
+| 2026-10-26 | Millis | 0 | Dedham | 3 | +0.4 | -3.0 |
+| 2026-10-26 | Hopkinton | 2 | Ashland | 3 | +0.6 | -1.0 |
+| 2026-10-26 | Carver | 3 | Norwell | 0 | +1.7 | +3.0 |
+| 2026-10-26 | Bourne | 1 | Greater New Bedford | 3 | -1.1 | -2.0 |
+| 2026-10-26 | Cohasset | 3 | Scituate | 0 | +2.6 | +3.0 |
+| 2026-10-26 | Canton | 3 | King Philip | 1 | +1.5 | +2.0 |
+| 2026-10-26 | North Quincy | 3 | Quincy | 1 | +0.9 | +2.0 |
+| 2026-10-26 | Saugus | 3 | Swampscott | 2 | -2.9 | +1.0 |
+| 2026-10-26 | Danvers | 3 | Peabody | 0 | +2.4 | +3.0 |
+| 2026-10-26 | Beverly | 0 | Marblehead | 3 | -0.6 | -3.0 |
+| 2026-10-26 | Billerica | 3 | Tewksbury | 0 | +1.8 | +3.0 |
+| 2026-10-26 | Norfolk Aggie | 0 | West Bridgewater | 3 | -1.5 | -3.0 |
+| 2026-10-26 | Mashpee | 1 | Cape Cod Tech | 3 | +1.1 | -2.0 |
+| 2026-10-26 | Tri-County | 3 | South Shore Voc-Tech | 0 | +0.2 | +3.0 |
+| 2026-10-26 | Salem | 3 | Winthrop | 0 | +2.7 | +3.0 |
+| 2026-10-26 | Southeastern | 0 | Old Colony | 3 | -2.1 | -3.0 |
+| 2026-10-26 | Diman | 2 | Bristol-Plymouth | 3 | +0.9 | -1.0 |
+| 2026-10-26 | Seekonk | 3 | Avon | 0 | -1.0 | +3.0 |
+| 2026-10-26 | Barnstable | 0 | Oliver Ames | 3 | -1.0 | -3.0 |
+| 2026-10-26 | Methuen | 3 | Mansfield | 0 | +1.7 | +3.0 |
+| 2026-10-25 | Archbishop Williams | 2 | Brockton | 3 | +2.0 | -1.0 |
+| 2026-10-24 | Acton-Boxborough | 1 | Chelmsford | 3 | -1.3 | -2.0 |
+| 2026-10-24 | Muniz | 0 | Nantucket | 3 | +0.0 | -3.0 |
+| 2026-10-24 | Medfield | 3 | Bourne | 0 | +2.0 | +3.0 |
+| 2026-10-24 | Winthrop | 3 | Georgetown | 1 | +1.2 | +2.0 |
+| 2026-10-24 | BB&N | 3 | Groton | 0 | +2.1 | +3.0 |
+| 2026-10-24 | Tabor | 3 | St. George’s | 1 | +0.5 | +2.0 |
+| 2026-10-24 | Newton South | 3 | Needham | 2 | -0.6 | +1.0 |
 
 ## Current Elo Ratings
 
@@ -443,11 +443,11 @@ Generated: 2026-10-31 11:42
 | 179 | Choate | 1504.1 |
 | 180 | Pioneer Charter II | 1503.3 |
 | 181 | Westwood | 1503.3 |
-| 182 | Fellowship Christian | 1502.8 |
-| 183 | Dublin | 1502.8 |
-| 184 | South Shore Christian | 1502.8 |
-| 185 | Trinity Christian | 1502.8 |
-| 186 | Northfield Mt. Hermon | 1502.8 |
+| 182 | South Shore Christian | 1502.8 |
+| 183 | Fellowship Christian | 1502.8 |
+| 184 | Dublin | 1502.8 |
+| 185 | Northfield Mt. Hermon | 1502.8 |
+| 186 | Trinity Christian | 1502.8 |
 | 187 | Dennis-Yarmouth | 1500.8 |
 | 188 | Commerce | 1500.4 |
 | 189 | TechBoston/Henderson Inclusion School | 1500.3 |
@@ -1037,11 +1037,11 @@ Non-MIAA opponents and teams without a known division.
 | Hoosac School | 1506.5 | 171 | non-member |
 | Milton Academy | 1506.2 | 172 | non-member |
 | Choate | 1504.1 | 179 | non-member |
-| Fellowship Christian | 1502.8 | 182 | non-member |
-| Dublin | 1502.8 | 183 | non-member |
-| South Shore Christian | 1502.8 | 184 | non-member |
-| Trinity Christian | 1502.8 | 185 | non-member |
-| Northfield Mt. Hermon | 1502.8 | 186 | non-member |
+| South Shore Christian | 1502.8 | 182 | non-member |
+| Fellowship Christian | 1502.8 | 183 | non-member |
+| Dublin | 1502.8 | 184 | non-member |
+| Northfield Mt. Hermon | 1502.8 | 185 | non-member |
+| Trinity Christian | 1502.8 | 186 | non-member |
 | Kingswood-Oxford | 1500.2 | 190 | non-member |
 | Deerfield | 1497.8 | 192 | non-member |
 | Portsmouth Abbey | 1497.5 | 193 | non-member |

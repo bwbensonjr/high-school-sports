@@ -1,6 +1,6 @@
 # Boys Tennis - 2026 Season
 
-Generated: 2026-10-31 11:42
+Generated: 2026-10-31 08:11
 
 ## Upcoming Games
 
@@ -133,10 +133,10 @@ Generated: 2026-10-31 11:42
 | 115 | Belchertown | 1503.6 |
 | 116 | Palmer | 1502.3 |
 | 117 | Chelmsford | 1501.4 |
-| 118 | Pittsfield | 1500.0 |
-| 119 | Greater Lowell | 1500.0 |
-| 120 | Greater Lawrence | 1500.0 |
-| 121 | Fellowship Christian | 1500.0 |
+| 118 | Fellowship Christian | 1500.0 |
+| 119 | Greater Lawrence | 1500.0 |
+| 120 | Pittsfield | 1500.0 |
+| 121 | Greater Lowell | 1500.0 |
 | 122 | Ashland | 1499.7 |
 | 123 | Chicopee | 1498.1 |
 | 124 | Austin Prep | 1496.9 |
@@ -291,7 +291,7 @@ Generated: 2026-10-31 11:42
 | 27 | Diman | 1515.7 | 98 |
 | 28 | BC High | 1512.9 | 104 |
 | 29 | Chelmsford | 1501.4 | 117 |
-| 30 | Greater Lawrence | 1500.0 | 120 |
+| 30 | Greater Lawrence | 1500.0 | 119 |
 | 31 | Franklin | 1496.5 | 126 |
 | 32 | Wachusett | 1495.6 | 129 |
 | 33 | Brookline | 1492.4 | 133 |
@@ -410,7 +410,7 @@ Generated: 2026-10-31 11:42
 | 30 | Pentucket | 1507.1 | 113 |
 | 31 | Rockland/EB | 1504.1 | 114 |
 | 32 | Belchertown | 1503.6 | 115 |
-| 33 | Pittsfield | 1500.0 | 118 |
+| 33 | Pittsfield | 1500.0 | 120 |
 | 34 | Chicopee | 1498.1 | 123 |
 | 35 | Turners Falls | 1496.6 | 125 |
 | 36 | Amherst-Pelham | 1494.9 | 130 |
@@ -509,8 +509,8 @@ Non-MIAA opponents and teams without a known division.
 | Cushing | 1516.0 | 97 | non-member |
 | Cardinal Spellman | 1514.5 | 100 | unknown |
 | Worcester Academy | 1508.7 | 110 | non-member |
-| Greater Lowell | 1500.0 | 119 | unknown |
-| Fellowship Christian | 1500.0 | 121 | non-member |
+| Fellowship Christian | 1500.0 | 118 | non-member |
+| Greater Lowell | 1500.0 | 121 | unknown |
 | Austin Prep | 1496.9 | 124 | non-member |
 | Brooks | 1492.1 | 134 | non-member |
 | Beaver Country Day | 1491.7 | 135 | non-member |
