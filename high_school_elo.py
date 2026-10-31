@@ -15,8 +15,8 @@ import sys
 SPORT_CONFIG = {
     "baseball": {"spread_factor": 57.9, "spread_home_field": 46},
     "boys-basketball": {"spread_factor": 20},
-    "boys-cross-country": {"k": 80, "home_field": 0, "spread_factor": 22.4, "spread_home_field": -48},
-    "boys-golf": {"k": 40, "home_field": 0, "spread_factor": 14.2, "spread_home_field": -32},
+    "boys-cross-country": {"k": 80, "home_field": 20, "spread_factor": 22.2, "spread_home_field": 47},
+    "boys-golf": {"k": 100, "home_field": 50, "season_regression": 0.1, "margin_of_victory": False},
     "boys-hockey": {"k": 100, "home_field": 40, "spread_factor": 120.2, "spread_home_field": 56},
     "boys-lacrosse": {"k": 80, "home_field": 60, "spread_factor": 53.3, "spread_home_field": 92},
     "boys-soccer": {"k": 80, "spread_factor": 121.6, "spread_home_field": 38},
@@ -27,6 +27,7 @@ SPORT_CONFIG = {
     "football": {"k": 60, "home_field": 30, "spread_factor": 17.5, "spread_home_field": 22},
     "girls-basketball": {"k": 60, "home_field": 60, "spread_factor": 24.5, "spread_home_field": 104},
     "girls-cross-country": {"k": 100, "home_field": 10, "spread_factor": 20, "spread_home_field": -18},
+    "girls-golf": {"margin_of_victory": False},  # results only; k not calibrated: insufficient data
     "girls-hockey": {"k": 120, "home_field": 40, "spread_factor": 143.4, "spread_home_field": 38},
     "girls-lacrosse": {"k": 80, "home_field": 90, "spread_factor": 54.3, "spread_home_field": 130},
     "girls-soccer": {"k": 100, "spread_factor": 132.8, "spread_home_field": 51},
@@ -38,6 +39,19 @@ SPORT_CONFIG = {
 }
 # Sports not listed use Elo class defaults. Sports with under 300 completed games are not
 # calibrated (e.g. indoor track, swimming, gymnastics, rugby).
+
+# Which score wins, per sport (default "higher"). Cross country is scored like golf
+# stroke play, lowest team score wins. Golf mixes stroke play (lower wins) with match
+# play and points formats (higher wins) without saying which, so the recorded result
+# decides the winner; since margins are not comparable across formats, golf sports
+# also set margin_of_victory=False in SPORT_CONFIG and predict no spreads.
+SCORE_ORDER = {
+    "boys-cross-country": "lower",
+    "girls-cross-country": "lower",
+    "boys-golf": "outcome",
+    "girls-golf": "outcome",
+}
+
 
 def main():
     if len(sys.argv) > 1:
@@ -253,12 +267,45 @@ def add_rating_divisions(final_ratings, games, sport, divisions, reference_date)
     return ratings
 
 
+def home_margins(games, sport):
+    """
+    Home team's margin of victory for each game: positive when the home team won,
+    negative when it lost, zero for a tie.
+
+    The direction depends on the sport's SCORE_ORDER: "higher" (default) is home
+    minus visitor score; "lower" reverses it; "outcome" takes the sign from the
+    recorded result (home_outcome: 1 home won, 0 visitor won, 2 tie) and the size
+    from the score difference, falling back to home minus visitor when no outcome
+    is recorded.
+
+    Returns:
+        Series: Home margin per game
+    """
+    diff = (games["home_score"] - games["visitor_score"]).astype(float)
+    order = SCORE_ORDER.get(sport, "higher")
+    if order == "lower":
+        return -diff
+    if order == "outcome" and "home_outcome" in games:
+        outcome = games["home_outcome"]
+        sign = np.select([outcome == 1, outcome == 0, outcome == 2], [1.0, -1.0, 0.0], default=np.nan)
+        return pd.Series(np.where(np.isnan(sign), diff, sign * diff.abs()), index=games.index)
+    return diff
+
+
+def format_spread(spread):
+    """Signed spread for reports; blank when the sport predicts no spread."""
+    if pd.isna(spread):
+        return ""
+    return f"+{spread:.1f}" if spread > 0 else f"{spread:.1f}"
+
+
 def process_game_elo(elo, games_input, sport, verbose=False):
     games = games_input.copy()
 
     # Sort games by date to process chronologically
     games["date"] = pd.to_datetime(games["date"])
     games = games.sort_values(["season", "date"]).reset_index(drop=True)
+    margins = home_margins(games, sport)
 
     seasons = sorted(games["season"].unique())
 
@@ -282,8 +329,8 @@ def process_game_elo(elo, games_input, sport, verbose=False):
             away_win_prob = 1 - home_win_prob
             pred_point_spread = elo.point_spread(home_team, away_team)
 
-            # Calculate actual point spread (positive means home team won by more than predicted)
-            actual_point_spread = home_score - away_score
+            # Home margin signed by the recorded winner (positive means the home team won)
+            actual_point_spread = margins[ix]
 
             if verbose:
                 print(f"{game['date'].strftime('%Y-%m-%d')}: "
@@ -291,8 +338,8 @@ def process_game_elo(elo, games_input, sport, verbose=False):
                       f"{home_team} ({pre_home:.0f}) {home_score:.0f}")
 
             # Update ratings based on game result
-            post_home, post_away = elo.update_ratings(
-                home_team, home_score, away_team, away_score
+            post_home, post_away = elo.update_ratings_margin(
+                home_team, away_team, actual_point_spread
             )
 
             # Store all the Elo information
@@ -412,13 +459,7 @@ def generate_markdown_report(sport, season, upcoming_games_df, completed_games_d
             home_team = game["home_team"]
             away_team = game["visitor_team"]
             home_win_pct = game["home_win_prob"] * 100
-            pred_spread = game["pred_point_spread"]
-
-            # Format spread with sign
-            if pred_spread > 0:
-                spread_str = f"+{pred_spread:.1f}"
-            else:
-                spread_str = f"{pred_spread:.1f}"
+            spread_str = format_spread(game["pred_point_spread"])
 
             markdown_lines.append(
                 f"| {date_str} | {time_str} | {home_team} | {away_team} | "
@@ -455,20 +496,8 @@ def generate_markdown_report(sport, season, upcoming_games_df, completed_games_d
             away_team = game["visitor_team"]
             home_score = int(game["home_score"])
             away_score = int(game["visitor_score"])
-            pred_spread = game["pred_point_spread"]
-            actual_spread = game["actual_point_spread"]
-
-            # Format predicted spread with sign
-            if pred_spread > 0:
-                pred_spread_str = f"+{pred_spread:.1f}"
-            else:
-                pred_spread_str = f"{pred_spread:.1f}"
-
-            # Format actual spread with sign
-            if actual_spread > 0:
-                actual_spread_str = f"+{actual_spread:.1f}"
-            else:
-                actual_spread_str = f"{actual_spread:.1f}"
+            pred_spread_str = format_spread(game["pred_point_spread"])
+            actual_spread_str = format_spread(game["actual_point_spread"])
 
             markdown_lines.append(
                 f"| {date_str} | {home_team} | {home_score} | {away_team} | "

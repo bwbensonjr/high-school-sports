@@ -18,6 +18,11 @@ For each sport:
        margin = a + b * (home_elo - away_elo)
    giving spread_factor = 1 / b and spread_home_field = a / b (Elo points).
 
+Margins follow each sport's scoring direction (see
+high_school_elo.SCORE_ORDER and home_margins), so sports where the lower
+score wins, or where the recorded result decides, are handled. Sports configured with margin_of_victory=False (golf) are rated on
+results alone: step 2 is skipped and no spread is predicted.
+
 Games in the first few weeks of the earliest season are not scored, since
 every team starts at the same rating. A chronological holdout (fit on the
 earlier scored games, evaluate on the later ones) compares the fitted
@@ -67,32 +72,40 @@ def load_sport_data(sport):
         games["home_score"].notna() &
         games["visitor_score"].notna()
     ].copy()
+    from high_school_elo import home_margins
+
     games["date"] = pd.to_datetime(games["date"])
+    games["home_margin"] = home_margins(games, sport)
     return games.sort_values(by=["season", "date"], kind="mergesort").reset_index(drop=True)
 
 
-def replay_rating_differences(games, k, home_field, season_regression=0.33):
+def game_margins(games):
+    """Home margins as used for rating updates; home minus visitor score if not precomputed."""
+    if "home_margin" in games:
+        return games["home_margin"].to_numpy(float)
+    return (games["home_score"] - games["visitor_score"]).to_numpy(float)
+
+
+def replay_rating_differences(games, k, home_field, season_regression=0.33, margin_of_victory=True):
     """
     Replay games through Elo, matching high_school_elo.process_game_elo.
 
     Returns:
         ndarray: Pre-game home rating minus away rating for each game (no home field)
     """
-    elo = Elo(k=k, home_field=home_field, season_regression=season_regression)
+    elo = Elo(k=k, home_field=home_field, season_regression=season_regression,
+              margin_of_victory=margin_of_victory)
     diffs = np.empty(len(games))
     seasons = games["season"].to_numpy()
-    rows = zip(
-        games["home_team"], games["visitor_team"],
-        games["home_score"].astype(float), games["visitor_score"].astype(float),
-    )
-    for i, (home, away, home_score, away_score) in enumerate(rows):
+    rows = zip(games["home_team"], games["visitor_team"], game_margins(games))
+    for i, (home, away, margin) in enumerate(rows):
         if i > 0 and seasons[i] != seasons[i - 1]:
             elo.regress_towards_mean()
         for team in (home, away):
             if team not in elo.ratings:
                 elo.add_team(team)
         diffs[i] = elo.team_rating(home) - elo.team_rating(away)
-        elo.update_ratings(home, home_score, away, away_score)
+        elo.update_ratings_margin(home, away, margin)
     return diffs
 
 
@@ -144,10 +157,11 @@ def recent_mask(mask, fraction):
     return recent
 
 
-def replay_grid(games, regression_grid):
+def replay_grid(games, regression_grid, margin_of_victory=True):
     """Replay ratings for every (k, home_field, season_regression) combination in the grid."""
     return {
-        (k, home_field, regression): replay_rating_differences(games, k, home_field, regression)
+        (k, home_field, regression): replay_rating_differences(
+            games, k, home_field, regression, margin_of_victory)
         for k in K_GRID
         for home_field in HOME_FIELD_GRID
         for regression in regression_grid
@@ -171,7 +185,7 @@ def fit_rating_parameters(replays, results, mask):
 
 def fit_spread_recent(games, diffs, mask):
     """Fit spread parameters on the most recent scored games."""
-    margins = (games["home_score"] - games["visitor_score"]).to_numpy(float)
+    margins = game_margins(games)
     recent = recent_mask(mask, SPREAD_FIT_FRACTION)
     return fit_spread(diffs[recent], margins[recent])
 
@@ -206,16 +220,17 @@ def calibrate_sport(sport, current):
     cur_spread_factor = current.get("spread_factor", defaults.spread_factor)
     cur_spread_home = current.get("spread_home_field", cur_home_field)
     cur_regression = current.get("season_regression", defaults.season_regression)
+    margin_of_victory = current.get("margin_of_victory", True)
 
-    margins = (games["home_score"] - games["visitor_score"]).to_numpy(float)
+    margins = game_margins(games)
     results = home_results(margins)
     mask = scored_mask(games)
     test = recent_mask(mask, HOLDOUT_FRACTION)
     train = mask & ~test
 
     multi_season = games["season"].nunique() > 1
-    replays = replay_grid(games, SEASON_REGRESSION_GRID if multi_season else [cur_regression])
-    current_diffs = replay_rating_differences(games, cur_k, cur_home_field, cur_regression)
+    replays = replay_grid(games, SEASON_REGRESSION_GRID if multi_season else [cur_regression], margin_of_victory)
+    current_diffs = replay_rating_differences(games, cur_k, cur_home_field, cur_regression, margin_of_victory)
 
     # Rating parameters: holdout log loss of a train-fitted combination versus the current one
     train_params = fit_rating_parameters(replays, results, train)
@@ -230,6 +245,21 @@ def calibrate_sport(sport, current):
     else:
         k, home_field, regression = cur_k, cur_home_field, cur_regression
         diffs = current_diffs
+
+    if not margin_of_victory:
+        return {
+            "sport": sport,
+            "games": int(mask.sum()),
+            "seasons": int(games["season"].nunique()),
+            "k": k,
+            "home_field": home_field,
+            "season_regression": regression,
+            "margin_of_victory": False,
+            "holdout_games": int(test.sum()),
+            "current_log_loss": current_log_loss,
+            "fitted_log_loss": fitted_log_loss,
+            "rating_changed": rating_changed,
+        }
 
     # Spread: holdout RMSE of the train-fitted configuration versus the current one
     current_rmse = spread_rmse(current_diffs[test], margins[test], cur_spread_factor, cur_spread_home)
@@ -266,6 +296,14 @@ def calibrate_sport(sport, current):
 def print_result(result):
     if "error" in result:
         print(f"{result['sport']}: skipped, {result['error']}")
+        return
+    if result.get("margin_of_victory") is False:
+        print(
+            f"{result['sport']}: k={result['k']} home_field={result['home_field']} "
+            f"season_regression={result['season_regression']} margin_of_victory=False (no spread) | "
+            f"holdout {result['holdout_games']} games: log loss {result['current_log_loss']:.4f} -> "
+            f"{result['fitted_log_loss']:.4f}{'' if result['rating_changed'] else ' (kept)'}"
+        )
         return
     print(
         f"{result['sport']}: k={result['k']} home_field={result['home_field']} "

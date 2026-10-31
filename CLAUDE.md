@@ -37,6 +37,7 @@ This is a Python project that tracks Massachusetts high school sports scores and
   - Processes all available data files for the specified sport
   - Handles multi-season data with between-season regression; seasons are grouped by school year (August 1), so a winter season split across two data files is one season, and games appearing in both files are deduplicated by game_id
   - Outputs detailed game results with Elo ratings and team rankings
+  - `SCORE_ORDER` sets which score wins per sport: `higher` (default, home minus visitor), `lower` (cross country), or `outcome` (golf, which mixes stroke play and match play, so the recorded `home_outcome` decides). Rating updates and `actual_point_spread` use this home margin. Golf also sets `margin_of_victory=False` in `SPORT_CONFIG`: wins and losses only, and `pred_point_spread` is NaN
 
 ## Common Commands
 

@@ -16,6 +16,7 @@ class Elo:
         spread_home_field (float): Home advantage in Elo points used only for point spreads.
         season_regression (float): Fraction of each rating pulled toward the mean between seasons.
         rating_mean (float): Historical mean rating for regression purposes.
+        margin_of_victory (bool): Whether the margin scales rating changes and spreads are predicted.
     """
 
     def __init__(
@@ -27,6 +28,7 @@ class Elo:
             rating_mean=1505,
             spread_home_field=None,
             season_regression=0.33,
+            margin_of_victory=True,
     ):
         """
         Initialize the Elo rating system.
@@ -52,6 +54,11 @@ class Elo:
                 cannot fit both. Default None uses home_field.
             season_regression (float, optional): Fraction (0.0 to 1.0) of the gap between each
                 rating and rating_mean removed between seasons. Default is 0.33.
+            margin_of_victory (bool, optional): When True (default), rating changes scale with
+                the log of the winning margin and point spreads are predicted. When False, only
+                the result counts, for sports whose scores are not comparable across games
+                (e.g. golf mixes stroke-play totals and match-play points), and point_spread
+                returns NaN.
         """
         self.ratings = {}
         self.k = k
@@ -60,6 +67,7 @@ class Elo:
         self.rating_mean = rating_mean
         self.spread_home_field = home_field if spread_home_field is None else spread_home_field
         self.season_regression = season_regression
+        self.margin_of_victory = margin_of_victory
         if teams:
             for team_name in teams:
                 self.add_team(team_name)
@@ -146,21 +154,17 @@ class Elo:
 
         Returns:
             float: Predicted point/goal spread. Positive means home team favored,
-                negative means away team favored.
+                negative means away team favored. NaN when margin_of_victory is False.
         """
+        if not self.margin_of_victory:
+            return math.nan
         home_edge = self.team_rating(home_team) + self.spread_home_field - self.team_rating(away_team)
         spread = home_edge / self.spread_factor
         return spread
     
     def update_ratings(self, home_team, home_score, away_team, away_score):
         """
-        Update team ratings based on a completed game result.
-
-        Calculates rating changes using the Elo formula with margin of victory adjustment.
-        The magnitude of rating change depends on:
-        - The difference between actual and expected outcome
-        - The margin of victory (logarithmic scaling)
-        - The K-factor
+        Update team ratings from final scores, where the higher score wins.
 
         Args:
             home_team (str): Name of the home team.
@@ -171,9 +175,32 @@ class Elo:
         Returns:
             tuple: (new_home_elo, new_away_elo) - Updated ratings for both teams.
         """
-        if home_score > away_score:
+        return self.update_ratings_margin(home_team, away_team, home_score - away_score)
+
+    def update_ratings_margin(self, home_team, away_team, home_margin):
+        """
+        Update team ratings from the home team's winning margin.
+
+        Calculates rating changes using the Elo formula with margin of victory adjustment.
+        The magnitude of rating change depends on:
+        - The difference between actual and expected outcome
+        - The margin of victory (logarithmic scaling), unless margin_of_victory is False
+        - The K-factor
+
+        Args:
+            home_team (str): Name of the home team.
+            away_team (str): Name of the away team.
+            home_margin (float): Home team's margin of victory: positive when the home team
+                won, negative when it lost, zero for a tie. Callers orient this by the actual
+                winner, so sports where the lower score wins pass a positive margin for a
+                home win.
+
+        Returns:
+            tuple: (new_home_elo, new_away_elo) - Updated ratings for both teams.
+        """
+        if home_margin > 0:
             result_home = 1
-        elif away_score > home_score:
+        elif home_margin < 0:
             result_home = 0
         else:
             result_home = 0.5
@@ -181,8 +208,10 @@ class Elo:
         expected_home = self.home_win_prob(home_team, away_team)
         forecast_delta = result_home - expected_home
 
-        score_diff = abs(home_score - away_score)
-        score_multiplier = math.log(score_diff + 1)
+        if self.margin_of_victory:
+            score_multiplier = math.log(abs(home_margin) + 1)
+        else:
+            score_multiplier = 1.0
 
         elo_change = self.k * score_multiplier * forecast_delta
         new_home_elo = self.team_rating(home_team) + elo_change

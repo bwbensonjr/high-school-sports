@@ -1,38 +1,38 @@
 team,elo,team_id,overall_rank,division,division_status,division_rank
-Wellesley,1701.301557293262,4413,1,NCW 1,assigned,1
-Hopkinton,1699.2436829369622,4180,2,NCW 1,assigned,2
-Bishop Feehan,1612.5747062144028,4042,3,S 1,assigned,1
-Malden Catholic,1575.3215165100946,4228,4,NCW 1,assigned,3
-Barnstable,1567.278496241956,4024,5,S 1,assigned,2
-Martha’s Vineyard,1566.8442282969029,4235,6,S 1,assigned,3
-Notre Dame (Tyngsborough),1563.3844021956186,4540,7,NCW 1,assigned,4
-Nauset,1553.6208277433498,4271,8,S 1,assigned,4
-Ursuline,1535.245169852371,4448,9,NCW 1,assigned,5
-Walpole,1534.8168357047903,4404,10,S 1,assigned,5
-Auburn,1530.7863524702307,4019,11,NCW 1,assigned,6
-Duxbury,1518.7907668398557,4123,12,S 1,assigned,6
-Quabbin,1507.2235902130215,4325,13,NCW 1,assigned,7
-Nashoba,1502.4294472639804,4267,14,NCW 1,assigned,8
-Scituate,1501.1546788988694,4343,15,S 1,assigned,7
-Hingham,1500.0255675366325,4171,16,S 1,assigned,8
-Monomoy,1492.4054298691685,4706,17,S 1,assigned,9
-Quincy,1490.8060224854983,4326,18,,unknown,
-Braintree,1490.5939731115086,4051,19,S 1,assigned,10
-Newton North,1482.631322937097,4279,20,S 1,assigned,11
-Marshfield,1474.65918744154,4234,21,,unknown,
-Notre Dame (Hingham),1472.2642082970617,4449,22,S 1,assigned,12
-Brookline,1469.9266472057298,4059,23,NCW 1,assigned,9
-Dennis-Yarmouth,1469.2022746405773,4111,24,S 1,assigned,13
-Needham,1463.84837755984,4272,25,NCW 1,assigned,10
-Framingham,1462.6898517526213,4143,26,S 1,assigned,14
-Archbishop Williams,1461.734913233481,4012,27,S 1,assigned,15
-Falmouth,1453.9737423874817,4134,28,S 1,assigned,16
-Weymouth,1450.9754258373637,4425,29,S 1,assigned,17
-North Quincy/Quincy,1450.301049040487,4287,30,S 1,assigned,18
-Notre Dame (Worcester),1443.2686259349255,4451,31,NCW 1,assigned,11
-Fontbonne,1440.7698533896923,4447,32,NCW 1,assigned,12
-Wachusett,1438.8837285825505,4400,33,NCW 1,assigned,13
-Cohasset,1436.0129381890856,4094,34,S 1,assigned,19
-Westborough,1435.9484828916425,4418,35,NCW 1,assigned,14
-Silver Lake,1407.4761294687876,4349,36,S 1,assigned,20
-Worcester,1341.5859895315607,4066,37,NCW 1,assigned,15
+Wellesley,1627.664850117683,4413,1,NCW 1,assigned,1
+Duxbury,1594.8964948294645,4123,2,S 1,assigned,1
+Hopkinton,1583.1187277519496,4180,3,NCW 1,assigned,2
+Malden Catholic,1561.3010196214077,4228,4,NCW 1,assigned,3
+Bishop Feehan,1555.892525569999,4042,5,S 1,assigned,2
+Nauset,1536.4644113456252,4271,6,S 1,assigned,3
+Walpole,1526.9172689157438,4404,7,S 1,assigned,4
+Nashoba,1519.8498183732424,4267,8,NCW 1,assigned,4
+Martha’s Vineyard,1517.672491413273,4235,9,S 1,assigned,5
+Ursuline,1517.2339727914164,4448,10,NCW 1,assigned,5
+Notre Dame (Tyngsborough),1515.5278029957256,4540,11,NCW 1,assigned,6
+Hingham,1505.8394503225468,4171,12,S 1,assigned,6
+Scituate,1505.7548728870765,4343,13,S 1,assigned,7
+Auburn,1503.2128095424782,4019,14,NCW 1,assigned,7
+Marshfield,1499.8247506433597,4234,15,,unknown,
+Braintree,1496.3015670498392,4051,16,S 1,assigned,8
+Quabbin,1496.095224352665,4325,17,NCW 1,assigned,8
+Notre Dame (Hingham),1491.6481097598826,4449,18,S 1,assigned,9
+North Quincy/Quincy,1490.3209382736466,4287,19,S 1,assigned,10
+Monomoy,1488.1737140276457,4706,20,S 1,assigned,11
+Quincy,1487.3464087995912,4326,21,,unknown,
+Barnstable,1486.2838384069175,4024,22,S 1,assigned,12
+Dennis-Yarmouth,1483.402450958327,4111,23,S 1,assigned,13
+Newton North,1480.5076053099335,4279,24,S 1,assigned,14
+Framingham,1478.3808137788521,4143,25,S 1,assigned,15
+Brookline,1477.9488039650641,4059,26,NCW 1,assigned,9
+Needham,1475.9257891952166,4272,27,NCW 1,assigned,10
+Falmouth,1475.361874626729,4134,28,S 1,assigned,16
+Archbishop Williams,1473.3018848541974,4012,29,S 1,assigned,17
+Notre Dame (Worcester),1471.7069670562607,4451,30,NCW 1,assigned,11
+Weymouth,1471.2616722424036,4425,31,S 1,assigned,18
+Westborough,1470.2165478635125,4418,32,NCW 1,assigned,12
+Wachusett,1463.792539644935,4400,33,NCW 1,assigned,13
+Cohasset,1455.058884706532,4094,34,S 1,assigned,19
+Fontbonne,1451.3933874031802,4447,35,NCW 1,assigned,14
+Worcester,1442.6372220257138,4066,36,NCW 1,assigned,15
+Silver Lake,1421.7624885779633,4349,37,S 1,assigned,20
