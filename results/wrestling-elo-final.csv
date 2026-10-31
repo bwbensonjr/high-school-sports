@@ -1,191 +1,191 @@
 team,elo,team_id,overall_rank,division,division_status,division_rank
-Shawsheen,1960.4335072788222,4346,1,N 1,assigned,1
-Wayland,1894.4433855182547,4411,2,C 2,assigned,1
-Methuen,1881.9715566797518,4246,3,N 1,assigned,2
-St. John’s Prep,1844.140154588966,4369,4,N 1,assigned,3
-Roxbury Latin,1793.7289031237858,4334,5,,non-member,
-Cohasset,1785.4066281545308,4094,6,S 3,assigned,1
-Lynnfield/North Reading,1752.450649095026,4223,7,N 3,assigned,1
-Holliston,1748.8409669865787,4174,8,C 3,assigned,1
-Lowell,1735.5018875238882,4216,9,N 1,assigned,4
-Taunton,1734.0054906734567,4388,10,S 1,assigned,1
-St. John’s (Shrewsbury),1696.9133711042252,4368,11,WC 1,assigned,1
-Greater Lowell,1681.4211149963642,4155,12,N 1,assigned,5
-Greater Lawrence,1678.8142274273114,4154,13,N 1,assigned,6
-Bristol-Plymouth,1677.9818756748307,4057,14,S 1,assigned,2
-Natick,1677.1635696195478,4270,15,WC 1,assigned,2
-Westford,1674.3140062215055,4421,16,WC 1,assigned,3
-Watertown,1670.71555798295,4409,17,N 3,assigned,2
-Mt. Hope (R.I.),1664.4461709610007,4658,18,,non-member,
-Belmont Hill,1656.6607226496967,4035,19,,non-member,
-Pentucket,1655.420676170079,4309,20,N 3,assigned,3
-Nauset,1647.0594395428027,4271,21,S 3,assigned,2
-Andover,1646.8601842350004,4009,22,N 1,assigned,7
-Sharon,1646.7390193165174,4345,23,S 2,assigned,1
-Dedham,1645.724917302294,4108,24,C 3,assigned,2
-New Bedford,1631.5555131186711,4273,25,S 1,assigned,3
-Winchester,1629.4046475265618,4434,26,CM 1,assigned,1
-Milford,1625.3102186136982,4249,27,C 2,assigned,2
-Triton,1619.5250838670768,4395,28,N 3,assigned,4
-Melrose,1619.3098081152705,4244,29,N 2,assigned,1
-Hingham,1613.5602180817586,4171,30,S 2,assigned,2
-Saugus/Peabody,1612.8016458554305,4341,31,N 2,assigned,2
-Middleborough,1610.1636855032039,4247,32,S 3,assigned,3
-Cambridge,1609.124266884853,4067,33,CM 1,assigned,2
-Leominster,1608.7625436616147,4208,34,WC 1,assigned,4
-Whittier,1606.931855774378,4428,35,N 1,assigned,8
-Rockland,1604.688492669476,4331,36,S 3,assigned,4
-Arlington,1597.576044531351,4013,37,CM 1,assigned,3
-Duxbury,1595.9688570571566,4123,38,S 2,assigned,3
-Springfield Central,1591.7029051125587,4360,39,WC 1,assigned,5
-Hanover,1589.005840000581,4164,40,S 3,assigned,5
-Weymouth,1586.3559204688304,4425,41,S 1,assigned,4
-Woburn,1580.7191325112399,4438,42,N 2,assigned,3
-St. Mark’s,1579.9013983145055,4372,43,,non-member,
-Central (R.I.),1578.4187375369968,4497,44,,non-member,
-Chelmsford,1578.100107096178,4085,45,WC 1,assigned,6
-Northfield Mt. Hermon,1577.4346743828896,4294,46,,non-member,
-Scituate (R.I.),1565.6713187003602,5257,47,,non-member,
-Bishop Hendricken (R.I.),1564.3135353140506,4044,48,,non-member,
-Wakefield,1561.7741164931624,4402,49,N 2,assigned,4
-Scituate,1557.3145050004803,4343,50,S 3,assigned,6
-Burlington,1556.6480119743983,4065,51,N 2,assigned,5
-Marshfield,1553.7264480812746,4234,52,S 2,assigned,4
-Central Catholic,1548.817418867239,4081,53,N 1,assigned,9
-Tewksbury,1546.8775617134365,4389,54,N 3,assigned,5
-Governor’s Academy,1538.5933540352496,4152,55,,non-member,
-Phillips Andover,1536.961699647734,4310,56,,non-member,
-Avon Old Farms,1535.107748069698,4021,57,,non-member,
-Eagle Hill,1531.6946955834526,4733,58,,non-member,
-Atlantis Charter,1530.3909050380537,4818,59,S 3,assigned,7
-Concord Academy,1527.054767893575,4096,60,,non-member,
-Needham,1524.837607002229,4272,61,CM 1,assigned,4
-Greens Farms,1523.7846425283753,4158,62,,non-member,
-Bridgewater-Raynham,1523.5263828294683,4053,63,S 1,assigned,5
-West Springfield,1521.9975234066187,4417,64,W 2,assigned,1
-Phillips Exeter,1520.5717959020387,4311,65,,non-member,
-Salem (N.H.),1519.0356695368139,4337,66,,non-member,
-Milton Academy,1519.0261704533455,4253,67,,non-member,
-Nashoba,1518.4854601719471,4267,68,N 2,assigned,6
-Walpole,1518.0717775491373,4404,69,C 2,assigned,3
-Thayer,1516.1749736999457,4390,70,,non-member,
-Waltham,1515.1115509049732,4405,71,CM 1,assigned,5
-Upper Cape,1509.4487931110973,4457,72,S 3,assigned,8
-Trinity-Pawling,1509.1372820899994,4394,73,,non-member,
-Choate,1507.6471110754576,4090,74,,non-member,
-Tyngsborough/Dracut,1506.6942696939896,4397,75,N 3,assigned,6
-St. Sebastian’s,1505.1539934426949,4378,76,,non-member,
-Pomfret,1504.432137816972,4317,77,,non-member,
-North Reading,1502.7555,4288,78,,unknown,
-Martha’s Vineyard,1499.697207776322,4235,79,S 3,assigned,9
-Hopkinton,1497.306411111625,4180,80,WC 1,assigned,7
-Hope (R.I.),1494.3803531479796,4496,81,,non-member,
-Bedford / A-B,1494.3405731871198,4031,82,WC 1,assigned,8
-Toll Gate (R.I.),1492.8873156593434,4836,83,,non-member,
-Framingham,1491.273787359106,4143,84,WC 1,assigned,9
-Portsmouth Abbey,1491.0148713736608,4320,85,,non-member,
-Newton South,1489.7694695085206,4280,86,CM 1,assigned,6
-Beaver Country Day,1487.7373234064576,4030,87,,non-member,
-Agawam,1487.1682436326969,4004,88,W 2,assigned,2
-Southwick,1484.6763794145595,4519,89,W 3,assigned,1
-Franklin County Tech,1483.5664248048574,4145,90,W 3,assigned,2
-Mount St. Charles (R.I.),1482.4493683797546,4488,91,,non-member,
-Braintree,1481.4182515193202,4051,92,S 1,assigned,6
-South Shore Voc-Tech,1481.0639808610388,4356,93,S 3,assigned,10
-Somerset Berkley,1479.6237320487119,4350,94,S 2,assigned,5
-Sandwich,1473.434668226574,4340,95,S 3,assigned,11
-Belchertown,1472.2849231722282,4032,96,C 3,assigned,3
-Foxborough,1471.2139110221187,4142,97,C 3,assigned,4
-Norwood,1470.9906905816122,4297,98,C 2,assigned,4
-East Longmeadow,1470.729558811834,4127,99,C 3,assigned,5
-Holyoke,1470.2668291654782,4176,100,W 3,assigned,3
-Keene (N.H.),1469.9206306819178,4192,101,,non-member,
-Bellingham,1469.654319936698,4033,102,WC 1,assigned,10
-Randolph,1469.556048111909,4327,103,S 3,assigned,12
-Gloucester,1469.2296305510963,4150,104,N 3,assigned,7
-Salem,1467.2359857215688,4336,105,N 2,assigned,7
-Londonderry (N.H.),1466.3154599489146,4213,106,,non-member,
-Beverly,1466.224064207426,4038,107,N 2,assigned,8
-Mount Anthony (Vt.),1465.2472614997257,4728,108,,non-member,
-Silver Lake,1464.879413709949,4349,109,S 2,assigned,6
-Pathfinder,1464.1608921770917,4305,110,C 3,assigned,6
-Lexington Christian,1463.3900093506318,4210,111,,non-member,
-Maimonides,1462.9021484586062,4473,112,C 2,assigned,5
-Milton,1460.5126447514442,4252,113,C 2,assigned,6
-Landmark,1460.4915815449501,4200,114,,non-member,
-Xaverian,1460.3655312819992,4446,115,S 1,assigned,7
-Deerfield,1459.673318575828,4110,116,,non-member,
-Ashland,1459.5450177278228,4015,117,C 2,assigned,7
-Marblehead/Swampscott,1458.8277359648612,4231,118,N 2,assigned,9
-Westfield/Westfield Tech,1457.4517322658282,4419,119,W 2,assigned,3
-Worcester Tech,1457.223006073192,4445,120,W 2,assigned,4
-Franklin,1455.936910400783,4144,121,WC 1,assigned,11
-Pioneer Valley,1455.898512524048,4536,122,,unknown,
-Northbridge,1454.946592321876,4292,123,W 2,assigned,5
-Brockton,1454.919841519022,4058,124,S 1,assigned,8
-Essex Tech / Masco,1454.1136465858015,4745,125,N 1,assigned,10
-Nashoba Valley Tech,1453.0457575199903,4268,126,N 3,assigned,8
-Oliver Ames,1451.2101603517847,4302,127,S 2,assigned,7
-North Middlesex,1449.3887736694305,4286,128,N 3,assigned,9
-Quabbin,1449.3470918368982,4325,129,C 3,assigned,7
-Woonsocket (R.I.),1446.4520559841135,4673,130,,non-member,
-Mahar,1445.6555626534453,4226,131,C 3,assigned,8
-Pelham (N.H.),1444.1470189153188,4307,132,,non-member,
-Middlebury (Vt.),1442.5710754241863,4727,133,,non-member,
-York (Maine),1441.5483270911197,4858,134,,non-member,
-Marianapolis,1441.1738103103735,4567,135,,non-member,
-Concord-Carlisle,1440.2878033530806,4097,136,C 2,assigned,8
-Latin Academy,1440.016040316056,4202,137,C 2,assigned,9
-Chapel Hill,1438.811987952625,4082,138,,non-member,
-Malden/Everett,1438.2674450616094,4227,139,CM 1,assigned,7
-Canton,1437.5696168757247,4071,140,C 2,assigned,10
-Hyde,1437.1646036290556,4186,141,,non-member,
-Durfee,1436.6685531491946,4122,142,S 1,assigned,9
-Lincoln-Sudbury,1436.6089954959828,4211,143,WC 1,assigned,12
-King Philip,1436.3619789165798,4197,144,C 2,assigned,11
-Wellesley,1435.4304879793185,4413,145,CM 1,assigned,8
-Marlborough,1434.984040448801,4233,146,N 3,assigned,10
-Lynn Tech,1429.4964920948994,4222,147,N 2,assigned,10
-Excel Academy,1426.6825356564536,4969,148,N 3,assigned,11
-Chicopee,1425.622117689157,4088,149,W 2,assigned,6
-North Andover,1424.430481242524,4283,150,N 1,assigned,11
-Keefe Tech,1423.1779965384676,4191,151,C 3,assigned,9
-North Attleborough,1422.4972545095482,4284,152,C 2,assigned,12
-Athol,1422.3981928023074,4017,153,C 3,assigned,10
-Falmouth/Mashpee,1417.8239554952495,4134,154,,unknown,
-Middlesex,1417.0397674666226,4248,155,,non-member,
-Mansfield,1415.9687744733656,4230,156,S 2,assigned,8
-Belmont,1414.9996384684446,4034,157,CM 1,assigned,9
-Carver,1414.7551383408077,4077,158,S 3,assigned,13
-Northeast/Bishop Fenwick,1411.9635204539277,4293,159,N 2,assigned,11
-BB&N,1409.8207707146796,4028,160,,non-member,
-Reading,1409.2478657376362,4328,161,N 2,assigned,12
-Whitman-Hanson,1407.8410043764645,4427,162,S 2,assigned,9
-Norton,1406.8560927249846,4295,163,C 3,assigned,11
-Monty Tech/Fitchburg,1406.111895162982,4259,164,WC 1,assigned,13
-Frontier,1405.681702220383,4146,165,W 3,assigned,4
-Boston Latin,1404.8988437504597,4049,166,S 1,assigned,10
-BC High,1389.6765433435687,4029,167,S 1,assigned,11
-Newton North,1389.6756221118887,4279,168,CM 1,assigned,10
-Nobles,1385.0067729507032,4282,169,,non-member,
-Weston,1377.8214580580388,4423,170,N 3,assigned,12
-Barnstable,1370.5926590513861,4024,171,S 2,assigned,10
-Lexington,1369.1449083123275,4209,172,CM 1,assigned,11
-Haverhill,1368.6794243510515,4167,173,N 1,assigned,12
-Catholic Memorial,1364.9842947352372,4080,174,CM 1,assigned,12
-Quincy/North Quincy,1359.0165908630543,4326,175,S 1,assigned,12
-Plymouth South,1353.8076781600041,4316,176,S 2,assigned,11
-Lawrence,1345.1432215242903,4203,177,N 1,assigned,13
-Wilmington,1334.2689044935148,4432,178,N 3,assigned,13
-Malden Catholic,1331.3841385621502,4228,179,CM 1,assigned,13
-Billerica,1329.61821096222,4040,180,N 2,assigned,13
-Brooks,1319.4262382152658,4060,181,,non-member,
-Plymouth North,1318.942900447033,4315,182,S 2,assigned,12
-Quincy Upper,1315.872221782107,4515,183,C 3,assigned,12
-Pembroke,1315.3226616629888,4308,184,S 3,assigned,14
-Portland/So. Portland (Maine),1313.8908340109283,4493,185,,non-member,
-East Boston,1302.1174462963018,4125,186,,unknown,
-Stoughton,1300.6239808231765,4381,187,S 2,assigned,13
-Danvers,1298.5884025580185,4103,188,N 3,assigned,14
-Brookline,1294.3955208090601,4059,189,CM 1,assigned,14
-Algonquin,1267.2846218589898,4005,190,W 2,assigned,7
+Shawsheen,2221.135508533952,4346,1,N 1,assigned,1
+Methuen,2162.9606674871575,4246,2,N 1,assigned,2
+St. John’s Prep,2090.0457054732465,4369,3,N 1,assigned,3
+Wayland,2076.962166926039,4411,4,C 2,assigned,1
+Lowell,1983.5890697298128,4216,5,N 1,assigned,4
+Taunton,1983.0608453020275,4388,6,S 1,assigned,1
+Lynnfield/North Reading,1967.7873319721125,4223,7,N 3,assigned,1
+Holliston,1961.3704744426818,4174,8,C 3,assigned,1
+Belmont Hill,1948.5030621813014,4035,9,,non-member,
+Greater Lowell,1893.041358925894,4155,10,N 1,assigned,5
+Milford,1884.5287628217402,4249,11,C 2,assigned,2
+Bristol-Plymouth,1884.4161866127222,4057,12,S 1,assigned,2
+Cohasset,1882.169835420261,4094,13,S 3,assigned,1
+Natick,1874.592258817774,4270,14,WC 1,assigned,1
+Mt. Hope (R.I.),1868.2787303612452,4658,15,,non-member,
+Roxbury Latin,1861.9102604250231,4334,16,,non-member,
+St. John’s (Shrewsbury),1837.3528115279055,4368,17,WC 1,assigned,2
+Greater Lawrence,1832.4443995658185,4154,18,N 1,assigned,6
+Nauset,1811.4501099807255,4271,19,S 3,assigned,2
+Sharon,1804.3267206503501,4345,20,S 2,assigned,1
+Hingham,1801.833129974131,4171,21,S 2,assigned,2
+Melrose,1795.0606015183614,4244,22,N 2,assigned,1
+Middleborough,1794.4087347355344,4247,23,S 3,assigned,3
+Andover,1793.7243559734434,4009,24,N 1,assigned,7
+Pentucket,1781.1919080994887,4309,25,N 3,assigned,2
+Dedham,1768.5318574450537,4108,26,C 3,assigned,2
+Saugus/Peabody,1763.4378535750643,4341,27,N 2,assigned,2
+Triton,1763.3715980666475,4395,28,N 3,assigned,3
+Whittier,1754.6990839599466,4428,29,N 1,assigned,8
+Springfield Central,1747.580284671379,4360,30,WC 1,assigned,3
+Watertown,1746.8460666576009,4409,31,N 3,assigned,4
+New Bedford,1741.2328549093918,4273,32,S 1,assigned,3
+Woburn,1734.4018297020568,4438,33,N 2,assigned,3
+Arlington,1730.8202070150255,4013,34,CM 1,assigned,1
+Leominster,1719.4898463305876,4208,35,WC 1,assigned,4
+Westford,1717.8263049703369,4421,36,WC 1,assigned,5
+St. Mark’s,1715.3227921261557,4372,37,,non-member,
+Northfield Mt. Hermon,1709.269121472646,4294,38,,non-member,
+Scituate (R.I.),1708.1309594488373,5257,39,,non-member,
+Winchester,1702.7045695965885,4434,40,CM 1,assigned,2
+Hanover,1686.7562690036361,4164,41,S 3,assigned,4
+Bishop Hendricken (R.I.),1682.0637133238163,4044,42,,non-member,
+Chelmsford,1674.6309106291856,4085,43,WC 1,assigned,6
+Cambridge,1667.3984187452836,4067,44,CM 1,assigned,3
+Marshfield,1653.332571746,4234,45,S 2,assigned,3
+Wakefield,1652.938550487284,4402,46,N 2,assigned,4
+Central (R.I.),1645.8630995062103,4497,47,,non-member,
+Eagle Hill,1645.8116818887652,4733,48,,non-member,
+Bridgewater-Raynham,1645.6794267269718,4053,49,S 1,assigned,4
+Rockland,1629.8504505537908,4331,50,S 3,assigned,5
+Duxbury,1617.87543451036,4123,51,S 2,assigned,4
+Scituate,1602.5291168521883,4343,52,S 3,assigned,6
+Thayer,1601.2155050504591,4390,53,,non-member,
+Avon Old Farms,1598.7575884760151,4021,54,,non-member,
+Greens Farms,1595.1740565356274,4158,55,,non-member,
+Needham,1589.538983093449,4272,56,CM 1,assigned,4
+Governor’s Academy,1588.0917124901325,4152,57,,non-member,
+Weymouth,1586.288644672042,4425,58,S 1,assigned,5
+Milton Academy,1576.9758321710485,4253,59,,non-member,
+Central Catholic,1574.8075506536804,4081,60,N 1,assigned,9
+Atlantis Charter,1560.2234080197986,4818,61,S 3,assigned,7
+Phillips Exeter,1558.535277232698,4311,62,,non-member,
+Phillips Andover,1556.923641233302,4310,63,,non-member,
+Tewksbury,1556.1598402807272,4389,64,N 3,assigned,5
+Bedford / A-B,1556.0946311704465,4031,65,WC 1,assigned,7
+Tyngsborough/Dracut,1555.7597421000344,4397,66,N 3,assigned,6
+Nashoba,1541.168628145224,4267,67,N 2,assigned,5
+Newton South,1537.5588526985605,4280,68,CM 1,assigned,5
+Hopkinton,1535.237448879479,4180,69,WC 1,assigned,8
+Waltham,1533.1636799450764,4405,70,CM 1,assigned,6
+Concord Academy,1530.1399601367893,4096,71,,non-member,
+Gloucester,1526.9686339634513,4150,72,N 3,assigned,7
+Trinity-Pawling,1525.4067310531977,4394,73,,non-member,
+Burlington,1517.900137207215,4065,74,N 2,assigned,6
+Salem (N.H.),1517.215129923596,4337,75,,non-member,
+Norwood,1514.831688898537,4297,76,C 2,assigned,3
+West Springfield,1510.947572205674,4417,77,W 2,assigned,1
+Braintree,1505.9858413328616,4051,78,S 1,assigned,6
+North Reading,1501.65,4288,79,,unknown,
+Pomfret,1500.470682233067,4317,80,,non-member,
+Upper Cape,1500.4160997339084,4457,81,S 3,assigned,8
+Walpole,1495.3050166974829,4404,82,C 2,assigned,4
+Portsmouth Abbey,1492.8849873062413,4320,83,,non-member,
+Framingham,1492.2657546489254,4143,84,WC 1,assigned,9
+Martha’s Vineyard,1490.8802041404172,4235,85,S 3,assigned,9
+Choate,1490.2717485223823,4090,86,,non-member,
+St. Sebastian’s,1490.083262313432,4378,87,,non-member,
+Toll Gate (R.I.),1489.6060184242526,4836,88,,non-member,
+Southwick,1489.227780250722,4519,89,W 3,assigned,1
+Salem,1484.08356130356,4336,90,N 2,assigned,7
+Franklin County Tech,1483.3817679509268,4145,91,W 3,assigned,2
+Belchertown,1483.0428980146592,4032,92,C 3,assigned,3
+Beaver Country Day,1476.2089088571709,4030,93,,non-member,
+Foxborough,1471.3686510344055,4142,94,C 3,assigned,4
+Keene (N.H.),1464.9303138635219,4192,95,,non-member,
+Milton,1464.4001102107873,4252,96,C 2,assigned,5
+Holyoke,1459.4442543711073,4176,97,W 3,assigned,3
+Mount St. Charles (R.I.),1458.424228949493,4488,98,,non-member,
+Sandwich,1457.6547496289843,4340,99,S 3,assigned,10
+Hope (R.I.),1457.34474923017,4496,100,,non-member,
+Randolph,1454.8440992648884,4327,101,S 3,assigned,11
+Ashland,1451.92285729551,4015,102,C 2,assigned,6
+Franklin,1451.7347312832476,4144,103,WC 1,assigned,10
+Worcester Tech,1450.2691049760965,4445,104,W 2,assigned,2
+Somerset Berkley,1448.0671339271987,4350,105,S 2,assigned,5
+North Attleborough,1447.5891514714817,4284,106,C 2,assigned,7
+Agawam,1443.1793752639883,4004,107,W 2,assigned,3
+Brockton,1440.3864152081119,4058,108,S 1,assigned,7
+Maimonides,1440.2708857062323,4473,109,C 2,assigned,8
+Beverly,1439.7146272360797,4038,110,N 2,assigned,8
+South Shore Voc-Tech,1435.5902793555772,4356,111,S 3,assigned,12
+Pioneer Valley,1431.2556699839615,4536,112,,unknown,
+Xaverian,1428.6114058615908,4446,113,S 1,assigned,8
+East Longmeadow,1427.7520111670406,4127,114,C 3,assigned,5
+Pathfinder,1425.4141762888512,4305,115,C 3,assigned,6
+Bellingham,1423.5665287512413,4033,116,WC 1,assigned,11
+Northbridge,1422.5806258766033,4292,117,W 2,assigned,4
+Marlborough,1419.7372158039188,4233,118,N 3,assigned,8
+Westfield/Westfield Tech,1413.6898355534356,4419,119,W 2,assigned,5
+Quabbin,1407.3150421098917,4325,120,C 3,assigned,7
+Mount Anthony (Vt.),1404.5814138091228,4728,121,,non-member,
+Essex Tech / Masco,1402.6908528668903,4745,122,N 1,assigned,10
+Belmont,1400.4482305334932,4034,123,CM 1,assigned,7
+Excel Academy,1394.9184414921724,4969,124,N 3,assigned,9
+Marblehead/Swampscott,1392.275951413881,4231,125,N 2,assigned,9
+King Philip,1391.1237311624682,4197,126,C 2,assigned,9
+Lexington Christian,1385.6461041096209,4210,127,,non-member,
+Malden/Everett,1380.7351432838132,4227,128,CM 1,assigned,8
+Lynn Tech,1370.9848889503928,4222,129,N 2,assigned,10
+York (Maine),1369.6781307186866,4858,130,,non-member,
+Hyde,1366.8899890590951,4186,131,,non-member,
+Mansfield,1365.421113574178,4230,132,S 2,assigned,6
+Nashoba Valley Tech,1364.2230739439995,4268,133,N 3,assigned,10
+Chicopee,1363.4556536804862,4088,134,W 2,assigned,6
+North Andover,1359.7846111462272,4283,135,N 1,assigned,11
+Wellesley,1357.357607085901,4413,136,CM 1,assigned,9
+Concord-Carlisle,1353.39427833865,4097,137,C 2,assigned,10
+North Middlesex,1349.5053045692378,4286,138,N 3,assigned,11
+Mahar,1349.3835004091873,4226,139,C 3,assigned,8
+Middlebury (Vt.),1348.733310556653,4727,140,,non-member,
+Norton,1344.9460292210706,4295,141,C 3,assigned,9
+Falmouth/Mashpee,1338.6273691291515,4134,142,,unknown,
+Woonsocket (R.I.),1335.3443210172472,4673,143,,non-member,
+Pelham (N.H.),1330.9878433647918,4307,144,,non-member,
+Londonderry (N.H.),1330.8466167295894,4213,145,,non-member,
+Oliver Ames,1327.657993216726,4302,146,S 2,assigned,7
+BC High,1325.9576420159085,4029,147,S 1,assigned,9
+Lincoln-Sudbury,1325.8724703822545,4211,148,WC 1,assigned,12
+Lexington,1325.6534707393357,4209,149,CM 1,assigned,10
+Athol,1325.107669954848,4017,150,C 3,assigned,10
+Silver Lake,1324.6336463129257,4349,151,S 2,assigned,8
+Canton,1323.8931762589416,4071,152,C 2,assigned,11
+Reading,1322.8119040231372,4328,153,N 2,assigned,11
+Monty Tech/Fitchburg,1322.2815633711405,4259,154,WC 1,assigned,13
+Deerfield,1320.2308067776457,4110,155,,non-member,
+Latin Academy,1318.649416884019,4202,156,C 2,assigned,12
+Whitman-Hanson,1316.3860075346574,4427,157,S 2,assigned,9
+Durfee,1307.1814945655983,4122,158,S 1,assigned,10
+Catholic Memorial,1297.5234040595615,4080,159,CM 1,assigned,11
+Landmark,1295.7900908623642,4200,160,,non-member,
+Marianapolis,1295.3981522620165,4567,161,,non-member,
+Frontier,1294.066357049506,4146,162,W 3,assigned,4
+Chapel Hill,1288.3543346480874,4082,163,,non-member,
+BB&N,1285.1190228731618,4028,164,,non-member,
+Nobles,1274.327771067338,4282,165,,non-member,
+Keefe Tech,1274.2961773204645,4191,166,C 3,assigned,11
+Boston Latin,1274.2041295664,4049,167,S 1,assigned,11
+Barnstable,1255.170498401935,4024,168,S 2,assigned,10
+Haverhill,1254.4853797906464,4167,169,N 1,assigned,12
+Quincy/North Quincy,1250.8664328844145,4326,170,S 1,assigned,12
+Carver,1241.8172864276933,4077,171,S 3,assigned,13
+Middlesex,1238.1803466965268,4248,172,,non-member,
+Northeast/Bishop Fenwick,1237.1576667905374,4293,173,N 2,assigned,12
+Weston,1233.822200605764,4423,174,N 3,assigned,12
+Wilmington,1233.1838728577911,4432,175,N 3,assigned,13
+Danvers,1228.4467462379837,4103,176,N 3,assigned,14
+Newton North,1209.5842748772461,4279,177,CM 1,assigned,12
+Lawrence,1186.860589056482,4203,178,N 1,assigned,13
+Pembroke,1176.4726898910171,4308,179,S 3,assigned,14
+Billerica,1174.7218833326488,4040,180,N 2,assigned,13
+Plymouth North,1173.2566948193366,4315,181,S 2,assigned,11
+Plymouth South,1168.9619527682871,4316,182,S 2,assigned,12
+Brookline,1158.033919716268,4059,183,CM 1,assigned,13
+East Boston,1156.719711084646,4125,184,,unknown,
+Brooks,1136.2241484523438,4060,185,,non-member,
+Malden Catholic,1123.7340313917675,4228,186,CM 1,assigned,14
+Portland/So. Portland (Maine),1099.3685249808616,4493,187,,non-member,
+Stoughton,1081.619510479196,4381,188,S 2,assigned,13
+Algonquin,1072.2905798645727,4005,189,W 2,assigned,7
+Quincy Upper,1032.693337660759,4515,190,C 3,assigned,12

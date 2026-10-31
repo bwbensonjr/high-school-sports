@@ -1,6 +1,6 @@
 # Girls Gymnastics - 2026 Season
 
-Generated: 2026-10-31 08:11
+Generated: 2026-10-31 08:24
 
 ## Upcoming Games
 
@@ -16,65 +16,65 @@ Generated: 2026-10-31 08:11
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Newton North | 1720.1 |
-| 2 | Hingham/Hull | 1680.1 |
-| 3 | Central Catholic | 1643.0 |
-| 4 | Andover | 1604.0 |
-| 5 | Hamilton-Wenham/Manchester Essex | 1583.1 |
-| 6 | Marshfield | 1582.2 |
-| 7 | Haverhill | 1564.3 |
-| 8 | Westford | 1561.5 |
-| 9 | Chelmsford/B/T | 1554.6 |
-| 10 | Wilmington/Bedford | 1553.2 |
-| 11 | Hopkinton | 1546.8 |
-| 12 | Medford/Somerville | 1546.1 |
-| 13 | Mansfield | 1545.5 |
-| 14 | Brockton/Spellman/Stoughton | 1541.7 |
-| 15 | North Andover | 1541.6 |
-| 16 | Medway/Milford/Millis | 1537.5 |
-| 17 | Marlborough | 1533.8 |
-| 18 | Wellesley | 1532.6 |
-| 19 | Reading | 1530.2 |
-| 20 | Beverly | 1529.5 |
-| 21 | Bridgewater-Raynham/West Bridgewater | 1524.2 |
-| 22 | Whitman-Hanson | 1521.8 |
-| 23 | Malden | 1519.7 |
-| 24 | Pembroke/Silver Lake | 1519.5 |
-| 25 | MADS | 1516.7 |
-| 26 | Winchester | 1516.2 |
-| 27 | North Attleborough | 1515.8 |
-| 28 | Tewksbury | 1513.3 |
-| 29 | Arlington | 1500.8 |
-| 30 | Middleborough | 1495.6 |
-| 31 | Burlington | 1495.2 |
-| 32 | Marblehead/Swampscott | 1488.1 |
-| 33 | Canton | 1487.5 |
-| 34 | Salem | 1485.7 |
-| 35 | Walpole | 1483.9 |
-| 36 | Braintree | 1481.3 |
-| 37 | King Philip | 1481.0 |
-| 38 | Melrose | 1479.5 |
-| 39 | Foxborough | 1478.5 |
-| 40 | Silver Lake | 1473.1 |
-| 41 | Wakefield | 1471.3 |
-| 42 | Algonquin | 1469.5 |
-| 43 | Wayland | 1469.3 |
-| 44 | Stoneham | 1466.7 |
-| 45 | Natick | 1464.3 |
-| 46 | Plymouth North/South | 1456.5 |
-| 47 | Peabody | 1455.4 |
-| 48 | Norwood | 1455.0 |
-| 49 | Bishop Fenwick | 1452.0 |
-| 50 | Norton | 1447.9 |
-| 51 | Needham | 1445.6 |
-| 52 | Cohasset/Norwell | 1439.1 |
-| 53 | Framingham | 1427.4 |
-| 54 | Hanover | 1399.8 |
-| 55 | Newton South | 1394.4 |
-| 56 | Methuen | 1386.7 |
-| 57 | Scituate | 1380.1 |
-| 58 | Dracut | 1369.5 |
-| 59 | Lowell | 1337.7 |
+| 1 | Newton North | 1723.2 |
+| 2 | Hingham/Hull | 1682.9 |
+| 3 | Central Catholic | 1649.1 |
+| 4 | Andover | 1616.3 |
+| 5 | Hamilton-Wenham/Manchester Essex | 1581.5 |
+| 6 | Marshfield | 1576.1 |
+| 7 | Haverhill | 1561.1 |
+| 8 | Westford | 1558.8 |
+| 9 | Wilmington/Bedford | 1551.5 |
+| 10 | Hopkinton | 1545.2 |
+| 11 | Chelmsford/B/T | 1544.9 |
+| 12 | Medford/Somerville | 1544.5 |
+| 13 | Mansfield | 1543.8 |
+| 14 | North Andover | 1542.6 |
+| 15 | Brockton/Spellman/Stoughton | 1540.1 |
+| 16 | Medway/Milford/Millis | 1535.9 |
+| 17 | Marlborough | 1532.2 |
+| 18 | Wellesley | 1531.2 |
+| 19 | Reading | 1528.5 |
+| 20 | Beverly | 1527.9 |
+| 21 | Bridgewater-Raynham/West Bridgewater | 1522.5 |
+| 22 | Whitman-Hanson | 1520.3 |
+| 23 | Pembroke/Silver Lake | 1518.3 |
+| 24 | Malden | 1518.0 |
+| 25 | MADS | 1515.0 |
+| 26 | Winchester | 1514.5 |
+| 27 | North Attleborough | 1514.1 |
+| 28 | Arlington | 1499.2 |
+| 29 | Middleborough | 1494.0 |
+| 30 | Burlington | 1493.6 |
+| 31 | Tewksbury | 1492.4 |
+| 32 | Marblehead/Swampscott | 1486.5 |
+| 33 | Canton | 1485.9 |
+| 34 | Salem | 1484.1 |
+| 35 | Walpole | 1482.7 |
+| 36 | Braintree | 1480.2 |
+| 37 | King Philip | 1479.3 |
+| 38 | Melrose | 1477.9 |
+| 39 | Foxborough | 1476.8 |
+| 40 | Silver Lake | 1470.6 |
+| 41 | Wakefield | 1469.7 |
+| 42 | Algonquin | 1467.8 |
+| 43 | Wayland | 1467.5 |
+| 44 | Stoneham | 1465.1 |
+| 45 | Natick | 1463.6 |
+| 46 | Plymouth North/South | 1454.7 |
+| 47 | Peabody | 1453.8 |
+| 48 | Norwood | 1453.4 |
+| 49 | Bishop Fenwick | 1450.4 |
+| 50 | Norton | 1446.3 |
+| 51 | Needham | 1444.6 |
+| 52 | Cohasset/Norwell | 1437.4 |
+| 53 | Framingham | 1426.3 |
+| 54 | Hanover | 1398.0 |
+| 55 | Methuen | 1389.4 |
+| 56 | Newton South | 1385.6 |
+| 57 | Scituate | 1379.1 |
+| 58 | Dracut | 1367.9 |
+| 59 | Lowell | 1336.4 |
 
 ## Elo Ratings by Division
 
@@ -83,66 +83,66 @@ Generated: 2026-10-31 08:11
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Central Catholic | 1643.0 | 3 |
-| 2 | Andover | 1604.0 | 4 |
-| 3 | Hamilton-Wenham/Manchester Essex | 1583.1 | 5 |
-| 4 | Haverhill | 1564.3 | 7 |
-| 5 | Westford | 1561.5 | 8 |
-| 6 | Chelmsford/B/T | 1554.6 | 9 |
-| 7 | Wilmington/Bedford | 1553.2 | 10 |
-| 8 | Medford/Somerville | 1546.1 | 12 |
-| 9 | North Andover | 1541.6 | 15 |
-| 10 | Reading | 1530.2 | 19 |
-| 11 | Beverly | 1529.5 | 20 |
-| 12 | Malden | 1519.7 | 23 |
-| 13 | Winchester | 1516.2 | 26 |
-| 14 | Tewksbury | 1513.3 | 28 |
-| 15 | Arlington | 1500.8 | 29 |
-| 16 | Burlington | 1495.2 | 31 |
-| 17 | Marblehead/Swampscott | 1488.1 | 32 |
-| 18 | Salem | 1485.7 | 34 |
-| 19 | Melrose | 1479.5 | 38 |
-| 20 | Wakefield | 1471.3 | 41 |
-| 21 | Stoneham | 1466.7 | 44 |
-| 22 | Peabody | 1455.4 | 47 |
-| 23 | Bishop Fenwick | 1452.0 | 49 |
-| 24 | Newton South | 1394.4 | 55 |
-| 25 | Methuen | 1386.7 | 56 |
-| 26 | Dracut | 1369.5 | 58 |
-| 27 | Lowell | 1337.7 | 59 |
+| 1 | Central Catholic | 1649.1 | 3 |
+| 2 | Andover | 1616.3 | 4 |
+| 3 | Hamilton-Wenham/Manchester Essex | 1581.5 | 5 |
+| 4 | Haverhill | 1561.1 | 7 |
+| 5 | Westford | 1558.8 | 8 |
+| 6 | Wilmington/Bedford | 1551.5 | 9 |
+| 7 | Chelmsford/B/T | 1544.9 | 11 |
+| 8 | Medford/Somerville | 1544.5 | 12 |
+| 9 | North Andover | 1542.6 | 14 |
+| 10 | Reading | 1528.5 | 19 |
+| 11 | Beverly | 1527.9 | 20 |
+| 12 | Malden | 1518.0 | 24 |
+| 13 | Winchester | 1514.5 | 26 |
+| 14 | Arlington | 1499.2 | 28 |
+| 15 | Burlington | 1493.6 | 30 |
+| 16 | Tewksbury | 1492.4 | 31 |
+| 17 | Marblehead/Swampscott | 1486.5 | 32 |
+| 18 | Salem | 1484.1 | 34 |
+| 19 | Melrose | 1477.9 | 38 |
+| 20 | Wakefield | 1469.7 | 41 |
+| 21 | Stoneham | 1465.1 | 44 |
+| 22 | Peabody | 1453.8 | 47 |
+| 23 | Bishop Fenwick | 1450.4 | 49 |
+| 24 | Methuen | 1389.4 | 55 |
+| 25 | Newton South | 1385.6 | 56 |
+| 26 | Dracut | 1367.9 | 58 |
+| 27 | Lowell | 1336.4 | 59 |
 
 ### Division S 1
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Newton North | 1720.1 | 1 |
-| 2 | Hingham/Hull | 1680.1 | 2 |
-| 3 | Marshfield | 1582.2 | 6 |
-| 4 | Mansfield | 1545.5 | 13 |
-| 5 | Brockton/Spellman/Stoughton | 1541.7 | 14 |
-| 6 | Medway/Milford/Millis | 1537.5 | 16 |
-| 7 | Marlborough | 1533.8 | 17 |
-| 8 | Wellesley | 1532.6 | 18 |
-| 9 | Bridgewater-Raynham/West Bridgewater | 1524.2 | 21 |
-| 10 | Whitman-Hanson | 1521.8 | 22 |
-| 11 | Pembroke/Silver Lake | 1519.5 | 24 |
-| 12 | MADS | 1516.7 | 25 |
-| 13 | North Attleborough | 1515.8 | 27 |
-| 14 | Canton | 1487.5 | 33 |
-| 15 | Walpole | 1483.9 | 35 |
-| 16 | Braintree | 1481.3 | 36 |
-| 17 | King Philip | 1481.0 | 37 |
-| 18 | Foxborough | 1478.5 | 39 |
-| 19 | Algonquin | 1469.5 | 42 |
-| 20 | Natick | 1464.3 | 45 |
-| 21 | Plymouth North/South | 1456.5 | 46 |
-| 22 | Norwood | 1455.0 | 48 |
-| 23 | Norton | 1447.9 | 50 |
-| 24 | Needham | 1445.6 | 51 |
-| 25 | Cohasset/Norwell | 1439.1 | 52 |
-| 26 | Framingham | 1427.4 | 53 |
-| 27 | Hanover | 1399.8 | 54 |
-| 28 | Scituate | 1380.1 | 57 |
+| 1 | Newton North | 1723.2 | 1 |
+| 2 | Hingham/Hull | 1682.9 | 2 |
+| 3 | Marshfield | 1576.1 | 6 |
+| 4 | Mansfield | 1543.8 | 13 |
+| 5 | Brockton/Spellman/Stoughton | 1540.1 | 15 |
+| 6 | Medway/Milford/Millis | 1535.9 | 16 |
+| 7 | Marlborough | 1532.2 | 17 |
+| 8 | Wellesley | 1531.2 | 18 |
+| 9 | Bridgewater-Raynham/West Bridgewater | 1522.5 | 21 |
+| 10 | Whitman-Hanson | 1520.3 | 22 |
+| 11 | Pembroke/Silver Lake | 1518.3 | 23 |
+| 12 | MADS | 1515.0 | 25 |
+| 13 | North Attleborough | 1514.1 | 27 |
+| 14 | Canton | 1485.9 | 33 |
+| 15 | Walpole | 1482.7 | 35 |
+| 16 | Braintree | 1480.2 | 36 |
+| 17 | King Philip | 1479.3 | 37 |
+| 18 | Foxborough | 1476.8 | 39 |
+| 19 | Algonquin | 1467.8 | 42 |
+| 20 | Natick | 1463.6 | 45 |
+| 21 | Plymouth North/South | 1454.7 | 46 |
+| 22 | Norwood | 1453.4 | 48 |
+| 23 | Norton | 1446.3 | 50 |
+| 24 | Needham | 1444.6 | 51 |
+| 25 | Cohasset/Norwell | 1437.4 | 52 |
+| 26 | Framingham | 1426.3 | 53 |
+| 27 | Hanover | 1398.0 | 54 |
+| 28 | Scituate | 1379.1 | 57 |
 
 ### Other teams
 
@@ -150,7 +150,7 @@ Non-MIAA opponents and teams without a known division.
 
 | Team | Elo Rating | Overall Rank | Status |
 |------|------------|--------------|--------|
-| Hopkinton | 1546.8 | 11 | unknown |
-| Middleborough | 1495.6 | 30 | unknown |
-| Silver Lake | 1473.1 | 40 | unknown |
-| Wayland | 1469.3 | 43 | unknown |
+| Hopkinton | 1545.2 | 10 | unknown |
+| Middleborough | 1494.0 | 29 | unknown |
+| Silver Lake | 1470.6 | 40 | unknown |
+| Wayland | 1467.5 | 43 | unknown |
