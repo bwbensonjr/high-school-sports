@@ -1,13 +1,16 @@
 """
-Calibrate home field advantage and spread scaling for high school sports Elo.
+Calibrate K, home field advantage, between-season regression, and spread scaling
+for high school sports Elo.
 
 Elo predictions are made with pre-game ratings, so replaying every game in
 order and scoring each prediction is already an out-of-sample evaluation.
-For each sport, with K held at its configured value:
+For each sport:
 
-1. home_field is chosen from a grid to minimize the log loss of the
-   pre-game home win probability. It also drives rating updates.
-2. With ratings replayed at that home_field, the actual home margin is
+1. k, home_field, and season_regression are chosen jointly from a grid to
+   minimize the log loss of the pre-game home win probability. All drive
+   rating updates; season_regression is only searched when the data spans
+   more than one season.
+2. With ratings replayed at those values, the actual home margin is
    regressed on the pre-game rating difference over the most recent scored
    games, where ratings have matured to the spread that predictions for
    upcoming games will use (the rating spread grows over a sport's first
@@ -37,7 +40,9 @@ import pandas as pd
 
 from elo import Elo
 
+K_GRID = [10, 15, 20, 25, 30, 40, 50, 60, 80, 100, 120, 150, 200, 250]
 HOME_FIELD_GRID = list(range(0, 151, 10))
+SEASON_REGRESSION_GRID = [0.0, 0.1, 0.2, 0.33, 0.5, 0.67, 0.8, 1.0]
 WARMUP_DAYS = 28
 HOLDOUT_FRACTION = 0.3
 SPREAD_FIT_FRACTION = 0.4
@@ -52,17 +57,11 @@ def load_sport_data(sport):
     Returns:
         DataFrame: Completed games with a season column, or None if no data found
     """
-    data_files = glob.glob(f"data/{sport}-*.csv")
-    if not data_files:
+    from high_school_elo import load_sport_games
+
+    games = load_sport_games(sport)
+    if games is None:
         return None
-
-    all_games = []
-    for file in data_files:
-        df = pd.read_csv(file)
-        df["season"] = int(os.path.basename(file).split("-")[-1].replace(".csv", ""))
-        all_games.append(df)
-    games = pd.concat(all_games, ignore_index=True)
-
     games = games[
         (games["status"] == "FINAL") &
         games["home_score"].notna() &
@@ -72,14 +71,14 @@ def load_sport_data(sport):
     return games.sort_values(by=["season", "date"], kind="mergesort").reset_index(drop=True)
 
 
-def replay_rating_differences(games, k, home_field):
+def replay_rating_differences(games, k, home_field, season_regression=0.33):
     """
     Replay games through Elo, matching high_school_elo.process_game_elo.
 
     Returns:
         ndarray: Pre-game home rating minus away rating for each game (no home field)
     """
-    elo = Elo(k=k, home_field=home_field)
+    elo = Elo(k=k, home_field=home_field, season_regression=season_regression)
     diffs = np.empty(len(games))
     seasons = games["season"].to_numpy()
     rows = zip(
@@ -145,17 +144,27 @@ def recent_mask(mask, fraction):
     return recent
 
 
-def fit_home_field(games, k, mask):
+def replay_grid(games, regression_grid):
+    """Replay ratings for every (k, home_field, season_regression) combination in the grid."""
+    return {
+        (k, home_field, regression): replay_rating_differences(games, k, home_field, regression)
+        for k in K_GRID
+        for home_field in HOME_FIELD_GRID
+        for regression in regression_grid
+    }
+
+
+def fit_rating_parameters(replays, results, mask):
     """
-    Choose home_field from the grid by log loss of the home win probability.
+    Choose (k, home_field, season_regression) from the grid by log loss of the
+    home win probability.
 
     Returns:
-        int: Best home_field in Elo points
+        tuple: (k, home_field, season_regression)
     """
-    results = home_results((games["home_score"] - games["visitor_score"]).to_numpy(float))
     losses = {
-        home_field: log_loss(replay_rating_differences(games, k, home_field)[mask], home_field, results[mask])
-        for home_field in HOME_FIELD_GRID
+        params: log_loss(diffs[mask], params[1], results[mask])
+        for params, diffs in replays.items()
     }
     return min(losses, key=losses.get)
 
@@ -171,10 +180,13 @@ def calibrate_sport(sport, current):
     """
     Calibrate one sport and recommend parameters against its current configuration.
 
-    A fitted value is recommended only when the version fitted on the earlier
-    scored games beats the current value on the later holdout games:
-    home_field by log loss (by at least MIN_LOG_LOSS_GAIN), and the spread
-    parameters by RMSE. Otherwise the current value is kept.
+    k, home_field, and season_regression are fit jointly (season_regression
+    only when the data spans more than one season). They are recommended only
+    when the combination fitted on the earlier scored games beats the current
+    one on the later holdout games by at least MIN_LOG_LOSS_GAIN in log loss. Since k sets the
+    width of the rating scale, the spread parameters are always refit when the
+    rating parameters change; otherwise they are refit only when that improves
+    holdout RMSE.
 
     Args:
         sport (str): Sport slug
@@ -189,10 +201,11 @@ def calibrate_sport(sport, current):
         return {"sport": sport, "error": f"insufficient data ({count} games, need {MIN_GAMES})"}
 
     defaults = Elo()
-    k = current.get("k", defaults.k)
+    cur_k = current.get("k", defaults.k)
     cur_home_field = current.get("home_field", defaults.home_field)
     cur_spread_factor = current.get("spread_factor", defaults.spread_factor)
     cur_spread_home = current.get("spread_home_field", cur_home_field)
+    cur_regression = current.get("season_regression", defaults.season_regression)
 
     margins = (games["home_score"] - games["visitor_score"]).to_numpy(float)
     results = home_results(margins)
@@ -200,23 +213,31 @@ def calibrate_sport(sport, current):
     test = recent_mask(mask, HOLDOUT_FRACTION)
     train = mask & ~test
 
-    # Home field: holdout log loss of a train-fitted value versus the current value
-    train_home_field = fit_home_field(games, k, train)
-    current_diffs = replay_rating_differences(games, k, cur_home_field)
-    train_diffs = replay_rating_differences(games, k, train_home_field)
+    multi_season = games["season"].nunique() > 1
+    replays = replay_grid(games, SEASON_REGRESSION_GRID if multi_season else [cur_regression])
+    current_diffs = replay_rating_differences(games, cur_k, cur_home_field, cur_regression)
+
+    # Rating parameters: holdout log loss of a train-fitted combination versus the current one
+    train_params = fit_rating_parameters(replays, results, train)
+    train_home_field = train_params[1]
+    train_diffs = replays[train_params]
     current_log_loss = log_loss(current_diffs[test], cur_home_field, results[test])
     fitted_log_loss = log_loss(train_diffs[test], train_home_field, results[test])
-    if current_log_loss - fitted_log_loss >= MIN_LOG_LOSS_GAIN:
-        home_field = fit_home_field(games, k, mask)
+    rating_changed = current_log_loss - fitted_log_loss >= MIN_LOG_LOSS_GAIN
+    if rating_changed:
+        k, home_field, regression = fit_rating_parameters(replays, results, mask)
+        diffs = replays[(k, home_field, regression)]
     else:
-        home_field = cur_home_field
-    diffs = replay_rating_differences(games, k, home_field)
+        k, home_field, regression = cur_k, cur_home_field, cur_regression
+        diffs = current_diffs
 
-    # Spread: holdout RMSE of train-fitted spread parameters versus the current ones
-    train_spread = fit_spread_recent(games, diffs, train)
-    current_rmse = spread_rmse(diffs[test], margins[test], cur_spread_factor, cur_spread_home)
-    fitted_rmse = spread_rmse(diffs[test], margins[test], *train_spread)
-    if fitted_rmse < current_rmse:
+    # Spread: holdout RMSE of the train-fitted configuration versus the current one
+    current_rmse = spread_rmse(current_diffs[test], margins[test], cur_spread_factor, cur_spread_home)
+    if rating_changed:
+        fitted_rmse = spread_rmse(train_diffs[test], margins[test], *fit_spread_recent(games, train_diffs, train))
+    else:
+        fitted_rmse = spread_rmse(diffs[test], margins[test], *fit_spread_recent(games, diffs, train))
+    if rating_changed or fitted_rmse < current_rmse:
         spread_factor, spread_home_field = fit_spread_recent(games, diffs, mask)
         spread_factor, spread_home_field = round(spread_factor, 1), round(spread_home_field)
     else:
@@ -225,15 +246,17 @@ def calibrate_sport(sport, current):
     return {
         "sport": sport,
         "games": int(mask.sum()),
+        "seasons": int(games["season"].nunique()),
         "k": k,
         "home_field": home_field,
+        "season_regression": regression,
         "spread_factor": spread_factor,
         "spread_home_field": spread_home_field,
         "home_margin": round(spread_home_field / spread_factor, 2),
         "holdout_games": int(test.sum()),
         "current_log_loss": current_log_loss,
         "fitted_log_loss": fitted_log_loss,
-        "home_field_changed": home_field != cur_home_field,
+        "rating_changed": rating_changed,
         "current_rmse": current_rmse,
         "fitted_rmse": fitted_rmse,
         "spread_changed": (spread_factor, spread_home_field) != (cur_spread_factor, cur_spread_home),
@@ -245,11 +268,12 @@ def print_result(result):
         print(f"{result['sport']}: skipped, {result['error']}")
         return
     print(
-        f"{result['sport']}: home_field={result['home_field']} "
+        f"{result['sport']}: k={result['k']} home_field={result['home_field']} "
+        f"season_regression={result['season_regression']} "
         f"spread_factor={result['spread_factor']} spread_home_field={result['spread_home_field']} "
         f"(home margin {result['home_margin']:+.2f}) | holdout {result['holdout_games']} games: "
         f"log loss {result['current_log_loss']:.4f} -> {result['fitted_log_loss']:.4f}"
-        f"{'' if result['home_field_changed'] else ' (kept)'}, "
+        f"{'' if result['rating_changed'] else ' (kept)'}, "
         f"RMSE {result['current_rmse']:.3f} -> {result['fitted_rmse']:.3f}"
         f"{'' if result['spread_changed'] else ' (kept)'}"
     )
@@ -258,7 +282,7 @@ def print_result(result):
 def main():
     from high_school_elo import SPORT_CONFIG, get_available_sports
 
-    parser = argparse.ArgumentParser(description="Calibrate Elo home field and spread scaling")
+    parser = argparse.ArgumentParser(description="Calibrate Elo K, home field, season regression, and spread scaling")
     parser.add_argument("sport", nargs="?", help="Sport slug (e.g., field-hockey)")
     parser.add_argument("--all", action="store_true", help="Calibrate all available sports")
     parser.add_argument("--output", help="Write results to this CSV file")

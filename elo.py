@@ -14,6 +14,7 @@ class Elo:
         home_field (float): Home field advantage in Elo rating points.
         spread_factor (float): Divisor for converting Elo differences to point spreads.
         spread_home_field (float): Home advantage in Elo points used only for point spreads.
+        season_regression (float): Fraction of each rating pulled toward the mean between seasons.
         rating_mean (float): Historical mean rating for regression purposes.
     """
 
@@ -25,6 +26,7 @@ class Elo:
             spread_factor=25,
             rating_mean=1505,
             spread_home_field=None,
+            season_regression=0.33,
     ):
         """
         Initialize the Elo rating system.
@@ -48,6 +50,8 @@ class Elo:
                 converting ratings to point spreads. The home edge in win probability and the
                 home edge in scoring margin are calibrated separately, since a single value
                 cannot fit both. Default None uses home_field.
+            season_regression (float, optional): Fraction (0.0 to 1.0) of the gap between each
+                rating and rating_mean removed between seasons. Default is 0.33.
         """
         self.ratings = {}
         self.k = k
@@ -55,6 +59,7 @@ class Elo:
         self.spread_factor = spread_factor
         self.rating_mean = rating_mean
         self.spread_home_field = home_field if spread_home_field is None else spread_home_field
+        self.season_regression = season_regression
         if teams:
             for team_name in teams:
                 self.add_team(team_name)
@@ -187,7 +192,7 @@ class Elo:
 
         return new_home_elo, new_away_elo
 
-    def regress_towards_mean(self, regress_mult=0.33):
+    def regress_towards_mean(self, regress_mult=None):
         """
         Regress all team ratings towards the historical mean.
 
@@ -196,9 +201,12 @@ class Elo:
 
         Args:
             regress_mult (float, optional): Fraction of the difference between current
-                rating and mean to regress (0.0 to 1.0). Default is 0.33, meaning each
-                team moves 33% of the way toward the mean.
+                rating and mean to regress (0.0 to 1.0). Default None uses
+                season_regression. A value of 0.33 moves each team 33% of the way
+                toward the mean.
         """
+        if regress_mult is None:
+            regress_mult = self.season_regression
         for team in self.ratings:
             old_rating = self.team_rating(team)
             rating_adjustment = (

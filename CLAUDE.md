@@ -35,7 +35,7 @@ This is a Python project that tracks Massachusetts high school sports scores and
 - **High school Elo processor** (`high_school_elo.py`): Computes team rankings using Elo ratings
   - Takes sport name as command-line argument (e.g., `python high_school_elo.py field-hockey`)
   - Processes all available data files for the specified sport
-  - Handles multi-season data with between-season regression
+  - Handles multi-season data with between-season regression; seasons are grouped by school year (August 1), so a winter season split across two data files is one season, and games appearing in both files are deduplicated by game_id
   - Outputs detailed game results with Elo ratings and team rankings
 
 ## Common Commands
@@ -55,7 +55,7 @@ This is a Python project that tracks Massachusetts high school sports scores and
 - **Compute Elo ratings for a sport**: `python high_school_elo.py field-hockey`
 - **View available sports**: Check `data/` directory for `{sport}-{year}.csv` files
 - **Results location**: Elo calculations are saved to `results/{sport}-elo-ratings.csv`
-- **Calibrate home field and spread scaling**: `python calibrate_elo.py --all` (or a single sport); prints recommended `SPORT_CONFIG` values in `high_school_elo.py`, keeping current values unless the fit improves a chronological holdout. `spread_home_field` is the home edge used for predicted margins, separate from `home_field`, which sets win probabilities and rating updates
+- **Calibrate K, home field, season regression, and spread scaling**: `python calibrate_elo.py --all` (or a single sport); prints recommended `SPORT_CONFIG` values in `high_school_elo.py`, keeping current values unless the fit improves a chronological holdout. `spread_home_field` is the home edge used for predicted margins, separate from `home_field`, which with `k` sets win probabilities and rating updates. Spread parameters must be refit whenever `k` changes, since `k` sets the width of the rating scale
 
 ### MIAA Division Commands
 

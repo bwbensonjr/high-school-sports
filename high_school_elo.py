@@ -1,5 +1,5 @@
 from elo import Elo
-from divisions import ASSIGNED, DivisionLookup
+from divisions import ASSIGNED, DivisionLookup, school_year_start
 import pandas as pd
 import numpy as np
 import glob
@@ -8,32 +8,33 @@ import sys
 
 # Sport-specific Elo configuration overrides
 # Only specify parameters that differ from Elo class defaults (k=30, home_field=50, spread_factor=25).
-# home_field sets win probabilities and rating updates; spread_factor and spread_home_field
+# k, home_field, and season_regression set win probabilities and rating updates; spread_factor and spread_home_field
 # (Elo points, defaults to home_field) convert ratings to predicted margins. Values come from
 # calibrate_elo.py and are kept at their previous values where the fit did not improve a
 # chronological holdout.
 SPORT_CONFIG = {
     "baseball": {"spread_factor": 57.9, "spread_home_field": 46},
     "boys-basketball": {"spread_factor": 20},
-    "boys-cross-country": {"home_field": 0, "spread_factor": 12.1, "spread_home_field": -24},
-    "boys-golf": {"home_field": 0, "spread_factor": 12.1, "spread_home_field": -28},
-    "boys-hockey": {"spread_factor": 59.5, "spread_home_field": 25},
-    "boys-soccer": {"k": 20, "spread_factor": 56.1, "spread_home_field": 17},
-    "boys-tennis": {"spread_factor": 66.1, "spread_home_field": 52},
-    "boys-volleyball": {"home_field": 110, "spread_factor": 123.3},
+    "boys-cross-country": {"k": 80, "home_field": 0, "spread_factor": 22.4, "spread_home_field": -48},
+    "boys-golf": {"k": 40, "home_field": 0, "spread_factor": 14.2, "spread_home_field": -32},
+    "boys-hockey": {"k": 100, "home_field": 40, "spread_factor": 120.2, "spread_home_field": 56},
+    "boys-lacrosse": {"k": 80, "home_field": 60, "spread_factor": 53.3, "spread_home_field": 92},
+    "boys-soccer": {"k": 80, "spread_factor": 121.6, "spread_home_field": 38},
+    "boys-tennis": {"k": 150, "spread_factor": 160.1, "spread_home_field": 123},
+    "boys-volleyball": {"k": 120, "home_field": 110, "spread_factor": 246.1, "spread_home_field": 206},
     "fall-girls-swimming": {"spread_factor": 10},  # not calibrated: insufficient data
-    "field-hockey": {"spread_factor": 52.3, "spread_home_field": 17},
-    "football": {"home_field": 30, "spread_factor": 11.6, "spread_home_field": 14},
-    "girls-basketball": {"spread_factor": 20},
-    "girls-cross-country": {"home_field": 10, "spread_factor": 10, "spread_home_field": -9},
-    "girls-hockey": {"spread_factor": 67.1, "spread_home_field": 16},
-    "girls-lacrosse": {"home_field": 80, "spread_home_field": 50},
-    "girls-soccer": {"k": 25, "spread_factor": 55.9, "spread_home_field": 23},
+    "field-hockey": {"k": 120, "season_regression": 0.1, "spread_factor": 128.7, "spread_home_field": 43},
+    "football": {"k": 60, "home_field": 30, "spread_factor": 17.5, "spread_home_field": 22},
+    "girls-basketball": {"k": 60, "home_field": 60, "spread_factor": 24.5, "spread_home_field": 104},
+    "girls-cross-country": {"k": 100, "home_field": 10, "spread_factor": 20, "spread_home_field": -18},
+    "girls-hockey": {"k": 120, "home_field": 40, "spread_factor": 143.4, "spread_home_field": 38},
+    "girls-lacrosse": {"k": 80, "home_field": 90, "spread_factor": 54.3, "spread_home_field": 130},
+    "girls-soccer": {"k": 100, "spread_factor": 132.8, "spread_home_field": 51},
     "girls-tennis": {"spread_factor": 66.7, "spread_home_field": 51},
-    "girls-volleyball": {"spread_factor": 95.5, "spread_home_field": 22},
+    "girls-volleyball": {"k": 120, "spread_factor": 197.2, "spread_home_field": 46},
     "softball": {"spread_factor": 38.3, "spread_home_field": 55},
     "volleyball": {"spread_factor": 35},  # not calibrated: insufficient data
-    "wrestling": {"home_field": 0, "spread_factor": 8.2, "spread_home_field": 9},
+    "wrestling": {"k": 80, "home_field": 0, "spread_factor": 14.1, "spread_home_field": 17},
 }
 # Sports not listed use Elo class defaults. Sports with under 300 completed games are not
 # calibrated (e.g. indoor track, swimming, gymnastics, rugby).
@@ -72,27 +73,54 @@ def get_available_sports():
 
     return list(sports)
 
-def compute_elo_ratings(sport):
-    print(f"Processing {sport} Elo ratings...")
+def load_sport_games(sport, data_dir="data"):
+    """
+    Load all games for a sport, one row per game, labeled by season.
 
-    # Load all available data files for the sport
-    data_files = glob.glob(f"data/{sport}-*.csv")
+    Data files are named by the calendar year the games were fetched in, so a
+    winter season (December through March) is split across two files, and
+    games fetched in both windows appear in both. Games are deduplicated by
+    game_id, preferring a completed result and then the newer file. Each game
+    belongs to the school year (starting August 1) of its date, and each
+    school year is labeled with the newest file year it appears in (e.g. the
+    2025-26 winter season is 2026), which matches the file year for fall and
+    spring sports.
+
+    Returns:
+        DataFrame: Games with a season column, or None if no data files exist
+    """
+    data_files = glob.glob(f"{data_dir}/{sport}-*.csv")
     if not data_files:
-        print(f"No data files found for {sport}")
-        return
+        return None
+    print(f"Found {len(data_files)} data files: {sorted(os.path.basename(f) for f in data_files)}")
 
-    print(f"Found {len(data_files)} data files: {[os.path.basename(f) for f in data_files]}")
-
-    # Load and combine all games
     all_games = []
     for file in data_files:
         df = pd.read_csv(file)
         # Extract year from filename (e.g., "field-hockey-2025.csv" -> 2025)
-        year = int(os.path.basename(file).split("-")[-1].replace(".csv", ""))
-        df["season"] = year
+        df["file_year"] = int(os.path.basename(file).split("-")[-1].replace(".csv", ""))
         all_games.append(df)
+    games = pd.concat(all_games, ignore_index=True)
 
-    games_df = pd.concat(all_games, ignore_index=True)
+    games["completed"] = (
+        (games["status"] == "FINAL") & games["home_score"].notna() & games["visitor_score"].notna()
+    )
+    games = (
+        games.sort_values(by=["completed", "file_year"], kind="mergesort")
+        .drop_duplicates(subset="game_id", keep="last")
+    )
+    school_year = games["date"].map(school_year_start)
+    games["season"] = games.groupby(school_year)["file_year"].transform("max")
+    return games.drop(columns=["completed", "file_year"]).sort_index().reset_index(drop=True)
+
+
+def compute_elo_ratings(sport):
+    print(f"Processing {sport} Elo ratings...")
+
+    games_df = load_sport_games(sport)
+    if games_df is None:
+        print(f"No data files found for {sport}")
+        return
 
     # Separate completed and upcoming games
     completed_games = games_df[
