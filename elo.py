@@ -13,6 +13,7 @@ class Elo:
         k (float): K-factor determining the maximum rating change per game.
         home_field (float): Home field advantage in Elo rating points.
         spread_factor (float): Divisor for converting Elo differences to point spreads.
+        spread_home_field (float): Home advantage in Elo points used only for point spreads.
         rating_mean (float): Historical mean rating for regression purposes.
     """
 
@@ -23,6 +24,7 @@ class Elo:
             home_field=50,
             spread_factor=25,
             rating_mean=1505,
+            spread_home_field=None,
     ):
         """
         Initialize the Elo rating system.
@@ -42,12 +44,17 @@ class Elo:
                 Default is 25.
             rating_mean (float, optional): Historical mean rating used for regression between
                 seasons. Default is 1505.
+            spread_home_field (float, optional): Home advantage in Elo points applied when
+                converting ratings to point spreads. The home edge in win probability and the
+                home edge in scoring margin are calibrated separately, since a single value
+                cannot fit both. Default None uses home_field.
         """
         self.ratings = {}
         self.k = k
         self.home_field = home_field
         self.spread_factor = spread_factor
         self.rating_mean = rating_mean
+        self.spread_home_field = home_field if spread_home_field is None else spread_home_field
         if teams:
             for team_name in teams:
                 self.add_team(team_name)
@@ -136,8 +143,8 @@ class Elo:
             float: Predicted point/goal spread. Positive means home team favored,
                 negative means away team favored.
         """
-        elo_diff = self.elo_difference(home_team, away_team)
-        spread = -(elo_diff / self.spread_factor)
+        home_edge = self.team_rating(home_team) + self.spread_home_field - self.team_rating(away_team)
+        spread = home_edge / self.spread_factor
         return spread
     
     def update_ratings(self, home_team, home_score, away_team, away_score):

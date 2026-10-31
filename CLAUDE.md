@@ -55,6 +55,7 @@ This is a Python project that tracks Massachusetts high school sports scores and
 - **Compute Elo ratings for a sport**: `python high_school_elo.py field-hockey`
 - **View available sports**: Check `data/` directory for `{sport}-{year}.csv` files
 - **Results location**: Elo calculations are saved to `results/{sport}-elo-ratings.csv`
+- **Calibrate home field and spread scaling**: `python calibrate_elo.py --all` (or a single sport); prints recommended `SPORT_CONFIG` values in `high_school_elo.py`, keeping current values unless the fit improves a chronological holdout. `spread_home_field` is the home edge used for predicted margins, separate from `home_field`, which sets win probabilities and rating updates
 
 ### MIAA Division Commands
 
