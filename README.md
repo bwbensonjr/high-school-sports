@@ -170,6 +170,38 @@ The script creates:
 - **Regression factor**: 33% toward mean between seasons
 
 
+## Website
+
+A static site in `site/` shows each sport's recent results, upcoming
+games with predicted spreads, Elo rankings across divisions, and Elo
+rankings within each MIAA division. Sports in season are listed first.
+The page code never changes with the data: it reads JSON files that
+`site_export.py` builds from `results/`.
+
+```bash
+# Build site/data/index.json and site/data/sports/{sport}.json from results/
+python site_export.py            # --date YYYY-MM-DD overrides "today" (Eastern)
+
+# Preview locally at http://localhost:8000
+python -m http.server -d site
+```
+
+`site/data/` is generated and not committed. See `site/README.md` for the
+design tokens, components, and accessibility checks.
+
+### Deployment
+
+The "Deploy Site" workflow (`.github/workflows/deploy-site.yml`) runs the
+export and publishes `site/` to GitHub Pages after each successful "Update
+Scores and Elo Ratings" run, on pushes to `main` that change `site/` or
+`site_export.py`, and on manual dispatch.
+
+One-time setup: in the repository's **Settings > Pages**, under **Build and
+deployment**, set **Source** to **GitHub Actions**.
+
+To redeploy by hand: **Actions > Deploy Site > Run workflow**, or
+`gh workflow run deploy-site.yml`.
+
 ## MIAA Divisions
 
 MIAA assigns each member school a tournament division per sport for a
