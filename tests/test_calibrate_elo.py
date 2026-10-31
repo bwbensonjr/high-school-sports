@@ -2,7 +2,13 @@ import numpy as np
 import pandas as pd
 import pytest
 
-from calibrate_elo import fit_spread, recent_mask, replay_rating_differences, scored_mask
+from calibrate_elo import (
+    fit_rating_parameters,
+    fit_spread,
+    recent_mask,
+    replay_rating_differences,
+    scored_mask,
+)
 from elo import Elo
 
 
@@ -59,3 +65,13 @@ def test_replay_matches_elo_updates():
         expected.append(elo.team_rating(game.home_team) - elo.team_rating(game.visitor_team))
         elo.update_ratings(game.home_team, game.home_score, game.visitor_team, game.visitor_score)
     assert diffs.tolist() == pytest.approx(expected)
+
+
+def test_fit_rating_parameters_picks_lowest_log_loss():
+    results = np.array([1.0, 1.0, 0.0, 1.0])
+    mask = np.array([True, True, True, True])
+    replays = {
+        (30, 50, 0.33): np.array([0.0, 0.0, 0.0, 0.0]),
+        (60, 50, 0.33): np.array([200.0, 200.0, -200.0, 200.0]),
+    }
+    assert fit_rating_parameters(replays, results, mask) == (60, 50, 0.33)

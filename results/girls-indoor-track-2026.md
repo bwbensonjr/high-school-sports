@@ -1,6 +1,6 @@
 # Girls Indoor Track - 2026 Season
 
-Generated: 2026-10-31 08:11
+Generated: 2026-10-31 08:24
 
 ## Upcoming Games
 
@@ -16,108 +16,108 @@ Generated: 2026-10-31 08:11
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | St. Mary’s | 1769.1 |
-| 2 | Newton North | 1721.3 |
-| 3 | Cardinal Spellman | 1668.5 |
-| 4 | Peabody | 1657.9 |
-| 5 | Braintree | 1653.0 |
-| 6 | Boston International | 1651.1 |
-| 7 | Ipswich | 1642.3 |
-| 8 | Seekonk | 1633.5 |
-| 9 | Central Catholic | 1615.4 |
-| 10 | Dennis-Yarmouth | 1608.5 |
-| 11 | Bishop Feehan | 1608.1 |
-| 12 | Oliver Ames | 1601.9 |
-| 13 | King Philip | 1598.1 |
-| 14 | Snowden/Quincy Upper | 1597.7 |
-| 15 | Wellesley | 1587.8 |
-| 16 | Foxborough | 1580.4 |
-| 17 | Plymouth North | 1578.8 |
-| 18 | Old Rochester | 1576.3 |
-| 19 | Pembroke | 1575.1 |
-| 20 | Latin Academy / O'Bryant | 1572.9 |
-| 21 | Masconomet | 1571.6 |
-| 22 | Duxbury | 1570.5 |
-| 23 | Brighton | 1569.3 |
-| 24 | Dover-Sherborn | 1567.6 |
-| 25 | Manchester Essex | 1567.5 |
-| 26 | Lowell | 1558.1 |
-| 27 | Gloucester | 1557.9 |
-| 28 | Sharon | 1553.9 |
-| 29 | Latin Academy | 1548.3 |
-| 30 | Triton | 1545.5 |
-| 31 | Archbishop Williams | 1543.2 |
-| 32 | Newburyport | 1542.9 |
-| 33 | Andover | 1542.3 |
-| 34 | Malden Catholic | 1542.1 |
-| 35 | Franklin | 1537.3 |
-| 36 | Hopkinton | 1537.2 |
-| 37 | Norton | 1536.1 |
-| 38 | Arlington Catholic | 1529.1 |
-| 39 | Somerset Berkley | 1527.8 |
-| 40 | Marshfield | 1527.2 |
-| 41 | Southeastern | 1523.9 |
-| 42 | Natick | 1523.1 |
-| 43 | Holliston | 1522.0 |
-| 44 | Chelmsford | 1507.9 |
-| 45 | Essex Tech | 1502.8 |
-| 46 | North Reading | 1502.8 |
-| 47 | Billerica | 1495.9 |
-| 48 | Needham | 1493.8 |
-| 49 | Greater New Bedford | 1491.3 |
-| 50 | Canton | 1488.7 |
-| 51 | Dighton-Rehoboth | 1487.3 |
-| 52 | Milton | 1485.4 |
-| 53 | Scituate | 1484.4 |
-| 54 | Nauset | 1479.4 |
-| 55 | Taunton | 1476.9 |
-| 56 | Hanover | 1476.3 |
-| 57 | Charlestown | 1475.7 |
-| 58 | North Quincy/Quincy | 1475.2 |
-| 59 | Marblehead | 1473.2 |
-| 60 | Martha’s Vineyard | 1471.9 |
-| 61 | Whitman-Hanson | 1471.1 |
-| 62 | Stoughton | 1470.2 |
-| 63 | Joseph Case | 1470.1 |
-| 64 | Tri-County | 1470.0 |
-| 65 | Medfield | 1469.4 |
-| 66 | Bishop Fenwick | 1467.5 |
-| 67 | Amesbury | 1465.5 |
-| 68 | O’Bryant | 1464.1 |
-| 69 | Beverly | 1462.4 |
-| 70 | West Bridgewater | 1460.7 |
-| 71 | Wareham | 1458.3 |
-| 72 | Swampscott | 1455.9 |
-| 73 | Bishop Stang | 1453.5 |
-| 74 | St. John Paul II | 1451.2 |
-| 75 | Dedham | 1449.1 |
-| 76 | Salem | 1447.6 |
-| 77 | North Attleborough | 1446.8 |
-| 78 | Fairhaven | 1446.7 |
-| 79 | Millis | 1437.9 |
-| 80 | Hingham | 1437.3 |
-| 81 | East Boston | 1435.8 |
-| 82 | Milford | 1435.2 |
-| 83 | Hamilton-Wenham | 1433.6 |
-| 84 | CASH | 1432.3 |
-| 85 | Silver Lake | 1431.7 |
-| 86 | Apponequet | 1431.0 |
-| 87 | Madison Park | 1429.9 |
-| 88 | New Mission | 1429.8 |
-| 89 | Mansfield | 1428.5 |
-| 90 | TechBoston | 1426.0 |
-| 91 | Pentucket | 1419.8 |
-| 92 | Walpole | 1419.0 |
-| 93 | Attleboro | 1415.2 |
-| 94 | Ursuline | 1412.4 |
-| 95 | Brookline | 1406.8 |
-| 96 | Lynnfield | 1405.0 |
-| 97 | Framingham | 1397.0 |
-| 98 | Danvers | 1395.5 |
-| 99 | Fontbonne | 1355.9 |
-| 100 | Weymouth | 1340.3 |
-| 101 | North Andover | 1296.9 |
-| 102 | Cristo Rey | 1237.1 |
+| 1 | St. Mary’s | 1787.3 |
+| 2 | Newton North | 1741.3 |
+| 3 | Cardinal Spellman | 1693.4 |
+| 4 | Peabody | 1672.0 |
+| 5 | Braintree | 1671.4 |
+| 6 | Boston International | 1650.0 |
+| 7 | Seekonk | 1632.7 |
+| 8 | Bishop Feehan | 1632.1 |
+| 9 | Dennis-Yarmouth | 1631.3 |
+| 10 | Central Catholic | 1624.5 |
+| 11 | Ipswich | 1623.8 |
+| 12 | Oliver Ames | 1622.5 |
+| 13 | Wellesley | 1610.3 |
+| 14 | King Philip | 1608.1 |
+| 15 | Snowden/Quincy Upper | 1596.6 |
+| 16 | Foxborough | 1594.7 |
+| 17 | Old Rochester | 1593.1 |
+| 18 | Plymouth North | 1576.2 |
+| 19 | Pembroke | 1574.0 |
+| 20 | Latin Academy / O'Bryant | 1571.8 |
+| 21 | Manchester Essex | 1571.7 |
+| 22 | Masconomet | 1571.1 |
+| 23 | Brighton | 1568.2 |
+| 24 | Duxbury | 1566.9 |
+| 25 | Dover-Sherborn | 1566.5 |
+| 26 | Sharon | 1564.3 |
+| 27 | Newburyport | 1561.6 |
+| 28 | Gloucester | 1556.8 |
+| 29 | Lowell | 1553.3 |
+| 30 | Hopkinton | 1553.0 |
+| 31 | Norton | 1551.4 |
+| 32 | Somerset Berkley | 1551.0 |
+| 33 | Malden Catholic | 1547.6 |
+| 34 | Latin Academy | 1547.2 |
+| 35 | Archbishop Williams | 1544.7 |
+| 36 | Triton | 1542.0 |
+| 37 | Andover | 1538.7 |
+| 38 | Marshfield | 1538.1 |
+| 39 | Southeastern | 1533.2 |
+| 40 | Arlington Catholic | 1532.4 |
+| 41 | Franklin | 1522.7 |
+| 42 | Natick | 1522.2 |
+| 43 | Billerica | 1516.8 |
+| 44 | Needham | 1508.8 |
+| 45 | Holliston | 1505.9 |
+| 46 | Canton | 1503.5 |
+| 47 | North Reading | 1501.7 |
+| 48 | Essex Tech | 1501.7 |
+| 49 | Amesbury | 1497.6 |
+| 50 | Nauset | 1495.0 |
+| 51 | Chelmsford | 1493.9 |
+| 52 | Greater New Bedford | 1490.9 |
+| 53 | Scituate | 1483.3 |
+| 54 | Milton | 1483.0 |
+| 55 | Dighton-Rehoboth | 1478.6 |
+| 56 | Taunton | 1476.7 |
+| 57 | Hanover | 1475.2 |
+| 58 | Charlestown | 1474.6 |
+| 59 | Marblehead | 1474.5 |
+| 60 | North Quincy/Quincy | 1474.1 |
+| 61 | Joseph Case | 1469.1 |
+| 62 | Fairhaven | 1466.0 |
+| 63 | Beverly | 1463.7 |
+| 64 | O’Bryant | 1463.0 |
+| 65 | Whitman-Hanson | 1462.1 |
+| 66 | Wareham | 1462.0 |
+| 67 | Bishop Fenwick | 1461.2 |
+| 68 | Martha’s Vineyard | 1455.6 |
+| 69 | Stoughton | 1453.1 |
+| 70 | Tri-County | 1452.7 |
+| 71 | Medfield | 1451.9 |
+| 72 | Salem | 1446.5 |
+| 73 | Dedham | 1446.0 |
+| 74 | Silver Lake | 1443.1 |
+| 75 | West Bridgewater | 1438.8 |
+| 76 | Millis | 1436.8 |
+| 77 | Milford | 1436.6 |
+| 78 | East Boston | 1434.7 |
+| 79 | Swampscott | 1431.7 |
+| 80 | CASH | 1431.2 |
+| 81 | Madison Park | 1428.8 |
+| 82 | New Mission | 1428.6 |
+| 83 | Bishop Stang | 1428.2 |
+| 84 | TechBoston | 1424.9 |
+| 85 | St. John Paul II | 1424.7 |
+| 86 | Hingham | 1423.5 |
+| 87 | Hamilton-Wenham | 1422.3 |
+| 88 | North Attleborough | 1418.2 |
+| 89 | Mansfield | 1417.9 |
+| 90 | Attleboro | 1401.5 |
+| 91 | Pentucket | 1401.3 |
+| 92 | Brookline | 1398.7 |
+| 93 | Danvers | 1396.8 |
+| 94 | Apponequet | 1394.6 |
+| 95 | Walpole | 1394.5 |
+| 96 | Lynnfield | 1392.8 |
+| 97 | Ursuline | 1383.8 |
+| 98 | Framingham | 1371.7 |
+| 99 | Fontbonne | 1348.9 |
+| 100 | Weymouth | 1314.5 |
+| 101 | North Andover | 1282.7 |
+| 102 | Cristo Rey | 1215.5 |
 
 ## Elo Ratings by Division
 
@@ -126,127 +126,127 @@ Generated: 2026-10-31 08:11
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Newton North | 1721.3 | 2 |
-| 2 | Braintree | 1653.0 | 5 |
-| 3 | Central Catholic | 1615.4 | 9 |
-| 4 | Lowell | 1558.1 | 26 |
-| 5 | Andover | 1542.3 | 33 |
-| 6 | Franklin | 1537.3 | 35 |
-| 7 | Natick | 1523.1 | 42 |
-| 8 | Needham | 1493.8 | 48 |
-| 9 | Taunton | 1476.9 | 55 |
-| 10 | Attleboro | 1415.2 | 93 |
-| 11 | Brookline | 1406.8 | 95 |
-| 12 | Framingham | 1397.0 | 97 |
-| 13 | Weymouth | 1340.3 | 100 |
+| 1 | Newton North | 1741.3 | 2 |
+| 2 | Braintree | 1671.4 | 5 |
+| 3 | Central Catholic | 1624.5 | 10 |
+| 4 | Lowell | 1553.3 | 29 |
+| 5 | Andover | 1538.7 | 37 |
+| 6 | Franklin | 1522.7 | 41 |
+| 7 | Natick | 1522.2 | 42 |
+| 8 | Needham | 1508.8 | 44 |
+| 9 | Taunton | 1476.7 | 56 |
+| 10 | Attleboro | 1401.5 | 90 |
+| 11 | Brookline | 1398.7 | 92 |
+| 12 | Framingham | 1371.7 | 98 |
+| 13 | Weymouth | 1314.5 | 100 |
 
 ### Division 2
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Peabody | 1657.9 | 4 |
-| 2 | Bishop Feehan | 1608.1 | 11 |
-| 3 | King Philip | 1598.1 | 13 |
-| 4 | Wellesley | 1587.8 | 15 |
-| 5 | Plymouth North | 1578.8 | 17 |
-| 6 | Sharon | 1553.9 | 28 |
-| 7 | Malden Catholic | 1542.1 | 34 |
-| 8 | Hopkinton | 1537.2 | 36 |
-| 9 | Marshfield | 1527.2 | 40 |
-| 10 | Chelmsford | 1507.9 | 44 |
-| 11 | Essex Tech | 1502.8 | 45 |
-| 12 | Billerica | 1495.9 | 47 |
-| 13 | North Quincy/Quincy | 1475.2 | 58 |
-| 14 | Beverly | 1462.4 | 69 |
-| 15 | North Andover | 1296.9 | 101 |
+| 1 | Peabody | 1672.0 | 4 |
+| 2 | Bishop Feehan | 1632.1 | 8 |
+| 3 | Wellesley | 1610.3 | 13 |
+| 4 | King Philip | 1608.1 | 14 |
+| 5 | Plymouth North | 1576.2 | 18 |
+| 6 | Sharon | 1564.3 | 26 |
+| 7 | Hopkinton | 1553.0 | 30 |
+| 8 | Malden Catholic | 1547.6 | 33 |
+| 9 | Marshfield | 1538.1 | 38 |
+| 10 | Billerica | 1516.8 | 43 |
+| 11 | Essex Tech | 1501.7 | 48 |
+| 12 | Chelmsford | 1493.9 | 51 |
+| 13 | North Quincy/Quincy | 1474.1 | 60 |
+| 14 | Beverly | 1463.7 | 63 |
+| 15 | North Andover | 1282.7 | 101 |
 
 ### Division 3
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Oliver Ames | 1601.9 | 12 |
-| 2 | Latin Academy / O'Bryant | 1572.9 | 20 |
-| 3 | Masconomet | 1571.6 | 21 |
-| 4 | Duxbury | 1570.5 | 22 |
-| 5 | Latin Academy | 1548.3 | 29 |
-| 6 | Somerset Berkley | 1527.8 | 39 |
-| 7 | Southeastern | 1523.9 | 41 |
-| 8 | Greater New Bedford | 1491.3 | 49 |
-| 9 | Canton | 1488.7 | 50 |
-| 10 | Milton | 1485.4 | 52 |
-| 11 | Marblehead | 1473.2 | 59 |
-| 12 | Whitman-Hanson | 1471.1 | 61 |
-| 13 | Stoughton | 1470.2 | 62 |
-| 14 | North Attleborough | 1446.8 | 77 |
-| 15 | Hingham | 1437.3 | 80 |
-| 16 | Milford | 1435.2 | 82 |
-| 17 | Silver Lake | 1431.7 | 85 |
-| 18 | Mansfield | 1428.5 | 89 |
-| 19 | Walpole | 1419.0 | 92 |
+| 1 | Oliver Ames | 1622.5 | 12 |
+| 2 | Latin Academy / O'Bryant | 1571.8 | 20 |
+| 3 | Masconomet | 1571.1 | 22 |
+| 4 | Duxbury | 1566.9 | 24 |
+| 5 | Somerset Berkley | 1551.0 | 32 |
+| 6 | Latin Academy | 1547.2 | 34 |
+| 7 | Southeastern | 1533.2 | 39 |
+| 8 | Canton | 1503.5 | 46 |
+| 9 | Greater New Bedford | 1490.9 | 52 |
+| 10 | Milton | 1483.0 | 54 |
+| 11 | Marblehead | 1474.5 | 59 |
+| 12 | Whitman-Hanson | 1462.1 | 65 |
+| 13 | Stoughton | 1453.1 | 69 |
+| 14 | Silver Lake | 1443.1 | 74 |
+| 15 | Milford | 1436.6 | 77 |
+| 16 | Hingham | 1423.5 | 86 |
+| 17 | North Attleborough | 1418.2 | 88 |
+| 18 | Mansfield | 1417.9 | 89 |
+| 19 | Walpole | 1394.5 | 95 |
 
 ### Division 4
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | St. Mary’s | 1769.1 | 1 |
-| 2 | Cardinal Spellman | 1668.5 | 3 |
-| 3 | Foxborough | 1580.4 | 16 |
-| 4 | Pembroke | 1575.1 | 19 |
-| 5 | Dover-Sherborn | 1567.6 | 24 |
-| 6 | Gloucester | 1557.9 | 27 |
-| 7 | Archbishop Williams | 1543.2 | 31 |
-| 8 | Newburyport | 1542.9 | 32 |
-| 9 | Norton | 1536.1 | 37 |
-| 10 | Arlington Catholic | 1529.1 | 38 |
-| 11 | Holliston | 1522.0 | 43 |
-| 12 | Scituate | 1484.4 | 53 |
-| 13 | Nauset | 1479.4 | 54 |
-| 14 | Hanover | 1476.3 | 56 |
-| 15 | Medfield | 1469.4 | 65 |
-| 16 | Bishop Fenwick | 1467.5 | 66 |
-| 17 | O’Bryant | 1464.1 | 68 |
-| 18 | Swampscott | 1455.9 | 72 |
-| 19 | Bishop Stang | 1453.5 | 73 |
-| 20 | St. John Paul II | 1451.2 | 74 |
-| 21 | Dedham | 1449.1 | 75 |
-| 22 | Salem | 1447.6 | 76 |
-| 23 | Apponequet | 1431.0 | 86 |
-| 24 | Madison Park | 1429.9 | 87 |
-| 25 | Ursuline | 1412.4 | 94 |
-| 26 | Danvers | 1395.5 | 98 |
-| 27 | Fontbonne | 1355.9 | 99 |
-| 28 | Cristo Rey | 1237.1 | 102 |
+| 1 | St. Mary’s | 1787.3 | 1 |
+| 2 | Cardinal Spellman | 1693.4 | 3 |
+| 3 | Foxborough | 1594.7 | 16 |
+| 4 | Pembroke | 1574.0 | 19 |
+| 5 | Dover-Sherborn | 1566.5 | 25 |
+| 6 | Newburyport | 1561.6 | 27 |
+| 7 | Gloucester | 1556.8 | 28 |
+| 8 | Norton | 1551.4 | 31 |
+| 9 | Archbishop Williams | 1544.7 | 35 |
+| 10 | Arlington Catholic | 1532.4 | 40 |
+| 11 | Holliston | 1505.9 | 45 |
+| 12 | Nauset | 1495.0 | 50 |
+| 13 | Scituate | 1483.3 | 53 |
+| 14 | Hanover | 1475.2 | 57 |
+| 15 | O’Bryant | 1463.0 | 64 |
+| 16 | Bishop Fenwick | 1461.2 | 67 |
+| 17 | Medfield | 1451.9 | 71 |
+| 18 | Salem | 1446.5 | 72 |
+| 19 | Dedham | 1446.0 | 73 |
+| 20 | Swampscott | 1431.7 | 79 |
+| 21 | Madison Park | 1428.8 | 81 |
+| 22 | Bishop Stang | 1428.2 | 83 |
+| 23 | St. John Paul II | 1424.7 | 85 |
+| 24 | Danvers | 1396.8 | 93 |
+| 25 | Apponequet | 1394.6 | 94 |
+| 26 | Ursuline | 1383.8 | 97 |
+| 27 | Fontbonne | 1348.9 | 99 |
+| 28 | Cristo Rey | 1215.5 | 102 |
 
 ### Division 5
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Boston International | 1651.1 | 6 |
-| 2 | Ipswich | 1642.3 | 7 |
-| 3 | Seekonk | 1633.5 | 8 |
-| 4 | Dennis-Yarmouth | 1608.5 | 10 |
-| 5 | Snowden/Quincy Upper | 1597.7 | 14 |
-| 6 | Old Rochester | 1576.3 | 18 |
-| 7 | Brighton | 1569.3 | 23 |
-| 8 | Manchester Essex | 1567.5 | 25 |
-| 9 | Triton | 1545.5 | 30 |
-| 10 | North Reading | 1502.8 | 46 |
-| 11 | Dighton-Rehoboth | 1487.3 | 51 |
-| 12 | Charlestown | 1475.7 | 57 |
-| 13 | Martha’s Vineyard | 1471.9 | 60 |
-| 14 | Joseph Case | 1470.1 | 63 |
-| 15 | Tri-County | 1470.0 | 64 |
-| 16 | Amesbury | 1465.5 | 67 |
-| 17 | West Bridgewater | 1460.7 | 70 |
-| 18 | Wareham | 1458.3 | 71 |
-| 19 | Fairhaven | 1446.7 | 78 |
-| 20 | Millis | 1437.9 | 79 |
-| 21 | East Boston | 1435.8 | 81 |
-| 22 | Hamilton-Wenham | 1433.6 | 83 |
-| 23 | New Mission | 1429.8 | 88 |
-| 24 | TechBoston | 1426.0 | 90 |
-| 25 | Pentucket | 1419.8 | 91 |
-| 26 | Lynnfield | 1405.0 | 96 |
+| 1 | Boston International | 1650.0 | 6 |
+| 2 | Seekonk | 1632.7 | 7 |
+| 3 | Dennis-Yarmouth | 1631.3 | 9 |
+| 4 | Ipswich | 1623.8 | 11 |
+| 5 | Snowden/Quincy Upper | 1596.6 | 15 |
+| 6 | Old Rochester | 1593.1 | 17 |
+| 7 | Manchester Essex | 1571.7 | 21 |
+| 8 | Brighton | 1568.2 | 23 |
+| 9 | Triton | 1542.0 | 36 |
+| 10 | North Reading | 1501.7 | 47 |
+| 11 | Amesbury | 1497.6 | 49 |
+| 12 | Dighton-Rehoboth | 1478.6 | 55 |
+| 13 | Charlestown | 1474.6 | 58 |
+| 14 | Joseph Case | 1469.1 | 61 |
+| 15 | Fairhaven | 1466.0 | 62 |
+| 16 | Wareham | 1462.0 | 66 |
+| 17 | Martha’s Vineyard | 1455.6 | 68 |
+| 18 | Tri-County | 1452.7 | 70 |
+| 19 | West Bridgewater | 1438.8 | 75 |
+| 20 | Millis | 1436.8 | 76 |
+| 21 | East Boston | 1434.7 | 78 |
+| 22 | New Mission | 1428.6 | 82 |
+| 23 | TechBoston | 1424.9 | 84 |
+| 24 | Hamilton-Wenham | 1422.3 | 87 |
+| 25 | Pentucket | 1401.3 | 91 |
+| 26 | Lynnfield | 1392.8 | 96 |
 
 ### Other teams
 
@@ -254,4 +254,4 @@ Non-MIAA opponents and teams without a known division.
 
 | Team | Elo Rating | Overall Rank | Status |
 |------|------------|--------------|--------|
-| CASH | 1432.3 | 84 | unknown |
+| CASH | 1431.2 | 80 | unknown |
