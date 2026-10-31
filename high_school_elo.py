@@ -7,51 +7,36 @@ import os
 import sys
 
 # Sport-specific Elo configuration overrides
-# Only specify parameters that differ from Elo class defaults (k=20, home_field=50, spread_factor=25)
-# Values below were determined via 5-fold cross-validation (see calibrate_elo.py)
+# Only specify parameters that differ from Elo class defaults (k=30, home_field=50, spread_factor=25).
+# home_field sets win probabilities and rating updates; spread_factor and spread_home_field
+# (Elo points, defaults to home_field) convert ratings to predicted margins. Values come from
+# calibrate_elo.py and are kept at their previous values where the fit did not improve a
+# chronological holdout.
 SPORT_CONFIG = {
-    "football": {
-        "spread_factor": 10,  # High scoring sport - calibrated MAE: 19.91 ± 0.78
-    },
-    "boys-basketball": {
-        "spread_factor": 20,  # Medium-high scoring - insufficient data for calibration
-    },
-    "girls-basketball": {
-        "spread_factor": 20,  # Medium-high scoring - insufficient data for calibration
-    },
-    "boys-soccer": {
-        "spread_factor": 50,  # Low scoring sport - calibrated MAE: 2.29 ± 0.12
-        "k": 20,
-    },
-    "girls-soccer": {
-        "spread_factor": 50,  # Low scoring sport - calibrated MAE: 2.79 ± 0.18
-        "k": 25,
-    },
-    "field-hockey": {
-        "spread_factor": 40,  # Low scoring sport - calibrated MAE: 3.19 ± 0.23
-    },
-    "volleyball": {
-        "spread_factor": 35,  # Points but lower differential - insufficient data
-    },
-    "girls-volleyball": {
-        "spread_factor": 35,  # Points but lower differential - calibrated MAE: 2.05 ± 0.07
-    },
-    "boys-golf": {
-        "spread_factor": 10,  # Stroke differential - calibrated MAE: 19.60 ± 0.79
-    },
-    "boys-cross-country": {
-        "spread_factor": 10,  # Place/time differential - calibrated MAE: 18.75 ± 0.42
-    },
-    "girls-cross-country": {
-        "spread_factor": 10,  # Place/time differential - calibrated MAE: 19.43 ± 1.11
-    },
-    "fall-girls-swimming": {
-        "spread_factor": 10,  # Point differential - calibrated MAE: 18.39 ± 1.44
-    },
-    # Sports not listed here will use Elo class defaults (spread_factor=25)
-    # Sports with insufficient data for calibration: boys-hockey, girls-hockey, wrestling,
-    # boys-indoor-track, girls-indoor-track, coed-swimming
+    "baseball": {"spread_factor": 57.9, "spread_home_field": 46},
+    "boys-basketball": {"spread_factor": 20},
+    "boys-cross-country": {"home_field": 0, "spread_factor": 12.1, "spread_home_field": -24},
+    "boys-golf": {"home_field": 0, "spread_factor": 12.1, "spread_home_field": -28},
+    "boys-hockey": {"spread_factor": 59.5, "spread_home_field": 25},
+    "boys-soccer": {"k": 20, "spread_factor": 56.1, "spread_home_field": 17},
+    "boys-tennis": {"spread_factor": 66.1, "spread_home_field": 52},
+    "boys-volleyball": {"home_field": 110, "spread_factor": 123.3},
+    "fall-girls-swimming": {"spread_factor": 10},  # not calibrated: insufficient data
+    "field-hockey": {"spread_factor": 52.3, "spread_home_field": 17},
+    "football": {"home_field": 30, "spread_factor": 11.6, "spread_home_field": 14},
+    "girls-basketball": {"spread_factor": 20},
+    "girls-cross-country": {"home_field": 10, "spread_factor": 10, "spread_home_field": -9},
+    "girls-hockey": {"spread_factor": 67.1, "spread_home_field": 16},
+    "girls-lacrosse": {"home_field": 80, "spread_home_field": 50},
+    "girls-soccer": {"k": 25, "spread_factor": 55.9, "spread_home_field": 23},
+    "girls-tennis": {"spread_factor": 66.7, "spread_home_field": 51},
+    "girls-volleyball": {"spread_factor": 95.5, "spread_home_field": 22},
+    "softball": {"spread_factor": 38.3, "spread_home_field": 55},
+    "volleyball": {"spread_factor": 35},  # not calibrated: insufficient data
+    "wrestling": {"home_field": 0, "spread_factor": 8.2, "spread_home_field": 9},
 }
+# Sports not listed use Elo class defaults. Sports with under 300 completed games are not
+# calibrated (e.g. indoor track, swimming, gymnastics, rugby).
 
 def main():
     if len(sys.argv) > 1:
