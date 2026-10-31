@@ -89,8 +89,8 @@ Top to bottom, in DOM and reading order:
   text, e.g. "Uxbridge (12-1-3)"; ties appear only when nonzero and teams
   without a completed game show no record. Results bold the winner and
   mute the loser. The predicted favorite's line shows its spread (`-3.6`),
-  and a verdict tag compares the result with it: "Covered" (won by more),
-  "Fell short" (won by less, or tied), or "Upset" (lost, emphasized in the
+  and a verdict tag compares the result with it: "As expected" (won by more),
+  "Closer than expected" (won by less, or tied), or "Upset" (lost, emphasized in the
   accent color). Even predictions and forfeits get no verdict. Upcoming shows the
   time and, on the favorite's line, the margin (`-1.6`) and win
   probability; the margin is omitted when the spread disagrees with the

@@ -178,13 +178,13 @@ function spreadVerdict(game) {
     label = "Upset";
     detail = `Favorite lost; predicted to win by ${margin}`;
   } else if (actual === 0) {
-    label = "Fell short";
+    label = "Closer than expected";
     detail = `Favorite tied; predicted to win by ${margin}`;
   } else if (actual > predicted) {
-    label = "Covered";
+    label = "As expected";
     detail = `Favorite won by ${actual}, more than the predicted ${margin}`;
   } else {
-    label = "Fell short";
+    label = "Closer than expected";
     detail = `Favorite won by ${actual}, less than the predicted ${margin}`;
   }
   return { homeFavored, margin, label, detail };
