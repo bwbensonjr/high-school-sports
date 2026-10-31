@@ -68,19 +68,19 @@ The Results view SHALL list recent games newest first, grouped by date, showing 
 - **THEN** its name is shown without a record
 
 ### Requirement: Results compared with prediction
-Each result with scores and a non-even prediction SHALL show the predicted favorite's spread on its line and a verdict: "Covered" when the favorite won by more than the spread, "Fell short" when it won by less or tied, and "Upset" when it lost, with upsets emphasized. Even predictions and forfeits SHALL show no verdict.
+Each result with scores and a non-even prediction SHALL show the predicted favorite's spread on its line and a verdict: "As expected" when the favorite won by more than the spread, "Closer than expected" when it won by less or tied, and "Upset" when it lost, with upsets emphasized. Even predictions and forfeits SHALL show no verdict.
 
-#### Scenario: Favorite covered
+#### Scenario: Favorite won as expected
 - **WHEN** Shrewsbury was predicted to win by 2.2 and won 8-0
-- **THEN** Shrewsbury's line shows -2.2 and the game is tagged "Covered"
+- **THEN** Shrewsbury's line shows -2.2 and the game is tagged "As expected"
 
-#### Scenario: Favorite fell short
+#### Scenario: Favorite won by less than expected
 - **WHEN** Milton was predicted to win by 3.6 and won 3-1
-- **THEN** Milton's line shows -3.6 and the game is tagged "Fell short"
+- **THEN** Milton's line shows -3.6 and the game is tagged "Closer than expected"
 
 #### Scenario: Tie
 - **WHEN** Walpole hosted Uxbridge, Uxbridge was predicted to win by 2.0, and the game ended 1-1
-- **THEN** the game is tagged "Fell short"
+- **THEN** the game is tagged "Closer than expected"
 
 #### Scenario: Upset
 - **WHEN** Wellesley was predicted to win by 2.7 and lost 0-1
