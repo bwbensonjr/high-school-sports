@@ -1,6 +1,6 @@
 # Girls Basketball - 2026 Season
 
-Generated: 2026-10-30 16:56
+Generated: 2026-10-31 11:42
 
 ## Upcoming Games
 
@@ -211,9 +211,9 @@ Generated: 2026-10-30 16:56
 | 193 | Winchester | 1504.9 |
 | 194 | Monomoy | 1504.6 |
 | 195 | Community Charter | 1502.8 |
-| 196 | Trivium | 1502.8 |
-| 197 | TechBoston/Henderson Inclusion School | 1502.8 |
-| 198 | Gann Academy | 1502.8 |
+| 196 | Gann Academy | 1502.8 |
+| 197 | Trivium | 1502.8 |
+| 198 | TechBoston/Henderson Inclusion School | 1502.8 |
 | 199 | Fenway | 1502.3 |
 | 200 | Wilbraham & Monson | 1501.4 |
 | 201 | St. Thomas More | 1499.4 |
@@ -712,7 +712,7 @@ Generated: 2026-10-30 16:56
 | 35 | Nantucket | 1509.5 | 185 |
 | 36 | Monument Mtn. | 1508.5 | 186 |
 | 37 | Mashpee | 1505.9 | 191 |
-| 38 | TechBoston/Henderson Inclusion School | 1502.8 | 197 |
+| 38 | TechBoston/Henderson Inclusion School | 1502.8 | 198 |
 | 39 | Immaculate Heart of Mary | 1498.6 | 202 |
 | 40 | Clinton | 1497.6 | 206 |
 | 41 | Quaboag | 1482.6 | 230 |
@@ -788,7 +788,7 @@ Generated: 2026-10-30 16:56
 | 28 | Parker Charter | 1511.5 | 183 |
 | 29 | Codman Charter | 1507.4 | 189 |
 | 30 | Community Charter | 1502.8 | 195 |
-| 31 | Trivium | 1502.8 | 196 |
+| 31 | Trivium | 1502.8 | 197 |
 | 32 | Fenway | 1502.3 | 199 |
 | 33 | Greenfield | 1498.0 | 204 |
 | 34 | Hoosac Valley | 1495.9 | 208 |
@@ -876,7 +876,7 @@ Non-MIAA opponents and teams without a known division.
 | St. Mark’s | 1507.8 | 188 | non-member |
 | Loomis Chaffee (Conn.) | 1506.5 | 190 | non-member |
 | Ethel Walker | 1505.8 | 192 | non-member |
-| Gann Academy | 1502.8 | 198 | non-member |
+| Gann Academy | 1502.8 | 196 | non-member |
 | Wilbraham & Monson | 1501.4 | 200 | non-member |
 | St. Thomas More | 1499.4 | 201 | non-member |
 | Academy of Holy Names (N.Y.) | 1496.5 | 207 | non-member |

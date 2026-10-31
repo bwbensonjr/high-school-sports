@@ -1,6 +1,6 @@
 # Boys Lacrosse - 2026 Season
 
-Generated: 2026-10-30 16:55
+Generated: 2026-10-31 11:42
 
 ## Upcoming Games
 
@@ -153,11 +153,11 @@ Generated: 2026-10-30 16:55
 | 135 | South Hadley | 1504.0 |
 | 136 | Moses Brown (R.I.) | 1503.3 |
 | 137 | Landmark | 1501.3 |
-| 138 | Bourne | 1500.0 |
-| 139 | Mashpee | 1500.0 |
-| 140 | St. Anthony’s (N.Y.) | 1500.0 |
-| 141 | Latin Academy | 1500.0 |
-| 142 | Everett | 1500.0 |
+| 138 | Mashpee | 1500.0 |
+| 139 | St. Anthony’s (N.Y.) | 1500.0 |
+| 140 | Latin Academy | 1500.0 |
+| 141 | Everett | 1500.0 |
+| 142 | Bourne | 1500.0 |
 | 143 | West Springfield | 1499.6 |
 | 144 | North Andover | 1497.0 |
 | 145 | Bancroft | 1496.5 |
@@ -503,8 +503,8 @@ Generated: 2026-10-30 16:55
 | 17 | Littleton | 1531.8 | 103 |
 | 18 | Advanced Math and Science | 1521.5 | 115 |
 | 19 | South Hadley | 1504.0 | 135 |
-| 20 | Bourne | 1500.0 | 138 |
-| 21 | Mashpee | 1500.0 | 139 |
+| 20 | Mashpee | 1500.0 | 138 |
+| 21 | Bourne | 1500.0 | 142 |
 | 22 | Sandwich | 1491.9 | 151 |
 | 23 | Nipmuc | 1491.2 | 152 |
 | 24 | Smith Voc. | 1460.8 | 185 |
@@ -571,9 +571,9 @@ Non-MIAA opponents and teams without a known division.
 | Middlesex | 1506.1 | 133 | non-member |
 | Moses Brown (R.I.) | 1503.3 | 136 | non-member |
 | Landmark | 1501.3 | 137 | non-member |
-| St. Anthony’s (N.Y.) | 1500.0 | 140 | non-member |
-| Latin Academy | 1500.0 | 141 | unknown |
-| Everett | 1500.0 | 142 | unknown |
+| St. Anthony’s (N.Y.) | 1500.0 | 139 | non-member |
+| Latin Academy | 1500.0 | 140 | unknown |
+| Everett | 1500.0 | 141 | unknown |
 | Bancroft | 1496.5 | 145 | non-member |
 | Dexter Southfield | 1495.8 | 146 | non-member |
 | Bishop Guertin (N.H.) | 1495.0 | 148 | non-member |

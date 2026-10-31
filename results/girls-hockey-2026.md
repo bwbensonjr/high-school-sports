@@ -1,6 +1,6 @@
 # Girls Hockey - 2026 Season
 
-Generated: 2026-10-30 16:56
+Generated: 2026-10-31 11:42
 
 ## Upcoming Games
 
@@ -81,9 +81,9 @@ Generated: 2026-10-30 16:56
 | 63 | Choate | 1504.0 |
 | 64 | Berkshire | 1503.9 |
 | 65 | Governor’s Academy | 1503.4 |
-| 66 | Northfield Mt. Hermon | 1502.8 |
+| 66 | Vermont Academy | 1502.8 |
 | 67 | Millbrook (N.Y.) | 1502.8 |
-| 68 | Vermont Academy | 1502.8 |
+| 68 | Northfield Mt. Hermon | 1502.8 |
 | 69 | Kents Hill | 1502.7 |
 | 70 | Central Catholic | 1502.0 |
 | 71 | Deerfield | 1499.9 |
@@ -286,9 +286,9 @@ Non-MIAA opponents and teams without a known division.
 | Choate | 1504.0 | 63 | non-member |
 | Berkshire | 1503.9 | 64 | non-member |
 | Governor’s Academy | 1503.4 | 65 | non-member |
-| Northfield Mt. Hermon | 1502.8 | 66 | non-member |
+| Vermont Academy | 1502.8 | 66 | non-member |
 | Millbrook (N.Y.) | 1502.8 | 67 | non-member |
-| Vermont Academy | 1502.8 | 68 | non-member |
+| Northfield Mt. Hermon | 1502.8 | 68 | non-member |
 | Kents Hill | 1502.7 | 69 | non-member |
 | Deerfield | 1499.9 | 71 | non-member |
 | St. George’s | 1497.9 | 73 | non-member |

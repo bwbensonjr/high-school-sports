@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-10-30 16:56
+Generated: 2026-10-31 11:42
 
 ## Upcoming Games
 
@@ -13,8 +13,6 @@ Generated: 2026-10-30 16:56
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-10-28 | Boston Latin | 93 | Acton-Boxborough | 77 | -7.3 | +16.0 |
 | 2026-10-27 | Notre Dame (Hingham) | 96 | Braintree | 41 | +42.5 | +55.0 |
-| 2026-10-23 | Lowell | 79 | Methuen/Tewksbury | 99 | -4.0 | -20.0 |
-| 2026-10-23 | Andover | 82 | Chelmsford | 104 | +4.0 | -22.0 |
 
 ## Current Elo Ratings
 

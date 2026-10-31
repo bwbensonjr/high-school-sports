@@ -1,6 +1,6 @@
 # Boys Tennis - 2026 Season
 
-Generated: 2026-10-30 16:55
+Generated: 2026-10-31 11:42
 
 ## Upcoming Games
 
@@ -133,10 +133,10 @@ Generated: 2026-10-30 16:55
 | 115 | Belchertown | 1503.6 |
 | 116 | Palmer | 1502.3 |
 | 117 | Chelmsford | 1501.4 |
-| 118 | Fellowship Christian | 1500.0 |
+| 118 | Pittsfield | 1500.0 |
 | 119 | Greater Lowell | 1500.0 |
 | 120 | Greater Lawrence | 1500.0 |
-| 121 | Pittsfield | 1500.0 |
+| 121 | Fellowship Christian | 1500.0 |
 | 122 | Ashland | 1499.7 |
 | 123 | Chicopee | 1498.1 |
 | 124 | Austin Prep | 1496.9 |
@@ -152,8 +152,8 @@ Generated: 2026-10-30 16:55
 | 134 | Brooks | 1492.1 |
 | 135 | Beaver Country Day | 1491.7 |
 | 136 | North Attleborough | 1491.6 |
-| 137 | Governor’s Academy | 1491.1 |
-| 138 | Agawam | 1491.1 |
+| 137 | Agawam | 1491.1 |
+| 138 | Governor’s Academy | 1491.1 |
 | 139 | Worcester South | 1489.3 |
 | 140 | Millbury | 1489.0 |
 | 141 | Quaboag | 1488.5 |
@@ -352,7 +352,7 @@ Generated: 2026-10-30 16:55
 | 28 | Marshfield | 1507.4 | 112 |
 | 29 | Ashland | 1499.7 | 122 |
 | 30 | North Attleborough | 1491.6 | 136 |
-| 31 | Agawam | 1491.1 | 138 |
+| 31 | Agawam | 1491.1 | 137 |
 | 32 | Worcester South | 1489.3 | 139 |
 | 33 | Minnechaug | 1479.7 | 148 |
 | 34 | Westfield | 1472.9 | 157 |
@@ -410,7 +410,7 @@ Generated: 2026-10-30 16:55
 | 30 | Pentucket | 1507.1 | 113 |
 | 31 | Rockland/EB | 1504.1 | 114 |
 | 32 | Belchertown | 1503.6 | 115 |
-| 33 | Pittsfield | 1500.0 | 121 |
+| 33 | Pittsfield | 1500.0 | 118 |
 | 34 | Chicopee | 1498.1 | 123 |
 | 35 | Turners Falls | 1496.6 | 125 |
 | 36 | Amherst-Pelham | 1494.9 | 130 |
@@ -509,12 +509,12 @@ Non-MIAA opponents and teams without a known division.
 | Cushing | 1516.0 | 97 | non-member |
 | Cardinal Spellman | 1514.5 | 100 | unknown |
 | Worcester Academy | 1508.7 | 110 | non-member |
-| Fellowship Christian | 1500.0 | 118 | non-member |
 | Greater Lowell | 1500.0 | 119 | unknown |
+| Fellowship Christian | 1500.0 | 121 | non-member |
 | Austin Prep | 1496.9 | 124 | non-member |
 | Brooks | 1492.1 | 134 | non-member |
 | Beaver Country Day | 1491.7 | 135 | non-member |
-| Governor’s Academy | 1491.1 | 137 | non-member |
+| Governor’s Academy | 1491.1 | 138 | non-member |
 | Bancroft | 1483.8 | 143 | non-member |
 | Gould | 1479.7 | 149 | non-member |
 | Millbrook (N.Y.) | 1478.7 | 150 | non-member |

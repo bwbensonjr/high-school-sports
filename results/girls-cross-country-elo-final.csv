@@ -103,8 +103,8 @@ Wayland,1530.3970179801668,4411,101,2,assigned,38
 Douglas,1530.333881188311,4506,102,3,assigned,31
 Tantasqua,1529.927249225648,4387,103,2,assigned,39
 Sizer,1529.479319059658,4509,104,3,assigned,32
-Maynard,1528.6698511079603,4239,105,3,assigned,33
-South Lancaster,1528.6698511079603,4484,106,2,assigned,40
+South Lancaster,1528.6698511079603,4484,105,2,assigned,40
+Maynard,1528.6698511079603,4239,106,3,assigned,33
 Shawsheen,1527.9210423262393,4346,107,2,assigned,41
 Tahanto,1527.829464953729,4513,108,3,assigned,34
 Burncoat,1527.6955310199096,4066,109,2,assigned,42
@@ -139,14 +139,14 @@ Holbrook/Avon,1506.1376653352306,4172,137,3,assigned,43
 Monomoy,1505.560611677619,4706,138,3,assigned,44
 Revere,1505.3788216008338,4329,139,2,assigned,51
 Westfield Tech,1504.221823504691,4420,140,3,assigned,45
-Westfield,1502.7555,4419,141,2,assigned,52
-Cape Cod Tech,1502.7555,4073,142,3,assigned,46
-Notre Dame (Tyngsborough),1502.7555,4540,143,3,assigned,47
-Longmeadow,1502.7555,4214,144,2,assigned,53
-Wachusett,1502.7555,4400,145,1,assigned,35
-Notre Dame (Worcester),1502.7555,4451,146,2,assigned,54
-Minnechaug,1502.7555,4254,147,2,assigned,55
-Amherst-Pelham,1502.7555,4008,148,2,assigned,56
+Amherst-Pelham,1502.7555,4008,141,2,assigned,52
+Longmeadow,1502.7555,4214,142,2,assigned,53
+Wachusett,1502.7555,4400,143,1,assigned,35
+Notre Dame (Worcester),1502.7555,4451,144,2,assigned,54
+Cape Cod Tech,1502.7555,4073,145,3,assigned,46
+Minnechaug,1502.7555,4254,146,2,assigned,55
+Westfield,1502.7555,4419,147,2,assigned,56
+Notre Dame (Tyngsborough),1502.7555,4540,148,3,assigned,47
 Pingree,1501.9668419710138,4312,149,,non-member,
 West Bridgewater,1501.0484169702195,4415,150,3,assigned,48
 Winthrop,1499.9386951438275,4437,151,3,assigned,49
@@ -171,8 +171,8 @@ Old Colony,1480.7848685394395,4300,169,3,assigned,51
 King Philip,1480.2480034374926,4197,170,1,assigned,42
 Milton Academy,1479.0170987808503,4253,171,,non-member,
 Everett,1478.5711414485802,4132,172,1,assigned,43
-Clinton,1476.8411488920397,4093,173,3,assigned,52
-Ayer Shirley,1476.8411488920397,4022,174,3,assigned,53
+Ayer Shirley,1476.8411488920397,4022,173,3,assigned,52
+Clinton,1476.8411488920397,4093,174,3,assigned,53
 Blackstone Valley,1476.638642023709,4046,175,2,assigned,66
 Concord Academy,1475.9517817374424,4096,176,,non-member,
 Notre Dame Academy-Worcester,1475.446498602947,4451,177,2,assigned,67
