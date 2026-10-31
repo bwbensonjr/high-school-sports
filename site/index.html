@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="Massachusetts high school sports results, predictions, and Elo rankings">
+  <title>MA High School Elo</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-row">
+      <a class="brand" href="#/">MA High School Elo</a>
+      <p class="updated" id="updated"></p>
+    </div>
+  </header>
+
+  <nav class="wrap sport-nav" aria-label="Sports">
+    <ul class="pills" id="sports-primary"></ul>
+    <details class="other-sports" id="sports-other" hidden>
+      <summary>Other sports</summary>
+      <ul class="other-list"></ul>
+    </details>
+  </nav>
+
+  <main class="wrap" id="main" tabindex="-1">
+    <h1 class="sport-title"><span id="sport-name"></span> <span class="season" id="sport-season"></span></h1>
+    <nav class="views" aria-label="Views" id="views"></nav>
+    <div class="content" id="content" aria-live="polite"></div>
+  </main>
+</body>
+</html>

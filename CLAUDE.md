@@ -65,6 +65,12 @@ This is a Python project that tracks Massachusetts high school sports scores and
 - **Run tests**: `uv run pytest`
 - The cycle for a game is chosen by school year (starting August 1) of the game date, not the data file year; winter files span calendar years
 
+### Website Commands
+
+- **Export site data**: `python site_export.py` (writes `site/data/index.json` and `site/data/sports/{sport}.json` from `results/`; `--date YYYY-MM-DD` overrides today in Eastern time). `site/data/` is generated and gitignored
+- **Preview the site**: `python -m http.server -d site`, then open http://localhost:8000
+- The site (`site/index.html`, `styles.css`, `app.js`) is static with no build step and reads only the exported JSON; `.github/workflows/deploy-site.yml` exports and deploys to GitHub Pages after each daily update. Design guidance is in `docs/ui-design.md`, `docs/ui-design-principles.md`, and `site/README.md`
+
 ### Data Processing Behavior
 
 - **Automatic updates**: Running the same date multiple times will update existing CSV files, replacing duplicate games based on game_id

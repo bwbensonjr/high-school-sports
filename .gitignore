@@ -4,3 +4,6 @@ __pycache__/
 nfl_elo.py
 
 data/miaa/pdf/
+
+# Generated site data (built in the Pages deploy workflow)
+site/data/

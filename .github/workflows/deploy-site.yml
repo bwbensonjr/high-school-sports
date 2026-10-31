@@ -1,0 +1,67 @@
+name: Deploy Site
+
+on:
+  # After the daily data update commits new results
+  workflow_run:
+    workflows: ["Update Scores and Elo Ratings"]
+    types: [completed]
+  # Site code or export changes; pushes made by the update workflow's
+  # GITHUB_TOKEN do not trigger this, which is why workflow_run is used above
+  push:
+    branches: [main]
+    paths:
+      - "site/**"
+      - "site_export.py"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deployment at a time; let an in-progress deployment finish
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # workflow_run checks out the default branch head, which includes
+          # the results commit the update workflow just pushed
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Export site data
+        run: uv run python site_export.py
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
