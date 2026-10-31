@@ -136,10 +136,22 @@ function groupByDate(games) {
   return groups;
 }
 
-function teamName(name, isHome) {
+// Current-season record by team name, built once per sport from its rankings
+const recordCache = new WeakMap();
+
+function recordsFor(data) {
+  if (!recordCache.has(data)) {
+    recordCache.set(data, new Map(data.teams.map((team) => [team.team, record(team)])));
+  }
+  return recordCache.get(data);
+}
+
+function teamName(name, isHome, records) {
+  const teamRecord = records.get(name);
   return el("span", { class: "team-name" },
     isHome ? el("span", { class: "at" }, el("span", { "aria-hidden": "true" }, "@"), srOnly("at ")) : null,
-    name);
+    name,
+    teamRecord ? el("span", { class: "team-record" }, ` (${teamRecord})`) : null);
 }
 
 function dayList(games, renderGame) {
@@ -151,15 +163,59 @@ function dayList(games, renderGame) {
 
 // Views
 
-function resultGame(game) {
+// Compare a result with its predicted spread, from the predicted favorite's side.
+// Returns null for even predictions and games without scores (forfeits).
+function spreadVerdict(game) {
+  if (game.spread === undefined || Math.abs(game.spread) < 0.05) return null;
+  if (game.hs === undefined || game.vs === undefined) return null;
+  const homeFavored = game.spread > 0;
+  const predicted = Math.abs(game.spread);
+  const actual = homeFavored ? game.hs - game.vs : game.vs - game.hs;
+  const margin = predicted.toFixed(1);
+  let label;
+  let detail;
+  if (actual < 0) {
+    label = "Upset";
+    detail = `Favorite lost; predicted to win by ${margin}`;
+  } else if (actual === 0) {
+    label = "Fell short";
+    detail = `Favorite tied; predicted to win by ${margin}`;
+  } else if (actual > predicted) {
+    label = "Covered";
+    detail = `Favorite won by ${actual}, more than the predicted ${margin}`;
+  } else {
+    label = "Fell short";
+    detail = `Favorite won by ${actual}, less than the predicted ${margin}`;
+  }
+  return { homeFavored, margin, label, detail };
+}
+
+function verdictTag(verdict) {
+  if (!verdict) return null;
+  const cls = "tag tag-verdict" + (verdict.label === "Upset" ? " tag-upset" : "");
+  return el("span", { class: cls, title: verdict.detail },
+    el("span", { "aria-hidden": "true" }, verdict.label), srOnly(`${verdict.label}: ${verdict.detail}`));
+}
+
+function tagRow(...tags) {
+  const present = tags.filter(Boolean);
+  return present.length ? el("div", { class: "tags" }, present) : null;
+}
+
+function resultGame(game, records) {
   // home outcome: 1 home won, 0 visitor won, 2 tie
   const forfeit = game.status && game.status.startsWith("FORFEIT");
+  const verdict = forfeit ? null : spreadVerdict(game);
   const line = (name, score, isHome) => {
     const won = game.ho === (isHome ? 1 : 0);
     const lost = game.ho === (isHome ? 0 : 1);
+    const favored = verdict && verdict.homeFavored === isHome;
     return el("div", { class: "team-line" + (won ? " won" : lost ? " lost" : "") },
-      teamName(name, isHome),
+      teamName(name, isHome, records),
       el("span", { class: "team-figures" },
+        favored
+          ? el("span", { class: "spread" }, el("span", { "aria-hidden": "true" }, `\u2212${verdict.margin}`), srOnly(`, favored by ${verdict.margin},`))
+          : null,
         el("span", { class: "score" }, score ?? (won ? "W" : "L")),
         won ? srOnly(", won") : null));
   };
@@ -167,10 +223,10 @@ function resultGame(game) {
     el("div", {},
       line(game.visitor, game.vs, false),
       line(game.home, game.hs, true)),
-    forfeit ? el("span", { class: "tag" }, "Forfeit") : tourneyTag(game));
+    tagRow(forfeit ? el("span", { class: "tag" }, "Forfeit") : tourneyTag(game), verdictTag(verdict)));
 }
 
-function upcomingGame(game) {
+function upcomingGame(game, records) {
   const homeFavored = game.homeProb === undefined || game.homeProb >= 0.5;
   const prob = game.homeProb === undefined ? null : Math.round(100 * (homeFavored ? game.homeProb : 1 - game.homeProb));
   const favoredSpread = game.spread === undefined ? null : homeFavored ? game.spread : -game.spread;
@@ -180,7 +236,7 @@ function upcomingGame(game) {
   const line = (name, isHome) => {
     const favored = prob !== null && isHome === homeFavored;
     return el("div", { class: "team-line" },
-      teamName(name, isHome),
+      teamName(name, isHome, records),
       favored
         ? el("span", { class: "team-figures" },
           margin ? el("span", { class: "spread" }, el("span", { "aria-hidden": "true" }, `−${margin}`), srOnly(`, favored by ${margin}`)) : srOnly(", favored"),
@@ -190,7 +246,7 @@ function upcomingGame(game) {
   return el("li", { class: "game has-time" },
     el("span", { class: "game-time" }, game.time || "TBD"),
     el("div", {}, line(game.visitor, false), line(game.home, true)),
-    tourneyTag(game));
+    tagRow(tourneyTag(game)));
 }
 
 function headerCell(visible, spoken, cls) {
@@ -272,13 +328,13 @@ function renderDivisions(data, route) {
 function renderView(data, route) {
   switch (route.view) {
     case "upcoming":
-      return data.upcoming.length ? dayList(data.upcoming, upcomingGame) : [message("No games scheduled.")];
+      return data.upcoming.length ? dayList(data.upcoming, (game) => upcomingGame(game, recordsFor(data))) : [message("No games scheduled.")];
     case "rankings":
       return renderRankings(data, () => $("content").replaceChildren(...renderView(data, route)));
     case "divisions":
       return renderDivisions(data, route);
     default:
-      return data.recent.length ? dayList(data.recent, resultGame) : [message("No results yet this season.")];
+      return data.recent.length ? dayList(data.recent, (game) => resultGame(game, recordsFor(data))) : [message("No results yet this season.")];
   }
 }
 

@@ -60,7 +60,7 @@ dark values override colors under `prefers-color-scheme: dark`.
 | `--text-muted` on `--surface` | Losing team, records, game time | 4.5:1 | 6.7:1 | 7.1:1 |
 | `--accent-text` on `--accent` | Selected sport and view; inset focus ring on selected view | 4.5:1 | 7.9:1 | 8.5:1 |
 | `--text` on `--accent-soft` | Tournament tag | 4.5:1 | 15.1:1 | 12.1:1 |
-| `--accent` on `--surface` | Current sport in Other sports | 4.5:1 | 7.9:1 | 8.1:1 |
+| `--accent` on `--surface` | Current sport in Other sports; "Upset" tag text and border | 4.5:1 | 7.9:1 | 8.1:1 |
 | `--accent` on `--bg` | Current sport in Other sports | 4.5:1 | 7.3:1 | 8.9:1 |
 | `--border-strong` on `--surface` | Pill, view switcher, select, button boundaries | 3:1 | 3.6:1 | 3.7:1 |
 | `--border-strong` on `--bg` | Control boundaries against page | 3:1 | 3.3:1 | 4.1:1 |
@@ -85,7 +85,13 @@ Top to bottom, in DOM and reading order:
   and updated in place, so focus stays put while navigating.
 - **Game list** (Results, Upcoming): `h2` per date ("Today", "Yesterday",
   "Tomorrow" prefixes), then a card of rows. Visitor on top, home below
-  with `@`. Results bold the winner and mute the loser. Upcoming shows the
+  with `@`. Each team name carries its current-season record in muted
+  text, e.g. "Uxbridge (12-1-3)"; ties appear only when nonzero and teams
+  without a completed game show no record. Results bold the winner and
+  mute the loser. The predicted favorite's line shows its spread (`-3.6`),
+  and a verdict tag compares the result with it: "Covered" (won by more),
+  "Fell short" (won by less, or tied), or "Upset" (lost, emphasized in the
+  accent color). Even predictions and forfeits get no verdict. Upcoming shows the
   time and, on the favorite's line, the margin (`-1.6`) and win
   probability; the margin is omitted when the spread disagrees with the
   probability (they use separately fitted home edges). Tournament games

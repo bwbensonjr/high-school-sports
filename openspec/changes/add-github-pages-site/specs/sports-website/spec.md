@@ -53,14 +53,41 @@ Each sport page SHALL offer four views, one visible at a time: Results (recent g
 - **THEN** the overall Elo table replaces the results list without reloading the page
 
 ### Requirement: Results view
-The Results view SHALL list recent games newest first, grouped by date, showing each team and score with the winner emphasized, and showing tournament name and level for tournament games.
+The Results view SHALL list recent games newest first, grouped by date, showing each team with its current-season record and score, with the winner emphasized, and showing tournament name and level for tournament games.
 
 #### Scenario: Winner emphasis
 - **WHEN** Sandwich beats Hingham 3-1
 - **THEN** Sandwich's name and score are visually stronger than Hingham's
 
+#### Scenario: Team record
+- **WHEN** Uxbridge's current-season record is 12 wins, 1 loss, and 3 ties
+- **THEN** Uxbridge is shown as "Uxbridge (12-1-3)", with the record visually secondary to the name
+
+#### Scenario: Team without a record
+- **WHEN** a team has no completed game this season
+- **THEN** its name is shown without a record
+
+### Requirement: Results compared with prediction
+Each result with scores and a non-even prediction SHALL show the predicted favorite's spread on its line and a verdict: "Covered" when the favorite won by more than the spread, "Fell short" when it won by less or tied, and "Upset" when it lost, with upsets emphasized. Even predictions and forfeits SHALL show no verdict.
+
+#### Scenario: Favorite covered
+- **WHEN** Shrewsbury was predicted to win by 2.2 and won 8-0
+- **THEN** Shrewsbury's line shows -2.2 and the game is tagged "Covered"
+
+#### Scenario: Favorite fell short
+- **WHEN** Milton was predicted to win by 3.6 and won 3-1
+- **THEN** Milton's line shows -3.6 and the game is tagged "Fell short"
+
+#### Scenario: Tie
+- **WHEN** Walpole hosted Uxbridge, Uxbridge was predicted to win by 2.0, and the game ended 1-1
+- **THEN** the game is tagged "Fell short"
+
+#### Scenario: Upset
+- **WHEN** Wellesley was predicted to win by 2.7 and lost 0-1
+- **THEN** the game is tagged "Upset" with emphasis
+
 ### Requirement: Upcoming view
-The Upcoming view SHALL list scheduled games soonest first, grouped by date, showing time, both teams, the predicted favorite with the predicted margin, and the favorite's win probability.
+The Upcoming view SHALL list scheduled games soonest first, grouped by date, showing time, both teams with their current-season records, the predicted favorite with the predicted margin, and the favorite's win probability.
 
 #### Scenario: Predicted favorite
 - **WHEN** Woburn hosts Beverly with home win probability 23.5% and predicted spread -1.6
