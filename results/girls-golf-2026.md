@@ -1,6 +1,6 @@
 # Girls Golf - 2026 Season
 
-Generated: 2026-10-31 08:24
+Generated: 2026-10-31 09:49
 
 ## Upcoming Games
 
@@ -16,43 +16,43 @@ Generated: 2026-10-31 08:24
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Wellesley | 1701.3 |
-| 2 | Hopkinton | 1699.2 |
-| 3 | Bishop Feehan | 1612.6 |
-| 4 | Malden Catholic | 1575.3 |
-| 5 | Barnstable | 1567.3 |
-| 6 | Martha’s Vineyard | 1566.8 |
-| 7 | Notre Dame (Tyngsborough) | 1563.4 |
-| 8 | Nauset | 1553.6 |
-| 9 | Ursuline | 1535.2 |
-| 10 | Walpole | 1534.8 |
-| 11 | Auburn | 1530.8 |
-| 12 | Duxbury | 1518.8 |
-| 13 | Quabbin | 1507.2 |
-| 14 | Nashoba | 1502.4 |
-| 15 | Scituate | 1501.2 |
-| 16 | Hingham | 1500.0 |
-| 17 | Monomoy | 1492.4 |
-| 18 | Quincy | 1490.8 |
-| 19 | Braintree | 1490.6 |
-| 20 | Newton North | 1482.6 |
-| 21 | Marshfield | 1474.7 |
-| 22 | Notre Dame (Hingham) | 1472.3 |
-| 23 | Brookline | 1469.9 |
-| 24 | Dennis-Yarmouth | 1469.2 |
-| 25 | Needham | 1463.8 |
-| 26 | Framingham | 1462.7 |
-| 27 | Archbishop Williams | 1461.7 |
-| 28 | Falmouth | 1454.0 |
-| 29 | Weymouth | 1451.0 |
-| 30 | North Quincy/Quincy | 1450.3 |
-| 31 | Notre Dame (Worcester) | 1443.3 |
-| 32 | Fontbonne | 1440.8 |
-| 33 | Wachusett | 1438.9 |
-| 34 | Cohasset | 1436.0 |
-| 35 | Westborough | 1435.9 |
-| 36 | Silver Lake | 1407.5 |
-| 37 | Worcester | 1341.6 |
+| 1 | Wellesley | 1627.7 |
+| 2 | Duxbury | 1594.9 |
+| 3 | Hopkinton | 1583.1 |
+| 4 | Malden Catholic | 1561.3 |
+| 5 | Bishop Feehan | 1555.9 |
+| 6 | Nauset | 1536.5 |
+| 7 | Walpole | 1526.9 |
+| 8 | Nashoba | 1519.8 |
+| 9 | Martha’s Vineyard | 1517.7 |
+| 10 | Ursuline | 1517.2 |
+| 11 | Notre Dame (Tyngsborough) | 1515.5 |
+| 12 | Hingham | 1505.8 |
+| 13 | Scituate | 1505.8 |
+| 14 | Auburn | 1503.2 |
+| 15 | Marshfield | 1499.8 |
+| 16 | Braintree | 1496.3 |
+| 17 | Quabbin | 1496.1 |
+| 18 | Notre Dame (Hingham) | 1491.6 |
+| 19 | North Quincy/Quincy | 1490.3 |
+| 20 | Monomoy | 1488.2 |
+| 21 | Quincy | 1487.3 |
+| 22 | Barnstable | 1486.3 |
+| 23 | Dennis-Yarmouth | 1483.4 |
+| 24 | Newton North | 1480.5 |
+| 25 | Framingham | 1478.4 |
+| 26 | Brookline | 1477.9 |
+| 27 | Needham | 1475.9 |
+| 28 | Falmouth | 1475.4 |
+| 29 | Archbishop Williams | 1473.3 |
+| 30 | Notre Dame (Worcester) | 1471.7 |
+| 31 | Weymouth | 1471.3 |
+| 32 | Westborough | 1470.2 |
+| 33 | Wachusett | 1463.8 |
+| 34 | Cohasset | 1455.1 |
+| 35 | Fontbonne | 1451.4 |
+| 36 | Worcester | 1442.6 |
+| 37 | Silver Lake | 1421.8 |
 
 ## Elo Ratings by Division
 
@@ -61,46 +61,46 @@ Generated: 2026-10-31 08:24
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Wellesley | 1701.3 | 1 |
-| 2 | Hopkinton | 1699.2 | 2 |
-| 3 | Malden Catholic | 1575.3 | 4 |
-| 4 | Notre Dame (Tyngsborough) | 1563.4 | 7 |
-| 5 | Ursuline | 1535.2 | 9 |
-| 6 | Auburn | 1530.8 | 11 |
-| 7 | Quabbin | 1507.2 | 13 |
-| 8 | Nashoba | 1502.4 | 14 |
-| 9 | Brookline | 1469.9 | 23 |
-| 10 | Needham | 1463.8 | 25 |
-| 11 | Notre Dame (Worcester) | 1443.3 | 31 |
-| 12 | Fontbonne | 1440.8 | 32 |
-| 13 | Wachusett | 1438.9 | 33 |
-| 14 | Westborough | 1435.9 | 35 |
-| 15 | Worcester | 1341.6 | 37 |
+| 1 | Wellesley | 1627.7 | 1 |
+| 2 | Hopkinton | 1583.1 | 3 |
+| 3 | Malden Catholic | 1561.3 | 4 |
+| 4 | Nashoba | 1519.8 | 8 |
+| 5 | Ursuline | 1517.2 | 10 |
+| 6 | Notre Dame (Tyngsborough) | 1515.5 | 11 |
+| 7 | Auburn | 1503.2 | 14 |
+| 8 | Quabbin | 1496.1 | 17 |
+| 9 | Brookline | 1477.9 | 26 |
+| 10 | Needham | 1475.9 | 27 |
+| 11 | Notre Dame (Worcester) | 1471.7 | 30 |
+| 12 | Westborough | 1470.2 | 32 |
+| 13 | Wachusett | 1463.8 | 33 |
+| 14 | Fontbonne | 1451.4 | 35 |
+| 15 | Worcester | 1442.6 | 36 |
 
 ### Division S 1
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Bishop Feehan | 1612.6 | 3 |
-| 2 | Barnstable | 1567.3 | 5 |
-| 3 | Martha’s Vineyard | 1566.8 | 6 |
-| 4 | Nauset | 1553.6 | 8 |
-| 5 | Walpole | 1534.8 | 10 |
-| 6 | Duxbury | 1518.8 | 12 |
-| 7 | Scituate | 1501.2 | 15 |
-| 8 | Hingham | 1500.0 | 16 |
-| 9 | Monomoy | 1492.4 | 17 |
-| 10 | Braintree | 1490.6 | 19 |
-| 11 | Newton North | 1482.6 | 20 |
-| 12 | Notre Dame (Hingham) | 1472.3 | 22 |
-| 13 | Dennis-Yarmouth | 1469.2 | 24 |
-| 14 | Framingham | 1462.7 | 26 |
-| 15 | Archbishop Williams | 1461.7 | 27 |
-| 16 | Falmouth | 1454.0 | 28 |
-| 17 | Weymouth | 1451.0 | 29 |
-| 18 | North Quincy/Quincy | 1450.3 | 30 |
-| 19 | Cohasset | 1436.0 | 34 |
-| 20 | Silver Lake | 1407.5 | 36 |
+| 1 | Duxbury | 1594.9 | 2 |
+| 2 | Bishop Feehan | 1555.9 | 5 |
+| 3 | Nauset | 1536.5 | 6 |
+| 4 | Walpole | 1526.9 | 7 |
+| 5 | Martha’s Vineyard | 1517.7 | 9 |
+| 6 | Hingham | 1505.8 | 12 |
+| 7 | Scituate | 1505.8 | 13 |
+| 8 | Braintree | 1496.3 | 16 |
+| 9 | Notre Dame (Hingham) | 1491.6 | 18 |
+| 10 | North Quincy/Quincy | 1490.3 | 19 |
+| 11 | Monomoy | 1488.2 | 20 |
+| 12 | Barnstable | 1486.3 | 22 |
+| 13 | Dennis-Yarmouth | 1483.4 | 23 |
+| 14 | Newton North | 1480.5 | 24 |
+| 15 | Framingham | 1478.4 | 25 |
+| 16 | Falmouth | 1475.4 | 28 |
+| 17 | Archbishop Williams | 1473.3 | 29 |
+| 18 | Weymouth | 1471.3 | 31 |
+| 19 | Cohasset | 1455.1 | 34 |
+| 20 | Silver Lake | 1421.8 | 37 |
 
 ### Other teams
 
@@ -108,5 +108,5 @@ Non-MIAA opponents and teams without a known division.
 
 | Team | Elo Rating | Overall Rank | Status |
 |------|------------|--------------|--------|
-| Quincy | 1490.8 | 18 | unknown |
-| Marshfield | 1474.7 | 21 | unknown |
+| Marshfield | 1499.8 | 15 | unknown |
+| Quincy | 1487.3 | 21 | unknown |

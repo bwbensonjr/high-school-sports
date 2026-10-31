@@ -146,6 +146,11 @@ python high_school_elo.py field-hockey
 - **Multi-season support**: Processes all available years of data for a sport
 - **Chronological processing**: Games are processed in date order for accurate rating evolution
 - **Between-season regression**: Ratings regress toward the mean between seasons
+- **Lower-score sports**: `SCORE_ORDER` in `high_school_elo.py` sets which score
+  wins. Cross country is lowest-wins. Golf mixes stroke play (lowest wins) with
+  match play and points formats (highest wins) without saying which, so the
+  game's recorded result decides; golf is rated on wins and losses only
+  (`margin_of_victory=False`) and predicts no spreads
 - **Detailed output**: Saves complete game-by-game results with pre/post Elo ratings and win probabilities
 - **Top team rankings**: Displays final rankings of all teams
 
@@ -166,7 +171,7 @@ The script creates:
 - **K-factor**: 20 (rating change multiplier)
 - **Home field advantage**: 50 points
 - **Starting rating**: 1500 points
-- **Score multiplier**: Logarithmic based on point differential
+- **Score multiplier**: Logarithmic based on the winning margin (none for golf)
 - **Regression factor**: 33% toward mean between seasons
 
 

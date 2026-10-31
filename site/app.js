@@ -170,7 +170,11 @@ function spreadVerdict(game) {
   if (game.hs === undefined || game.vs === undefined) return null;
   const homeFavored = game.spread > 0;
   const predicted = Math.abs(game.spread);
-  const actual = homeFavored ? game.hs - game.vs : game.vs - game.hs;
+  // Orient the score difference by the recorded winner, since in some sports
+  // (cross country) the lower score wins: ho 1 home won, 0 visitor won, 2 tie
+  const gap = Math.abs(game.hs - game.vs);
+  const homeMargin = game.ho === 1 ? gap : game.ho === 0 ? -gap : game.ho === 2 ? 0 : game.hs - game.vs;
+  const actual = homeFavored ? homeMargin : -homeMargin;
   const margin = predicted.toFixed(1);
   let label;
   let detail;
