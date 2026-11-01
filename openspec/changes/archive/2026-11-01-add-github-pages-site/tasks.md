@@ -31,4 +31,4 @@
 ## 5. Integration
 
 - [x] 5.1 Run `uv run pytest` and confirm the full suite passes
-- [ ] 5.2 After merge, set Pages Source to "GitHub Actions", dispatch "Deploy Site", and confirm the Pages URL shows in-season sports first with current results, predictions, and rankings; then confirm the next scheduled update triggers a redeploy with a newer last-updated time
+- [x] 5.2 After merge, set Pages Source to "GitHub Actions", dispatch "Deploy Site", and confirm the Pages URL shows in-season sports first with current results, predictions, and rankings; then confirm the next scheduled update triggers a redeploy with a newer last-updated time
