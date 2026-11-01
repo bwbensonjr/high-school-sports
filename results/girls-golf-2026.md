@@ -1,6 +1,6 @@
 # Girls Golf - 2026 Season
 
-Generated: 2026-10-31 09:49
+Generated: 2026-11-01 16:09
 
 ## Upcoming Games
 

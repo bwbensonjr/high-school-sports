@@ -1,6 +1,6 @@
 # Boys Golf - 2026 Season
 
-Generated: 2026-10-31 09:49
+Generated: 2026-11-01 16:09
 
 ## Upcoming Games
 
@@ -152,8 +152,8 @@ Generated: 2026-10-31 09:49
 | 134 | Pittsfield | 1508.3 |
 | 135 | Clinton | 1508.1 |
 | 136 | Pembroke | 1504.3 |
-| 137 | Greenfield | 1501.0 |
-| 138 | St. Paul’s | 1501.0 |
+| 137 | St. Paul’s | 1501.0 |
+| 138 | Greenfield | 1501.0 |
 | 139 | Tewksbury | 1500.5 |
 | 140 | Seekonk | 1497.7 |
 | 141 | Pathfinder | 1496.1 |
@@ -631,8 +631,8 @@ Non-MIAA opponents and teams without a known division.
 | Winchendon | 1532.0 | 123 | non-member |
 | Beaver Country Day | 1509.6 | 132 | non-member |
 | Pittsfield | 1508.3 | 134 | unknown |
-| Greenfield | 1501.0 | 137 | unknown |
-| St. Paul’s | 1501.0 | 138 | non-member |
+| St. Paul’s | 1501.0 | 137 | non-member |
+| Greenfield | 1501.0 | 138 | unknown |
 | Watkinson | 1481.7 | 148 | non-member |
 | Kents Hill | 1470.1 | 152 | non-member |
 | Wheeler (R.I.) | 1452.4 | 163 | non-member |
