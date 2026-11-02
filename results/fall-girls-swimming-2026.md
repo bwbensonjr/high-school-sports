@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-11-01 16:09
+Generated: 2026-11-01 19:13
 
 ## Upcoming Games
 
@@ -20,20 +20,20 @@ Generated: 2026-11-01 16:09
 |------|------|------------|
 | 1 | Chelmsford | 1770.5 |
 | 2 | Seekonk | 1726.2 |
-| 3 | Nantucket | 1723.5 |
-| 4 | Notre Dame (Hingham) | 1722.8 |
-| 5 | Wellesley | 1696.3 |
-| 6 | Andover | 1681.3 |
-| 7 | Milton | 1671.7 |
+| 3 | Milton | 1723.8 |
+| 4 | Nantucket | 1723.5 |
+| 5 | Notre Dame (Hingham) | 1722.8 |
+| 6 | Wellesley | 1691.6 |
+| 7 | Andover | 1681.3 |
 | 8 | North Andover | 1634.9 |
 | 9 | Westwood | 1617.9 |
 | 10 | Hingham | 1617.8 |
-| 11 | Brookline | 1607.9 |
-| 12 | Methuen/Tewksbury | 1600.3 |
-| 13 | Concord-Carlisle | 1599.9 |
-| 14 | Newton North | 1599.6 |
-| 15 | Nashoba | 1599.4 |
-| 16 | Winchester | 1587.2 |
+| 11 | Methuen/Tewksbury | 1600.3 |
+| 12 | Concord-Carlisle | 1599.9 |
+| 13 | Nashoba | 1599.4 |
+| 14 | Newton North | 1597.8 |
+| 15 | Winchester | 1587.2 |
+| 16 | Brookline | 1579.3 |
 | 17 | Hopkinton | 1578.1 |
 | 18 | Sharon | 1573.7 |
 | 19 | Taunton | 1560.0 |
@@ -87,10 +87,10 @@ Generated: 2026-11-01 16:09
 | 67 | Bridgewater-Raynham | 1443.1 |
 | 68 | Attleboro | 1440.7 |
 | 69 | Central Catholic | 1437.8 |
-| 70 | Natick | 1435.3 |
-| 71 | Haverhill | 1432.8 |
-| 72 | Medfield | 1427.5 |
-| 73 | Notre Dame (T)/Dracut | 1423.0 |
+| 70 | Haverhill | 1432.8 |
+| 71 | Medfield | 1427.5 |
+| 72 | Notre Dame (T)/Dracut | 1423.0 |
+| 73 | Natick | 1418.9 |
 | 74 | Wakefield | 1414.1 |
 | 75 | Wachusett | 1410.1 |
 | 76 | Bishop Fenwick | 1402.7 |
@@ -102,12 +102,12 @@ Generated: 2026-11-01 16:09
 | 82 | Holliston/Medway | 1381.9 |
 | 83 | Stoneham | 1371.8 |
 | 84 | Billerica | 1363.8 |
-| 85 | Weymouth | 1360.2 |
+| 85 | Weymouth | 1359.9 |
 | 86 | Old Rochester | 1341.4 |
 | 87 | Nauset | 1306.1 |
 | 88 | Malden Catholic | 1283.2 |
 | 89 | Walpole | 1279.8 |
-| 90 | Braintree | 1278.7 |
+| 90 | Braintree | 1278.6 |
 
 ## Elo Ratings by Division
 
@@ -116,12 +116,12 @@ Generated: 2026-11-01 16:09
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Andover | 1681.3 | 6 |
-| 2 | Methuen/Tewksbury | 1600.3 | 12 |
+| 1 | Andover | 1681.3 | 7 |
+| 2 | Methuen/Tewksbury | 1600.3 | 11 |
 | 3 | Lexington | 1543.9 | 25 |
 | 4 | Acton-Boxborough | 1542.5 | 27 |
 | 5 | Central Catholic | 1437.8 | 69 |
-| 6 | Haverhill | 1432.8 | 71 |
+| 6 | Haverhill | 1432.8 | 70 |
 | 7 | Lowell | 1389.1 | 81 |
 | 8 | Malden Catholic | 1283.2 | 88 |
 
@@ -131,11 +131,11 @@ Generated: 2026-11-01 16:09
 |---------------|------|------------|--------------|
 | 1 | Chelmsford | 1770.5 | 1 |
 | 2 | North Andover | 1634.9 | 8 |
-| 3 | Winchester | 1587.2 | 16 |
+| 3 | Winchester | 1587.2 | 15 |
 | 4 | Belmont | 1541.4 | 30 |
 | 5 | Reading | 1526.5 | 38 |
 | 6 | Wakefield/Wakefield | 1483.8 | 50 |
-| 7 | Notre Dame (T)/Dracut | 1423.0 | 73 |
+| 7 | Notre Dame (T)/Dracut | 1423.0 | 72 |
 | 8 | Wakefield | 1414.1 | 74 |
 | 9 | Woburn | 1392.3 | 79 |
 | 10 | Stoneham | 1371.8 | 83 |
@@ -145,9 +145,9 @@ Generated: 2026-11-01 16:09
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Notre Dame (Hingham) | 1722.8 | 4 |
-| 2 | Brookline | 1607.9 | 11 |
-| 3 | Newton North | 1599.6 | 14 |
+| 1 | Notre Dame (Hingham) | 1722.8 | 5 |
+| 2 | Newton North | 1597.8 | 14 |
+| 3 | Brookline | 1579.3 | 16 |
 | 4 | Ursuline | 1542.0 | 29 |
 | 5 | Needham | 1506.4 | 44 |
 | 6 | Boston Latin | 1479.6 | 52 |
@@ -157,12 +157,12 @@ Generated: 2026-11-01 16:09
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Wellesley | 1696.3 | 5 |
-| 2 | Milton | 1671.7 | 7 |
-| 3 | Natick | 1435.3 | 70 |
-| 4 | Weymouth | 1360.2 | 85 |
+| 1 | Milton | 1723.8 | 3 |
+| 2 | Wellesley | 1691.6 | 6 |
+| 3 | Natick | 1418.9 | 73 |
+| 4 | Weymouth | 1359.9 | 85 |
 | 5 | Walpole | 1279.8 | 89 |
-| 6 | Braintree | 1278.7 | 90 |
+| 6 | Braintree | 1278.6 | 90 |
 
 ### Other teams
 
@@ -171,11 +171,11 @@ Non-MIAA opponents and teams without a known division.
 | Team | Elo Rating | Overall Rank | Status |
 |------|------------|--------------|--------|
 | Seekonk | 1726.2 | 2 | unknown |
-| Nantucket | 1723.5 | 3 | unknown |
+| Nantucket | 1723.5 | 4 | unknown |
 | Westwood | 1617.9 | 9 | unknown |
 | Hingham | 1617.8 | 10 | unknown |
-| Concord-Carlisle | 1599.9 | 13 | unknown |
-| Nashoba | 1599.4 | 15 | unknown |
+| Concord-Carlisle | 1599.9 | 12 | unknown |
+| Nashoba | 1599.4 | 13 | unknown |
 | Hopkinton | 1578.1 | 17 | unknown |
 | Sharon | 1573.7 | 18 | unknown |
 | Taunton | 1560.0 | 19 | unknown |
@@ -219,7 +219,7 @@ Non-MIAA opponents and teams without a known division.
 | Advanced Math and Science | 1446.0 | 66 | unknown |
 | Bridgewater-Raynham | 1443.1 | 67 | unknown |
 | Attleboro | 1440.7 | 68 | unknown |
-| Medfield | 1427.5 | 72 | unknown |
+| Medfield | 1427.5 | 71 | unknown |
 | Wachusett | 1410.1 | 75 | unknown |
 | Bishop Fenwick | 1402.7 | 76 | unknown |
 | Durfee | 1396.3 | 77 | unknown |

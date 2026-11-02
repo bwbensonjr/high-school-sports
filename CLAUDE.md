@@ -75,6 +75,7 @@ This is a Python project that tracks Massachusetts high school sports scores and
 ### Data Processing Behavior
 
 - **Automatic updates**: Running the same date multiple times will update existing CSV files, replacing duplicate games based on game_id
+- **Fetch windows**: each scoreboard file covers its date +/- 10 days. The daily workflow fetches today and 21 days ago, so scores posted or corrected up to about a month after a game are picked up; to backfill older ones, re-fetch dates 21 days apart across the season
 - **Score updates**: Games initially marked as "UPCOMING" will be updated with final scores when processed again
 - **New games**: Additional games from later data fetches are automatically added to existing files
 - **Error handling**: Network failures and invalid dates are handled gracefully with informative error messages
