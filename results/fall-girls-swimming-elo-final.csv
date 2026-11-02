@@ -1,20 +1,20 @@
 team,elo,team_id,overall_rank,division,division_status,division_rank
 Chelmsford,1770.532244288708,4085,1,N 2,assigned,1
 Seekonk,1726.2257400735398,4344,2,,unknown,
-Nantucket,1723.5092573872785,4265,3,,unknown,
-Notre Dame (Hingham),1722.8296995785045,4449,4,S 1,assigned,1
-Wellesley,1696.3257262903571,4413,5,S 2,assigned,1
-Andover,1681.3374920366687,4009,6,N 1,assigned,1
-Milton,1671.7021412768347,4252,7,S 2,assigned,2
+Milton,1723.7877541249513,4252,3,S 2,assigned,1
+Nantucket,1723.5092573872785,4265,4,,unknown,
+Notre Dame (Hingham),1722.82434714219,4449,5,S 1,assigned,1
+Wellesley,1691.573350093684,4413,6,S 2,assigned,2
+Andover,1681.3374920366687,4009,7,N 1,assigned,1
 North Andover,1634.868074199203,4283,8,N 2,assigned,2
 Westwood,1617.9440865373167,4424,9,,unknown,
 Hingham,1617.8291266930728,4171,10,,unknown,
-Brookline,1607.9485154967617,4059,11,S 1,assigned,2
-Methuen/Tewksbury,1600.297389381501,4246,12,N 1,assigned,2
-Concord-Carlisle,1599.8630099295426,4097,13,,unknown,
-Newton North,1599.603310192192,4279,14,S 1,assigned,3
-Nashoba,1599.4114273957616,4267,15,,unknown,
-Winchester,1587.2365688583502,4434,16,N 2,assigned,3
+Methuen/Tewksbury,1600.297389381501,4246,11,N 1,assigned,2
+Concord-Carlisle,1599.8630099295426,4097,12,,unknown,
+Nashoba,1599.4114273957616,4267,13,,unknown,
+Newton North,1597.8349610960472,4279,14,S 1,assigned,2
+Winchester,1587.2365688583502,4434,15,N 2,assigned,3
+Brookline,1579.2636525941475,4059,16,S 1,assigned,3
 Hopkinton,1578.0573547569816,4180,17,,unknown,
 Sharon,1573.7056783709963,4345,18,,unknown,
 Taunton,1560.022844648305,4388,19,,unknown,
@@ -68,10 +68,10 @@ Advanced Math and Science,1445.9535814972414,4595,66,,unknown,
 Bridgewater-Raynham,1443.1216461247152,4053,67,,unknown,
 Attleboro,1440.6974913992826,4018,68,,unknown,
 Central Catholic,1437.8236552002465,4081,69,N 1,assigned,5
-Natick,1435.3335179635271,4270,70,S 2,assigned,3
-Haverhill,1432.768817498421,4167,71,N 1,assigned,6
-Medfield,1427.4927893551842,4241,72,,unknown,
-Notre Dame (T)/Dracut,1422.951327678247,4540,73,N 2,assigned,7
+Haverhill,1432.768817498421,4167,70,N 1,assigned,6
+Medfield,1427.4927893551842,4241,71,,unknown,
+Notre Dame (T)/Dracut,1422.951327678247,4540,72,N 2,assigned,7
+Natick,1418.9178322399907,4270,73,S 2,assigned,3
 Wakefield,1414.1366334781785,4402,74,N 2,assigned,8
 Wachusett,1410.1283612090547,4400,75,,unknown,
 Bishop Fenwick,1402.6920655909735,4043,76,,unknown,
@@ -83,9 +83,9 @@ Lowell,1389.0825290421744,4216,81,N 1,assigned,7
 Holliston/Medway,1381.8702148136133,4174,82,,unknown,
 Stoneham,1371.8181269150866,4380,83,N 2,assigned,10
 Billerica,1363.794132848277,4040,84,N 2,assigned,11
-Weymouth,1360.2192381660743,4425,85,S 2,assigned,4
+Weymouth,1359.8927046513809,4425,85,S 2,assigned,4
 Old Rochester,1341.3634451267314,4301,86,,unknown,
 Nauset,1306.0614426108218,4271,87,,unknown,
 Malden Catholic,1283.1854066100282,4228,88,N 1,assigned,8
 Walpole,1279.7745869225125,4404,89,S 2,assigned,5
-Braintree,1278.7049338036202,4051,90,S 2,assigned,6
+Braintree,1278.5724808254802,4051,90,S 2,assigned,6

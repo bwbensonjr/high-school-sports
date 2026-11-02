@@ -36,6 +36,12 @@ jobs:
       - name: Fetch today's game data
         run: uv run python process_games.py --today
 
+      - name: Re-fetch older game data for late scores and corrections
+        # Each scoreboard file covers its date +/- 10 days, so today's fetch
+        # misses scores posted or corrected more than 10 days after a game.
+        # The file from 21 days ago covers 31 to 11 days back.
+        run: uv run python process_games.py --date "$(date -u -d '21 days ago' +%F)"
+
       - name: Compute Elo ratings for all sports
         run: uv run python high_school_elo.py
 
