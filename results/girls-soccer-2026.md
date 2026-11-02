@@ -1,6 +1,6 @@
 # Girls Soccer - 2026 Season
 
-Generated: 2026-11-01 19:13
+Generated: 2026-11-02 19:37
 
 ## Upcoming Games
 
@@ -264,23 +264,23 @@ Generated: 2026-11-01 19:13
 | 2026-10-27 | Westborough | 0 | Algonquin | 1 | +1.5 | -1.0 |
 | 2026-10-27 | Whitman-Hanson | 2 | Silver Lake | 0 | -0.7 | +2.0 |
 | 2026-10-27 | Wareham | 1 | Bristol Aggie | 3 | -2.5 | -2.0 |
-| 2026-10-27 | Hampshire | 1 | Southwick | 0 | +1.5 | +1.0 |
+| 2026-10-27 | Springfield Central | 6 | Greenfield | 2 | +1.4 | +4.0 |
 | 2026-10-27 | Fitchburg | 2 | Quabbin | 1 | -2.0 | +1.0 |
 | 2026-10-27 | Franklin | 4 | Sharon | 1 | +2.7 | +3.0 |
 | 2026-10-27 | Cathedral/Cristo Rey | 4 | Codman Charter | 0 | +0.5 | +4.0 |
+| 2026-10-27 | Hampshire | 1 | Southwick | 0 | +1.5 | +1.0 |
 | 2026-10-27 | Mashpee | 6 | Cape Cod Tech | 0 | +2.6 | +6.0 |
-| 2026-10-27 | Springfield Central | 6 | Greenfield | 2 | +1.4 | +4.0 |
 | 2026-10-27 | Everett | 4 | Lynn English | 0 | +4.3 | +4.0 |
 | 2026-10-27 | Somerville | 1 | Malden | 0 | +1.4 | +1.0 |
 | 2026-10-27 | Belchertown | 5 | Frontier | 0 | +0.5 | +5.0 |
 | 2026-10-27 | Medford | 5 | Chelsea | 0 | +0.2 | +5.0 |
 | 2026-10-27 | Minnechaug | 0 | West Springfield | 1 | +3.9 | -1.0 |
-| 2026-10-27 | Oliver Ames | 2 | King Philip | 1 | -0.4 | +1.0 |
+| 2026-10-27 | North Attleborough | 2 | Foxborough | 2 | -1.9 | 0.0 |
 | 2026-10-27 | Northampton | 2 | East Longmeadow | 0 | +2.4 | +2.0 |
 | 2026-10-27 | Wilmington | 5 | Stoneham | 0 | +3.3 | +5.0 |
 | 2026-10-27 | Milford | 4 | Stoughton | 6 | +0.3 | -2.0 |
 | 2026-10-27 | Granby | 4 | Hoosac Valley | 0 | +4.7 | +4.0 |
-| 2026-10-27 | North Attleborough | 2 | Foxborough | 2 | -1.9 | 0.0 |
+| 2026-10-27 | Oliver Ames | 2 | King Philip | 1 | -0.4 | +1.0 |
 | 2026-10-27 | Boston International | 2 | Brighton | 0 | +2.7 | +2.0 |
 | 2026-10-27 | Assabet | 1 | Parker Charter | 1 | -4.0 | 0.0 |
 | 2026-10-27 | Greater Lawrence | 3 | Lowell Catholic | 2 | +1.0 | +1.0 |
@@ -296,19 +296,19 @@ Generated: 2026-11-01 19:13
 | 2026-10-27 | Mt. Everett | 1 | Hampden Charter East | 0 | +1.2 | +1.0 |
 | 2026-10-27 | Taunton | 0 | Attleboro | 2 | +1.8 | -2.0 |
 | 2026-10-26 | St. Bernard’s | 3 | Clinton | 0 | +1.2 | +3.0 |
-| 2026-10-26 | Holliston | 3 | Norwood | 0 | +5.2 | +3.0 |
 | 2026-10-26 | East Bridgewater | 1 | Middleborough | 0 | +0.7 | +1.0 |
 | 2026-10-26 | Blackstone-Millville | 4 | Uxbridge | 4 | +0.1 | 0.0 |
 | 2026-10-26 | Bourne | 2 | Rising Tide Charter | 2 | -1.6 | 0.0 |
 | 2026-10-26 | Carver | 0 | Cohasset | 6 | -6.3 | -6.0 |
-| 2026-10-26 | Nauset | 0 | Plymouth South | 2 | +4.3 | -2.0 |
-| 2026-10-26 | Douglas | 5 | Notre Dame Academy-Worcester | 0 | +5.2 | +5.0 |
 | 2026-10-26 | Dennis-Yarmouth | 0 | Falmouth Academy | 0 | -0.2 | 0.0 |
+| 2026-10-26 | Douglas | 5 | Notre Dame Academy-Worcester | 0 | +5.2 | +5.0 |
+| 2026-10-26 | Nauset | 0 | Plymouth South | 2 | +4.3 | -2.0 |
 | 2026-10-26 | Westwood | 0 | Medfield | 3 | -4.0 | -3.0 |
 | 2026-10-26 | Lawrence | 1 | Notre Dame (Tyngsborough) | 1 | -5.1 | 0.0 |
-| 2026-10-26 | Old Colony | 0 | Bristol-Plymouth | 3 | -1.8 | -3.0 |
 | 2026-10-26 | Whitinsville Christian | 1 | Doherty | 2 | +1.3 | -1.0 |
+| 2026-10-26 | Holliston | 3 | Norwood | 0 | +5.2 | +3.0 |
 | 2026-10-26 | David Prouty | 4 | Oxford | 1 | +0.4 | +3.0 |
+| 2026-10-26 | Old Colony | 0 | Bristol-Plymouth | 3 | -1.8 | -3.0 |
 | 2026-10-26 | Abington | 5 | Mashpee | 1 | -0.3 | +4.0 |
 | 2026-10-26 | Danvers | 0 | Peabody | 1 | +0.7 | -1.0 |
 | 2026-10-26 | Wayland | 0 | Newton South | 4 | +0.2 | -4.0 |
@@ -320,9 +320,8 @@ Generated: 2026-11-01 19:13
 | 2026-10-26 | Masconomet | 2 | Beverly | 2 | +0.5 | 0.0 |
 | 2026-10-26 | Bedford | 1 | Boston Latin | 3 | -0.9 | -2.0 |
 | 2026-10-26 | Barnstable | 2 | Upper Cape | 0 | -1.5 | +2.0 |
-| 2026-10-26 | Hopkinton | 1 | Ashland | 2 | +1.9 | -1.0 |
 | 2026-10-26 | Collegiate Charter | 2 | Innovation Academy | 1 | +2.2 | +1.0 |
-| 2026-10-26 | Acton-Boxborough | 3 | Cambridge | 1 | +3.8 | +2.0 |
+| 2026-10-26 | Hopkinton | 1 | Ashland | 2 | +1.9 | -1.0 |
 | 2026-10-26 | Leicester | 2 | Auburn | 3 | +1.9 | -1.0 |
 | 2026-10-26 | Longmeadow | 1 | Westfield | 0 | +0.6 | +1.0 |
 | 2026-10-26 | Melrose | 2 | Wakefield | 1 | +1.0 | +1.0 |
@@ -349,7 +348,7 @@ Generated: 2026-11-01 19:13
 | 2026-10-26 | Randolph | 0 | Hull | 7 | -5.2 | -7.0 |
 | 2026-10-26 | Sturgis West | 4 | Monomoy | 0 | +4.7 | +4.0 |
 | 2026-10-26 | Dedham | 4 | Millis | 0 | +2.2 | +4.0 |
-| 2026-10-25 | Burlington | 1 | Andover | 1 | +0.7 | 0.0 |
+| 2026-10-26 | Acton-Boxborough | 3 | Cambridge | 1 | +3.8 | +2.0 |
 
 ## Current Elo Ratings
 
@@ -550,20 +549,20 @@ Generated: 2026-11-01 19:13
 | 193 | Brooks | 1506.1 |
 | 194 | Tantasqua | 1505.7 |
 | 195 | Mashpee | 1504.0 |
-| 196 | Newman School | 1501.7 |
-| 197 | KIPP | 1501.7 |
-| 198 | Kent | 1501.7 |
-| 199 | Taft | 1501.7 |
-| 200 | South Shore Christian | 1501.7 |
-| 201 | Poughkeepsie Day (N.Y.) | 1501.7 |
-| 202 | Neighborhood House Charter | 1501.7 |
-| 203 | Housatonic Regional (Conn.) | 1501.7 |
-| 204 | Pioneer Valley Chinese Immersion | 1501.7 |
-| 205 | La Salle (R.I.) | 1501.7 |
-| 206 | Barrington (R.I.) | 1501.7 |
-| 207 | Bridgton Academy | 1501.7 |
-| 208 | Kingswood-Oxford | 1501.7 |
-| 209 | Boston Prep | 1501.7 |
+| 196 | Pioneer Valley Chinese Immersion | 1501.7 |
+| 197 | Boston Prep | 1501.7 |
+| 198 | Poughkeepsie Day (N.Y.) | 1501.7 |
+| 199 | Kingswood-Oxford | 1501.7 |
+| 200 | KIPP | 1501.7 |
+| 201 | Taft | 1501.7 |
+| 202 | Newman School | 1501.7 |
+| 203 | Kent | 1501.7 |
+| 204 | La Salle (R.I.) | 1501.7 |
+| 205 | Neighborhood House Charter | 1501.7 |
+| 206 | Bridgton Academy | 1501.7 |
+| 207 | South Shore Christian | 1501.7 |
+| 208 | Housatonic Regional (Conn.) | 1501.7 |
+| 209 | Barrington (R.I.) | 1501.7 |
 | 210 | Boston Collegiate | 1500.5 |
 | 211 | Pathfinder | 1500.5 |
 | 212 | Fitchburg | 1500.4 |
@@ -1091,10 +1090,10 @@ Generated: 2026-11-01 19:13
 | 14 | Palmer | 1523.8 | 182 |
 | 15 | David Prouty | 1517.7 | 185 |
 | 16 | Pioneer Valley Regional | 1513.1 | 190 |
-| 17 | KIPP | 1501.7 | 197 |
-| 18 | Neighborhood House Charter | 1501.7 | 202 |
-| 19 | Pioneer Valley Chinese Immersion | 1501.7 | 204 |
-| 20 | Boston Prep | 1501.7 | 209 |
+| 17 | Pioneer Valley Chinese Immersion | 1501.7 | 196 |
+| 18 | Boston Prep | 1501.7 | 197 |
+| 19 | KIPP | 1501.7 | 200 |
+| 20 | Neighborhood House Charter | 1501.7 | 205 |
 | 21 | Boston Collegiate | 1500.5 | 210 |
 | 22 | Pathfinder | 1500.5 | 211 |
 | 23 | Franklin County Tech | 1487.1 | 225 |
@@ -1183,16 +1182,16 @@ Non-MIAA opponents and teams without a known division.
 | Concord Academy | 1516.3 | 186 | non-member |
 | Holland (Burke) | 1507.6 | 192 | unknown |
 | Brooks | 1506.1 | 193 | non-member |
-| Newman School | 1501.7 | 196 | non-member |
-| Kent | 1501.7 | 198 | non-member |
-| Taft | 1501.7 | 199 | non-member |
-| South Shore Christian | 1501.7 | 200 | non-member |
-| Poughkeepsie Day (N.Y.) | 1501.7 | 201 | non-member |
-| Housatonic Regional (Conn.) | 1501.7 | 203 | non-member |
-| La Salle (R.I.) | 1501.7 | 205 | non-member |
-| Barrington (R.I.) | 1501.7 | 206 | non-member |
-| Bridgton Academy | 1501.7 | 207 | non-member |
-| Kingswood-Oxford | 1501.7 | 208 | non-member |
+| Poughkeepsie Day (N.Y.) | 1501.7 | 198 | non-member |
+| Kingswood-Oxford | 1501.7 | 199 | non-member |
+| Taft | 1501.7 | 201 | non-member |
+| Newman School | 1501.7 | 202 | non-member |
+| Kent | 1501.7 | 203 | non-member |
+| La Salle (R.I.) | 1501.7 | 204 | non-member |
+| Bridgton Academy | 1501.7 | 206 | non-member |
+| South Shore Christian | 1501.7 | 207 | non-member |
+| Housatonic Regional (Conn.) | 1501.7 | 208 | non-member |
+| Barrington (R.I.) | 1501.7 | 209 | non-member |
 | St. Paul’s | 1499.3 | 214 | non-member |
 | Hope (R.I.) | 1496.4 | 216 | non-member |
 | Bishop Guertin (N.H.) | 1495.7 | 217 | non-member |

@@ -90,8 +90,8 @@ Notre Dame Academy-Worcester,1580.9561990083537,4451,88,2,assigned,32
 Hampshire,1580.8732002039637,4518,89,3,assigned,15
 Shrewsbury,1579.698903514986,4348,90,1,assigned,35
 Wheeler (R.I.),1577.4114559262189,4426,91,,non-member,
-Ayer Shirley,1576.1597182174899,4022,92,3,assigned,16
-Clinton,1576.1597182174899,4093,93,3,assigned,17
+Clinton,1576.1597182174899,4093,92,3,assigned,16
+Ayer Shirley,1576.1597182174899,4022,93,3,assigned,17
 Frontier,1574.9365918757705,4146,94,3,assigned,18
 Old Colony,1573.9751263844657,4300,95,3,assigned,19
 St. Paul,1566.7769045041246,4954,96,2,assigned,33
@@ -119,14 +119,14 @@ Pingree,1519.7341177480434,4312,117,,non-member,
 East Bridgewater,1517.4448170250023,4126,118,3,assigned,24
 Revere,1509.2545007857232,4329,119,2,assigned,37
 Winthrop,1504.961191738236,4437,120,3,assigned,25
-Minnechaug,1502.7555,4254,121,2,assigned,38
-Longmeadow,1502.7555,4214,122,2,assigned,39
-Wachusett,1502.7555,4400,123,1,assigned,44
-Notre Dame (Worcester),1502.7555,4451,124,2,assigned,40
-Notre Dame (Tyngsborough),1502.7555,4540,125,3,assigned,26
-Westfield,1502.7555,4419,126,2,assigned,41
+Westfield,1502.7555,4419,121,2,assigned,38
+Minnechaug,1502.7555,4254,122,2,assigned,39
+Notre Dame (Tyngsborough),1502.7555,4540,123,3,assigned,26
+Longmeadow,1502.7555,4214,124,2,assigned,40
+Notre Dame (Worcester),1502.7555,4451,125,2,assigned,41
+Amherst-Pelham,1502.7555,4008,126,2,assigned,42
 Cape Cod Tech,1502.7555,4073,127,3,assigned,27
-Amherst-Pelham,1502.7555,4008,128,2,assigned,42
+Wachusett,1502.7555,4400,128,1,assigned,44
 Whittier,1501.9043253769328,4428,129,2,assigned,43
 West Bridgewater,1499.8385810500524,4415,130,3,assigned,28
 Middleborough,1494.9666836851836,4247,131,2,assigned,44
@@ -144,8 +144,8 @@ Holliston,1459.491043885312,4174,142,2,assigned,48
 Blackstone-Millville,1457.7042897771207,4486,143,3,assigned,33
 Archbishop Williams,1457.0875851300784,4012,144,2,assigned,49
 Algonquin,1454.857851414646,4005,145,1,assigned,46
-Chicopee Comprehensive,1454.7394466219066,4089,146,1,assigned,47
-Rivers,1454.7394466219066,4330,147,,non-member,
+Rivers,1454.7394466219066,4330,146,,non-member,
+Chicopee Comprehensive,1454.7394466219066,4089,147,1,assigned,47
 South Shore Voc-Tech,1452.4055064410936,4356,148,3,assigned,34
 Leominster,1451.1479572943624,4208,149,2,assigned,50
 Mystic Valley,1450.1867580038231,4264,150,3,assigned,35
@@ -159,8 +159,8 @@ Wakefield,1440.1705290213526,4402,157,2,assigned,52
 Wayland,1437.9687811966821,4411,158,2,assigned,53
 Burncoat,1437.35971184912,4066,159,2,assigned,54
 Tahanto,1431.7317345438066,4513,160,3,assigned,38
-South Lancaster,1429.3512817825101,4484,161,2,assigned,55
-Maynard,1429.3512817825101,4239,162,3,assigned,39
+Maynard,1429.3512817825101,4239,161,3,assigned,39
+South Lancaster,1429.3512817825101,4484,162,2,assigned,55
 St. Mark’s,1427.614230487164,4372,163,,non-member,
 Shepherd Hill,1425.812096485014,4347,164,2,assigned,56
 Douglas,1424.6377997960365,4506,165,3,assigned,40

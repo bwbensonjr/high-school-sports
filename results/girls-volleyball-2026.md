@@ -1,11 +1,14 @@
 # Girls Volleyball - 2026 Season
 
-Generated: 2026-11-01 19:13
+Generated: 2026-11-02 19:37
 
 ## Upcoming Games
 
-*No upcoming games scheduled*
-
+| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
+|------|------|-----------|-----------|------------|------------------|
+| 2026-11-02 | 4:30 P.M. | Blackstone Valley | Bay Path | 60.2% | +0.3 |
+| 2026-11-02 | 5:00 P.M. | Old Colony | South Shore Voc-Tech | 91.8% | +2.1 |
+| 2026-11-03 | TBD | Greater Lowell | Greater New Bedford | 36.5% | -0.5 |
 
 ## Recent Games
 
@@ -173,40 +176,41 @@ Generated: 2026-11-01 19:13
 | 2026-10-27 | Braintree | 3 | Weymouth | 0 | +1.9 | +3.0 |
 | 2026-10-27 | Brookline | 3 | Wellesley | 0 | +1.1 | +3.0 |
 | 2026-10-27 | Newton North | 3 | Natick | 0 | +1.0 | +3.0 |
-| 2026-10-27 | Cristo Rey | 0 | Greater Lowell | 3 | +0.2 | -3.0 |
-| 2026-10-27 | Notre Dame (Hingham) | 0 | Plymouth North | 3 | +1.0 | -3.0 |
 | 2026-10-27 | North Middlesex | 1 | Greater Lawrence | 3 | -2.1 | -2.0 |
-| 2026-10-27 | Innovation Academy | 0 | South Lancaster | 3 | -1.2 | -3.0 |
+| 2026-10-27 | Notre Dame (Hingham) | 0 | Plymouth North | 3 | +1.0 | -3.0 |
+| 2026-10-27 | Cristo Rey | 0 | Greater Lowell | 3 | +0.2 | -3.0 |
+| 2026-10-27 | New Mission | 3 | Latin Academy | 1 | +2.2 | +2.0 |
 | 2026-10-27 | Central Catholic | 3 | Westborough | 0 | +1.6 | +3.0 |
 | 2026-10-27 | Madison Park | 3 | East Boston | 0 | +2.1 | +3.0 |
 | 2026-10-27 | Brighton | 1 | Dearborn STEM | 3 | +0.7 | -2.0 |
 | 2026-10-27 | O’Bryant | 3 | TechBoston/Henderson | 1 | +1.3 | +2.0 |
 | 2026-10-27 | Wachusett | 3 | Nashoba | 0 | +0.9 | +3.0 |
-| 2026-10-27 | Joseph Case | 3 | West Bridgewater | 0 | +1.5 | +3.0 |
+| 2026-10-27 | Innovation Academy | 0 | South Lancaster | 3 | -1.2 | -3.0 |
 | 2026-10-27 | Silver Lake | 0 | East Bridgewater | 3 | -2.4 | -3.0 |
-| 2026-10-27 | New Mission | 3 | Latin Academy | 1 | +2.2 | +2.0 |
+| 2026-10-27 | Joseph Case | 3 | West Bridgewater | 0 | +1.5 | +3.0 |
 | 2026-10-27 | Carver | 3 | Wareham | 0 | +3.0 | +3.0 |
+| 2026-10-27 | Methuen | 3 | Sharon | 0 | -0.2 | +3.0 |
 | 2026-10-27 | Tewksbury | 3 | Bedford | 2 | -0.7 | +1.0 |
 | 2026-10-27 | Westford | 2 | Chelmsford | 3 | -0.5 | -1.0 |
 | 2026-10-27 | Nashoba Valley Tech | 2 | Maimonides | 3 | -1.0 | -1.0 |
 | 2026-10-27 | Shawsheen | 3 | Concord-Carlisle | 2 | +2.0 | +1.0 |
 | 2026-10-27 | Whittier | 3 | Mystic Valley | 0 | -0.8 | +3.0 |
-| 2026-10-27 | Methuen | 3 | Sharon | 0 | -0.2 | +3.0 |
-| 2026-10-26 | Shrewsbury | 2 | Acton-Boxborough | 3 | +0.9 | -1.0 |
-| 2026-10-26 | Fontbonne | 3 | Malden Catholic | 0 | +0.8 | +3.0 |
 | 2026-10-26 | Notre Dame (Hingham) | 3 | Stoughton | 1 | +4.1 | +2.0 |
 | 2026-10-26 | Millbury | 1 | Greater Lawrence | 3 | -1.2 | -2.0 |
 | 2026-10-26 | Maimonides | 3 | Nashoba Valley Tech | 1 | +1.2 | +2.0 |
 | 2026-10-26 | Notre Dame (Tyngsborough) | 0 | Dracut | 3 | -1.4 | -3.0 |
-| 2026-10-26 | Lynn English | 3 | Chelsea | 0 | +0.9 | +3.0 |
+| 2026-10-26 | Shrewsbury | 2 | Acton-Boxborough | 3 | +0.9 | -1.0 |
 | 2026-10-26 | Boston Latin | 1 | Newton South | 3 | -1.9 | -2.0 |
+| 2026-10-26 | Attleboro | 1 | Bellingham | 3 | -2.3 | -2.0 |
 | 2026-10-26 | Bedford | 3 | Waltham | 2 | +1.3 | +1.0 |
 | 2026-10-26 | Wayland | 3 | Weston | 1 | -0.4 | +2.0 |
+| 2026-10-26 | Lynn English | 3 | Chelsea | 0 | +0.9 | +3.0 |
 | 2026-10-26 | Revere | 3 | Everett | 0 | +1.5 | +3.0 |
 | 2026-10-26 | Somerville | 0 | Lynn Classical | 3 | +0.4 | -3.0 |
-| 2026-10-26 | Cardinal Spellman | 0 | Whitman-Hanson | 3 | +0.2 | -3.0 |
 | 2026-10-26 | St. Mary’s | 3 | KIPP | 0 | +2.0 | +3.0 |
+| 2026-10-26 | Fontbonne | 3 | Malden Catholic | 0 | +0.8 | +3.0 |
 | 2026-10-26 | Falmouth | 0 | Fairhaven | 3 | -3.4 | -3.0 |
+| 2026-10-26 | Cardinal Spellman | 0 | Whitman-Hanson | 3 | +0.2 | -3.0 |
 | 2026-10-26 | Bishop Feehan | 3 | Andover | 1 | -0.2 | +2.0 |
 | 2026-10-26 | Ursuline | 3 | Arlington Catholic | 0 | +2.6 | +3.0 |
 | 2026-10-26 | Newburyport | 3 | Masconomet | 0 | +2.9 | +3.0 |
@@ -214,15 +218,13 @@ Generated: 2026-11-01 19:13
 | 2026-10-26 | Monomoy | 2 | Westport | 3 | +0.3 | -1.0 |
 | 2026-10-26 | St. John Paul II | 1 | Nantucket | 3 | +1.4 | -2.0 |
 | 2026-10-26 | Sandwich | 3 | Sturgis West | 0 | +2.4 | +3.0 |
-| 2026-10-26 | Attleboro | 1 | Bellingham | 3 | -2.3 | -2.0 |
 | 2026-10-26 | Dennis-Yarmouth | 0 | Somerset Berkley | 3 | -0.1 | -3.0 |
 | 2026-10-26 | Taunton | 3 | New Bedford | 0 | +2.4 | +3.0 |
 | 2026-10-26 | Apponequet | 1 | Durfee | 3 | +0.5 | -2.0 |
 | 2026-10-26 | Braintree | 3 | Bridgewater-Raynham | 1 | -0.2 | +2.0 |
 | 2026-10-26 | Central Catholic | 3 | Wellesley | 1 | +1.0 | +2.0 |
-| 2026-10-26 | Marlborough | 3 | Framingham | 2 | +2.7 | +1.0 |
 | 2026-10-26 | Medford | 0 | Malden | 3 | -1.0 | -3.0 |
-| 2026-10-26 | Chelmsford | 3 | Needham | 2 | +1.7 | +1.0 |
+| 2026-10-26 | Marlborough | 3 | Framingham | 2 | +2.7 | +1.0 |
 | 2026-10-26 | Canton | 3 | King Philip | 1 | +1.5 | +2.0 |
 | 2026-10-26 | Methuen | 3 | Mansfield | 0 | +1.8 | +3.0 |
 | 2026-10-26 | Wakefield | 3 | Burlington | 0 | +0.6 | +3.0 |
@@ -252,7 +254,7 @@ Generated: 2026-11-01 19:13
 | 2026-10-26 | Diman | 2 | Bristol-Plymouth | 3 | +0.7 | -1.0 |
 | 2026-10-26 | Seekonk | 3 | Avon | 0 | -0.5 | +3.0 |
 | 2026-10-26 | Barnstable | 0 | Oliver Ames | 3 | -1.0 | -3.0 |
-| 2026-10-25 | Archbishop Williams | 2 | Brockton | 3 | +2.2 | -1.0 |
+| 2026-10-26 | Chelmsford | 3 | Needham | 2 | +1.7 | +1.0 |
 
 ## Current Elo Ratings
 
@@ -440,11 +442,11 @@ Generated: 2026-11-01 19:13
 | 180 | Rivers | 1509.1 |
 | 181 | Hampden Charter West | 1506.1 |
 | 182 | Putnam | 1505.4 |
-| 183 | Trinity Christian | 1502.8 |
-| 184 | Dublin | 1502.8 |
-| 185 | Northfield Mt. Hermon | 1502.8 |
-| 186 | South Shore Christian | 1502.8 |
-| 187 | Fellowship Christian | 1502.8 |
+| 183 | South Shore Christian | 1502.8 |
+| 184 | Trinity Christian | 1502.8 |
+| 185 | Dublin | 1502.8 |
+| 186 | Fellowship Christian | 1502.8 |
+| 187 | Northfield Mt. Hermon | 1502.8 |
 | 188 | Ipswich | 1502.7 |
 | 189 | Arlington | 1501.6 |
 | 190 | Medfield | 1498.9 |
@@ -475,8 +477,8 @@ Generated: 2026-11-01 19:13
 | 215 | Boston Collegiate | 1471.5 |
 | 216 | Salem | 1471.4 |
 | 217 | Burncoat | 1470.9 |
-| 218 | Gann Academy | 1470.8 |
-| 219 | Hotchkiss | 1470.8 |
+| 218 | Hotchkiss | 1470.8 |
+| 219 | Gann Academy | 1470.8 |
 | 220 | Westwood | 1470.1 |
 | 221 | Barrington (R.I.) | 1469.5 |
 | 222 | Newton Country Day | 1466.4 |
@@ -1036,11 +1038,11 @@ Non-MIAA opponents and teams without a known division.
 | Beaver Country Day | 1512.6 | 176 | non-member |
 | Kingswood-Oxford | 1510.9 | 178 | non-member |
 | Rivers | 1509.1 | 180 | non-member |
-| Trinity Christian | 1502.8 | 183 | non-member |
-| Dublin | 1502.8 | 184 | non-member |
-| Northfield Mt. Hermon | 1502.8 | 185 | non-member |
-| South Shore Christian | 1502.8 | 186 | non-member |
-| Fellowship Christian | 1502.8 | 187 | non-member |
+| South Shore Christian | 1502.8 | 183 | non-member |
+| Trinity Christian | 1502.8 | 184 | non-member |
+| Dublin | 1502.8 | 185 | non-member |
+| Fellowship Christian | 1502.8 | 186 | non-member |
+| Northfield Mt. Hermon | 1502.8 | 187 | non-member |
 | Deerfield | 1494.1 | 193 | non-member |
 | Williston Northampton | 1490.5 | 199 | non-member |
 | MacDuffie | 1490.4 | 200 | non-member |
@@ -1051,8 +1053,8 @@ Non-MIAA opponents and teams without a known division.
 | La Salle (R.I.) | 1477.3 | 208 | non-member |
 | Greenwich Academy (Conn.) | 1475.2 | 212 | non-member |
 | Winchendon | 1473.4 | 214 | non-member |
-| Gann Academy | 1470.8 | 218 | non-member |
-| Hotchkiss | 1470.8 | 219 | non-member |
+| Hotchkiss | 1470.8 | 218 | non-member |
+| Gann Academy | 1470.8 | 219 | non-member |
 | Barrington (R.I.) | 1469.5 | 221 | non-member |
 | Newton Country Day | 1466.4 | 222 | non-member |
 | Suffield Academy | 1464.8 | 223 | non-member |

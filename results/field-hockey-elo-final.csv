@@ -17,8 +17,8 @@ Andover,2120.171513916105,4009,15,1,assigned,6
 King Philip,2107.232019596903,4197,16,2,assigned,4
 East Longmeadow,2101.176615417143,4127,17,3,assigned,5
 Hopedale,2085.3669237330714,4507,18,4,assigned,3
-Hingham,2080.056020751932,4171,19,2,assigned,5
-Gloucester,2077.8918508495162,4150,20,3,assigned,6
+Gloucester,2084.1808241585436,4150,19,3,assigned,6
+Hingham,2080.056020751932,4171,20,2,assigned,5
 Frontier,2052.4247441294833,4146,21,4,assigned,4
 Phillips Andover,2042.5120276676357,4310,22,,non-member,
 Moses Brown (R.I.),1998.3167772184922,4261,23,,non-member,
@@ -135,12 +135,12 @@ Tyngsborough/Dracut,1506.1125558732965,4397,133,4,assigned,19
 Milton Academy,1503.855934727825,4253,134,,non-member,
 Old Rochester,1501.4676727480382,4301,135,3,assigned,30
 Frederick Gunn (Conn.),1501.2414649603106,4161,136,,non-member,
-Kingswood-Oxford,1500.95,4198,137,,non-member,
-Hopkins (Conn.),1500.95,4612,138,,non-member,
-Kent,1500.95,4193,139,,non-member,
-Ciciro-North Syracuse (N.Y.),1500.95,4959,140,,non-member,
-St. Luke’s,1500.95,4618,141,,non-member,
-Hamden Hall Country Day,1500.95,4162,142,,non-member,
+Ciciro-North Syracuse (N.Y.),1500.95,4959,137,,non-member,
+Hamden Hall Country Day,1500.95,4162,138,,non-member,
+St. Luke’s,1500.95,4618,139,,non-member,
+Kingswood-Oxford,1500.95,4198,140,,non-member,
+Hopkins (Conn.),1500.95,4612,141,,non-member,
+Kent,1500.95,4193,142,,non-member,
 Tahanto,1498.6441084282467,4513,143,4,assigned,20
 North Middlesex,1497.032537238686,4286,144,3,assigned,31
 Tabor,1487.108770894479,4384,145,,non-member,
@@ -161,8 +161,8 @@ Hamilton-Wenham,1455.7092362198866,4163,159,4,assigned,21
 Westminster,1447.605576684341,4422,160,,non-member,
 North Reading,1443.4766080975642,4288,161,3,assigned,33
 St. John Paul II,1441.1698120409326,4689,162,4,assigned,22
-Swampscott,1438.7324830345517,4383,163,3,assigned,34
-Bellingham,1433.9262973354987,4033,164,3,assigned,35
+Bellingham,1433.9262973354987,4033,163,3,assigned,34
+Swampscott,1432.443509725524,4383,164,3,assigned,35
 Groton,1429.1903862695551,4544,165,,non-member,
 Methuen,1423.8403294651841,4246,166,1,assigned,27
 Gardner,1422.1340226432192,4147,167,4,assigned,23

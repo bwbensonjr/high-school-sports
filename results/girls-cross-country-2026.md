@@ -1,6 +1,6 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-11-01 19:13
+Generated: 2026-11-02 19:37
 
 ## Upcoming Games
 
@@ -107,8 +107,8 @@ Generated: 2026-11-01 19:13
 | 89 | Hampshire | 1580.9 |
 | 90 | Shrewsbury | 1579.7 |
 | 91 | Wheeler (R.I.) | 1577.4 |
-| 92 | Ayer Shirley | 1576.2 |
-| 93 | Clinton | 1576.2 |
+| 92 | Clinton | 1576.2 |
+| 93 | Ayer Shirley | 1576.2 |
 | 94 | Frontier | 1574.9 |
 | 95 | Old Colony | 1574.0 |
 | 96 | St. Paul | 1566.8 |
@@ -136,14 +136,14 @@ Generated: 2026-11-01 19:13
 | 118 | East Bridgewater | 1517.4 |
 | 119 | Revere | 1509.3 |
 | 120 | Winthrop | 1505.0 |
-| 121 | Minnechaug | 1502.8 |
-| 122 | Longmeadow | 1502.8 |
-| 123 | Wachusett | 1502.8 |
-| 124 | Notre Dame (Worcester) | 1502.8 |
-| 125 | Notre Dame (Tyngsborough) | 1502.8 |
-| 126 | Westfield | 1502.8 |
+| 121 | Westfield | 1502.8 |
+| 122 | Minnechaug | 1502.8 |
+| 123 | Notre Dame (Tyngsborough) | 1502.8 |
+| 124 | Longmeadow | 1502.8 |
+| 125 | Notre Dame (Worcester) | 1502.8 |
+| 126 | Amherst-Pelham | 1502.8 |
 | 127 | Cape Cod Tech | 1502.8 |
-| 128 | Amherst-Pelham | 1502.8 |
+| 128 | Wachusett | 1502.8 |
 | 129 | Whittier | 1501.9 |
 | 130 | West Bridgewater | 1499.8 |
 | 131 | Middleborough | 1495.0 |
@@ -161,8 +161,8 @@ Generated: 2026-11-01 19:13
 | 143 | Blackstone-Millville | 1457.7 |
 | 144 | Archbishop Williams | 1457.1 |
 | 145 | Algonquin | 1454.9 |
-| 146 | Chicopee Comprehensive | 1454.7 |
-| 147 | Rivers | 1454.7 |
+| 146 | Rivers | 1454.7 |
+| 147 | Chicopee Comprehensive | 1454.7 |
 | 148 | South Shore Voc-Tech | 1452.4 |
 | 149 | Leominster | 1451.1 |
 | 150 | Mystic Valley | 1450.2 |
@@ -176,8 +176,8 @@ Generated: 2026-11-01 19:13
 | 158 | Wayland | 1438.0 |
 | 159 | Burncoat | 1437.4 |
 | 160 | Tahanto | 1431.7 |
-| 161 | South Lancaster | 1429.4 |
-| 162 | Maynard | 1429.4 |
+| 161 | Maynard | 1429.4 |
+| 162 | South Lancaster | 1429.4 |
 | 163 | St. Mark’s | 1427.6 |
 | 164 | Shepherd Hill | 1425.8 |
 | 165 | Douglas | 1424.6 |
@@ -333,10 +333,10 @@ Generated: 2026-11-01 19:13
 | 41 | Beverly | 1540.0 | 109 |
 | 42 | Newton South | 1536.6 | 110 |
 | 43 | Haverhill | 1520.4 | 116 |
-| 44 | Wachusett | 1502.8 | 123 |
+| 44 | Wachusett | 1502.8 | 128 |
 | 45 | Brookline | 1467.8 | 140 |
 | 46 | Algonquin | 1454.9 | 145 |
-| 47 | Chicopee Comprehensive | 1454.7 | 146 |
+| 47 | Chicopee Comprehensive | 1454.7 | 147 |
 | 48 | Medford | 1446.5 | 154 |
 | 49 | Natick | 1417.9 | 170 |
 | 50 | Bridgewater-Raynham | 1413.4 | 173 |
@@ -408,11 +408,11 @@ Generated: 2026-11-01 19:13
 | 35 | Chicopee | 1550.8 | 103 |
 | 36 | Dover-Sherborn | 1547.9 | 106 |
 | 37 | Revere | 1509.3 | 119 |
-| 38 | Minnechaug | 1502.8 | 121 |
-| 39 | Longmeadow | 1502.8 | 122 |
-| 40 | Notre Dame (Worcester) | 1502.8 | 124 |
-| 41 | Westfield | 1502.8 | 126 |
-| 42 | Amherst-Pelham | 1502.8 | 128 |
+| 38 | Westfield | 1502.8 | 121 |
+| 39 | Minnechaug | 1502.8 | 122 |
+| 40 | Longmeadow | 1502.8 | 124 |
+| 41 | Notre Dame (Worcester) | 1502.8 | 125 |
+| 42 | Amherst-Pelham | 1502.8 | 126 |
 | 43 | Whittier | 1501.9 | 129 |
 | 44 | Middleborough | 1495.0 | 131 |
 | 45 | Danvers | 1478.6 | 135 |
@@ -425,7 +425,7 @@ Generated: 2026-11-01 19:13
 | 52 | Wakefield | 1440.2 | 157 |
 | 53 | Wayland | 1438.0 | 158 |
 | 54 | Burncoat | 1437.4 | 159 |
-| 55 | South Lancaster | 1429.4 | 161 |
+| 55 | South Lancaster | 1429.4 | 162 |
 | 56 | Shepherd Hill | 1425.8 | 164 |
 | 57 | Tantasqua | 1424.1 | 166 |
 | 58 | Wilmington | 1417.9 | 169 |
@@ -484,8 +484,8 @@ Generated: 2026-11-01 19:13
 | 13 | Tri-County | 1625.8 | 67 |
 | 14 | Seekonk | 1581.3 | 87 |
 | 15 | Hampshire | 1580.9 | 89 |
-| 16 | Ayer Shirley | 1576.2 | 92 |
-| 17 | Clinton | 1576.2 | 93 |
+| 16 | Clinton | 1576.2 | 92 |
+| 17 | Ayer Shirley | 1576.2 | 93 |
 | 18 | Frontier | 1574.9 | 94 |
 | 19 | Old Colony | 1574.0 | 95 |
 | 20 | Parker Charter | 1551.3 | 101 |
@@ -494,7 +494,7 @@ Generated: 2026-11-01 19:13
 | 23 | Amesbury | 1521.6 | 115 |
 | 24 | East Bridgewater | 1517.4 | 118 |
 | 25 | Winthrop | 1505.0 | 120 |
-| 26 | Notre Dame (Tyngsborough) | 1502.8 | 125 |
+| 26 | Notre Dame (Tyngsborough) | 1502.8 | 123 |
 | 27 | Cape Cod Tech | 1502.8 | 127 |
 | 28 | West Bridgewater | 1499.8 | 130 |
 | 29 | Littleton | 1486.8 | 132 |
@@ -507,7 +507,7 @@ Generated: 2026-11-01 19:13
 | 36 | Abington | 1446.2 | 155 |
 | 37 | Sizer | 1443.0 | 156 |
 | 38 | Tahanto | 1431.7 | 160 |
-| 39 | Maynard | 1429.4 | 162 |
+| 39 | Maynard | 1429.4 | 161 |
 | 40 | Douglas | 1424.6 | 165 |
 | 41 | Hudson | 1420.0 | 167 |
 | 42 | Renaissance | 1420.0 | 168 |
@@ -565,7 +565,7 @@ Non-MIAA opponents and teams without a known division.
 | Pingree | 1519.7 | 117 | non-member |
 | Tabor | 1484.1 | 133 | non-member |
 | Saugus | 1474.8 | 137 | unknown |
-| Rivers | 1454.7 | 147 | non-member |
+| Rivers | 1454.7 | 146 | non-member |
 | Brooks | 1449.6 | 151 | non-member |
 | Taft | 1446.7 | 153 | non-member |
 | St. Mark’s | 1427.6 | 163 | non-member |
