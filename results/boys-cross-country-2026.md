@@ -1,6 +1,6 @@
 # Boys Cross Country - 2026 Season
 
-Generated: 2026-11-02 19:37
+Generated: 2026-11-03 17:11
 
 ## Upcoming Games
 
@@ -136,19 +136,19 @@ Generated: 2026-11-02 19:37
 | 118 | South Shore Voc-Tech | 1512.4 |
 | 119 | Old Rochester | 1511.9 |
 | 120 | Hampshire | 1510.3 |
-| 121 | Greater Lawrence | 1502.8 |
-| 122 | Notre Dame (Tyngsborough) | 1502.8 |
+| 121 | Riverview School | 1502.8 |
+| 122 | Minnechaug | 1502.8 |
 | 123 | Watkinson | 1502.8 |
-| 124 | Riverview School | 1502.8 |
-| 125 | Minnechaug | 1502.8 |
-| 126 | Amherst-Pelham | 1502.8 |
-| 127 | Tabor | 1502.8 |
-| 128 | Longmeadow | 1502.8 |
+| 124 | Longmeadow | 1502.8 |
+| 125 | Bridgewater-Raynham | 1502.8 |
+| 126 | St. Sebastian’s | 1502.8 |
+| 127 | Notre Dame (Tyngsborough) | 1502.8 |
+| 128 | Tabor | 1502.8 |
 | 129 | Wachusett | 1502.8 |
 | 130 | Westfield | 1502.8 |
 | 131 | Greater Lowell | 1502.8 |
-| 132 | St. Sebastian’s | 1502.8 |
-| 133 | Bridgewater-Raynham | 1502.8 |
+| 132 | Greater Lawrence | 1502.8 |
+| 133 | Amherst-Pelham | 1502.8 |
 | 134 | New Bedford | 1501.5 |
 | 135 | Milton Academy | 1501.2 |
 | 136 | Bourne | 1500.9 |
@@ -339,8 +339,8 @@ Generated: 2026-11-02 19:37
 | 38 | Diman | 1535.7 | 105 |
 | 39 | Chelmsford | 1533.2 | 106 |
 | 40 | Silver Lake | 1516.9 | 112 |
-| 41 | Wachusett | 1502.8 | 129 |
-| 42 | Bridgewater-Raynham | 1502.8 | 133 |
+| 41 | Bridgewater-Raynham | 1502.8 | 125 |
+| 42 | Wachusett | 1502.8 | 129 |
 | 43 | New Bedford | 1501.5 | 134 |
 | 44 | Worcester Tech | 1491.0 | 142 |
 | 45 | Malden | 1466.1 | 154 |
@@ -423,12 +423,12 @@ Generated: 2026-11-02 19:37
 | 38 | St. Paul | 1515.9 | 115 |
 | 39 | Ashland | 1514.2 | 116 |
 | 40 | Scituate | 1513.4 | 117 |
-| 41 | Greater Lawrence | 1502.8 | 121 |
-| 42 | Riverview School | 1502.8 | 124 |
-| 43 | Minnechaug | 1502.8 | 125 |
-| 44 | Amherst-Pelham | 1502.8 | 126 |
-| 45 | Longmeadow | 1502.8 | 128 |
-| 46 | Westfield | 1502.8 | 130 |
+| 41 | Riverview School | 1502.8 | 121 |
+| 42 | Minnechaug | 1502.8 | 122 |
+| 43 | Longmeadow | 1502.8 | 124 |
+| 44 | Westfield | 1502.8 | 130 |
+| 45 | Greater Lawrence | 1502.8 | 132 |
+| 46 | Amherst-Pelham | 1502.8 | 133 |
 | 47 | Norton | 1499.1 | 138 |
 | 48 | Foxborough | 1497.4 | 139 |
 | 49 | Wayland | 1494.4 | 140 |
@@ -508,7 +508,7 @@ Generated: 2026-11-02 19:37
 | 27 | South Shore Voc-Tech | 1512.4 | 118 |
 | 28 | Old Rochester | 1511.9 | 119 |
 | 29 | Hampshire | 1510.3 | 120 |
-| 30 | Notre Dame (Tyngsborough) | 1502.8 | 122 |
+| 30 | Notre Dame (Tyngsborough) | 1502.8 | 127 |
 | 31 | Greater Lowell | 1502.8 | 131 |
 | 32 | Bourne | 1500.9 | 136 |
 | 33 | Carver | 1500.8 | 137 |
@@ -574,8 +574,8 @@ Non-MIAA opponents and teams without a known division.
 | Worcester Academy | 1564.3 | 91 | non-member |
 | Middlesex | 1542.6 | 99 | non-member |
 | Watkinson | 1502.8 | 123 | non-member |
-| Tabor | 1502.8 | 127 | non-member |
-| St. Sebastian’s | 1502.8 | 132 | non-member |
+| St. Sebastian’s | 1502.8 | 126 | non-member |
+| Tabor | 1502.8 | 128 | non-member |
 | Milton Academy | 1501.2 | 135 | non-member |
 | Groton | 1474.9 | 149 | non-member |
 | BB&N | 1467.9 | 150 | non-member |
