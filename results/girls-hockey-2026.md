@@ -1,6 +1,6 @@
 # Girls Hockey - 2026 Season
 
-Generated: 2026-11-03 17:11
+Generated: 2026-11-04 17:23
 
 ## Upcoming Games
 
@@ -23,7 +23,7 @@ Generated: 2026-11-03 17:11
 | 5 | Westwood | 1999.7 |
 | 6 | King Philip | 1971.7 |
 | 7 | Reading | 1960.0 |
-| 8 | Algonquin | 1955.6 |
+| 8 | Algonquin | 1955.7 |
 | 9 | St. Mary’s | 1950.7 |
 | 10 | Bishop Feehan | 1936.9 |
 | 11 | Bishop Stang | 1903.5 |
@@ -37,7 +37,7 @@ Generated: 2026-11-03 17:11
 | 19 | Loomis Chaffee (Conn.) | 1767.0 |
 | 20 | Billerica/Chelmsford | 1759.9 |
 | 21 | NSA | 1755.0 |
-| 22 | Medfield | 1744.8 |
+| 22 | Medfield | 1744.7 |
 | 23 | Nobles | 1736.7 |
 | 24 | Shrewsbury | 1723.4 |
 | 25 | Auburn | 1710.2 |
@@ -57,7 +57,7 @@ Generated: 2026-11-03 17:11
 | 39 | Belmont | 1616.1 |
 | 40 | Dennis-Yarmouth | 1615.5 |
 | 41 | Falmouth | 1612.6 |
-| 42 | Natick | 1610.3 |
+| 42 | Natick | 1610.4 |
 | 43 | Hoosac School | 1610.1 |
 | 44 | Holderness | 1610.1 |
 | 45 | Westford | 1607.9 |
@@ -71,7 +71,7 @@ Generated: 2026-11-03 17:11
 | 53 | St. Paul’s | 1568.7 |
 | 54 | Nauset/Monomoy | 1567.2 |
 | 55 | Pope Francis | 1566.6 |
-| 56 | Hopkinton/Dover-Sherborn | 1559.7 |
+| 56 | Hopkinton/Dover-Sherborn | 1559.5 |
 | 57 | ADK United | 1553.9 |
 | 58 | Choate | 1542.9 |
 | 59 | St. Mark’s | 1542.6 |
@@ -82,9 +82,9 @@ Generated: 2026-11-03 17:11
 | 64 | Framingham | 1520.1 |
 | 65 | Deerfield | 1516.6 |
 | 66 | Taft | 1514.2 |
-| 67 | Northfield Mt. Hermon | 1501.7 |
-| 68 | Vermont Academy | 1501.7 |
-| 69 | Millbrook (N.Y.) | 1501.7 |
+| 67 | Millbrook (N.Y.) | 1501.7 |
+| 68 | Northfield Mt. Hermon | 1501.7 |
+| 69 | Vermont Academy | 1501.7 |
 | 70 | Shawsheen/Bedford/Lowell | 1477.1 |
 | 71 | Dexter Southfield | 1475.1 |
 | 72 | Wakefield | 1475.0 |
@@ -115,7 +115,7 @@ Generated: 2026-11-03 17:11
 | 97 | Norwell | 1416.2 |
 | 98 | Brewster Academy | 1413.3 |
 | 99 | Boston Latin | 1409.4 |
-| 100 | Hopkinton | 1405.7 |
+| 100 | Hopkinton | 1406.1 |
 | 101 | Mount St. Charles (R.I.) | 1399.9 |
 | 102 | East Catholic (Conn.) | 1393.1 |
 | 103 | Gloucester | 1390.3 |
@@ -131,15 +131,15 @@ Generated: 2026-11-03 17:11
 | 113 | Andover | 1340.3 |
 | 114 | Leominster | 1332.8 |
 | 115 | Masconomet | 1328.0 |
-| 116 | Ursuline | 1312.0 |
+| 116 | Ursuline | 1311.9 |
 | 117 | Medford | 1307.3 |
 | 118 | Smithfield (R.I.) | 1305.7 |
 | 119 | Newburyport | 1298.5 |
-| 120 | Wellesley/L-S | 1283.3 |
+| 120 | Wellesley/L-S | 1283.4 |
 | 121 | Lawrence Academy | 1283.1 |
 | 122 | Quincy/North Quincy | 1268.7 |
 | 123 | Newton North | 1249.6 |
-| 124 | Wayland/Weston | 1245.6 |
+| 124 | Wayland/Weston | 1245.5 |
 | 125 | Stoughton | 1230.9 |
 | 126 | Needham | 1209.4 |
 | 127 | Burlington | 1201.1 |
@@ -148,7 +148,7 @@ Generated: 2026-11-03 17:11
 | 130 | Winsor | 1173.5 |
 | 131 | Plymouth | 1169.9 |
 | 132 | Cambridge | 1141.4 |
-| 133 | Norwood | 1134.7 |
+| 133 | Norwood | 1134.6 |
 | 134 | Barnstable | 1114.9 |
 | 135 | Whitman-Hanson/Silver Lake | 1106.0 |
 | 136 | Marblehead | 1071.1 |
@@ -171,7 +171,7 @@ Generated: 2026-11-03 17:11
 | 2 | Archbishop Williams | 2118.6 | 2 |
 | 3 | Notre Dame (Hingham) | 2052.1 | 4 |
 | 4 | Reading | 1960.0 | 7 |
-| 5 | Algonquin | 1955.6 | 8 |
+| 5 | Algonquin | 1955.7 | 8 |
 | 6 | St. Mary’s | 1950.7 | 9 |
 | 7 | Bishop Feehan | 1936.9 | 10 |
 | 8 | Bishop Stang | 1903.5 | 11 |
@@ -185,7 +185,7 @@ Generated: 2026-11-03 17:11
 | 16 | Beverly/Danvers | 1633.6 | 34 |
 | 17 | Acton-Boxboro | 1623.6 | 37 |
 | 18 | Belmont | 1616.1 | 39 |
-| 19 | Natick | 1610.3 | 42 |
+| 19 | Natick | 1610.4 | 42 |
 | 20 | Westford | 1607.9 | 45 |
 | 21 | Brookline | 1607.1 | 46 |
 | 22 | Arlington Catholic | 1605.8 | 47 |
@@ -199,16 +199,16 @@ Generated: 2026-11-03 17:11
 | 30 | Weymouth | 1452.1 | 89 |
 | 31 | Bishop Fenwick | 1440.4 | 93 |
 | 32 | Boston Latin | 1409.4 | 99 |
-| 33 | Hopkinton | 1405.7 | 100 |
+| 33 | Hopkinton | 1406.1 | 100 |
 | 34 | Arlington | 1370.5 | 106 |
 | 35 | Mansfield/OA/Foxboro | 1360.8 | 108 |
 | 36 | Longmeadow | 1345.5 | 110 |
 | 37 | Lexington | 1343.9 | 112 |
 | 38 | Andover | 1340.3 | 113 |
-| 39 | Ursuline | 1312.0 | 116 |
+| 39 | Ursuline | 1311.9 | 116 |
 | 40 | Medford | 1307.3 | 117 |
 | 41 | Newburyport | 1298.5 | 119 |
-| 42 | Wellesley/L-S | 1283.3 | 120 |
+| 42 | Wellesley/L-S | 1283.4 | 120 |
 | 43 | Newton North | 1249.6 | 123 |
 | 44 | Stoughton | 1230.9 | 125 |
 | 45 | Needham | 1209.4 | 126 |
@@ -228,7 +228,7 @@ Generated: 2026-11-03 17:11
 | 4 | Duxbury | 1877.8 | 12 |
 | 5 | Pembroke | 1836.7 | 13 |
 | 6 | NSA | 1755.0 | 21 |
-| 7 | Medfield | 1744.8 | 22 |
+| 7 | Medfield | 1744.7 | 22 |
 | 8 | Auburn | 1710.2 | 25 |
 | 9 | Martha’s Vineyard | 1661.6 | 28 |
 | 10 | Canton | 1652.3 | 30 |
@@ -247,10 +247,10 @@ Generated: 2026-11-03 17:11
 | 23 | Leominster | 1332.8 | 114 |
 | 24 | Masconomet | 1328.0 | 115 |
 | 25 | Quincy/North Quincy | 1268.7 | 122 |
-| 26 | Wayland/Weston | 1245.6 | 124 |
+| 26 | Wayland/Weston | 1245.5 | 124 |
 | 27 | Burlington | 1201.1 | 127 |
 | 28 | Stoneham/Wilmington | 1183.1 | 129 |
-| 29 | Norwood | 1134.7 | 133 |
+| 29 | Norwood | 1134.6 | 133 |
 | 30 | Barnstable | 1114.9 | 134 |
 | 31 | Whitman-Hanson/Silver Lake | 1106.0 | 135 |
 | 32 | Marblehead | 1071.1 | 136 |
@@ -278,7 +278,7 @@ Non-MIAA opponents and teams without a known division.
 | Grafton | 1587.0 | 49 | unknown |
 | Phillips Andover | 1572.8 | 52 | non-member |
 | St. Paul’s | 1568.7 | 53 | non-member |
-| Hopkinton/Dover-Sherborn | 1559.7 | 56 | unknown |
+| Hopkinton/Dover-Sherborn | 1559.5 | 56 | unknown |
 | ADK United | 1553.9 | 57 | non-member |
 | Choate | 1542.9 | 58 | non-member |
 | St. Mark’s | 1542.6 | 59 | non-member |
@@ -286,9 +286,9 @@ Non-MIAA opponents and teams without a known division.
 | Tabor | 1520.7 | 63 | non-member |
 | Deerfield | 1516.6 | 65 | non-member |
 | Taft | 1514.2 | 66 | non-member |
-| Northfield Mt. Hermon | 1501.7 | 67 | non-member |
-| Vermont Academy | 1501.7 | 68 | non-member |
-| Millbrook (N.Y.) | 1501.7 | 69 | non-member |
+| Millbrook (N.Y.) | 1501.7 | 67 | non-member |
+| Northfield Mt. Hermon | 1501.7 | 68 | non-member |
+| Vermont Academy | 1501.7 | 69 | non-member |
 | Dexter Southfield | 1475.1 | 71 | non-member |
 | Glens Falls (N.Y.) | 1474.2 | 73 | non-member |
 | Kents Hill | 1469.5 | 74 | non-member |

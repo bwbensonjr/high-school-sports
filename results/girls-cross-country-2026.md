@@ -1,6 +1,6 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-11-03 17:11
+Generated: 2026-11-04 17:23
 
 ## Upcoming Games
 
@@ -107,8 +107,8 @@ Generated: 2026-11-03 17:11
 | 89 | Hampshire | 1580.9 |
 | 90 | Shrewsbury | 1579.7 |
 | 91 | Wheeler (R.I.) | 1577.4 |
-| 92 | Ayer Shirley | 1576.2 |
-| 93 | Clinton | 1576.2 |
+| 92 | Clinton | 1576.2 |
+| 93 | Ayer Shirley | 1576.2 |
 | 94 | Frontier | 1574.9 |
 | 95 | Old Colony | 1574.0 |
 | 96 | St. Paul | 1566.8 |
@@ -136,14 +136,14 @@ Generated: 2026-11-03 17:11
 | 118 | East Bridgewater | 1517.4 |
 | 119 | Revere | 1509.3 |
 | 120 | Winthrop | 1505.0 |
-| 121 | Notre Dame (Tyngsborough) | 1502.8 |
-| 122 | Wachusett | 1502.8 |
-| 123 | Notre Dame (Worcester) | 1502.8 |
-| 124 | Minnechaug | 1502.8 |
-| 125 | Amherst-Pelham | 1502.8 |
-| 126 | Cape Cod Tech | 1502.8 |
+| 121 | Longmeadow | 1502.8 |
+| 122 | Minnechaug | 1502.8 |
+| 123 | Wachusett | 1502.8 |
+| 124 | Notre Dame (Tyngsborough) | 1502.8 |
+| 125 | Cape Cod Tech | 1502.8 |
+| 126 | Amherst-Pelham | 1502.8 |
 | 127 | Westfield | 1502.8 |
-| 128 | Longmeadow | 1502.8 |
+| 128 | Notre Dame (Worcester) | 1502.8 |
 | 129 | Whittier | 1501.9 |
 | 130 | West Bridgewater | 1499.8 |
 | 131 | Middleborough | 1495.0 |
@@ -176,8 +176,8 @@ Generated: 2026-11-03 17:11
 | 158 | Wayland | 1438.0 |
 | 159 | Burncoat | 1437.4 |
 | 160 | Tahanto | 1431.7 |
-| 161 | Maynard | 1429.4 |
-| 162 | South Lancaster | 1429.4 |
+| 161 | South Lancaster | 1429.4 |
+| 162 | Maynard | 1429.4 |
 | 163 | St. Mark’s | 1427.6 |
 | 164 | Shepherd Hill | 1425.8 |
 | 165 | Douglas | 1424.6 |
@@ -333,7 +333,7 @@ Generated: 2026-11-03 17:11
 | 41 | Beverly | 1540.0 | 109 |
 | 42 | Newton South | 1536.6 | 110 |
 | 43 | Haverhill | 1520.4 | 116 |
-| 44 | Wachusett | 1502.8 | 122 |
+| 44 | Wachusett | 1502.8 | 123 |
 | 45 | Brookline | 1467.8 | 140 |
 | 46 | Algonquin | 1454.9 | 145 |
 | 47 | Chicopee Comprehensive | 1454.7 | 147 |
@@ -408,11 +408,11 @@ Generated: 2026-11-03 17:11
 | 35 | Chicopee | 1550.8 | 103 |
 | 36 | Dover-Sherborn | 1547.9 | 106 |
 | 37 | Revere | 1509.3 | 119 |
-| 38 | Notre Dame (Worcester) | 1502.8 | 123 |
-| 39 | Minnechaug | 1502.8 | 124 |
-| 40 | Amherst-Pelham | 1502.8 | 125 |
+| 38 | Longmeadow | 1502.8 | 121 |
+| 39 | Minnechaug | 1502.8 | 122 |
+| 40 | Amherst-Pelham | 1502.8 | 126 |
 | 41 | Westfield | 1502.8 | 127 |
-| 42 | Longmeadow | 1502.8 | 128 |
+| 42 | Notre Dame (Worcester) | 1502.8 | 128 |
 | 43 | Whittier | 1501.9 | 129 |
 | 44 | Middleborough | 1495.0 | 131 |
 | 45 | Danvers | 1478.6 | 135 |
@@ -425,7 +425,7 @@ Generated: 2026-11-03 17:11
 | 52 | Wakefield | 1440.2 | 157 |
 | 53 | Wayland | 1438.0 | 158 |
 | 54 | Burncoat | 1437.4 | 159 |
-| 55 | South Lancaster | 1429.4 | 162 |
+| 55 | South Lancaster | 1429.4 | 161 |
 | 56 | Shepherd Hill | 1425.8 | 164 |
 | 57 | Tantasqua | 1424.1 | 166 |
 | 58 | Wilmington | 1417.9 | 169 |
@@ -484,8 +484,8 @@ Generated: 2026-11-03 17:11
 | 13 | Tri-County | 1625.8 | 67 |
 | 14 | Seekonk | 1581.3 | 87 |
 | 15 | Hampshire | 1580.9 | 89 |
-| 16 | Ayer Shirley | 1576.2 | 92 |
-| 17 | Clinton | 1576.2 | 93 |
+| 16 | Clinton | 1576.2 | 92 |
+| 17 | Ayer Shirley | 1576.2 | 93 |
 | 18 | Frontier | 1574.9 | 94 |
 | 19 | Old Colony | 1574.0 | 95 |
 | 20 | Parker Charter | 1551.3 | 101 |
@@ -494,8 +494,8 @@ Generated: 2026-11-03 17:11
 | 23 | Amesbury | 1521.6 | 115 |
 | 24 | East Bridgewater | 1517.4 | 118 |
 | 25 | Winthrop | 1505.0 | 120 |
-| 26 | Notre Dame (Tyngsborough) | 1502.8 | 121 |
-| 27 | Cape Cod Tech | 1502.8 | 126 |
+| 26 | Notre Dame (Tyngsborough) | 1502.8 | 124 |
+| 27 | Cape Cod Tech | 1502.8 | 125 |
 | 28 | West Bridgewater | 1499.8 | 130 |
 | 29 | Littleton | 1486.8 | 132 |
 | 30 | Holbrook/Avon | 1482.2 | 134 |
@@ -507,7 +507,7 @@ Generated: 2026-11-03 17:11
 | 36 | Abington | 1446.2 | 155 |
 | 37 | Sizer | 1443.0 | 156 |
 | 38 | Tahanto | 1431.7 | 160 |
-| 39 | Maynard | 1429.4 | 161 |
+| 39 | Maynard | 1429.4 | 162 |
 | 40 | Douglas | 1424.6 | 165 |
 | 41 | Renaissance | 1420.0 | 167 |
 | 42 | Hudson | 1420.0 | 168 |
