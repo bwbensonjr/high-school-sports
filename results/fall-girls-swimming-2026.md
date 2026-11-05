@@ -1,6 +1,6 @@
 # Fall Girls Swimming - 2026 Season
 
-Generated: 2026-11-04 17:23
+Generated: 2026-11-05 17:29
 
 ## Upcoming Games
 
@@ -9,9 +9,8 @@ Generated: 2026-11-04 17:23
 
 ## Recent Games
 
-| Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
-|------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-10-28 | Boston Latin | 93 | Acton-Boxborough | 77 | -12.8 | +16.0 |
+*No games in the last 7 days*
+
 
 ## Current Elo Ratings
 

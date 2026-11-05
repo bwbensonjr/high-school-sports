@@ -1804,12 +1804,13 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-31,155256,FINAL,Frontier,4146,1.0,0.0,East Longmeadow,4127,2.0,1.0,Suburban,Valley League,,,0,,
 2026-11-01,155863,FINAL,Swampscott,4383,0.0,0.0,Gloucester,4150,4.0,1.0,Northeastern,Northeastern,,,0,,
 2026-11-02,155864,FINAL,Blackstone Valley,4046,3.0,1.0,Franklin County Tech,4145,0.0,0.0,CMAC,County,2:30 P.M.,,0,,
-2026-11-04,156282,UPCOMING,Malden Catholic,4228,,,Methuen,4246,,,Catholic Conference,Merrimack Valley,6:00 P.M.,,0,MIAA Division 1,Preliminary
-2026-11-04,156333,UPCOMING,Mansfield,4230,,,Masconomet,4236,,,Hockomock,Northeastern,6:30 P.M.,,0,MIAA Division 2,First round
-2026-11-04,156384,UPCOMING,Grafton,4153,,,Worcester South,4444,,,Mid-Wach,CMAC,2:00 P.M.,,0,MIAA Division 2,Preliminary
-2026-11-04,156486,UPCOMING,Wilmington,4432,,,Franklin County Tech,4145,,,Middlesex,County,6:00 P.M.,,0,MIAA Division 3,Preliminary
-2026-11-04,156582,UPCOMING,Triton,4395,,,Mohawk Trail,4258,,,Cape Ann,Valley League,4:00 P.M.,,0,MIAA Division 4,Preliminary
+2026-11-04,156282,FINAL,Malden Catholic,4228,2.0,1.0,Methuen,4246,1.0,0.0,Catholic Conference,Merrimack Valley,6:00 P.M.,,0,MIAA Division 1,Preliminary
+2026-11-04,156333,FINAL,Mansfield,4230,2.0,1.0,Masconomet,4236,1.0,0.0,Hockomock,Northeastern,6:30 P.M.,,0,MIAA Division 2,First round
+2026-11-04,156384,FINAL,Grafton,4153,7.0,1.0,Worcester South,4444,0.0,0.0,Mid-Wach,CMAC,2:00 P.M.,,0,MIAA Division 2,Preliminary
+2026-11-04,156486,FINAL,Wilmington,4432,2.0,1.0,Franklin County Tech,4145,0.0,0.0,Middlesex,County,6:00 P.M.,,0,MIAA Division 3,Preliminary
+2026-11-04,156582,FINAL,Triton,4395,2.0,1.0,Mohawk Trail,4258,1.0,0.0,Cape Ann,Valley League,4:00 P.M.,,0,MIAA Division 4,Preliminary
 2026-11-04,157141,UPCOMING,Greater Lowell,4155,,,Southeastern,4358,,,Independent,Mayflower,4:30 P.M.,,0,,
+2026-11-04,157169,FINAL,St. Mark’s,4372,3.0,0.0,Thayer,4390,5.0,1.0,ISL,ISL,,,0,,
 2026-11-05,156237,UPCOMING,Beverly,4038,,,Braintree,4051,,,Northeastern,Bay State,4:30 P.M.,,0,MIAA Division 1,First round
 2026-11-05,156240,UPCOMING,Lexington,4209,,,Shrewsbury,4348,,,Middlesex,Mid-Wach,4:30 P.M.,,0,MIAA Division 1,First round
 2026-11-05,156243,UPCOMING,Wellesley,4413,,,Wachusett,4400,,,Bay State,Mid-Wach,6:30 P.M.,,0,MIAA Division 1,First round
@@ -1829,7 +1830,9 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-05,156351,UPCOMING,Reading,4328,,,Bishop Stang,4045,,,Middlesex,Catholic Central,4:00 P.M.,,0,MIAA Division 2,First round
 2026-11-05,156357,UPCOMING,Westwood,4424,,,Marblehead,4231,,,Tri-Valley,Northeastern,6:30 P.M.,,0,MIAA Division 2,First round
 2026-11-05,156366,UPCOMING,Somerset Berkley,4350,,,Wayland,4411,,,South Coast,Dual County,6:00 P.M.,,0,MIAA Division 2,First round
+2026-11-05,156369,UPCOMING,Nashoba,4267,,,Grafton,4153,,,Mid-Wach,Mid-Wach,3:00 P.M.,,0,MIAA Division 2,First round
 2026-11-05,156378,UPCOMING,Agawam,4004,,,West Springfield,4417,,,Suburban,Suburban,5:00 P.M.,,0,MIAA Division 2,Preliminary
+2026-11-05,156381,UPCOMING,Stoughton,4381,,,Shepherd Hill,4347,,,Hockomock,Mid-Wach,4:00 P.M.,,0,MIAA Division 2,Preliminary
 2026-11-05,156435,UPCOMING,Weston,4423,,,Hanover,4164,,,Dual County,Patriot,6:00 P.M.,,0,MIAA Division 3,First round
 2026-11-05,156438,UPCOMING,Ursuline,4448,,,Bellingham,4033,,,Catholic Conference,Tri-Valley,5:00 P.M.,,0,MIAA Division 3,First round
 2026-11-05,156441,UPCOMING,Marlborough,4233,,,Bishop Fenwick,4043,,,Mid-Wach,Catholic Central,4:30 P.M.,,0,MIAA Division 3,First round
@@ -1852,6 +1855,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-05,156573,UPCOMING,Frontier,4146,,,Littleton,4212,,,Suburban,Mid-Wach,2:30 P.M.,,0,MIAA Division 4,First round
 2026-11-05,156576,UPCOMING,Dennis-Yarmouth,4111,,,Amesbury,4007,,,Cape & Islands,Cape Ann,3:30 P.M.,,0,MIAA Division 4,First round
 2026-11-06,156264,UPCOMING,Waltham,4405,,,Woburn,4438,,,Dual County,Middlesex,5:00 P.M.,,0,MIAA Division 1,First round
+2026-11-06,156279,UPCOMING,Lincoln-Sudbury,4211,,,Malden Catholic,4228,,,Dual County,Catholic Conference,2:30 P.M.,,0,MIAA Division 1,First round
 2026-11-06,156354,UPCOMING,Duxbury,4123,,,Silver Lake,4349,,,Patriot,Patriot,4:00 P.M.,,0,MIAA Division 2,First round
 2026-11-06,156534,UPCOMING,Hamilton-Wenham,4163,,,Westport,4461,,,Cape Ann,Mayflower,4:30 P.M.,,0,MIAA Division 4,First round
 2026-11-06,156543,UPCOMING,South Hadley,4353,,,Seekonk,4344,,,Suburban,South Coast,5:00 P.M.,,0,MIAA Division 4,First round
@@ -1862,6 +1866,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-07,156432,UPCOMING,Scituate,4343,,,Nauset,4271,,,Patriot,Cape & Islands,5:00 P.M.,,0,MIAA Division 3,First round
 2026-11-07,156459,UPCOMING,Medway,4243,,,St. Bernard’s,4365,,,Tri-Valley,CMAC,1:00 P.M.,,0,MIAA Division 3,First round
 2026-11-07,156465,UPCOMING,St. Mary’s,4374,,,Lynnfield,4223,,,Catholic Central,Cape Ann,2:00 P.M.,,0,MIAA Division 3,First round
+2026-11-07,156471,UPCOMING,Dover-Sherborn,4118,,,Wilmington,4432,,,Tri-Valley,Middlesex,4:00 P.M.,,0,MIAA Division 3,First round
+2026-11-08,156234,UPCOMING,Brookline,4059,,,Hopkinton,4180,,,Bay State,Tri-Valley,2:00 P.M.,,0,MIAA Division 1,First round
 2026-11-08,156258,UPCOMING,Concord-Carlisle,4097,,,Chelmsford,4085,,,Dual County,Merrimack Valley,2:00 P.M.,,0,MIAA Division 1,First round
 2026-11-08,156444,UPCOMING,Foxborough,4142,,,Apponequet,4011,,,Hockomock,South Coast,10:30 P.M.,,0,MIAA Division 3,First round
 2026-11-08,156450,UPCOMING,Dedham,4108,,,Nantucket,4265,,,Tri-Valley,Cape & Islands,1:00 P.M.,,0,MIAA Division 3,First round

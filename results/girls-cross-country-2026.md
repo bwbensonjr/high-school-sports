@@ -1,6 +1,6 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-11-04 17:23
+Generated: 2026-11-05 17:29
 
 ## Upcoming Games
 
@@ -136,12 +136,12 @@ Generated: 2026-11-04 17:23
 | 118 | East Bridgewater | 1517.4 |
 | 119 | Revere | 1509.3 |
 | 120 | Winthrop | 1505.0 |
-| 121 | Longmeadow | 1502.8 |
-| 122 | Minnechaug | 1502.8 |
+| 121 | Amherst-Pelham | 1502.8 |
+| 122 | Longmeadow | 1502.8 |
 | 123 | Wachusett | 1502.8 |
 | 124 | Notre Dame (Tyngsborough) | 1502.8 |
 | 125 | Cape Cod Tech | 1502.8 |
-| 126 | Amherst-Pelham | 1502.8 |
+| 126 | Minnechaug | 1502.8 |
 | 127 | Westfield | 1502.8 |
 | 128 | Notre Dame (Worcester) | 1502.8 |
 | 129 | Whittier | 1501.9 |
@@ -161,8 +161,8 @@ Generated: 2026-11-04 17:23
 | 143 | Blackstone-Millville | 1457.7 |
 | 144 | Archbishop Williams | 1457.1 |
 | 145 | Algonquin | 1454.9 |
-| 146 | Rivers | 1454.7 |
-| 147 | Chicopee Comprehensive | 1454.7 |
+| 146 | Chicopee Comprehensive | 1454.7 |
+| 147 | Rivers | 1454.7 |
 | 148 | South Shore Voc-Tech | 1452.4 |
 | 149 | Leominster | 1451.1 |
 | 150 | Mystic Valley | 1450.2 |
@@ -336,7 +336,7 @@ Generated: 2026-11-04 17:23
 | 44 | Wachusett | 1502.8 | 123 |
 | 45 | Brookline | 1467.8 | 140 |
 | 46 | Algonquin | 1454.9 | 145 |
-| 47 | Chicopee Comprehensive | 1454.7 | 147 |
+| 47 | Chicopee Comprehensive | 1454.7 | 146 |
 | 48 | Medford | 1446.5 | 154 |
 | 49 | Natick | 1417.9 | 170 |
 | 50 | Bridgewater-Raynham | 1413.4 | 173 |
@@ -408,9 +408,9 @@ Generated: 2026-11-04 17:23
 | 35 | Chicopee | 1550.8 | 103 |
 | 36 | Dover-Sherborn | 1547.9 | 106 |
 | 37 | Revere | 1509.3 | 119 |
-| 38 | Longmeadow | 1502.8 | 121 |
-| 39 | Minnechaug | 1502.8 | 122 |
-| 40 | Amherst-Pelham | 1502.8 | 126 |
+| 38 | Amherst-Pelham | 1502.8 | 121 |
+| 39 | Longmeadow | 1502.8 | 122 |
+| 40 | Minnechaug | 1502.8 | 126 |
 | 41 | Westfield | 1502.8 | 127 |
 | 42 | Notre Dame (Worcester) | 1502.8 | 128 |
 | 43 | Whittier | 1501.9 | 129 |
@@ -565,7 +565,7 @@ Non-MIAA opponents and teams without a known division.
 | Pingree | 1519.7 | 117 | non-member |
 | Tabor | 1484.1 | 133 | non-member |
 | Saugus | 1474.8 | 137 | unknown |
-| Rivers | 1454.7 | 146 | non-member |
+| Rivers | 1454.7 | 147 | non-member |
 | Brooks | 1449.6 | 151 | non-member |
 | Taft | 1446.7 | 153 | non-member |
 | St. Mark’s | 1427.6 | 163 | non-member |

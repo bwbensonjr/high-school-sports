@@ -1260,6 +1260,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-05,155458,UPCOMING,St. Bernard's,4365,,,Easthampton,4130,,,CMAC,Intercounty,6:00 P.M.,,0,MIAA Division 7,First round
 2026-11-05,155539,UPCOMING,Duxbury,4123,,,Nashoba,4267,,,Patriot,Mid-Wach,7:00 P.M.,,0,MIAA Division 4,First round
 2026-11-05,155548,UPCOMING,Scituate,4343,,,Ashland,4015,,,Patriot,Tri-Valley,6:00 P.M.,,0,MIAA Division 4,First round
+2026-11-05,155575,UPCOMING,Old Rochester,4301,,,Bay Path,4027,,,South Coast,CMAC,7:00 P.M.,,0,MIAA Division 6,First round
+2026-11-05,155578,UPCOMING,Fairhaven,4133,,,Joseph Case,4078,,,South Coast,South Coast,6:30 P.M.,,0,MIAA Division 6,First round
 2026-11-05,155581,UPCOMING,Stoneham,4380,,,Winthrop,4437,,,Middlesex,Northeastern,6:30 P.M.,,0,MIAA Division 6,First round
 2026-11-05,155587,UPCOMING,Abington,4002,,,Wilmington,4432,,,South Shore,Middlesex,7:00 P.M.,,0,MIAA Division 6,First round
 2026-11-05,155590,UPCOMING,Hudson,4182,,,Bishop Fenwick,4043,,,Mid-Wach,Catholic Central,6:30 P.M.,,0,MIAA Division 6,First round
@@ -1284,6 +1286,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-05,156088,UPCOMING,Acton-Boxborough,4003,,,Beverly,4038,,,Dual County,Northeastern,7:00 P.M.,,0,,
 2026-11-05,156093,UPCOMING,Salem,4336,,,Dracut,4119,,,Northeastern,Merrimack Valley,6:30 P.M.,,0,,
 2026-11-05,156097,UPCOMING,Triton/Ipswich,4395,,,Weston,4423,,,Cape Ann,Dual County,6:30 P.M.,,0,,
+2026-11-05,156099,UPCOMING,Pentucket/Georgetown,4309,,,English High,4048,,,Cape Ann,Boston City,4:30 P.M.,,0,,
 2026-11-05,156100,UPCOMING,Chelsea,4086,,,Latin Academy,4202,,,Greater Boston,Boston City,6:00 P.M.,,0,,
 2026-11-05,156107,UPCOMING,Minuteman,4255,,,Brighton,4055,,,Commonwealth,Boston City,4:00 P.M.,,0,,
 2026-11-05,156113,UPCOMING,West Springfield,4417,,,Chicopee Comp,4089,,,Suburban,AA,6:00 P.M.,,0,,
@@ -1331,8 +1334,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-06,155542,UPCOMING,Danvers,4103,,,Bedford,4031,,,Northeastern,Dual County,6:30 P.M.,,0,MIAA Division 4,First round
 2026-11-06,155545,UPCOMING,Tewksbury,4389,,,Wakefield,4402,,,Merrimack Valley,Middlesex,7:00 P.M.,,0,MIAA Division 4,First round
 2026-11-06,155572,UPCOMING,Lynnfield,4223,,,Dennis-Yarmouth,4111,,,Cape Ann,Cape & Islands,6:00 P.M.,,0,MIAA Division 6,First round
-2026-11-06,155575,UPCOMING,Old Rochester,4301,,,Bay Path,4027,,,South Coast,CMAC,7:00 P.M.,,0,MIAA Division 6,First round
-2026-11-06,155578,UPCOMING,Fairhaven,4133,,,Joseph Case,4078,,,South Coast,South Coast,6:30 P.M.,,0,MIAA Division 6,First round
 2026-11-06,155593,UPCOMING,Norwell,4296,,,Belchertown,4032,,,South Shore,Intercounty,7:00 P.M.,,0,MIAA Division 6,First round
 2026-11-06,155620,UPCOMING,Hull,4184,,,Oxford,4303,,,South Shore,CMAC,6:30 P.M.,,0,MIAA Division 8,First round
 2026-11-06,155626,UPCOMING,Lynn Tech,4222,,,Franklin County Tech,4145,,,Commonwealth,Intercounty,7:30 P.M.,,0,MIAA Division 8,First round
@@ -1358,7 +1359,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-06,156059,UPCOMING,Somerset Berkley,4350,,,Diman,4115,,,South Coast,Mayflower,6:30 P.M.,,0,,
 2026-11-06,156062,UPCOMING,Bristol-Plymouth,4057,,,Sandwich,4340,,,Mayflower,Cape & Islands,6:00 P.M.,,0,,
 2026-11-06,156063,UPCOMING,Plymouth North,4315,,,Hopkinton,4180,,,Patriot,Tri-Valley,6:00 P.M.,,0,,
-2026-11-06,156065,UPCOMING,Needham,4272,,,Brookline,4059,,,Bay State,Bay State,,,0,,
+2026-11-06,156065,UPCOMING,Needham,4272,,,Brookline,4059,,,Bay State,Bay State,6:00 P.M.,,0,,
 2026-11-06,156070,UPCOMING,Holliston,4174,,,Framingham,4143,,,Tri-Valley,Bay State,6:00 P.M.,,0,,
 2026-11-06,156071,UPCOMING,Newton North,4279,,,Durfee,4122,,,Bay State,Big Three,6:00 P.M.,,0,,
 2026-11-06,156076,UPCOMING,Norwood,4297,,,Wellesley,4413,,,Tri-Valley,Bay State,6:00 P.M.,,0,,
@@ -1366,7 +1367,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-06,156079,UPCOMING,Newton South,4280,,,Belmont,4034,,,Dual County,Middlesex,6:00 P.M.,,0,,
 2026-11-06,156091,UPCOMING,Burlington,4065,,,Marblehead,4231,,,Middlesex,Northeastern,6:00 P.M.,,0,,
 2026-11-06,156095,UPCOMING,Arlington Catholic,4014,,,Saugus,4341,,,Catholic Central,Northeastern,7:00 P.M.,,0,,
-2026-11-06,156099,UPCOMING,Pentucket/Georgetown,4309,,,English High,4048,,,Cape Ann,Boston City,,,0,,
 2026-11-06,156103,UPCOMING,East Boston,4125,,,Hamilton-Wenham,4163,,,Boston City,Cape Ann,6:00 P.M.,,0,,
 2026-11-06,156104,UPCOMING,O'Bryant,4298,,,Lowell Catholic,4217,,,Boston City,Commonwealth,6:30 P.M.,,0,,
 2026-11-06,156110,UPCOMING,Essex Tech,4745,,,Somerville,4351,,,Cape Ann,Greater Boston,5:30 P.M.,,0,,
