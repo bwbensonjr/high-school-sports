@@ -1,6 +1,6 @@
 # Boys Indoor Track - 2026 Season
 
-Generated: 2026-11-06 11:51
+Generated: 2026-11-06 16:50
 
 ## Upcoming Games
 
@@ -59,55 +59,55 @@ Generated: 2026-11-06 11:51
 | 41 | Seekonk | 1522.8 |
 | 42 | King Philip | 1521.2 |
 | 43 | Amesbury | 1505.9 |
-| 44 | Carver | 1501.7 |
-| 45 | Wayland | 1501.7 |
-| 46 | Mashpee | 1501.7 |
-| 47 | Arlington | 1501.7 |
-| 48 | Westford | 1501.7 |
-| 49 | Sandwich | 1501.7 |
-| 50 | Nantucket | 1501.7 |
-| 51 | Stoneham | 1501.7 |
-| 52 | Lynn Classical | 1501.7 |
-| 53 | Essex Tech | 1501.7 |
-| 54 | Chelsea | 1501.7 |
-| 55 | Malden | 1501.7 |
-| 56 | Boston Latin | 1501.7 |
-| 57 | Lincoln-Sudbury | 1501.7 |
-| 58 | Newton South | 1501.7 |
-| 59 | Randolph | 1501.7 |
-| 60 | Reading | 1501.7 |
-| 61 | Waltham | 1501.7 |
-| 62 | Ashland | 1501.7 |
-| 63 | Lexington | 1501.7 |
-| 64 | Melrose | 1501.7 |
-| 65 | Woburn | 1501.7 |
-| 66 | Lynn English | 1501.7 |
-| 67 | Somerville | 1501.7 |
-| 68 | Monomoy | 1501.7 |
-| 69 | Concord-Carlisle | 1501.7 |
-| 70 | Wakefield | 1501.7 |
-| 71 | Weston | 1501.7 |
-| 72 | Belmont | 1501.7 |
-| 73 | North Reading | 1501.7 |
-| 74 | Winchester | 1501.7 |
-| 75 | Cambridge | 1501.7 |
-| 76 | Watertown | 1501.7 |
-| 77 | Hopkinton | 1501.7 |
-| 78 | Medway | 1501.7 |
-| 79 | Westwood | 1501.7 |
-| 80 | Revere | 1501.7 |
-| 81 | Rockland | 1501.7 |
-| 82 | Hull | 1501.7 |
-| 83 | Bellingham | 1501.7 |
-| 84 | Norwell | 1501.7 |
-| 85 | Abington | 1501.7 |
-| 86 | Burlington | 1501.7 |
-| 87 | Bourne | 1501.7 |
-| 88 | Middleborough | 1501.7 |
-| 89 | Dedham | 1501.7 |
-| 90 | Andover | 1501.7 |
-| 91 | Wilmington | 1501.7 |
-| 92 | Bedford | 1501.7 |
+| 44 | Newton South | 1501.7 |
+| 45 | Westwood | 1501.7 |
+| 46 | Wakefield | 1501.7 |
+| 47 | Sandwich | 1501.7 |
+| 48 | Belmont | 1501.7 |
+| 49 | Nantucket | 1501.7 |
+| 50 | North Reading | 1501.7 |
+| 51 | Hull | 1501.7 |
+| 52 | Medway | 1501.7 |
+| 53 | Chelsea | 1501.7 |
+| 54 | Dedham | 1501.7 |
+| 55 | Revere | 1501.7 |
+| 56 | Reading | 1501.7 |
+| 57 | Arlington | 1501.7 |
+| 58 | Lynn English | 1501.7 |
+| 59 | Winchester | 1501.7 |
+| 60 | Norwell | 1501.7 |
+| 61 | Rockland | 1501.7 |
+| 62 | Melrose | 1501.7 |
+| 63 | Watertown | 1501.7 |
+| 64 | Stoneham | 1501.7 |
+| 65 | Carver | 1501.7 |
+| 66 | Lincoln-Sudbury | 1501.7 |
+| 67 | Woburn | 1501.7 |
+| 68 | Burlington | 1501.7 |
+| 69 | Cambridge | 1501.7 |
+| 70 | Boston Latin | 1501.7 |
+| 71 | Bellingham | 1501.7 |
+| 72 | Andover | 1501.7 |
+| 73 | Essex Tech | 1501.7 |
+| 74 | Middleborough | 1501.7 |
+| 75 | Abington | 1501.7 |
+| 76 | Monomoy | 1501.7 |
+| 77 | Wilmington | 1501.7 |
+| 78 | Wayland | 1501.7 |
+| 79 | Bedford | 1501.7 |
+| 80 | Lexington | 1501.7 |
+| 81 | Bourne | 1501.7 |
+| 82 | Lynn Classical | 1501.7 |
+| 83 | Weston | 1501.7 |
+| 84 | Ashland | 1501.7 |
+| 85 | Malden | 1501.7 |
+| 86 | Waltham | 1501.7 |
+| 87 | Hopkinton | 1501.7 |
+| 88 | Mashpee | 1501.7 |
+| 89 | Randolph | 1501.7 |
+| 90 | Concord-Carlisle | 1501.7 |
+| 91 | Somerville | 1501.7 |
+| 92 | Westford | 1501.7 |
 | 93 | Somerset Berkley | 1498.3 |
 | 94 | Nauset | 1485.2 |
 | 95 | Pentucket | 1481.4 |
@@ -171,12 +171,12 @@ Generated: 2026-11-06 11:51
 | 5 | Lowell | 1558.3 | 23 |
 | 6 | Weymouth | 1558.0 | 24 |
 | 7 | Central Catholic | 1524.6 | 40 |
-| 8 | Arlington | 1501.7 | 47 |
-| 9 | Boston Latin | 1501.7 | 56 |
-| 10 | Newton South | 1501.7 | 58 |
-| 11 | Lexington | 1501.7 | 63 |
-| 12 | Cambridge | 1501.7 | 75 |
-| 13 | Andover | 1501.7 | 90 |
+| 8 | Newton South | 1501.7 | 44 |
+| 9 | Arlington | 1501.7 | 57 |
+| 10 | Cambridge | 1501.7 | 69 |
+| 11 | Boston Latin | 1501.7 | 70 |
+| 12 | Andover | 1501.7 | 72 |
+| 13 | Lexington | 1501.7 | 80 |
 | 14 | Braintree | 1464.9 | 103 |
 | 15 | Natick | 1463.0 | 107 |
 | 16 | Taunton | 1398.8 | 130 |
@@ -192,18 +192,18 @@ Generated: 2026-11-06 11:51
 | 3 | Beverly | 1539.3 | 33 |
 | 4 | Diman | 1536.3 | 35 |
 | 5 | King Philip | 1521.2 | 42 |
-| 6 | Westford | 1501.7 | 48 |
-| 7 | Essex Tech | 1501.7 | 53 |
-| 8 | Malden | 1501.7 | 55 |
-| 9 | Lincoln-Sudbury | 1501.7 | 57 |
-| 10 | Waltham | 1501.7 | 61 |
-| 11 | Woburn | 1501.7 | 65 |
-| 12 | Lynn English | 1501.7 | 66 |
-| 13 | Concord-Carlisle | 1501.7 | 69 |
-| 14 | Belmont | 1501.7 | 72 |
-| 15 | Winchester | 1501.7 | 74 |
-| 16 | Hopkinton | 1501.7 | 77 |
-| 17 | Revere | 1501.7 | 80 |
+| 6 | Belmont | 1501.7 | 48 |
+| 7 | Revere | 1501.7 | 55 |
+| 8 | Lynn English | 1501.7 | 58 |
+| 9 | Winchester | 1501.7 | 59 |
+| 10 | Lincoln-Sudbury | 1501.7 | 66 |
+| 11 | Woburn | 1501.7 | 67 |
+| 12 | Essex Tech | 1501.7 | 73 |
+| 13 | Malden | 1501.7 | 85 |
+| 14 | Waltham | 1501.7 | 86 |
+| 15 | Hopkinton | 1501.7 | 87 |
+| 16 | Concord-Carlisle | 1501.7 | 90 |
+| 17 | Westford | 1501.7 | 92 |
 | 18 | Peabody | 1474.1 | 99 |
 | 19 | North Andover | 1464.5 | 104 |
 | 20 | Wellesley | 1464.4 | 105 |
@@ -225,15 +225,15 @@ Generated: 2026-11-06 11:51
 | 8 | Hingham | 1532.2 | 36 |
 | 9 | Latin Academy | 1530.6 | 37 |
 | 10 | Marblehead | 1529.2 | 39 |
-| 11 | Lynn Classical | 1501.7 | 52 |
-| 12 | Chelsea | 1501.7 | 54 |
-| 13 | Reading | 1501.7 | 60 |
-| 14 | Ashland | 1501.7 | 62 |
-| 15 | Melrose | 1501.7 | 64 |
-| 16 | Somerville | 1501.7 | 67 |
-| 17 | Westwood | 1501.7 | 79 |
-| 18 | Burlington | 1501.7 | 86 |
-| 19 | Bedford | 1501.7 | 92 |
+| 11 | Westwood | 1501.7 | 45 |
+| 12 | Chelsea | 1501.7 | 53 |
+| 13 | Reading | 1501.7 | 56 |
+| 14 | Melrose | 1501.7 | 62 |
+| 15 | Burlington | 1501.7 | 68 |
+| 16 | Bedford | 1501.7 | 79 |
+| 17 | Lynn Classical | 1501.7 | 82 |
+| 18 | Ashland | 1501.7 | 84 |
+| 19 | Somerville | 1501.7 | 91 |
 | 20 | Somerset Berkley | 1498.3 | 93 |
 | 21 | Silver Lake | 1465.2 | 102 |
 | 22 | Norwood | 1442.8 | 117 |
@@ -258,12 +258,12 @@ Generated: 2026-11-06 11:51
 | 9 | Gloucester | 1549.7 | 27 |
 | 10 | Newburyport | 1545.6 | 30 |
 | 11 | Norton | 1544.2 | 31 |
-| 12 | Wayland | 1501.7 | 45 |
-| 13 | Wakefield | 1501.7 | 70 |
-| 14 | Weston | 1501.7 | 71 |
-| 15 | Watertown | 1501.7 | 76 |
-| 16 | Middleborough | 1501.7 | 88 |
-| 17 | Dedham | 1501.7 | 89 |
+| 12 | Wakefield | 1501.7 | 46 |
+| 13 | Dedham | 1501.7 | 54 |
+| 14 | Watertown | 1501.7 | 63 |
+| 15 | Middleborough | 1501.7 | 74 |
+| 16 | Wayland | 1501.7 | 78 |
+| 17 | Weston | 1501.7 | 83 |
 | 18 | Nauset | 1485.2 | 94 |
 | 19 | Danvers | 1464.0 | 106 |
 | 20 | Madison Park | 1461.7 | 108 |
@@ -292,21 +292,21 @@ Generated: 2026-11-06 11:51
 | 8 | Ipswich | 1530.2 | 38 |
 | 9 | Seekonk | 1522.8 | 41 |
 | 10 | Amesbury | 1505.9 | 43 |
-| 11 | Carver | 1501.7 | 44 |
-| 12 | Mashpee | 1501.7 | 46 |
-| 13 | Sandwich | 1501.7 | 49 |
-| 14 | Nantucket | 1501.7 | 50 |
-| 15 | Stoneham | 1501.7 | 51 |
-| 16 | Randolph | 1501.7 | 59 |
-| 17 | North Reading | 1501.7 | 73 |
-| 18 | Medway | 1501.7 | 78 |
-| 19 | Rockland | 1501.7 | 81 |
-| 20 | Hull | 1501.7 | 82 |
-| 21 | Bellingham | 1501.7 | 83 |
-| 22 | Norwell | 1501.7 | 84 |
-| 23 | Abington | 1501.7 | 85 |
-| 24 | Bourne | 1501.7 | 87 |
-| 25 | Wilmington | 1501.7 | 91 |
+| 11 | Sandwich | 1501.7 | 47 |
+| 12 | Nantucket | 1501.7 | 49 |
+| 13 | North Reading | 1501.7 | 50 |
+| 14 | Hull | 1501.7 | 51 |
+| 15 | Medway | 1501.7 | 52 |
+| 16 | Norwell | 1501.7 | 60 |
+| 17 | Rockland | 1501.7 | 61 |
+| 18 | Stoneham | 1501.7 | 64 |
+| 19 | Carver | 1501.7 | 65 |
+| 20 | Bellingham | 1501.7 | 71 |
+| 21 | Abington | 1501.7 | 75 |
+| 22 | Wilmington | 1501.7 | 77 |
+| 23 | Bourne | 1501.7 | 81 |
+| 24 | Mashpee | 1501.7 | 88 |
+| 25 | Randolph | 1501.7 | 89 |
 | 26 | Pentucket | 1481.4 | 95 |
 | 27 | Triton | 1477.9 | 96 |
 | 28 | Fairhaven | 1475.9 | 97 |
@@ -329,5 +329,5 @@ Non-MIAA opponents and teams without a known division.
 
 | Team | Elo Rating | Overall Rank | Status |
 |------|------------|--------------|--------|
-| Monomoy | 1501.7 | 68 | unknown |
+| Monomoy | 1501.7 | 76 | unknown |
 | CASH | 1436.3 | 121 | unknown |
