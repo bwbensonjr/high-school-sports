@@ -1,6 +1,6 @@
 # Boys Tennis - 2026 Season
 
-Generated: 2026-11-05 17:29
+Generated: 2026-11-06 11:51
 
 ## Upcoming Games
 
@@ -134,9 +134,9 @@ Generated: 2026-11-05 17:29
 | 116 | Pioneer Valley Christian | 1506.8 |
 | 117 | Chicopee | 1503.1 |
 | 118 | Greater Lowell | 1500.0 |
-| 119 | Fellowship Christian | 1500.0 |
-| 120 | Greater Lawrence | 1500.0 |
-| 121 | Pittsfield | 1500.0 |
+| 119 | Greater Lawrence | 1500.0 |
+| 120 | Pittsfield | 1500.0 |
+| 121 | Fellowship Christian | 1500.0 |
 | 122 | Franklin | 1494.0 |
 | 123 | Diman | 1493.7 |
 | 124 | Millbury | 1487.6 |
@@ -292,7 +292,7 @@ Generated: 2026-11-05 17:29
 | 28 | Wachusett | 1537.3 | 106 |
 | 29 | Brookline | 1528.5 | 109 |
 | 30 | Beverly | 1514.0 | 112 |
-| 31 | Greater Lawrence | 1500.0 | 120 |
+| 31 | Greater Lawrence | 1500.0 | 119 |
 | 32 | Franklin | 1494.0 | 122 |
 | 33 | Diman | 1493.7 | 123 |
 | 34 | Plymouth North | 1430.0 | 145 |
@@ -410,7 +410,7 @@ Generated: 2026-11-05 17:29
 | 30 | Monomoy | 1514.0 | 113 |
 | 31 | Pioneer Valley Christian | 1506.8 | 116 |
 | 32 | Chicopee | 1503.1 | 117 |
-| 33 | Pittsfield | 1500.0 | 121 |
+| 33 | Pittsfield | 1500.0 | 120 |
 | 34 | Lynnfield | 1460.7 | 129 |
 | 35 | Turners Falls | 1458.8 | 131 |
 | 36 | Amherst-Pelham | 1452.1 | 135 |
@@ -509,7 +509,7 @@ Non-MIAA opponents and teams without a known division.
 | Cushing | 1530.7 | 107 | non-member |
 | Worcester Academy | 1507.8 | 115 | non-member |
 | Greater Lowell | 1500.0 | 118 | unknown |
-| Fellowship Christian | 1500.0 | 119 | non-member |
+| Fellowship Christian | 1500.0 | 121 | non-member |
 | Austin Prep | 1476.8 | 125 | non-member |
 | Beaver Country Day | 1468.8 | 127 | non-member |
 | Governor’s Academy | 1455.4 | 132 | non-member |

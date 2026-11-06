@@ -1,6 +1,6 @@
 # Softball - 2026 Season
 
-Generated: 2026-11-05 17:29
+Generated: 2026-11-06 11:51
 
 ## Upcoming Games
 
@@ -186,10 +186,10 @@ Generated: 2026-11-05 17:29
 | 168 | Sturgis | 1502.8 |
 | 169 | Westfield Tech/St. Mary (Westfield) | 1502.7 |
 | 170 | Tiverton (R.I.) | 1500.0 |
-| 171 | Woodward | 1500.0 |
-| 172 | Prospect Hill | 1500.0 |
+| 171 | Prospect Hill | 1500.0 |
+| 172 | Dover-Sherborn | 1500.0 |
 | 173 | St. John Paul II | 1500.0 |
-| 174 | Dover-Sherborn | 1500.0 |
+| 174 | Woodward | 1500.0 |
 | 175 | Mt. Greylock | 1499.1 |
 | 176 | Ayer Shirley | 1498.5 |
 | 177 | Greenfield | 1497.6 |
@@ -542,7 +542,7 @@ Generated: 2026-11-05 17:29
 | 32 | Medfield | 1536.4 | 140 |
 | 33 | Nipmuc | 1532.9 | 143 |
 | 34 | Belchertown | 1516.6 | 152 |
-| 35 | Dover-Sherborn | 1500.0 | 174 |
+| 35 | Dover-Sherborn | 1500.0 | 172 |
 | 36 | Groton-Dunstable | 1496.1 | 178 |
 | 37 | Notre Dame Academy-Worcester | 1495.5 | 181 |
 | 38 | Pembroke | 1485.9 | 191 |
@@ -744,8 +744,8 @@ Non-MIAA opponents and teams without a known division.
 | Londonderry (N.H.) | 1513.6 | 160 | non-member |
 | Austin Prep | 1507.3 | 166 | non-member |
 | Tiverton (R.I.) | 1500.0 | 170 | non-member |
-| Woodward | 1500.0 | 171 | non-member |
-| Prospect Hill | 1500.0 | 172 | unknown |
+| Prospect Hill | 1500.0 | 171 | unknown |
+| Woodward | 1500.0 | 174 | non-member |
 | Choate | 1491.8 | 184 | non-member |
 | Mount St. Charles (R.I.) | 1489.0 | 187 | non-member |
 | Mount Anthony (Vt.) | 1488.6 | 188 | non-member |
