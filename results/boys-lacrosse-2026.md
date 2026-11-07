@@ -1,6 +1,6 @@
 # Boys Lacrosse - 2026 Season
 
-Generated: 2026-11-06 16:50
+Generated: 2026-11-07 15:47
 
 ## Upcoming Games
 
@@ -156,8 +156,8 @@ Generated: 2026-11-06 16:50
 | 138 | Melrose | 1503.4 |
 | 139 | St. Anthony’s (N.Y.) | 1500.0 |
 | 140 | Everett | 1500.0 |
-| 141 | Bourne | 1500.0 |
-| 142 | Mashpee | 1500.0 |
+| 141 | Mashpee | 1500.0 |
+| 142 | Bourne | 1500.0 |
 | 143 | Latin Academy | 1500.0 |
 | 144 | Bancroft | 1499.6 |
 | 145 | Wilmington | 1496.2 |
@@ -500,8 +500,8 @@ Generated: 2026-11-06 16:50
 | 14 | East Bridgewater | 1561.6 | 113 |
 | 15 | Sandwich | 1561.3 | 115 |
 | 16 | Hoosac Valley | 1554.6 | 117 |
-| 17 | Bourne | 1500.0 | 141 |
-| 18 | Mashpee | 1500.0 | 142 |
+| 17 | Mashpee | 1500.0 | 141 |
+| 18 | Bourne | 1500.0 | 142 |
 | 19 | Nipmuc | 1485.8 | 148 |
 | 20 | Littleton | 1477.2 | 155 |
 | 21 | South Hadley | 1475.9 | 156 |

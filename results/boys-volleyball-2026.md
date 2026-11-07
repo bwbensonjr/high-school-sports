@@ -1,6 +1,6 @@
 # Boys Volleyball - 2026 Season
 
-Generated: 2026-11-06 16:50
+Generated: 2026-11-07 15:47
 
 ## Upcoming Games
 
@@ -87,8 +87,8 @@ Generated: 2026-11-06 16:50
 | 69 | University Park/Claremont | 1510.5 |
 | 70 | Leominster | 1508.4 |
 | 71 | Springfield Central | 1508.3 |
-| 72 | Phillips Andover | 1500.0 |
-| 73 | Walpole | 1500.0 |
+| 72 | Walpole | 1500.0 |
+| 73 | Phillips Andover | 1500.0 |
 | 74 | Milton | 1498.1 |
 | 75 | Dracut | 1496.8 |
 | 76 | La Salle (R.I.) | 1488.6 |
@@ -276,7 +276,7 @@ Generated: 2026-11-06 16:50
 | 27 | Ware | 1522.1 | 66 |
 | 28 | KIPP | 1514.4 | 68 |
 | 29 | University Park/Claremont | 1510.5 | 69 |
-| 30 | Walpole | 1500.0 | 73 |
+| 30 | Walpole | 1500.0 | 72 |
 | 31 | Dracut | 1496.8 | 75 |
 | 32 | Collegiate Charter | 1480.2 | 77 |
 | 33 | Pioneer Charter I | 1467.0 | 79 |
@@ -330,7 +330,7 @@ Non-MIAA opponents and teams without a known division.
 |------|------------|--------------|--------|
 | Shrewsbury | 1695.7 | 30 | unknown |
 | Tolman (R.I.) | 1562.1 | 53 | non-member |
-| Phillips Andover | 1500.0 | 72 | non-member |
+| Phillips Andover | 1500.0 | 73 | non-member |
 | La Salle (R.I.) | 1488.6 | 76 | non-member |
 | Southeastern | 1240.0 | 133 | unknown |
 | Georgetown | 1048.3 | 146 | unknown |
