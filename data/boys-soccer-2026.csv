@@ -2731,8 +2731,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-07,157533,FINAL,Nauset,4271,2.0,1.0,Gloucester,4150,1.0,0.0,Cape & Islands,Northeastern,3:00 P.M.,,0,MIAA Division 3,Preliminary
 2026-11-07,157632,FINAL,Ipswich,4190,3.0,1.0,Oxford,4303,0.0,0.0,Cape Ann,CMAC,10:30 A.M.,,0,MIAA Division 4,Preliminary
 2026-11-07,157638,FINAL,Hamilton-Wenham,4163,1.0,0.0,Southwick,4519,2.0,1.0,Cape Ann,Holley,3:00 P.M.,,0,MIAA Division 4,Preliminary
-2026-11-07,157641,UPCOMING,Bay Path,4027,,,Westfield Tech,4420,,,CMAC,Bi-County,5:00 P.M.,,0,MIAA Division 4,Preliminary
-2026-11-07,157644,UPCOMING,Millbury,4250,,,Springfield International,4480,,,CMAC,Schmid,6:00 P.M.,,0,MIAA Division 4,Preliminary
+2026-11-07,157641,FINAL,Bay Path,4027,3.0,1.0,Westfield Tech,4420,1.0,0.0,CMAC,Bi-County,5:00 P.M.,,0,MIAA Division 4,Preliminary
+2026-11-07,157644,FINAL,Millbury,4250,2.0,1.0,Springfield International,4480,1.0,0.0,CMAC,Schmid,6:00 P.M.,,0,MIAA Division 4,Preliminary
 2026-11-07,157647,FINAL,Westport,4461,6.0,1.0,Brooke Charter,5071,0.0,0.0,Mayflower,Charter School Athletic,11:00 A.M.,,0,MIAA Division 4,Preliminary
 2026-11-07,157650,FINAL,O’Bryant,4298,1.0,1.0,St. Bernard’s,4365,0.0,0.0,Boston City,CMAC,2:00 P.M.,,0,MIAA Division 4,Preliminary
 2026-11-07,157653,FINAL,Sturgis West,4735,5.0,1.0,Athol,4017,2.0,0.0,Cape & Islands,Schmid,3:00 P.M.,,0,MIAA Division 4,Preliminary
@@ -2789,11 +2789,14 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-09,157584,UPCOMING,Carver,4077,,,Tyngsborough,4397,,,South Shore,Mid-Wach,4:00 P.M.,,0,MIAA Division 4,First round
 2026-11-09,157587,UPCOMING,South Hadley,4353,,,Mt. Greylock,4262,,,Moriarty,Churchill,4:30 P.M.,,0,MIAA Division 4,First round
 2026-11-09,157590,UPCOMING,Frontier,4146,,,Excel Academy,4969,,,Moriarty,Charter School Athletic,6:00 P.M.,,0,MIAA Division 4,First round
+2026-11-09,157596,UPCOMING,Abington,4002,,,Millbury,4250,,,South Shore,CMAC,6:00 P.M.,,0,MIAA Division 4,First round
 2026-11-09,157605,UPCOMING,Rockland,4331,,,Wahconah,4401,,,South Shore,Moriarty,4:00 P.M.,,0,MIAA Division 4,First round
 2026-11-09,157608,UPCOMING,Monomoy,4706,,,Sturgis West,4735,,,Cape & Islands,Cape & Islands,,,0,MIAA Division 4,First round
 2026-11-09,157611,UPCOMING,Littleton,4212,,,O’Bryant,4298,,,Mid-Wach,Boston City,4:00 P.M.,,0,MIAA Division 4,First round
 2026-11-09,157614,UPCOMING,Clinton,4093,,,Westport,4461,,,Mid-Wach,Mayflower,6:00 P.M.,,0,MIAA Division 4,First round
+2026-11-09,157620,UPCOMING,Sutton,4512,,,Bay Path,4027,,,CMAC,CMAC,6:30 P.M.,,0,MIAA Division 4,First round
 2026-11-09,157623,UPCOMING,Monument Mtn.,4260,,,Southwick,4519,,,Churchill,Holley,5:00 P.M.,,0,MIAA Division 4,First round
+2026-11-09,157629,UPCOMING,Cohasset,4094,,,Ipswich,4190,,,South Shore,Cape Ann,6:00 P.M.,,0,MIAA Division 4,First round
 2026-11-09,157710,UPCOMING,Holbrook,4172,,,TechBoston,4117,,,Mayflower,Boston City,4:00 P.M.,,0,MIAA Division 5,First round
 2026-11-09,157713,UPCOMING,Fenway,4492,,,McCann Tech,4240,,,Boston City,Bi-County,4:00 P.M.,,0,MIAA Division 5,First round
 2026-11-09,157716,UPCOMING,Franklin County Tech,4145,,,Old Colony,4300,,,Tri-County,Mayflower,5:00 P.M.,,0,MIAA Division 5,First round
@@ -2808,6 +2811,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-09,157749,UPCOMING,Keefe Tech,4191,,,Drury,4120,,,CMAC,Bi-County,2:00 P.M.,,0,MIAA Division 5,First round
 2026-11-09,157752,UPCOMING,Dearborn STEM,5016,,,New Mission,4494,,,Boston City,Boston City,4:00 P.M.,,0,MIAA Division 5,First round
 2026-11-09,157755,UPCOMING,Hopedale,4507,,,Hopkins,4531,,,CMAC,Schmid,2:00 P.M.,,0,MIAA Division 5,First round
+2026-11-10,157242,UPCOMING,Catholic Memorial,4080,,,Waltham,4405,,,Catholic Conference,Dual County,,,0,MIAA Division 1,First round
 2026-11-10,157269,UPCOMING,Concord-Carlisle,4097,,,Beverly,4038,,,Dual County,Northeastern,4:00 P.M.,,0,MIAA Division 1,First round
 2026-11-10,157467,UPCOMING,East Boston,4125,,,Martha’s Vineyard,4235,,,Boston City,Cape & Islands,4:00 P.M.,,0,MIAA Division 3,First round
 2026-11-10,157476,UPCOMING,Weston,4423,,,Nauset,4271,,,Dual County,Cape & Islands,6:00 P.M.,,0,MIAA Division 3,First round

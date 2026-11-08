@@ -15,9 +15,9 @@ Andover,2033.615046646954,4009,13,1,assigned,7
 Reading,2021.9038150043039,4328,14,2,assigned,2
 Westford,2013.3412774343562,4421,15,1,assigned,8
 Westborough,2009.0820090428995,4418,16,1,assigned,9
-BB&N,1998.223137845058,4028,17,,non-member,
-Wellesley,1997.1111015014753,4413,18,1,assigned,10
-Canton,1992.9016627652436,4071,19,2,assigned,3
+Canton,2004.3241550950013,4071,17,2,assigned,3
+BB&N,1998.223137845058,4028,18,,non-member,
+Wellesley,1997.1111015014753,4413,19,1,assigned,10
 Melrose,1984.1918603034592,4244,20,2,assigned,4
 Bishop Feehan,1980.7090379760657,4042,21,1,assigned,11
 Calvary Chapel,1969.9327916782734,4828,22,5,assigned,1
@@ -122,13 +122,13 @@ Silver Lake,1592.0105412510193,4349,120,2,assigned,26
 North Reading,1591.0014874055123,4288,121,3,assigned,22
 Dennis-Yarmouth,1590.7830037178753,4111,122,3,assigned,23
 Christian Heritage,1590.671077907484,4641,123,,non-member,
-Notre Dame (Hingham),1589.9486301723068,4449,124,2,assigned,27
-North Andover,1587.9510424983123,4283,125,1,assigned,30
-Canterbury,1587.4786762947929,4070,126,,non-member,
-Dracut,1586.22168126145,4119,127,3,assigned,24
-Norwell,1585.3568316971168,4296,128,3,assigned,25
-Minnechaug,1583.0142236754195,4254,129,2,assigned,28
-Shawsheen,1581.6770629523278,4346,130,3,assigned,26
+North Andover,1587.9510424983123,4283,124,1,assigned,30
+Canterbury,1587.4786762947929,4070,125,,non-member,
+Dracut,1586.22168126145,4119,126,3,assigned,24
+Norwell,1585.3568316971168,4296,127,3,assigned,25
+Minnechaug,1583.0142236754195,4254,128,2,assigned,27
+Shawsheen,1581.6770629523278,4346,129,3,assigned,26
+Notre Dame (Hingham),1578.5261378425491,4449,130,2,assigned,28
 Chicopee Comp,1574.648122593059,4089,131,2,assigned,29
 Arlington,1572.5173729109245,4013,132,1,assigned,31
 Danvers,1570.9404733341953,4103,133,3,assigned,27
@@ -172,11 +172,11 @@ Amherst-Pelham,1509.8969197574202,4008,170,2,assigned,35
 Rivers,1509.0618533375618,4330,171,,non-member,
 Hampden Charter West,1506.0958835510419,4985,172,5,assigned,25
 Putnam,1505.353191670806,4362,173,2,assigned,36
-Northfield Mt. Hermon,1502.7555,4294,174,,non-member,
+Trinity Christian,1502.7555,4801,174,,non-member,
 Dublin,1502.7555,4121,175,,non-member,
-Trinity Christian,1502.7555,4801,176,,non-member,
-Fellowship Christian,1502.7555,4454,177,,non-member,
-South Shore Christian,1502.7555,4489,178,,non-member,
+Fellowship Christian,1502.7555,4454,176,,non-member,
+South Shore Christian,1502.7555,4489,177,,non-member,
+Northfield Mt. Hermon,1502.7555,4294,178,,non-member,
 Taconic,1501.9284002185611,4385,179,3,assigned,31
 St. Paul,1498.553840859507,4954,180,4,assigned,21
 Pacific Rim Charter,1494.3060717858932,4478,181,5,assigned,26
@@ -207,8 +207,8 @@ Greenwich Academy (Conn.),1475.2059259779578,4159,205,,non-member,
 South Boston,1473.984821679185,4352,206,5,assigned,33
 Winchendon,1473.4250062057442,4433,207,,non-member,
 Nantucket,1471.7096700069396,4265,208,3,assigned,33
-Gann Academy,1470.7536920819232,4541,209,,non-member,
-Hotchkiss,1470.7536920819232,4181,210,,non-member,
+Hotchkiss,1470.7536920819232,4181,209,,non-member,
+Gann Academy,1470.7536920819232,4541,210,,non-member,
 Barrington (R.I.),1469.5421679887572,4025,211,,non-member,
 Doherty,1466.5275794472288,4116,212,2,assigned,38
 Newton Country Day,1466.4356337633067,4278,213,,non-member,

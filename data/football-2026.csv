@@ -1338,7 +1338,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-06,155593,FINAL,Norwell,4296,50.0,1.0,Belchertown,4032,6.0,0.0,South Shore,Intercounty,7:00 P.M.,,0,MIAA Division 6,First round
 2026-11-06,155620,FINAL,Hull,4184,6.0,0.0,Oxford,4303,8.0,1.0,South Shore,CMAC,6:30 P.M.,,0,MIAA Division 8,First round
 2026-11-06,155626,FINAL,Lynn Tech,4222,38.0,1.0,Franklin County Tech,4145,32.0,0.0,Commonwealth,Intercounty,7:30 P.M.,,0,MIAA Division 8,First round
-2026-11-06,155629,FINAL,Cape Cod Tech,4073,28.0,1.0,Bartlett,4026,26.0,0.0,Mayflower,CMAC,6:00 P.M.,,0,MIAA Division 8,First round
+2026-11-06,155629,FINAL,Cape Cod Tech,4073,28.0,1.0,Bartlett,4026,26.0,0.0,Mayflower,CMAC,6:00 P.M.,1.0,0,MIAA Division 8,First round
 2026-11-06,155632,FINAL,Nashoba Valley Tech,4268,60.0,1.0,Springfield International,4480,6.0,0.0,Commonwealth,Independent,7:00 P.M.,,0,MIAA Division 8,First round
 2026-11-06,155635,FINAL,Randolph,4327,46.0,1.0,Cathedral,4079,6.0,0.0,South Shore,Catholic Central,6:00 P.M.,,0,MIAA Division 8,First round
 2026-11-06,155638,FINAL,Lee,4206,46.0,1.0,Ware,4406,16.0,0.0,Intercounty,Intercounty,7:00 P.M.,,0,MIAA Division 8,First round
@@ -1375,19 +1375,19 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-07,150803,FINAL,Lawrence Academy,4204,28.0,1.0,Belmont Hill,4035,16.0,0.0,NEPSAC Class C,NEPSAC Class B,1:00 P.M.,,0,,
 2026-11-07,150806,FINAL,Middlesex,4248,30.0,1.0,Groton,4544,6.0,0.0,NEPSAC Class C,NEPSAC Class C,1:45 P.M.,,0,,
 2026-11-07,150809,FINAL,Milton Academy,4253,12.0,1.0,Trinity-Pawling,4394,7.0,0.0,NEPSAC Class B,NEPSAC Class B,2:00 P.M.,,0,,
-2026-11-07,150811,UPCOMING,Governor’s Academy,4152,,,Rivers,4330,,,NEPSAC Class C,NEPSAC Class C,2:00 P.M.,,0,,
+2026-11-07,150811,FINAL,Governor’s Academy,4152,6.0,0.0,Rivers,4330,17.0,1.0,NEPSAC Class C,NEPSAC Class C,2:00 P.M.,,0,,
 2026-11-07,150813,FINAL,BB&N,4028,48.0,1.0,St. Paul’s,4375,0.0,0.0,NEPSAC Class B,NEPSAC Class B,3:30 P.M.,,0,,
-2026-11-07,151620,UPCOMING,Portsmouth Abbey,4320,,,Pingree,4312,,,NEPSAC Class C,NEPSAC Class C,3:00 P.M.,,0,,
-2026-11-07,151628,UPCOMING,Canterbury,4070,,,Austin Prep,4020,,,NEPSAC Class C,NEPSAC Class C,3:00 P.M.,,0,,
+2026-11-07,151620,FINAL,Portsmouth Abbey,4320,16.0,0.0,Pingree,4312,22.0,1.0,NEPSAC Class C,NEPSAC Class C,3:00 P.M.,,0,,
+2026-11-07,151628,FINAL,Canterbury,4070,48.0,1.0,Austin Prep,4020,0.0,0.0,NEPSAC Class C,NEPSAC Class C,3:00 P.M.,,0,,
 2026-11-07,151645,FINAL,Dexter Southfield,4113,24.0,1.0,Choate,4090,20.0,0.0,NEPSAC Class A,NEPSAC Class A,3:30 P.M.,,0,,
 2026-11-07,151659,FINAL,Cheshire Academy,4087,24.0,1.0,Phillips Andover,4310,0.0,0.0,NEPSAC Class A,NEPSAC Class A,5:00 P.M.,,0,,
 2026-11-07,155356,FINAL,Barnstable,4024,21.0,1.0,Minnechaug,4254,6.0,0.0,Pioneer,AA,2:00 P.M.,,0,MIAA Division 3,First round
-2026-11-07,155584,LIVE,Bellingham,4033,14.0,,Medway,4243,14.0,,Tri-Valley,Tri-Valley,7:00 P.M.,,0,MIAA Division 6,First round
+2026-11-07,155584,FINAL,Bellingham,4033,17.0,1.0,Medway,4243,14.0,0.0,Tri-Valley,Tri-Valley,7:00 P.M.,,0,MIAA Division 6,First round
 2026-11-07,155623,FINAL,Blackstone-Millville,4486,28.0,1.0,Keefe Tech,4191,22.0,0.0,CMAC,CMAC,12:00 P.M.,,0,MIAA Division 8,First round
-2026-11-07,156014,UPCOMING,Nipmuc/Hopedale,4281,,,Marlborough,4233,,,CMAC,Mid-Wach,11:00 A.M.,,0,,
+2026-11-07,156014,FINAL,Nipmuc/Hopedale,4281,12.0,0.0,Marlborough,4233,35.0,1.0,CMAC,Mid-Wach,11:00 A.M.,,0,,
 2026-11-07,156047,FINAL,Martha’s Vineyard,4235,14.0,0.0,Old Colony,4300,38.0,1.0,Cape & Islands,Mayflower,1:30 P.M.,,0,,
 2026-11-07,156054,FINAL,South Shore Voc-Tech,4356,28.0,1.0,Nantucket,4265,26.0,0.0,Mayflower,Cape & Islands,12:00 P.M.,,0,,
-2026-11-07,156117,UPCOMING,Hoosac Valley,4178,,,Monument Mtn.,4260,,,Intercounty,Tri-County,11:00 A.M.,,0,,
+2026-11-07,156117,FINAL,Hoosac Valley,4178,26.0,1.0,Monument Mtn.,4260,8.0,0.0,Intercounty,Tri-County,11:00 A.M.,,0,,
 2026-11-07,158400,FINAL,Williston Northampton,4431,31.0,1.0,Salisbury (Conn.),4339,7.0,0.0,NEPSAC Class A,NEPSAC Class A,,,0,,
 2026-11-07,158403,FINAL,Hamden Hall Country Day,4162,18.0,0.0,Greenwich (Conn.),4738,30.0,1.0,NEPSAC Class C,Independent,,,0,,
 2026-11-12,155299,UPCOMING,St. John’s (Shrewsbury),4368,,,Haverhill,4167,,,Catholic Conference,Merrimack Valley,6:00 P.M.,,0,MIAA Division 1,Quarterfinals

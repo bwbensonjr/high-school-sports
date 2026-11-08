@@ -2240,7 +2240,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-06,157115,FINAL,Calvary Chapel,4828,3.0,1.0,Salem Academy,4604,0.0,0.0,Independent,Charter School Athletic,5:30 P.M.,,0,MIAA Division 5,First round
 2026-11-06,157124,FINAL,Cape Cod Tech,4073,3.0,1.0,Abby Kelley Foster,4503,2.0,0.0,Mayflower,CMAC,4:00 P.M.,,0,MIAA Division 5,Preliminary
 2026-11-07,156674,FINAL,Central Catholic,4081,3.0,1.0,Arlington,4013,0.0,0.0,Merrimack Valley,Middlesex,4:00 P.M.,,0,MIAA Division 1,First round
-2026-11-07,156746,UPCOMING,Canton,4071,,,Notre Dame (Hingham),4449,,,Hockomock,Catholic Conference,7:00 P.M.,,0,MIAA Division 2,First round
+2026-11-07,156746,FINAL,Canton,4071,3.0,1.0,Notre Dame (Hingham),4449,0.0,0.0,Hockomock,Catholic Conference,7:00 P.M.,,0,MIAA Division 2,First round
 2026-11-07,156773,FINAL,Reading,4328,3.0,1.0,Somerville,4351,0.0,0.0,Middlesex,Greater Boston,11:00 A.M.,,0,MIAA Division 2,First round
 2026-11-07,156776,FINAL,Oliver Ames,4302,3.0,1.0,Chicopee Comp,4089,0.0,0.0,Hockomock,Western,11:00 A.M.,,0,MIAA Division 2,First round
 2026-11-07,156842,FINAL,Lynn Classical,4220,3.0,1.0,North Reading,4288,1.0,0.0,Greater Boston,Cape Ann,3:00 P.M.,,0,MIAA Division 3,First round
@@ -2257,6 +2257,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-07,158395,FINAL,Mount St. Charles (R.I.),4488,3.0,1.0,Austin Prep,4020,1.0,0.0,Independent,Independent,,,0,,
 2026-11-08,156809,UPCOMING,Pembroke,4308,,,Fontbonne,4447,,,Patriot,Catholic Conference,2:00 P.M.,,0,MIAA Division 3,Second round
 2026-11-09,156617,UPCOMING,Chelmsford,4085,,,Newton South,4280,,,Merrimack Valley,Dual County,6:30 P.M.,,0,MIAA Division 1,Second round
+2026-11-09,156707,UPCOMING,Woburn,4438,,,Longmeadow,4214,,,Middlesex,Eastern,6:00 P.M.,,0,MIAA Division 2,Second round
 2026-11-09,156812,UPCOMING,East Longmeadow,4127,,,Groton-Dunstable,4160,,,Southern,Mid-Wach,6:00 P.M.,,0,MIAA Division 3,Second round
 2026-11-09,156824,UPCOMING,Lynnfield,4223,,,Notre Dame Academy-Worcester,4451,,,Cape Ann,CMAC,4:30 P.M.,,0,MIAA Division 3,Second round
 2026-11-09,156947,UPCOMING,Nipmuc,4281,,,Ipswich,4190,,,CMAC,Cape Ann,6:30 P.M.,,0,MIAA Division 4,Second round
@@ -2265,14 +2266,20 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-09,157121,UPCOMING,Pioneer Valley Christian,4535,,,Cape Cod Tech,4073,,,Metro,Mayflower,5:00 P.M.,,0,MIAA Division 5,First round
 2026-11-10,156605,UPCOMING,Wellesley,4413,,,Needham,4272,,,Bay State,Bay State,4:30 P.M.,,0,MIAA Division 1,Second round
 2026-11-10,156608,UPCOMING,Newton North,4279,,,Westford,4421,,,Bay State,Dual County,4:30 P.M.,,0,MIAA Division 1,Second round
+2026-11-10,156614,UPCOMING,Franklin,4144,,,Natick,4270,,,Hockomock,Bay State,6:00 P.M.,,0,MIAA Division 1,Second round
+2026-11-10,156620,UPCOMING,Winchester,4434,,,Shrewsbury,4348,,,Middlesex,Mid-Wach,6:00 P.M.,,0,MIAA Division 1,Second round
 2026-11-10,156623,UPCOMING,Brookline,4059,,,Lincoln-Sudbury,4211,,,Bay State,Dual County,5:15 P.M.,,0,MIAA Division 1,Second round
+2026-11-10,156626,UPCOMING,Central Catholic,4081,,,Westborough,4418,,,Merrimack Valley,Mid-Wach,6:00 P.M.,,0,MIAA Division 1,Second round
 2026-11-10,156710,UPCOMING,Duxbury,4123,,,Essex Tech,4745,,,Patriot,Cape Ann,5:00 P.M.,,0,MIAA Division 2,Second round
 2026-11-10,156719,UPCOMING,Hingham,4171,,,Burlington,4065,,,Patriot,Middlesex,6:00 P.M.,,0,MIAA Division 2,Second round
 2026-11-10,156722,UPCOMING,Melrose,4244,,,Dartmouth,4105,,,Middlesex,Pioneer,6:00 P.M.,,0,MIAA Division 2,Second round
 2026-11-10,156818,UPCOMING,Newburyport,4276,,,Blackstone Valley,4046,,,Cape Ann,CMAC,5:00 P.M.,,0,MIAA Division 3,Second round
+2026-11-10,156821,UPCOMING,Joseph Case,4078,,,Lynn Classical,4220,,,South Coast,Greater Boston,6:00 P.M.,,0,MIAA Division 3,Second round
+2026-11-10,156827,UPCOMING,Old Rochester,4301,,,Hanover,4164,,,South Coast,Patriot,6:00 P.M.,,0,MIAA Division 3,Second round
 2026-11-10,156944,UPCOMING,Sandwich,4340,,,Carver,4077,,,Cape & Islands,South Shore,5:00 P.M.,,0,MIAA Division 4,Second round
 2026-11-10,156950,UPCOMING,Mt. Greylock,4262,,,South Shore Voc-Tech,4356,,,Southern,Mayflower,5:00 P.M.,,0,MIAA Division 4,Second round
 2026-11-10,156953,UPCOMING,Greater Lawrence,4154,,,Tri-County,4392,,,Commonwealth,Mayflower,4:00 P.M.,,0,MIAA Division 4,Second round
+2026-11-10,156956,UPCOMING,Cohasset,4094,,,Millbury,4250,,,South Shore,CMAC,5:30 P.M.,,0,MIAA Division 4,Second round
 2026-11-10,156959,UPCOMING,Ursuline,4448,,,Rockland,4331,,,Catholic Conference,South Shore,5:00 P.M.,,0,MIAA Division 4,Second round
 2026-11-10,157055,UPCOMING,Old Colony,4300,,,Holbrook,4172,,,Mayflower,Mayflower,5:00 P.M.,,0,MIAA Division 5,Second round
 2026-11-10,157058,UPCOMING,New Mission,4494,,,Upper Cape,4457,,,Boston City,Mayflower,4:00 P.M.,,0,MIAA Division 5,Second round
@@ -2281,4 +2288,5 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-10,157070,UPCOMING,Lenox,4532,,,Pioneer Charter II,4964,,,Southern,Charter School Athletic,5:30 P.M.,,0,MIAA Division 5,Second round
 2026-11-11,156611,UPCOMING,Andover,4009,,,Bishop Feehan,4042,,,Merrimack Valley,Independent,5:00 P.M.,,0,MIAA Division 1,Second round
 2026-11-11,156716,UPCOMING,Barnstable,4024,,,Norwood,4297,,,Pioneer,Tri-Valley,12:00 P.M.,,0,MIAA Division 2,Second round
+2026-11-11,156725,UPCOMING,Reading,4328,,,Milton,4252,,,Middlesex,Bay State,5:00 P.M.,,0,MIAA Division 2,Second round
 2026-11-11,156830,UPCOMING,Bellingham,4033,,,Medfield,4241,,,Tri-Valley,Tri-Valley,6:00 P.M.,,0,MIAA Division 3,Second round

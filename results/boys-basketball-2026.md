@@ -1,6 +1,6 @@
 # Boys Basketball - 2026 Season
 
-Generated: 2026-11-08 02:23
+Generated: 2026-11-08 11:52
 
 ## Upcoming Games
 
@@ -240,12 +240,12 @@ Generated: 2026-11-08 02:23
 | 222 | Frederick Gunn (Conn.) | 1502.1 |
 | 223 | Southbridge | 1502.0 |
 | 224 | Hopkins | 1501.7 |
-| 225 | Waring | 1501.7 |
-| 226 | International School | 1501.7 |
-| 227 | Ruth Batson Academy | 1501.7 |
-| 228 | North Haven (Conn.) | 1501.7 |
-| 229 | Marie Philip | 1501.7 |
-| 230 | Bishop Connolly | 1501.7 |
+| 225 | Ruth Batson Academy | 1501.7 |
+| 226 | North Haven (Conn.) | 1501.7 |
+| 227 | International School | 1501.7 |
+| 228 | Waring | 1501.7 |
+| 229 | Bishop Connolly | 1501.7 |
+| 230 | Marie Philip | 1501.7 |
 | 231 | Pelham (N.H.) | 1501.5 |
 | 232 | Chicopee | 1501.1 |
 | 233 | South Shore Voc-Tech | 1501.1 |
@@ -753,7 +753,7 @@ Generated: 2026-11-08 02:23
 | 32 | Uxbridge | 1514.7 | 205 |
 | 33 | Mashpee | 1505.7 | 215 |
 | 34 | Blackstone-Millville | 1504.7 | 219 |
-| 35 | Ruth Batson Academy | 1501.7 | 227 |
+| 35 | Ruth Batson Academy | 1501.7 | 225 |
 | 36 | South Shore Voc-Tech | 1501.1 | 233 |
 | 37 | St. Bernard’s | 1490.8 | 246 |
 | 38 | Smith Voc. | 1486.4 | 256 |
@@ -931,11 +931,11 @@ Non-MIAA opponents and teams without a known division.
 | Mt. Hope (R.I.) | 1504.7 | 218 | non-member |
 | N.Y. Military Academy | 1502.5 | 221 | non-member |
 | Frederick Gunn (Conn.) | 1502.1 | 222 | non-member |
-| Waring | 1501.7 | 225 | non-member |
-| International School | 1501.7 | 226 | non-member |
-| North Haven (Conn.) | 1501.7 | 228 | non-member |
-| Marie Philip | 1501.7 | 229 | non-member |
-| Bishop Connolly | 1501.7 | 230 | non-member |
+| North Haven (Conn.) | 1501.7 | 226 | non-member |
+| International School | 1501.7 | 227 | non-member |
+| Waring | 1501.7 | 228 | non-member |
+| Bishop Connolly | 1501.7 | 229 | non-member |
+| Marie Philip | 1501.7 | 230 | non-member |
 | Pelham (N.H.) | 1501.5 | 231 | non-member |
 | Kimball Union | 1498.2 | 236 | non-member |
 | Brooks | 1496.1 | 238 | non-member |
