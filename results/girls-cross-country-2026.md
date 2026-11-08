@@ -1,6 +1,6 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-11-07 15:47
+Generated: 2026-11-08 02:23
 
 ## Upcoming Games
 
@@ -136,14 +136,14 @@ Generated: 2026-11-07 15:47
 | 118 | East Bridgewater | 1517.4 |
 | 119 | Revere | 1509.3 |
 | 120 | Winthrop | 1505.0 |
-| 121 | Amherst-Pelham | 1502.8 |
-| 122 | Westfield | 1502.8 |
-| 123 | Longmeadow | 1502.8 |
-| 124 | Wachusett | 1502.8 |
-| 125 | Minnechaug | 1502.8 |
-| 126 | Cape Cod Tech | 1502.8 |
-| 127 | Notre Dame (Worcester) | 1502.8 |
-| 128 | Notre Dame (Tyngsborough) | 1502.8 |
+| 121 | Notre Dame (Tyngsborough) | 1502.8 |
+| 122 | Minnechaug | 1502.8 |
+| 123 | Cape Cod Tech | 1502.8 |
+| 124 | Longmeadow | 1502.8 |
+| 125 | Amherst-Pelham | 1502.8 |
+| 126 | Notre Dame (Worcester) | 1502.8 |
+| 127 | Westfield | 1502.8 |
+| 128 | Wachusett | 1502.8 |
 | 129 | Whittier | 1501.9 |
 | 130 | West Bridgewater | 1499.8 |
 | 131 | Middleborough | 1495.0 |
@@ -182,8 +182,8 @@ Generated: 2026-11-07 15:47
 | 164 | Shepherd Hill | 1425.8 |
 | 165 | Douglas | 1424.6 |
 | 166 | Tantasqua | 1424.1 |
-| 167 | Hudson | 1420.0 |
-| 168 | Renaissance | 1420.0 |
+| 167 | Renaissance | 1420.0 |
+| 168 | Hudson | 1420.0 |
 | 169 | Wilmington | 1417.9 |
 | 170 | Natick | 1417.9 |
 | 171 | Shawsheen | 1417.1 |
@@ -333,7 +333,7 @@ Generated: 2026-11-07 15:47
 | 41 | Beverly | 1540.0 | 109 |
 | 42 | Newton South | 1536.6 | 110 |
 | 43 | Haverhill | 1520.4 | 116 |
-| 44 | Wachusett | 1502.8 | 124 |
+| 44 | Wachusett | 1502.8 | 128 |
 | 45 | Brookline | 1467.8 | 140 |
 | 46 | Algonquin | 1454.9 | 145 |
 | 47 | Chicopee Comprehensive | 1454.7 | 147 |
@@ -408,11 +408,11 @@ Generated: 2026-11-07 15:47
 | 35 | Chicopee | 1550.8 | 103 |
 | 36 | Dover-Sherborn | 1547.9 | 106 |
 | 37 | Revere | 1509.3 | 119 |
-| 38 | Amherst-Pelham | 1502.8 | 121 |
-| 39 | Westfield | 1502.8 | 122 |
-| 40 | Longmeadow | 1502.8 | 123 |
-| 41 | Minnechaug | 1502.8 | 125 |
-| 42 | Notre Dame (Worcester) | 1502.8 | 127 |
+| 38 | Minnechaug | 1502.8 | 122 |
+| 39 | Longmeadow | 1502.8 | 124 |
+| 40 | Amherst-Pelham | 1502.8 | 125 |
+| 41 | Notre Dame (Worcester) | 1502.8 | 126 |
+| 42 | Westfield | 1502.8 | 127 |
 | 43 | Whittier | 1501.9 | 129 |
 | 44 | Middleborough | 1495.0 | 131 |
 | 45 | Danvers | 1478.6 | 135 |
@@ -494,8 +494,8 @@ Generated: 2026-11-07 15:47
 | 23 | Amesbury | 1521.6 | 115 |
 | 24 | East Bridgewater | 1517.4 | 118 |
 | 25 | Winthrop | 1505.0 | 120 |
-| 26 | Cape Cod Tech | 1502.8 | 126 |
-| 27 | Notre Dame (Tyngsborough) | 1502.8 | 128 |
+| 26 | Notre Dame (Tyngsborough) | 1502.8 | 121 |
+| 27 | Cape Cod Tech | 1502.8 | 123 |
 | 28 | West Bridgewater | 1499.8 | 130 |
 | 29 | Littleton | 1486.8 | 132 |
 | 30 | Holbrook/Avon | 1482.2 | 134 |
@@ -509,8 +509,8 @@ Generated: 2026-11-07 15:47
 | 38 | Tahanto | 1431.7 | 160 |
 | 39 | Maynard | 1429.4 | 162 |
 | 40 | Douglas | 1424.6 | 165 |
-| 41 | Hudson | 1420.0 | 167 |
-| 42 | Renaissance | 1420.0 | 168 |
+| 41 | Renaissance | 1420.0 | 167 |
+| 42 | Hudson | 1420.0 | 168 |
 | 43 | Carver | 1413.4 | 172 |
 | 44 | Sutton | 1411.1 | 175 |
 | 45 | Dennis-Yarmouth | 1410.0 | 177 |
