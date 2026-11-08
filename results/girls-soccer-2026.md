@@ -1,6 +1,6 @@
 # Girls Soccer - 2026 Season
 
-Generated: 2026-11-08 11:52
+Generated: 2026-11-08 16:06
 
 ## Upcoming Games
 
@@ -408,20 +408,20 @@ Generated: 2026-11-08 11:52
 | 197 | Brooks | 1506.1 |
 | 198 | Tantasqua | 1505.7 |
 | 199 | Excel Academy | 1504.8 |
-| 200 | Pioneer Valley Chinese Immersion | 1501.7 |
-| 201 | South Shore Christian | 1501.7 |
-| 202 | Poughkeepsie Day (N.Y.) | 1501.7 |
-| 203 | KIPP | 1501.7 |
-| 204 | La Salle (R.I.) | 1501.7 |
-| 205 | Bridgton Academy | 1501.7 |
-| 206 | Boston Prep | 1501.7 |
-| 207 | Housatonic Regional (Conn.) | 1501.7 |
-| 208 | Newman School | 1501.7 |
-| 209 | Neighborhood House Charter | 1501.7 |
-| 210 | Barrington (R.I.) | 1501.7 |
+| 200 | Housatonic Regional (Conn.) | 1501.7 |
+| 201 | Boston Prep | 1501.7 |
+| 202 | Kingswood-Oxford | 1501.7 |
+| 203 | Barrington (R.I.) | 1501.7 |
+| 204 | Newman School | 1501.7 |
+| 205 | KIPP | 1501.7 |
+| 206 | Poughkeepsie Day (N.Y.) | 1501.7 |
+| 207 | Taft | 1501.7 |
+| 208 | Pioneer Valley Chinese Immersion | 1501.7 |
+| 209 | Bridgton Academy | 1501.7 |
+| 210 | La Salle (R.I.) | 1501.7 |
 | 211 | Kent | 1501.7 |
-| 212 | Taft | 1501.7 |
-| 213 | Kingswood-Oxford | 1501.7 |
+| 212 | South Shore Christian | 1501.7 |
+| 213 | Neighborhood House Charter | 1501.7 |
 | 214 | Boston Collegiate | 1500.5 |
 | 215 | Beaver Country Day | 1499.4 |
 | 216 | St. Paul’s | 1499.3 |
@@ -950,10 +950,10 @@ Generated: 2026-11-08 11:52
 | 17 | David Prouty | 1517.7 | 187 |
 | 18 | Gateway | 1515.3 | 189 |
 | 19 | Pioneer Valley Regional | 1513.1 | 191 |
-| 20 | Pioneer Valley Chinese Immersion | 1501.7 | 200 |
-| 21 | KIPP | 1501.7 | 203 |
-| 22 | Boston Prep | 1501.7 | 206 |
-| 23 | Neighborhood House Charter | 1501.7 | 209 |
+| 20 | Boston Prep | 1501.7 | 201 |
+| 21 | KIPP | 1501.7 | 205 |
+| 22 | Pioneer Valley Chinese Immersion | 1501.7 | 208 |
+| 23 | Neighborhood House Charter | 1501.7 | 213 |
 | 24 | Boston Collegiate | 1500.5 | 214 |
 | 25 | Mahar | 1496.4 | 219 |
 | 26 | Rising Tide Charter | 1481.6 | 235 |
@@ -1038,16 +1038,16 @@ Non-MIAA opponents and teams without a known division.
 | New Hampton | 1520.5 | 186 | non-member |
 | Holland (Burke) | 1507.6 | 195 | unknown |
 | Brooks | 1506.1 | 197 | non-member |
-| South Shore Christian | 1501.7 | 201 | non-member |
-| Poughkeepsie Day (N.Y.) | 1501.7 | 202 | non-member |
-| La Salle (R.I.) | 1501.7 | 204 | non-member |
-| Bridgton Academy | 1501.7 | 205 | non-member |
-| Housatonic Regional (Conn.) | 1501.7 | 207 | non-member |
-| Newman School | 1501.7 | 208 | non-member |
-| Barrington (R.I.) | 1501.7 | 210 | non-member |
+| Housatonic Regional (Conn.) | 1501.7 | 200 | non-member |
+| Kingswood-Oxford | 1501.7 | 202 | non-member |
+| Barrington (R.I.) | 1501.7 | 203 | non-member |
+| Newman School | 1501.7 | 204 | non-member |
+| Poughkeepsie Day (N.Y.) | 1501.7 | 206 | non-member |
+| Taft | 1501.7 | 207 | non-member |
+| Bridgton Academy | 1501.7 | 209 | non-member |
+| La Salle (R.I.) | 1501.7 | 210 | non-member |
 | Kent | 1501.7 | 211 | non-member |
-| Taft | 1501.7 | 212 | non-member |
-| Kingswood-Oxford | 1501.7 | 213 | non-member |
+| South Shore Christian | 1501.7 | 212 | non-member |
 | Beaver Country Day | 1499.4 | 215 | non-member |
 | St. Paul’s | 1499.3 | 216 | non-member |
 | Hope (R.I.) | 1496.4 | 220 | non-member |

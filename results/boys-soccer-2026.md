@@ -1,6 +1,6 @@
 # Boys Soccer - 2026 Season
 
-Generated: 2026-11-08 11:52
+Generated: 2026-11-08 16:06
 
 ## Upcoming Games
 
@@ -432,9 +432,9 @@ Generated: 2026-11-08 11:52
 | 211 | Salem | 1505.3 |
 | 212 | Worcester Academy | 1504.5 |
 | 213 | Phillips Exeter | 1504.1 |
-| 214 | Newton Country Day | 1502.8 |
+| 214 | Xavier (Conn.) | 1502.8 |
 | 215 | Greater Lowell Tech | 1502.8 |
-| 216 | Xavier (Conn.) | 1502.8 |
+| 216 | Newton Country Day | 1502.8 |
 | 217 | South Shore Christian | 1502.8 |
 | 218 | Lenox | 1501.7 |
 | 219 | Choate | 1499.4 |
@@ -1064,9 +1064,9 @@ Non-MIAA opponents and teams without a known division.
 | Darrow | 1506.9 | 208 | non-member |
 | Worcester Academy | 1504.5 | 212 | non-member |
 | Phillips Exeter | 1504.1 | 213 | non-member |
-| Newton Country Day | 1502.8 | 214 | non-member |
+| Xavier (Conn.) | 1502.8 | 214 | non-member |
 | Greater Lowell Tech | 1502.8 | 215 | unknown |
-| Xavier (Conn.) | 1502.8 | 216 | non-member |
+| Newton Country Day | 1502.8 | 216 | non-member |
 | South Shore Christian | 1502.8 | 217 | non-member |
 | Choate | 1499.4 | 219 | non-member |
 | Rivers | 1497.3 | 222 | non-member |

@@ -1,6 +1,6 @@
 # Girls Basketball - 2026 Season
 
-Generated: 2026-11-08 11:52
+Generated: 2026-11-08 16:06
 
 ## Upcoming Games
 
@@ -212,8 +212,8 @@ Generated: 2026-11-08 11:52
 | 194 | Loomis Chaffee (Conn.) | 1504.6 |
 | 195 | Middleborough | 1503.2 |
 | 196 | Ware | 1501.7 |
-| 197 | TechBoston/Henderson Inclusion School | 1501.7 |
-| 198 | Gann Academy | 1501.7 |
+| 197 | Gann Academy | 1501.7 |
+| 198 | TechBoston/Henderson Inclusion School | 1501.7 |
 | 199 | Trivium | 1501.7 |
 | 200 | Ethel Walker | 1500.7 |
 | 201 | Lexington Christian | 1497.6 |
@@ -711,7 +711,7 @@ Generated: 2026-11-08 11:52
 | 34 | Nantucket | 1529.4 | 183 |
 | 35 | Monument Mtn. | 1526.4 | 186 |
 | 36 | Mashpee | 1523.7 | 188 |
-| 37 | TechBoston/Henderson Inclusion School | 1501.7 | 197 |
+| 37 | TechBoston/Henderson Inclusion School | 1501.7 | 198 |
 | 38 | Lynn Tech | 1494.1 | 207 |
 | 39 | Clinton | 1491.6 | 208 |
 | 40 | Immaculate Heart of Mary | 1470.1 | 227 |
@@ -875,7 +875,7 @@ Non-MIAA opponents and teams without a known division.
 | St. Mark’s | 1518.8 | 191 | non-member |
 | St. Thomas More | 1505.6 | 193 | non-member |
 | Loomis Chaffee (Conn.) | 1504.6 | 194 | non-member |
-| Gann Academy | 1501.7 | 198 | non-member |
+| Gann Academy | 1501.7 | 197 | non-member |
 | Ethel Walker | 1500.7 | 200 | non-member |
 | Lexington Christian | 1497.6 | 201 | non-member |
 | Bristol Central (Conn.) | 1496.4 | 204 | non-member |
