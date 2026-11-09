@@ -119,14 +119,14 @@ Pingree,1519.7341177480434,4312,117,,non-member,
 East Bridgewater,1517.4448170250023,4126,118,3,assigned,24
 Revere,1509.2545007857232,4329,119,2,assigned,37
 Winthrop,1504.961191738236,4437,120,3,assigned,25
-Notre Dame (Tyngsborough),1502.7555,4540,121,3,assigned,26
-Longmeadow,1502.7555,4214,122,2,assigned,38
-Cape Cod Tech,1502.7555,4073,123,3,assigned,27
-Wachusett,1502.7555,4400,124,1,assigned,44
-Notre Dame (Worcester),1502.7555,4451,125,2,assigned,39
-Minnechaug,1502.7555,4254,126,2,assigned,40
-Westfield,1502.7555,4419,127,2,assigned,41
-Amherst-Pelham,1502.7555,4008,128,2,assigned,42
+Amherst-Pelham,1502.7555,4008,121,2,assigned,38
+Longmeadow,1502.7555,4214,122,2,assigned,39
+Notre Dame (Worcester),1502.7555,4451,123,2,assigned,40
+Notre Dame (Tyngsborough),1502.7555,4540,124,3,assigned,26
+Cape Cod Tech,1502.7555,4073,125,3,assigned,27
+Wachusett,1502.7555,4400,126,1,assigned,44
+Minnechaug,1502.7555,4254,127,2,assigned,41
+Westfield,1502.7555,4419,128,2,assigned,42
 Whittier,1501.9043253769328,4428,129,2,assigned,43
 West Bridgewater,1499.8385810500524,4415,130,3,assigned,28
 Middleborough,1494.9666836851836,4247,131,2,assigned,44
@@ -159,8 +159,8 @@ Wakefield,1440.1705290213526,4402,157,2,assigned,52
 Wayland,1437.9687811966821,4411,158,2,assigned,53
 Burncoat,1437.35971184912,4066,159,2,assigned,54
 Tahanto,1431.7317345438066,4513,160,3,assigned,38
-South Lancaster,1429.3512817825101,4484,161,2,assigned,55
-Maynard,1429.3512817825101,4239,162,3,assigned,39
+Maynard,1429.3512817825101,4239,161,3,assigned,39
+South Lancaster,1429.3512817825101,4484,162,2,assigned,55
 St. Mark’s,1427.614230487164,4372,163,,non-member,
 Shepherd Hill,1425.812096485014,4347,164,2,assigned,56
 Douglas,1424.6377997960365,4506,165,3,assigned,40

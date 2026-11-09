@@ -1,6 +1,6 @@
 # Boys Swimming - 2026 Season
 
-Generated: 2026-11-08 16:06
+Generated: 2026-11-09 19:56
 
 ## Upcoming Games
 
@@ -40,8 +40,8 @@ Generated: 2026-11-08 16:06
 | 22 | Duxbury | 1543.7 |
 | 23 | Belmont | 1542.6 |
 | 24 | North Attleborough | 1539.8 |
-| 25 | Wayland | 1537.2 |
-| 26 | Marblehead | 1537.2 |
+| 25 | Marblehead | 1537.2 |
+| 26 | Wayland | 1537.2 |
 | 27 | Weston | 1533.0 |
 | 28 | Bridgewater-Raynham | 1531.4 |
 | 29 | Natick | 1528.1 |
@@ -139,8 +139,8 @@ Generated: 2026-11-08 16:06
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Wayland | 1537.2 | 25 |
-| 2 | Marblehead | 1537.2 | 26 |
+| 1 | Marblehead | 1537.2 | 25 |
+| 2 | Wayland | 1537.2 | 26 |
 | 3 | Weston | 1533.0 | 27 |
 | 4 | Swampscott | 1462.8 | 50 |
 | 5 | Melrose | 1449.5 | 56 |

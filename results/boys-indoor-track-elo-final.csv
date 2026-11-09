@@ -42,55 +42,55 @@ Central Catholic,1524.5773088457775,4081,40,1,assigned,7
 Seekonk,1522.844681615947,4344,41,5,assigned,9
 King Philip,1521.1632342626629,4197,42,2,assigned,5
 Amesbury,1505.9391096939491,4007,43,5,assigned,10
-Sandwich,1501.65,4340,44,5,assigned,11
-Wilmington,1501.65,4432,45,5,assigned,12
-Bellingham,1501.65,4033,46,5,assigned,13
-Andover,1501.65,4009,47,1,assigned,8
-Monomoy,1501.65,4706,48,,unknown,
-Woburn,1501.65,4438,49,2,assigned,6
-Cambridge,1501.65,4067,50,1,assigned,9
-Lincoln-Sudbury,1501.65,4211,51,2,assigned,7
-Arlington,1501.65,4013,52,1,assigned,10
-Middleborough,1501.65,4247,53,4,assigned,12
-Dedham,1501.65,4108,54,4,assigned,13
-Bedford,1501.65,4031,55,3,assigned,11
-Chelsea,1501.65,4086,56,3,assigned,12
-Malden,1501.65,4227,57,2,assigned,8
-Boston Latin,1501.65,4049,58,1,assigned,11
-Bourne,1501.65,4050,59,5,assigned,14
-Winchester,1501.65,4434,60,2,assigned,9
-Westwood,1501.65,4424,61,3,assigned,13
-Weston,1501.65,4423,62,4,assigned,14
-Westford,1501.65,4421,63,2,assigned,10
-Newton South,1501.65,4280,64,1,assigned,12
-North Reading,1501.65,4288,65,5,assigned,15
-Lexington,1501.65,4209,66,1,assigned,13
-Lynn Classical,1501.65,4220,67,3,assigned,14
-Lynn English,1501.65,4221,68,2,assigned,11
-Mashpee,1501.65,4237,69,5,assigned,16
-Ashland,1501.65,4015,70,3,assigned,15
-Carver,1501.65,4077,71,5,assigned,17
-Rockland,1501.65,4331,72,5,assigned,18
-Wayland,1501.65,4411,73,4,assigned,15
-Waltham,1501.65,4405,74,2,assigned,12
-Burlington,1501.65,4065,75,3,assigned,16
-Revere,1501.65,4329,76,2,assigned,13
-Wakefield,1501.65,4402,77,4,assigned,16
-Watertown,1501.65,4409,78,4,assigned,17
-Essex Tech,1501.65,4745,79,2,assigned,14
-Abington,1501.65,4002,80,5,assigned,19
-Belmont,1501.65,4034,81,2,assigned,15
-Norwell,1501.65,4296,82,5,assigned,20
-Melrose,1501.65,4244,83,3,assigned,17
-Randolph,1501.65,4327,84,5,assigned,21
-Reading,1501.65,4328,85,3,assigned,18
-Hopkinton,1501.65,4180,86,2,assigned,16
-Somerville,1501.65,4351,87,3,assigned,19
-Nantucket,1501.65,4265,88,5,assigned,22
-Stoneham,1501.65,4380,89,5,assigned,23
-Concord-Carlisle,1501.65,4097,90,2,assigned,17
-Medway,1501.65,4243,91,5,assigned,24
-Hull,1501.65,4184,92,5,assigned,25
+Reading,1501.65,4328,44,3,assigned,11
+Belmont,1501.65,4034,45,2,assigned,6
+Medway,1501.65,4243,46,5,assigned,11
+Lynn English,1501.65,4221,47,2,assigned,7
+Middleborough,1501.65,4247,48,4,assigned,12
+Ashland,1501.65,4015,49,3,assigned,12
+Revere,1501.65,4329,50,2,assigned,8
+Randolph,1501.65,4327,51,5,assigned,12
+Dedham,1501.65,4108,52,4,assigned,13
+Stoneham,1501.65,4380,53,5,assigned,13
+Carver,1501.65,4077,54,5,assigned,14
+Hull,1501.65,4184,55,5,assigned,15
+Sandwich,1501.65,4340,56,5,assigned,16
+Cambridge,1501.65,4067,57,1,assigned,8
+Monomoy,1501.65,4706,58,,unknown,
+Weston,1501.65,4423,59,4,assigned,14
+Waltham,1501.65,4405,60,2,assigned,9
+Hopkinton,1501.65,4180,61,2,assigned,10
+Norwell,1501.65,4296,62,5,assigned,17
+Malden,1501.65,4227,63,2,assigned,11
+Bourne,1501.65,4050,64,5,assigned,18
+Rockland,1501.65,4331,65,5,assigned,19
+Nantucket,1501.65,4265,66,5,assigned,20
+Winchester,1501.65,4434,67,2,assigned,12
+Bellingham,1501.65,4033,68,5,assigned,21
+Newton South,1501.65,4280,69,1,assigned,9
+Lincoln-Sudbury,1501.65,4211,70,2,assigned,13
+North Reading,1501.65,4288,71,5,assigned,22
+Wilmington,1501.65,4432,72,5,assigned,23
+Lexington,1501.65,4209,73,1,assigned,10
+Woburn,1501.65,4438,74,2,assigned,14
+Mashpee,1501.65,4237,75,5,assigned,24
+Bedford,1501.65,4031,76,3,assigned,13
+Chelsea,1501.65,4086,77,3,assigned,14
+Boston Latin,1501.65,4049,78,1,assigned,11
+Watertown,1501.65,4409,79,4,assigned,15
+Arlington,1501.65,4013,80,1,assigned,12
+Andover,1501.65,4009,81,1,assigned,13
+Concord-Carlisle,1501.65,4097,82,2,assigned,15
+Essex Tech,1501.65,4745,83,2,assigned,16
+Wakefield,1501.65,4402,84,4,assigned,16
+Melrose,1501.65,4244,85,3,assigned,15
+Abington,1501.65,4002,86,5,assigned,25
+Westford,1501.65,4421,87,2,assigned,17
+Lynn Classical,1501.65,4220,88,3,assigned,16
+Westwood,1501.65,4424,89,3,assigned,17
+Burlington,1501.65,4065,90,3,assigned,18
+Wayland,1501.65,4411,91,4,assigned,17
+Somerville,1501.65,4351,92,3,assigned,19
 Somerset Berkley,1498.343857493282,4350,93,3,assigned,20
 Nauset,1485.1845615012053,4271,94,4,assigned,18
 Pentucket,1481.3996209876088,4309,95,5,assigned,26

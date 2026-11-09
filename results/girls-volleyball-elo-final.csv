@@ -26,11 +26,11 @@ Hingham,1956.1917647626697,4171,24,2,assigned,6
 New Mission,1902.6870232908002,4494,25,5,assigned,2
 Shrewsbury,1899.8025852857588,4348,26,1,assigned,12
 Old Colony,1893.8733796342992,4300,27,5,assigned,3
-Newburyport,1888.2103894578604,4276,28,3,assigned,5
-Newton South,1886.2079006887657,4280,29,1,assigned,13
-Nipmuc,1879.5243146693347,4281,30,4,assigned,2
-Needham,1872.3376568289614,4272,31,1,assigned,14
-Pembroke,1870.121231465201,4308,32,3,assigned,6
+Pembroke,1888.8096535418522,4308,28,3,assigned,5
+Newburyport,1888.2103894578604,4276,29,3,assigned,6
+Newton South,1886.2079006887657,4280,30,1,assigned,13
+Nipmuc,1879.5243146693347,4281,31,4,assigned,2
+Needham,1872.3376568289614,4272,32,1,assigned,14
 Lincoln-Sudbury,1867.875157084282,4211,33,1,assigned,15
 Norwood,1867.3804266556026,4297,34,2,assigned,7
 Natick,1852.8211818154398,4270,35,1,assigned,16
@@ -112,16 +112,16 @@ Tabor,1612.844722525263,4384,110,,non-member,
 Medway,1612.8393725868716,4243,111,3,assigned,19
 Somerville,1610.804752558089,4351,112,2,assigned,24
 Salem,1608.1250380089484,4336,113,3,assigned,20
-Fontbonne,1607.2960576738026,4447,114,3,assigned,21
-Millbury,1605.6056586267212,4250,115,4,assigned,14
-Holliston,1604.6300669730695,4174,116,2,assigned,25
-Covenant Christian,1601.941281964441,4629,117,,non-member,
-Prospect Hill,1600.1397684288404,4593,118,5,assigned,20
-Franklin County Tech,1597.7810599800243,4145,119,5,assigned,21
-Silver Lake,1592.0105412510193,4349,120,2,assigned,26
-North Reading,1591.0014874055123,4288,121,3,assigned,22
-Dennis-Yarmouth,1590.7830037178753,4111,122,3,assigned,23
-Christian Heritage,1590.671077907484,4641,123,,non-member,
+Millbury,1605.6056586267212,4250,114,4,assigned,14
+Holliston,1604.6300669730695,4174,115,2,assigned,25
+Covenant Christian,1601.941281964441,4629,116,,non-member,
+Prospect Hill,1600.1397684288404,4593,117,5,assigned,20
+Franklin County Tech,1597.7810599800243,4145,118,5,assigned,21
+Silver Lake,1592.0105412510193,4349,119,2,assigned,26
+North Reading,1591.0014874055123,4288,120,3,assigned,21
+Dennis-Yarmouth,1590.7830037178753,4111,121,3,assigned,22
+Christian Heritage,1590.671077907484,4641,122,,non-member,
+Fontbonne,1588.6076355971513,4447,123,3,assigned,23
 North Andover,1587.9510424983123,4283,124,1,assigned,30
 Canterbury,1587.4786762947929,4070,125,,non-member,
 Dracut,1586.22168126145,4119,126,3,assigned,24
@@ -172,11 +172,11 @@ Amherst-Pelham,1509.8969197574202,4008,170,2,assigned,35
 Rivers,1509.0618533375618,4330,171,,non-member,
 Hampden Charter West,1506.0958835510419,4985,172,5,assigned,25
 Putnam,1505.353191670806,4362,173,2,assigned,36
-Dublin,1502.7555,4121,174,,non-member,
-Trinity Christian,1502.7555,4801,175,,non-member,
-Fellowship Christian,1502.7555,4454,176,,non-member,
-Northfield Mt. Hermon,1502.7555,4294,177,,non-member,
-South Shore Christian,1502.7555,4489,178,,non-member,
+South Shore Christian,1502.7555,4489,174,,non-member,
+Northfield Mt. Hermon,1502.7555,4294,175,,non-member,
+Dublin,1502.7555,4121,176,,non-member,
+Trinity Christian,1502.7555,4801,177,,non-member,
+Fellowship Christian,1502.7555,4454,178,,non-member,
 Taconic,1501.9284002185611,4385,179,3,assigned,31
 St. Paul,1498.553840859507,4954,180,4,assigned,21
 Pacific Rim Charter,1494.3060717858932,4478,181,5,assigned,26
@@ -207,8 +207,8 @@ Greenwich Academy (Conn.),1475.2059259779578,4159,205,,non-member,
 South Boston,1473.984821679185,4352,206,5,assigned,33
 Winchendon,1473.4250062057442,4433,207,,non-member,
 Nantucket,1471.7096700069396,4265,208,3,assigned,33
-Hotchkiss,1470.7536920819232,4181,209,,non-member,
-Gann Academy,1470.7536920819232,4541,210,,non-member,
+Gann Academy,1470.7536920819232,4541,209,,non-member,
+Hotchkiss,1470.7536920819232,4181,210,,non-member,
 Barrington (R.I.),1469.5421679887572,4025,211,,non-member,
 Doherty,1466.5275794472288,4116,212,2,assigned,38
 Newton Country Day,1466.4356337633067,4278,213,,non-member,
