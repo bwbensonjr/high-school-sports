@@ -1,6 +1,6 @@
 # Field Hockey - 2026 Season
 
-Generated: 2026-11-10 13:47
+Generated: 2026-11-10 17:10
 
 ## Upcoming Games
 
@@ -253,11 +253,11 @@ Generated: 2026-11-10 13:47
 | 130 | Milton Academy | 1503.9 |
 | 131 | Frederick Gunn (Conn.) | 1501.2 |
 | 132 | St. Luke’s | 1501.0 |
-| 133 | Kent | 1501.0 |
-| 134 | Kingswood-Oxford | 1501.0 |
-| 135 | Hamden Hall Country Day | 1501.0 |
-| 136 | Ciciro-North Syracuse (N.Y.) | 1501.0 |
-| 137 | Hopkins (Conn.) | 1501.0 |
+| 133 | Hamden Hall Country Day | 1501.0 |
+| 134 | Hopkins (Conn.) | 1501.0 |
+| 135 | Kingswood-Oxford | 1501.0 |
+| 136 | Kent | 1501.0 |
+| 137 | Ciciro-North Syracuse (N.Y.) | 1501.0 |
 | 138 | Old Rochester | 1496.0 |
 | 139 | St. Mark’s | 1495.8 |
 | 140 | Marblehead | 1493.5 |
@@ -680,11 +680,11 @@ Non-MIAA opponents and teams without a known division.
 | Milton Academy | 1503.9 | 130 | non-member |
 | Frederick Gunn (Conn.) | 1501.2 | 131 | non-member |
 | St. Luke’s | 1501.0 | 132 | non-member |
-| Kent | 1501.0 | 133 | non-member |
-| Kingswood-Oxford | 1501.0 | 134 | non-member |
-| Hamden Hall Country Day | 1501.0 | 135 | non-member |
-| Ciciro-North Syracuse (N.Y.) | 1501.0 | 136 | non-member |
-| Hopkins (Conn.) | 1501.0 | 137 | non-member |
+| Hamden Hall Country Day | 1501.0 | 133 | non-member |
+| Hopkins (Conn.) | 1501.0 | 134 | non-member |
+| Kingswood-Oxford | 1501.0 | 135 | non-member |
+| Kent | 1501.0 | 136 | non-member |
+| Ciciro-North Syracuse (N.Y.) | 1501.0 | 137 | non-member |
 | St. Mark’s | 1495.8 | 139 | non-member |
 | Tabor | 1487.1 | 141 | non-member |
 | Northfield Mt. Hermon | 1483.1 | 142 | non-member |

@@ -1,6 +1,6 @@
 # Girls Basketball - 2026 Season
 
-Generated: 2026-11-10 13:47
+Generated: 2026-11-10 17:10
 
 ## Upcoming Games
 
@@ -212,8 +212,8 @@ Generated: 2026-11-10 13:47
 | 194 | Loomis Chaffee (Conn.) | 1504.6 |
 | 195 | Middleborough | 1503.2 |
 | 196 | Ware | 1501.7 |
-| 197 | TechBoston/Henderson Inclusion School | 1501.7 |
-| 198 | Trivium | 1501.7 |
+| 197 | Trivium | 1501.7 |
+| 198 | TechBoston/Henderson Inclusion School | 1501.7 |
 | 199 | Gann Academy | 1501.7 |
 | 200 | Ethel Walker | 1500.7 |
 | 201 | Lexington Christian | 1497.6 |
@@ -711,7 +711,7 @@ Generated: 2026-11-10 13:47
 | 34 | Nantucket | 1529.4 | 183 |
 | 35 | Monument Mtn. | 1526.4 | 186 |
 | 36 | Mashpee | 1523.7 | 188 |
-| 37 | TechBoston/Henderson Inclusion School | 1501.7 | 197 |
+| 37 | TechBoston/Henderson Inclusion School | 1501.7 | 198 |
 | 38 | Lynn Tech | 1494.1 | 207 |
 | 39 | Clinton | 1491.6 | 208 |
 | 40 | Immaculate Heart of Mary | 1470.1 | 227 |
@@ -787,7 +787,7 @@ Generated: 2026-11-10 13:47
 | 27 | Palmer | 1527.2 | 185 |
 | 28 | Smith Academy | 1513.9 | 192 |
 | 29 | Ware | 1501.7 | 196 |
-| 30 | Trivium | 1501.7 | 198 |
+| 30 | Trivium | 1501.7 | 197 |
 | 31 | Cape Cod Tech | 1496.0 | 205 |
 | 32 | Codman Charter | 1484.8 | 215 |
 | 33 | Parker Charter | 1480.6 | 221 |

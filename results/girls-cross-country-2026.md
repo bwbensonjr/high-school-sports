@@ -1,6 +1,6 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-11-10 13:47
+Generated: 2026-11-10 17:10
 
 ## Upcoming Games
 
@@ -136,11 +136,11 @@ Generated: 2026-11-10 13:47
 | 118 | East Bridgewater | 1517.4 |
 | 119 | Revere | 1509.3 |
 | 120 | Winthrop | 1505.0 |
-| 121 | Amherst-Pelham | 1502.8 |
-| 122 | Wachusett | 1502.8 |
+| 121 | Notre Dame (Worcester) | 1502.8 |
+| 122 | Minnechaug | 1502.8 |
 | 123 | Notre Dame (Tyngsborough) | 1502.8 |
-| 124 | Minnechaug | 1502.8 |
-| 125 | Notre Dame (Worcester) | 1502.8 |
+| 124 | Wachusett | 1502.8 |
+| 125 | Amherst-Pelham | 1502.8 |
 | 126 | Westfield | 1502.8 |
 | 127 | Cape Cod Tech | 1502.8 |
 | 128 | Longmeadow | 1502.8 |
@@ -176,14 +176,14 @@ Generated: 2026-11-10 13:47
 | 158 | Wayland | 1438.0 |
 | 159 | Burncoat | 1437.4 |
 | 160 | Tahanto | 1431.7 |
-| 161 | South Lancaster | 1429.4 |
-| 162 | Maynard | 1429.4 |
+| 161 | Maynard | 1429.4 |
+| 162 | South Lancaster | 1429.4 |
 | 163 | St. Mark’s | 1427.6 |
 | 164 | Shepherd Hill | 1425.8 |
 | 165 | Douglas | 1424.6 |
 | 166 | Tantasqua | 1424.1 |
-| 167 | Hudson | 1420.0 |
-| 168 | Renaissance | 1420.0 |
+| 167 | Renaissance | 1420.0 |
+| 168 | Hudson | 1420.0 |
 | 169 | Wilmington | 1417.9 |
 | 170 | Natick | 1417.9 |
 | 171 | Shawsheen | 1417.1 |
@@ -333,7 +333,7 @@ Generated: 2026-11-10 13:47
 | 41 | Beverly | 1540.0 | 109 |
 | 42 | Newton South | 1536.6 | 110 |
 | 43 | Haverhill | 1520.4 | 116 |
-| 44 | Wachusett | 1502.8 | 122 |
+| 44 | Wachusett | 1502.8 | 124 |
 | 45 | Brookline | 1467.8 | 140 |
 | 46 | Algonquin | 1454.9 | 145 |
 | 47 | Chicopee Comprehensive | 1454.7 | 146 |
@@ -408,9 +408,9 @@ Generated: 2026-11-10 13:47
 | 35 | Chicopee | 1550.8 | 103 |
 | 36 | Dover-Sherborn | 1547.9 | 106 |
 | 37 | Revere | 1509.3 | 119 |
-| 38 | Amherst-Pelham | 1502.8 | 121 |
-| 39 | Minnechaug | 1502.8 | 124 |
-| 40 | Notre Dame (Worcester) | 1502.8 | 125 |
+| 38 | Notre Dame (Worcester) | 1502.8 | 121 |
+| 39 | Minnechaug | 1502.8 | 122 |
+| 40 | Amherst-Pelham | 1502.8 | 125 |
 | 41 | Westfield | 1502.8 | 126 |
 | 42 | Longmeadow | 1502.8 | 128 |
 | 43 | Whittier | 1501.9 | 129 |
@@ -425,7 +425,7 @@ Generated: 2026-11-10 13:47
 | 52 | Wakefield | 1440.2 | 157 |
 | 53 | Wayland | 1438.0 | 158 |
 | 54 | Burncoat | 1437.4 | 159 |
-| 55 | South Lancaster | 1429.4 | 161 |
+| 55 | South Lancaster | 1429.4 | 162 |
 | 56 | Shepherd Hill | 1425.8 | 164 |
 | 57 | Tantasqua | 1424.1 | 166 |
 | 58 | Wilmington | 1417.9 | 169 |
@@ -507,10 +507,10 @@ Generated: 2026-11-10 13:47
 | 36 | Abington | 1446.2 | 155 |
 | 37 | Sizer | 1443.0 | 156 |
 | 38 | Tahanto | 1431.7 | 160 |
-| 39 | Maynard | 1429.4 | 162 |
+| 39 | Maynard | 1429.4 | 161 |
 | 40 | Douglas | 1424.6 | 165 |
-| 41 | Hudson | 1420.0 | 167 |
-| 42 | Renaissance | 1420.0 | 168 |
+| 41 | Renaissance | 1420.0 | 167 |
+| 42 | Hudson | 1420.0 | 168 |
 | 43 | Carver | 1413.4 | 172 |
 | 44 | Sutton | 1411.1 | 175 |
 | 45 | Dennis-Yarmouth | 1410.0 | 177 |

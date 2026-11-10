@@ -1,6 +1,6 @@
 # Boys Soccer - 2026 Season
 
-Generated: 2026-11-10 13:47
+Generated: 2026-11-10 17:10
 
 ## Upcoming Games
 
@@ -374,8 +374,8 @@ Generated: 2026-11-10 13:47
 | 211 | Worcester Academy | 1504.5 |
 | 212 | Phillips Exeter | 1504.1 |
 | 213 | Newton Country Day | 1502.8 |
-| 214 | South Shore Christian | 1502.8 |
-| 215 | Xavier (Conn.) | 1502.8 |
+| 214 | Xavier (Conn.) | 1502.8 |
+| 215 | South Shore Christian | 1502.8 |
 | 216 | Choate | 1499.4 |
 | 217 | Pioneer Valley Regional | 1499.3 |
 | 218 | Nashoba Valley Tech | 1497.6 |
@@ -1007,8 +1007,8 @@ Non-MIAA opponents and teams without a known division.
 | Worcester Academy | 1504.5 | 211 | non-member |
 | Phillips Exeter | 1504.1 | 212 | non-member |
 | Newton Country Day | 1502.8 | 213 | non-member |
-| South Shore Christian | 1502.8 | 214 | non-member |
-| Xavier (Conn.) | 1502.8 | 215 | non-member |
+| Xavier (Conn.) | 1502.8 | 214 | non-member |
+| South Shore Christian | 1502.8 | 215 | non-member |
 | Choate | 1499.4 | 216 | non-member |
 | Rivers | 1497.3 | 219 | non-member |
 | Dexter Southfield | 1496.9 | 221 | non-member |

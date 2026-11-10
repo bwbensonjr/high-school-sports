@@ -1,6 +1,6 @@
 # Girls Soccer - 2026 Season
 
-Generated: 2026-11-10 13:47
+Generated: 2026-11-10 17:10
 
 ## Upcoming Games
 
@@ -372,20 +372,20 @@ Generated: 2026-11-10 13:47
 | 195 | Brooks | 1506.1 |
 | 196 | Tantasqua | 1505.7 |
 | 197 | Excel Academy | 1504.8 |
-| 198 | Kent | 1501.7 |
-| 199 | Housatonic Regional (Conn.) | 1501.7 |
-| 200 | Poughkeepsie Day (N.Y.) | 1501.7 |
-| 201 | South Shore Christian | 1501.7 |
-| 202 | KIPP | 1501.7 |
-| 203 | Bridgton Academy | 1501.7 |
-| 204 | Pioneer Valley Chinese Immersion | 1501.7 |
-| 205 | Taft | 1501.7 |
-| 206 | Newman School | 1501.7 |
+| 198 | Bridgton Academy | 1501.7 |
+| 199 | South Shore Christian | 1501.7 |
+| 200 | Pioneer Valley Chinese Immersion | 1501.7 |
+| 201 | Boston Prep | 1501.7 |
+| 202 | Taft | 1501.7 |
+| 203 | Neighborhood House Charter | 1501.7 |
+| 204 | Poughkeepsie Day (N.Y.) | 1501.7 |
+| 205 | Newman School | 1501.7 |
+| 206 | Kingswood-Oxford | 1501.7 |
 | 207 | Barrington (R.I.) | 1501.7 |
-| 208 | Neighborhood House Charter | 1501.7 |
-| 209 | La Salle (R.I.) | 1501.7 |
-| 210 | Boston Prep | 1501.7 |
-| 211 | Kingswood-Oxford | 1501.7 |
+| 208 | La Salle (R.I.) | 1501.7 |
+| 209 | Kent | 1501.7 |
+| 210 | KIPP | 1501.7 |
+| 211 | Housatonic Regional (Conn.) | 1501.7 |
 | 212 | St. Paul’s | 1499.3 |
 | 213 | Monty Tech | 1498.9 |
 | 214 | Durfee | 1496.5 |
@@ -914,10 +914,10 @@ Generated: 2026-11-10 13:47
 | 15 | Nashoba Valley Tech | 1523.4 | 183 |
 | 16 | Pioneer Valley Regional | 1513.1 | 188 |
 | 17 | Notre Dame (Tyngsborough) | 1512.3 | 189 |
-| 18 | KIPP | 1501.7 | 202 |
-| 19 | Pioneer Valley Chinese Immersion | 1501.7 | 204 |
-| 20 | Neighborhood House Charter | 1501.7 | 208 |
-| 21 | Boston Prep | 1501.7 | 210 |
+| 18 | Pioneer Valley Chinese Immersion | 1501.7 | 200 |
+| 19 | Boston Prep | 1501.7 | 201 |
+| 20 | Neighborhood House Charter | 1501.7 | 203 |
+| 21 | KIPP | 1501.7 | 210 |
 | 22 | Mahar | 1496.4 | 215 |
 | 23 | Gateway | 1482.7 | 230 |
 | 24 | Ware | 1480.4 | 233 |
@@ -1005,16 +1005,16 @@ Non-MIAA opponents and teams without a known division.
 | New Hampton | 1520.5 | 184 | non-member |
 | Holland (Burke) | 1507.6 | 193 | unknown |
 | Brooks | 1506.1 | 195 | non-member |
-| Kent | 1501.7 | 198 | non-member |
-| Housatonic Regional (Conn.) | 1501.7 | 199 | non-member |
-| Poughkeepsie Day (N.Y.) | 1501.7 | 200 | non-member |
-| South Shore Christian | 1501.7 | 201 | non-member |
-| Bridgton Academy | 1501.7 | 203 | non-member |
-| Taft | 1501.7 | 205 | non-member |
-| Newman School | 1501.7 | 206 | non-member |
+| Bridgton Academy | 1501.7 | 198 | non-member |
+| South Shore Christian | 1501.7 | 199 | non-member |
+| Taft | 1501.7 | 202 | non-member |
+| Poughkeepsie Day (N.Y.) | 1501.7 | 204 | non-member |
+| Newman School | 1501.7 | 205 | non-member |
+| Kingswood-Oxford | 1501.7 | 206 | non-member |
 | Barrington (R.I.) | 1501.7 | 207 | non-member |
-| La Salle (R.I.) | 1501.7 | 209 | non-member |
-| Kingswood-Oxford | 1501.7 | 211 | non-member |
+| La Salle (R.I.) | 1501.7 | 208 | non-member |
+| Kent | 1501.7 | 209 | non-member |
+| Housatonic Regional (Conn.) | 1501.7 | 211 | non-member |
 | St. Paul’s | 1499.3 | 212 | non-member |
 | Hope (R.I.) | 1496.4 | 216 | non-member |
 | Bishop Guertin (N.H.) | 1495.7 | 217 | non-member |
