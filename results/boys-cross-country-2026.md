@@ -1,6 +1,6 @@
 # Boys Cross Country - 2026 Season
 
-Generated: 2026-11-10 17:10
+Generated: 2026-11-11 17:17
 
 ## Upcoming Games
 
@@ -137,18 +137,18 @@ Generated: 2026-11-10 17:10
 | 119 | Old Rochester | 1511.9 |
 | 120 | Hampshire | 1510.3 |
 | 121 | Greater Lawrence | 1502.8 |
-| 122 | St. Sebastian’s | 1502.8 |
-| 123 | Watkinson | 1502.8 |
-| 124 | Riverview School | 1502.8 |
-| 125 | Minnechaug | 1502.8 |
-| 126 | Tabor | 1502.8 |
-| 127 | Greater Lowell | 1502.8 |
-| 128 | Longmeadow | 1502.8 |
-| 129 | Notre Dame (Tyngsborough) | 1502.8 |
-| 130 | Westfield | 1502.8 |
-| 131 | Bridgewater-Raynham | 1502.8 |
-| 132 | Wachusett | 1502.8 |
-| 133 | Amherst-Pelham | 1502.8 |
+| 122 | Greater Lowell | 1502.8 |
+| 123 | Minnechaug | 1502.8 |
+| 124 | Westfield | 1502.8 |
+| 125 | Longmeadow | 1502.8 |
+| 126 | St. Sebastian’s | 1502.8 |
+| 127 | Notre Dame (Tyngsborough) | 1502.8 |
+| 128 | Tabor | 1502.8 |
+| 129 | Amherst-Pelham | 1502.8 |
+| 130 | Bridgewater-Raynham | 1502.8 |
+| 131 | Riverview School | 1502.8 |
+| 132 | Watkinson | 1502.8 |
+| 133 | Wachusett | 1502.8 |
 | 134 | New Bedford | 1501.5 |
 | 135 | Milton Academy | 1501.2 |
 | 136 | Bourne | 1500.9 |
@@ -186,8 +186,8 @@ Generated: 2026-11-10 17:10
 | 168 | Bishop Feehan | 1452.0 |
 | 169 | Lowell Catholic | 1450.9 |
 | 170 | Frontier | 1448.4 |
-| 171 | Minuteman | 1447.9 |
-| 172 | Westborough | 1447.9 |
+| 171 | Westborough | 1447.9 |
+| 172 | Minuteman | 1447.9 |
 | 173 | Tantasqua | 1447.7 |
 | 174 | Sandwich | 1447.7 |
 | 175 | Quabbin | 1447.4 |
@@ -339,8 +339,8 @@ Generated: 2026-11-10 17:10
 | 38 | Diman | 1535.7 | 105 |
 | 39 | Chelmsford | 1533.2 | 106 |
 | 40 | Silver Lake | 1516.9 | 112 |
-| 41 | Bridgewater-Raynham | 1502.8 | 131 |
-| 42 | Wachusett | 1502.8 | 132 |
+| 41 | Bridgewater-Raynham | 1502.8 | 130 |
+| 42 | Wachusett | 1502.8 | 133 |
 | 43 | New Bedford | 1501.5 | 134 |
 | 44 | Worcester Tech | 1491.0 | 142 |
 | 45 | Malden | 1466.1 | 154 |
@@ -349,7 +349,7 @@ Generated: 2026-11-10 17:10
 | 48 | Doherty | 1455.7 | 165 |
 | 49 | Westford | 1453.5 | 167 |
 | 50 | Bishop Feehan | 1452.0 | 168 |
-| 51 | Westborough | 1447.9 | 172 |
+| 51 | Westborough | 1447.9 | 171 |
 | 52 | Needham | 1446.1 | 176 |
 | 53 | St. John’s (Shrewsbury) | 1417.7 | 196 |
 | 54 | Agawam | 1411.5 | 200 |
@@ -424,11 +424,11 @@ Generated: 2026-11-10 17:10
 | 39 | Ashland | 1514.2 | 116 |
 | 40 | Scituate | 1513.4 | 117 |
 | 41 | Greater Lawrence | 1502.8 | 121 |
-| 42 | Riverview School | 1502.8 | 124 |
-| 43 | Minnechaug | 1502.8 | 125 |
-| 44 | Longmeadow | 1502.8 | 128 |
-| 45 | Westfield | 1502.8 | 130 |
-| 46 | Amherst-Pelham | 1502.8 | 133 |
+| 42 | Minnechaug | 1502.8 | 123 |
+| 43 | Westfield | 1502.8 | 124 |
+| 44 | Longmeadow | 1502.8 | 125 |
+| 45 | Amherst-Pelham | 1502.8 | 129 |
+| 46 | Riverview School | 1502.8 | 131 |
 | 47 | Norton | 1499.1 | 138 |
 | 48 | Foxborough | 1497.4 | 139 |
 | 49 | Wayland | 1494.4 | 140 |
@@ -442,7 +442,7 @@ Generated: 2026-11-10 17:10
 | 57 | Putnam | 1460.4 | 160 |
 | 58 | St. Bernard’s | 1456.2 | 164 |
 | 59 | Lowell Catholic | 1450.9 | 169 |
-| 60 | Minuteman | 1447.9 | 171 |
+| 60 | Minuteman | 1447.9 | 172 |
 | 61 | Tantasqua | 1447.7 | 173 |
 | 62 | South Lancaster | 1444.1 | 179 |
 | 63 | Leominster | 1443.8 | 180 |
@@ -508,8 +508,8 @@ Generated: 2026-11-10 17:10
 | 27 | South Shore Voc-Tech | 1512.4 | 118 |
 | 28 | Old Rochester | 1511.9 | 119 |
 | 29 | Hampshire | 1510.3 | 120 |
-| 30 | Greater Lowell | 1502.8 | 127 |
-| 31 | Notre Dame (Tyngsborough) | 1502.8 | 129 |
+| 30 | Greater Lowell | 1502.8 | 122 |
+| 31 | Notre Dame (Tyngsborough) | 1502.8 | 127 |
 | 32 | Bourne | 1500.9 | 136 |
 | 33 | Carver | 1500.8 | 137 |
 | 34 | Sturgis West | 1493.9 | 141 |
@@ -573,9 +573,9 @@ Non-MIAA opponents and teams without a known division.
 | Portsmouth Abbey | 1578.1 | 85 | non-member |
 | Worcester Academy | 1564.3 | 91 | non-member |
 | Middlesex | 1542.6 | 99 | non-member |
-| St. Sebastian’s | 1502.8 | 122 | non-member |
-| Watkinson | 1502.8 | 123 | non-member |
-| Tabor | 1502.8 | 126 | non-member |
+| St. Sebastian’s | 1502.8 | 126 | non-member |
+| Tabor | 1502.8 | 128 | non-member |
+| Watkinson | 1502.8 | 132 | non-member |
 | Milton Academy | 1501.2 | 135 | non-member |
 | Groton | 1474.9 | 149 | non-member |
 | BB&N | 1467.9 | 150 | non-member |

@@ -1,6 +1,6 @@
 # Boys Golf - 2026 Season
 
-Generated: 2026-11-10 17:10
+Generated: 2026-11-11 17:17
 
 ## Upcoming Games
 

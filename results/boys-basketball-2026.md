@@ -1,6 +1,6 @@
 # Boys Basketball - 2026 Season
 
-Generated: 2026-11-10 17:10
+Generated: 2026-11-11 17:17
 
 ## Upcoming Games
 
@@ -240,11 +240,11 @@ Generated: 2026-11-10 17:10
 | 222 | Frederick Gunn (Conn.) | 1502.1 |
 | 223 | Southbridge | 1502.0 |
 | 224 | Hopkins | 1501.7 |
-| 225 | International School | 1501.7 |
+| 225 | Bishop Connolly | 1501.7 |
 | 226 | Marie Philip | 1501.7 |
-| 227 | Waring | 1501.7 |
-| 228 | Bishop Connolly | 1501.7 |
-| 229 | North Haven (Conn.) | 1501.7 |
+| 227 | North Haven (Conn.) | 1501.7 |
+| 228 | Waring | 1501.7 |
+| 229 | International School | 1501.7 |
 | 230 | Ruth Batson Academy | 1501.7 |
 | 231 | Pelham (N.H.) | 1501.5 |
 | 232 | Chicopee | 1501.1 |
@@ -931,11 +931,11 @@ Non-MIAA opponents and teams without a known division.
 | Mt. Hope (R.I.) | 1504.7 | 218 | non-member |
 | N.Y. Military Academy | 1502.5 | 221 | non-member |
 | Frederick Gunn (Conn.) | 1502.1 | 222 | non-member |
-| International School | 1501.7 | 225 | non-member |
+| Bishop Connolly | 1501.7 | 225 | non-member |
 | Marie Philip | 1501.7 | 226 | non-member |
-| Waring | 1501.7 | 227 | non-member |
-| Bishop Connolly | 1501.7 | 228 | non-member |
-| North Haven (Conn.) | 1501.7 | 229 | non-member |
+| North Haven (Conn.) | 1501.7 | 227 | non-member |
+| Waring | 1501.7 | 228 | non-member |
+| International School | 1501.7 | 229 | non-member |
 | Pelham (N.H.) | 1501.5 | 231 | non-member |
 | Kimball Union | 1498.2 | 236 | non-member |
 | Brooks | 1496.1 | 238 | non-member |
