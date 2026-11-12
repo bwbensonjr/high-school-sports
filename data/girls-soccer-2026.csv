@@ -2964,18 +2964,20 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-10,158341,FINAL,Holbrook,4172,5.0,1.0,Ware,4406,0.0,0.0,Mayflower,Grieve,5:00 P.M.,,0,MIAA Division 5,First round
 2026-11-10,158344,FINAL,Hopkins,4531,5.0,1.0,Mahar,4226,1.0,0.0,Pioneer Valley,Grieve,2:00 P.M.,,0,MIAA Division 5,First round
 2026-11-10,158347,FINAL,Hull,4184,7.0,1.0,Franklin County Tech,4145,1.0,0.0,South Shore,Bi-County,6:00 P.M.,,0,MIAA Division 5,First round
-2026-11-11,157798,UPCOMING,Franklin,4144,,,Acton-Boxborough,4003,,,Hockomock,Dual County,5:30 P.M.,,0,MIAA Division 1,Second round
-2026-11-11,157807,UPCOMING,Wellesley,4413,,,Hopkinton,4180,,,Bay State,Tri-Valley,6:00 P.M.,,0,MIAA Division 1,Second round
-2026-11-11,157897,UPCOMING,Oliver Ames,4302,,,Newburyport,4276,,,Hockomock,Cape Ann,7:15 P.M.,,0,MIAA Division 2,Second round
-2026-11-11,157909,UPCOMING,Duxbury,4123,,,Northampton,4291,,,Patriot,Central,4:30 P.M.,,0,MIAA Division 2,Second round
-2026-11-11,158008,UPCOMING,Cardinal Spellman,4075,,,Bishop Fenwick,4043,,,Catholic Central,Catholic Central,4:00 P.M.,,0,MIAA Division 3,Second round
-2026-11-11,158011,UPCOMING,Hanover,4164,,,Tewksbury,4389,,,Patriot,Merrimack Valley,5:00 P.M.,,0,MIAA Division 3,Second round
-2026-11-11,158023,UPCOMING,Dover-Sherborn,4118,,,Norton,4295,,,Tri-Valley,Tri-Valley,5:00 P.M.,,0,MIAA Division 3,Second round
-2026-11-11,158029,UPCOMING,Medfield,4241,,,Medway,4243,,,Tri-Valley,Tri-Valley,7:15 P.M.,,0,MIAA Division 3,Second round
-2026-11-11,158143,UPCOMING,South Hadley,4353,,,Hamilton-Wenham,4163,,,Kurty-Fielding,Cape Ann,5:00 P.M.,,0,MIAA Division 4,Second round
-2026-11-11,158158,UPCOMING,Douglas,4506,,,Wahconah,4401,,,CMAC,Kurty-Fielding,6:00 P.M.,,0,MIAA Division 4,Second round
-2026-11-11,158302,UPCOMING,Hopedale,4507,,,Rising Tide Charter,4746,,,CMAC,Cape & Islands,11:00 A.M.,,0,MIAA Division 5,Second round
-2026-11-11,158305,UPCOMING,Granby,4520,,,St. John Paul II,4689,,,Central,Cape & Islands,2:00 P.M.,,0,MIAA Division 5,Second round
+2026-11-11,157798,FINAL,Franklin,4144,4.0,1.0,Acton-Boxborough,4003,1.0,0.0,Hockomock,Dual County,5:30 P.M.,,0,MIAA Division 1,Second round
+2026-11-11,157807,FINAL,Wellesley,4413,3.0,1.0,Hopkinton,4180,0.0,0.0,Bay State,Tri-Valley,6:00 P.M.,,0,MIAA Division 1,Second round
+2026-11-11,157897,FINAL,Oliver Ames,4302,2.0,1.0,Newburyport,4276,0.0,0.0,Hockomock,Cape Ann,7:15 P.M.,,0,MIAA Division 2,Second round
+2026-11-11,157909,FINAL,Duxbury,4123,4.0,1.0,Northampton,4291,0.0,0.0,Patriot,Central,4:30 P.M.,,0,MIAA Division 2,Second round
+2026-11-11,158008,FINAL,Cardinal Spellman,4075,3.0,1.0,Bishop Fenwick,4043,2.0,0.0,Catholic Central,Catholic Central,4:00 P.M.,1.0,0,MIAA Division 3,Second round
+2026-11-11,158011,FINAL,Hanover,4164,2.0,0.0,Tewksbury,4389,3.0,1.0,Patriot,Merrimack Valley,5:00 P.M.,2.0,0,MIAA Division 3,Second round
+2026-11-11,158023,FINAL,Dover-Sherborn,4118,4.0,1.0,Norton,4295,2.0,0.0,Tri-Valley,Tri-Valley,5:00 P.M.,,0,MIAA Division 3,Second round
+2026-11-11,158029,FINAL,Medfield,4241,8.0,1.0,Medway,4243,0.0,0.0,Tri-Valley,Tri-Valley,7:15 P.M.,,0,MIAA Division 3,Second round
+2026-11-11,158143,FINAL,South Hadley,4353,1.0,1.0,Hamilton-Wenham,4163,0.0,0.0,Kurty-Fielding,Cape Ann,5:00 P.M.,,0,MIAA Division 4,Second round
+2026-11-11,158158,FINAL,Douglas,4506,4.0,1.0,Wahconah,4401,0.0,0.0,CMAC,Kurty-Fielding,6:00 P.M.,,0,MIAA Division 4,Second round
+2026-11-11,158302,FINAL,Hopedale,4507,5.0,1.0,Rising Tide Charter,4746,0.0,0.0,CMAC,Cape & Islands,11:00 A.M.,,0,MIAA Division 5,Second round
+2026-11-11,158305,FINAL,Granby,4520,4.0,1.0,St. John Paul II,4689,0.0,0.0,Central,Cape & Islands,2:00 P.M.,,0,MIAA Division 5,Second round
+2026-11-11,158676,FINAL,Concord Academy,4096,1.0,2.0,Berwick,4037,1.0,2.0,EIL,EIL,,,0,,
+2026-11-11,158678,FINAL,Lawrence Academy,4204,5.0,1.0,Groton,4544,1.0,0.0,ISL,ISL,,,0,,
 2026-11-12,157789,UPCOMING,Central Catholic,4081,,,Brookline,4059,,,Merrimack Valley,Bay State,6:00 P.M.,,0,MIAA Division 1,Second round
 2026-11-12,157792,UPCOMING,Braintree,4051,,,Lexington,4209,,,Bay State,Middlesex,5:00 P.M.,,0,MIAA Division 1,Second round
 2026-11-12,157795,UPCOMING,Winchester,4434,,,Newton North,4279,,,Middlesex,Bay State,5:00 P.M.,,0,MIAA Division 1,Second round
@@ -3004,3 +3006,4 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-12,158293,UPCOMING,Monson,4429,,,Holbrook,4172,,,Central,Mayflower,2:00 P.M.,,0,MIAA Division 5,Second round
 2026-11-12,158296,UPCOMING,Hopkins,4531,,,David Prouty,4106,,,Pioneer Valley,CMAC,2:00 P.M.,,0,MIAA Division 5,Second round
 2026-11-12,158299,UPCOMING,Hull,4184,,,Palmer,4304,,,South Shore,Grieve,6:30 P.M.,,0,MIAA Division 5,Second round
+2026-11-14,158005,UPCOMING,Medfield,4241,,,Cardinal Spellman,4075,,,Tri-Valley,Catholic Central,5:30 P.M.,,0,MIAA Division 3,Quarterfinals

@@ -1802,7 +1802,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-31,144785,FINAL,Nantucket,4265,1,1,Martha’s Vineyard,4235,0,0,Cape & Islands,Cape & Islands,1:00 P.M.,,0,,
 2026-10-31,155255,FINAL,Franklin County Tech,4145,1,0,West Springfield,4417,4,1,County,Suburban,,,0,,
 2026-10-31,155256,FINAL,Frontier,4146,1,0,East Longmeadow,4127,2,1,Suburban,Valley League,,,0,,
-2026-11-01,155863,FINAL,Swampscott,4383,0.0,0.0,Gloucester,4150,4.0,1.0,Northeastern,Northeastern,,,0,,
+2026-11-01,155863,FINAL,Swampscott,4383,0,0,Gloucester,4150,4,1,Northeastern,Northeastern,,,0,,
 2026-11-02,155864,FINAL,Blackstone Valley,4046,3.0,1.0,Franklin County Tech,4145,0.0,0.0,CMAC,County,2:30 P.M.,,0,,
 2026-11-04,156282,FINAL,Malden Catholic,4228,2.0,1.0,Methuen,4246,1.0,0.0,Catholic Conference,Merrimack Valley,6:00 P.M.,,0,MIAA Division 1,Preliminary
 2026-11-04,156333,FINAL,Mansfield,4230,2.0,1.0,Masconomet,4236,1.0,0.0,Hockomock,Northeastern,6:30 P.M.,,0,MIAA Division 2,First round
@@ -1905,18 +1905,24 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-10,156522,FINAL,Monomoy,4706,2.0,1.0,South Hadley,4353,0.0,0.0,Cape & Islands,Suburban,4:00 P.M.,,0,MIAA Division 4,Second round
 2026-11-10,156525,FINAL,Frontier,4146,7.0,1.0,St. John Paul II,4689,0.0,0.0,Suburban,Cape & Islands,2:30 P.M.,,0,MIAA Division 4,Second round
 2026-11-10,156528,FINAL,Dennis-Yarmouth,4111,7.0,1.0,Northbridge,4292,0.0,0.0,Cape & Islands,CMAC,4:00 P.M.,,0,MIAA Division 4,Second round
-2026-11-11,156312,UPCOMING,Milton,4252,,,Norwood,4297,,,Bay State,Tri-Valley,5:30 P.M.,,0,MIAA Division 2,Second round
-2026-11-11,156414,UPCOMING,Gloucester,4150,,,Falmouth,4134,,,Northeastern,Cape & Islands,2:00 P.M.,,0,MIAA Division 3,Second round
-2026-11-11,156423,UPCOMING,Dover-Sherborn,4118,,,Ursuline,4448,,,Tri-Valley,Catholic Conference,12:00 P.M.,,0,MIAA Division 3,Second round
-2026-11-11,156510,UPCOMING,Manchester Essex,4229,,,Sutton,4512,,,Cape Ann,CMAC,2:00 P.M.,,0,MIAA Division 4,Second round
-2026-11-11,156531,UPCOMING,Cohasset,4094,,,Westport,4461,,,South Shore,Mayflower,2:00 P.M.,,0,MIAA Division 4,Second round
+2026-11-11,156312,FINAL,Milton,4252,3.0,1.0,Norwood,4297,2.0,0.0,Bay State,Tri-Valley,5:30 P.M.,2.0,0,MIAA Division 2,Second round
+2026-11-11,156414,FINAL,Gloucester,4150,5.0,1.0,Falmouth,4134,1.0,0.0,Northeastern,Cape & Islands,2:00 P.M.,,0,MIAA Division 3,Second round
+2026-11-11,156423,FINAL,Dover-Sherborn,4118,5.0,1.0,Ursuline,4448,0.0,0.0,Tri-Valley,Catholic Conference,3:00 P.M.,,0,MIAA Division 3,Second round
+2026-11-11,156510,FINAL,Manchester Essex,4229,2.0,1.0,Sutton,4512,1.0,0.0,Cape Ann,CMAC,2:00 P.M.,,0,MIAA Division 4,Second round
+2026-11-11,156531,FINAL,Cohasset,4094,8.0,1.0,Westport,4461,0.0,0.0,South Shore,Mayflower,2:00 P.M.,,0,MIAA Division 4,Second round
+2026-11-11,158669,FINAL,Lawrence Academy,4204,3.0,0.0,Groton,4544,7.0,1.0,ISL,ISL,,,0,,
 2026-11-12,156405,UPCOMING,Sandwich,4340,,,East Longmeadow,4127,,,Cape & Islands,Valley League,1:30 P.M.,,0,MIAA Division 3,Quarterfinals
 2026-11-12,156501,UPCOMING,Dennis-Yarmouth,4111,,,West Bridgewater,4415,,,Cape & Islands,South Coast,2:00 P.M.,,0,MIAA Division 4,Quarterfinals
+2026-11-13,156201,UPCOMING,Franklin,4144,,,Attleboro,4018,,,Hockomock,Hockomock,4:00 P.M.,,0,MIAA Division 1,Quarterfinals
 2026-11-13,156396,UPCOMING,Watertown,4409,,,Foxborough,4142,,,Middlesex,Hockomock,3:30 P.M.,,0,MIAA Division 3,Quarterfinals
 2026-11-14,156198,UPCOMING,Acton-Boxborough,4003,,,Walpole,4404,,,Dual County,Bay State,3:00 P.M.,,0,MIAA Division 1,Quarterfinals
+2026-11-14,156204,UPCOMING,Belmont,4034,,,Winchester,4434,,,Middlesex,Middlesex,1:00 P.M.,,0,MIAA Division 1,Quarterfinals
 2026-11-14,156207,UPCOMING,Lincoln-Sudbury,4211,,,Andover,4009,,,Dual County,Merrimack Valley,2:00 P.M.,,0,MIAA Division 1,Quarterfinals
 2026-11-14,156294,UPCOMING,Somerset Berkley,4350,,,Hingham,4171,,,South Coast,Patriot,1:00 P.M.,,0,MIAA Division 2,Quarterfinals
+2026-11-14,156297,UPCOMING,King Philip,4197,,,Westwood,4424,,,Hockomock,Tri-Valley,1:00 P.M.,,0,MIAA Division 2,Quarterfinals
+2026-11-14,156300,UPCOMING,Nashoba,4267,,,Milton,4252,,,Mid-Wach,Bay State,12:30 P.M.,,0,MIAA Division 2,Quarterfinals
 2026-11-14,156303,UPCOMING,Canton,4071,,,Reading,4328,,,Hockomock,Middlesex,5:30 P.M.,,0,MIAA Division 2,Quarterfinals
 2026-11-14,156399,UPCOMING,Uxbridge,4398,,,Medway,4243,,,CMAC,Tri-Valley,2:00 P.M.,,0,MIAA Division 3,Quarterfinals
+2026-11-14,156402,UPCOMING,Dover-Sherborn,4118,,,Gloucester,4150,,,Tri-Valley,Northeastern,2:00 P.M.,,0,MIAA Division 3,Quarterfinals
 2026-11-15,156498,UPCOMING,Monomoy,4706,,,Hopedale,4507,,,Cape & Islands,CMAC,4:00 P.M.,,0,MIAA Division 4,Quarterfinals
 2026-11-15,156504,UPCOMING,Frontier,4146,,,Quabbin,4325,,,Suburban,Mid-Wach,2:00 P.M.,,0,MIAA Division 4,Quarterfinals
