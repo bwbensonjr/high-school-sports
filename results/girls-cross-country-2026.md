@@ -1,6 +1,6 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-11-12 17:39
+Generated: 2026-11-13 17:17
 
 ## Upcoming Games
 
@@ -137,13 +137,13 @@ Generated: 2026-11-12 17:39
 | 119 | Revere | 1509.3 |
 | 120 | Winthrop | 1505.0 |
 | 121 | Notre Dame (Worcester) | 1502.8 |
-| 122 | Minnechaug | 1502.8 |
-| 123 | Notre Dame (Tyngsborough) | 1502.8 |
-| 124 | Cape Cod Tech | 1502.8 |
-| 125 | Longmeadow | 1502.8 |
+| 122 | Amherst-Pelham | 1502.8 |
+| 123 | Longmeadow | 1502.8 |
+| 124 | Minnechaug | 1502.8 |
+| 125 | Westfield | 1502.8 |
 | 126 | Wachusett | 1502.8 |
-| 127 | Amherst-Pelham | 1502.8 |
-| 128 | Westfield | 1502.8 |
+| 127 | Notre Dame (Tyngsborough) | 1502.8 |
+| 128 | Cape Cod Tech | 1502.8 |
 | 129 | Whittier | 1501.9 |
 | 130 | West Bridgewater | 1499.8 |
 | 131 | Middleborough | 1495.0 |
@@ -409,10 +409,10 @@ Generated: 2026-11-12 17:39
 | 36 | Dover-Sherborn | 1547.9 | 106 |
 | 37 | Revere | 1509.3 | 119 |
 | 38 | Notre Dame (Worcester) | 1502.8 | 121 |
-| 39 | Minnechaug | 1502.8 | 122 |
-| 40 | Longmeadow | 1502.8 | 125 |
-| 41 | Amherst-Pelham | 1502.8 | 127 |
-| 42 | Westfield | 1502.8 | 128 |
+| 39 | Amherst-Pelham | 1502.8 | 122 |
+| 40 | Longmeadow | 1502.8 | 123 |
+| 41 | Minnechaug | 1502.8 | 124 |
+| 42 | Westfield | 1502.8 | 125 |
 | 43 | Whittier | 1501.9 | 129 |
 | 44 | Middleborough | 1495.0 | 131 |
 | 45 | Danvers | 1478.6 | 135 |
@@ -494,8 +494,8 @@ Generated: 2026-11-12 17:39
 | 23 | Amesbury | 1521.6 | 115 |
 | 24 | East Bridgewater | 1517.4 | 118 |
 | 25 | Winthrop | 1505.0 | 120 |
-| 26 | Notre Dame (Tyngsborough) | 1502.8 | 123 |
-| 27 | Cape Cod Tech | 1502.8 | 124 |
+| 26 | Notre Dame (Tyngsborough) | 1502.8 | 127 |
+| 27 | Cape Cod Tech | 1502.8 | 128 |
 | 28 | West Bridgewater | 1499.8 | 130 |
 | 29 | Littleton | 1486.8 | 132 |
 | 30 | Holbrook/Avon | 1482.2 | 134 |

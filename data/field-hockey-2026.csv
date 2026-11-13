@@ -1108,29 +1108,29 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-10,140594,FINAL,Nashoba,4267,8.0,1.0,Chelmsford,4085,2.0,0.0,Mid-Wach,Merrimack Valley,12:00 P.M.,,0,,
 2026-10-10,145148,FINAL,Manchester Essex,4229,0.0,0.0,Sandwich,4340,7.0,1.0,Cape Ann,Cape & Islands,12:30 P.M.,,0,,
 2026-10-10,145537,FINAL,Leicester,4207,1.0,0.0,Blackstone-Millville,4486,7.0,1.0,CMAC,CMAC,11:00 A.M.,,0,,
-2026-10-12,139167,FINAL,Lexington,4209,6,1,Arlington,4013,0,0,Middlesex,Middlesex,10:00 A.M.,,0,,
-2026-10-12,139300,FINAL,Taunton,4388,4,1,New Bedford,4273,0,0,Hockomock,Big Three,3:45 P.M.,,0,,
-2026-10-12,139693,FINAL,Oakmont,4299,1,0,Shrewsbury,4348,3,1,Mid-Wach,Mid-Wach,11:00 A.M.,,0,,
-2026-10-12,139977,FINAL,Wachusett,4400,1,2,Central Catholic,4081,1,2,Mid-Wach,Merrimack Valley,12:00 P.M.,,0,,
-2026-10-12,140029,FINAL,Essex Tech,4745,0,0,Ipswich,4190,1,1,Cape Ann,Cape Ann,4:00 P.M.,,0,,
-2026-10-12,140317,FINAL,West Springfield,4417,7,1,Mahar,4226,0,0,Suburban,Valley League,7:00 P.M.,,0,,
-2026-10-12,140505,FINAL,Winchester,4434,0,0,Belmont,4034,2,1,Middlesex,Middlesex,11:30 A.M.,,0,,
-2026-10-12,140574,FINAL,St. Mary’s,4374,1,1,Waltham,4405,0,0,Catholic Central,Dual County,10:00 A.M.,,0,,
-2026-10-12,143964,FINAL,Watertown,4409,6,1,Melrose,4244,0,0,Middlesex,Middlesex,10:00 A.M.,,0,,
+2026-10-12,139167,FINAL,Lexington,4209,6.0,1.0,Arlington,4013,0.0,0.0,Middlesex,Middlesex,10:00 A.M.,,0,,
+2026-10-12,139300,FINAL,Taunton,4388,4.0,1.0,New Bedford,4273,0.0,0.0,Hockomock,Big Three,3:45 P.M.,,0,,
+2026-10-12,139693,FINAL,Oakmont,4299,1.0,0.0,Shrewsbury,4348,3.0,1.0,Mid-Wach,Mid-Wach,11:00 A.M.,,0,,
+2026-10-12,139977,FINAL,Wachusett,4400,1.0,2.0,Central Catholic,4081,1.0,2.0,Mid-Wach,Merrimack Valley,12:00 P.M.,,0,,
+2026-10-12,140029,FINAL,Essex Tech,4745,0.0,0.0,Ipswich,4190,1.0,1.0,Cape Ann,Cape Ann,4:00 P.M.,,0,,
+2026-10-12,140317,FINAL,West Springfield,4417,7.0,1.0,Mahar,4226,0.0,0.0,Suburban,Valley League,7:00 P.M.,,0,,
+2026-10-12,140505,FINAL,Winchester,4434,0.0,0.0,Belmont,4034,2.0,1.0,Middlesex,Middlesex,11:30 A.M.,,0,,
+2026-10-12,140574,FINAL,St. Mary’s,4374,1.0,1.0,Waltham,4405,0.0,0.0,Catholic Central,Dual County,10:00 A.M.,,0,,
+2026-10-12,143964,FINAL,Watertown,4409,6.0,1.0,Melrose,4244,0.0,0.0,Middlesex,Middlesex,10:00 A.M.,,0,,
 2026-10-12,144415,UPCOMING,Saugus,4341,,,Marblehead,4231,,,Northeastern,Northeastern,10:00 A.M.,,0,,
-2026-10-12,144464,FINAL,Stoneham,4380,1,1,Burlington,4065,0,0,Middlesex,Middlesex,10:00 A.M.,,0,,
-2026-10-12,144496,FINAL,Wakefield,4402,0,0,Wilmington,4432,6,1,Middlesex,Middlesex,10:00 A.M.,,0,,
-2026-10-12,144654,FINAL,Newburyport,4276,7,1,Rockport,4490,1,0,Cape Ann,Cape Ann,10:00 A.M.,,0,,
-2026-10-12,145019,FINAL,Hampshire,4518,2,0,Franklin County Tech,4145,3,1,County,County,4:00 P.M.,,0,,
-2026-10-12,145040,FINAL,Frontier,4146,3,1,Belchertown,4032,0,0,Suburban,County,11:00 A.M.,,0,,
-2026-10-12,145085,FINAL,Lynnfield,4223,1,2,Manchester Essex,4229,1,2,Cape Ann,Cape Ann,10:00 A.M.,,0,,
-2026-10-12,145157,FINAL,Arlington Catholic,4014,0,0,Bishop Fenwick,4043,9,1,Catholic Central,Catholic Central,4:00 P.M.,,0,,
+2026-10-12,144464,FINAL,Stoneham,4380,1.0,1.0,Burlington,4065,0.0,0.0,Middlesex,Middlesex,10:00 A.M.,,0,,
+2026-10-12,144496,FINAL,Wakefield,4402,0.0,0.0,Wilmington,4432,6.0,1.0,Middlesex,Middlesex,10:00 A.M.,,0,,
+2026-10-12,144654,FINAL,Newburyport,4276,7.0,1.0,Rockport,4490,1.0,0.0,Cape Ann,Cape Ann,10:00 A.M.,,0,,
+2026-10-12,145019,FINAL,Hampshire,4518,2.0,0.0,Franklin County Tech,4145,3.0,1.0,County,County,4:00 P.M.,,0,,
+2026-10-12,145040,FINAL,Frontier,4146,3.0,1.0,Belchertown,4032,0.0,0.0,Suburban,County,11:00 A.M.,,0,,
+2026-10-12,145085,FINAL,Lynnfield,4223,1.0,2.0,Manchester Essex,4229,1.0,2.0,Cape Ann,Cape Ann,10:00 A.M.,,0,,
+2026-10-12,145157,FINAL,Arlington Catholic,4014,0.0,0.0,Bishop Fenwick,4043,9.0,1.0,Catholic Central,Catholic Central,4:00 P.M.,,0,,
 2026-10-12,145234,POSTPONED,Palmer,4304,,,Northampton,4291,,,County,Valley League,4:00 P.M.,,0,,
-2026-10-12,145275,FINAL,Triton,4395,2,0,Hamilton-Wenham,4163,3,1,Cape Ann,Cape Ann,10:00 A.M.,,0,,
-2026-10-12,145338,FINAL,South Hadley,4353,2,2,Greenfield,4157,2,2,Suburban,Suburban,11:00 A.M.,,0,,
-2026-10-12,145483,FINAL,North Reading,4288,0,2,Amesbury,4007,0,2,Cape Ann,Cape Ann,4:00 P.M.,,0,,
-2026-10-12,153463,FINAL,Tahanto,4513,1,0,Narragansett,4266,2,1,Mid-Wach,Mid-Wach,,,0,,
-2026-10-12,153481,FINAL,Gould,4151,0,0,Austin Prep,4020,5,1,Independent,Independent,,,0,,
+2026-10-12,145275,FINAL,Triton,4395,2.0,0.0,Hamilton-Wenham,4163,3.0,1.0,Cape Ann,Cape Ann,10:00 A.M.,,0,,
+2026-10-12,145338,FINAL,South Hadley,4353,2.0,2.0,Greenfield,4157,2.0,2.0,Suburban,Suburban,11:00 A.M.,,0,,
+2026-10-12,145483,FINAL,North Reading,4288,0.0,2.0,Amesbury,4007,0.0,2.0,Cape Ann,Cape Ann,4:00 P.M.,,0,,
+2026-10-12,153463,FINAL,Tahanto,4513,1.0,0.0,Narragansett,4266,2.0,1.0,Mid-Wach,Mid-Wach,,,0,,
+2026-10-12,153481,FINAL,Gould,4151,0.0,0.0,Austin Prep,4020,5.0,1.0,Independent,Independent,,,0,,
 2026-10-13,139149,FINAL,Stoneham,4380,0,0,Lexington,4209,3,1,Middlesex,Middlesex,6:00 P.M.,,0,,
 2026-10-13,139227,FINAL,Brookline,4059,2,1,Weston,4423,0,0,Bay State,Dual County,4:00 P.M.,,0,,
 2026-10-13,139333,FINAL,Westport,4461,7,1,Southeastern,4358,0,0,Mayflower,Mayflower,3:30 P.M.,,0,,
@@ -1803,7 +1803,7 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-10-31,155255,FINAL,Franklin County Tech,4145,1,0,West Springfield,4417,4,1,County,Suburban,,,0,,
 2026-10-31,155256,FINAL,Frontier,4146,1,0,East Longmeadow,4127,2,1,Suburban,Valley League,,,0,,
 2026-11-01,155863,FINAL,Swampscott,4383,0,0,Gloucester,4150,4,1,Northeastern,Northeastern,,,0,,
-2026-11-02,155864,FINAL,Blackstone Valley,4046,3.0,1.0,Franklin County Tech,4145,0.0,0.0,CMAC,County,2:30 P.M.,,0,,
+2026-11-02,155864,FINAL,Blackstone Valley,4046,3,1,Franklin County Tech,4145,0,0,CMAC,County,2:30 P.M.,,0,,
 2026-11-04,156282,FINAL,Malden Catholic,4228,2.0,1.0,Methuen,4246,1.0,0.0,Catholic Conference,Merrimack Valley,6:00 P.M.,,0,MIAA Division 1,Preliminary
 2026-11-04,156333,FINAL,Mansfield,4230,2.0,1.0,Masconomet,4236,1.0,0.0,Hockomock,Northeastern,6:30 P.M.,,0,MIAA Division 2,First round
 2026-11-04,156384,FINAL,Grafton,4153,7.0,1.0,Worcester South,4444,0.0,0.0,Mid-Wach,CMAC,2:00 P.M.,,0,MIAA Division 2,Preliminary
@@ -1911,11 +1911,11 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-11,156510,FINAL,Manchester Essex,4229,2.0,1.0,Sutton,4512,1.0,0.0,Cape Ann,CMAC,2:00 P.M.,,0,MIAA Division 4,Second round
 2026-11-11,156531,FINAL,Cohasset,4094,8.0,1.0,Westport,4461,0.0,0.0,South Shore,Mayflower,2:00 P.M.,,0,MIAA Division 4,Second round
 2026-11-11,158669,FINAL,Lawrence Academy,4204,3.0,0.0,Groton,4544,7.0,1.0,ISL,ISL,,,0,,
-2026-11-12,156405,UPCOMING,Sandwich,4340,,,East Longmeadow,4127,,,Cape & Islands,Valley League,1:30 P.M.,,0,MIAA Division 3,Quarterfinals
-2026-11-12,156501,UPCOMING,Dennis-Yarmouth,4111,,,West Bridgewater,4415,,,Cape & Islands,South Coast,2:00 P.M.,,0,MIAA Division 4,Quarterfinals
-2026-11-13,156201,UPCOMING,Franklin,4144,,,Attleboro,4018,,,Hockomock,Hockomock,4:00 P.M.,,0,MIAA Division 1,Quarterfinals
+2026-11-12,156405,FINAL,Sandwich,4340,5.0,1.0,East Longmeadow,4127,1.0,0.0,Cape & Islands,Valley League,1:30 P.M.,,0,MIAA Division 3,Quarterfinals
+2026-11-12,156501,FINAL,Dennis-Yarmouth,4111,3.0,1.0,West Bridgewater,4415,0.0,0.0,Cape & Islands,South Coast,2:00 P.M.,,0,MIAA Division 4,Quarterfinals
 2026-11-13,156396,UPCOMING,Watertown,4409,,,Foxborough,4142,,,Middlesex,Hockomock,3:30 P.M.,,0,MIAA Division 3,Quarterfinals
 2026-11-14,156198,UPCOMING,Acton-Boxborough,4003,,,Walpole,4404,,,Dual County,Bay State,3:00 P.M.,,0,MIAA Division 1,Quarterfinals
+2026-11-14,156201,UPCOMING,Franklin,4144,,,Attleboro,4018,,,Hockomock,Hockomock,11:00 A.M.,,0,MIAA Division 1,Quarterfinals
 2026-11-14,156204,UPCOMING,Belmont,4034,,,Winchester,4434,,,Middlesex,Middlesex,1:00 P.M.,,0,MIAA Division 1,Quarterfinals
 2026-11-14,156207,UPCOMING,Lincoln-Sudbury,4211,,,Andover,4009,,,Dual County,Merrimack Valley,2:00 P.M.,,0,MIAA Division 1,Quarterfinals
 2026-11-14,156294,UPCOMING,Somerset Berkley,4350,,,Hingham,4171,,,South Coast,Patriot,1:00 P.M.,,0,MIAA Division 2,Quarterfinals
@@ -1924,5 +1924,6 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-14,156303,UPCOMING,Canton,4071,,,Reading,4328,,,Hockomock,Middlesex,5:30 P.M.,,0,MIAA Division 2,Quarterfinals
 2026-11-14,156399,UPCOMING,Uxbridge,4398,,,Medway,4243,,,CMAC,Tri-Valley,2:00 P.M.,,0,MIAA Division 3,Quarterfinals
 2026-11-14,156402,UPCOMING,Dover-Sherborn,4118,,,Gloucester,4150,,,Tri-Valley,Northeastern,2:00 P.M.,,0,MIAA Division 3,Quarterfinals
+2026-11-14,156507,UPCOMING,Cohasset,4094,,,Manchester Essex,4229,,,South Shore,Cape Ann,1:00 P.M.,,0,MIAA Division 4,Quarterfinals
 2026-11-15,156498,UPCOMING,Monomoy,4706,,,Hopedale,4507,,,Cape & Islands,CMAC,4:00 P.M.,,0,MIAA Division 4,Quarterfinals
 2026-11-15,156504,UPCOMING,Frontier,4146,,,Quabbin,4325,,,Suburban,Mid-Wach,2:00 P.M.,,0,MIAA Division 4,Quarterfinals
