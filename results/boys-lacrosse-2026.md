@@ -1,6 +1,6 @@
 # Boys Lacrosse - 2026 Season
 
-Generated: 2026-11-13 17:17
+Generated: 2026-11-14 14:13
 
 ## Upcoming Games
 
@@ -154,11 +154,11 @@ Generated: 2026-11-13 17:17
 | 136 | Chelmsford | 1508.0 |
 | 137 | Xaverian | 1505.1 |
 | 138 | Melrose | 1503.4 |
-| 139 | Latin Academy | 1500.0 |
+| 139 | Everett | 1500.0 |
 | 140 | St. Anthony’s (N.Y.) | 1500.0 |
 | 141 | Bourne | 1500.0 |
-| 142 | Mashpee | 1500.0 |
-| 143 | Everett | 1500.0 |
+| 142 | Latin Academy | 1500.0 |
+| 143 | Mashpee | 1500.0 |
 | 144 | Bancroft | 1499.6 |
 | 145 | Wilmington | 1496.2 |
 | 146 | Ward Melville (N.Y.) | 1488.9 |
@@ -501,7 +501,7 @@ Generated: 2026-11-13 17:17
 | 15 | Sandwich | 1561.3 | 115 |
 | 16 | Hoosac Valley | 1554.6 | 117 |
 | 17 | Bourne | 1500.0 | 141 |
-| 18 | Mashpee | 1500.0 | 142 |
+| 18 | Mashpee | 1500.0 | 143 |
 | 19 | Nipmuc | 1485.8 | 148 |
 | 20 | Littleton | 1477.2 | 155 |
 | 21 | South Hadley | 1475.9 | 156 |
@@ -571,9 +571,9 @@ Non-MIAA opponents and teams without a known division.
 | Bishop Guertin (N.H.) | 1526.2 | 130 | non-member |
 | Providence Country Day | 1520.8 | 131 | non-member |
 | Northfield Mt. Hermon | 1519.2 | 132 | non-member |
-| Latin Academy | 1500.0 | 139 | unknown |
+| Everett | 1500.0 | 139 | unknown |
 | St. Anthony’s (N.Y.) | 1500.0 | 140 | non-member |
-| Everett | 1500.0 | 143 | unknown |
+| Latin Academy | 1500.0 | 142 | unknown |
 | Bancroft | 1499.6 | 144 | non-member |
 | Ward Melville (N.Y.) | 1488.9 | 146 | non-member |
 | Middlesex | 1485.8 | 147 | non-member |

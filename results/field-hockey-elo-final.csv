@@ -1,7 +1,7 @@
 team,elo,team_id,overall_rank,division,division_status,division_rank
 Uxbridge,2554.6009841348923,4398,1,3,assigned,1
 Sandwich,2495.7149356676764,4340,2,3,assigned,2
-Watertown,2327.9570926440106,4409,3,3,assigned,3
+Watertown,2342.9824248200466,4409,3,3,assigned,3
 Canton,2324.9858615059798,4071,4,2,assigned,1
 Lincoln-Sudbury,2284.3267060238218,4211,5,1,assigned,1
 Acton-Boxborough,2256.0443140103644,4003,6,1,assigned,2
@@ -26,9 +26,9 @@ Milton,2010.9105065702588,4252,24,2,assigned,6
 Moses Brown (R.I.),1998.3167772184922,4261,25,,non-member,
 Manchester Essex,1977.6613784996396,4229,26,4,assigned,6
 Monomoy,1976.5522062075697,4706,27,4,assigned,7
-Foxborough,1948.414118088642,4142,28,3,assigned,7
-Reading,1948.3395696289238,4328,29,2,assigned,7
-Winchester,1939.8363555600056,4434,30,1,assigned,7
+Reading,1948.3395696289238,4328,28,2,assigned,7
+Winchester,1939.8363555600056,4434,29,1,assigned,7
+Foxborough,1933.388785912606,4142,30,3,assigned,7
 Sutton,1924.670629550467,4512,31,4,assigned,8
 West Bridgewater,1913.42767380516,4415,32,4,assigned,9
 Medway,1898.4350801332175,4243,33,3,assigned,8
@@ -130,12 +130,12 @@ St. John Paul II,1505.91688394471,4689,128,4,assigned,20
 Marshfield,1504.383968750306,4234,129,2,assigned,26
 Milton Academy,1503.855934727825,4253,130,,non-member,
 Frederick Gunn (Conn.),1501.2414649603106,4161,131,,non-member,
-Hamden Hall Country Day,1500.95,4162,132,,non-member,
-Hopkins (Conn.),1500.95,4612,133,,non-member,
+Ciciro-North Syracuse (N.Y.),1500.95,4959,132,,non-member,
+Kent,1500.95,4193,133,,non-member,
 Kingswood-Oxford,1500.95,4198,134,,non-member,
-Kent,1500.95,4193,135,,non-member,
-St. Luke’s,1500.95,4618,136,,non-member,
-Ciciro-North Syracuse (N.Y.),1500.95,4959,137,,non-member,
+Hamden Hall Country Day,1500.95,4162,135,,non-member,
+Hopkins (Conn.),1500.95,4612,136,,non-member,
+St. Luke’s,1500.95,4618,137,,non-member,
 Groton,1496.894335590392,4544,138,,non-member,
 Old Rochester,1495.979241677055,4301,139,3,assigned,28
 St. Mark’s,1495.7543671270453,4372,140,,non-member,

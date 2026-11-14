@@ -1,6 +1,6 @@
 # Boys Tennis - 2026 Season
 
-Generated: 2026-11-13 17:17
+Generated: 2026-11-14 14:13
 
 ## Upcoming Games
 
@@ -133,9 +133,9 @@ Generated: 2026-11-13 17:17
 | 115 | Worcester Academy | 1507.8 |
 | 116 | Pioneer Valley Christian | 1506.8 |
 | 117 | Chicopee | 1503.1 |
-| 118 | Fellowship Christian | 1500.0 |
+| 118 | Greater Lowell | 1500.0 |
 | 119 | Greater Lawrence | 1500.0 |
-| 120 | Greater Lowell | 1500.0 |
+| 120 | Fellowship Christian | 1500.0 |
 | 121 | Pittsfield | 1500.0 |
 | 122 | Franklin | 1494.0 |
 | 123 | Diman | 1493.7 |
@@ -508,8 +508,8 @@ Non-MIAA opponents and teams without a known division.
 | Groton | 1540.0 | 105 | non-member |
 | Cushing | 1530.7 | 107 | non-member |
 | Worcester Academy | 1507.8 | 115 | non-member |
-| Fellowship Christian | 1500.0 | 118 | non-member |
-| Greater Lowell | 1500.0 | 120 | unknown |
+| Greater Lowell | 1500.0 | 118 | unknown |
+| Fellowship Christian | 1500.0 | 120 | non-member |
 | Austin Prep | 1476.8 | 125 | non-member |
 | Beaver Country Day | 1468.8 | 127 | non-member |
 | Governor’s Academy | 1455.4 | 132 | non-member |
