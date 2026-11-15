@@ -1,6 +1,6 @@
 # Boys Hockey - 2026 Season
 
-Generated: 2026-11-14 15:53
+Generated: 2026-11-15 16:28
 
 ## Upcoming Games
 
@@ -136,8 +136,8 @@ Generated: 2026-11-14 15:53
 | 118 | Melrose | 1507.7 |
 | 119 | Dartmouth | 1502.4 |
 | 120 | Fairfield Prep (Conn.) | 1502.1 |
-| 121 | Timberlane (N.H.) | 1501.7 |
-| 122 | Darien (Conn.) | 1501.7 |
+| 121 | Darien (Conn.) | 1501.7 |
+| 122 | Timberlane (N.H.) | 1501.7 |
 | 123 | Medway | 1500.1 |
 | 124 | Waltham | 1496.1 |
 | 125 | Holliston/Ashland | 1495.4 |
@@ -174,8 +174,8 @@ Generated: 2026-11-14 15:53
 | 156 | Scarborough (Maine) | 1444.6 |
 | 157 | St. Paul’s | 1442.5 |
 | 158 | La Salle (R.I.) | 1440.3 |
-| 159 | Loomis Chaffee (Conn.) | 1440.3 |
-| 160 | Stanstead (Canada) | 1440.3 |
+| 159 | Stanstead (Canada) | 1440.3 |
+| 160 | Loomis Chaffee (Conn.) | 1440.3 |
 | 161 | North Andover | 1433.2 |
 | 162 | Academie Saint-Louis (Que.) | 1430.4 |
 | 163 | Blue Hills | 1429.9 |
@@ -512,8 +512,8 @@ Non-MIAA opponents and teams without a known division.
 | Canterbury | 1526.2 | 110 | non-member |
 | Deerfield | 1525.0 | 113 | non-member |
 | Fairfield Prep (Conn.) | 1502.1 | 120 | non-member |
-| Timberlane (N.H.) | 1501.7 | 121 | non-member |
-| Darien (Conn.) | 1501.7 | 122 | non-member |
+| Darien (Conn.) | 1501.7 | 121 | non-member |
+| Timberlane (N.H.) | 1501.7 | 122 | non-member |
 | Brunswick | 1490.7 | 128 | non-member |
 | Berwick | 1488.5 | 129 | non-member |
 | Nichols (N.Y.) | 1481.9 | 131 | non-member |
@@ -535,8 +535,8 @@ Non-MIAA opponents and teams without a known division.
 | Scarborough (Maine) | 1444.6 | 156 | non-member |
 | St. Paul’s | 1442.5 | 157 | non-member |
 | La Salle (R.I.) | 1440.3 | 158 | non-member |
-| Loomis Chaffee (Conn.) | 1440.3 | 159 | non-member |
-| Stanstead (Canada) | 1440.3 | 160 | non-member |
+| Stanstead (Canada) | 1440.3 | 159 | non-member |
+| Loomis Chaffee (Conn.) | 1440.3 | 160 | non-member |
 | Academie Saint-Louis (Que.) | 1430.4 | 162 | non-member |
 | Nobles | 1429.4 | 164 | non-member |
 | Harvey (N.Y.) | 1428.3 | 166 | non-member |

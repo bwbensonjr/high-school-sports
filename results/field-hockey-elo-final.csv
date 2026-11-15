@@ -1,44 +1,44 @@
 team,elo,team_id,overall_rank,division,division_status,division_rank
-Uxbridge,2554.6009841348923,4398,1,3,assigned,1
+Uxbridge,2558.54100797405,4398,1,3,assigned,1
 Sandwich,2495.7149356676764,4340,2,3,assigned,2
 Watertown,2342.9824248200466,4409,3,3,assigned,3
-Canton,2324.9858615059798,4071,4,2,assigned,1
-Lincoln-Sudbury,2284.3267060238218,4211,5,1,assigned,1
-Acton-Boxborough,2256.0443140103644,4003,6,1,assigned,2
-Somerset Berkley,2247.705698838371,4350,7,2,assigned,2
-Franklin,2233.6980833038947,4144,8,1,assigned,3
-Belmont,2224.824711697251,4034,9,1,assigned,4
-Dennis-Yarmouth,2217.975909224589,4111,10,4,assigned,1
-Nashoba,2194.0577894727576,4267,11,2,assigned,3
-Walpole,2190.7571741208576,4404,12,1,assigned,5
-Dover-Sherborn,2177.067234140579,4118,13,3,assigned,4
-Cohasset,2155.3517514625655,4094,14,4,assigned,2
-Andover,2132.936435859784,4009,15,1,assigned,6
-Hopedale,2123.3551186392556,4507,16,4,assigned,3
-Hingham,2120.435125065227,4171,17,2,assigned,4
-King Philip,2118.068186332208,4197,18,2,assigned,5
-East Longmeadow,2115.128712207971,4127,19,3,assigned,5
-Gloucester,2109.169690544836,4150,20,3,assigned,6
-Frontier,2063.535592225525,4146,21,4,assigned,4
+Canton,2335.4010772663364,4071,4,2,assigned,1
+Lincoln-Sudbury,2324.0515761340334,4211,5,1,assigned,1
+Acton-Boxborough,2312.5919879519433,4003,6,1,assigned,2
+Somerset Berkley,2298.8741346396987,4350,7,2,assigned,2
+Belmont,2249.3397109832677,4034,8,1,assigned,3
+Franklin,2245.8829051477196,4144,9,1,assigned,4
+Nashoba,2238.600426980055,4267,10,2,assigned,3
+Dover-Sherborn,2221.436789415925,4118,11,3,assigned,4
+Dennis-Yarmouth,2217.975909224589,4111,12,4,assigned,1
+Cohasset,2211.3470213843157,4094,13,4,assigned,2
+Walpole,2134.2095001792786,4404,14,1,assigned,5
+Hopedale,2123.3551186392556,4507,15,4,assigned,3
+East Longmeadow,2115.128712207971,4127,16,3,assigned,5
+Andover,2093.2115657495724,4009,17,1,assigned,6
+Hingham,2069.2666892638995,4171,18,2,assigned,4
+Gloucester,2064.80013526949,4150,19,3,assigned,6
+Frontier,2063.535592225525,4146,20,4,assigned,4
+King Philip,2048.744910697082,4197,21,2,assigned,5
 Phillips Andover,2042.5120276676357,4310,22,,non-member,
 Quabbin,2012.9415821123703,4325,23,4,assigned,5
-Milton,2010.9105065702588,4252,24,2,assigned,6
-Moses Brown (R.I.),1998.3167772184922,4261,25,,non-member,
-Manchester Essex,1977.6613784996396,4229,26,4,assigned,6
-Monomoy,1976.5522062075697,4706,27,4,assigned,7
-Reading,1948.3395696289238,4328,28,2,assigned,7
-Winchester,1939.8363555600056,4434,29,1,assigned,7
-Foxborough,1933.388785912606,4142,30,3,assigned,7
-Sutton,1924.670629550467,4512,31,4,assigned,8
-West Bridgewater,1913.42767380516,4415,32,4,assigned,9
-Medway,1898.4350801332175,4243,33,3,assigned,8
-Duxbury,1896.3634489733572,4123,34,2,assigned,8
-Westwood,1888.3514698575573,4424,35,2,assigned,9
-Attleboro,1886.8626315891129,4018,36,1,assigned,8
-Natick,1885.0046438414251,4270,37,1,assigned,9
-Newburyport,1882.5298345014057,4276,38,2,assigned,10
-Longmeadow,1880.8407057359477,4214,39,2,assigned,11
-Doherty,1879.7661464459243,4116,40,2,assigned,12
+Moses Brown (R.I.),1998.3167772184922,4261,24,,non-member,
+Monomoy,1976.5522062075697,4706,25,4,assigned,6
+Milton,1966.3678690629613,4252,26,2,assigned,6
+Westwood,1957.674745492683,4424,27,2,assigned,7
+Reading,1937.9243538685669,4328,28,2,assigned,8
+Foxborough,1933.388785912606,4142,29,3,assigned,7
+Sutton,1924.670629550467,4512,30,4,assigned,7
+Manchester Essex,1921.6661085778894,4229,31,4,assigned,8
+Winchester,1915.3213562739893,4434,32,1,assigned,7
+West Bridgewater,1913.42767380516,4415,33,4,assigned,9
+Duxbury,1896.3634489733572,4123,34,2,assigned,9
+Medway,1894.49505629406,4243,35,3,assigned,8
+Natick,1885.0046438414251,4270,36,1,assigned,8
+Newburyport,1882.5298345014057,4276,37,2,assigned,10
+Longmeadow,1880.8407057359477,4214,38,2,assigned,11
+Doherty,1879.7661464459243,4116,39,2,assigned,12
+Attleboro,1874.677809745288,4018,40,1,assigned,9
 Wellesley,1870.2703141614181,4413,41,1,assigned,10
 Ipswich,1861.6022151325574,4190,42,4,assigned,10
 Medfield,1850.2802098088143,4241,43,3,assigned,9
@@ -130,12 +130,12 @@ St. John Paul II,1505.91688394471,4689,128,4,assigned,20
 Marshfield,1504.383968750306,4234,129,2,assigned,26
 Milton Academy,1503.855934727825,4253,130,,non-member,
 Frederick Gunn (Conn.),1501.2414649603106,4161,131,,non-member,
-Hamden Hall Country Day,1500.95,4162,132,,non-member,
-Hopkins (Conn.),1500.95,4612,133,,non-member,
-Ciciro-North Syracuse (N.Y.),1500.95,4959,134,,non-member,
-Kingswood-Oxford,1500.95,4198,135,,non-member,
-St. Luke’s,1500.95,4618,136,,non-member,
-Kent,1500.95,4193,137,,non-member,
+Ciciro-North Syracuse (N.Y.),1500.95,4959,132,,non-member,
+Kent,1500.95,4193,133,,non-member,
+Kingswood-Oxford,1500.95,4198,134,,non-member,
+Hamden Hall Country Day,1500.95,4162,135,,non-member,
+Hopkins (Conn.),1500.95,4612,136,,non-member,
+St. Luke’s,1500.95,4618,137,,non-member,
 Groton,1496.894335590392,4544,138,,non-member,
 Old Rochester,1495.979241677055,4301,139,3,assigned,28
 St. Mark’s,1495.7543671270453,4372,140,,non-member,

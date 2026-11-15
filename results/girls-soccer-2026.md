@@ -1,128 +1,121 @@
 # Girls Soccer - 2026 Season
 
-Generated: 2026-11-14 15:53
+Generated: 2026-11-15 16:28
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-11-14 | 6:00 P.M. | Wellesley | Braintree | 80.1% | +1.8 |
-| 2026-11-14 | 1:00 P.M. | Granby | Whitinsville Christian | 94.3% | +3.7 |
-| 2026-11-14 | 4:30 P.M. | Hull | Rockport | 86.2% | +2.4 |
-| 2026-11-14 | 6:30 P.M. | Hopedale | Lenox | 75.2% | +1.5 |
-| 2026-11-14 | 3:00 P.M. | Cohasset | South Hadley | 90.0% | +2.9 |
-| 2026-11-14 | 2:00 P.M. | Douglas | Hampshire | 85.5% | +2.3 |
-| 2026-11-14 | 5:00 P.M. | Holbrook | David Prouty | 64.3% | +0.8 |
-| 2026-11-14 | 5:30 P.M. | Medfield | Cardinal Spellman | 83.4% | +2.1 |
-| 2026-11-14 | 4:00 P.M. | Dover-Sherborn | Belchertown | 62.1% | +0.7 |
-| 2026-11-14 | 2:00 P.M. | Norwell | Tewksbury | 86.7% | +2.5 |
-| 2026-11-14 | 1:00 P.M. | Duxbury | Whitman-Hanson | 96.6% | +4.4 |
-| 2026-11-14 | 4:00 P.M. | King Philip | Milton | 81.9% | +2.0 |
-| 2026-11-14 | 11:00 A.M. | Sutton | Littleton | 83.6% | +2.1 |
-| 2026-11-15 | 4:00 P.M. | Pope Francis | Foxborough | 78.7% | +1.7 |
 | 2026-11-15 | 5:00 P.M. | Needham | Franklin | 72.2% | +1.3 |
 | 2026-11-15 | 5:00 P.M. | Bishop Feehan | Newton North | 96.6% | +4.4 |
 | 2026-11-15 | 4:00 P.M. | Concord-Carlisle | Central Catholic | 73.3% | +1.3 |
 | 2026-11-15 | 2:45 P.M. | Masconomet | Oliver Ames | 60.7% | +0.6 |
 | 2026-11-15 | 4:00 P.M. | Hingham | Notre Dame (Hingham) | 80.1% | +1.8 |
+| 2026-11-15 | 4:00 P.M. | Pope Francis | Foxborough | 78.7% | +1.7 |
 | 2026-11-15 | 1:00 P.M. | Sandwich | Rockland | 65.5% | +0.8 |
+| 2026-11-16 | 7:00 P.M. | Sutton | Douglas | 58.5% | +0.5 |
+| 2026-11-16 | 5:00 P.M. | Granby | David Prouty | 83.5% | +2.1 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-11-12 | Hull | 3 | Palmer | 0 | +2.3 | +3.0 |
-| 2026-11-12 | Foxborough | 2 | Lynnfield | 1 | +0.1 | +1.0 |
-| 2026-11-12 | Central Catholic | 4 | Brookline | 1 | +1.8 | +3.0 |
-| 2026-11-12 | Braintree | 1 | Lexington | 0 | +0.9 | +1.0 |
-| 2026-11-12 | Winchester | 1 | Newton North | 2 | +2.0 | -1.0 |
-| 2026-11-12 | Needham | 5 | Beverly | 1 | +0.7 | +4.0 |
-| 2026-11-12 | Bishop Feehan | 9 | Shrewsbury | 1 | +2.4 | +8.0 |
-| 2026-11-12 | Concord-Carlisle | 5 | Arlington | 0 | +4.1 | +5.0 |
+| 2026-11-14 | Granby | 4 | Whitinsville Christian | 0 | +3.7 | +4.0 |
+| 2026-11-14 | Sutton | 1 | Littleton | 0 | +2.1 | +1.0 |
+| 2026-11-14 | King Philip | 2 | Milton | 3 | +2.0 | -1.0 |
+| 2026-11-14 | Duxbury | 3 | Whitman-Hanson | 0 | +4.4 | +3.0 |
+| 2026-11-14 | Norwell | 6 | Tewksbury | 0 | +2.5 | +6.0 |
+| 2026-11-14 | Dover-Sherborn | 0 | Belchertown | 1 | +0.7 | -1.0 |
+| 2026-11-14 | Medfield | 10 | Cardinal Spellman | 1 | +2.1 | +9.0 |
+| 2026-11-14 | Wellesley | 1 | Braintree | 2 | +1.8 | -1.0 |
+| 2026-11-14 | Douglas | 3 | Hampshire | 0 | +2.3 | +3.0 |
+| 2026-11-14 | Holbrook | 2 | David Prouty | 3 | +0.8 | -1.0 |
+| 2026-11-14 | Hopedale | 3 | Lenox | 0 | +1.5 | +3.0 |
+| 2026-11-14 | Hull | 5 | Rockport | 1 | +2.4 | +4.0 |
+| 2026-11-14 | Cohasset | 2 | South Hadley | 0 | +2.9 | +2.0 |
 | 2026-11-12 | Whitman-Hanson | 2 | Grafton | 1 | -0.8 | +1.0 |
-| 2026-11-12 | Notre Dame (Hingham) | 1 | Minnechaug | 0 | +0.3 | +1.0 |
-| 2026-11-12 | Milton | 1 | Sharon | 0 | +1.2 | +1.0 |
-| 2026-11-12 | Masconomet | 6 | Silver Lake | 0 | +3.1 | +6.0 |
-| 2026-11-12 | King Philip | 4 | Westwood | 1 | +2.1 | +3.0 |
 | 2026-11-12 | Belchertown | 1 | Dedham | 0 | +1.0 | +1.0 |
 | 2026-11-12 | Hingham | 7 | Holliston | 0 | +3.1 | +7.0 |
+| 2026-11-12 | King Philip | 4 | Westwood | 1 | +2.1 | +3.0 |
+| 2026-11-12 | Masconomet | 6 | Silver Lake | 0 | +3.1 | +6.0 |
+| 2026-11-12 | Milton | 1 | Sharon | 0 | +1.2 | +1.0 |
+| 2026-11-12 | Needham | 5 | Beverly | 1 | +0.7 | +4.0 |
+| 2026-11-12 | Concord-Carlisle | 5 | Arlington | 0 | +4.1 | +5.0 |
+| 2026-11-12 | Bishop Feehan | 9 | Shrewsbury | 1 | +2.4 | +8.0 |
+| 2026-11-12 | Winchester | 1 | Newton North | 2 | +2.0 | -1.0 |
+| 2026-11-12 | Braintree | 1 | Lexington | 0 | +0.9 | +1.0 |
+| 2026-11-12 | Central Catholic | 4 | Brookline | 1 | +1.8 | +3.0 |
 | 2026-11-12 | Pope Francis | 4 | Ursuline | 1 | +1.6 | +3.0 |
-| 2026-11-12 | Cohasset | 2 | Georgetown | 1 | +3.8 | +1.0 |
-| 2026-11-12 | Hopkins | 1 | David Prouty | 2 | +1.9 | -1.0 |
-| 2026-11-12 | Monson | 0 | Holbrook | 1 | +0.1 | -1.0 |
-| 2026-11-12 | Rockport | 6 | Drury | 0 | -0.7 | +6.0 |
+| 2026-11-12 | Foxborough | 2 | Lynnfield | 1 | +0.1 | +1.0 |
+| 2026-11-12 | Notre Dame (Hingham) | 1 | Minnechaug | 0 | +0.3 | +1.0 |
 | 2026-11-12 | Norwell | 4 | Wilmington | 0 | +4.5 | +4.0 |
 | 2026-11-12 | Whitinsville Christian | 2 | Smith Voc. | 0 | -1.9 | +2.0 |
+| 2026-11-12 | Hull | 3 | Palmer | 0 | +2.3 | +3.0 |
+| 2026-11-12 | Hopkins | 1 | David Prouty | 2 | +1.9 | -1.0 |
+| 2026-11-12 | Monson | 0 | Holbrook | 1 | +0.1 | -1.0 |
+| 2026-11-12 | Tyngsborough | 0 | Littleton | 1 | +1.1 | -1.0 |
 | 2026-11-12 | Norfolk Aggie | 2 | Lenox | 4 | +0.8 | -2.0 |
+| 2026-11-12 | Rockport | 6 | Drury | 0 | -0.7 | +6.0 |
+| 2026-11-12 | Cohasset | 2 | Georgetown | 1 | +3.8 | +1.0 |
 | 2026-11-12 | Sutton | 4 | Lunenburg | 1 | +2.4 | +3.0 |
 | 2026-11-12 | Sandwich | 2 | West Bridgewater | 1 | +1.0 | +1.0 |
 | 2026-11-12 | Rockland | 3 | Advanced Math and Science | 2 | -0.9 | +1.0 |
 | 2026-11-12 | Hampshire | 3 | Ipswich | 2 | +2.3 | +1.0 |
-| 2026-11-12 | Tyngsborough | 0 | Littleton | 1 | +1.1 | -1.0 |
-| 2026-11-11 | Medfield | 8 | Medway | 0 | +4.4 | +8.0 |
 | 2026-11-11 | Franklin | 4 | Acton-Boxborough | 1 | +0.6 | +3.0 |
 | 2026-11-11 | Wellesley | 3 | Hopkinton | 0 | +3.6 | +3.0 |
+| 2026-11-11 | Oliver Ames | 2 | Newburyport | 0 | +0.2 | +2.0 |
 | 2026-11-11 | Duxbury | 4 | Northampton | 0 | +2.4 | +4.0 |
 | 2026-11-11 | Cardinal Spellman | 3 | Bishop Fenwick | 2 | +1.7 | +1.0 |
 | 2026-11-11 | Hanover | 2 | Tewksbury | 3 | -1.0 | -1.0 |
 | 2026-11-11 | Dover-Sherborn | 4 | Norton | 2 | +2.5 | +2.0 |
-| 2026-11-11 | Oliver Ames | 2 | Newburyport | 0 | +0.2 | +2.0 |
+| 2026-11-11 | Medfield | 8 | Medway | 0 | +4.4 | +8.0 |
 | 2026-11-11 | South Hadley | 1 | Hamilton-Wenham | 0 | +0.1 | +1.0 |
 | 2026-11-11 | Hopedale | 5 | Rising Tide Charter | 0 | +2.5 | +5.0 |
 | 2026-11-11 | Granby | 4 | St. John Paul II | 0 | +4.9 | +4.0 |
 | 2026-11-11 | Concord Academy | 1 | Berwick | 1 | -0.5 | 0.0 |
 | 2026-11-11 | Lawrence Academy | 5 | Groton | 1 | +2.6 | +4.0 |
 | 2026-11-11 | Douglas | 4 | Wahconah | 0 | +2.5 | +4.0 |
+| 2026-11-10 | Advanced Math and Science | 6 | Blue Hills | 0 | +0.7 | +6.0 |
+| 2026-11-10 | Ursuline | 3 | Swampscott | 0 | +2.5 | +3.0 |
 | 2026-11-10 | Belchertown | 3 | Ludlow | 1 | +1.6 | +2.0 |
-| 2026-11-10 | Braintree | 4 | Boston Latin | 0 | +2.8 | +4.0 |
-| 2026-11-10 | Belmont | 0 | Newton North | 1 | +2.4 | -1.0 |
-| 2026-11-10 | Concord-Carlisle | 9 | Durfee | 0 | +5.9 | +9.0 |
-| 2026-11-10 | Wayland | 0 | Holliston | 1 | +0.4 | -1.0 |
-| 2026-11-10 | Notre Dame (Hingham) | 2 | North Attleborough | 0 | +2.9 | +2.0 |
-| 2026-11-10 | Grafton | 3 | Marshfield | 2 | +1.4 | +1.0 |
+| 2026-11-10 | Millis | 0 | Georgetown | 1 | -0.7 | -1.0 |
+| 2026-11-10 | Hampshire | 4 | Uxbridge | 0 | +1.7 | +4.0 |
+| 2026-11-10 | Tyngsborough | 5 | Seekonk | 3 | +2.4 | +2.0 |
+| 2026-11-10 | Holbrook | 5 | Ware | 0 | +1.6 | +5.0 |
+| 2026-11-10 | Cohasset | 6 | Easthampton | 0 | +4.8 | +6.0 |
+| 2026-11-10 | Whitinsville Christian | 3 | West Boylston | 1 | +1.6 | +2.0 |
+| 2026-11-10 | Hopkins | 5 | Mahar | 1 | +2.6 | +4.0 |
+| 2026-11-10 | Hull | 7 | Franklin County Tech | 1 | +2.2 | +6.0 |
 | 2026-11-10 | Sharon | 1 | North Quincy | 0 | +0.8 | +1.0 |
 | 2026-11-10 | Wilmington | 3 | Apponequet | 0 | -0.8 | +3.0 |
-| 2026-11-10 | Ursuline | 3 | Swampscott | 0 | +2.5 | +3.0 |
+| 2026-11-10 | Grafton | 3 | Marshfield | 2 | +1.4 | +1.0 |
+| 2026-11-10 | Notre Dame (Hingham) | 2 | North Attleborough | 0 | +2.9 | +2.0 |
 | 2026-11-10 | Silver Lake | 4 | Somerset Berkley | 1 | -3.0 | +3.0 |
-| 2026-11-10 | Millis | 0 | Georgetown | 1 | -0.7 | -1.0 |
-| 2026-11-10 | Whitinsville Christian | 3 | West Boylston | 1 | +1.6 | +2.0 |
-| 2026-11-10 | Hampshire | 4 | Uxbridge | 0 | +1.7 | +4.0 |
-| 2026-11-10 | Hopkins | 5 | Mahar | 1 | +2.6 | +4.0 |
-| 2026-11-10 | Holbrook | 5 | Ware | 0 | +1.6 | +5.0 |
-| 2026-11-10 | Hull | 7 | Franklin County Tech | 1 | +2.2 | +6.0 |
-| 2026-11-10 | Cohasset | 6 | Easthampton | 0 | +4.8 | +6.0 |
-| 2026-11-10 | Advanced Math and Science | 6 | Blue Hills | 0 | +0.7 | +6.0 |
-| 2026-11-10 | Tyngsborough | 5 | Seekonk | 3 | +2.4 | +2.0 |
-| 2026-11-09 | Monson | 4 | Bristol Aggie | 1 | +2.2 | +3.0 |
-| 2026-11-09 | Mt. Greylock | 0 | Ipswich | 1 | +2.7 | -1.0 |
-| 2026-11-09 | Sandwich | 9 | Blackstone-Millville | 1 | +2.9 | +8.0 |
-| 2026-11-09 | Douglas | 7 | Westport | 0 | +4.1 | +7.0 |
-| 2026-11-09 | Sutton | 8 | Sturgis West | 1 | +4.0 | +7.0 |
-| 2026-11-09 | Rising Tide Charter | 3 | Pioneer Valley | 0 | +0.5 | +3.0 |
-| 2026-11-09 | Palmer | 4 | Parker Charter | 0 | +0.3 | +4.0 |
-| 2026-11-09 | David Prouty | 8 | Boston Collegiate | 0 | +0.5 | +8.0 |
-| 2026-11-09 | Drury | 6 | Pioneer Charter I | 0 | +1.1 | +6.0 |
-| 2026-11-09 | Rockport | 6 | Lee | 0 | -1.0 | +6.0 |
-| 2026-11-09 | Norfolk Aggie | 6 | Old Colony | 0 | +3.0 | +6.0 |
-| 2026-11-09 | Smith Voc. | 2 | Trivium | 1 | +3.2 | +1.0 |
-| 2026-11-09 | Lenox | 7 | Notre Dame (Tyngsborough) | 6 | +0.9 | +1.0 |
-| 2026-11-09 | Hopedale | 10 | Gateway | 0 | +2.4 | +10.0 |
-| 2026-11-09 | Granby | 9 | Hoosac Valley | 0 | +4.5 | +9.0 |
-| 2026-11-09 | Bancroft | 1 | Beaver Country Day | 4 | -1.6 | -3.0 |
-| 2026-11-09 | Hamilton-Wenham | 1 | Abington | 0 | +2.2 | +1.0 |
-| 2026-11-09 | Littleton | 3 | Frontier | 2 | +1.0 | +1.0 |
-| 2026-11-09 | South Hadley | 7 | Bay Path | 0 | +0.8 | +7.0 |
-| 2026-11-09 | Acton-Boxborough | 4 | Lincoln-Sudbury | 0 | +2.1 | +4.0 |
-| 2026-11-09 | Needham | 3 | Westborough | 0 | +4.2 | +3.0 |
-| 2026-11-09 | Newburyport | 2 | Burlington | 0 | +2.9 | +2.0 |
+| 2026-11-10 | Wayland | 0 | Holliston | 1 | +0.4 | -1.0 |
+| 2026-11-10 | Concord-Carlisle | 9 | Durfee | 0 | +5.9 | +9.0 |
+| 2026-11-10 | Belmont | 0 | Newton North | 1 | +2.4 | -1.0 |
+| 2026-11-10 | Braintree | 4 | Boston Latin | 0 | +2.8 | +4.0 |
+| 2026-11-09 | Duxbury | 3 | Stoughton | 0 | +4.9 | +3.0 |
 | 2026-11-09 | Minnechaug | 2 | Walpole | 0 | +3.4 | +2.0 |
-| 2026-11-09 | Whitman-Hanson | 2 | Melrose | 1 | +0.8 | +1.0 |
+| 2026-11-09 | Newburyport | 2 | Burlington | 0 | +2.9 | +2.0 |
+| 2026-11-09 | Masconomet | 5 | Mansfield | 0 | +3.5 | +5.0 |
+| 2026-11-09 | King Philip | 5 | Nashoba | 0 | +2.9 | +5.0 |
+| 2026-11-09 | Hingham | 8 | Shepherd Hill | 0 | +3.3 | +8.0 |
+| 2026-11-09 | Foxborough | 9 | Dighton-Rehoboth | 0 | +2.1 | +9.0 |
+| 2026-11-09 | Medway | 2 | East Bridgewater | 0 | -0.7 | +2.0 |
+| 2026-11-09 | Norton | 3 | Weston | 2 | +1.2 | +1.0 |
 | 2026-11-09 | Oliver Ames | 1 | Canton | 0 | +3.8 | +1.0 |
+| 2026-11-09 | Hanover | 3 | Salem | 1 | +1.1 | +2.0 |
+| 2026-11-09 | Cardinal Spellman | 3 | Nauset | 0 | +2.4 | +3.0 |
+| 2026-11-09 | Bishop Fenwick | 3 | Hudson | 2 | +1.5 | +1.0 |
+| 2026-11-09 | Whitman-Hanson | 2 | Melrose | 1 | +0.8 | +1.0 |
+| 2026-11-09 | Lynnfield | 2 | North Reading | 1 | +2.1 | +1.0 |
 | 2026-11-09 | Westwood | 1 | Danvers | 0 | +0.2 | +1.0 |
 | 2026-11-09 | Wellesley | 7 | North Andover | 0 | +4.6 | +7.0 |
-| 2026-11-09 | Bishop Feehan | 4 | Chelmsford | 0 | +4.7 | +4.0 |
+| 2026-11-09 | Tewksbury | 2 | Pembroke | 1 | +3.8 | +1.0 |
+| 2026-11-09 | Needham | 3 | Westborough | 0 | +4.2 | +3.0 |
+| 2026-11-09 | Acton-Boxborough | 4 | Lincoln-Sudbury | 0 | +2.1 | +4.0 |
 | 2026-11-09 | Lexington | 2 | Wachusett | 0 | +2.5 | +2.0 |
-| 2026-11-09 | Hingham | 8 | Shepherd Hill | 0 | +3.3 | +8.0 |
 | 2026-11-09 | Brookline | 2 | Peabody | 1 | +0.5 | +1.0 |
 | 2026-11-09 | Central Catholic | 2 | Algonquin | 1 | +4.6 | +1.0 |
 | 2026-11-09 | Winchester | 8 | Woburn | 0 | +3.0 | +8.0 |
@@ -130,125 +123,98 @@ Generated: 2026-11-14 15:53
 | 2026-11-09 | Beverly | 5 | Natick | 0 | +2.5 | +5.0 |
 | 2026-11-09 | Shrewsbury | 2 | Bridgewater-Raynham | 0 | +0.0 | +2.0 |
 | 2026-11-09 | Arlington | 2 | Westford | 1 | -0.8 | +1.0 |
-| 2026-11-09 | Masconomet | 5 | Mansfield | 0 | +3.5 | +5.0 |
-| 2026-11-09 | King Philip | 5 | Nashoba | 0 | +2.9 | +5.0 |
+| 2026-11-09 | Bishop Feehan | 4 | Chelmsford | 0 | +4.7 | +4.0 |
+| 2026-11-09 | Dover-Sherborn | 4 | Old Rochester | 2 | +1.5 | +2.0 |
+| 2026-11-09 | Dedham | 1 | Scituate | 0 | +3.4 | +1.0 |
+| 2026-11-09 | Sutton | 8 | Sturgis West | 1 | +4.0 | +7.0 |
+| 2026-11-09 | Bancroft | 1 | Beaver Country Day | 4 | -1.6 | -3.0 |
+| 2026-11-09 | Granby | 9 | Hoosac Valley | 0 | +4.5 | +9.0 |
+| 2026-11-09 | Hopedale | 10 | Gateway | 0 | +2.4 | +10.0 |
+| 2026-11-09 | Drury | 6 | Pioneer Charter I | 0 | +1.1 | +6.0 |
+| 2026-11-09 | Lenox | 7 | Notre Dame (Tyngsborough) | 6 | +0.9 | +1.0 |
+| 2026-11-09 | Smith Voc. | 2 | Trivium | 1 | +3.2 | +1.0 |
+| 2026-11-09 | Norfolk Aggie | 6 | Old Colony | 0 | +3.0 | +6.0 |
+| 2026-11-09 | Rockport | 6 | Lee | 0 | -1.0 | +6.0 |
+| 2026-11-09 | Monson | 4 | Bristol Aggie | 1 | +2.2 | +3.0 |
+| 2026-11-09 | David Prouty | 8 | Boston Collegiate | 0 | +0.5 | +8.0 |
+| 2026-11-09 | Palmer | 4 | Parker Charter | 0 | +0.3 | +4.0 |
+| 2026-11-09 | Rising Tide Charter | 3 | Pioneer Valley | 0 | +0.5 | +3.0 |
+| 2026-11-09 | Douglas | 7 | Westport | 0 | +4.1 | +7.0 |
+| 2026-11-09 | Pope Francis | 6 | Nipmuc | 0 | +4.5 | +6.0 |
+| 2026-11-09 | Sandwich | 9 | Blackstone-Millville | 1 | +2.9 | +8.0 |
+| 2026-11-09 | Mt. Greylock | 0 | Ipswich | 1 | +2.7 | -1.0 |
+| 2026-11-09 | Littleton | 3 | Frontier | 2 | +1.0 | +1.0 |
+| 2026-11-09 | Hamilton-Wenham | 1 | Abington | 0 | +2.2 | +1.0 |
+| 2026-11-09 | South Hadley | 7 | Bay Path | 0 | +0.8 | +7.0 |
 | 2026-11-09 | Rockland | 2 | Manchester Essex | 1 | +3.3 | +1.0 |
-| 2026-11-09 | Duxbury | 3 | Stoughton | 0 | +4.9 | +3.0 |
+| 2026-11-09 | West Bridgewater | 3 | Leicester | 2 | +0.4 | +1.0 |
 | 2026-11-09 | Wahconah | 3 | Southwick | 1 | +1.2 | +2.0 |
 | 2026-11-09 | Lunenburg | 2 | Northbridge | 0 | +0.4 | +2.0 |
 | 2026-11-09 | Medfield | 10 | Falmouth | 0 | +4.9 | +10.0 |
 | 2026-11-09 | Norwell | 4 | St. Mary’s | 0 | +4.0 | +4.0 |
-| 2026-11-09 | Dover-Sherborn | 4 | Old Rochester | 2 | +1.5 | +2.0 |
-| 2026-11-09 | Pope Francis | 6 | Nipmuc | 0 | +4.5 | +6.0 |
-| 2026-11-09 | Lynnfield | 2 | North Reading | 1 | +2.1 | +1.0 |
-| 2026-11-09 | Dedham | 1 | Scituate | 0 | +3.4 | +1.0 |
-| 2026-11-09 | Tewksbury | 2 | Pembroke | 1 | +3.8 | +1.0 |
-| 2026-11-09 | Bishop Fenwick | 3 | Hudson | 2 | +1.5 | +1.0 |
-| 2026-11-09 | Cardinal Spellman | 3 | Nauset | 0 | +2.4 | +3.0 |
-| 2026-11-09 | Hanover | 3 | Salem | 1 | +1.1 | +2.0 |
-| 2026-11-09 | Foxborough | 9 | Dighton-Rehoboth | 0 | +2.1 | +9.0 |
-| 2026-11-09 | Norton | 3 | Weston | 2 | +1.2 | +1.0 |
-| 2026-11-09 | Medway | 2 | East Bridgewater | 0 | -0.7 | +2.0 |
-| 2026-11-09 | West Bridgewater | 3 | Leicester | 2 | +0.4 | +1.0 |
-| 2026-11-08 | Marblehead | 0 | Northampton | 1 | +0.2 | -1.0 |
-| 2026-11-08 | Milton | 3 | Bristol-Plymouth | 0 | +0.5 | +3.0 |
-| 2026-11-08 | Newton South | 3 | Hopkinton | 7 | +1.6 | -4.0 |
-| 2026-11-08 | St. John Paul II | 3 | Nashoba Valley Tech | 2 | -2.0 | +1.0 |
 | 2026-11-08 | Seekonk | 6 | Keefe Tech | 0 | +2.1 | +6.0 |
+| 2026-11-08 | Milton | 3 | Bristol-Plymouth | 0 | +0.5 | +3.0 |
+| 2026-11-08 | Marblehead | 0 | Northampton | 1 | +0.2 | -1.0 |
+| 2026-11-08 | St. John Paul II | 3 | Nashoba Valley Tech | 2 | -2.0 | +1.0 |
 | 2026-11-08 | Franklin County Tech | 4 | TechBoston | 1 | +1.8 | +3.0 |
-| 2026-11-07 | Falmouth | 1 | Quabbin | 0 | -0.5 | +1.0 |
-| 2026-11-07 | Nauset | 5 | Pittsfield | 0 | +1.8 | +5.0 |
-| 2026-11-07 | Pembroke | 5 | Chicopee | 1 | -2.5 | +4.0 |
-| 2026-11-07 | Scituate | 3 | Fitchburg | 0 | -0.9 | +3.0 |
-| 2026-11-07 | North Reading | 6 | Monty Tech | 0 | +1.1 | +6.0 |
-| 2026-11-07 | Nipmuc | 2 | Oakmont | 1 | +0.5 | +1.0 |
-| 2026-11-07 | Old Rochester | 3 | Greater Lowell | 0 | +0.3 | +3.0 |
-| 2026-11-07 | Groton-Dunstable | 0 | St. Mary’s | 2 | -0.9 | -2.0 |
-| 2026-11-07 | Melrose | 8 | Malden | 0 | +1.0 | +8.0 |
-| 2026-11-07 | Marshfield | 10 | Chelsea | 0 | +1.7 | +10.0 |
-| 2026-11-07 | North Attleborough | 3 | Diman | 0 | +0.5 | +3.0 |
-| 2026-11-07 | Canton | 3 | Somerville | 2 | -0.2 | +1.0 |
-| 2026-11-07 | Mansfield | 2 | Middleborough | 0 | -0.4 | +2.0 |
-| 2026-11-07 | Nashoba | 2 | Dartmouth | 0 | +0.7 | +2.0 |
-| 2026-11-07 | Longmeadow | 0 | Shepherd Hill | 1 | +0.4 | -1.0 |
-| 2026-11-07 | Ludlow | 2 | Martha’s Vineyard | 0 | +1.4 | +2.0 |
-| 2026-11-07 | Salem | 2 | Marlborough | 1 | +1.9 | +1.0 |
-| 2026-11-07 | Stoughton | 1 | Archbishop Williams | 0 | -0.2 | +1.0 |
-| 2026-11-07 | North Middlesex | 0 | Dighton-Rehoboth | 3 | +1.8 | -3.0 |
-| 2026-11-07 | Swampscott | 6 | Shawsheen | 0 | +1.0 | +6.0 |
-| 2026-11-07 | Bristol Aggie | 4 | Boston International | 1 | -0.4 | +3.0 |
-| 2026-11-07 | Hoosac Valley | 3 | Collegiate Charter | 0 | +0.9 | +3.0 |
-| 2026-11-07 | Georgetown | 9 | Brooke Charter | 0 | +2.6 | +9.0 |
-| 2026-11-07 | Northbridge | 3 | Westfield Tech | 0 | +3.0 | +3.0 |
-| 2026-11-07 | Leicester | 10 | Excel Academy | 0 | +2.0 | +10.0 |
-| 2026-11-07 | Manchester Essex | 6 | Sturgis East | 0 | +0.2 | +6.0 |
-| 2026-11-07 | Uxbridge | 4 | Greater Lawrence | 0 | +2.2 | +4.0 |
-| 2026-11-07 | Bay Path | 1 | St. Bernard’s | 0 | +2.0 | +1.0 |
-| 2026-11-07 | Abington | 9 | Lowell Catholic | 0 | +0.8 | +9.0 |
-| 2026-11-07 | Ipswich | 4 | Lynn Tech | 0 | +2.6 | +4.0 |
-| 2026-11-07 | Blue Hills | 3 | Cathedral/Cristo Rey | 0 | +2.2 | +3.0 |
-| 2026-11-07 | Mashpee | 3 | Blackstone-Millville | 4 | +0.3 | -1.0 |
-| 2026-11-07 | Sturgis West | 1 | Tri-County | 0 | +0.3 | +1.0 |
-| 2026-11-07 | Easthampton | 1 | Gardner | 0 | -0.8 | +1.0 |
-| 2026-11-07 | Weston | 6 | Revere | 1 | +2.2 | +5.0 |
-| 2026-11-07 | Andover | 2 | Durfee | 3 | +1.7 | -1.0 |
+| 2026-11-08 | Newton South | 3 | Hopkinton | 7 | +1.6 | -4.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Medfield | 2299.8 |
+| 1 | Medfield | 2338.0 |
 | 2 | Bishop Feehan | 2254.4 |
-| 3 | Concord-Carlisle | 2238.6 |
-| 4 | Norwell | 2221.7 |
-| 5 | Duxbury | 2204.3 |
-| 6 | Cohasset | 2175.5 |
-| 7 | Wellesley | 2170.0 |
-| 8 | Sutton | 2143.2 |
+| 3 | Norwell | 2247.5 |
+| 4 | Concord-Carlisle | 2238.6 |
+| 5 | Duxbury | 2209.1 |
+| 6 | Cohasset | 2186.4 |
+| 7 | Sutton | 2154.6 |
+| 8 | Douglas | 2144.6 |
 | 9 | Needham | 2135.5 |
-| 10 | Douglas | 2124.5 |
-| 11 | Pope Francis | 2115.1 |
+| 10 | Pope Francis | 2115.1 |
+| 11 | Wellesley | 2114.5 |
 | 12 | Central Catholic | 2113.2 |
 | 13 | Hingham | 2076.9 |
-| 14 | Cardinal Spellman | 2069.2 |
-| 15 | Masconomet | 2049.5 |
-| 16 | King Philip | 2037.8 |
+| 14 | Masconomet | 2049.5 |
+| 15 | Braintree | 2033.1 |
+| 16 | Cardinal Spellman | 2031.0 |
 | 17 | Oliver Ames | 2024.2 |
 | 18 | Franklin | 2019.3 |
-| 19 | Braintree | 1977.6 |
-| 20 | Beverly | 1972.0 |
-| 21 | Dover-Sherborn | 1968.2 |
+| 19 | King Philip | 1981.0 |
+| 20 | Belchertown | 1975.5 |
+| 21 | Beverly | 1972.0 |
 | 22 | Advanced Math and Science | 1950.4 |
 | 23 | Newburyport | 1947.6 |
-| 24 | Tewksbury | 1945.6 |
+| 24 | Granby | 1939.1 |
 | 25 | Foxborough | 1938.5 |
 | 26 | Austin Prep | 1935.3 |
-| 27 | Belchertown | 1932.5 |
-| 28 | Sandwich | 1930.6 |
-| 29 | Granby | 1930.0 |
-| 30 | Pingree | 1929.2 |
-| 31 | Shrewsbury | 1923.3 |
+| 27 | Sandwich | 1930.6 |
+| 28 | Pingree | 1929.2 |
+| 29 | Dover-Sherborn | 1925.2 |
+| 30 | Shrewsbury | 1923.3 |
+| 31 | Tewksbury | 1919.8 |
 | 32 | Lynnfield | 1914.6 |
 | 33 | Tyngsborough | 1910.5 |
-| 34 | Littleton | 1910.0 |
+| 34 | Littleton | 1898.7 |
 | 35 | Northampton | 1894.9 |
 | 36 | Ursuline | 1892.5 |
 | 37 | Bridgewater-Raynham | 1891.8 |
-| 38 | Notre Dame (Hingham) | 1884.5 |
-| 39 | Acton-Boxborough | 1880.4 |
-| 40 | Rockland | 1868.9 |
-| 41 | Somerset Berkley | 1868.6 |
-| 42 | Hull | 1866.1 |
-| 43 | Hampshire | 1865.9 |
-| 44 | Brookline | 1865.4 |
-| 45 | Bishop Fenwick | 1864.6 |
-| 46 | Lexington | 1860.7 |
-| 47 | South Hadley | 1843.1 |
-| 48 | Hopedale | 1842.2 |
+| 38 | Hull | 1888.4 |
+| 39 | Notre Dame (Hingham) | 1884.5 |
+| 40 | Milton | 1882.2 |
+| 41 | Acton-Boxborough | 1880.4 |
+| 42 | Hopedale | 1876.6 |
+| 43 | Rockland | 1868.9 |
+| 44 | Somerset Berkley | 1868.6 |
+| 45 | Brookline | 1865.4 |
+| 46 | Bishop Fenwick | 1864.6 |
+| 47 | Lexington | 1860.7 |
+| 48 | Hampshire | 1845.9 |
 | 49 | Lunenburg | 1838.6 |
-| 50 | Minnechaug | 1831.0 |
-| 51 | Winchester | 1829.4 |
-| 52 | Milton | 1825.4 |
+| 50 | South Hadley | 1832.1 |
+| 51 | Minnechaug | 1831.0 |
+| 52 | Winchester | 1829.4 |
 | 53 | Peabody | 1817.6 |
 | 54 | Belmont | 1816.2 |
 | 55 | Hamilton-Wenham | 1815.6 |
@@ -283,24 +249,24 @@ Generated: 2026-11-14 15:53
 | 84 | Newton North | 1723.1 |
 | 85 | Hanover | 1722.9 |
 | 86 | St. Mary’s | 1722.9 |
-| 87 | Holbrook | 1715.3 |
-| 88 | Georgetown | 1711.6 |
+| 87 | Georgetown | 1711.6 |
+| 88 | David Prouty | 1707.5 |
 | 89 | Hudson | 1701.7 |
 | 90 | Natick | 1700.9 |
-| 91 | Lenox | 1699.5 |
-| 92 | North Reading | 1698.3 |
-| 93 | Ludlow | 1694.8 |
-| 94 | East Longmeadow | 1692.5 |
-| 95 | Vermont Academy | 1687.5 |
-| 96 | Falmouth | 1683.0 |
-| 97 | Holliston | 1678.5 |
-| 98 | Bristol-Plymouth | 1678.4 |
-| 99 | Whitman-Hanson | 1674.2 |
-| 100 | Greater Lowell | 1673.5 |
-| 101 | Sharon | 1671.9 |
-| 102 | Auburn | 1670.5 |
+| 91 | North Reading | 1698.3 |
+| 92 | Ludlow | 1694.8 |
+| 93 | East Longmeadow | 1692.5 |
+| 94 | Vermont Academy | 1687.5 |
+| 95 | Falmouth | 1683.0 |
+| 96 | Holliston | 1678.5 |
+| 97 | Bristol-Plymouth | 1678.4 |
+| 98 | Greater Lowell | 1673.5 |
+| 99 | Sharon | 1671.9 |
+| 100 | Holbrook | 1670.7 |
+| 101 | Auburn | 1670.5 |
+| 102 | Whitman-Hanson | 1669.4 |
 | 103 | Wilmington | 1667.8 |
-| 104 | David Prouty | 1662.9 |
+| 104 | Lenox | 1665.1 |
 | 105 | Seekonk | 1662.0 |
 | 106 | Silver Lake | 1655.3 |
 | 107 | Newton South | 1654.8 |
@@ -331,25 +297,25 @@ Generated: 2026-11-14 15:53
 | 132 | Billerica | 1603.3 |
 | 133 | Dighton-Rehoboth | 1602.7 |
 | 134 | Deerfield | 1601.6 |
-| 135 | Rockport | 1598.4 |
-| 136 | Cathedral/Cristo Rey | 1597.3 |
-| 137 | Boston Latin | 1594.3 |
-| 138 | Mansfield | 1593.9 |
-| 139 | O’Bryant | 1593.6 |
-| 140 | Berwick | 1593.2 |
-| 141 | Ipswich | 1591.5 |
-| 142 | Tri-County | 1590.4 |
-| 143 | Westport | 1589.2 |
-| 144 | North Andover | 1588.1 |
-| 145 | North Quincy | 1588.1 |
-| 146 | Pomfret | 1586.8 |
-| 147 | Salem | 1585.4 |
-| 148 | Middleborough | 1585.1 |
-| 149 | Abington | 1584.0 |
-| 150 | Archbishop Williams | 1583.2 |
-| 151 | Amherst-Pelham | 1579.4 |
-| 152 | Longmeadow | 1579.3 |
-| 153 | Stoughton | 1576.9 |
+| 135 | Cathedral/Cristo Rey | 1597.3 |
+| 136 | Boston Latin | 1594.3 |
+| 137 | Mansfield | 1593.9 |
+| 138 | O’Bryant | 1593.6 |
+| 139 | Berwick | 1593.2 |
+| 140 | Ipswich | 1591.5 |
+| 141 | Tri-County | 1590.4 |
+| 142 | Westport | 1589.2 |
+| 143 | North Andover | 1588.1 |
+| 144 | North Quincy | 1588.1 |
+| 145 | Pomfret | 1586.8 |
+| 146 | Salem | 1585.4 |
+| 147 | Middleborough | 1585.1 |
+| 148 | Abington | 1584.0 |
+| 149 | Archbishop Williams | 1583.2 |
+| 150 | Amherst-Pelham | 1579.4 |
+| 151 | Longmeadow | 1579.3 |
+| 152 | Stoughton | 1576.9 |
+| 153 | Rockport | 1576.1 |
 | 154 | Palmer | 1574.7 |
 | 155 | Tabor | 1573.5 |
 | 156 | Easthampton | 1573.5 |
@@ -393,20 +359,20 @@ Generated: 2026-11-14 15:53
 | 194 | Brooks | 1506.1 |
 | 195 | Tantasqua | 1505.7 |
 | 196 | Excel Academy | 1504.8 |
-| 197 | Boston Prep | 1501.7 |
-| 198 | Pioneer Valley Chinese Immersion | 1501.7 |
-| 199 | Barrington (R.I.) | 1501.7 |
-| 200 | South Shore Christian | 1501.7 |
+| 197 | La Salle (R.I.) | 1501.7 |
+| 198 | KIPP | 1501.7 |
+| 199 | Neighborhood House Charter | 1501.7 |
+| 200 | Barrington (R.I.) | 1501.7 |
 | 201 | Housatonic Regional (Conn.) | 1501.7 |
 | 202 | Bridgton Academy | 1501.7 |
-| 203 | La Salle (R.I.) | 1501.7 |
+| 203 | Pioneer Valley Chinese Immersion | 1501.7 |
 | 204 | Newman School | 1501.7 |
-| 205 | KIPP | 1501.7 |
-| 206 | Taft | 1501.7 |
-| 207 | Kingswood-Oxford | 1501.7 |
-| 208 | Kent | 1501.7 |
-| 209 | Neighborhood House Charter | 1501.7 |
-| 210 | Poughkeepsie Day (N.Y.) | 1501.7 |
+| 205 | Taft | 1501.7 |
+| 206 | Kingswood-Oxford | 1501.7 |
+| 207 | South Shore Christian | 1501.7 |
+| 208 | Poughkeepsie Day (N.Y.) | 1501.7 |
+| 209 | Kent | 1501.7 |
+| 210 | Boston Prep | 1501.7 |
 | 211 | St. Paul’s | 1499.3 |
 | 212 | Monty Tech | 1498.9 |
 | 213 | Drury | 1496.6 |
@@ -419,15 +385,15 @@ Generated: 2026-11-14 15:53
 | 220 | Cheshire Academy | 1493.6 |
 | 221 | BB&N | 1492.4 |
 | 222 | Cranston West (R.I.) | 1491.1 |
-| 223 | Whitinsville Christian | 1491.0 |
-| 224 | Portsmouth Abbey | 1490.0 |
-| 225 | Moses Brown (R.I.) | 1489.9 |
-| 226 | St. Andrew’s | 1488.2 |
-| 227 | Notre Dame Academy-Worcester | 1487.1 |
-| 228 | Governor’s Academy | 1484.3 |
-| 229 | Brattleboro (Vt.) | 1483.9 |
-| 230 | Groton-Dunstable | 1483.5 |
-| 231 | Gateway | 1482.7 |
+| 223 | Portsmouth Abbey | 1490.0 |
+| 224 | Moses Brown (R.I.) | 1489.9 |
+| 225 | St. Andrew’s | 1488.2 |
+| 226 | Notre Dame Academy-Worcester | 1487.1 |
+| 227 | Governor’s Academy | 1484.3 |
+| 228 | Brattleboro (Vt.) | 1483.9 |
+| 229 | Groton-Dunstable | 1483.5 |
+| 230 | Gateway | 1482.7 |
+| 231 | Whitinsville Christian | 1481.9 |
 | 232 | Harvey (N.Y.) | 1481.7 |
 | 233 | Concord Academy | 1481.4 |
 | 234 | Mahar | 1477.0 |
@@ -637,19 +603,19 @@ Generated: 2026-11-14 15:53
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
 | 1 | Bishop Feehan | 2254.4 | 2 |
-| 2 | Concord-Carlisle | 2238.6 | 3 |
-| 3 | Wellesley | 2170.0 | 7 |
-| 4 | Needham | 2135.5 | 9 |
+| 2 | Concord-Carlisle | 2238.6 | 4 |
+| 3 | Needham | 2135.5 | 9 |
+| 4 | Wellesley | 2114.5 | 11 |
 | 5 | Central Catholic | 2113.2 | 12 |
-| 6 | Franklin | 2019.3 | 18 |
-| 7 | Braintree | 1977.6 | 19 |
-| 8 | Beverly | 1972.0 | 20 |
-| 9 | Shrewsbury | 1923.3 | 31 |
+| 6 | Braintree | 2033.1 | 15 |
+| 7 | Franklin | 2019.3 | 18 |
+| 8 | Beverly | 1972.0 | 21 |
+| 9 | Shrewsbury | 1923.3 | 30 |
 | 10 | Bridgewater-Raynham | 1891.8 | 37 |
-| 11 | Acton-Boxborough | 1880.4 | 39 |
-| 12 | Brookline | 1865.4 | 44 |
-| 13 | Lexington | 1860.7 | 46 |
-| 14 | Winchester | 1829.4 | 51 |
+| 11 | Acton-Boxborough | 1880.4 | 41 |
+| 12 | Brookline | 1865.4 | 45 |
+| 13 | Lexington | 1860.7 | 47 |
+| 14 | Winchester | 1829.4 | 52 |
 | 15 | Peabody | 1817.6 | 53 |
 | 16 | Belmont | 1816.2 | 54 |
 | 17 | Westford | 1803.6 | 59 |
@@ -660,8 +626,8 @@ Generated: 2026-11-14 15:53
 | 22 | Newton South | 1654.8 | 107 |
 | 23 | Lincoln-Sudbury | 1649.7 | 111 |
 | 24 | Chelmsford | 1644.6 | 115 |
-| 25 | Boston Latin | 1594.3 | 137 |
-| 26 | North Andover | 1588.1 | 144 |
+| 25 | Boston Latin | 1594.3 | 136 |
+| 26 | North Andover | 1588.1 | 143 |
 | 27 | Wachusett | 1571.5 | 158 |
 | 28 | Andover | 1559.9 | 163 |
 | 29 | Westborough | 1558.1 | 164 |
@@ -690,26 +656,26 @@ Generated: 2026-11-14 15:53
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Duxbury | 2204.3 | 5 |
+| 1 | Duxbury | 2209.1 | 5 |
 | 2 | Hingham | 2076.9 | 13 |
-| 3 | Masconomet | 2049.5 | 15 |
-| 4 | King Philip | 2037.8 | 16 |
-| 5 | Oliver Ames | 2024.2 | 17 |
+| 3 | Masconomet | 2049.5 | 14 |
+| 4 | Oliver Ames | 2024.2 | 17 |
+| 5 | King Philip | 1981.0 | 19 |
 | 6 | Newburyport | 1947.6 | 23 |
 | 7 | Northampton | 1894.9 | 35 |
-| 8 | Notre Dame (Hingham) | 1884.5 | 38 |
-| 9 | Somerset Berkley | 1868.6 | 41 |
-| 10 | Minnechaug | 1831.0 | 50 |
-| 11 | Milton | 1825.4 | 52 |
+| 8 | Notre Dame (Hingham) | 1884.5 | 39 |
+| 9 | Milton | 1882.2 | 40 |
+| 10 | Somerset Berkley | 1868.6 | 44 |
+| 11 | Minnechaug | 1831.0 | 51 |
 | 12 | Marblehead | 1814.7 | 56 |
 | 13 | Westwood | 1760.4 | 69 |
 | 14 | Danvers | 1747.9 | 76 |
 | 15 | Grafton | 1739.1 | 78 |
-| 16 | East Longmeadow | 1692.5 | 94 |
-| 17 | Holliston | 1678.5 | 97 |
-| 18 | Bristol-Plymouth | 1678.4 | 98 |
-| 19 | Whitman-Hanson | 1674.2 | 99 |
-| 20 | Sharon | 1671.9 | 101 |
+| 16 | East Longmeadow | 1692.5 | 93 |
+| 17 | Holliston | 1678.5 | 96 |
+| 18 | Bristol-Plymouth | 1678.4 | 97 |
+| 19 | Sharon | 1671.9 | 99 |
+| 20 | Whitman-Hanson | 1669.4 | 102 |
 | 21 | Silver Lake | 1655.3 | 106 |
 | 22 | Nashoba | 1647.6 | 114 |
 | 23 | Burlington | 1643.4 | 116 |
@@ -717,13 +683,13 @@ Generated: 2026-11-14 15:53
 | 25 | Wayland | 1620.0 | 122 |
 | 26 | Marshfield | 1614.1 | 123 |
 | 27 | Billerica | 1603.3 | 132 |
-| 28 | Mansfield | 1593.9 | 138 |
-| 29 | North Quincy | 1588.1 | 145 |
-| 30 | Middleborough | 1585.1 | 148 |
-| 31 | Archbishop Williams | 1583.2 | 150 |
-| 32 | Amherst-Pelham | 1579.4 | 151 |
-| 33 | Longmeadow | 1579.3 | 152 |
-| 34 | Stoughton | 1576.9 | 153 |
+| 28 | Mansfield | 1593.9 | 137 |
+| 29 | North Quincy | 1588.1 | 144 |
+| 30 | Middleborough | 1585.1 | 147 |
+| 31 | Archbishop Williams | 1583.2 | 149 |
+| 32 | Amherst-Pelham | 1579.4 | 150 |
+| 33 | Longmeadow | 1579.3 | 151 |
+| 34 | Stoughton | 1576.9 | 152 |
 | 35 | West Springfield | 1560.3 | 162 |
 | 36 | Westfield | 1548.3 | 168 |
 | 37 | Dartmouth | 1538.2 | 175 |
@@ -759,17 +725,17 @@ Generated: 2026-11-14 15:53
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Medfield | 2299.8 | 1 |
-| 2 | Norwell | 2221.7 | 4 |
-| 3 | Pope Francis | 2115.1 | 11 |
-| 4 | Cardinal Spellman | 2069.2 | 14 |
-| 5 | Dover-Sherborn | 1968.2 | 21 |
-| 6 | Tewksbury | 1945.6 | 24 |
-| 7 | Foxborough | 1938.5 | 25 |
-| 8 | Belchertown | 1932.5 | 27 |
+| 1 | Medfield | 2338.0 | 1 |
+| 2 | Norwell | 2247.5 | 3 |
+| 3 | Pope Francis | 2115.1 | 10 |
+| 4 | Cardinal Spellman | 2031.0 | 16 |
+| 5 | Belchertown | 1975.5 | 20 |
+| 6 | Foxborough | 1938.5 | 25 |
+| 7 | Dover-Sherborn | 1925.2 | 29 |
+| 8 | Tewksbury | 1919.8 | 31 |
 | 9 | Lynnfield | 1914.6 | 32 |
 | 10 | Ursuline | 1892.5 | 36 |
-| 11 | Bishop Fenwick | 1864.6 | 45 |
+| 11 | Bishop Fenwick | 1864.6 | 46 |
 | 12 | Dedham | 1803.5 | 60 |
 | 13 | East Bridgewater | 1768.6 | 67 |
 | 14 | Medway | 1756.8 | 71 |
@@ -779,18 +745,18 @@ Generated: 2026-11-14 15:53
 | 18 | Hanover | 1722.9 | 85 |
 | 19 | St. Mary’s | 1722.9 | 86 |
 | 20 | Hudson | 1701.7 | 89 |
-| 21 | North Reading | 1698.3 | 92 |
-| 22 | Ludlow | 1694.8 | 93 |
-| 23 | Falmouth | 1683.0 | 96 |
-| 24 | Greater Lowell | 1673.5 | 100 |
-| 25 | Auburn | 1670.5 | 102 |
+| 21 | North Reading | 1698.3 | 91 |
+| 22 | Ludlow | 1694.8 | 92 |
+| 23 | Falmouth | 1683.0 | 95 |
+| 24 | Greater Lowell | 1673.5 | 98 |
+| 25 | Auburn | 1670.5 | 101 |
 | 26 | Wilmington | 1667.8 | 103 |
 | 27 | Norton | 1653.5 | 108 |
 | 28 | Apponequet | 1648.4 | 113 |
 | 29 | Swampscott | 1612.0 | 127 |
 | 30 | North Middlesex | 1606.5 | 129 |
 | 31 | Dighton-Rehoboth | 1602.7 | 133 |
-| 32 | Salem | 1585.4 | 147 |
+| 32 | Salem | 1585.4 | 146 |
 | 33 | Chicopee | 1564.1 | 160 |
 | 34 | Martha’s Vineyard | 1526.5 | 178 |
 | 35 | Nipmuc | 1519.1 | 183 |
@@ -798,8 +764,8 @@ Generated: 2026-11-14 15:53
 | 37 | Pittsfield | 1510.9 | 191 |
 | 38 | Tantasqua | 1505.7 | 195 |
 | 39 | Monty Tech | 1498.9 | 212 |
-| 40 | Notre Dame Academy-Worcester | 1487.1 | 227 |
-| 41 | Groton-Dunstable | 1483.5 | 230 |
+| 40 | Notre Dame Academy-Worcester | 1487.1 | 226 |
+| 41 | Groton-Dunstable | 1483.5 | 229 |
 | 42 | Essex Tech | 1470.9 | 236 |
 | 43 | Pembroke | 1458.5 | 248 |
 | 44 | Oakmont | 1451.2 | 252 |
@@ -839,17 +805,17 @@ Generated: 2026-11-14 15:53
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Cohasset | 2175.5 | 6 |
-| 2 | Sutton | 2143.2 | 8 |
-| 3 | Douglas | 2124.5 | 10 |
+| 1 | Cohasset | 2186.4 | 6 |
+| 2 | Sutton | 2154.6 | 7 |
+| 3 | Douglas | 2144.6 | 8 |
 | 4 | Advanced Math and Science | 1950.4 | 22 |
-| 5 | Sandwich | 1930.6 | 28 |
+| 5 | Sandwich | 1930.6 | 27 |
 | 6 | Tyngsborough | 1910.5 | 33 |
-| 7 | Littleton | 1910.0 | 34 |
-| 8 | Rockland | 1868.9 | 40 |
-| 9 | Hampshire | 1865.9 | 43 |
-| 10 | South Hadley | 1843.1 | 47 |
-| 11 | Lunenburg | 1838.6 | 49 |
+| 7 | Littleton | 1898.7 | 34 |
+| 8 | Rockland | 1868.9 | 43 |
+| 9 | Hampshire | 1845.9 | 48 |
+| 10 | Lunenburg | 1838.6 | 49 |
+| 11 | South Hadley | 1832.1 | 50 |
 | 12 | Hamilton-Wenham | 1815.6 | 55 |
 | 13 | West Bridgewater | 1809.0 | 57 |
 | 14 | Blue Hills | 1808.8 | 58 |
@@ -858,19 +824,19 @@ Generated: 2026-11-14 15:53
 | 17 | Leicester | 1772.3 | 65 |
 | 18 | Northbridge | 1758.2 | 70 |
 | 19 | Frontier | 1737.4 | 79 |
-| 20 | Georgetown | 1711.6 | 88 |
+| 20 | Georgetown | 1711.6 | 87 |
 | 21 | Seekonk | 1662.0 | 105 |
 | 22 | Gardner | 1650.6 | 110 |
 | 23 | Southwick | 1649.5 | 112 |
 | 24 | Sturgis West | 1627.7 | 121 |
 | 25 | Uxbridge | 1612.0 | 126 |
 | 26 | Bay Path | 1605.9 | 131 |
-| 27 | Cathedral/Cristo Rey | 1597.3 | 136 |
-| 28 | O’Bryant | 1593.6 | 139 |
-| 29 | Ipswich | 1591.5 | 141 |
-| 30 | Tri-County | 1590.4 | 142 |
-| 31 | Westport | 1589.2 | 143 |
-| 32 | Abington | 1584.0 | 149 |
+| 27 | Cathedral/Cristo Rey | 1597.3 | 135 |
+| 28 | O’Bryant | 1593.6 | 138 |
+| 29 | Ipswich | 1591.5 | 140 |
+| 30 | Tri-County | 1590.4 | 141 |
+| 31 | Westport | 1589.2 | 142 |
+| 32 | Abington | 1584.0 | 148 |
 | 33 | Easthampton | 1573.5 | 156 |
 | 34 | South High | 1556.7 | 165 |
 | 35 | Blackstone-Millville | 1532.0 | 176 |
@@ -919,30 +885,30 @@ Generated: 2026-11-14 15:53
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Granby | 1930.0 | 29 |
-| 2 | Hull | 1866.1 | 42 |
-| 3 | Hopedale | 1842.2 | 48 |
+| 1 | Granby | 1939.1 | 24 |
+| 2 | Hull | 1888.4 | 38 |
+| 3 | Hopedale | 1876.6 | 42 |
 | 4 | Hopkins | 1755.2 | 74 |
-| 5 | Holbrook | 1715.3 | 87 |
-| 6 | Lenox | 1699.5 | 91 |
-| 7 | David Prouty | 1662.9 | 104 |
+| 5 | David Prouty | 1707.5 | 88 |
+| 6 | Holbrook | 1670.7 | 100 |
+| 7 | Lenox | 1665.1 | 104 |
 | 8 | Norfolk Aggie | 1612.3 | 124 |
 | 9 | Smith Voc. | 1612.0 | 125 |
 | 10 | Monson | 1606.2 | 130 |
-| 11 | Rockport | 1598.4 | 135 |
+| 11 | Rockport | 1576.1 | 153 |
 | 12 | Palmer | 1574.7 | 154 |
 | 13 | Franklin County Tech | 1544.0 | 171 |
 | 14 | Nashoba Valley Tech | 1523.4 | 181 |
 | 15 | Rising Tide Charter | 1514.1 | 187 |
 | 16 | Pioneer Valley Regional | 1513.1 | 188 |
 | 17 | Notre Dame (Tyngsborough) | 1512.3 | 189 |
-| 18 | Boston Prep | 1501.7 | 197 |
-| 19 | Pioneer Valley Chinese Immersion | 1501.7 | 198 |
-| 20 | KIPP | 1501.7 | 205 |
-| 21 | Neighborhood House Charter | 1501.7 | 209 |
+| 18 | KIPP | 1501.7 | 198 |
+| 19 | Neighborhood House Charter | 1501.7 | 199 |
+| 20 | Pioneer Valley Chinese Immersion | 1501.7 | 203 |
+| 21 | Boston Prep | 1501.7 | 210 |
 | 22 | Drury | 1496.6 | 213 |
-| 23 | Whitinsville Christian | 1491.0 | 223 |
-| 24 | Gateway | 1482.7 | 231 |
+| 23 | Gateway | 1482.7 | 230 |
+| 24 | Whitinsville Christian | 1481.9 | 231 |
 | 25 | Mahar | 1477.0 | 234 |
 | 26 | Codman Charter | 1470.3 | 238 |
 | 27 | Parker Charter | 1464.5 | 242 |
@@ -996,7 +962,7 @@ Non-MIAA opponents and teams without a known division.
 | Team | Elo Rating | Overall Rank | Status |
 |------|------------|--------------|--------|
 | Austin Prep | 1935.3 | 26 | non-member |
-| Pingree | 1929.2 | 30 | non-member |
+| Pingree | 1929.2 | 28 | non-member |
 | Dexter Southfield | 1776.4 | 63 | non-member |
 | Lawrence Academy | 1773.1 | 64 | non-member |
 | Miss Porter’s | 1771.0 | 66 | non-member |
@@ -1004,15 +970,15 @@ Non-MIAA opponents and teams without a known division.
 | Newton Country Day | 1755.5 | 73 | non-member |
 | Phillips Andover | 1740.4 | 77 | non-member |
 | Worcester Academy | 1732.8 | 80 | non-member |
-| Vermont Academy | 1687.5 | 95 | non-member |
+| Vermont Academy | 1687.5 | 94 | non-member |
 | Greens Farms | 1651.9 | 109 | non-member |
 | St. George’s | 1641.7 | 117 | non-member |
 | Nobles | 1631.3 | 119 | non-member |
 | Thayer | 1629.2 | 120 | non-member |
 | Cumberland (R.I.) | 1608.6 | 128 | non-member |
 | Deerfield | 1601.6 | 134 | non-member |
-| Berwick | 1593.2 | 140 | non-member |
-| Pomfret | 1586.8 | 146 | non-member |
+| Berwick | 1593.2 | 139 | non-member |
+| Pomfret | 1586.8 | 145 | non-member |
 | Tabor | 1573.5 | 155 | non-member |
 | Westminster | 1573.2 | 157 | non-member |
 | Williston Northampton | 1567.6 | 159 | non-member |
@@ -1027,27 +993,27 @@ Non-MIAA opponents and teams without a known division.
 | New Hampton | 1520.5 | 182 | non-member |
 | Holland (Burke) | 1507.6 | 193 | unknown |
 | Brooks | 1506.1 | 194 | non-member |
-| Barrington (R.I.) | 1501.7 | 199 | non-member |
-| South Shore Christian | 1501.7 | 200 | non-member |
+| La Salle (R.I.) | 1501.7 | 197 | non-member |
+| Barrington (R.I.) | 1501.7 | 200 | non-member |
 | Housatonic Regional (Conn.) | 1501.7 | 201 | non-member |
 | Bridgton Academy | 1501.7 | 202 | non-member |
-| La Salle (R.I.) | 1501.7 | 203 | non-member |
 | Newman School | 1501.7 | 204 | non-member |
-| Taft | 1501.7 | 206 | non-member |
-| Kingswood-Oxford | 1501.7 | 207 | non-member |
-| Kent | 1501.7 | 208 | non-member |
-| Poughkeepsie Day (N.Y.) | 1501.7 | 210 | non-member |
+| Taft | 1501.7 | 205 | non-member |
+| Kingswood-Oxford | 1501.7 | 206 | non-member |
+| South Shore Christian | 1501.7 | 207 | non-member |
+| Poughkeepsie Day (N.Y.) | 1501.7 | 208 | non-member |
+| Kent | 1501.7 | 209 | non-member |
 | St. Paul’s | 1499.3 | 211 | non-member |
 | Hope (R.I.) | 1496.4 | 214 | non-member |
 | Bishop Guertin (N.H.) | 1495.7 | 216 | non-member |
 | Cheshire Academy | 1493.6 | 220 | non-member |
 | BB&N | 1492.4 | 221 | non-member |
 | Cranston West (R.I.) | 1491.1 | 222 | non-member |
-| Portsmouth Abbey | 1490.0 | 224 | non-member |
-| Moses Brown (R.I.) | 1489.9 | 225 | non-member |
-| St. Andrew’s | 1488.2 | 226 | non-member |
-| Governor’s Academy | 1484.3 | 228 | non-member |
-| Brattleboro (Vt.) | 1483.9 | 229 | non-member |
+| Portsmouth Abbey | 1490.0 | 223 | non-member |
+| Moses Brown (R.I.) | 1489.9 | 224 | non-member |
+| St. Andrew’s | 1488.2 | 225 | non-member |
+| Governor’s Academy | 1484.3 | 227 | non-member |
+| Brattleboro (Vt.) | 1483.9 | 228 | non-member |
 | Harvey (N.Y.) | 1481.7 | 232 | non-member |
 | Concord Academy | 1481.4 | 233 | non-member |
 | Masters (N.Y.) | 1470.8 | 237 | non-member |

@@ -1,10 +1,10 @@
 team,elo,team_id,overall_rank,division,division_status,division_rank
-Brookline,2276.1764768526955,4059,1,1,assigned,1
-Franklin,2271.856731349224,4144,2,1,assigned,2
-Central Catholic,2271.378069449519,4081,3,1,assigned,3
-Oliver Ames,2223.4295901899973,4302,4,2,assigned,1
-Winchester,2217.6850784936432,4434,5,1,assigned,4
-Bellingham,2205.4644609616375,4033,6,3,assigned,1
+Central Catholic,2292.3792774055687,4081,1,1,assigned,1
+Brookline,2276.1764768526955,4059,2,1,assigned,2
+Franklin,2271.856731349224,4144,3,1,assigned,3
+Oliver Ames,2239.711998928919,4302,4,2,assigned,1
+Bellingham,2223.4420599045766,4033,5,3,assigned,1
+Winchester,2217.6850784936432,4434,6,1,assigned,4
 Chelmsford,2199.397860265064,4085,7,1,assigned,5
 Old Rochester,2129.681674593082,4301,8,3,assigned,2
 Lynnfield,2122.7325245792717,4223,9,3,assigned,3
@@ -13,10 +13,10 @@ Joseph Case,2095.7009343656587,4078,11,3,assigned,4
 Newton North,2081.7644013142317,4279,12,1,assigned,6
 East Bridgewater,2080.0134917521355,4126,13,4,assigned,1
 Barnstable,2073.4454006380665,4024,14,2,assigned,3
-Wellesley,2032.4092934847436,4413,15,1,assigned,7
-Bishop Feehan,2028.8835590172805,4042,16,1,assigned,8
-Calvary Chapel,2017.1864767737163,4828,17,5,assigned,1
-BB&N,2007.1402544441125,4028,18,,non-member,
+Bishop Feehan,2028.8835590172805,4042,15,1,assigned,7
+Calvary Chapel,2017.1864767737163,4828,16,5,assigned,1
+Wellesley,2011.4080855286936,4413,17,1,assigned,8
+BB&N,2010.448096256909,4028,18,,non-member,
 Westborough,1982.1107559613674,4418,19,1,assigned,9
 Duxbury,1980.1307827979376,4123,20,2,assigned,4
 Westford,1963.8525687214606,4421,21,1,assigned,10
@@ -27,10 +27,10 @@ Melrose,1921.745863029162,4244,25,2,assigned,6
 Hingham,1907.6516136357538,4171,26,2,assigned,7
 Newburyport,1901.159142346875,4276,27,3,assigned,5
 New Mission,1896.9485963267957,4494,28,5,assigned,2
-Pembroke,1888.8096535418522,4308,29,3,assigned,6
-Longmeadow,1887.5961244068462,4214,30,2,assigned,8
-Shrewsbury,1875.5198957612179,4348,31,1,assigned,12
-Newton South,1870.9983648190978,4280,32,1,assigned,13
+Shrewsbury,1875.5198957612179,4348,29,1,assigned,12
+Longmeadow,1871.3137156679247,4214,30,2,assigned,8
+Newton South,1870.9983648190978,4280,31,1,assigned,13
+Pembroke,1870.8320545989131,4308,32,3,assigned,6
 Ursuline,1869.2543518088164,4448,33,4,assigned,3
 Cohasset,1869.2192972829323,4094,34,4,assigned,4
 Lincoln-Sudbury,1857.5601312135473,4211,35,1,assigned,14
@@ -172,11 +172,11 @@ Austin Prep,1509.0646639123675,4020,170,,non-member,
 Rivers,1509.0618533375618,4330,171,,non-member,
 Hampden Charter West,1506.0958835510419,4985,172,5,assigned,25
 Putnam,1505.353191670806,4362,173,2,assigned,36
-South Shore Christian,1502.7555,4489,174,,non-member,
+Dublin,1502.7555,4121,174,,non-member,
 Northfield Mt. Hermon,1502.7555,4294,175,,non-member,
-Trinity Christian,1502.7555,4801,176,,non-member,
-Dublin,1502.7555,4121,177,,non-member,
-Fellowship Christian,1502.7555,4454,178,,non-member,
+Fellowship Christian,1502.7555,4454,176,,non-member,
+Trinity Christian,1502.7555,4801,177,,non-member,
+South Shore Christian,1502.7555,4489,178,,non-member,
 Taconic,1501.9284002185611,4385,179,3,assigned,31
 St. Paul,1498.553840859507,4954,180,4,assigned,21
 Pacific Rim Charter,1494.3060717858932,4478,181,5,assigned,26
@@ -332,8 +332,8 @@ Brooks,1282.2113510680117,4060,330,,non-member,
 Middleborough,1281.8162039938932,4247,331,3,assigned,54
 Brooke Charter,1281.6706920366287,5071,332,4,assigned,49
 Gloucester,1281.0267114768644,4150,333,,unknown,
-Lawrence Academy,1280.0325095016722,4204,334,,non-member,
-Norton,1278.2158315512258,4295,335,3,assigned,55
+Norton,1278.2158315512258,4295,334,3,assigned,55
+Lawrence Academy,1276.7246676888758,4204,335,,non-member,
 Cape Cod Tech,1275.3478113196895,4073,336,5,assigned,63
 Pentucket,1273.2512137641252,4309,337,3,assigned,56
 Cristo Rey,1270.4997658355626,4453,338,5,assigned,64
