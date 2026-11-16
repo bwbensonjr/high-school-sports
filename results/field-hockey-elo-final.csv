@@ -12,20 +12,20 @@ Nashoba,2238.600426980055,4267,10,2,assigned,3
 Dover-Sherborn,2221.436789415925,4118,11,3,assigned,4
 Dennis-Yarmouth,2217.975909224589,4111,12,4,assigned,1
 Cohasset,2211.3470213843157,4094,13,4,assigned,2
-Walpole,2134.2095001792786,4404,14,1,assigned,5
-Hopedale,2123.3551186392556,4507,15,4,assigned,3
+Hopedale,2153.647238958831,4507,14,4,assigned,3
+Walpole,2134.2095001792786,4404,15,1,assigned,5
 East Longmeadow,2115.128712207971,4127,16,3,assigned,5
-Andover,2093.2115657495724,4009,17,1,assigned,6
-Hingham,2069.2666892638995,4171,18,2,assigned,4
-Gloucester,2064.80013526949,4150,19,3,assigned,6
-Frontier,2063.535592225525,4146,20,4,assigned,4
+Frontier,2110.8832697233465,4146,17,4,assigned,4
+Andover,2093.2115657495724,4009,18,1,assigned,6
+Hingham,2069.2666892638995,4171,19,2,assigned,4
+Gloucester,2064.80013526949,4150,20,3,assigned,6
 King Philip,2048.744910697082,4197,21,2,assigned,5
 Phillips Andover,2042.5120276676357,4310,22,,non-member,
-Quabbin,2012.9415821123703,4325,23,4,assigned,5
-Moses Brown (R.I.),1998.3167772184922,4261,24,,non-member,
-Monomoy,1976.5522062075697,4706,25,4,assigned,6
-Milton,1966.3678690629613,4252,26,2,assigned,6
-Westwood,1957.674745492683,4424,27,2,assigned,7
+Moses Brown (R.I.),1998.3167772184922,4261,23,,non-member,
+Milton,1966.3678690629613,4252,24,2,assigned,6
+Quabbin,1965.5939046145486,4325,25,4,assigned,5
+Westwood,1957.674745492683,4424,26,2,assigned,7
+Monomoy,1946.2600858879944,4706,27,4,assigned,6
 Reading,1937.9243538685669,4328,28,2,assigned,8
 Foxborough,1933.388785912606,4142,29,3,assigned,7
 Sutton,1924.670629550467,4512,30,4,assigned,7
@@ -130,12 +130,12 @@ St. John Paul II,1505.91688394471,4689,128,4,assigned,20
 Marshfield,1504.383968750306,4234,129,2,assigned,26
 Milton Academy,1503.855934727825,4253,130,,non-member,
 Frederick Gunn (Conn.),1501.2414649603106,4161,131,,non-member,
-Ciciro-North Syracuse (N.Y.),1500.95,4959,132,,non-member,
-Kent,1500.95,4193,133,,non-member,
-Kingswood-Oxford,1500.95,4198,134,,non-member,
-Hamden Hall Country Day,1500.95,4162,135,,non-member,
-Hopkins (Conn.),1500.95,4612,136,,non-member,
-St. Luke’s,1500.95,4618,137,,non-member,
+Kingswood-Oxford,1500.95,4198,132,,non-member,
+Hopkins (Conn.),1500.95,4612,133,,non-member,
+Kent,1500.95,4193,134,,non-member,
+St. Luke’s,1500.95,4618,135,,non-member,
+Ciciro-North Syracuse (N.Y.),1500.95,4959,136,,non-member,
+Hamden Hall Country Day,1500.95,4162,137,,non-member,
 Groton,1496.894335590392,4544,138,,non-member,
 Old Rochester,1495.979241677055,4301,139,3,assigned,28
 St. Mark’s,1495.7543671270453,4372,140,,non-member,

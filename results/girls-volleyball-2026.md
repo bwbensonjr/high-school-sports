@@ -1,6 +1,6 @@
 # Girls Volleyball - 2026 Season
 
-Generated: 2026-11-15 16:28
+Generated: 2026-11-16 19:43
 
 ## Upcoming Games
 
@@ -8,12 +8,14 @@ Generated: 2026-11-15 16:28
 |------|------|-----------|-----------|------------|------------------|
 | 2026-11-16 | 6:00 P.M. | Lenox | Calvary Chapel | 29.4% | -0.8 |
 | 2026-11-16 | 6:00 P.M. | Pioneer Valley Christian | St. John Paul II | 47.0% | -0.1 |
+| 2026-11-17 | 6:00 P.M. | Central Catholic | Franklin | 60.0% | +0.3 |
 | 2026-11-17 | 6:00 P.M. | Canton | Duxbury | 75.0% | +0.9 |
 | 2026-11-18 | 6:00 P.M. | Brookline | Winchester | 65.1% | +0.5 |
 | 2026-11-18 | 6:00 P.M. | Oliver Ames | Barnstable | 77.6% | +1.1 |
 | 2026-11-18 | 6:00 P.M. | Old Rochester | Lynnfield | 58.1% | +0.3 |
 | 2026-11-18 | 6:00 P.M. | Bellingham | Joseph Case | 73.6% | +0.9 |
 | 2026-11-18 | 7:00 P.M. | Ursuline | Cohasset | 57.2% | +0.2 |
+| 2026-11-18 | 6:00 P.M. | East Bridgewater | Greater Lawrence | 75.9% | +1.0 |
 
 ## Recent Games
 
@@ -53,7 +55,7 @@ Generated: 2026-11-15 16:28
 | 2026-11-10 | Pioneer Valley Christian | 3 | Southbridge | 0 | +0.3 | +3.0 |
 | 2026-11-10 | Lenox | 3 | Pioneer Charter II | 0 | +0.5 | +3.0 |
 | 2026-11-10 | St. John Paul II | 3 | Smith Voc. | 0 | +0.1 | +3.0 |
-| 2026-11-10 | Canton | 3 | Wakefield | 0 | +1.5 | +3.0 |
+| 2026-11-10 | Hingham | 3 | Burlington | 0 | +1.6 | +3.0 |
 | 2026-11-10 | Weston | 3 | Fairhaven | 2 | -0.2 | +1.0 |
 | 2026-11-10 | Wellesley | 3 | Needham | 1 | +0.9 | +2.0 |
 | 2026-11-10 | Newton North | 3 | Westford | 1 | +0.4 | +2.0 |
@@ -62,8 +64,8 @@ Generated: 2026-11-15 16:28
 | 2026-11-10 | Brookline | 3 | Lincoln-Sudbury | 1 | +2.2 | +2.0 |
 | 2026-11-10 | Central Catholic | 3 | Westborough | 0 | +1.4 | +3.0 |
 | 2026-11-10 | Duxbury | 3 | Essex Tech | 2 | +0.2 | +1.0 |
+| 2026-11-10 | Canton | 3 | Wakefield | 0 | +1.5 | +3.0 |
 | 2026-11-10 | Renaissance | 3 | Whitinsville Christian | 0 | +0.0 | +3.0 |
-| 2026-11-10 | Hingham | 3 | Burlington | 0 | +1.6 | +3.0 |
 | 2026-11-10 | Melrose | 3 | Dartmouth | 1 | +1.1 | +2.0 |
 | 2026-11-10 | Oliver Ames | 3 | Wayland | 0 | +2.8 | +3.0 |
 | 2026-11-10 | Newburyport | 3 | Blackstone Valley | 1 | +1.0 | +2.0 |
@@ -77,16 +79,15 @@ Generated: 2026-11-15 16:28
 | 2026-11-10 | East Bridgewater | 3 | Ayer Shirley | 0 | +2.6 | +3.0 |
 | 2026-11-10 | Old Colony | 3 | Holbrook | 0 | +1.0 | +3.0 |
 | 2026-11-10 | New Mission | 3 | Upper Cape | 1 | +1.4 | +2.0 |
-| 2026-11-09 | Nipmuc | 2 | Ipswich | 3 | +1.8 | -1.0 |
-| 2026-11-09 | Woburn | 0 | Longmeadow | 3 | +0.6 | -3.0 |
+| 2026-11-09 | Madison Park | 2 | Franklin County Tech | 3 | +1.2 | -1.0 |
 | 2026-11-09 | East Longmeadow | 1 | Groton-Dunstable | 3 | -0.3 | -2.0 |
 | 2026-11-09 | Lynnfield | 3 | Notre Dame Academy-Worcester | 1 | +2.2 | +2.0 |
-| 2026-11-09 | Chelmsford | 3 | Newton South | 0 | +2.0 | +3.0 |
-| 2026-11-09 | Madison Park | 2 | Franklin County Tech | 3 | +1.2 | -1.0 |
+| 2026-11-09 | Nipmuc | 2 | Ipswich | 3 | +1.8 | -1.0 |
+| 2026-11-09 | Woburn | 0 | Longmeadow | 3 | +0.6 | -3.0 |
 | 2026-11-09 | Renaissance | 3 | Norfolk Aggie | 0 | +1.8 | +3.0 |
 | 2026-11-09 | Pioneer Valley Christian | 3 | Cape Cod Tech | 0 | +1.9 | +3.0 |
 | 2026-11-09 | Austin Prep | 3 | Winsor | 0 | +0.8 | +3.0 |
-| 2026-11-08 | Pembroke | 3 | Fontbonne | 1 | +1.6 | +2.0 |
+| 2026-11-09 | Chelmsford | 3 | Newton South | 0 | +2.0 | +3.0 |
 
 ## Current Elo Ratings
 
@@ -265,11 +266,11 @@ Generated: 2026-11-15 16:28
 | 171 | Rivers | 1509.1 |
 | 172 | Hampden Charter West | 1506.1 |
 | 173 | Putnam | 1505.4 |
-| 174 | Dublin | 1502.8 |
-| 175 | Northfield Mt. Hermon | 1502.8 |
-| 176 | Fellowship Christian | 1502.8 |
+| 174 | Northfield Mt. Hermon | 1502.8 |
+| 175 | Dublin | 1502.8 |
+| 176 | South Shore Christian | 1502.8 |
 | 177 | Trinity Christian | 1502.8 |
-| 178 | South Shore Christian | 1502.8 |
+| 178 | Fellowship Christian | 1502.8 |
 | 179 | Taconic | 1501.9 |
 | 180 | St. Paul | 1498.6 |
 | 181 | Pacific Rim Charter | 1494.3 |
@@ -300,8 +301,8 @@ Generated: 2026-11-15 16:28
 | 206 | South Boston | 1474.0 |
 | 207 | Winchendon | 1473.4 |
 | 208 | Nantucket | 1471.7 |
-| 209 | Hotchkiss | 1470.8 |
-| 210 | Gann Academy | 1470.8 |
+| 209 | Gann Academy | 1470.8 |
+| 210 | Hotchkiss | 1470.8 |
 | 211 | Thayer | 1470.2 |
 | 212 | Barrington (R.I.) | 1469.5 |
 | 213 | Doherty | 1466.5 |
@@ -872,11 +873,11 @@ Non-MIAA opponents and teams without a known division.
 | Kingswood-Oxford | 1510.9 | 168 | non-member |
 | Austin Prep | 1509.1 | 170 | non-member |
 | Rivers | 1509.1 | 171 | non-member |
-| Dublin | 1502.8 | 174 | non-member |
-| Northfield Mt. Hermon | 1502.8 | 175 | non-member |
-| Fellowship Christian | 1502.8 | 176 | non-member |
+| Northfield Mt. Hermon | 1502.8 | 174 | non-member |
+| Dublin | 1502.8 | 175 | non-member |
+| South Shore Christian | 1502.8 | 176 | non-member |
 | Trinity Christian | 1502.8 | 177 | non-member |
-| South Shore Christian | 1502.8 | 178 | non-member |
+| Fellowship Christian | 1502.8 | 178 | non-member |
 | Deerfield | 1494.1 | 182 | non-member |
 | Williston Northampton | 1490.5 | 187 | non-member |
 | MacDuffie | 1490.4 | 188 | non-member |
@@ -888,8 +889,8 @@ Non-MIAA opponents and teams without a known division.
 | La Salle (R.I.) | 1477.3 | 201 | non-member |
 | Greenwich Academy (Conn.) | 1475.2 | 205 | non-member |
 | Winchendon | 1473.4 | 207 | non-member |
-| Hotchkiss | 1470.8 | 209 | non-member |
-| Gann Academy | 1470.8 | 210 | non-member |
+| Gann Academy | 1470.8 | 209 | non-member |
+| Hotchkiss | 1470.8 | 210 | non-member |
 | Thayer | 1470.2 | 211 | non-member |
 | Barrington (R.I.) | 1469.5 | 212 | non-member |
 | Newton Country Day | 1466.4 | 214 | non-member |

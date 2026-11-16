@@ -1,6 +1,6 @@
 # Boys Tennis - 2026 Season
 
-Generated: 2026-11-15 16:28
+Generated: 2026-11-16 19:43
 
 ## Upcoming Games
 
@@ -134,8 +134,8 @@ Generated: 2026-11-15 16:28
 | 116 | Pioneer Valley Christian | 1506.8 |
 | 117 | Chicopee | 1503.1 |
 | 118 | Fellowship Christian | 1500.0 |
-| 119 | Pittsfield | 1500.0 |
-| 120 | Greater Lowell | 1500.0 |
+| 119 | Greater Lowell | 1500.0 |
+| 120 | Pittsfield | 1500.0 |
 | 121 | Greater Lawrence | 1500.0 |
 | 122 | Franklin | 1494.0 |
 | 123 | Diman | 1493.7 |
@@ -147,8 +147,8 @@ Generated: 2026-11-15 16:28
 | 129 | Lynnfield | 1460.7 |
 | 130 | Quaboag | 1460.2 |
 | 131 | Turners Falls | 1458.8 |
-| 132 | Agawam | 1455.4 |
-| 133 | Governor’s Academy | 1455.4 |
+| 132 | Governor’s Academy | 1455.4 |
+| 133 | Agawam | 1455.4 |
 | 134 | Lynn English | 1452.9 |
 | 135 | Amherst-Pelham | 1452.1 |
 | 136 | Billerica | 1450.7 |
@@ -351,7 +351,7 @@ Generated: 2026-11-15 16:28
 | 27 | Ashland | 1545.7 | 101 |
 | 28 | Marshfield | 1509.6 | 114 |
 | 29 | Worcester South | 1466.3 | 128 |
-| 30 | Agawam | 1455.4 | 132 |
+| 30 | Agawam | 1455.4 | 133 |
 | 31 | Lynn English | 1452.9 | 134 |
 | 32 | Billerica | 1450.7 | 136 |
 | 33 | Quincy | 1445.6 | 138 |
@@ -410,7 +410,7 @@ Generated: 2026-11-15 16:28
 | 30 | Monomoy | 1514.0 | 113 |
 | 31 | Pioneer Valley Christian | 1506.8 | 116 |
 | 32 | Chicopee | 1503.1 | 117 |
-| 33 | Pittsfield | 1500.0 | 119 |
+| 33 | Pittsfield | 1500.0 | 120 |
 | 34 | Lynnfield | 1460.7 | 129 |
 | 35 | Turners Falls | 1458.8 | 131 |
 | 36 | Amherst-Pelham | 1452.1 | 135 |
@@ -509,10 +509,10 @@ Non-MIAA opponents and teams without a known division.
 | Cushing | 1530.7 | 107 | non-member |
 | Worcester Academy | 1507.8 | 115 | non-member |
 | Fellowship Christian | 1500.0 | 118 | non-member |
-| Greater Lowell | 1500.0 | 120 | unknown |
+| Greater Lowell | 1500.0 | 119 | unknown |
 | Austin Prep | 1476.8 | 125 | non-member |
 | Beaver Country Day | 1468.8 | 127 | non-member |
-| Governor’s Academy | 1455.4 | 133 | non-member |
+| Governor’s Academy | 1455.4 | 132 | non-member |
 | Bancroft | 1449.5 | 137 | non-member |
 | Cardinal Spellman | 1444.2 | 139 | unknown |
 | Gould | 1441.1 | 140 | non-member |

@@ -1,31 +1,31 @@
 team,elo,team_id,overall_rank,division,division_status,division_rank
 Medfield,2337.9886732215255,4241,1,3,assigned,1
-Bishop Feehan,2254.396746662228,4042,2,1,assigned,1
-Norwell,2247.4932716021585,4296,3,3,assigned,2
-Concord-Carlisle,2238.6185116498195,4097,4,1,assigned,2
+Concord-Carlisle,2275.6357537894482,4097,2,1,assigned,1
+Bishop Feehan,2260.4906716144083,4042,3,1,assigned,2
+Norwell,2247.4932716021585,4296,4,3,assigned,2
 Duxbury,2209.089568348641,4123,5,2,assigned,1
 Cohasset,2186.403743277237,4094,6,4,assigned,1
-Sutton,2154.5726321926895,4512,7,4,assigned,2
-Douglas,2144.571711523574,4506,8,4,assigned,3
-Needham,2135.4697953963537,4272,9,1,assigned,3
-Pope Francis,2115.141944979153,4796,10,3,assigned,3
-Wellesley,2114.491688429188,4413,11,1,assigned,4
-Central Catholic,2113.2018041316305,4081,12,1,assigned,5
-Hingham,2076.946329850222,4171,13,2,assigned,2
-Masconomet,2049.5401109836016,4236,14,2,assigned,3
-Braintree,2033.148486009801,4051,15,1,assigned,6
-Cardinal Spellman,2031.019226345795,4075,16,3,assigned,4
-Oliver Ames,2024.1756521959198,4302,17,2,assigned,4
-Franklin,2019.3277598833704,4144,18,1,assigned,7
+Needham,2173.9535308542504,4272,7,1,assigned,3
+Sutton,2154.5726321926895,4512,8,4,assigned,2
+Douglas,2144.571711523574,4506,9,4,assigned,3
+Wellesley,2114.491688429188,4413,10,1,assigned,4
+Hingham,2090.7067304314687,4171,11,2,assigned,2
+Masconomet,2076.795454614075,4236,12,2,assigned,3
+Central Catholic,2076.184561992002,4081,13,1,assigned,5
+Braintree,2033.148486009801,4051,14,1,assigned,6
+Cardinal Spellman,2031.019226345795,4075,15,3,assigned,3
+Pope Francis,2028.7284190187138,4796,16,3,assigned,4
+Foxborough,2024.9629015732344,4142,17,3,assigned,5
+Oliver Ames,1996.9203085654462,4302,18,2,assigned,4
 King Philip,1981.0279525338092,4197,19,2,assigned,5
-Belchertown,1975.5370774128405,4032,20,3,assigned,5
-Beverly,1972.0497387745415,4038,21,1,assigned,8
-Advanced Math and Science,1950.441974486938,4595,22,4,assigned,4
-Newburyport,1947.5685068574085,4276,23,2,assigned,6
-Granby,1939.109073063357,4520,24,5,assigned,1
-Foxborough,1938.5493756127953,4142,25,3,assigned,6
-Austin Prep,1935.2668692300613,4020,26,,non-member,
-Sandwich,1930.5547091913575,4340,27,4,assigned,5
+Franklin,1980.844024425474,4144,20,1,assigned,7
+Belchertown,1975.5370774128405,4032,21,3,assigned,6
+Beverly,1972.0497387745415,4038,22,1,assigned,8
+Sandwich,1968.411274034586,4340,23,4,assigned,4
+Advanced Math and Science,1950.441974486938,4595,24,4,assigned,5
+Newburyport,1947.5685068574085,4276,25,2,assigned,6
+Granby,1939.109073063357,4520,26,5,assigned,1
+Austin Prep,1935.2668692300613,4020,27,,non-member,
 Pingree,1929.2410208318652,4312,28,,non-member,
 Dover-Sherborn,1925.1675734512685,4118,29,3,assigned,7
 Shrewsbury,1923.3422639982803,4348,30,1,assigned,9
@@ -37,18 +37,18 @@ Northampton,1894.917489891661,4291,35,2,assigned,7
 Ursuline,1892.4933527308801,4448,36,3,assigned,10
 Bridgewater-Raynham,1891.8074509696678,4053,37,1,assigned,10
 Hull,1888.3635686186446,4184,38,5,assigned,2
-Notre Dame (Hingham),1884.5116340748275,4449,39,2,assigned,8
-Milton,1882.1974601701572,4252,40,2,assigned,9
-Acton-Boxborough,1880.3735239804146,4003,41,1,assigned,11
-Hopedale,1876.5877913259894,4507,42,5,assigned,3
-Rockland,1868.866939048612,4331,43,4,assigned,8
-Somerset Berkley,1868.609347783528,4350,44,2,assigned,10
-Brookline,1865.4385401830752,4059,45,1,assigned,12
-Bishop Fenwick,1864.6074761091788,4043,46,3,assigned,11
-Lexington,1860.7139553761533,4209,47,1,assigned,13
-Hampshire,1845.8574991418923,4518,48,4,assigned,9
-Lunenburg,1838.6248697829196,4219,49,4,assigned,10
-South Hadley,1832.1325626879898,4353,50,4,assigned,11
+Milton,1882.1974601701572,4252,39,2,assigned,8
+Acton-Boxborough,1880.3735239804146,4003,40,1,assigned,11
+Hopedale,1876.5877913259894,4507,41,5,assigned,3
+Notre Dame (Hingham),1870.7512334935805,4449,42,2,assigned,9
+Somerset Berkley,1868.609347783528,4350,43,2,assigned,10
+Brookline,1865.4385401830752,4059,44,1,assigned,12
+Bishop Fenwick,1864.6074761091788,4043,45,3,assigned,11
+Lexington,1860.7139553761533,4209,46,1,assigned,13
+Hampshire,1845.8574991418923,4518,47,4,assigned,8
+Lunenburg,1838.6248697829196,4219,48,4,assigned,9
+South Hadley,1832.1325626879898,4353,49,4,assigned,10
+Rockland,1831.0103742053834,4331,50,4,assigned,11
 Minnechaug,1830.9996640069253,4254,51,2,assigned,11
 Winchester,1829.3632762819589,4434,52,1,assigned,14
 Peabody,1817.5970543111225,4306,53,1,assigned,15
@@ -82,9 +82,9 @@ Worcester Academy,1732.7965628599136,4441,80,,non-member,
 Hopkinton,1732.2249572520147,4180,81,1,assigned,18
 Arlington,1730.621131985218,4013,82,1,assigned,19
 Quabbin,1725.6848142950803,4325,83,3,assigned,17
-Newton North,1723.0548032427878,4279,84,1,assigned,20
-Hanover,1722.9140737110233,4164,85,3,assigned,18
-St. Mary’s,1722.8804338119646,4374,86,3,assigned,19
+Hanover,1722.9140737110233,4164,84,3,assigned,18
+St. Mary’s,1722.8804338119646,4374,85,3,assigned,19
+Newton North,1716.9608782906078,4279,86,1,assigned,20
 Georgetown,1711.6448137737548,4148,87,4,assigned,20
 David Prouty,1707.5180422598398,4106,88,5,assigned,5
 Hudson,1701.7154612940574,4182,89,3,assigned,20
@@ -195,20 +195,20 @@ Holland (Burke),1507.5868404812477,4064,193,,unknown,
 Brooks,1506.08869535633,4060,194,,non-member,
 Tantasqua,1505.734866902281,4387,195,3,assigned,38
 Excel Academy,1504.7619288406995,4969,196,4,assigned,38
-La Salle (R.I.),1501.65,4201,197,,non-member,
+Taft,1501.65,4386,197,,non-member,
 KIPP,1501.65,4703,198,5,assigned,18
-Neighborhood House Charter,1501.65,5035,199,5,assigned,19
-Barrington (R.I.),1501.65,4025,200,,non-member,
-Housatonic Regional (Conn.),1501.65,5022,201,,non-member,
+Kent,1501.65,4193,199,,non-member,
+Kingswood-Oxford,1501.65,4198,200,,non-member,
+La Salle (R.I.),1501.65,4201,201,,non-member,
 Bridgton Academy,1501.65,4054,202,,non-member,
-Pioneer Valley Chinese Immersion,1501.65,4955,203,5,assigned,20
-Newman School,1501.65,4277,204,,non-member,
-Taft,1501.65,4386,205,,non-member,
-Kingswood-Oxford,1501.65,4198,206,,non-member,
-South Shore Christian,1501.65,4489,207,,non-member,
-Poughkeepsie Day (N.Y.),1501.65,4916,208,,non-member,
-Kent,1501.65,4193,209,,non-member,
-Boston Prep,1501.65,4655,210,5,assigned,21
+Housatonic Regional (Conn.),1501.65,5022,203,,non-member,
+South Shore Christian,1501.65,4489,204,,non-member,
+Barrington (R.I.),1501.65,4025,205,,non-member,
+Pioneer Valley Chinese Immersion,1501.65,4955,206,5,assigned,19
+Neighborhood House Charter,1501.65,5035,207,5,assigned,20
+Newman School,1501.65,4277,208,,non-member,
+Boston Prep,1501.65,4655,209,5,assigned,21
+Poughkeepsie Day (N.Y.),1501.65,4916,210,,non-member,
 St. Paul’s,1499.267827917618,4375,211,,non-member,
 Monty Tech,1498.8552610217832,4259,212,3,assigned,39
 Drury,1496.6400613729284,4120,213,5,assigned,22
