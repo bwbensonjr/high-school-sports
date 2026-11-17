@@ -1,6 +1,6 @@
 # Boys Soccer - 2026 Season
 
-Generated: 2026-11-17 11:58
+Generated: 2026-11-17 18:40
 
 ## Upcoming Games
 
@@ -334,13 +334,13 @@ Generated: 2026-11-17 11:58
 | 209 | Salem | 1505.0 |
 | 210 | Worcester Academy | 1504.5 |
 | 211 | Phillips Exeter | 1504.1 |
-| 212 | BU Academy | 1502.8 |
-| 213 | Hotchkiss | 1502.8 |
-| 214 | South Shore Christian | 1502.8 |
-| 215 | Xavier (Conn.) | 1502.8 |
-| 216 | Waring | 1502.8 |
-| 217 | Westminster | 1502.8 |
-| 218 | Newton Country Day | 1502.8 |
+| 212 | Waring | 1502.8 |
+| 213 | Xavier (Conn.) | 1502.8 |
+| 214 | BU Academy | 1502.8 |
+| 215 | Newton Country Day | 1502.8 |
+| 216 | Westminster | 1502.8 |
+| 217 | Hotchkiss | 1502.8 |
+| 218 | South Shore Christian | 1502.8 |
 | 219 | Choate | 1499.4 |
 | 220 | Pioneer Valley Regional | 1499.3 |
 | 221 | Rivers | 1497.3 |
@@ -972,13 +972,13 @@ Non-MIAA opponents and teams without a known division.
 | Darrow | 1506.9 | 207 | non-member |
 | Worcester Academy | 1504.5 | 210 | non-member |
 | Phillips Exeter | 1504.1 | 211 | non-member |
-| BU Academy | 1502.8 | 212 | non-member |
-| Hotchkiss | 1502.8 | 213 | non-member |
-| South Shore Christian | 1502.8 | 214 | non-member |
-| Xavier (Conn.) | 1502.8 | 215 | non-member |
-| Waring | 1502.8 | 216 | non-member |
-| Westminster | 1502.8 | 217 | non-member |
-| Newton Country Day | 1502.8 | 218 | non-member |
+| Waring | 1502.8 | 212 | non-member |
+| Xavier (Conn.) | 1502.8 | 213 | non-member |
+| BU Academy | 1502.8 | 214 | non-member |
+| Newton Country Day | 1502.8 | 215 | non-member |
+| Westminster | 1502.8 | 216 | non-member |
+| Hotchkiss | 1502.8 | 217 | non-member |
+| South Shore Christian | 1502.8 | 218 | non-member |
 | Choate | 1499.4 | 219 | non-member |
 | Rivers | 1497.3 | 221 | non-member |
 | Dexter Southfield | 1496.9 | 223 | non-member |

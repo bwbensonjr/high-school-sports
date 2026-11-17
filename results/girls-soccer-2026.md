@@ -1,6 +1,6 @@
 # Girls Soccer - 2026 Season
 
-Generated: 2026-11-17 11:59
+Generated: 2026-11-17 18:40
 
 ## Upcoming Games
 
@@ -320,23 +320,23 @@ Generated: 2026-11-17 11:59
 | 194 | Brooks | 1506.1 |
 | 195 | Tantasqua | 1505.7 |
 | 196 | Excel Academy | 1504.8 |
-| 197 | KIPP | 1501.7 |
-| 198 | Newman School | 1501.7 |
-| 199 | Poughkeepsie Day (N.Y.) | 1501.7 |
-| 200 | Kingswood-Oxford | 1501.7 |
-| 201 | Boston Prep | 1501.7 |
-| 202 | Greenwich Academy (Conn.) | 1501.7 |
-| 203 | International School | 1501.7 |
-| 204 | Neighborhood House Charter | 1501.7 |
-| 205 | South Shore Christian | 1501.7 |
-| 206 | Taft | 1501.7 |
-| 207 | Pioneer Valley Chinese Immersion | 1501.7 |
-| 208 | Brimmer & May | 1501.7 |
+| 197 | Kent | 1501.7 |
+| 198 | Housatonic Regional (Conn.) | 1501.7 |
+| 199 | Newman School | 1501.7 |
+| 200 | South Shore Christian | 1501.7 |
+| 201 | KIPP | 1501.7 |
+| 202 | Neighborhood House Charter | 1501.7 |
+| 203 | Kingswood-Oxford | 1501.7 |
+| 204 | Pioneer Valley Chinese Immersion | 1501.7 |
+| 205 | Barrington (R.I.) | 1501.7 |
+| 206 | International School | 1501.7 |
+| 207 | La Salle (R.I.) | 1501.7 |
+| 208 | Greenwich Academy (Conn.) | 1501.7 |
 | 209 | Bridgton Academy | 1501.7 |
-| 210 | Kent | 1501.7 |
-| 211 | La Salle (R.I.) | 1501.7 |
-| 212 | Barrington (R.I.) | 1501.7 |
-| 213 | Housatonic Regional (Conn.) | 1501.7 |
+| 210 | Brimmer & May | 1501.7 |
+| 211 | Taft | 1501.7 |
+| 212 | Boston Prep | 1501.7 |
+| 213 | Poughkeepsie Day (N.Y.) | 1501.7 |
 | 214 | St. Paul’s | 1499.3 |
 | 215 | Monty Tech | 1498.9 |
 | 216 | Drury | 1496.6 |
@@ -866,10 +866,10 @@ Generated: 2026-11-17 11:59
 | 15 | Rising Tide Charter | 1514.1 | 187 |
 | 16 | Pioneer Valley Regional | 1513.1 | 188 |
 | 17 | Notre Dame (Tyngsborough) | 1512.3 | 189 |
-| 18 | KIPP | 1501.7 | 197 |
-| 19 | Boston Prep | 1501.7 | 201 |
-| 20 | Neighborhood House Charter | 1501.7 | 204 |
-| 21 | Pioneer Valley Chinese Immersion | 1501.7 | 207 |
+| 18 | KIPP | 1501.7 | 201 |
+| 19 | Neighborhood House Charter | 1501.7 | 202 |
+| 20 | Pioneer Valley Chinese Immersion | 1501.7 | 204 |
+| 21 | Boston Prep | 1501.7 | 212 |
 | 22 | Drury | 1496.6 | 216 |
 | 23 | Gateway | 1482.7 | 233 |
 | 24 | Whitinsville Christian | 1481.9 | 234 |
@@ -957,19 +957,19 @@ Non-MIAA opponents and teams without a known division.
 | New Hampton | 1520.5 | 182 | non-member |
 | Holland (Burke) | 1507.6 | 193 | unknown |
 | Brooks | 1506.1 | 194 | non-member |
-| Newman School | 1501.7 | 198 | non-member |
-| Poughkeepsie Day (N.Y.) | 1501.7 | 199 | non-member |
-| Kingswood-Oxford | 1501.7 | 200 | non-member |
-| Greenwich Academy (Conn.) | 1501.7 | 202 | non-member |
-| International School | 1501.7 | 203 | non-member |
-| South Shore Christian | 1501.7 | 205 | non-member |
-| Taft | 1501.7 | 206 | non-member |
-| Brimmer & May | 1501.7 | 208 | non-member |
+| Kent | 1501.7 | 197 | non-member |
+| Housatonic Regional (Conn.) | 1501.7 | 198 | non-member |
+| Newman School | 1501.7 | 199 | non-member |
+| South Shore Christian | 1501.7 | 200 | non-member |
+| Kingswood-Oxford | 1501.7 | 203 | non-member |
+| Barrington (R.I.) | 1501.7 | 205 | non-member |
+| International School | 1501.7 | 206 | non-member |
+| La Salle (R.I.) | 1501.7 | 207 | non-member |
+| Greenwich Academy (Conn.) | 1501.7 | 208 | non-member |
 | Bridgton Academy | 1501.7 | 209 | non-member |
-| Kent | 1501.7 | 210 | non-member |
-| La Salle (R.I.) | 1501.7 | 211 | non-member |
-| Barrington (R.I.) | 1501.7 | 212 | non-member |
-| Housatonic Regional (Conn.) | 1501.7 | 213 | non-member |
+| Brimmer & May | 1501.7 | 210 | non-member |
+| Taft | 1501.7 | 211 | non-member |
+| Poughkeepsie Day (N.Y.) | 1501.7 | 213 | non-member |
 | St. Paul’s | 1499.3 | 214 | non-member |
 | Hope (R.I.) | 1496.4 | 217 | non-member |
 | Bishop Guertin (N.H.) | 1495.7 | 219 | non-member |
