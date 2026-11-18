@@ -1,14 +1,13 @@
 # Field Hockey - 2026 Season
 
-Generated: 2026-11-17 18:40
+Generated: 2026-11-18 16:47
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-11-17 | 5:00 P.M. | Nashoba | Westwood | 87.0% | +2.5 |
-| 2026-11-17 | 5:00 P.M. | Uxbridge | Dover-Sherborn | 90.3% | +3.0 |
-| 2026-11-17 | 7:00 P.M. | Sandwich | Watertown | 76.3% | +1.5 |
+| 2026-11-18 | 7:00 P.M. | Franklin | Belmont | 56.7% | +0.3 |
+| 2026-11-18 | 2:00 P.M. | New Hampton | Holderness | 75.9% | +1.5 |
 | 2026-11-18 | 2:00 P.M. | Montrose | Frederick Gunn (Conn.) | 57.1% | +0.3 |
 | 2026-11-18 | 2:00 P.M. | King (Conn.) | Kents Hill | 86.9% | +2.5 |
 | 2026-11-18 | 2:00 P.M. | Middlesex | Greens Farms | 75.5% | +1.5 |
@@ -16,85 +15,63 @@ Generated: 2026-11-17 18:40
 | 2026-11-18 | 2:00 P.M. | Governor’s Academy | Rivers | 46.8% | -0.2 |
 | 2026-11-18 | 2:00 P.M. | Berkshire | Pingree | 11.0% | -2.9 |
 | 2026-11-18 | 2:00 P.M. | Sacred Heart (Conn.) | Tabor | 72.5% | +1.3 |
+| 2026-11-18 | 2:00 P.M. | Deerfield | Greenwich Academy (Conn.) | 17.2% | -2.2 |
 | 2026-11-18 | 1:30 P.M. | Milton Academy | Taft | 34.9% | -0.9 |
-| 2026-11-18 | 2:00 P.M. | New Hampton | Holderness | 75.9% | +1.5 |
 | 2026-11-18 | 2:15 P.M. | Phillips Andover | Hotchkiss | 93.2% | +3.5 |
 | 2026-11-18 | 4:30 P.M. | Cohasset | Hopedale | 65.0% | +0.8 |
 | 2026-11-18 | 5:00 P.M. | Dennis-Yarmouth | Frontier | 71.2% | +1.2 |
 | 2026-11-18 | 6:30 P.M. | Canton | Somerset Berkley | 62.2% | +0.6 |
 | 2026-11-18 | 5:00 P.M. | Lincoln-Sudbury | Acton-Boxborough | 58.8% | +0.4 |
-| 2026-11-18 | 7:00 P.M. | Franklin | Belmont | 56.7% | +0.3 |
-| 2026-11-18 | 2:00 P.M. | Deerfield | Greenwich Academy (Conn.) | 17.2% | -2.2 |
 | 2026-11-18 | 2:00 P.M. | Portsmouth Abbey | Rocky Hill Country Day | 57.0% | +0.3 |
+| 2026-11-21 | TBD | Uxbridge | Watertown | 77.5% | +1.6 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-11-17 | Sandwich | 0 | Watertown | 1 | +1.5 | -1.0 |
+| 2026-11-17 | Uxbridge | 3 | Dover-Sherborn | 1 | +3.0 | +2.0 |
+| 2026-11-17 | Nashoba | 2 | Westwood | 0 | +2.5 | +2.0 |
 | 2026-11-15 | Frontier | 2 | Quabbin | 0 | +0.7 | +2.0 |
 | 2026-11-15 | Monomoy | 1 | Hopedale | 2 | -0.8 | -1.0 |
-| 2026-11-14 | King Philip | 2 | Westwood | 3 | +2.1 | -1.0 |
-| 2026-11-14 | Acton-Boxborough | 3 | Walpole | 0 | +0.8 | +3.0 |
-| 2026-11-14 | Franklin | 2 | Attleboro | 0 | +3.0 | +2.0 |
-| 2026-11-14 | Lincoln-Sudbury | 3 | Andover | 0 | +1.5 | +3.0 |
 | 2026-11-14 | Somerset Berkley | 5 | Hingham | 1 | +1.3 | +4.0 |
-| 2026-11-14 | Belmont | 4 | Winchester | 0 | +2.5 | +4.0 |
-| 2026-11-14 | Nashoba | 5 | Milton | 0 | +1.8 | +5.0 |
-| 2026-11-14 | Canton | 3 | Reading | 1 | +3.3 | +2.0 |
-| 2026-11-14 | Uxbridge | 7 | Medway | 1 | +5.4 | +6.0 |
-| 2026-11-14 | Dover-Sherborn | 2 | Gloucester | 0 | +0.9 | +2.0 |
 | 2026-11-14 | Cohasset | 8 | Manchester Essex | 0 | +1.7 | +8.0 |
+| 2026-11-14 | Dover-Sherborn | 2 | Gloucester | 0 | +0.9 | +2.0 |
+| 2026-11-14 | Uxbridge | 7 | Medway | 1 | +5.4 | +6.0 |
+| 2026-11-14 | Canton | 3 | Reading | 1 | +3.3 | +2.0 |
+| 2026-11-14 | Nashoba | 5 | Milton | 0 | +1.8 | +5.0 |
+| 2026-11-14 | King Philip | 2 | Westwood | 3 | +2.1 | -1.0 |
+| 2026-11-14 | Lincoln-Sudbury | 3 | Andover | 0 | +1.5 | +3.0 |
+| 2026-11-14 | Belmont | 4 | Winchester | 0 | +2.5 | +4.0 |
+| 2026-11-14 | Franklin | 2 | Attleboro | 0 | +3.0 | +2.0 |
+| 2026-11-14 | Acton-Boxborough | 3 | Walpole | 0 | +0.8 | +3.0 |
 | 2026-11-13 | Watertown | 4 | Foxborough | 0 | +3.3 | +4.0 |
 | 2026-11-12 | Dennis-Yarmouth | 3 | West Bridgewater | 0 | +2.3 | +3.0 |
 | 2026-11-12 | Sandwich | 5 | East Longmeadow | 1 | +3.0 | +4.0 |
+| 2026-11-11 | Gloucester | 5 | Falmouth | 1 | +2.9 | +4.0 |
 | 2026-11-11 | Lawrence Academy | 3 | Groton | 7 | -0.9 | -4.0 |
 | 2026-11-11 | Cohasset | 8 | Westport | 0 | +4.1 | +8.0 |
 | 2026-11-11 | Manchester Essex | 2 | Sutton | 1 | +0.1 | +1.0 |
 | 2026-11-11 | Dover-Sherborn | 5 | Ursuline | 0 | +4.7 | +5.0 |
-| 2026-11-11 | Gloucester | 5 | Falmouth | 1 | +2.9 | +4.0 |
 | 2026-11-11 | Milton | 3 | Norwood | 2 | +2.3 | +1.0 |
-| 2026-11-10 | Attleboro | 2 | Bishop Feehan | 1 | +1.4 | +1.0 |
-| 2026-11-10 | Andover | 3 | Concord-Carlisle | 2 | +2.4 | +1.0 |
-| 2026-11-10 | Frontier | 7 | St. John Paul II | 0 | +4.5 | +7.0 |
-| 2026-11-10 | Monomoy | 2 | South Hadley | 0 | +1.3 | +2.0 |
-| 2026-11-10 | Winchester | 3 | Waltham | 0 | +0.7 | +3.0 |
-| 2026-11-10 | Walpole | 1 | Natick | 0 | +2.5 | +1.0 |
-| 2026-11-10 | Acton-Boxborough | 2 | Wellesley | 1 | +3.2 | +1.0 |
-| 2026-11-10 | Belmont | 2 | Lexington | 0 | +4.6 | +2.0 |
-| 2026-11-10 | Franklin | 8 | Beverly | 0 | +3.6 | +8.0 |
-| 2026-11-10 | Lincoln-Sudbury | 5 | Hopkinton | 0 | +5.6 | +5.0 |
-| 2026-11-10 | Duxbury | 1 | Reading | 2 | +0.8 | -1.0 |
-| 2026-11-10 | Westwood | 2 | Notre Dame (Hingham) | 0 | +0.5 | +2.0 |
-| 2026-11-10 | Hingham | 4 | Newburyport | 1 | +1.6 | +3.0 |
-| 2026-11-10 | Nashoba | 3 | Ashland | 0 | +4.9 | +3.0 |
-| 2026-11-10 | King Philip | 5 | Mansfield | 0 | +4.2 | +5.0 |
-| 2026-11-10 | Canton | 4 | Longmeadow | 0 | +3.6 | +4.0 |
-| 2026-11-10 | Dedham | 0 | Medway | 2 | +0.8 | -2.0 |
-| 2026-11-10 | Foxborough | 3 | St. Mary’s | 1 | +0.2 | +2.0 |
-| 2026-11-10 | Watertown | 5 | Marlborough | 0 | +4.5 | +5.0 |
-| 2026-11-10 | Uxbridge | 7 | Weston | 0 | +7.3 | +7.0 |
-| 2026-11-10 | Sandwich | 3 | Scituate | 0 | +5.9 | +3.0 |
-| 2026-11-10 | West Bridgewater | 2 | Ipswich | 0 | -0.1 | +2.0 |
-| 2026-11-10 | Hopedale | 4 | Narragansett | 0 | +2.0 | +4.0 |
-| 2026-11-10 | Dennis-Yarmouth | 7 | Northbridge | 0 | +4.0 | +7.0 |
 
 ## Current Elo Ratings
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Uxbridge | 2558.5 |
-| 2 | Sandwich | 2495.7 |
-| 3 | Watertown | 2343.0 |
+| 1 | Uxbridge | 2571.4 |
+| 2 | Sandwich | 2432.3 |
+| 3 | Watertown | 2406.4 |
 | 4 | Canton | 2335.4 |
 | 5 | Lincoln-Sudbury | 2324.1 |
 | 6 | Acton-Boxborough | 2312.6 |
 | 7 | Somerset Berkley | 2298.9 |
-| 8 | Belmont | 2249.3 |
-| 9 | Franklin | 2245.9 |
-| 10 | Nashoba | 2238.6 |
-| 11 | Dover-Sherborn | 2221.4 |
-| 12 | Dennis-Yarmouth | 2218.0 |
-| 13 | Cohasset | 2211.3 |
+| 8 | Nashoba | 2255.7 |
+| 9 | Belmont | 2249.3 |
+| 10 | Franklin | 2245.9 |
+| 11 | Dennis-Yarmouth | 2218.0 |
+| 12 | Cohasset | 2211.3 |
+| 13 | Dover-Sherborn | 2208.6 |
 | 14 | Hopedale | 2153.6 |
 | 15 | Walpole | 2134.2 |
 | 16 | East Longmeadow | 2115.1 |
@@ -107,8 +84,8 @@ Generated: 2026-11-17 18:40
 | 23 | Moses Brown (R.I.) | 1998.3 |
 | 24 | Milton | 1966.4 |
 | 25 | Quabbin | 1965.6 |
-| 26 | Westwood | 1957.7 |
-| 27 | Monomoy | 1946.3 |
+| 26 | Monomoy | 1946.3 |
+| 27 | Westwood | 1940.6 |
 | 28 | Reading | 1937.9 |
 | 29 | Foxborough | 1933.4 |
 | 30 | Sutton | 1924.7 |
@@ -214,12 +191,12 @@ Generated: 2026-11-17 18:40
 | 130 | Milton Academy | 1503.9 |
 | 131 | Frederick Gunn (Conn.) | 1501.2 |
 | 132 | St. Luke’s | 1501.0 |
-| 133 | Kent | 1501.0 |
+| 133 | Montrose | 1501.0 |
 | 134 | Hopkins (Conn.) | 1501.0 |
-| 135 | Montrose | 1501.0 |
+| 135 | Kingswood-Oxford | 1501.0 |
 | 136 | Hamden Hall Country Day | 1501.0 |
 | 137 | Ciciro-North Syracuse (N.Y.) | 1501.0 |
-| 138 | Kingswood-Oxford | 1501.0 |
+| 138 | Kent | 1501.0 |
 | 139 | Groton | 1496.9 |
 | 140 | Old Rochester | 1496.0 |
 | 141 | St. Mark’s | 1495.8 |
@@ -378,8 +355,8 @@ Generated: 2026-11-17 18:40
 |---------------|------|------------|--------------|
 | 1 | Lincoln-Sudbury | 2324.1 | 5 |
 | 2 | Acton-Boxborough | 2312.6 | 6 |
-| 3 | Belmont | 2249.3 | 8 |
-| 4 | Franklin | 2245.9 | 9 |
+| 3 | Belmont | 2249.3 | 9 |
+| 4 | Franklin | 2245.9 | 10 |
 | 5 | Walpole | 2134.2 | 15 |
 | 6 | Andover | 2093.2 | 18 |
 | 7 | Winchester | 1915.3 | 32 |
@@ -426,11 +403,11 @@ Generated: 2026-11-17 18:40
 |---------------|------|------------|--------------|
 | 1 | Canton | 2335.4 | 4 |
 | 2 | Somerset Berkley | 2298.9 | 7 |
-| 3 | Nashoba | 2238.6 | 10 |
+| 3 | Nashoba | 2255.7 | 8 |
 | 4 | Hingham | 2069.3 | 19 |
 | 5 | King Philip | 2048.7 | 21 |
 | 6 | Milton | 1966.4 | 24 |
-| 7 | Westwood | 1957.7 | 26 |
+| 7 | Westwood | 1940.6 | 27 |
 | 8 | Reading | 1937.9 | 28 |
 | 9 | Duxbury | 1896.4 | 34 |
 | 10 | Newburyport | 1882.5 | 37 |
@@ -485,10 +462,10 @@ Generated: 2026-11-17 18:40
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Uxbridge | 2558.5 | 1 |
-| 2 | Sandwich | 2495.7 | 2 |
-| 3 | Watertown | 2343.0 | 3 |
-| 4 | Dover-Sherborn | 2221.4 | 11 |
+| 1 | Uxbridge | 2571.4 | 1 |
+| 2 | Sandwich | 2432.3 | 2 |
+| 3 | Watertown | 2406.4 | 3 |
+| 4 | Dover-Sherborn | 2208.6 | 13 |
 | 5 | East Longmeadow | 2115.1 | 16 |
 | 6 | Gloucester | 2064.8 | 20 |
 | 7 | Foxborough | 1933.4 | 29 |
@@ -547,12 +524,12 @@ Generated: 2026-11-17 18:40
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Dennis-Yarmouth | 2218.0 | 12 |
-| 2 | Cohasset | 2211.3 | 13 |
+| 1 | Dennis-Yarmouth | 2218.0 | 11 |
+| 2 | Cohasset | 2211.3 | 12 |
 | 3 | Hopedale | 2153.6 | 14 |
 | 4 | Frontier | 2110.9 | 17 |
 | 5 | Quabbin | 1965.6 | 25 |
-| 6 | Monomoy | 1946.3 | 27 |
+| 6 | Monomoy | 1946.3 | 26 |
 | 7 | Sutton | 1924.7 | 30 |
 | 8 | Manchester Essex | 1921.7 | 31 |
 | 9 | West Bridgewater | 1913.4 | 33 |
@@ -642,12 +619,12 @@ Non-MIAA opponents and teams without a known division.
 | Milton Academy | 1503.9 | 130 | non-member |
 | Frederick Gunn (Conn.) | 1501.2 | 131 | non-member |
 | St. Luke’s | 1501.0 | 132 | non-member |
-| Kent | 1501.0 | 133 | non-member |
+| Montrose | 1501.0 | 133 | non-member |
 | Hopkins (Conn.) | 1501.0 | 134 | non-member |
-| Montrose | 1501.0 | 135 | non-member |
+| Kingswood-Oxford | 1501.0 | 135 | non-member |
 | Hamden Hall Country Day | 1501.0 | 136 | non-member |
 | Ciciro-North Syracuse (N.Y.) | 1501.0 | 137 | non-member |
-| Kingswood-Oxford | 1501.0 | 138 | non-member |
+| Kent | 1501.0 | 138 | non-member |
 | Groton | 1496.9 | 139 | non-member |
 | St. Mark’s | 1495.8 | 141 | non-member |
 | Tabor | 1487.1 | 143 | non-member |

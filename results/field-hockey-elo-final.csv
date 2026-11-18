@@ -1,17 +1,17 @@
 team,elo,team_id,overall_rank,division,division_status,division_rank
-Uxbridge,2558.54100797405,4398,1,3,assigned,1
-Sandwich,2495.7149356676764,4340,2,3,assigned,2
-Watertown,2342.9824248200466,4409,3,3,assigned,3
+Uxbridge,2571.3596106749746,4398,1,3,assigned,1
+Sandwich,2432.2831241642057,4340,2,3,assigned,2
+Watertown,2406.4142363235173,4409,3,3,assigned,3
 Canton,2335.4010772663364,4071,4,2,assigned,1
 Lincoln-Sudbury,2324.0515761340334,4211,5,1,assigned,1
 Acton-Boxborough,2312.5919879519433,4003,6,1,assigned,2
 Somerset Berkley,2298.8741346396987,4350,7,2,assigned,2
-Belmont,2249.3397109832677,4034,8,1,assigned,3
-Franklin,2245.8829051477196,4144,9,1,assigned,4
-Nashoba,2238.600426980055,4267,10,2,assigned,3
-Dover-Sherborn,2221.436789415925,4118,11,3,assigned,4
-Dennis-Yarmouth,2217.975909224589,4111,12,4,assigned,1
-Cohasset,2211.3470213843157,4094,13,4,assigned,2
+Nashoba,2255.6791869114904,4267,8,2,assigned,3
+Belmont,2249.3397109832677,4034,9,1,assigned,3
+Franklin,2245.8829051477196,4144,10,1,assigned,4
+Dennis-Yarmouth,2217.975909224589,4111,11,4,assigned,1
+Cohasset,2211.3470213843157,4094,12,4,assigned,2
+Dover-Sherborn,2208.6181867150003,4118,13,3,assigned,4
 Hopedale,2153.647238958831,4507,14,4,assigned,3
 Walpole,2134.2095001792786,4404,15,1,assigned,5
 East Longmeadow,2115.128712207971,4127,16,3,assigned,5
@@ -24,8 +24,8 @@ Phillips Andover,2042.5120276676357,4310,22,,non-member,
 Moses Brown (R.I.),1998.3167772184922,4261,23,,non-member,
 Milton,1966.3678690629613,4252,24,2,assigned,6
 Quabbin,1965.5939046145486,4325,25,4,assigned,5
-Westwood,1957.674745492683,4424,26,2,assigned,7
-Monomoy,1946.2600858879944,4706,27,4,assigned,6
+Monomoy,1946.2600858879944,4706,26,4,assigned,6
+Westwood,1940.595985561248,4424,27,2,assigned,7
 Reading,1937.9243538685669,4328,28,2,assigned,8
 Foxborough,1933.388785912606,4142,29,3,assigned,7
 Sutton,1924.670629550467,4512,30,4,assigned,7
@@ -131,12 +131,12 @@ Marshfield,1504.383968750306,4234,129,2,assigned,26
 Milton Academy,1503.855934727825,4253,130,,non-member,
 Frederick Gunn (Conn.),1501.2414649603106,4161,131,,non-member,
 St. Luke’s,1500.95,4618,132,,non-member,
-Kent,1500.95,4193,133,,non-member,
+Montrose,1500.95,4561,133,,non-member,
 Hopkins (Conn.),1500.95,4612,134,,non-member,
-Montrose,1500.95,4561,135,,non-member,
+Kingswood-Oxford,1500.95,4198,135,,non-member,
 Hamden Hall Country Day,1500.95,4162,136,,non-member,
 Ciciro-North Syracuse (N.Y.),1500.95,4959,137,,non-member,
-Kingswood-Oxford,1500.95,4198,138,,non-member,
+Kent,1500.95,4193,138,,non-member,
 Groton,1496.894335590392,4544,139,,non-member,
 Old Rochester,1495.979241677055,4301,140,3,assigned,28
 St. Mark’s,1495.7543671270453,4372,141,,non-member,
