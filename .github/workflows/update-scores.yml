@@ -2,10 +2,11 @@ name: Update Scores and Elo Ratings
 
 on:
   schedule:
-    # Run at 9:23 UTC (4:23am EST / 5:23am EDT). Scheduled runs are
+    # Run at 6:37 UTC (1:37am EST / 2:37am EDT), after all of the previous
+    # day's scores are in by midnight Eastern. Scheduled runs are
     # best-effort and often start hours late, especially at minute 0, so
-    # use an off-peak minute and an early start to land near 6am Eastern.
-    - cron: '23 9 * * *'
+    # use an off-peak minute; a late start only means more complete data.
+    - cron: '37 6 * * *'
   workflow_dispatch:  # Allow manual triggering
 
 permissions:
