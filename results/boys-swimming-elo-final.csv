@@ -1,5 +1,5 @@
 team,elo,team_id,overall_rank,division,division_status,division_rank
-Quincy/North Quincy,1733.2776075644013,4326,1,,unknown,
+Quincy/North Quincy,1725.4745218484657,4326,1,,unknown,
 Chelmsford,1709.7268987644522,4085,2,N 1,assigned,1
 Xaverian,1688.8071277439767,4446,3,S 1,assigned,1
 Martha’s Vineyard,1667.760647408838,4235,4,S 2,assigned,1
@@ -15,7 +15,7 @@ Canton,1576.9920015032933,4071,13,S 2,assigned,6
 Bishop Feehan,1576.0752173709257,4042,14,S 1,assigned,3
 Tantasqua,1569.5567437489035,4387,15,CW 2,assigned,1
 New Bedford,1567.5404771794294,4273,16,S 1,assigned,4
-Hingham,1563.836377530258,4171,17,S 1,assigned,5
+Hingham,1566.367457934237,4171,17,S 1,assigned,5
 Advanced Math and Science,1562.3855867574944,4595,18,CW 2,assigned,2
 Catholic Memorial,1556.5553931003035,4080,19,S 1,assigned,6
 Sandwich,1552.8686095145454,4340,20,S 2,assigned,7
@@ -23,8 +23,8 @@ Winchester,1550.479148341596,4434,21,N 1,assigned,4
 Duxbury,1543.7261556904882,4123,22,S 2,assigned,8
 Belmont,1542.6009750167,4034,23,N 1,assigned,5
 North Attleborough,1539.7564463311992,4284,24,S 1,assigned,7
-Marblehead,1537.1589270797904,4231,25,N 2,assigned,1
-Wayland,1537.1589270797904,4411,26,N 2,assigned,2
+Wayland,1537.1589270797904,4411,25,N 2,assigned,1
+Marblehead,1537.1589270797904,4231,26,N 2,assigned,2
 Weston,1532.9752620495583,4423,27,N 2,assigned,3
 Bridgewater-Raynham,1531.3734123007014,4053,28,S 1,assigned,8
 Natick,1528.0645487153758,4270,29,S 1,assigned,9
@@ -34,45 +34,46 @@ Gardner,1522.2195557374255,4147,32,CW 1,assigned,2
 Andover,1522.1307036340072,4009,33,N 1,assigned,6
 Brookline,1521.2371885532084,4059,34,S 1,assigned,11
 Concord-Carlisle,1520.75736238228,4097,35,N 1,assigned,7
-Haverhill,1513.8806943270163,4167,36,N 1,assigned,8
-Mansfield,1509.3849445894102,4230,37,S 1,assigned,12
-Hopkinton,1500.0,4180,38,S 1,assigned,13
-Wellesley,1499.7222381558875,4413,39,S 1,assigned,14
-BC High,1494.7549059267856,4029,40,S 1,assigned,15
-Westborough,1491.0888260419702,4418,41,CW 1,assigned,3
-Acton-Boxborough,1488.3857310741037,4003,42,N 1,assigned,9
-Foxborough,1484.7172031748717,4142,43,S 2,assigned,10
-Bishop Stang,1484.2023277598119,4045,44,S 2,assigned,11
-Malden Catholic,1483.4501594099358,4228,45,N 1,assigned,10
-Latin Academy,1481.165507900837,4202,46,S 2,assigned,12
-Dedham,1475.7929436793631,4108,47,S 2,assigned,13
-Newton South,1467.0247379504417,4280,48,N 1,assigned,11
-O’Bryant,1466.2831045598255,4298,49,S 2,assigned,14
-Swampscott,1462.8410729202096,4383,50,N 2,assigned,4
-Cardinal Spellman,1459.9386597910297,4075,51,S 1,assigned,16
-Lincoln-Sudbury,1457.3990249833,4211,52,N 1,assigned,12
-Scituate,1456.057039270362,4343,53,S 2,assigned,15
-Silver Lake/Whitman-Hanson,1455.1230831256196,4349,54,S 2,assigned,16
+Hingham/Cohasset,1517.2041737996083,4171,36,S 1,assigned,12
+Haverhill,1513.8806943270163,4167,37,N 1,assigned,8
+Mansfield,1509.3849445894102,4230,38,S 1,assigned,13
+Hopkinton,1500.0,4180,39,S 1,assigned,14
+Wellesley,1499.7222381558875,4413,40,S 1,assigned,15
+BC High,1494.7549059267856,4029,41,S 1,assigned,16
+Westborough,1491.0888260419702,4418,42,CW 1,assigned,3
+Acton-Boxborough,1488.3857310741037,4003,43,N 1,assigned,9
+Foxborough,1484.7172031748717,4142,44,S 2,assigned,10
+Bishop Stang,1484.2023277598119,4045,45,S 2,assigned,11
+Malden Catholic,1483.4501594099358,4228,46,N 1,assigned,10
+Latin Academy,1481.165507900837,4202,47,S 2,assigned,12
+Dedham,1475.7929436793631,4108,48,S 2,assigned,13
+Newton South,1467.0247379504417,4280,49,N 1,assigned,11
+O’Bryant,1466.2831045598255,4298,50,S 2,assigned,14
+Swampscott,1462.8410729202096,4383,51,N 2,assigned,4
+Cardinal Spellman,1459.9386597910297,4075,52,S 1,assigned,17
+Lincoln-Sudbury,1457.3990249833,4211,53,N 1,assigned,12
+Scituate,1456.057039270362,4343,54,S 2,assigned,15
 Lexington,1450.4477743429054,4209,55,N 1,assigned,13
 Melrose,1449.520851658404,4244,56,N 2,assigned,5
-Attleboro,1443.4965237025108,4018,57,S 1,assigned,17
-Franklin,1439.734297730687,4144,58,S 1,assigned,18
-Taunton,1438.984267033646,4388,59,S 1,assigned,19
-Needham,1436.4395982742042,4272,60,S 1,assigned,20
-Apponequet/Old Colony,1434.2718355469976,4011,61,S 2,assigned,17
-Holliston/Medway,1426.7429388478774,4174,62,S 2,assigned,18
-Marshfield/Hanover,1420.9223981894522,4234,63,S 1,assigned,21
-Brockton,1415.5676150210943,4058,64,S 1,assigned,22
-Durfee,1409.263431748545,4122,65,S 1,assigned,23
-Boston Latin,1404.1266497704614,4049,66,N 1,assigned,14
-Plymouth North/South,1395.9161904857158,4315,67,S 1,assigned,24
-Nauset,1395.188630468867,4271,68,S 2,assigned,19
-Pembroke,1392.3183550291897,4308,69,S 2,assigned,20
-Barnstable,1391.8692742768067,4024,70,S 1,assigned,25
-Norwell,1385.2147347033642,4296,71,S 2,assigned,21
-Wachusett,1382.668804021232,4400,72,CW 1,assigned,4
-Nashoba,1366.9672185301358,4267,73,CW 1,assigned,5
-Medfield,1361.4510522175003,4241,74,S 2,assigned,22
-St. John’s (Shrewsbury),1354.646264289486,4368,75,CW 1,assigned,6
-Stoughton,1316.2234652889676,4381,76,S 2,assigned,23
-Central Catholic,1252.316088186609,4081,77,N 1,assigned,15
+Attleboro,1443.4965237025108,4018,57,S 1,assigned,18
+Silver Lake/Whitman-Hanson,1443.1909146379678,4349,58,S 2,assigned,16
+Franklin,1439.734297730687,4144,59,S 1,assigned,19
+Taunton,1438.984267033646,4388,60,S 1,assigned,20
+Needham,1436.4395982742042,4272,61,S 1,assigned,21
+Apponequet/Old Colony,1434.2718355469976,4011,62,S 2,assigned,17
+Holliston/Medway,1426.7429388478774,4174,63,S 2,assigned,18
+Marshfield/Hanover,1420.9223981894522,4234,64,S 1,assigned,22
+Brockton,1415.5676150210943,4058,65,S 1,assigned,23
+Durfee,1409.263431748545,4122,66,S 1,assigned,24
+Boston Latin,1404.1266497704614,4049,67,N 1,assigned,14
+Plymouth North/South,1395.9161904857158,4315,68,S 1,assigned,25
+Nauset,1395.188630468867,4271,69,S 2,assigned,19
+Pembroke,1392.3183550291897,4308,70,S 2,assigned,20
+Barnstable,1391.8692742768067,4024,71,S 1,assigned,26
+Norwell,1385.2147347033642,4296,72,S 2,assigned,21
+Wachusett,1382.668804021232,4400,73,CW 1,assigned,4
+Nashoba,1366.9672185301358,4267,74,CW 1,assigned,5
+Medfield,1361.4510522175003,4241,75,S 2,assigned,22
+St. John’s (Shrewsbury),1354.646264289486,4368,76,CW 1,assigned,6
+Stoughton,1316.2234652889676,4381,77,S 2,assigned,23
+Central Catholic,1252.316088186609,4081,78,N 1,assigned,15

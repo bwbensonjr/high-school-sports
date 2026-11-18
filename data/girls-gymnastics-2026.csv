@@ -1,81 +1,81 @@
-date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win
-2025-12-23,72792,FINAL,North Andover,4283,129.55,1,Methuen,4246,117.85,0,Merrimack Valley,Merrimack Valley,,,0
-2025-12-27,74566,FINAL,North Andover,4283,125.15,0,Tewksbury,4389,130.8,1,Merrimack Valley,Merrimack Valley,3:00 P.M.,,0
-2025-12-30,75290,FINAL,North Andover,4283,132.85,1,Dracut,4119,117.4,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-03,77309,FINAL,Chelmsford/B/T,4085,130.75,0,North Andover,4283,133.9,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-03,77324,FINAL,Bridgewater-Raynham/West Bridgewater,4053,140.35,1,Cohasset/Norwell,4094,128.65,0,Cranberry,Cranberry,,,0
-2026-01-03,77325,FINAL,Brockton/Spellman/Stoughton,4058,141.15,1,Cohasset/Norwell,4094,128.65,0,Cranberry,Cranberry,,,0
-2026-01-03,77328,FINAL,Bridgewater-Raynham/West Bridgewater,4053,140.35,0,Brockton/Spellman/Stoughton,4058,141.15,1,Cranberry,Cranberry,,,0
-2026-01-04,77334,FINAL,Norton,4295,131.1,1,Middleborough,4247,130.5,0,Tri-Valley,Cranberry,,,0
-2026-01-05,77441,FINAL,Westford,4421,135.7,1,Newton South,4280,126.45,0,Dual County,Dual County,,,0
-2026-01-06,78077,FINAL,Newton South,4280,90.65,0,Newton North,4279,142.35,1,Dual County,Bay State,,,0
-2026-01-07,78139,FINAL,Central Catholic,4081,137.8,1,Chelmsford/B/T,4085,131.95,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-07,78140,FINAL,Central Catholic,4081,137.8,1,Dracut,4119,110.2,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-07,78141,FINAL,Chelmsford/B/T,4085,131.95,1,Dracut,4119,110.2,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-07,78216,FINAL,Whitman-Hanson,4427,125.35,0,Hingham/Hull,4171,130.4,1,Patriot,Patriot,,,0
-2026-01-07,78219,FINAL,Methuen,4246,112.7,0,Haverhill,4167,128.8,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-07,78321,FINAL,Marshfield,4234,133.4,1,Pembroke/Silver Lake,4308,131.95,0,Patriot,Patriot,,,0
-2026-01-08,78231,FINAL,Arlington,4013,124.2,0,Wakefield,4402,124.25,1,Middlesex,Middlesex,,,0
-2026-01-08,78237,FINAL,Westford,4421,134.75,1,Wayland,4411,119.9,0,Dual County,Independent,,,0
-2026-01-08,78312,FINAL,Wilmington/Bedford,4432,140.0,1,Stoneham,4380,125.9,0,Middlesex,Middlesex,,,0
-2026-01-08,78316,FINAL,Melrose,4244,133.25,1,Burlington,4065,132.6,0,Middlesex,Middlesex,,,0
-2026-01-09,78794,FINAL,Needham,4272,131.7,1,Framingham,4143,129.5,0,Bay State,Bay State,,,0
-2026-01-09,78795,FINAL,Marshfield,4234,135.6,1,Whitman-Hanson,4427,131.9,0,Patriot,Patriot,,,0
-2026-01-10,78843,FINAL,Mansfield,4230,141.7,1,King Philip,4197,137.7,0,Hockomock,Hockomock,,,0
-2026-01-10,78937,FINAL,Scituate,4343,130.3,0,Hingham/Hull,4171,138.8,1,Patriot,Patriot,,,0
-2026-01-11,78952,FINAL,Hingham/Hull,4171,134.85,1,Hanover,4164,125.15,0,Patriot,Patriot,,,0
-2026-01-11,78954,FINAL,Hingham/Hull,4171,134.85,1,Pembroke/Silver Lake,4308,125.15,0,Patriot,Patriot,,,0
-2026-01-11,78955,FINAL,Pembroke/Silver Lake,4308,129.8,1,Hanover,4164,125.15,0,Patriot,Patriot,,,0
-2026-01-11,78957,FINAL,Norton,4295,127.5,0,Medway/Milford/Millis,4243,134.35,1,Tri-Valley,Tri-Valley,,,0
-2026-01-11,78960,FINAL,Marshfield,4234,129.9,1,Silver Lake,4349,120.9,0,Patriot,Independent,,,0
-2026-01-11,78967,FINAL,Andover,4009,142.75,1,Central Catholic,4081,138.6,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-11,78970,FINAL,Hamilton-Wenham/Manchester Essex,4163,137.6,1,Bishop Fenwick,4043,123.1,0,Cape Ann/Northeastern,Independent,,,0
-2026-01-11,79087,FINAL,Hopkinton,4180,134.35,1,Norton,4295,127.5,0,Tri-Valley,Tri-Valley,,,0
-2026-01-11,80367,FINAL,Natick,4270,132.25,0,Newton North,4279,146.5,1,Bay State,Bay State,,,0
-2026-01-14,80298,FINAL,Chelmsford/B/T,4085,130.85,1,Lowell,4216,102.75,0,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0
-2026-01-14,80341,FINAL,Haverhill,4167,130.4,0,North Andover,4283,133.8,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-14,80344,FINAL,Melrose,4244,135.35,0,Reading,4328,139.5,1,Middlesex,Middlesex,,,0
-2026-01-15,80602,FINAL,Medford/Somerville,4242,102.65,1,Salem,4336,100.2,0,Greater Boston,Cape Ann/Northeastern,,,0
-2026-01-15,80629,FINAL,Norwood,4297,126.0,0,Medford/Somerville,4242,141.95,1,Independent,Greater Boston,,,0
-2026-01-15,80635,FINAL,Hanover,4164,125.85,0,Marshfield,4234,131.3,1,Patriot,Patriot,,,0
-2026-01-15,80640,FINAL,Newton North,4279,144.0,1,Framingham,4143,125.55,0,Bay State,Bay State,,,0
-2026-01-15,80643,FINAL,Wilmington/Bedford,4432,139.8,1,Winchester,4434,136.5,0,Middlesex,Middlesex,,,0
-2026-01-15,80653,FINAL,Beverly,4038,138.7,1,Marblehead/Swampscott,4231,130.95,0,Cape Ann/Northeastern,Cape Ann/Northeastern,,,0
-2026-01-16,80758,FINAL,Hingham/Hull,4171,136.05,0,Pembroke/Silver Lake,4308,137.3,1,Patriot,Patriot,,,0
-2026-01-16,80761,FINAL,Mansfield,4230,142.6,1,Foxborough,4142,136.7,0,Hockomock,Independent,,,0
-2026-01-16,80803,FINAL,Scituate,4343,125.15,0,Whitman-Hanson,4427,133.75,1,Patriot,Patriot,,,0
-2026-01-17,80966,FINAL,Plymouth North/South,4315,129.7,0,Marshfield,4234,136.6,1,Patriot,Patriot,,,0
-2026-01-17,80970,FINAL,Marlborough,4233,144.4,1,Algonquin,4005,133.2,0,Mid-Wach,Mid-Wach,,,0
-2026-01-18,80997,FINAL,North Andover,4283,130.0,0,Andover,4009,141.9,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-19,81037,FINAL,Marshfield,4234,129.0,0,Whitman-Hanson,4427,131.05,1,Patriot,Patriot,,,0
-2026-01-20,81672,FINAL,Newton North,4279,145.7,1,Braintree,4051,131.7,0,Bay State,Bay State,,,0
-2026-01-20,81673,FINAL,Central Catholic,4081,138.15,1,Haverhill,4167,131.8,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-20,81677,FINAL,Haverhill,4167,131.8,1,Dracut,4119,119.4,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-20,81682,FINAL,Scituate,4343,120.35,0,Hanover,4164,123.5,1,Patriot,Patriot,,,0
-2026-01-20,81685,FINAL,Framingham,4143,127.9,0,Hopkinton,4180,139.1,1,Bay State,Tri-Valley,,,0
-2026-01-21,81885,FINAL,Tewksbury,4389,130.8,0,Chelmsford/B/T,4085,135.35,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-21,82134,FINAL,Hingham/Hull,4171,135.7,1,Scituate,4343,117.25,0,Patriot,Patriot,,,0
-2026-01-22,82321,FINAL,Medford/Somerville,4242,102.75,0,Malden,4227,104.25,1,Greater Boston,Greater Boston,,,0
-2026-01-23,82564,FINAL,Hingham/Hull,4171,134.45,1,Plymouth North/South,4315,126.65,0,Patriot,Patriot,,,0
-2026-01-23,82617,FINAL,Needham,4272,127.65,0,Newton North,4279,144.9,1,Bay State,Bay State,,,0
-2026-01-23,82619,FINAL,Whitman-Hanson,4427,131.8,0,Pembroke/Silver Lake,4308,132.45,1,Patriot,Patriot,,,0
-2026-01-23,82975,FINAL,Hamilton-Wenham/Manchester Essex,4163,140.85,1,Peabody,4306,83.9,0,Cape Ann/Northeastern,Independent,,,0
-2026-01-24,82932,FINAL,Hopkinton,4180,138.45,0,MADS,4241,139.6,1,Tri-Valley,Tri-Valley,3:30 P.M.,,0
-2026-01-25,83134,FINAL,Hanover,4164,126.3,0,Whitman-Hanson,4427,132.35,1,Patriot,Patriot,,,0
-2026-01-27,83531,FINAL,North Andover,4283,133.0,0,Central Catholic,4081,139.35,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-27,83532,FINAL,Lowell,4216,112.75,0,Central Catholic,4081,139.35,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-27,83535,FINAL,Lowell,4216,112.75,0,North Andover,4283,133.0,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-27,83546,FINAL,Needham,4272,133.55,0,Wellesley,4413,143.4,1,Bay State,Bay State,,,0
-2026-01-28,83689,FINAL,Newton North,4279,147.1,1,Walpole,4404,128.4,0,Bay State,Bay State,,,0
-2026-01-29,83715,FINAL,Hanover,4164,124.9,1,Scituate,4343,121.1,0,Patriot,Patriot,,,0
-2026-01-29,83768,FINAL,Lowell,4216,99.75,0,Haverhill,4167,131.05,1,Merrimack Valley,Merrimack Valley,,,0
-2026-01-29,83770,FINAL,Haverhill,4167,131.05,1,Tewksbury,4389,129.2,0,Merrimack Valley,Merrimack Valley,,,0
-2026-01-30,83891,FINAL,Hingham/Hull,4171,139.2,1,Marshfield,4234,130.2,0,Patriot,Patriot,,,0
-2026-02-01,83959,FINAL,Whitman-Hanson,4427,133.4,0,Hingham/Hull,4171,136.3,1,Patriot,Patriot,,,0
-2026-02-01,83965,FINAL,Marshfield,4234,134.6,1,Scituate,4343,127.7,0,Patriot,Patriot,,,0
-2026-02-01,83966,FINAL,Marshfield,4234,134.6,1,Hanover,4164,124.2,0,Patriot,Patriot,,,0
-2026-02-01,83969,FINAL,Scituate,4343,127.75,1,Hanover,4164,124.2,0,Patriot,Patriot,,,0
-2026-02-01,83979,FINAL,Newton North,4279,146.6,1,Wellesley,4413,144.1,0,Bay State,Bay State,,,0
-2026-02-03,84222,FINAL,Winchester,4434,140.0,1,Wakefield,4402,131.1,0,Middlesex,Middlesex,,,0
-2026-07-09,121952,FINAL,Bishop Fenwick,4043,125.2,0,Marblehead/Swampscott,4231,126.55,1,Independent,Cape Ann/Northeastern,,,0
-2026-07-15,123350,FINAL,North Attleborough,4284,119.5,1,Canton,4071,117.5,0,Hockomock,Hockomock,,,0
+date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,visitor_team_id,visitor_score,visitor_outcome,home_conference,visitor_conference,time,overtime,is_shootout_win,tourney_name,tourney_level,neutral_site,venue
+2025-12-23,72792,FINAL,North Andover,4283,129.55,1,Methuen,4246,117.85,0,Merrimack Valley,Merrimack Valley,,,0,,,,
+2025-12-27,74566,FINAL,North Andover,4283,125.15,0,Tewksbury,4389,130.8,1,Merrimack Valley,Merrimack Valley,3:00 P.M.,,0,,,,
+2025-12-30,75290,FINAL,North Andover,4283,132.85,1,Dracut,4119,117.4,0,Merrimack Valley,Merrimack Valley,,,0,,,,
+2026-01-03,77309,FINAL,Chelmsford/B/T,4085,130.75,0,North Andover,4283,133.9,1,Merrimack Valley,Merrimack Valley,,,0,,,,
+2026-01-03,77324,FINAL,Bridgewater-Raynham/West Bridgewater,4053,140.35,1,Cohasset/Norwell,4094,128.65,0,Cranberry,Cranberry,,,0,,,,
+2026-01-03,77325,FINAL,Brockton/Spellman/Stoughton,4058,141.15,1,Cohasset/Norwell,4094,128.65,0,Cranberry,Cranberry,,,0,,,,
+2026-01-03,77328,FINAL,Bridgewater-Raynham/West Bridgewater,4053,140.35,0,Brockton/Spellman/Stoughton,4058,141.15,1,Cranberry,Cranberry,,,0,,,,
+2026-01-04,77334,FINAL,Norton,4295,131.1,1,Middleborough,4247,130.5,0,Tri-Valley,Cranberry,,,0,,,,
+2026-01-05,77441,FINAL,Westford,4421,135.7,1,Newton South,4280,126.45,0,Dual County,Dual County,,,0,,,,
+2026-01-06,78077,FINAL,Newton South,4280,90.65,0,Newton North,4279,142.35,1,Dual County,Bay State,,,0,,,,
+2026-01-07,78139,FINAL,Central Catholic,4081,137.8,1,Chelmsford/B/T,4085,131.95,0,Merrimack Valley,Merrimack Valley,,,0,,,,
+2026-01-07,78140,FINAL,Central Catholic,4081,137.8,1,Dracut,4119,110.2,0,Merrimack Valley,Merrimack Valley,,,0,,,,
+2026-01-07,78141,FINAL,Chelmsford/B/T,4085,131.95,1,Dracut,4119,110.2,0,Merrimack Valley,Merrimack Valley,,,0,,,,
+2026-01-07,78216,FINAL,Whitman-Hanson,4427,125.35,0,Hingham/Hull,4171,130.4,1,Patriot,Patriot,,,0,,,,
+2026-01-07,78219,FINAL,Methuen,4246,112.7,0,Haverhill,4167,128.8,1,Merrimack Valley,Merrimack Valley,,,0,,,,
+2026-01-07,78321,FINAL,Marshfield,4234,133.4,1,Pembroke/Silver Lake,4308,131.95,0,Patriot,Patriot,,,0,,,,
+2026-01-08,78231,FINAL,Arlington,4013,124.2,0,Wakefield,4402,124.25,1,Middlesex,Middlesex,,,0,,,,
+2026-01-08,78237,FINAL,Westford,4421,134.75,1,Wayland,4411,119.9,0,Dual County,Independent,,,0,,,,
+2026-01-08,78312,FINAL,Wilmington/Bedford,4432,140.0,1,Stoneham,4380,125.9,0,Middlesex,Middlesex,,,0,,,,
+2026-01-08,78316,FINAL,Melrose,4244,133.25,1,Burlington,4065,132.6,0,Middlesex,Middlesex,,,0,,,,
+2026-01-09,78794,FINAL,Needham,4272,131.7,1,Framingham,4143,129.5,0,Bay State,Bay State,,,0,,,,
+2026-01-09,78795,FINAL,Marshfield,4234,135.6,1,Whitman-Hanson,4427,131.9,0,Patriot,Patriot,,,0,,,,
+2026-01-10,78843,FINAL,Mansfield,4230,141.7,1,King Philip,4197,137.7,0,Hockomock,Hockomock,,,0,,,,
+2026-01-10,78937,FINAL,Scituate,4343,130.3,0,Hingham/Hull,4171,138.8,1,Patriot,Patriot,,,0,,,,
+2026-01-11,78952,FINAL,Hingham/Hull,4171,134.85,1,Hanover,4164,125.15,0,Patriot,Patriot,,,0,,,,
+2026-01-11,78954,FINAL,Hingham/Hull,4171,134.85,1,Pembroke/Silver Lake,4308,125.15,0,Patriot,Patriot,,,0,,,,
+2026-01-11,78955,FINAL,Pembroke/Silver Lake,4308,129.8,1,Hanover,4164,125.15,0,Patriot,Patriot,,,0,,,,
+2026-01-11,78957,FINAL,Norton,4295,127.5,0,Medway/Milford/Millis,4243,134.35,1,Tri-Valley,Tri-Valley,,,0,,,,
+2026-01-11,78960,FINAL,Marshfield,4234,129.9,1,Silver Lake,4349,120.9,0,Patriot,Independent,,,0,,,,
+2026-01-11,78967,FINAL,Andover,4009,142.75,1,Central Catholic,4081,138.6,0,Merrimack Valley,Merrimack Valley,,,0,,,,
+2026-01-11,78970,FINAL,Hamilton-Wenham/Manchester Essex,4163,137.6,1,Bishop Fenwick,4043,123.1,0,Cape Ann/Northeastern,Independent,,,0,,,,
+2026-01-11,79087,FINAL,Hopkinton,4180,134.35,1,Norton,4295,127.5,0,Tri-Valley,Tri-Valley,,,0,,,,
+2026-01-11,80367,FINAL,Natick,4270,132.25,0,Newton North,4279,146.5,1,Bay State,Bay State,,,0,,,,
+2026-01-14,80298,FINAL,Chelmsford/B/T,4085,130.85,1,Lowell,4216,102.75,0,Merrimack Valley,Merrimack Valley,5:00 P.M.,,0,,,,
+2026-01-14,80341,FINAL,Haverhill,4167,130.4,0,North Andover,4283,133.8,1,Merrimack Valley,Merrimack Valley,,,0,,,,
+2026-01-14,80344,FINAL,Melrose,4244,135.35,0,Reading,4328,139.5,1,Middlesex,Middlesex,,,0,,,,
+2026-01-15,80602,FINAL,Medford/Somerville,4242,102.65,1,Salem,4336,100.2,0,Greater Boston,Cape Ann/Northeastern,,,0,,,,
+2026-01-15,80629,FINAL,Norwood,4297,126.0,0,Medford/Somerville,4242,141.95,1,Independent,Greater Boston,,,0,,,,
+2026-01-15,80635,FINAL,Hanover,4164,125.85,0,Marshfield,4234,131.3,1,Patriot,Patriot,,,0,,,,
+2026-01-15,80640,FINAL,Newton North,4279,144.0,1,Framingham,4143,125.55,0,Bay State,Bay State,,,0,,,,
+2026-01-15,80643,FINAL,Wilmington/Bedford,4432,139.8,1,Winchester,4434,136.5,0,Middlesex,Middlesex,,,0,,,,
+2026-01-15,80653,FINAL,Beverly,4038,138.7,1,Marblehead/Swampscott,4231,130.95,0,Cape Ann/Northeastern,Cape Ann/Northeastern,,,0,,,,
+2026-01-16,80758,FINAL,Hingham/Hull,4171,136.05,0,Pembroke/Silver Lake,4308,137.3,1,Patriot,Patriot,,,0,,,,
+2026-01-16,80761,FINAL,Mansfield,4230,142.6,1,Foxborough,4142,136.7,0,Hockomock,Independent,,,0,,,,
+2026-01-16,80803,FINAL,Scituate,4343,125.15,0,Whitman-Hanson,4427,133.75,1,Patriot,Patriot,,,0,,,,
+2026-01-17,80966,FINAL,Plymouth North/South,4315,129.7,0,Marshfield,4234,136.6,1,Patriot,Patriot,,,0,,,,
+2026-01-17,80970,FINAL,Marlborough,4233,144.4,1,Algonquin,4005,133.2,0,Mid-Wach,Mid-Wach,,,0,,,,
+2026-01-18,80997,FINAL,North Andover,4283,130.0,0,Andover,4009,141.9,1,Merrimack Valley,Merrimack Valley,,,0,,,,
+2026-01-19,81037,FINAL,Marshfield,4234,129.0,0,Whitman-Hanson,4427,131.05,1,Patriot,Patriot,,,0,,,,
+2026-01-20,81672,FINAL,Newton North,4279,145.7,1,Braintree,4051,131.7,0,Bay State,Bay State,,,0,,,,
+2026-01-20,81673,FINAL,Central Catholic,4081,138.15,1,Haverhill,4167,131.8,0,Merrimack Valley,Merrimack Valley,,,0,,,,
+2026-01-20,81677,FINAL,Haverhill,4167,131.8,1,Dracut,4119,119.4,0,Merrimack Valley,Merrimack Valley,,,0,,,,
+2026-01-20,81682,FINAL,Scituate,4343,120.35,0,Hanover,4164,123.5,1,Patriot,Patriot,,,0,,,,
+2026-01-20,81685,FINAL,Framingham,4143,127.9,0,Hopkinton,4180,139.1,1,Bay State,Tri-Valley,,,0,,,,
+2026-01-21,81885,FINAL,Tewksbury,4389,130.8,0,Chelmsford/B/T,4085,135.35,1,Merrimack Valley,Merrimack Valley,,,0,,,,
+2026-01-21,82134,FINAL,Hingham/Hull,4171,135.7,1,Scituate,4343,117.25,0,Patriot,Patriot,,,0,,,,
+2026-01-22,82321,FINAL,Medford/Somerville,4242,102.75,0,Malden,4227,104.25,1,Greater Boston,Greater Boston,,,0,,,,
+2026-01-23,82564,FINAL,Hingham/Hull,4171,134.45,1,Plymouth North/South,4315,126.65,0,Patriot,Patriot,,,0,,,,
+2026-01-23,82617,FINAL,Needham,4272,127.65,0,Newton North,4279,144.9,1,Bay State,Bay State,,,0,,,,
+2026-01-23,82619,FINAL,Whitman-Hanson,4427,131.8,0,Pembroke/Silver Lake,4308,132.45,1,Patriot,Patriot,,,0,,,,
+2026-01-23,82975,FINAL,Hamilton-Wenham/Manchester Essex,4163,140.85,1,Peabody,4306,83.9,0,Cape Ann/Northeastern,Independent,,,0,,,,
+2026-01-24,82932,FINAL,Hopkinton,4180,138.45,0,MADS,4241,139.6,1,Tri-Valley,Tri-Valley,3:30 P.M.,,0,,,,
+2026-01-25,83134,FINAL,Hanover,4164,126.3,0,Whitman-Hanson,4427,132.35,1,Patriot,Patriot,,,0,,,,
+2026-01-27,83531,FINAL,North Andover,4283,133,0,Central Catholic,4081,139.35,1,Merrimack Valley,Merrimack Valley,,,0,,,,
+2026-01-27,83532,FINAL,Lowell,4216,112.75,0,Central Catholic,4081,139.35,1,Merrimack Valley,Merrimack Valley,,,0,,,,
+2026-01-27,83535,FINAL,Lowell,4216,112.75,0,North Andover,4283,133,1,Merrimack Valley,Merrimack Valley,,,0,,,,
+2026-01-27,83546,FINAL,Needham,4272,133.55,0,Wellesley,4413,143.4,1,Bay State,Bay State,,,0,,,,
+2026-01-28,83689,FINAL,Newton North,4279,147.1,1,Walpole,4404,128.4,0,Bay State,Bay State,,,0,,,,
+2026-01-29,83715,FINAL,Hanover,4164,124.9,1,Scituate,4343,121.1,0,Patriot,Patriot,,,0,,,,
+2026-01-29,83768,FINAL,Lowell,4216,99.75,0,Haverhill,4167,131.05,1,Merrimack Valley,Merrimack Valley,,,0,,,,
+2026-01-29,83770,FINAL,Haverhill,4167,131.05,1,Tewksbury,4389,129.2,0,Merrimack Valley,Merrimack Valley,,,0,,,,
+2026-01-30,83891,FINAL,Hingham/Hull,4171,139.2,1,Marshfield,4234,130.2,0,Patriot,Patriot,,,0,,,,
+2026-02-01,83959,FINAL,Whitman-Hanson,4427,133.4,0,Hingham/Hull,4171,136.3,1,Patriot,Patriot,,,0,,,,
+2026-02-01,83965,FINAL,Marshfield,4234,134.6,1,Scituate,4343,127.7,0,Patriot,Patriot,,,0,,,,
+2026-02-01,83966,FINAL,Marshfield,4234,134.6,1,Hanover,4164,124.2,0,Patriot,Patriot,,,0,,,,
+2026-02-01,83969,FINAL,Scituate,4343,127.75,1,Hanover,4164,124.2,0,Patriot,Patriot,,,0,,,,
+2026-02-01,83979,FINAL,Newton North,4279,146.6,1,Wellesley,4413,144.1,0,Bay State,Bay State,,,0,,,,
+2026-02-03,84222,FINAL,Winchester,4434,140,1,Wakefield,4402,131.1,0,Middlesex,Middlesex,,,0,,,,
+2026-07-09,121952,FINAL,Bishop Fenwick,4043,125.2,0,Marblehead/Swampscott,4231,126.55,1,Independent,Cape Ann/Northeastern,,,0,,,,
+2026-07-15,123350,FINAL,North Attleborough,4284,119.5,1,Canton,4071,117.5,0,Hockomock,Hockomock,,,0,,,,

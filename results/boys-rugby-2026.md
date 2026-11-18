@@ -1,6 +1,6 @@
 # Boys Rugby - 2026 Season
 
-Generated: 2026-11-18 16:47
+Generated: 2026-11-18 12:20
 
 ## Upcoming Games
 
@@ -16,22 +16,22 @@ Generated: 2026-11-18 16:47
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | BC High | 1734.2 |
-| 2 | Hanover | 1633.4 |
-| 3 | Brookline | 1614.8 |
-| 4 | Milton | 1613.1 |
-| 5 | Hingham/Norwell | 1590.8 |
-| 6 | Algonquin/Westboro | 1565.2 |
-| 7 | Malden Catholic | 1564.9 |
-| 8 | Blue Hills | 1560.4 |
+| 1 | BC High | 1741.4 |
+| 2 | Hanover | 1643.2 |
+| 3 | Brookline | 1610.3 |
+| 4 | Milton | 1605.9 |
+| 5 | Hingham/Norwell | 1585.4 |
+| 6 | Algonquin/Westboro | 1565.5 |
+| 7 | Malden Catholic | 1564.2 |
+| 8 | Blue Hills | 1561.2 |
 | 9 | Xaverian | 1527.7 |
 | 10 | Braintree | 1500.0 |
-| 11 | Belmont | 1460.3 |
-| 12 | St. John’s Prep | 1448.0 |
-| 13 | Chelmsford | 1438.5 |
-| 14 | Marshfield/SST | 1423.1 |
-| 15 | Burncoat | 1412.2 |
-| 16 | Cambridge | 1407.2 |
+| 11 | Marshfield/SST | 1460.6 |
+| 12 | Belmont | 1460.3 |
+| 13 | St. John’s Prep | 1448.0 |
+| 14 | Chelmsford | 1443.0 |
+| 15 | Burncoat | 1409.1 |
+| 16 | Cambridge | 1367.7 |
 | 17 | Weymouth | 1363.1 |
 | 18 | Catholic Memorial | 1337.3 |
 | 19 | Lincoln-Sudbury | 1306.0 |
@@ -43,11 +43,11 @@ Generated: 2026-11-18 16:47
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | BC High | 1734.2 | 1 |
-| 2 | Milton | 1613.1 | 4 |
+| 1 | BC High | 1741.4 | 1 |
+| 2 | Milton | 1605.9 | 4 |
 | 3 | Xaverian | 1527.7 | 9 |
-| 4 | Belmont | 1460.3 | 11 |
-| 5 | St. John’s Prep | 1448.0 | 12 |
+| 4 | Belmont | 1460.3 | 12 |
+| 5 | St. John’s Prep | 1448.0 | 13 |
 | 6 | Weymouth | 1363.1 | 17 |
 | 7 | Lincoln-Sudbury | 1306.0 | 19 |
 
@@ -55,15 +55,15 @@ Generated: 2026-11-18 16:47
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Hanover | 1633.4 | 2 |
-| 2 | Brookline | 1614.8 | 3 |
-| 3 | Hingham/Norwell | 1590.8 | 5 |
-| 4 | Algonquin/Westboro | 1565.2 | 6 |
-| 5 | Malden Catholic | 1564.9 | 7 |
-| 6 | Blue Hills | 1560.4 | 8 |
+| 1 | Hanover | 1643.2 | 2 |
+| 2 | Brookline | 1610.3 | 3 |
+| 3 | Hingham/Norwell | 1585.4 | 5 |
+| 4 | Algonquin/Westboro | 1565.5 | 6 |
+| 5 | Malden Catholic | 1564.2 | 7 |
+| 6 | Blue Hills | 1561.2 | 8 |
 | 7 | Braintree | 1500.0 | 10 |
-| 8 | Chelmsford | 1438.5 | 13 |
-| 9 | Marshfield/SST | 1423.1 | 14 |
-| 10 | Burncoat | 1412.2 | 15 |
-| 11 | Cambridge | 1407.2 | 16 |
+| 8 | Marshfield/SST | 1460.6 | 11 |
+| 9 | Chelmsford | 1443.0 | 14 |
+| 10 | Burncoat | 1409.1 | 15 |
+| 11 | Cambridge | 1367.7 | 16 |
 | 12 | Catholic Memorial | 1337.3 | 18 |
