@@ -86,6 +86,18 @@ def game_margins(games):
     return (games["home_score"] - games["visitor_score"]).to_numpy(float)
 
 
+def home_indicator(games):
+    """1.0 for a game with a home team, 0.0 for one at a neutral site."""
+    from high_school_elo import neutral_sites
+
+    return (~neutral_sites(games)).to_numpy(float)
+
+
+def with_home(values, home):
+    """Home indicator per game, defaulting to every game having a home team."""
+    return np.ones(len(values)) if home is None else np.asarray(home, float)
+
+
 def replay_rating_differences(games, k, home_field, season_regression=0.33, margin_of_victory=True):
     """
     Replay games through Elo, matching high_school_elo.process_game_elo.
@@ -97,15 +109,15 @@ def replay_rating_differences(games, k, home_field, season_regression=0.33, marg
               margin_of_victory=margin_of_victory)
     diffs = np.empty(len(games))
     seasons = games["season"].to_numpy()
-    rows = zip(games["home_team"], games["visitor_team"], game_margins(games))
-    for i, (home, away, margin) in enumerate(rows):
+    rows = zip(games["home_team"], games["visitor_team"], game_margins(games), home_indicator(games) == 0)
+    for i, (home, away, margin, neutral) in enumerate(rows):
         if i > 0 and seasons[i] != seasons[i - 1]:
             elo.regress_towards_mean()
         for team in (home, away):
             if team not in elo.ratings:
                 elo.add_team(team)
         diffs[i] = elo.team_rating(home) - elo.team_rating(away)
-        elo.update_ratings_margin(home, away, margin)
+        elo.update_ratings_margin(home, away, margin, neutral)
     return diffs
 
 
@@ -114,30 +126,31 @@ def home_results(margins):
     return np.where(margins > 0, 1.0, np.where(margins < 0, 0.0, 0.5))
 
 
-def log_loss(diffs, home_field, results):
-    """Mean log loss of the home win probability."""
-    prob = 1 / (1 + 10 ** (-(diffs + home_field) / 400))
+def log_loss(diffs, home_field, results, home=None):
+    """Mean log loss of the home win probability; home is 0 for neutral-site games."""
+    prob = 1 / (1 + 10 ** (-(diffs + home_field * with_home(diffs, home)) / 400))
     prob = np.clip(prob, 1e-9, 1 - 1e-9)
     return float(-np.mean(results * np.log(prob) + (1 - results) * np.log(1 - prob)))
 
 
-def fit_spread(diffs, margins):
+def fit_spread(diffs, margins, home=None):
     """
-    Fit margin = (diff + spread_home_field) / spread_factor by least squares.
+    Fit margin = (diff + spread_home_field * home) / spread_factor by least squares,
+    where home is 0 for neutral-site games and 1 otherwise.
 
     Returns:
         tuple: (spread_factor, spread_home_field)
     """
-    design = np.column_stack([np.ones(len(diffs)), diffs])
+    design = np.column_stack([with_home(diffs, home), diffs])
     (intercept, slope), *_ = np.linalg.lstsq(design, margins, rcond=None)
     if slope <= 0:
         raise ValueError("Rating differences do not predict margins")
     return 1 / slope, intercept / slope
 
 
-def spread_rmse(diffs, margins, spread_factor, spread_home_field):
-    """Root mean squared error of predicted spreads."""
-    predicted = (diffs + spread_home_field) / spread_factor
+def spread_rmse(diffs, margins, spread_factor, spread_home_field, home=None):
+    """Root mean squared error of predicted spreads; home is 0 for neutral-site games."""
+    predicted = (diffs + spread_home_field * with_home(diffs, home)) / spread_factor
     return float(np.sqrt(np.mean((margins - predicted) ** 2)))
 
 
@@ -168,7 +181,7 @@ def replay_grid(games, regression_grid, margin_of_victory=True):
     }
 
 
-def fit_rating_parameters(replays, results, mask):
+def fit_rating_parameters(replays, results, mask, home=None):
     """
     Choose (k, home_field, season_regression) from the grid by log loss of the
     home win probability.
@@ -177,7 +190,7 @@ def fit_rating_parameters(replays, results, mask):
         tuple: (k, home_field, season_regression)
     """
     losses = {
-        params: log_loss(diffs[mask], params[1], results[mask])
+        params: log_loss(diffs[mask], params[1], results[mask], with_home(results, home)[mask])
         for params, diffs in replays.items()
     }
     return min(losses, key=losses.get)
@@ -186,8 +199,9 @@ def fit_rating_parameters(replays, results, mask):
 def fit_spread_recent(games, diffs, mask):
     """Fit spread parameters on the most recent scored games."""
     margins = game_margins(games)
+    home = home_indicator(games)
     recent = recent_mask(mask, SPREAD_FIT_FRACTION)
-    return fit_spread(diffs[recent], margins[recent])
+    return fit_spread(diffs[recent], margins[recent], home[recent])
 
 
 def calibrate_sport(sport, current):
@@ -223,6 +237,7 @@ def calibrate_sport(sport, current):
     margin_of_victory = current.get("margin_of_victory", True)
 
     margins = game_margins(games)
+    home = home_indicator(games)
     results = home_results(margins)
     mask = scored_mask(games)
     test = recent_mask(mask, HOLDOUT_FRACTION)
@@ -233,14 +248,14 @@ def calibrate_sport(sport, current):
     current_diffs = replay_rating_differences(games, cur_k, cur_home_field, cur_regression, margin_of_victory)
 
     # Rating parameters: holdout log loss of a train-fitted combination versus the current one
-    train_params = fit_rating_parameters(replays, results, train)
+    train_params = fit_rating_parameters(replays, results, train, home)
     train_home_field = train_params[1]
     train_diffs = replays[train_params]
-    current_log_loss = log_loss(current_diffs[test], cur_home_field, results[test])
-    fitted_log_loss = log_loss(train_diffs[test], train_home_field, results[test])
+    current_log_loss = log_loss(current_diffs[test], cur_home_field, results[test], home[test])
+    fitted_log_loss = log_loss(train_diffs[test], train_home_field, results[test], home[test])
     rating_changed = current_log_loss - fitted_log_loss >= MIN_LOG_LOSS_GAIN
     if rating_changed:
-        k, home_field, regression = fit_rating_parameters(replays, results, mask)
+        k, home_field, regression = fit_rating_parameters(replays, results, mask, home)
         diffs = replays[(k, home_field, regression)]
     else:
         k, home_field, regression = cur_k, cur_home_field, cur_regression
@@ -262,11 +277,13 @@ def calibrate_sport(sport, current):
         }
 
     # Spread: holdout RMSE of the train-fitted configuration versus the current one
-    current_rmse = spread_rmse(current_diffs[test], margins[test], cur_spread_factor, cur_spread_home)
+    current_rmse = spread_rmse(current_diffs[test], margins[test], cur_spread_factor, cur_spread_home, home[test])
     if rating_changed:
-        fitted_rmse = spread_rmse(train_diffs[test], margins[test], *fit_spread_recent(games, train_diffs, train))
+        fitted = fit_spread_recent(games, train_diffs, train)
+        fitted_rmse = spread_rmse(train_diffs[test], margins[test], *fitted, home[test])
     else:
-        fitted_rmse = spread_rmse(diffs[test], margins[test], *fit_spread_recent(games, diffs, train))
+        fitted = fit_spread_recent(games, diffs, train)
+        fitted_rmse = spread_rmse(diffs[test], margins[test], *fitted, home[test])
     if rating_changed or fitted_rmse < current_rmse:
         spread_factor, spread_home_field = fit_spread_recent(games, diffs, mask)
         spread_factor, spread_home_field = round(spread_factor, 1), round(spread_home_field)

@@ -105,15 +105,18 @@ class Elo:
         """
         self.ratings[team_name] = new_rating
 
-    def elo_difference(self, home_team, away_team):
+    def elo_difference(self, home_team, away_team, neutral=False):
         """
         Calculate the Elo rating difference between away and home teams.
 
-        The home team receives a bonus equal to home_field advantage before comparison.
+        The home team receives a bonus equal to home_field advantage before comparison,
+        unless the game is at a neutral site.
 
         Args:
             home_team (str): Name of the home team.
             away_team (str): Name of the away team.
+            neutral (bool, optional): True when the game is at a neutral site, so neither
+                team gets home field advantage. Default is False.
 
         Returns:
             float: Elo difference (away_elo - (home_elo + home_field)). Positive values
@@ -121,10 +124,11 @@ class Elo:
         """
         home_elo = self.team_rating(home_team)
         away_elo = self.team_rating(away_team)
-        elo_diff = away_elo - (home_elo + self.home_field)
+        home_field = 0 if neutral else self.home_field
+        elo_diff = away_elo - (home_elo + home_field)
         return elo_diff
 
-    def home_win_prob(self, home_team, away_team):
+    def home_win_prob(self, home_team, away_team, neutral=False):
         """
         Calculate the probability that the home team wins.
 
@@ -133,15 +137,16 @@ class Elo:
         Args:
             home_team (str): Name of the home team.
             away_team (str): Name of the away team.
+            neutral (bool, optional): True when the game is at a neutral site. Default is False.
 
         Returns:
             float: Probability of home team victory (0.0 to 1.0).
         """
-        elo_diff = self.elo_difference(home_team, away_team)
+        elo_diff = self.elo_difference(home_team, away_team, neutral)
         expected_home = 1 / (1 + 10 ** (elo_diff/400))
         return expected_home
 
-    def point_spread(self, home_team, away_team):
+    def point_spread(self, home_team, away_team, neutral=False):
         """
         Calculate the predicted point/goal spread for a matchup.
 
@@ -151,6 +156,8 @@ class Elo:
         Args:
             home_team (str): Name of the home team.
             away_team (str): Name of the away team.
+            neutral (bool, optional): True when the game is at a neutral site, so
+                spread_home_field is not applied. Default is False.
 
         Returns:
             float: Predicted point/goal spread. Positive means home team favored,
@@ -158,7 +165,8 @@ class Elo:
         """
         if not self.margin_of_victory:
             return math.nan
-        home_edge = self.team_rating(home_team) + self.spread_home_field - self.team_rating(away_team)
+        spread_home_field = 0 if neutral else self.spread_home_field
+        home_edge = self.team_rating(home_team) + spread_home_field - self.team_rating(away_team)
         spread = home_edge / self.spread_factor
         return spread
     
@@ -177,7 +185,7 @@ class Elo:
         """
         return self.update_ratings_margin(home_team, away_team, home_score - away_score)
 
-    def update_ratings_margin(self, home_team, away_team, home_margin):
+    def update_ratings_margin(self, home_team, away_team, home_margin, neutral=False):
         """
         Update team ratings from the home team's winning margin.
 
@@ -194,6 +202,8 @@ class Elo:
                 won, negative when it lost, zero for a tie. Callers orient this by the actual
                 winner, so sports where the lower score wins pass a positive margin for a
                 home win.
+            neutral (bool, optional): True when the game is at a neutral site, so the
+                expected result carries no home field advantage. Default is False.
 
         Returns:
             tuple: (new_home_elo, new_away_elo) - Updated ratings for both teams.
@@ -205,7 +215,7 @@ class Elo:
         else:
             result_home = 0.5
 
-        expected_home = self.home_win_prob(home_team, away_team)
+        expected_home = self.home_win_prob(home_team, away_team, neutral)
         forecast_delta = result_home - expected_home
 
         if self.margin_of_victory:

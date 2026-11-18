@@ -19,20 +19,20 @@ SPORT_CONFIG = {
     "boys-golf": {"k": 100, "home_field": 50, "season_regression": 0.1, "margin_of_victory": False},
     "boys-hockey": {"k": 100, "home_field": 40, "spread_factor": 120.2, "spread_home_field": 56},
     "boys-lacrosse": {"k": 80, "home_field": 60, "spread_factor": 53.3, "spread_home_field": 92},
-    "boys-soccer": {"k": 80, "spread_factor": 121.6, "spread_home_field": 38},
+    "boys-soccer": {"k": 80, "spread_factor": 131.5, "spread_home_field": 57},
     "boys-tennis": {"k": 150, "spread_factor": 160.1, "spread_home_field": 123},
     "boys-volleyball": {"k": 120, "home_field": 110, "spread_factor": 246.1, "spread_home_field": 206},
     "fall-girls-swimming": {"spread_factor": 10},  # not calibrated: insufficient data
-    "field-hockey": {"k": 120, "season_regression": 0.1, "spread_factor": 128.7, "spread_home_field": 43},
+    "field-hockey": {"k": 120, "season_regression": 0.1, "spread_factor": 137.6, "spread_home_field": 53},
     "football": {"k": 60, "home_field": 30, "spread_factor": 17.5, "spread_home_field": 22},
     "girls-basketball": {"k": 60, "home_field": 60, "spread_factor": 24.5, "spread_home_field": 104},
-    "girls-cross-country": {"k": 100, "home_field": 10, "spread_factor": 20, "spread_home_field": -18},
+    "girls-cross-country": {"k": 100, "home_field": 10, "spread_factor": 21.8, "spread_home_field": 14},
     "girls-golf": {"margin_of_victory": False},  # results only; k not calibrated: insufficient data
     "girls-hockey": {"k": 120, "home_field": 40, "spread_factor": 143.4, "spread_home_field": 38},
     "girls-lacrosse": {"k": 80, "home_field": 90, "spread_factor": 54.3, "spread_home_field": 130},
-    "girls-soccer": {"k": 100, "spread_factor": 132.8, "spread_home_field": 51},
+    "girls-soccer": {"k": 100, "spread_factor": 143.6, "spread_home_field": 69},
     "girls-tennis": {"spread_factor": 66.7, "spread_home_field": 51},
-    "girls-volleyball": {"k": 120, "spread_factor": 197.2, "spread_home_field": 46},
+    "girls-volleyball": {"k": 120, "spread_factor": 244.0, "spread_home_field": 89},
     "softball": {"spread_factor": 38.3, "spread_home_field": 55},
     "volleyball": {"spread_factor": 35},  # not calibrated: insufficient data
     "wrestling": {"k": 80, "home_field": 0, "spread_factor": 14.1, "spread_home_field": 17},
@@ -292,6 +292,22 @@ def home_margins(games, sport):
     return diff
 
 
+def neutral_sites(games):
+    """
+    Whether each game is at a neutral site, so neither team gets home field advantage.
+
+    A game is neutral when neutral_site names a venue. Rows written before the
+    column existed have none and count as home games.
+
+    Returns:
+        Series: Boolean per game
+    """
+    if "neutral_site" not in games:
+        return pd.Series(False, index=games.index)
+    venue = games["neutral_site"].fillna("").astype(str).str.strip()
+    return venue != ""
+
+
 def format_spread(spread):
     """Signed spread for reports; blank when the sport predicts no spread."""
     if pd.isna(spread):
@@ -306,6 +322,7 @@ def process_game_elo(elo, games_input, sport, verbose=False):
     games["date"] = pd.to_datetime(games["date"])
     games = games.sort_values(["season", "date"]).reset_index(drop=True)
     margins = home_margins(games, sport)
+    neutral = neutral_sites(games)
 
     seasons = sorted(games["season"].unique())
 
@@ -324,10 +341,11 @@ def process_game_elo(elo, games_input, sport, verbose=False):
             pre_home = elo.team_rating(home_team)
             pre_away = elo.team_rating(away_team)
 
-            # Calculate predictions before updating
-            home_win_prob = elo.home_win_prob(home_team, away_team)
+            # Calculate predictions before updating; no home edge at a neutral site
+            is_neutral = bool(neutral[ix])
+            home_win_prob = elo.home_win_prob(home_team, away_team, is_neutral)
             away_win_prob = 1 - home_win_prob
-            pred_point_spread = elo.point_spread(home_team, away_team)
+            pred_point_spread = elo.point_spread(home_team, away_team, is_neutral)
 
             # Home margin signed by the recorded winner (positive means the home team won)
             actual_point_spread = margins[ix]
@@ -339,7 +357,7 @@ def process_game_elo(elo, games_input, sport, verbose=False):
 
             # Update ratings based on game result
             post_home, post_away = elo.update_ratings_margin(
-                home_team, away_team, actual_point_spread
+                home_team, away_team, actual_point_spread, is_neutral
             )
 
             # Store all the Elo information
@@ -378,6 +396,7 @@ def process_upcoming_games(elo, games_input):
     games["away_win_prob"] = 0.0
     games["pred_point_spread"] = 0.0
     games["actual_point_spread"] = np.nan
+    neutral = neutral_sites(games)
 
     for ix, game in games.iterrows():
         home_team = game["home_team"]
@@ -387,10 +406,11 @@ def process_upcoming_games(elo, games_input):
         current_home = elo.team_rating(home_team)
         current_away = elo.team_rating(away_team)
 
-        # Calculate predictions
-        home_win_prob = elo.home_win_prob(home_team, away_team)
+        # Calculate predictions; no home edge at a neutral site
+        is_neutral = bool(neutral[ix])
+        home_win_prob = elo.home_win_prob(home_team, away_team, is_neutral)
         away_win_prob = 1 - home_win_prob
-        pred_point_spread = elo.point_spread(home_team, away_team)
+        pred_point_spread = elo.point_spread(home_team, away_team, is_neutral)
 
         # Store current Elo information (no post-game ratings for upcoming games)
         games.at[ix, "home_elo_pre"] = current_home

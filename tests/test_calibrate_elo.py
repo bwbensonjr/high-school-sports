@@ -75,3 +75,28 @@ def test_fit_rating_parameters_picks_lowest_log_loss():
         (60, 50, 0.33): np.array([200.0, 200.0, -200.0, 200.0]),
     }
     assert fit_rating_parameters(replays, results, mask) == (60, 50, 0.33)
+
+
+def test_fit_spread_ignores_home_edge_at_neutral_sites():
+    rng = np.random.default_rng(1)
+    diffs = rng.normal(0, 150, 5000)
+    home = (rng.random(5000) > 0.2).astype(float)
+    margins = (diffs + 30 * home) / 50 + rng.normal(0, 0.5, 5000)
+    spread_factor, spread_home_field = fit_spread(diffs, margins, home)
+    assert spread_factor == pytest.approx(50, rel=0.02)
+    assert spread_home_field == pytest.approx(30, abs=2)
+
+
+def test_replay_skips_home_edge_at_neutral_sites():
+    games = pd.DataFrame({
+        "season": [2026, 2026],
+        "home_team": ["A", "A"],
+        "visitor_team": ["B", "B"],
+        "home_score": [2, 2],
+        "visitor_score": [1, 1],
+        "neutral_site": [np.nan, np.nan],
+    })
+    home_diffs = replay_rating_differences(games, k=30, home_field=100)
+    neutral_diffs = replay_rating_differences(games.assign(neutral_site="Curry College, Milton"), k=30, home_field=100)
+    # The expected home win gains less than a win at a neutral site
+    assert neutral_diffs[1] > home_diffs[1] > 0

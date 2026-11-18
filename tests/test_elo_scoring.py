@@ -6,7 +6,14 @@ import pytest
 
 from calibrate_elo import replay_rating_differences
 from elo import Elo
-from high_school_elo import SCORE_ORDER, SPORT_CONFIG, format_spread, home_margins, process_game_elo
+from high_school_elo import (
+    SCORE_ORDER,
+    SPORT_CONFIG,
+    format_spread,
+    home_margins,
+    process_game_elo,
+    process_upcoming_games,
+)
 
 
 def games_frame(rows):
@@ -96,3 +103,49 @@ def test_format_spread():
     assert format_spread(2.04) == "+2.0"
     assert format_spread(-1.6) == "-1.6"
     assert format_spread(np.nan) == ""
+
+
+def test_neutral_site_removes_home_edge():
+    elo = Elo(teams=["A", "B"], home_field=50, spread_factor=25, spread_home_field=40)
+    assert elo.home_win_prob("A", "B") > 0.5
+    assert elo.home_win_prob("A", "B", neutral=True) == pytest.approx(0.5)
+    assert elo.point_spread("A", "B", neutral=True) == pytest.approx(0.0)
+    home_a, home_b = elo.update_ratings_margin("A", "B", 2, neutral=True)
+    assert home_a - 1500 == pytest.approx(1500 - home_b)
+    assert home_a - 1500 == pytest.approx(30 * math.log(3) * 0.5)
+
+
+def neutral_games(neutral_site):
+    return pd.DataFrame({
+        "date": ["2026-11-21"],
+        "season": [2026],
+        "home_team": ["A"],
+        "visitor_team": ["B"],
+        "home_score": [2.0],
+        "visitor_score": [1.0],
+        "neutral_site": [neutral_site],
+    })
+
+
+def test_process_game_elo_uses_neutral_site():
+    elo = Elo(teams=["A", "B"], home_field=50)
+    result = process_game_elo(elo, neutral_games("Curry College, Milton"), "field-hockey")
+    assert result["home_win_prob"].iloc[0] == pytest.approx(0.5)
+    home_elo = Elo(teams=["A", "B"], home_field=50)
+    home_result = process_game_elo(home_elo, neutral_games(np.nan), "field-hockey")
+    assert home_result["home_win_prob"].iloc[0] > 0.5
+    # A home win was expected, so the winner gains less than at a neutral site
+    assert home_elo.team_rating("A") < elo.team_rating("A")
+
+
+def test_process_game_elo_without_neutral_site_column():
+    games = neutral_games(np.nan).drop(columns="neutral_site")
+    result = process_game_elo(Elo(teams=["A", "B"], home_field=50), games, "field-hockey")
+    assert result["home_win_prob"].iloc[0] > 0.5
+
+
+def test_upcoming_neutral_site_prediction():
+    games = neutral_games("UMass Dartmouth, Dartmouth").assign(status="UPCOMING", home_score=np.nan, visitor_score=np.nan)
+    result = process_upcoming_games(Elo(teams=["A", "B"], home_field=50, spread_factor=25), games)
+    assert result["home_win_prob"].iloc[0] == pytest.approx(0.5)
+    assert result["pred_point_spread"].iloc[0] == pytest.approx(0.0)

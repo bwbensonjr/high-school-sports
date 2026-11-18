@@ -122,6 +122,15 @@ function tourneyTag(game) {
   return el("span", { class: "tag", title: full }, el("span", { "aria-hidden": "true" }, text), srOnly(full));
 }
 
+// Venue line: a "Neutral site" tag when neither team is at home, then the venue itself
+function venueTags(game) {
+  if (!game.venue) return [];
+  return [
+    game.neutral ? el("span", { class: "tag" }, "Neutral site") : null,
+    el("span", { class: "venue" }, srOnly("Venue: "), game.venue),
+  ];
+}
+
 function record(team) {
   return team.t ? `${team.w}-${team.l}-${team.t}` : `${team.w}-${team.l}`;
 }
@@ -146,10 +155,12 @@ function recordsFor(data) {
   return recordCache.get(data);
 }
 
-function teamName(name, isHome, records) {
+// The home team is marked "@"; at a neutral site neither team hosts, so it is marked "vs"
+function teamName(name, isHome, records, neutral = false) {
   const teamRecord = records.get(name);
+  const marker = neutral ? ["vs", "versus "] : ["@", "at "];
   return el("span", { class: "team-name" },
-    isHome ? el("span", { class: "at" }, el("span", { "aria-hidden": "true" }, "@"), srOnly("at ")) : null,
+    isHome ? el("span", { class: "at" }, el("span", { "aria-hidden": "true" }, marker[0]), srOnly(marker[1])) : null,
     name,
     teamRecord ? el("span", { class: "team-record" }, ` (${teamRecord})`) : null);
 }
@@ -215,7 +226,7 @@ function resultGame(game, records) {
     const lost = game.ho === (isHome ? 0 : 1);
     const favored = verdict && verdict.homeFavored === isHome;
     return el("div", { class: "team-line" + (won ? " won" : lost ? " lost" : "") },
-      teamName(name, isHome, records),
+      teamName(name, isHome, records, game.neutral),
       el("span", { class: "team-figures" },
         favored
           ? el("span", { class: "spread" }, el("span", { "aria-hidden": "true" }, `\u2212${verdict.margin}`), srOnly(`, favored by ${verdict.margin},`))
@@ -227,7 +238,7 @@ function resultGame(game, records) {
     el("div", {},
       line(game.visitor, game.vs, false),
       line(game.home, game.hs, true)),
-    tagRow(forfeit ? el("span", { class: "tag" }, "Forfeit") : tourneyTag(game), verdictTag(verdict)));
+    tagRow(forfeit ? el("span", { class: "tag" }, "Forfeit") : tourneyTag(game), ...venueTags(game), verdictTag(verdict)));
 }
 
 function upcomingGame(game, records) {
@@ -240,7 +251,7 @@ function upcomingGame(game, records) {
   const line = (name, isHome) => {
     const favored = prob !== null && isHome === homeFavored;
     return el("div", { class: "team-line" },
-      teamName(name, isHome, records),
+      teamName(name, isHome, records, game.neutral),
       favored
         ? el("span", { class: "team-figures" },
           margin ? el("span", { class: "spread" }, el("span", { "aria-hidden": "true" }, `−${margin}`), srOnly(`, favored by ${margin}`)) : srOnly(", favored"),
@@ -250,7 +261,7 @@ function upcomingGame(game, records) {
   return el("li", { class: "game has-time" },
     el("span", { class: "game-time" }, game.time || "TBD"),
     el("div", {}, line(game.visitor, false), line(game.home, true)),
-    tagRow(tourneyTag(game)));
+    tagRow(tourneyTag(game), ...venueTags(game)));
 }
 
 function headerCell(visible, spoken, cls) {

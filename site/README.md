@@ -25,8 +25,10 @@ python -m http.server -d site      # open http://localhost:8000
 Game fields: `home`/`visitor` names, `hs`/`vs` scores, `ho` home outcome
 (1 home won, 0 visitor won, 2 tie, from the source data so low-score
 sports like cross country are correct), `homeProb`, `spread` (home
-perspective), `tourney`, `level`, `time`, and `status` for forfeits.
-Missing values are omitted.
+perspective), `tourney`, `level`, `time`, `venue` (when the source names
+one), `neutral` (true when the venue is a neutral site; the home team is then
+marked "vs" instead of "@"), and `status` for forfeits. Missing values are
+omitted.
 
 ## Routing
 

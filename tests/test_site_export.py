@@ -14,7 +14,7 @@ from site_export import (
 GAME_COLUMNS = [
     "date", "game_id", "status", "home_team", "home_score", "home_outcome",
     "visitor_team", "visitor_score", "visitor_outcome", "time",
-    "tourney_name", "tourney_level", "season", "home_win_prob", "pred_point_spread",
+    "tourney_name", "tourney_level", "venue", "neutral_site", "season", "home_win_prob", "pred_point_spread",
 ]
 FINAL_COLUMNS = ["team", "elo", "team_id", "overall_rank", "division", "division_status", "division_rank"]
 TODAY = date(2026, 10, 31)
@@ -182,3 +182,18 @@ def test_export_writes_index_and_sport_files(tmp_path):
     data = json.loads((out / "sports" / "boys-skiing-(alpine).json").read_text())
     assert data["name"] == "Boys Skiing (Alpine)"
     assert len(data["recent"]) == 1 and len(data["upcoming"]) == 1
+
+
+def test_games_include_venue_and_neutral_site():
+    rows = [
+        game("2026-10-30", 1, "A", "B", (2, 1), venue="A Arena, Springfield", neutral_site=None),
+        game("2026-10-30", 2, "B", "A", (1, 0), venue="Foley Stadium, Worcester", neutral_site="Foley Stadium, Worcester"),
+        game("2026-11-01", 3, "A", "B", status="UPCOMING", venue="Curry College, Milton", neutral_site="Curry College, Milton"),
+        game("2026-11-02", 4, "B", "A", status="UPCOMING"),
+    ]
+    data = sport(rows, [["A", 1600, 1, 1, None, "unknown", None], ["B", 1400, 2, 2, None, "unknown", None]])
+    recent = {g["home"]: g for g in data["recent"]}
+    assert recent["A"]["venue"] == "A Arena, Springfield" and "neutral" not in recent["A"]
+    assert recent["B"]["venue"] == "Foley Stadium, Worcester" and recent["B"]["neutral"] is True
+    assert data["upcoming"][0]["venue"] == "Curry College, Milton" and data["upcoming"][0]["neutral"] is True
+    assert "venue" not in data["upcoming"][1] and "neutral" not in data["upcoming"][1]

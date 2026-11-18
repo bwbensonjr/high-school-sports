@@ -410,6 +410,12 @@ main:focus {
   color: var(--text);
 }
 
+/* Venue reads as supporting detail beside the tags */
+.venue {
+  color: var(--text-muted);
+  font-size: var(--text-xs);
+}
+
 /* Prediction verdicts are secondary to tournament tags; upsets stand out */
 .tag-verdict {
   background: none;

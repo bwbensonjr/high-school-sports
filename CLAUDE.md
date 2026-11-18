@@ -38,6 +38,7 @@ This is a Python project that tracks Massachusetts high school sports scores and
   - Handles multi-season data with between-season regression; seasons are grouped by school year (August 1), so a winter season split across two data files is one season, and games appearing in both files are deduplicated by game_id
   - Outputs detailed game results with Elo ratings and team rankings
   - `SCORE_ORDER` sets which score wins per sport: `higher` (default, home minus visitor), `lower` (cross country), or `outcome` (golf, which mixes stroke play and match play, so the recorded `home_outcome` decides). Rating updates and `actual_point_spread` use this home margin. Golf also sets `margin_of_victory=False` in `SPORT_CONFIG`: wins and losses only, and `pred_point_spread` is NaN
+  - Games with a `neutral_site` get no home advantage: neither `home_field` (win probability and rating updates) nor `spread_home_field` (predicted margin) is applied. `calibrate_elo.py` excludes the home edge for these games too
 
 ## Common Commands
 
@@ -87,5 +88,7 @@ The API returns nested JSON with date/sport/game structure. Key fields:
 - Teams are identified by ID and name
 - Status field indicates if game is "FINAL" or ongoing
 - `tourney_name` (e.g., "MIAA Division 3", "NEPSAC Class A") and `tourney_level` (e.g., "First round", "Final") identify tournament games; both are empty for regular-season games and for rows written before these columns were added
+- `venue` is the venue named in the game's `label` (e.g. "Final at UMass Dartmouth, Dartmouth"), empty when there is none; most regular-season games have none
+- `neutral_site` is the venue for games played away from the home team's own field (e.g. "UMass Dartmouth, Dartmouth" for a tournament final), empty otherwise. It comes from the game's `label` ("Final at UMass Dartmouth, Dartmouth"); a labeled venue that names the home team's school or town (an off-campus home rink, a holiday tournament host) is treated as a home game. The Globe provides venues from the 2025-26 school year on; older rows have no `neutral_site` and count as home games
 - Re-fetched rows replace existing rows by game_id, except that a FINAL row is only replaced by another FINAL (score correction) or a FORFEIT ruling; stale UPCOMING, POSTPONED, SUSPENDED, or LIVE entries from older windows (e.g. a rescheduled game on its original date) are ignored
 - Score multipliers are calculated using logarithmic scaling based on point differential

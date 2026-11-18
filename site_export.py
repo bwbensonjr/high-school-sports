@@ -75,7 +75,13 @@ def compact(record):
     return {key: value for key, value in record.items() if value is not None}
 
 
-OPTIONAL_COLUMNS = ["time", "tourney_name", "tourney_level"]
+OPTIONAL_COLUMNS = ["time", "tourney_name", "tourney_level", "venue", "neutral_site"]
+
+
+def venue_fields(row):
+    """Venue of a game and whether it is a neutral site; the neutral site is the venue when set."""
+    neutral = clean(row.neutral_site)
+    return {"venue": neutral or clean(row.venue), "neutral": True if neutral else None}
 
 
 def prepare_games(games):
@@ -107,6 +113,7 @@ def recent_games(games, season):
             "spread": rounded(row.pred_point_spread, 1),
             "tourney": clean(row.tourney_name),
             "level": clean(row.tourney_level),
+            **venue_fields(row),
         })
         for row in window.itertuples()
     ]
@@ -129,6 +136,7 @@ def upcoming_games(games, season, today):
             "spread": rounded(row.pred_point_spread, 1),
             "tourney": clean(row.tourney_name),
             "level": clean(row.tourney_level),
+            **venue_fields(row),
         })
         for row in upcoming.itertuples()
     ]

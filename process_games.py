@@ -1,4 +1,5 @@
 import json
+import re
 import pandas as pd
 import os
 import requests
@@ -9,6 +10,67 @@ from pathlib import Path
 def is_completed_status(status):
     """FINAL results and forfeit rulings may replace a FINAL row; pre-game statuses may not."""
     return status == "FINAL" or str(status).startswith("FORFEIT")
+
+# Pieces of hyphenated team names too generic to identify a school's venue
+# (e.g. "Voc" and "Tech" in "South Shore Voc-Tech")
+GENERIC_NAME_PARTS = {"voc", "tech", "tri", "county", "regional", "valley", "academy", "catholic", "charter"}
+
+
+def venue_from_label(label):
+    """
+    Venue named in the Globe's game label, or "" when there is none.
+
+    Tournament games carry a label naming the round, e.g. "Quarterfinals", or
+    "Final at UMass Dartmouth, Dartmouth" when the game is played away from the
+    home team's campus. Some other games (holiday tournaments, "Non-Playoff at
+    Taunton High School, Taunton") use the same form. Returns the text after the
+    first " at ".
+    """
+    if not label:
+        return ""
+    _, sep, venue = str(label).partition(" at ")
+    return venue.strip() if sep else ""
+
+
+def team_name_parts(team):
+    """
+    Names that identify a team's own venue: the full name, each school in a
+    cooperative team ("Methuen/Tewksbury"), each town in a regional school
+    ("Concord-Carlisle"), and a town in parentheses ("St. John's (Shrewsbury)").
+    """
+    team = str(team)
+    parts = {team}
+    town = re.search(r"\(([^.)]+)\)", team)
+    if town:
+        parts.add(town.group(1))
+    for school in re.sub(r"\s*\([^)]*\)", "", team).split("/"):
+        parts.add(school.strip())
+        parts.update(piece.strip() for piece in school.split("-"))
+    return {part for part in parts if len(part) >= 3 and part.lower() not in GENERIC_NAME_PARTS}
+
+
+def is_home_venue(venue, home_team):
+    """Whether the venue names the home team's school or town, e.g. "Falmouth Ice Arena, Falmouth"."""
+    venue = venue.lower()
+    return any(
+        re.search(r"(?<![\w’'])" + re.escape(part.lower()) + r"(?![\w’'])", venue)
+        for part in team_name_parts(home_team)
+    )
+
+
+def neutral_site_from_label(label, home_team):
+    """
+    Venue of a game played at a neutral site, or "" for a game at the home team's venue.
+
+    A labeled venue that names the home team's school or town is its own field or
+    rink (hockey teams often play home games at off-campus rinks, and holiday
+    tournaments are hosted by one of the teams), so it is not neutral.
+    """
+    venue = venue_from_label(label)
+    if not venue or is_home_venue(venue, home_team):
+        return ""
+    return venue
+
 
 def process_games_json(data):
     """Convert JSON data to per-sport CSV files."""
@@ -54,7 +116,9 @@ def process_games_json(data):
                     'overtime': game.get('overtime'),
                     'is_shootout_win': game.get('isShootoutWin', 0),
                     "tourney_name": game.get("tourneyName") or "",
-                    "tourney_level": game.get("tourneyLevel") or ""
+                    "tourney_level": game.get("tourneyLevel") or "",
+                    "venue": venue_from_label(game.get("label")),
+                    "neutral_site": neutral_site_from_label(game.get("label"), home_team["name"]),
                 }
 
                 sports_games[sport_name].append(game_record)
