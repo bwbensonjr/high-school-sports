@@ -1,6 +1,6 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-11-18 12:20
+Generated: 2026-11-19 15:59
 
 ## Upcoming Games
 
@@ -138,15 +138,15 @@ Generated: 2026-11-18 12:20
 | 120 | Holliston | 1510.8 |
 | 121 | Bristol-Plymouth | 1509.3 |
 | 122 | Winthrop | 1505.0 |
-| 123 | Wachusett | 1502.8 |
-| 124 | Longmeadow | 1502.8 |
-| 125 | Minnechaug | 1502.8 |
-| 126 | Atlantis Charter | 1502.8 |
-| 127 | Cape Cod Tech | 1502.8 |
+| 123 | Cape Cod Tech | 1502.8 |
+| 124 | Minnechaug | 1502.8 |
+| 125 | Atlantis Charter | 1502.8 |
+| 126 | Longmeadow | 1502.8 |
+| 127 | Notre Dame (Tyngsborough) | 1502.8 |
 | 128 | Westfield | 1502.8 |
-| 129 | Notre Dame (Tyngsborough) | 1502.8 |
+| 129 | Notre Dame (Worcester) | 1502.8 |
 | 130 | Amherst-Pelham | 1502.8 |
-| 131 | Notre Dame (Worcester) | 1502.8 |
+| 131 | Wachusett | 1502.8 |
 | 132 | Whittier | 1501.9 |
 | 133 | West Bridgewater | 1492.7 |
 | 134 | St. Mark’s | 1489.5 |
@@ -164,8 +164,8 @@ Generated: 2026-11-18 12:20
 | 146 | South Shore Voc-Tech | 1461.5 |
 | 147 | Blackstone-Millville | 1457.7 |
 | 148 | Algonquin | 1454.9 |
-| 149 | Chicopee Comprehensive | 1454.7 |
-| 150 | Rivers | 1454.7 |
+| 149 | Rivers | 1454.7 |
+| 150 | Chicopee Comprehensive | 1454.7 |
 | 151 | Archbishop Williams | 1452.8 |
 | 152 | Clinton | 1452.7 |
 | 153 | Cohasset | 1450.6 |
@@ -335,10 +335,10 @@ Generated: 2026-11-18 12:20
 | 41 | New Bedford | 1522.8 | 116 |
 | 42 | Newton South | 1518.7 | 118 |
 | 43 | Beverly | 1512.3 | 119 |
-| 44 | Wachusett | 1502.8 | 123 |
+| 44 | Wachusett | 1502.8 | 131 |
 | 45 | Brookline | 1474.2 | 143 |
 | 46 | Algonquin | 1454.9 | 148 |
-| 47 | Chicopee Comprehensive | 1454.7 | 149 |
+| 47 | Chicopee Comprehensive | 1454.7 | 150 |
 | 48 | Medford | 1445.7 | 157 |
 | 49 | Natick | 1424.3 | 166 |
 | 50 | Bridgewater-Raynham | 1411.6 | 173 |
@@ -411,11 +411,11 @@ Generated: 2026-11-18 12:20
 | 36 | Manchester Essex/Rockport | 1535.8 | 109 |
 | 37 | Holliston | 1510.8 | 120 |
 | 38 | Bristol-Plymouth | 1509.3 | 121 |
-| 39 | Longmeadow | 1502.8 | 124 |
-| 40 | Minnechaug | 1502.8 | 125 |
+| 39 | Minnechaug | 1502.8 | 124 |
+| 40 | Longmeadow | 1502.8 | 126 |
 | 41 | Westfield | 1502.8 | 128 |
-| 42 | Amherst-Pelham | 1502.8 | 130 |
-| 43 | Notre Dame (Worcester) | 1502.8 | 131 |
+| 42 | Notre Dame (Worcester) | 1502.8 | 129 |
+| 43 | Amherst-Pelham | 1502.8 | 130 |
 | 44 | Whittier | 1501.9 | 132 |
 | 45 | Danvers | 1481.6 | 138 |
 | 46 | Wilmington | 1481.2 | 139 |
@@ -498,9 +498,9 @@ Generated: 2026-11-18 12:20
 | 24 | Stoneham | 1530.3 | 112 |
 | 25 | Monomoy | 1526.9 | 114 |
 | 26 | Winthrop | 1505.0 | 122 |
-| 27 | Atlantis Charter | 1502.8 | 126 |
-| 28 | Cape Cod Tech | 1502.8 | 127 |
-| 29 | Notre Dame (Tyngsborough) | 1502.8 | 129 |
+| 27 | Cape Cod Tech | 1502.8 | 123 |
+| 28 | Atlantis Charter | 1502.8 | 125 |
+| 29 | Notre Dame (Tyngsborough) | 1502.8 | 127 |
 | 30 | West Bridgewater | 1492.7 | 133 |
 | 31 | Littleton | 1486.8 | 135 |
 | 32 | Holbrook/Avon | 1482.2 | 137 |
@@ -570,7 +570,7 @@ Non-MIAA opponents and teams without a known division.
 | St. Mark’s | 1489.5 | 134 | non-member |
 | Tabor | 1484.1 | 136 | non-member |
 | Saugus | 1476.7 | 141 | unknown |
-| Rivers | 1454.7 | 150 | non-member |
+| Rivers | 1454.7 | 149 | non-member |
 | Taft | 1446.7 | 156 | non-member |
 | Dana Hall | 1370.0 | 200 | non-member |
 | Dexter Southfield | 1352.9 | 209 | non-member |
