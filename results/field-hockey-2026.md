@@ -1,6 +1,6 @@
 # Field Hockey - 2026 Season
 
-Generated: 2026-11-19 15:59
+Generated: 2026-11-20 15:42
 
 ## Upcoming Games
 
@@ -10,53 +10,51 @@ Generated: 2026-11-19 15:59
 | 2026-11-21 | 12:30 P.M. | Somerset Berkley | Nashoba | 65.4% | +0.8 |
 | 2026-11-21 | 10:00 A.M. | Uxbridge | Watertown | 79.8% | +1.7 |
 | 2026-11-21 | 5:30 P.M. | Cohasset | Dennis-Yarmouth | 55.5% | +0.3 |
-| 2026-11-21 | TBD | Berkshire | Governor’s Academy | 21.2% | -1.6 |
-| 2026-11-21 | TBD | Phillips Andover | Milton Academy | 97.6% | +4.7 |
-| 2026-11-21 | TBD | Sacred Heart (Conn.) | Deerfield | 61.5% | +0.6 |
-| 2026-11-21 | TBD | Middlesex | Brooks | 77.2% | +1.6 |
-| 2026-11-21 | TBD | King (Conn.) | Frederick Gunn (Conn.) | 59.1% | +0.5 |
-| 2026-11-21 | TBD | Portsmouth Abbey | New Hampton | 44.9% | -0.2 |
+| 2026-11-21 | 2:00 P.M. | Berkshire | Governor’s Academy | 21.2% | -1.6 |
+| 2026-11-21 | 1:00 P.M. | Phillips Andover | Milton Academy | 96.8% | +4.3 |
+| 2026-11-21 | 1:00 P.M. | Sacred Heart (Conn.) | Deerfield | 61.5% | +0.6 |
+| 2026-11-21 | 1:00 P.M. | Middlesex | Brooks | 77.2% | +1.6 |
+| 2026-11-21 | 1:30 P.M. | King (Conn.) | Frederick Gunn (Conn.) | 59.1% | +0.5 |
+| 2026-11-21 | 2:00 P.M. | Portsmouth Abbey | New Hampton | 44.9% | -0.2 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-11-18 | Portsmouth Abbey | 11 | Rocky Hill Country Day | 0 | +0.6 | +11.0 |
-| 2026-11-18 | Sacred Heart (Conn.) | 2 | Tabor | 0 | +0.5 | +2.0 |
-| 2026-11-18 | Canton | 1 | Somerset Berkley | 3 | +0.1 | -2.0 |
-| 2026-11-18 | Dennis-Yarmouth | 3 | Frontier | 2 | +0.7 | +1.0 |
-| 2026-11-18 | Cohasset | 3 | Hopedale | 1 | +0.5 | +2.0 |
-| 2026-11-18 | Phillips Andover | 8 | Hotchkiss | 0 | +2.7 | +8.0 |
-| 2026-11-18 | Milton Academy | 1 | Taft | 0 | -1.2 | +1.0 |
-| 2026-11-18 | Deerfield | 3 | Greenwich Academy (Conn.) | 0 | -2.0 | +3.0 |
-| 2026-11-18 | Berkshire | 3 | Pingree | 0 | -3.1 | +3.0 |
 | 2026-11-18 | Franklin | 1 | Belmont | 0 | -0.1 | +1.0 |
-| 2026-11-18 | Governor’s Academy | 4 | Rivers | 0 | -0.1 | +4.0 |
-| 2026-11-18 | Williston Northampton | 1 | Brooks | 2 | +2.0 | -1.0 |
-| 2026-11-18 | Middlesex | 6 | Greens Farms | 2 | +1.6 | +4.0 |
-| 2026-11-18 | King (Conn.) | 8 | Kents Hill | 0 | +2.1 | +8.0 |
-| 2026-11-18 | Montrose | 1 | Frederick Gunn (Conn.) | 5 | +0.7 | -4.0 |
-| 2026-11-18 | New Hampton | 2 | Holderness | 1 | +2.2 | +1.0 |
 | 2026-11-18 | Lincoln-Sudbury | 3 | Acton-Boxborough | 1 | +0.2 | +2.0 |
-| 2026-11-17 | Sandwich | 0 | Watertown | 1 | +1.4 | -1.0 |
-| 2026-11-17 | Nashoba | 2 | Westwood | 0 | +2.0 | +2.0 |
+| 2026-11-18 | New Hampton | 2 | Holderness | 1 | +2.2 | +1.0 |
+| 2026-11-18 | Montrose | 1 | Frederick Gunn (Conn.) | 5 | +0.7 | -4.0 |
+| 2026-11-18 | King (Conn.) | 8 | Kents Hill | 0 | +2.1 | +8.0 |
+| 2026-11-18 | Middlesex | 6 | Greens Farms | 2 | +1.6 | +4.0 |
+| 2026-11-18 | Williston Northampton | 1 | Brooks | 2 | +2.0 | -1.0 |
+| 2026-11-18 | Governor’s Academy | 4 | Rivers | 0 | -0.1 | +4.0 |
+| 2026-11-18 | Berkshire | 3 | Pingree | 0 | -3.1 | +3.0 |
+| 2026-11-18 | Sacred Heart (Conn.) | 2 | Tabor | 0 | +0.5 | +2.0 |
+| 2026-11-18 | Deerfield | 3 | Greenwich Academy (Conn.) | 0 | -2.0 | +3.0 |
+| 2026-11-18 | Milton Academy | 1 | Taft | 0 | -1.2 | +1.0 |
+| 2026-11-18 | Phillips Andover | 8 | Hotchkiss | 0 | +2.7 | +8.0 |
+| 2026-11-18 | Cohasset | 3 | Hopedale | 1 | +0.5 | +2.0 |
+| 2026-11-18 | Dennis-Yarmouth | 3 | Frontier | 2 | +0.7 | +1.0 |
+| 2026-11-18 | Canton | 1 | Somerset Berkley | 3 | +0.1 | -2.0 |
+| 2026-11-18 | Portsmouth Abbey | 11 | Rocky Hill Country Day | 0 | +0.6 | +11.0 |
 | 2026-11-17 | Uxbridge | 3 | Dover-Sherborn | 1 | +2.8 | +2.0 |
+| 2026-11-17 | Nashoba | 2 | Westwood | 0 | +2.0 | +2.0 |
+| 2026-11-17 | Sandwich | 0 | Watertown | 1 | +1.4 | -1.0 |
 | 2026-11-15 | Frontier | 2 | Quabbin | 0 | +0.7 | +2.0 |
 | 2026-11-15 | Monomoy | 1 | Hopedale | 2 | -0.6 | -1.0 |
-| 2026-11-14 | Nashoba | 5 | Milton | 0 | +1.9 | +5.0 |
-| 2026-11-14 | Cohasset | 8 | Manchester Essex | 0 | +1.8 | +8.0 |
-| 2026-11-14 | Dover-Sherborn | 2 | Gloucester | 0 | +1.1 | +2.0 |
-| 2026-11-14 | Uxbridge | 7 | Medway | 1 | +5.6 | +6.0 |
-| 2026-11-14 | Canton | 3 | Reading | 1 | +3.1 | +2.0 |
-| 2026-11-14 | King Philip | 2 | Westwood | 3 | +2.0 | -1.0 |
-| 2026-11-14 | Somerset Berkley | 5 | Hingham | 1 | +1.3 | +4.0 |
-| 2026-11-14 | Lincoln-Sudbury | 3 | Andover | 0 | +1.7 | +3.0 |
-| 2026-11-14 | Belmont | 4 | Winchester | 0 | +2.5 | +4.0 |
-| 2026-11-14 | Franklin | 2 | Attleboro | 0 | +3.0 | +2.0 |
 | 2026-11-14 | Acton-Boxborough | 3 | Walpole | 0 | +0.7 | +3.0 |
+| 2026-11-14 | King Philip | 2 | Westwood | 3 | +2.0 | -1.0 |
+| 2026-11-14 | Franklin | 2 | Attleboro | 0 | +3.0 | +2.0 |
+| 2026-11-14 | Belmont | 4 | Winchester | 0 | +2.5 | +4.0 |
+| 2026-11-14 | Lincoln-Sudbury | 3 | Andover | 0 | +1.7 | +3.0 |
+| 2026-11-14 | Somerset Berkley | 5 | Hingham | 1 | +1.3 | +4.0 |
+| 2026-11-14 | Uxbridge | 7 | Medway | 1 | +5.6 | +6.0 |
+| 2026-11-14 | Nashoba | 5 | Milton | 0 | +1.9 | +5.0 |
+| 2026-11-14 | Canton | 3 | Reading | 1 | +3.1 | +2.0 |
+| 2026-11-14 | Dover-Sherborn | 2 | Gloucester | 0 | +1.1 | +2.0 |
+| 2026-11-14 | Cohasset | 8 | Manchester Essex | 0 | +1.8 | +8.0 |
 | 2026-11-13 | Watertown | 4 | Foxborough | 0 | +3.0 | +4.0 |
-| 2026-11-12 | Dennis-Yarmouth | 3 | West Bridgewater | 0 | +2.2 | +3.0 |
-| 2026-11-12 | Sandwich | 5 | East Longmeadow | 1 | +3.2 | +4.0 |
 
 ## Current Elo Ratings
 

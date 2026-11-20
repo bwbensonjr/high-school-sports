@@ -1,6 +1,6 @@
 # Girls Soccer - 2026 Season
 
-Generated: 2026-11-19 15:59
+Generated: 2026-11-20 15:42
 
 ## Upcoming Games
 
@@ -11,14 +11,14 @@ Generated: 2026-11-19 15:59
 | 2026-11-21 | 12:15 P.M. | Duxbury | Hingham | 71.9% | +1.1 |
 | 2026-11-21 | 12:15 P.M. | Cohasset | Douglas | 54.6% | +0.2 |
 | 2026-11-21 | 2:30 P.M. | Granby | Hull | 57.8% | +0.4 |
-| 2026-11-21 | TBD | Brewster Academy | Holderness | 62.4% | +0.7 |
-| 2026-11-21 | TBD | Austin Prep | Loomis Chaffee (Conn.) | 65.4% | +0.9 |
-| 2026-11-21 | TBD | Worcester Academy | Taft | 89.8% | +2.8 |
-| 2026-11-21 | TBD | Dexter Southfield | Pingree | 37.9% | -0.5 |
-| 2026-11-21 | TBD | Lawrence Academy | Suffield Academy | 88.8% | +2.6 |
-| 2026-11-21 | TBD | Greens Farms | New Hampton | 69.3% | +1.1 |
-| 2026-11-21 | TBD | St. Andrew’s | Landmark | 66.4% | +1.0 |
-| 2026-11-21 | TBD | Tilton | Christian Heritage | 59.0% | +0.6 |
+| 2026-11-21 | 12:00 P.M. | Brewster Academy | Holderness | 62.4% | +0.7 |
+| 2026-11-21 | 2:00 P.M. | Austin Prep | Loomis Chaffee (Conn.) | 65.4% | +0.9 |
+| 2026-11-21 | 1:00 P.M. | Worcester Academy | Taft | 89.8% | +2.8 |
+| 2026-11-21 | 2:00 P.M. | Dexter Southfield | Pingree | 37.9% | -0.5 |
+| 2026-11-21 | 1:00 P.M. | Lawrence Academy | Suffield Academy | 88.8% | +2.6 |
+| 2026-11-21 | 1:00 P.M. | Greens Farms | New Hampton | 69.3% | +1.1 |
+| 2026-11-21 | 2:00 P.M. | St. Andrew’s | Landmark | 59.7% | +0.5 |
+| 2026-11-21 | 2:00 P.M. | Tilton | Christian Heritage | 59.0% | +0.6 |
 
 ## Recent Games
 
@@ -26,6 +26,7 @@ Generated: 2026-11-19 15:59
 |------|-----------|-------|-----------|-------|------------------|---------------|
 | 2026-11-18 | Tilton | 2 | Williams (Conn.) | 0 | +0.1 | +2.0 |
 | 2026-11-18 | Tabor | 2 | Suffield Academy | 3 | +1.1 | -1.0 |
+| 2026-11-18 | Bishop Feehan | 7 | Braintree | 0 | +1.6 | +7.0 |
 | 2026-11-18 | Concord-Carlisle | 1 | Needham | 4 | +0.5 | -3.0 |
 | 2026-11-18 | Phillips Andover | 0 | Loomis Chaffee (Conn.) | 3 | +0.5 | -3.0 |
 | 2026-11-18 | Austin Prep | 1 | Milton Academy | 0 | +4.3 | +1.0 |
@@ -33,23 +34,22 @@ Generated: 2026-11-19 15:59
 | 2026-11-18 | Westminster | 2 | Taft | 3 | +1.4 | -1.0 |
 | 2026-11-18 | Dexter Southfield | 6 | Dana Hall | 0 | +2.3 | +6.0 |
 | 2026-11-18 | Pingree | 4 | Greenwich Academy (Conn.) | 1 | +3.0 | +3.0 |
-| 2026-11-18 | Bishop Feehan | 7 | Braintree | 0 | +1.6 | +7.0 |
 | 2026-11-18 | Lawrence Academy | 2 | St. George’s | 0 | +1.5 | +2.0 |
+| 2026-11-18 | Greens Farms | 7 | St. Luke’s | 1 | +1.9 | +6.0 |
 | 2026-11-18 | New Hampton | 1 | Portsmouth Abbey | 0 | +0.7 | +1.0 |
 | 2026-11-18 | Berwick | 0 | Holderness | 2 | +1.0 | -2.0 |
 | 2026-11-18 | Brewster Academy | 1 | Proctor | 0 | +0.8 | +1.0 |
 | 2026-11-18 | St. Andrew’s | 7 | Brimmer & May | 0 | +0.4 | +7.0 |
 | 2026-11-18 | International School | 1 | Landmark | 3 | +0.9 | -2.0 |
 | 2026-11-18 | Christian Heritage | 4 | Covenant Christian | 3 | +0.6 | +1.0 |
-| 2026-11-18 | Greens Farms | 7 | St. Luke’s | 1 | +1.9 | +6.0 |
-| 2026-11-17 | Norwell | 5 | Belchertown | 1 | +2.0 | +4.0 |
 | 2026-11-17 | Duxbury | 5 | Masconomet | 0 | +1.0 | +5.0 |
-| 2026-11-17 | Milton | 2 | Hingham | 5 | -1.5 | -3.0 |
-| 2026-11-17 | Medfield | 8 | Foxborough | 1 | +2.4 | +7.0 |
 | 2026-11-17 | Cohasset | 5 | Sandwich | 0 | +1.6 | +5.0 |
-| 2026-11-16 | Granby | 4 | David Prouty | 1 | +1.8 | +3.0 |
+| 2026-11-17 | Medfield | 8 | Foxborough | 1 | +2.4 | +7.0 |
+| 2026-11-17 | Norwell | 5 | Belchertown | 1 | +2.0 | +4.0 |
+| 2026-11-17 | Milton | 2 | Hingham | 5 | -1.5 | -3.0 |
 | 2026-11-16 | Hopedale | 1 | Hull | 2 | -0.1 | -1.0 |
 | 2026-11-16 | Sutton | 0 | Douglas | 1 | +0.1 | -1.0 |
+| 2026-11-16 | Granby | 4 | David Prouty | 1 | +1.8 | +3.0 |
 | 2026-11-15 | Sandwich | 2 | Rockland | 0 | +1.0 | +2.0 |
 | 2026-11-15 | Pope Francis | 1 | Foxborough | 3 | +1.7 | -2.0 |
 | 2026-11-15 | Hingham | 1 | Notre Dame (Hingham) | 0 | +1.7 | +1.0 |
@@ -57,47 +57,19 @@ Generated: 2026-11-19 15:59
 | 2026-11-15 | Concord-Carlisle | 3 | Central Catholic | 0 | +1.3 | +3.0 |
 | 2026-11-15 | Bishop Feehan | 5 | Newton North | 0 | +4.2 | +5.0 |
 | 2026-11-15 | Needham | 3 | Franklin | 0 | +1.4 | +3.0 |
-| 2026-11-14 | Hopedale | 3 | Lenox | 0 | +1.6 | +3.0 |
-| 2026-11-14 | Granby | 4 | Whitinsville Christian | 0 | +3.8 | +4.0 |
-| 2026-11-14 | Hull | 5 | Rockport | 1 | +2.4 | +4.0 |
-| 2026-11-14 | Holbrook | 2 | David Prouty | 3 | +1.0 | -1.0 |
-| 2026-11-14 | Douglas | 3 | Hampshire | 0 | +2.4 | +3.0 |
-| 2026-11-14 | Sutton | 1 | Littleton | 0 | +2.3 | +1.0 |
-| 2026-11-14 | Medfield | 10 | Cardinal Spellman | 1 | +2.5 | +9.0 |
-| 2026-11-14 | Dover-Sherborn | 0 | Belchertown | 1 | +0.8 | -1.0 |
-| 2026-11-14 | Norwell | 6 | Tewksbury | 0 | +2.4 | +6.0 |
-| 2026-11-14 | Duxbury | 3 | Whitman-Hanson | 0 | +4.5 | +3.0 |
 | 2026-11-14 | King Philip | 2 | Milton | 3 | +2.2 | -1.0 |
-| 2026-11-14 | Wellesley | 1 | Braintree | 2 | +1.8 | -1.0 |
+| 2026-11-14 | Sutton | 1 | Littleton | 0 | +2.3 | +1.0 |
+| 2026-11-14 | Duxbury | 3 | Whitman-Hanson | 0 | +4.5 | +3.0 |
+| 2026-11-14 | Norwell | 6 | Tewksbury | 0 | +2.4 | +6.0 |
+| 2026-11-14 | Dover-Sherborn | 0 | Belchertown | 1 | +0.8 | -1.0 |
+| 2026-11-14 | Medfield | 10 | Cardinal Spellman | 1 | +2.5 | +9.0 |
+| 2026-11-14 | Granby | 4 | Whitinsville Christian | 0 | +3.8 | +4.0 |
+| 2026-11-14 | Douglas | 3 | Hampshire | 0 | +2.4 | +3.0 |
 | 2026-11-14 | Cohasset | 2 | South Hadley | 0 | +3.1 | +2.0 |
-| 2026-11-12 | Braintree | 1 | Lexington | 0 | +1.2 | +1.0 |
-| 2026-11-12 | Milton | 1 | Sharon | 0 | +1.2 | +1.0 |
-| 2026-11-12 | Belchertown | 1 | Dedham | 0 | +1.0 | +1.0 |
-| 2026-11-12 | Hingham | 7 | Holliston | 0 | +2.9 | +7.0 |
-| 2026-11-12 | King Philip | 4 | Westwood | 1 | +2.1 | +3.0 |
-| 2026-11-12 | Masconomet | 6 | Silver Lake | 0 | +3.3 | +6.0 |
-| 2026-11-12 | Needham | 5 | Beverly | 1 | +1.1 | +4.0 |
-| 2026-11-12 | Notre Dame (Hingham) | 1 | Minnechaug | 0 | +0.5 | +1.0 |
-| 2026-11-12 | Whitman-Hanson | 2 | Grafton | 1 | -0.8 | +1.0 |
-| 2026-11-12 | Concord-Carlisle | 5 | Arlington | 0 | +4.1 | +5.0 |
-| 2026-11-12 | Bishop Feehan | 9 | Shrewsbury | 1 | +2.7 | +8.0 |
-| 2026-11-12 | Pope Francis | 4 | Ursuline | 1 | +1.6 | +3.0 |
-| 2026-11-12 | Winchester | 1 | Newton North | 2 | +1.9 | -1.0 |
-| 2026-11-12 | Foxborough | 2 | Lynnfield | 1 | +0.3 | +1.0 |
-| 2026-11-12 | Sandwich | 2 | West Bridgewater | 1 | +1.0 | +1.0 |
-| 2026-11-12 | Norwell | 4 | Wilmington | 0 | +4.3 | +4.0 |
-| 2026-11-12 | Tyngsborough | 0 | Littleton | 1 | +1.0 | -1.0 |
-| 2026-11-12 | Hampshire | 3 | Ipswich | 2 | +2.4 | +1.0 |
-| 2026-11-12 | Rockland | 3 | Advanced Math and Science | 2 | -0.6 | +1.0 |
-| 2026-11-12 | Sutton | 4 | Lunenburg | 1 | +2.1 | +3.0 |
-| 2026-11-12 | Cohasset | 2 | Georgetown | 1 | +3.9 | +1.0 |
-| 2026-11-12 | Whitinsville Christian | 2 | Smith Voc. | 0 | -1.7 | +2.0 |
-| 2026-11-12 | Norfolk Aggie | 2 | Lenox | 4 | +1.1 | -2.0 |
-| 2026-11-12 | Rockport | 6 | Drury | 0 | -0.7 | +6.0 |
-| 2026-11-12 | Monson | 0 | Holbrook | 1 | +0.3 | -1.0 |
-| 2026-11-12 | Hopkins | 1 | David Prouty | 2 | +1.9 | -1.0 |
-| 2026-11-12 | Hull | 3 | Palmer | 0 | +2.3 | +3.0 |
-| 2026-11-12 | Central Catholic | 4 | Brookline | 1 | +1.8 | +3.0 |
+| 2026-11-14 | Holbrook | 2 | David Prouty | 3 | +1.0 | -1.0 |
+| 2026-11-14 | Hopedale | 3 | Lenox | 0 | +1.6 | +3.0 |
+| 2026-11-14 | Hull | 5 | Rockport | 1 | +2.4 | +4.0 |
+| 2026-11-14 | Wellesley | 1 | Braintree | 2 | +1.8 | -1.0 |
 
 ## Current Elo Ratings
 
@@ -305,20 +277,20 @@ Generated: 2026-11-19 15:59
 | 200 | Monty Tech | 1506.8 |
 | 201 | Berwick | 1503.9 |
 | 202 | Nashoba Valley Tech | 1503.7 |
-| 203 | La Salle (R.I.) | 1501.7 |
-| 204 | Kingswood-Oxford | 1501.7 |
+| 203 | Kent | 1501.7 |
+| 204 | Newman School | 1501.7 |
 | 205 | Barrington (R.I.) | 1501.7 |
-| 206 | Poughkeepsie Day (N.Y.) | 1501.7 |
-| 207 | Housatonic Regional (Conn.) | 1501.7 |
-| 208 | Pioneer Valley Chinese Immersion | 1501.7 |
-| 209 | Newman School | 1501.7 |
-| 210 | Bridgton Academy | 1501.7 |
-| 211 | King (Conn.) | 1501.7 |
-| 212 | Miss Hall’s | 1501.7 |
-| 213 | Neighborhood House Charter | 1501.7 |
-| 214 | Boston Prep | 1501.7 |
-| 215 | Kent | 1501.7 |
-| 216 | South Shore Christian | 1501.7 |
+| 206 | Bridgton Academy | 1501.7 |
+| 207 | South Shore Christian | 1501.7 |
+| 208 | Kingswood-Oxford | 1501.7 |
+| 209 | Boston Prep | 1501.7 |
+| 210 | Housatonic Regional (Conn.) | 1501.7 |
+| 211 | La Salle (R.I.) | 1501.7 |
+| 212 | Neighborhood House Charter | 1501.7 |
+| 213 | King (Conn.) | 1501.7 |
+| 214 | Miss Hall’s | 1501.7 |
+| 215 | Poughkeepsie Day (N.Y.) | 1501.7 |
+| 216 | Pioneer Valley Chinese Immersion | 1501.7 |
 | 217 | Millis | 1501.5 |
 | 218 | Tantasqua | 1500.2 |
 | 219 | Agnes Irwin (Pa.) | 1498.6 |
@@ -847,9 +819,9 @@ Generated: 2026-11-19 15:59
 | 14 | Pioneer Valley Regional | 1513.1 | 194 |
 | 15 | Drury | 1507.4 | 199 |
 | 16 | Nashoba Valley Tech | 1503.7 | 202 |
-| 17 | Pioneer Valley Chinese Immersion | 1501.7 | 208 |
-| 18 | Neighborhood House Charter | 1501.7 | 213 |
-| 19 | Boston Prep | 1501.7 | 214 |
+| 17 | Boston Prep | 1501.7 | 209 |
+| 18 | Neighborhood House Charter | 1501.7 | 212 |
+| 19 | Pioneer Valley Chinese Immersion | 1501.7 | 216 |
 | 20 | Rising Tide Charter | 1481.0 | 236 |
 | 21 | Mahar | 1465.8 | 238 |
 | 22 | Gateway | 1458.9 | 243 |
@@ -943,17 +915,17 @@ Non-MIAA opponents and teams without a known division.
 | Beaver Country Day | 1508.6 | 197 | non-member |
 | Holland (Burke) | 1507.6 | 198 | unknown |
 | Berwick | 1503.9 | 201 | non-member |
-| La Salle (R.I.) | 1501.7 | 203 | non-member |
-| Kingswood-Oxford | 1501.7 | 204 | non-member |
+| Kent | 1501.7 | 203 | non-member |
+| Newman School | 1501.7 | 204 | non-member |
 | Barrington (R.I.) | 1501.7 | 205 | non-member |
-| Poughkeepsie Day (N.Y.) | 1501.7 | 206 | non-member |
-| Housatonic Regional (Conn.) | 1501.7 | 207 | non-member |
-| Newman School | 1501.7 | 209 | non-member |
-| Bridgton Academy | 1501.7 | 210 | non-member |
-| King (Conn.) | 1501.7 | 211 | non-member |
-| Miss Hall’s | 1501.7 | 212 | unknown |
-| Kent | 1501.7 | 215 | non-member |
-| South Shore Christian | 1501.7 | 216 | non-member |
+| Bridgton Academy | 1501.7 | 206 | non-member |
+| South Shore Christian | 1501.7 | 207 | non-member |
+| Kingswood-Oxford | 1501.7 | 208 | non-member |
+| Housatonic Regional (Conn.) | 1501.7 | 210 | non-member |
+| La Salle (R.I.) | 1501.7 | 211 | non-member |
+| King (Conn.) | 1501.7 | 213 | non-member |
+| Miss Hall’s | 1501.7 | 214 | unknown |
+| Poughkeepsie Day (N.Y.) | 1501.7 | 215 | non-member |
 | Agnes Irwin (Pa.) | 1498.6 | 219 | unknown |
 | Hope (R.I.) | 1498.2 | 220 | non-member |
 | Bishop Guertin (N.H.) | 1497.7 | 221 | non-member |

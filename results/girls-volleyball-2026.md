@@ -1,6 +1,6 @@
 # Girls Volleyball - 2026 Season
 
-Generated: 2026-11-19 15:59
+Generated: 2026-11-20 15:42
 
 ## Upcoming Games
 
@@ -11,33 +11,30 @@ Generated: 2026-11-19 15:59
 | 2026-11-21 | 9:30 A.M. | Bellingham | Lynnfield | 74.8% | +0.8 |
 | 2026-11-21 | 2:30 P.M. | East Bridgewater | Cohasset | 85.8% | +1.3 |
 | 2026-11-21 | 12:00 P.M. | Pioneer Valley Christian | Calvary Chapel | 35.2% | -0.4 |
-| 2026-11-21 | TBD | Loomis Chaffee (Conn.) | Dana Hall | 79.9% | +1.1 |
-| 2026-11-21 | TBD | King (Conn.) | BB&N | 38.0% | -0.2 |
-| 2026-11-21 | TBD | Groton | Rivers | 81.6% | +1.2 |
-| 2026-11-21 | TBD | Worcester Academy | Greenwich Academy (Conn.) | 70.3% | +0.8 |
-| 2026-11-21 | TBD | Wilbraham & Monson | Hamden Hall Country Day | 31.7% | -0.4 |
-| 2026-11-21 | TBD | Mount St. Charles (R.I.) | St. Luke’s | 62.5% | +0.5 |
-| 2026-11-21 | TBD | Covenant Christian | Christian Heritage | 52.8% | +0.2 |
-| 2026-11-21 | TBD | Albany Academy | Newman School | 64.8% | +0.6 |
+| 2026-11-21 | 2:00 P.M. | Loomis Chaffee (Conn.) | Dana Hall | 79.9% | +1.1 |
+| 2026-11-21 | 2:00 P.M. | King (Conn.) | BB&N | 38.0% | -0.2 |
+| 2026-11-21 | 2:45 P.M. | Groton | Rivers | 81.6% | +1.2 |
+| 2026-11-21 | 2:00 P.M. | Worcester Academy | Greenwich Academy (Conn.) | 70.3% | +0.8 |
+| 2026-11-21 | 2:00 P.M. | Wilbraham & Monson | Hamden Hall Country Day | 31.7% | -0.4 |
+| 2026-11-21 | 3:30 P.M. | Mount St. Charles (R.I.) | St. Luke’s | 62.5% | +0.5 |
+| 2026-11-21 | 1:00 P.M. | Covenant Christian | Christian Heritage | 52.8% | +0.2 |
+| 2026-11-21 | 3:30 P.M. | Albany Academy | Newman School | 64.8% | +0.6 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-11-18 | Albany Academy | 3 | Bancroft | 0 | +0.6 | +3.0 |
-| 2026-11-18 | Groton | 3 | Dexter Southfield | 0 | +1.6 | +3.0 |
-| 2026-11-18 | Oliver Ames | 3 | Barnstable | 0 | +1.0 | +3.0 |
 | 2026-11-18 | Old Rochester | 2 | Lynnfield | 3 | -0.0 | -1.0 |
-| 2026-11-18 | Bellingham | 3 | Joseph Case | 1 | +0.9 | +2.0 |
-| 2026-11-18 | Ursuline | 2 | Cohasset | 3 | +0.2 | -1.0 |
+| 2026-11-18 | Kingswood-Oxford | 0 | Greenwich Academy (Conn.) | 3 | +0.6 | -3.0 |
 | 2026-11-18 | East Bridgewater | 3 | Greater Lawrence | 0 | +1.2 | +3.0 |
 | 2026-11-18 | Loomis Chaffee (Conn.) | 3 | Phillips Andover | 1 | +0.6 | +2.0 |
 | 2026-11-18 | Dana Hall | 3 | Hopkins (Conn.) | 1 | -0.1 | +2.0 |
 | 2026-11-18 | BB&N | 3 | Choate | 1 | +2.6 | +2.0 |
 | 2026-11-18 | King (Conn.) | 3 | Milton Academy | 1 | +2.0 | +2.0 |
+| 2026-11-18 | Groton | 3 | Dexter Southfield | 0 | +1.6 | +3.0 |
 | 2026-11-18 | Greens Farms | 2 | Rivers | 3 | +0.4 | -1.0 |
-| 2026-11-18 | Kingswood-Oxford | 0 | Greenwich Academy (Conn.) | 3 | +0.6 | -3.0 |
 | 2026-11-18 | Worcester Academy | 3 | Tabor | 1 | +0.4 | +2.0 |
+| 2026-11-18 | Bellingham | 3 | Joseph Case | 1 | +0.9 | +2.0 |
 | 2026-11-18 | Wilbraham & Monson | 3 | Frederick Gunn (Conn.) | 1 | +0.7 | +2.0 |
 | 2026-11-18 | Hamden Hall Country Day | 3 | Cambridge Weston | 0 | +2.0 | +3.0 |
 | 2026-11-18 | Mount St. Charles (R.I.) | 3 | Canterbury | 0 | -0.1 | +3.0 |
@@ -45,33 +42,27 @@ Generated: 2026-11-19 15:59
 | 2026-11-18 | Covenant Christian | 3 | Stoneleigh-Burnham | 0 | +1.1 | +3.0 |
 | 2026-11-18 | Christian Heritage | 3 | Boston Trinity | 0 | +1.2 | +3.0 |
 | 2026-11-18 | Newman School | 3 | Wooster | 0 | -0.0 | +3.0 |
+| 2026-11-18 | Ursuline | 2 | Cohasset | 3 | +0.2 | -1.0 |
+| 2026-11-18 | Albany Academy | 3 | Bancroft | 0 | +0.6 | +3.0 |
 | 2026-11-18 | Brookline | 3 | Winchester | 2 | +0.3 | +1.0 |
+| 2026-11-18 | Oliver Ames | 3 | Barnstable | 0 | +1.0 | +3.0 |
 | 2026-11-17 | Canton | 3 | Duxbury | 2 | +0.6 | +1.0 |
 | 2026-11-17 | Central Catholic | 3 | Franklin | 2 | -0.1 | +1.0 |
-| 2026-11-16 | Lenox | 2 | Calvary Chapel | 3 | -0.5 | -1.0 |
 | 2026-11-16 | Pioneer Valley Christian | 3 | St. John Paul II | 0 | +0.1 | +3.0 |
+| 2026-11-16 | Lenox | 2 | Calvary Chapel | 3 | -0.5 | -1.0 |
+| 2026-11-14 | Oliver Ames | 3 | Longmeadow | 0 | +1.8 | +3.0 |
 | 2026-11-14 | Lawrence Academy | 0 | BB&N | 3 | -3.0 | -3.0 |
 | 2026-11-14 | Bellingham | 3 | Pembroke | 0 | +2.3 | +3.0 |
-| 2026-11-14 | Oliver Ames | 3 | Longmeadow | 0 | +1.8 | +3.0 |
 | 2026-11-14 | Central Catholic | 3 | Wellesley | 1 | +1.5 | +2.0 |
+| 2026-11-13 | Joseph Case | 3 | Newburyport | 2 | +1.1 | +1.0 |
+| 2026-11-13 | Hingham | 1 | Barnstable | 3 | +0.1 | -2.0 |
 | 2026-11-13 | Reading | 1 | Duxbury | 3 | +1.1 | -2.0 |
 | 2026-11-13 | Melrose | 0 | Canton | 3 | +0.1 | -3.0 |
-| 2026-11-13 | Brookline | 3 | Newton North | 2 | +1.0 | +1.0 |
 | 2026-11-13 | Winchester | 3 | Bishop Feehan | 1 | +1.0 | +2.0 |
-| 2026-11-13 | Hingham | 1 | Barnstable | 3 | +0.1 | -2.0 |
 | 2026-11-13 | Old Rochester | 3 | Groton-Dunstable | 0 | +1.7 | +3.0 |
-| 2026-11-13 | Joseph Case | 3 | Newburyport | 2 | +1.1 | +1.0 |
 | 2026-11-13 | Cohasset | 3 | Ipswich | 0 | +1.2 | +3.0 |
 | 2026-11-13 | East Bridgewater | 3 | Hamilton-Wenham | 0 | +1.8 | +3.0 |
-| 2026-11-12 | Lenox | 3 | Old Colony | 1 | -0.1 | +2.0 |
-| 2026-11-12 | Greater Lawrence | 3 | Mt. Greylock | 0 | +1.0 | +3.0 |
-| 2026-11-12 | Ursuline | 3 | Carver | 1 | +0.7 | +2.0 |
-| 2026-11-12 | St. John Paul II | 3 | Renaissance | 1 | +0.4 | +2.0 |
-| 2026-11-12 | Lynnfield | 3 | Weston | 0 | +1.8 | +3.0 |
-| 2026-11-12 | Calvary Chapel | 3 | New Mission | 2 | +0.5 | +1.0 |
-| 2026-11-12 | Pioneer Valley Christian | 3 | Franklin County Tech | 1 | +0.7 | +2.0 |
-| 2026-11-12 | Thayer | 3 | St. George’s | 1 | +0.4 | +2.0 |
-| 2026-11-12 | Chelmsford | 2 | Franklin | 3 | +0.3 | -1.0 |
+| 2026-11-13 | Brookline | 3 | Newton North | 2 | +1.0 | +1.0 |
 
 ## Current Elo Ratings
 
@@ -254,11 +245,11 @@ Generated: 2026-11-19 15:59
 | 175 | Algonquin | 1507.0 |
 | 176 | Chicopee | 1504.7 |
 | 177 | Newman School | 1504.5 |
-| 178 | Trinity Christian | 1501.7 |
-| 179 | Northfield Mt. Hermon | 1501.7 |
-| 180 | Dublin | 1501.7 |
-| 181 | South Shore Christian | 1501.7 |
-| 182 | Fellowship Christian | 1501.7 |
+| 178 | South Shore Christian | 1501.7 |
+| 179 | Fellowship Christian | 1501.7 |
+| 180 | Northfield Mt. Hermon | 1501.7 |
+| 181 | Trinity Christian | 1501.7 |
+| 182 | Dublin | 1501.7 |
 | 183 | Quincy | 1499.4 |
 | 184 | Beaver Country Day | 1494.8 |
 | 185 | Ludlow | 1493.9 |
@@ -868,11 +859,11 @@ Non-MIAA opponents and teams without a known division.
 | Hoosac School | 1515.5 | 170 | non-member |
 | Phillips Andover | 1513.8 | 171 | non-member |
 | Newman School | 1504.5 | 177 | non-member |
-| Trinity Christian | 1501.7 | 178 | non-member |
-| Northfield Mt. Hermon | 1501.7 | 179 | non-member |
-| Dublin | 1501.7 | 180 | non-member |
-| South Shore Christian | 1501.7 | 181 | non-member |
-| Fellowship Christian | 1501.7 | 182 | non-member |
+| South Shore Christian | 1501.7 | 178 | non-member |
+| Fellowship Christian | 1501.7 | 179 | non-member |
+| Northfield Mt. Hermon | 1501.7 | 180 | non-member |
+| Trinity Christian | 1501.7 | 181 | non-member |
+| Dublin | 1501.7 | 182 | non-member |
 | Beaver Country Day | 1494.8 | 184 | non-member |
 | Thayer | 1492.4 | 187 | non-member |
 | La Salle (R.I.) | 1490.9 | 189 | non-member |

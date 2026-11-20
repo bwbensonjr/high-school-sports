@@ -1,6 +1,6 @@
 # Girls Cross Country - 2026 Season
 
-Generated: 2026-11-19 15:59
+Generated: 2026-11-20 15:42
 
 ## Upcoming Games
 
@@ -138,15 +138,15 @@ Generated: 2026-11-19 15:59
 | 120 | Holliston | 1510.8 |
 | 121 | Bristol-Plymouth | 1509.3 |
 | 122 | Winthrop | 1505.0 |
-| 123 | Cape Cod Tech | 1502.8 |
-| 124 | Minnechaug | 1502.8 |
-| 125 | Atlantis Charter | 1502.8 |
-| 126 | Longmeadow | 1502.8 |
-| 127 | Notre Dame (Tyngsborough) | 1502.8 |
-| 128 | Westfield | 1502.8 |
-| 129 | Notre Dame (Worcester) | 1502.8 |
-| 130 | Amherst-Pelham | 1502.8 |
-| 131 | Wachusett | 1502.8 |
+| 123 | Notre Dame (Tyngsborough) | 1502.8 |
+| 124 | Longmeadow | 1502.8 |
+| 125 | Cape Cod Tech | 1502.8 |
+| 126 | Minnechaug | 1502.8 |
+| 127 | Amherst-Pelham | 1502.8 |
+| 128 | Notre Dame (Worcester) | 1502.8 |
+| 129 | Wachusett | 1502.8 |
+| 130 | Westfield | 1502.8 |
+| 131 | Atlantis Charter | 1502.8 |
 | 132 | Whittier | 1501.9 |
 | 133 | West Bridgewater | 1492.7 |
 | 134 | St. Mark’s | 1489.5 |
@@ -335,7 +335,7 @@ Generated: 2026-11-19 15:59
 | 41 | New Bedford | 1522.8 | 116 |
 | 42 | Newton South | 1518.7 | 118 |
 | 43 | Beverly | 1512.3 | 119 |
-| 44 | Wachusett | 1502.8 | 131 |
+| 44 | Wachusett | 1502.8 | 129 |
 | 45 | Brookline | 1474.2 | 143 |
 | 46 | Algonquin | 1454.9 | 148 |
 | 47 | Chicopee Comprehensive | 1454.7 | 150 |
@@ -411,11 +411,11 @@ Generated: 2026-11-19 15:59
 | 36 | Manchester Essex/Rockport | 1535.8 | 109 |
 | 37 | Holliston | 1510.8 | 120 |
 | 38 | Bristol-Plymouth | 1509.3 | 121 |
-| 39 | Minnechaug | 1502.8 | 124 |
-| 40 | Longmeadow | 1502.8 | 126 |
-| 41 | Westfield | 1502.8 | 128 |
-| 42 | Notre Dame (Worcester) | 1502.8 | 129 |
-| 43 | Amherst-Pelham | 1502.8 | 130 |
+| 39 | Longmeadow | 1502.8 | 124 |
+| 40 | Minnechaug | 1502.8 | 126 |
+| 41 | Amherst-Pelham | 1502.8 | 127 |
+| 42 | Notre Dame (Worcester) | 1502.8 | 128 |
+| 43 | Westfield | 1502.8 | 130 |
 | 44 | Whittier | 1501.9 | 132 |
 | 45 | Danvers | 1481.6 | 138 |
 | 46 | Wilmington | 1481.2 | 139 |
@@ -498,9 +498,9 @@ Generated: 2026-11-19 15:59
 | 24 | Stoneham | 1530.3 | 112 |
 | 25 | Monomoy | 1526.9 | 114 |
 | 26 | Winthrop | 1505.0 | 122 |
-| 27 | Cape Cod Tech | 1502.8 | 123 |
-| 28 | Atlantis Charter | 1502.8 | 125 |
-| 29 | Notre Dame (Tyngsborough) | 1502.8 | 127 |
+| 27 | Notre Dame (Tyngsborough) | 1502.8 | 123 |
+| 28 | Cape Cod Tech | 1502.8 | 125 |
+| 29 | Atlantis Charter | 1502.8 | 131 |
 | 30 | West Bridgewater | 1492.7 | 133 |
 | 31 | Littleton | 1486.8 | 135 |
 | 32 | Holbrook/Avon | 1482.2 | 137 |

@@ -1,6 +1,6 @@
 # Girls Tennis - 2026 Season
 
-Generated: 2026-11-19 15:59
+Generated: 2026-11-20 15:42
 
 ## Upcoming Games
 
@@ -134,8 +134,8 @@ Generated: 2026-11-19 15:59
 | 116 | Hudson | 1503.7 |
 | 117 | St. Mary (Westfield) | 1502.1 |
 | 118 | St. Paul | 1501.1 |
-| 119 | Abington | 1500.0 |
-| 120 | Nashoba Valley Tech | 1500.0 |
+| 119 | Nashoba Valley Tech | 1500.0 |
+| 120 | Abington | 1500.0 |
 | 121 | Westport | 1498.8 |
 | 122 | Dexter Southfield | 1497.9 |
 | 123 | Northampton | 1496.4 |
@@ -374,7 +374,7 @@ Generated: 2026-11-19 15:59
 | 25 | Somerset Berkley | 1525.5 | 96 |
 | 26 | Agawam | 1519.4 | 101 |
 | 27 | Wayland | 1509.2 | 111 |
-| 28 | Nashoba Valley Tech | 1500.0 | 120 |
+| 28 | Nashoba Valley Tech | 1500.0 | 119 |
 | 29 | Northampton | 1496.4 | 123 |
 | 30 | Stoughton | 1493.8 | 124 |
 | 31 | Chicopee Comprehensive | 1493.4 | 125 |
@@ -448,7 +448,7 @@ Generated: 2026-11-19 15:59
 | 31 | Hudson | 1503.7 | 116 |
 | 32 | St. Mary (Westfield) | 1502.1 | 117 |
 | 33 | St. Paul | 1501.1 | 118 |
-| 34 | Abington | 1500.0 | 119 |
+| 34 | Abington | 1500.0 | 120 |
 | 35 | Notre Dame (Tyngsborough) | 1489.9 | 128 |
 | 36 | Gardner | 1488.3 | 132 |
 | 37 | Lowell Catholic | 1486.8 | 136 |
