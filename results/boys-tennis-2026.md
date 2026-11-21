@@ -1,6 +1,6 @@
 # Boys Tennis - 2026 Season
 
-Generated: 2026-11-20 15:42
+Generated: 2026-11-21 14:53
 
 ## Upcoming Games
 
@@ -134,9 +134,9 @@ Generated: 2026-11-20 15:42
 | 116 | Pioneer Valley Christian | 1507.0 |
 | 117 | Chicopee | 1503.1 |
 | 118 | Greater Lawrence | 1500.0 |
-| 119 | Pittsfield | 1500.0 |
+| 119 | Fellowship Christian | 1500.0 |
 | 120 | Greater Lowell | 1500.0 |
-| 121 | Fellowship Christian | 1500.0 |
+| 121 | Pittsfield | 1500.0 |
 | 122 | Diman | 1488.7 |
 | 123 | Millbury | 1487.5 |
 | 124 | Austin Prep | 1476.8 |
@@ -410,7 +410,7 @@ Generated: 2026-11-20 15:42
 | 30 | Medway | 1518.4 | 110 |
 | 31 | Pioneer Valley Christian | 1507.0 | 116 |
 | 32 | Chicopee | 1503.1 | 117 |
-| 33 | Pittsfield | 1500.0 | 119 |
+| 33 | Pittsfield | 1500.0 | 121 |
 | 34 | Holliston | 1466.9 | 128 |
 | 35 | Lynnfield | 1458.4 | 131 |
 | 36 | Amherst-Pelham | 1447.3 | 138 |
@@ -508,8 +508,8 @@ Non-MIAA opponents and teams without a known division.
 | Groton | 1540.0 | 105 | non-member |
 | Cushing | 1530.7 | 108 | non-member |
 | Worcester Academy | 1507.8 | 115 | non-member |
+| Fellowship Christian | 1500.0 | 119 | non-member |
 | Greater Lowell | 1500.0 | 120 | unknown |
-| Fellowship Christian | 1500.0 | 121 | non-member |
 | Austin Prep | 1476.8 | 124 | non-member |
 | Beaver Country Day | 1468.8 | 127 | non-member |
 | Governor’s Academy | 1455.4 | 133 | non-member |

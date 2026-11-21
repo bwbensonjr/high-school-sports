@@ -1,6 +1,6 @@
 # Boys Hockey - 2026 Season
 
-Generated: 2026-11-20 15:42
+Generated: 2026-11-21 14:53
 
 ## Upcoming Games
 
@@ -135,8 +135,8 @@ Generated: 2026-11-20 15:42
 | 117 | Northeast | 1502.8 |
 | 118 | Lynnfield | 1502.5 |
 | 119 | Fairfield Prep (Conn.) | 1502.1 |
-| 120 | Darien (Conn.) | 1501.7 |
-| 121 | Timberlane (N.H.) | 1501.7 |
+| 120 | Timberlane (N.H.) | 1501.7 |
+| 121 | Darien (Conn.) | 1501.7 |
 | 122 | Dartmouth | 1500.0 |
 | 123 | Rockland | 1496.5 |
 | 124 | Waltham | 1495.8 |
@@ -512,8 +512,8 @@ Non-MIAA opponents and teams without a known division.
 | Canterbury | 1528.1 | 111 | non-member |
 | Deerfield | 1525.0 | 112 | non-member |
 | Fairfield Prep (Conn.) | 1502.1 | 119 | non-member |
-| Darien (Conn.) | 1501.7 | 120 | non-member |
-| Timberlane (N.H.) | 1501.7 | 121 | non-member |
+| Timberlane (N.H.) | 1501.7 | 120 | non-member |
+| Darien (Conn.) | 1501.7 | 121 | non-member |
 | Berwick | 1489.8 | 127 | non-member |
 | Brunswick | 1484.9 | 129 | non-member |
 | Nichols (N.Y.) | 1481.9 | 130 | non-member |

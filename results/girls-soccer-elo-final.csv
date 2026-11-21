@@ -1,9 +1,9 @@
 team,elo,team_id,overall_rank,division,division_status,division_rank
-Medfield,2441.5159492140533,4241,1,3,assigned,1
+Medfield,2463.979487941425,4241,1,3,assigned,1
 Bishop Feehan,2364.7145377283205,4042,2,1,assigned,1
 Needham,2329.17705063974,4272,3,1,assigned,2
 Duxbury,2325.228738190103,4123,4,2,assigned,1
-Norwell,2313.819007326008,4296,5,3,assigned,2
+Norwell,2291.3554685986364,4296,5,3,assigned,2
 Cohasset,2247.601460066995,4094,6,4,assigned,1
 Concord-Carlisle,2237.33227622521,4097,7,1,assigned,3
 Douglas,2215.2322550295776,4506,8,4,assigned,2
@@ -201,19 +201,19 @@ Drury,1507.3907235964157,4120,199,5,assigned,15
 Monty Tech,1506.7752719545063,4259,200,3,assigned,40
 Berwick,1503.891868504942,4037,201,,non-member,
 Nashoba Valley Tech,1503.7095640501263,4268,202,5,assigned,16
-Kent,1501.65,4193,203,,non-member,
-Newman School,1501.65,4277,204,,non-member,
-Barrington (R.I.),1501.65,4025,205,,non-member,
+Barrington (R.I.),1501.65,4025,203,,non-member,
+South Shore Christian,1501.65,4489,204,,non-member,
+Housatonic Regional (Conn.),1501.65,5022,205,,non-member,
 Bridgton Academy,1501.65,4054,206,,non-member,
-South Shore Christian,1501.65,4489,207,,non-member,
-Kingswood-Oxford,1501.65,4198,208,,non-member,
-Boston Prep,1501.65,4655,209,5,assigned,17
-Housatonic Regional (Conn.),1501.65,5022,210,,non-member,
-La Salle (R.I.),1501.65,4201,211,,non-member,
-Neighborhood House Charter,1501.65,5035,212,5,assigned,18
-King (Conn.),1501.65,4199,213,,non-member,
-Miss Hall’s,1501.65,4256,214,,unknown,
-Poughkeepsie Day (N.Y.),1501.65,4916,215,,non-member,
+Newman School,1501.65,4277,207,,non-member,
+La Salle (R.I.),1501.65,4201,208,,non-member,
+King (Conn.),1501.65,4199,209,,non-member,
+Kent,1501.65,4193,210,,non-member,
+Poughkeepsie Day (N.Y.),1501.65,4916,211,,non-member,
+Neighborhood House Charter,1501.65,5035,212,5,assigned,17
+Boston Prep,1501.65,4655,213,5,assigned,18
+Kingswood-Oxford,1501.65,4198,214,,non-member,
+Miss Hall’s,1501.65,4256,215,,unknown,
 Pioneer Valley Chinese Immersion,1501.65,4955,216,5,assigned,19
 Millis,1501.5143699297203,4251,217,4,assigned,37
 Tantasqua,1500.1842502307868,4387,218,3,assigned,41

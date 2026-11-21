@@ -1,12 +1,11 @@
 # Girls Soccer - 2026 Season
 
-Generated: 2026-11-20 15:42
+Generated: 2026-11-21 14:53
 
 ## Upcoming Games
 
 | Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
 |------|------|-----------|-----------|------------|------------------|
-| 2026-11-20 | 7:00 P.M. | Medfield | Norwell | 67.6% | +0.9 |
 | 2026-11-21 | 4:45 P.M. | Bishop Feehan | Needham | 55.1% | +0.2 |
 | 2026-11-21 | 12:15 P.M. | Duxbury | Hingham | 71.9% | +1.1 |
 | 2026-11-21 | 12:15 P.M. | Cohasset | Douglas | 54.6% | +0.2 |
@@ -17,15 +16,15 @@ Generated: 2026-11-20 15:42
 | 2026-11-21 | 2:00 P.M. | Dexter Southfield | Pingree | 37.9% | -0.5 |
 | 2026-11-21 | 1:00 P.M. | Lawrence Academy | Suffield Academy | 88.8% | +2.6 |
 | 2026-11-21 | 1:00 P.M. | Greens Farms | New Hampton | 69.3% | +1.1 |
-| 2026-11-21 | 2:00 P.M. | St. Andrew’s | Landmark | 59.7% | +0.5 |
+| 2026-11-21 | 2:00 P.M. | St. Andrew’s | Landmark | 66.4% | +1.0 |
 | 2026-11-21 | 2:00 P.M. | Tilton | Christian Heritage | 59.0% | +0.6 |
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-11-18 | Tilton | 2 | Williams (Conn.) | 0 | +0.1 | +2.0 |
-| 2026-11-18 | Tabor | 2 | Suffield Academy | 3 | +1.1 | -1.0 |
+| 2026-11-20 | Medfield | 3 | Norwell | 2 | +0.9 | +1.0 |
+| 2026-11-18 | Lawrence Academy | 2 | St. George’s | 0 | +1.5 | +2.0 |
 | 2026-11-18 | Bishop Feehan | 7 | Braintree | 0 | +1.6 | +7.0 |
 | 2026-11-18 | Concord-Carlisle | 1 | Needham | 4 | +0.5 | -3.0 |
 | 2026-11-18 | Phillips Andover | 0 | Loomis Chaffee (Conn.) | 3 | +0.5 | -3.0 |
@@ -34,7 +33,7 @@ Generated: 2026-11-20 15:42
 | 2026-11-18 | Westminster | 2 | Taft | 3 | +1.4 | -1.0 |
 | 2026-11-18 | Dexter Southfield | 6 | Dana Hall | 0 | +2.3 | +6.0 |
 | 2026-11-18 | Pingree | 4 | Greenwich Academy (Conn.) | 1 | +3.0 | +3.0 |
-| 2026-11-18 | Lawrence Academy | 2 | St. George’s | 0 | +1.5 | +2.0 |
+| 2026-11-18 | Tabor | 2 | Suffield Academy | 3 | +1.1 | -1.0 |
 | 2026-11-18 | Greens Farms | 7 | St. Luke’s | 1 | +1.9 | +6.0 |
 | 2026-11-18 | New Hampton | 1 | Portsmouth Abbey | 0 | +0.7 | +1.0 |
 | 2026-11-18 | Berwick | 0 | Holderness | 2 | +1.0 | -2.0 |
@@ -42,6 +41,7 @@ Generated: 2026-11-20 15:42
 | 2026-11-18 | St. Andrew’s | 7 | Brimmer & May | 0 | +0.4 | +7.0 |
 | 2026-11-18 | International School | 1 | Landmark | 3 | +0.9 | -2.0 |
 | 2026-11-18 | Christian Heritage | 4 | Covenant Christian | 3 | +0.6 | +1.0 |
+| 2026-11-18 | Tilton | 2 | Williams (Conn.) | 0 | +0.1 | +2.0 |
 | 2026-11-17 | Duxbury | 5 | Masconomet | 0 | +1.0 | +5.0 |
 | 2026-11-17 | Cohasset | 5 | Sandwich | 0 | +1.6 | +5.0 |
 | 2026-11-17 | Medfield | 8 | Foxborough | 1 | +2.4 | +7.0 |
@@ -75,11 +75,11 @@ Generated: 2026-11-20 15:42
 
 | Rank | Team | Elo Rating |
 |------|------|------------|
-| 1 | Medfield | 2441.5 |
+| 1 | Medfield | 2464.0 |
 | 2 | Bishop Feehan | 2364.7 |
 | 3 | Needham | 2329.2 |
 | 4 | Duxbury | 2325.2 |
-| 5 | Norwell | 2313.8 |
+| 5 | Norwell | 2291.4 |
 | 6 | Cohasset | 2247.6 |
 | 7 | Concord-Carlisle | 2237.3 |
 | 8 | Douglas | 2215.2 |
@@ -277,19 +277,19 @@ Generated: 2026-11-20 15:42
 | 200 | Monty Tech | 1506.8 |
 | 201 | Berwick | 1503.9 |
 | 202 | Nashoba Valley Tech | 1503.7 |
-| 203 | Kent | 1501.7 |
-| 204 | Newman School | 1501.7 |
-| 205 | Barrington (R.I.) | 1501.7 |
+| 203 | Barrington (R.I.) | 1501.7 |
+| 204 | South Shore Christian | 1501.7 |
+| 205 | Housatonic Regional (Conn.) | 1501.7 |
 | 206 | Bridgton Academy | 1501.7 |
-| 207 | South Shore Christian | 1501.7 |
-| 208 | Kingswood-Oxford | 1501.7 |
-| 209 | Boston Prep | 1501.7 |
-| 210 | Housatonic Regional (Conn.) | 1501.7 |
-| 211 | La Salle (R.I.) | 1501.7 |
+| 207 | Newman School | 1501.7 |
+| 208 | La Salle (R.I.) | 1501.7 |
+| 209 | King (Conn.) | 1501.7 |
+| 210 | Kent | 1501.7 |
+| 211 | Poughkeepsie Day (N.Y.) | 1501.7 |
 | 212 | Neighborhood House Charter | 1501.7 |
-| 213 | King (Conn.) | 1501.7 |
-| 214 | Miss Hall’s | 1501.7 |
-| 215 | Poughkeepsie Day (N.Y.) | 1501.7 |
+| 213 | Boston Prep | 1501.7 |
+| 214 | Kingswood-Oxford | 1501.7 |
+| 215 | Miss Hall’s | 1501.7 |
 | 216 | Pioneer Valley Chinese Immersion | 1501.7 |
 | 217 | Millis | 1501.5 |
 | 218 | Tantasqua | 1500.2 |
@@ -643,8 +643,8 @@ Generated: 2026-11-20 15:42
 
 | Division Rank | Team | Elo Rating | Overall Rank |
 |---------------|------|------------|--------------|
-| 1 | Medfield | 2441.5 | 1 |
-| 2 | Norwell | 2313.8 | 5 |
+| 1 | Medfield | 2464.0 | 1 |
+| 2 | Norwell | 2291.4 | 5 |
 | 3 | Pope Francis | 2069.7 | 14 |
 | 4 | Cardinal Spellman | 2068.4 | 15 |
 | 5 | Foxborough | 2047.1 | 18 |
@@ -819,8 +819,8 @@ Generated: 2026-11-20 15:42
 | 14 | Pioneer Valley Regional | 1513.1 | 194 |
 | 15 | Drury | 1507.4 | 199 |
 | 16 | Nashoba Valley Tech | 1503.7 | 202 |
-| 17 | Boston Prep | 1501.7 | 209 |
-| 18 | Neighborhood House Charter | 1501.7 | 212 |
+| 17 | Neighborhood House Charter | 1501.7 | 212 |
+| 18 | Boston Prep | 1501.7 | 213 |
 | 19 | Pioneer Valley Chinese Immersion | 1501.7 | 216 |
 | 20 | Rising Tide Charter | 1481.0 | 236 |
 | 21 | Mahar | 1465.8 | 238 |
@@ -915,17 +915,17 @@ Non-MIAA opponents and teams without a known division.
 | Beaver Country Day | 1508.6 | 197 | non-member |
 | Holland (Burke) | 1507.6 | 198 | unknown |
 | Berwick | 1503.9 | 201 | non-member |
-| Kent | 1501.7 | 203 | non-member |
-| Newman School | 1501.7 | 204 | non-member |
-| Barrington (R.I.) | 1501.7 | 205 | non-member |
+| Barrington (R.I.) | 1501.7 | 203 | non-member |
+| South Shore Christian | 1501.7 | 204 | non-member |
+| Housatonic Regional (Conn.) | 1501.7 | 205 | non-member |
 | Bridgton Academy | 1501.7 | 206 | non-member |
-| South Shore Christian | 1501.7 | 207 | non-member |
-| Kingswood-Oxford | 1501.7 | 208 | non-member |
-| Housatonic Regional (Conn.) | 1501.7 | 210 | non-member |
-| La Salle (R.I.) | 1501.7 | 211 | non-member |
-| King (Conn.) | 1501.7 | 213 | non-member |
-| Miss Hall’s | 1501.7 | 214 | unknown |
-| Poughkeepsie Day (N.Y.) | 1501.7 | 215 | non-member |
+| Newman School | 1501.7 | 207 | non-member |
+| La Salle (R.I.) | 1501.7 | 208 | non-member |
+| King (Conn.) | 1501.7 | 209 | non-member |
+| Kent | 1501.7 | 210 | non-member |
+| Poughkeepsie Day (N.Y.) | 1501.7 | 211 | non-member |
+| Kingswood-Oxford | 1501.7 | 214 | non-member |
+| Miss Hall’s | 1501.7 | 215 | unknown |
 | Agnes Irwin (Pa.) | 1498.6 | 219 | unknown |
 | Hope (R.I.) | 1498.2 | 220 | non-member |
 | Bishop Guertin (N.H.) | 1497.7 | 221 | non-member |

@@ -1,10 +1,10 @@
 team,elo,team_id,overall_rank,division,division_status,division_rank
-Medfield,2094.925451357783,4241,1,3,assigned,1
+Medfield,2131.7475747351787,4241,1,3,assigned,1
 Oliver Ames,2082.4188827070593,4302,2,2,assigned,1
 Wayland,2026.2653564650484,4411,3,2,assigned,2
 Northampton,2010.2171418124242,4291,4,2,assigned,3
-Pope Francis,1973.4852506230386,4796,5,3,assigned,2
-BC High,1945.017793156709,4029,6,1,assigned,1
+BC High,1945.017793156709,4029,5,1,assigned,1
+Pope Francis,1936.663127245643,4796,6,3,assigned,2
 Hopedale,1933.701101210736,4507,7,5,assigned,1
 Cohasset,1929.4495492758906,4094,8,4,assigned,1
 Pembroke,1928.6160403354345,4308,9,3,assigned,3
@@ -213,9 +213,9 @@ Lexington Christian,1504.5673363000606,4210,211,,non-member,
 Phillips Exeter,1504.0822316681638,4311,212,,non-member,
 Belchertown,1503.7256417042574,4032,213,3,assigned,38
 Hull,1503.292459988618,4184,214,5,assigned,20
-South Shore Christian,1502.7555,4489,215,,non-member,
+Newton Country Day,1502.7555,4278,215,,non-member,
 Xavier (Conn.),1502.7555,4584,216,,non-member,
-Newton Country Day,1502.7555,4278,217,,non-member,
+South Shore Christian,1502.7555,4489,217,,non-member,
 Rivers,1501.0577768703579,4330,218,,non-member,
 Nashoba,1500.5856381472527,4267,219,2,assigned,37
 South Shore Charter,1500.4960000482001,4589,220,5,assigned,21

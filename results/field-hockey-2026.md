@@ -1,6 +1,6 @@
 # Field Hockey - 2026 Season
 
-Generated: 2026-11-20 15:42
+Generated: 2026-11-21 14:53
 
 ## Upcoming Games
 
@@ -11,7 +11,7 @@ Generated: 2026-11-20 15:42
 | 2026-11-21 | 10:00 A.M. | Uxbridge | Watertown | 79.8% | +1.7 |
 | 2026-11-21 | 5:30 P.M. | Cohasset | Dennis-Yarmouth | 55.5% | +0.3 |
 | 2026-11-21 | 2:00 P.M. | Berkshire | Governor’s Academy | 21.2% | -1.6 |
-| 2026-11-21 | 1:00 P.M. | Phillips Andover | Milton Academy | 96.8% | +4.3 |
+| 2026-11-21 | 1:00 P.M. | Phillips Andover | Milton Academy | 97.6% | +4.7 |
 | 2026-11-21 | 1:00 P.M. | Sacred Heart (Conn.) | Deerfield | 61.5% | +0.6 |
 | 2026-11-21 | 1:00 P.M. | Middlesex | Brooks | 77.2% | +1.6 |
 | 2026-11-21 | 1:30 P.M. | King (Conn.) | Frederick Gunn (Conn.) | 59.1% | +0.5 |
@@ -38,23 +38,22 @@ Generated: 2026-11-20 15:42
 | 2026-11-18 | Dennis-Yarmouth | 3 | Frontier | 2 | +0.7 | +1.0 |
 | 2026-11-18 | Canton | 1 | Somerset Berkley | 3 | +0.1 | -2.0 |
 | 2026-11-18 | Portsmouth Abbey | 11 | Rocky Hill Country Day | 0 | +0.6 | +11.0 |
+| 2026-11-17 | Sandwich | 0 | Watertown | 1 | +1.4 | -1.0 |
 | 2026-11-17 | Uxbridge | 3 | Dover-Sherborn | 1 | +2.8 | +2.0 |
 | 2026-11-17 | Nashoba | 2 | Westwood | 0 | +2.0 | +2.0 |
-| 2026-11-17 | Sandwich | 0 | Watertown | 1 | +1.4 | -1.0 |
 | 2026-11-15 | Frontier | 2 | Quabbin | 0 | +0.7 | +2.0 |
 | 2026-11-15 | Monomoy | 1 | Hopedale | 2 | -0.6 | -1.0 |
-| 2026-11-14 | Acton-Boxborough | 3 | Walpole | 0 | +0.7 | +3.0 |
-| 2026-11-14 | King Philip | 2 | Westwood | 3 | +2.0 | -1.0 |
 | 2026-11-14 | Franklin | 2 | Attleboro | 0 | +3.0 | +2.0 |
-| 2026-11-14 | Belmont | 4 | Winchester | 0 | +2.5 | +4.0 |
-| 2026-11-14 | Lincoln-Sudbury | 3 | Andover | 0 | +1.7 | +3.0 |
-| 2026-11-14 | Somerset Berkley | 5 | Hingham | 1 | +1.3 | +4.0 |
-| 2026-11-14 | Uxbridge | 7 | Medway | 1 | +5.6 | +6.0 |
-| 2026-11-14 | Nashoba | 5 | Milton | 0 | +1.9 | +5.0 |
-| 2026-11-14 | Canton | 3 | Reading | 1 | +3.1 | +2.0 |
-| 2026-11-14 | Dover-Sherborn | 2 | Gloucester | 0 | +1.1 | +2.0 |
 | 2026-11-14 | Cohasset | 8 | Manchester Essex | 0 | +1.8 | +8.0 |
-| 2026-11-13 | Watertown | 4 | Foxborough | 0 | +3.0 | +4.0 |
+| 2026-11-14 | Dover-Sherborn | 2 | Gloucester | 0 | +1.1 | +2.0 |
+| 2026-11-14 | Uxbridge | 7 | Medway | 1 | +5.6 | +6.0 |
+| 2026-11-14 | Canton | 3 | Reading | 1 | +3.1 | +2.0 |
+| 2026-11-14 | Nashoba | 5 | Milton | 0 | +1.9 | +5.0 |
+| 2026-11-14 | King Philip | 2 | Westwood | 3 | +2.0 | -1.0 |
+| 2026-11-14 | Somerset Berkley | 5 | Hingham | 1 | +1.3 | +4.0 |
+| 2026-11-14 | Lincoln-Sudbury | 3 | Andover | 0 | +1.7 | +3.0 |
+| 2026-11-14 | Belmont | 4 | Winchester | 0 | +2.5 | +4.0 |
+| 2026-11-14 | Acton-Boxborough | 3 | Walpole | 0 | +0.7 | +3.0 |
 
 ## Current Elo Ratings
 
@@ -192,8 +191,8 @@ Generated: 2026-11-20 15:42
 | 130 | Westfield | 1502.4 |
 | 131 | Milton Academy | 1502.4 |
 | 132 | Tahanto | 1501.8 |
-| 133 | Ciciro-North Syracuse (N.Y.) | 1501.0 |
-| 134 | Hamden Hall Country Day | 1501.0 |
+| 133 | Hamden Hall Country Day | 1501.0 |
+| 134 | Ciciro-North Syracuse (N.Y.) | 1501.0 |
 | 135 | Tabor | 1500.8 |
 | 136 | Marblehead | 1499.7 |
 | 137 | Beaver Country Day | 1498.9 |
@@ -621,8 +620,8 @@ Non-MIAA opponents and teams without a known division.
 | Lawrence | 1506.7 | 126 | unknown |
 | Loomis Chaffee (Conn.) | 1503.8 | 128 | non-member |
 | Milton Academy | 1502.4 | 131 | non-member |
-| Ciciro-North Syracuse (N.Y.) | 1501.0 | 133 | non-member |
-| Hamden Hall Country Day | 1501.0 | 134 | non-member |
+| Hamden Hall Country Day | 1501.0 | 133 | non-member |
+| Ciciro-North Syracuse (N.Y.) | 1501.0 | 134 | non-member |
 | Tabor | 1500.8 | 135 | non-member |
 | Beaver Country Day | 1498.9 | 137 | non-member |
 | East Greenwich (R.I.) | 1498.1 | 138 | non-member |
