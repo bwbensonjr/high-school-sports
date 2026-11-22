@@ -1,6 +1,6 @@
 # Girls Hockey - 2026 Season
 
-Generated: 2026-11-21 14:53
+Generated: 2026-11-22 14:49
 
 ## Upcoming Games
 
@@ -71,7 +71,7 @@ Generated: 2026-11-21 14:53
 | 53 | Phillips Andover | 1572.8 |
 | 54 | St. Paul’s | 1568.7 |
 | 55 | Pope Francis | 1566.2 |
-| 56 | Hopkinton/Dover-Sherborn | 1558.1 |
+| 56 | Hopkinton/Dover-Sherborn | 1557.9 |
 | 57 | ADK United | 1553.9 |
 | 58 | Malden Catholic | 1551.6 |
 | 59 | St. Mark’s | 1542.6 |
@@ -82,9 +82,9 @@ Generated: 2026-11-21 14:53
 | 64 | Framingham | 1514.4 |
 | 65 | Taft | 1514.2 |
 | 66 | Deerfield | 1508.0 |
-| 67 | Northfield Mt. Hermon | 1501.7 |
+| 67 | Millbrook (N.Y.) | 1501.7 |
 | 68 | Vermont Academy | 1501.7 |
-| 69 | Millbrook (N.Y.) | 1501.7 |
+| 69 | Northfield Mt. Hermon | 1501.7 |
 | 70 | Wakefield | 1475.5 |
 | 71 | Dexter Southfield | 1475.1 |
 | 72 | Glens Falls (N.Y.) | 1474.2 |
@@ -115,7 +115,7 @@ Generated: 2026-11-21 14:53
 | 97 | Norwell | 1416.2 |
 | 98 | Brewster Academy | 1413.3 |
 | 99 | Boston Latin | 1411.0 |
-| 100 | Hopkinton | 1405.7 |
+| 100 | Hopkinton | 1406.0 |
 | 101 | Mount St. Charles (R.I.) | 1399.9 |
 | 102 | East Catholic (Conn.) | 1394.1 |
 | 103 | Brooks | 1389.5 |
@@ -129,9 +129,9 @@ Generated: 2026-11-21 14:53
 | 111 | Andover | 1340.9 |
 | 112 | Lexington | 1338.2 |
 | 113 | Longmeadow | 1336.5 |
-| 114 | Leominster | 1332.3 |
+| 114 | Leominster | 1332.2 |
 | 115 | Masconomet | 1322.6 |
-| 116 | Ursuline | 1312.1 |
+| 116 | Ursuline | 1312.0 |
 | 117 | Medford | 1304.5 |
 | 118 | Newburyport | 1296.2 |
 | 119 | Smithfield (R.I.) | 1295.6 |
@@ -140,7 +140,7 @@ Generated: 2026-11-21 14:53
 | 122 | Stoneham/Wilmington | 1267.3 |
 | 123 | Quincy/North Quincy | 1266.7 |
 | 124 | Newton North | 1248.5 |
-| 125 | Wayland/Weston | 1241.6 |
+| 125 | Wayland/Weston | 1241.5 |
 | 126 | Stoughton | 1233.8 |
 | 127 | Needham | 1209.5 |
 | 128 | Burlington | 1190.6 |
@@ -199,13 +199,13 @@ Generated: 2026-11-21 14:53
 | 30 | Central Catholic | 1451.5 | 89 |
 | 31 | Bishop Fenwick | 1435.2 | 95 |
 | 32 | Boston Latin | 1411.0 | 99 |
-| 33 | Hopkinton | 1405.7 | 100 |
+| 33 | Hopkinton | 1406.0 | 100 |
 | 34 | Arlington | 1368.7 | 106 |
 | 35 | Mansfield/OA/Foxboro | 1361.1 | 108 |
 | 36 | Andover | 1340.9 | 111 |
 | 37 | Lexington | 1338.2 | 112 |
 | 38 | Longmeadow | 1336.5 | 113 |
-| 39 | Ursuline | 1312.1 | 116 |
+| 39 | Ursuline | 1312.0 | 116 |
 | 40 | Medford | 1304.5 | 117 |
 | 41 | Newburyport | 1296.2 | 118 |
 | 42 | Wellesley/L-S | 1284.1 | 120 |
@@ -244,11 +244,11 @@ Generated: 2026-11-21 14:53
 | 20 | Sandwich | 1457.0 | 85 |
 | 21 | Walpole | 1451.3 | 90 |
 | 22 | Gloucester | 1379.2 | 105 |
-| 23 | Leominster | 1332.3 | 114 |
+| 23 | Leominster | 1332.2 | 114 |
 | 24 | Masconomet | 1322.6 | 115 |
 | 25 | Stoneham/Wilmington | 1267.3 | 122 |
 | 26 | Quincy/North Quincy | 1266.7 | 123 |
-| 27 | Wayland/Weston | 1241.6 | 125 |
+| 27 | Wayland/Weston | 1241.5 | 125 |
 | 28 | Burlington | 1190.6 | 128 |
 | 29 | Norwood | 1135.1 | 133 |
 | 30 | Barnstable | 1113.9 | 134 |
@@ -278,7 +278,7 @@ Non-MIAA opponents and teams without a known division.
 | Grafton | 1585.4 | 49 | unknown |
 | Phillips Andover | 1572.8 | 53 | non-member |
 | St. Paul’s | 1568.7 | 54 | non-member |
-| Hopkinton/Dover-Sherborn | 1558.1 | 56 | unknown |
+| Hopkinton/Dover-Sherborn | 1557.9 | 56 | unknown |
 | ADK United | 1553.9 | 57 | non-member |
 | St. Mark’s | 1542.6 | 59 | non-member |
 | Choate | 1535.5 | 60 | non-member |
@@ -286,9 +286,9 @@ Non-MIAA opponents and teams without a known division.
 | Tabor | 1520.7 | 63 | non-member |
 | Taft | 1514.2 | 65 | non-member |
 | Deerfield | 1508.0 | 66 | non-member |
-| Northfield Mt. Hermon | 1501.7 | 67 | non-member |
+| Millbrook (N.Y.) | 1501.7 | 67 | non-member |
 | Vermont Academy | 1501.7 | 68 | non-member |
-| Millbrook (N.Y.) | 1501.7 | 69 | non-member |
+| Northfield Mt. Hermon | 1501.7 | 69 | non-member |
 | Dexter Southfield | 1475.1 | 71 | non-member |
 | Glens Falls (N.Y.) | 1474.2 | 72 | non-member |
 | Kents Hill | 1469.5 | 74 | non-member |

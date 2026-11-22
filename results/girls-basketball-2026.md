@@ -1,6 +1,6 @@
 # Girls Basketball - 2026 Season
 
-Generated: 2026-11-21 14:53
+Generated: 2026-11-22 14:49
 
 ## Upcoming Games
 
@@ -218,8 +218,8 @@ Generated: 2026-11-21 14:53
 | 200 | St. Thomas More | 1505.6 |
 | 201 | Cape Cod Tech | 1503.5 |
 | 202 | Clinton | 1502.2 |
-| 203 | TechBoston/Henderson Inclusion School | 1501.7 |
-| 204 | Gann Academy | 1501.7 |
+| 203 | Gann Academy | 1501.7 |
+| 204 | TechBoston/Henderson Inclusion School | 1501.7 |
 | 205 | Smith Academy | 1501.4 |
 | 206 | Ethel Walker | 1500.7 |
 | 207 | Beverly | 1498.1 |
@@ -717,7 +717,7 @@ Generated: 2026-11-21 14:53
 | 36 | Nantucket | 1535.3 | 189 |
 | 37 | Lynn Tech | 1522.0 | 193 |
 | 38 | Clinton | 1502.2 | 202 |
-| 39 | TechBoston/Henderson Inclusion School | 1501.7 | 203 |
+| 39 | TechBoston/Henderson Inclusion School | 1501.7 | 204 |
 | 40 | Bromfield | 1458.2 | 244 |
 | 41 | Bourne | 1456.8 | 247 |
 | 42 | Immaculate Heart of Mary | 1456.8 | 248 |
@@ -882,7 +882,7 @@ Non-MIAA opponents and teams without a known division.
 | St. Mark’s | 1518.8 | 196 | non-member |
 | Loomis Chaffee (Conn.) | 1517.6 | 197 | non-member |
 | St. Thomas More | 1505.6 | 200 | non-member |
-| Gann Academy | 1501.7 | 204 | non-member |
+| Gann Academy | 1501.7 | 203 | non-member |
 | Ethel Walker | 1500.7 | 206 | non-member |
 | Lexington Christian | 1497.6 | 208 | non-member |
 | Medgar Evers Prep (N.Y.) | 1494.4 | 210 | non-member |

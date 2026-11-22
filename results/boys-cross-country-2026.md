@@ -1,6 +1,6 @@
 # Boys Cross Country - 2026 Season
 
-Generated: 2026-11-21 14:53
+Generated: 2026-11-22 14:49
 
 ## Upcoming Games
 
@@ -139,19 +139,19 @@ Generated: 2026-11-21 14:53
 | 121 | North Reading | 1506.0 |
 | 122 | Bishop Feehan | 1503.9 |
 | 123 | Melrose | 1503.6 |
-| 124 | Watkinson | 1502.8 |
-| 125 | Tabor | 1502.8 |
-| 126 | Atlantis Charter | 1502.8 |
-| 127 | Greater Lawrence | 1502.8 |
-| 128 | Greater Lowell | 1502.8 |
-| 129 | Minnechaug | 1502.8 |
-| 130 | Amherst-Pelham | 1502.8 |
-| 131 | Longmeadow | 1502.8 |
-| 132 | Wachusett | 1502.8 |
-| 133 | St. Sebastian’s | 1502.8 |
-| 134 | Bridgewater-Raynham | 1502.8 |
-| 135 | Notre Dame (Tyngsborough) | 1502.8 |
-| 136 | Westfield | 1502.8 |
+| 124 | Tabor | 1502.8 |
+| 125 | St. Sebastian’s | 1502.8 |
+| 126 | Watkinson | 1502.8 |
+| 127 | Bridgewater-Raynham | 1502.8 |
+| 128 | Westfield | 1502.8 |
+| 129 | Greater Lowell | 1502.8 |
+| 130 | Longmeadow | 1502.8 |
+| 131 | Atlantis Charter | 1502.8 |
+| 132 | Greater Lawrence | 1502.8 |
+| 133 | Notre Dame (Tyngsborough) | 1502.8 |
+| 134 | Wachusett | 1502.8 |
+| 135 | Amherst-Pelham | 1502.8 |
+| 136 | Minnechaug | 1502.8 |
 | 137 | Milton Academy | 1501.2 |
 | 138 | Walpole | 1494.3 |
 | 139 | Worcester Tech | 1491.0 |
@@ -342,8 +342,8 @@ Generated: 2026-11-21 14:53
 | 39 | Chelmsford | 1512.7 | 118 |
 | 40 | New Bedford | 1512.3 | 119 |
 | 41 | Bishop Feehan | 1503.9 | 122 |
-| 42 | Wachusett | 1502.8 | 132 |
-| 43 | Bridgewater-Raynham | 1502.8 | 134 |
+| 42 | Bridgewater-Raynham | 1502.8 | 127 |
+| 43 | Wachusett | 1502.8 | 134 |
 | 44 | Worcester Tech | 1491.0 | 139 |
 | 45 | North Attleborough | 1480.3 | 142 |
 | 46 | North Quincy/Quincy | 1469.7 | 148 |
@@ -426,11 +426,11 @@ Generated: 2026-11-21 14:53
 | 38 | Bishop Fenwick | 1515.8 | 117 |
 | 39 | North Reading | 1506.0 | 121 |
 | 40 | Melrose | 1503.6 | 123 |
-| 41 | Greater Lawrence | 1502.8 | 127 |
-| 42 | Minnechaug | 1502.8 | 129 |
-| 43 | Amherst-Pelham | 1502.8 | 130 |
-| 44 | Longmeadow | 1502.8 | 131 |
-| 45 | Westfield | 1502.8 | 136 |
+| 41 | Westfield | 1502.8 | 128 |
+| 42 | Longmeadow | 1502.8 | 130 |
+| 43 | Greater Lawrence | 1502.8 | 132 |
+| 44 | Amherst-Pelham | 1502.8 | 135 |
+| 45 | Minnechaug | 1502.8 | 136 |
 | 46 | Walpole | 1494.3 | 138 |
 | 47 | Wayland | 1479.0 | 143 |
 | 48 | Burncoat | 1476.6 | 145 |
@@ -513,9 +513,9 @@ Generated: 2026-11-21 14:53
 | 29 | Abington | 1523.8 | 110 |
 | 30 | Sturgis West | 1515.9 | 116 |
 | 31 | Hampshire | 1510.3 | 120 |
-| 32 | Atlantis Charter | 1502.8 | 126 |
-| 33 | Greater Lowell | 1502.8 | 128 |
-| 34 | Notre Dame (Tyngsborough) | 1502.8 | 135 |
+| 32 | Greater Lowell | 1502.8 | 129 |
+| 33 | Atlantis Charter | 1502.8 | 131 |
+| 34 | Notre Dame (Tyngsborough) | 1502.8 | 133 |
 | 35 | Mystic Valley | 1487.4 | 140 |
 | 36 | Tahanto | 1486.7 | 141 |
 | 37 | Old Colony | 1477.2 | 144 |
@@ -577,9 +577,9 @@ Non-MIAA opponents and teams without a known division.
 | Portsmouth Abbey | 1569.1 | 89 | non-member |
 | Worcester Academy | 1559.0 | 94 | non-member |
 | Middlesex | 1542.6 | 102 | non-member |
-| Watkinson | 1502.8 | 124 | non-member |
-| Tabor | 1502.8 | 125 | non-member |
-| St. Sebastian’s | 1502.8 | 133 | non-member |
+| Tabor | 1502.8 | 124 | non-member |
+| St. Sebastian’s | 1502.8 | 125 | non-member |
+| Watkinson | 1502.8 | 126 | non-member |
 | Milton Academy | 1501.2 | 137 | non-member |
 | Groton | 1474.9 | 146 | non-member |
 | BB&N | 1466.6 | 150 | non-member |
