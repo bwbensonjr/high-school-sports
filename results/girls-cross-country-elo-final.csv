@@ -122,14 +122,14 @@ Holliston,1510.763694743951,4174,120,2,assigned,37
 Bristol-Plymouth,1509.3385727849054,4057,121,2,assigned,38
 Winthrop,1504.961191738236,4437,122,3,assigned,26
 Amherst-Pelham,1502.7555,4008,123,2,assigned,39
-Notre Dame (Worcester),1502.7555,4451,124,2,assigned,40
-Cape Cod Tech,1502.7555,4073,125,3,assigned,27
-Westfield,1502.7555,4419,126,2,assigned,41
-Atlantis Charter,1502.7555,4818,127,3,assigned,28
-Longmeadow,1502.7555,4214,128,2,assigned,42
-Notre Dame (Tyngsborough),1502.7555,4540,129,3,assigned,29
-Wachusett,1502.7555,4400,130,1,assigned,44
-Minnechaug,1502.7555,4254,131,2,assigned,43
+Minnechaug,1502.7555,4254,124,2,assigned,40
+Notre Dame (Worcester),1502.7555,4451,125,2,assigned,41
+Wachusett,1502.7555,4400,126,1,assigned,44
+Notre Dame (Tyngsborough),1502.7555,4540,127,3,assigned,27
+Cape Cod Tech,1502.7555,4073,128,3,assigned,28
+Atlantis Charter,1502.7555,4818,129,3,assigned,29
+Westfield,1502.7555,4419,130,2,assigned,42
+Longmeadow,1502.7555,4214,131,2,assigned,43
 Whittier,1501.9043253769328,4428,132,2,assigned,44
 West Bridgewater,1492.700200672169,4415,133,3,assigned,30
 St. Mark’s,1489.5215002275463,4372,134,,non-member,
@@ -167,8 +167,8 @@ Douglas,1424.6377997960365,4506,165,3,assigned,41
 Natick,1424.2838641770682,4270,166,1,assigned,49
 Tantasqua,1424.0907206022387,4387,167,2,assigned,57
 Leominster,1423.503769288843,4208,168,2,assigned,58
-Renaissance,1420.0090350566688,4664,169,3,assigned,42
-Hudson,1420.0090350566688,4182,170,3,assigned,43
+Hudson,1420.0090350566688,4182,169,3,assigned,42
+Renaissance,1420.0090350566688,4664,170,3,assigned,43
 Shawsheen,1417.1018869655784,4346,171,2,assigned,59
 Revere,1416.068755088549,4329,172,2,assigned,60
 Bridgewater-Raynham,1411.5696383693228,4053,173,1,assigned,50

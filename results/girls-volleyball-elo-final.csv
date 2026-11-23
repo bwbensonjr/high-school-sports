@@ -18,7 +18,7 @@ Barnstable,2146.342449180349,4024,16,2,assigned,3
 Westborough,2121.9004658507206,4418,17,1,assigned,9
 Westford,2087.690879887143,4421,18,1,assigned,10
 Andover,2068.3763177041205,4009,19,1,assigned,11
-King (Conn.),2052.866483153996,4199,20,,non-member,
+King (Conn.),2067.41750597514,4199,20,,non-member,
 Duxbury,2040.0771479663608,4123,21,2,assigned,4
 Reading,2038.012996409432,4328,22,2,assigned,5
 Longmeadow,2024.5376320089667,4214,23,2,assigned,6
@@ -42,13 +42,13 @@ Nipmuc,1888.7841985788214,4281,40,4,assigned,4
 Hopkinton,1882.6763163967987,4180,41,1,assigned,17
 Ursuline,1876.0062478203322,4448,42,4,assigned,5
 Acton-Boxborough,1871.3310580665816,4003,43,1,assigned,18
-Taunton,1858.417028564198,4388,44,1,assigned,19
-Dartmouth,1852.8646886121232,4105,45,2,assigned,10
-Essex Tech,1850.035888270754,4745,46,2,assigned,11
-Lenox,1849.2582337217182,4532,47,5,assigned,4
-Groton,1844.94221040969,4544,48,,non-member,
-Groton-Dunstable,1844.732656211763,4160,49,3,assigned,7
-Hamden Hall Country Day,1839.3611980483493,4162,50,,non-member,
+Groton,1871.2502949430384,4544,44,,non-member,
+Hamden Hall Country Day,1869.1785049163407,4162,45,,non-member,
+Taunton,1858.417028564198,4388,46,1,assigned,19
+Dartmouth,1852.8646886121232,4105,47,2,assigned,10
+Essex Tech,1850.035888270754,4745,48,2,assigned,11
+Lenox,1849.2582337217182,4532,49,5,assigned,4
+Groton-Dunstable,1844.732656211763,4160,50,3,assigned,7
 Old Colony,1839.1655484814655,4300,51,5,assigned,5
 Cambridge,1831.7450523198722,4067,52,1,assigned,20
 Hamilton-Wenham,1830.0513498795117,4163,53,4,assigned,6
@@ -82,50 +82,50 @@ Greater New Bedford,1719.5689759158502,4156,80,3,assigned,14
 Marshfield,1716.5582842038723,4234,81,2,assigned,22
 Bridgewater-Raynham,1715.6316823801203,4053,82,1,assigned,27
 Burlington,1714.6813622376446,4065,83,2,assigned,23
-Worcester Academy,1711.0259022877801,4441,84,,non-member,
-Lee,1706.7943832727549,4206,85,5,assigned,8
-Notre Dame Academy-Worcester,1703.3311836161301,4451,86,3,assigned,15
-Lexington,1700.1102820406309,4209,87,1,assigned,28
-Springfield Central,1698.8803184917037,4360,88,1,assigned,29
-Renaissance,1696.6467594616656,4664,89,5,assigned,9
-Covenant Christian,1695.6976440307246,4629,90,,non-member,
-Loomis Chaffee (Conn.),1690.3306773200331,4215,91,,non-member,
-Franklin County Tech,1688.0032519664987,4145,92,5,assigned,10
-Mt. Greylock,1687.1025194857007,4262,93,4,assigned,9
-Archbishop Williams,1685.024196151509,4012,94,2,assigned,24
-Tri-County,1682.3458810363254,4392,95,4,assigned,10
-Greenwich CD (Conn.),1679.4939626338537,5041,96,,non-member,
-Baystate Academy,1677.3059966548042,4846,97,5,assigned,11
-Whitinsville Christian,1674.6939362169269,4487,98,5,assigned,12
-Smith Voc.,1674.2447384106063,4539,99,5,assigned,13
-Holbrook,1673.3541050320864,4172,100,5,assigned,14
+Lee,1706.7943832727549,4206,84,5,assigned,8
+Notre Dame Academy-Worcester,1703.3311836161301,4451,85,3,assigned,15
+Lexington,1700.1102820406309,4209,86,1,assigned,28
+Springfield Central,1698.8803184917037,4360,87,1,assigned,29
+Renaissance,1696.6467594616656,4664,88,5,assigned,9
+Franklin County Tech,1688.0032519664987,4145,89,5,assigned,10
+Mt. Greylock,1687.1025194857007,4262,90,4,assigned,9
+Archbishop Williams,1685.024196151509,4012,91,2,assigned,24
+Worcester Academy,1684.7178177544317,4441,92,,non-member,
+Tri-County,1682.3458810363254,4392,93,4,assigned,10
+Greenwich CD (Conn.),1679.4939626338537,5041,94,,non-member,
+Baystate Academy,1677.3059966548042,4846,95,5,assigned,11
+Loomis Chaffee (Conn.),1675.779654498889,4215,96,,non-member,
+Whitinsville Christian,1674.6939362169269,4487,97,5,assigned,12
+Smith Voc.,1674.2447384106063,4539,98,5,assigned,13
+Holbrook,1673.3541050320864,4172,99,5,assigned,14
+Albany Academy,1669.6093245895086,4623,100,,non-member,
 Mahar,1659.3297132086357,4226,101,5,assigned,15
 Holliston,1648.4242582665568,4174,102,2,assigned,25
 Medway,1647.9533533940578,4243,103,3,assigned,16
 Pioneer Charter II,1646.5015927903764,4964,104,5,assigned,16
-Notre Dame (Hingham),1641.7799325299832,4449,105,2,assigned,26
-East Longmeadow,1631.1479536589181,4127,106,3,assigned,17
-St. Mary’s,1628.2713144774905,4374,107,3,assigned,18
-Somerville,1627.6044698033509,4351,108,2,assigned,27
-Silver Lake,1626.5769516281318,4349,109,2,assigned,28
-St. Luke’s,1625.6809619132753,4618,110,,non-member,
+Covenant Christian,1645.0723985716695,4629,105,,non-member,
+Notre Dame (Hingham),1641.7799325299832,4449,106,2,assigned,26
+East Longmeadow,1631.1479536589181,4127,107,3,assigned,17
+St. Mary’s,1628.2713144774905,4374,108,3,assigned,18
+Somerville,1627.6044698033509,4351,109,2,assigned,27
+Silver Lake,1626.5769516281318,4349,110,2,assigned,28
 Hopedale,1619.6450363944318,4507,111,5,assigned,17
-Albany Academy,1618.9840791304534,4623,112,,non-member,
-West Bridgewater,1616.978485670684,4415,113,4,assigned,11
-Brighton,1616.217618188903,4055,114,5,assigned,18
-Ipswich,1613.3209122024275,4190,115,4,assigned,12
-Dennis-Yarmouth,1609.944872418935,4111,116,3,assigned,19
-Upper Cape,1609.5275611960067,4457,117,5,assigned,19
-Abington,1608.7303507336626,4002,118,4,assigned,13
-Phillips Exeter,1608.4225839142032,4311,119,,non-member,
-Prospect Hill,1607.7755525962455,4593,120,5,assigned,20
-Dearborn STEM,1606.7190619532532,5016,121,5,assigned,21
-Wilbraham & Monson,1603.2787717459914,4545,122,,non-member,
-Medfield,1602.5120627659812,4241,123,3,assigned,20
-Christian Heritage,1601.732566021509,4641,124,,non-member,
-Berwick,1599.5935929339867,4037,125,,non-member,
-North Andover,1599.1532547997756,4283,126,1,assigned,30
-North Reading,1599.1285181854041,4288,127,3,assigned,21
+West Bridgewater,1616.978485670684,4415,112,4,assigned,11
+Brighton,1616.217618188903,4055,113,5,assigned,18
+Ipswich,1613.3209122024275,4190,114,4,assigned,12
+Dennis-Yarmouth,1609.944872418935,4111,115,3,assigned,19
+Upper Cape,1609.5275611960067,4457,116,5,assigned,19
+Abington,1608.7303507336626,4002,117,4,assigned,13
+Phillips Exeter,1608.4225839142032,4311,118,,non-member,
+Prospect Hill,1607.7755525962455,4593,119,5,assigned,20
+Dearborn STEM,1606.7190619532532,5016,120,5,assigned,21
+Wilbraham & Monson,1603.2787717459914,4545,121,,non-member,
+Medfield,1602.5120627659812,4241,122,3,assigned,20
+Christian Heritage,1601.732566021509,4641,123,,non-member,
+Berwick,1599.5935929339867,4037,124,,non-member,
+North Andover,1599.1532547997756,4283,125,1,assigned,30
+North Reading,1599.1285181854041,4288,126,3,assigned,21
+St. Luke’s,1595.8636550452838,4618,127,,non-member,
 Dracut,1589.9258871665845,4119,128,3,assigned,22
 Marlborough,1587.9864684246093,4233,129,3,assigned,23
 St. Paul’s,1585.7610825422062,4375,130,,non-member,
@@ -175,11 +175,11 @@ Westport,1509.0007725086527,4461,173,4,assigned,20
 Chicopee Comprehensive,1507.9929169184616,4089,174,2,assigned,36
 Algonquin,1507.0359742977348,4005,175,1,assigned,35
 Chicopee,1504.6748406667975,4088,176,3,assigned,30
-Dublin,1501.65,4121,177,,non-member,
-Northfield Mt. Hermon,1501.65,4294,178,,non-member,
+South Shore Christian,1501.65,4489,177,,non-member,
+Fellowship Christian,1501.65,4454,178,,non-member,
 Trinity Christian,1501.65,4801,179,,non-member,
-South Shore Christian,1501.65,4489,180,,non-member,
-Fellowship Christian,1501.65,4454,181,,non-member,
+Northfield Mt. Hermon,1501.65,4294,180,,non-member,
+Dublin,1501.65,4121,181,,non-member,
 Quincy,1499.433751339028,4326,182,1,assigned,36
 Beaver Country Day,1494.766304372628,4030,183,,non-member,
 Ludlow,1493.9452161603658,4218,184,3,assigned,31

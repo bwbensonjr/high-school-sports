@@ -1,6 +1,6 @@
 # Boys Lacrosse - 2026 Season
 
-Generated: 2026-11-22 14:49
+Generated: 2026-11-23 18:40
 
 ## Upcoming Games
 
@@ -161,8 +161,8 @@ Generated: 2026-11-22 14:49
 | 143 | Melrose | 1508.7 |
 | 144 | Xaverian | 1501.7 |
 | 145 | Everett | 1500.0 |
-| 146 | Latin Academy | 1500.0 |
-| 147 | Bourne | 1500.0 |
+| 146 | Bourne | 1500.0 |
+| 147 | Latin Academy | 1500.0 |
 | 148 | St. Anthony’s (N.Y.) | 1500.0 |
 | 149 | Mashpee | 1500.0 |
 | 150 | Bancroft | 1499.6 |
@@ -505,7 +505,7 @@ Generated: 2026-11-22 14:49
 | 14 | Hoosac Valley | 1567.5 | 111 |
 | 15 | Sandwich | 1559.0 | 119 |
 | 16 | Monson | 1557.7 | 120 |
-| 17 | Bourne | 1500.0 | 147 |
+| 17 | Bourne | 1500.0 | 146 |
 | 18 | Mashpee | 1500.0 | 149 |
 | 19 | Nipmuc | 1492.8 | 153 |
 | 20 | South Hadley | 1463.1 | 166 |
@@ -583,7 +583,7 @@ Non-MIAA opponents and teams without a known division.
 | Tilton | 1523.0 | 137 | non-member |
 | Providence Country Day | 1520.8 | 138 | non-member |
 | Everett | 1500.0 | 145 | unknown |
-| Latin Academy | 1500.0 | 146 | unknown |
+| Latin Academy | 1500.0 | 147 | unknown |
 | St. Anthony’s (N.Y.) | 1500.0 | 148 | non-member |
 | Bancroft | 1499.6 | 150 | non-member |
 | Ward Melville (N.Y.) | 1489.2 | 154 | non-member |

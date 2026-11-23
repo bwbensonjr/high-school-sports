@@ -1,6 +1,6 @@
 # Boys Hockey - 2026 Season
 
-Generated: 2026-11-22 14:49
+Generated: 2026-11-23 18:40
 
 ## Upcoming Games
 
@@ -135,8 +135,8 @@ Generated: 2026-11-22 14:49
 | 117 | Northeast | 1502.8 |
 | 118 | Lynnfield | 1502.5 |
 | 119 | Fairfield Prep (Conn.) | 1502.1 |
-| 120 | Darien (Conn.) | 1501.7 |
-| 121 | Timberlane (N.H.) | 1501.7 |
+| 120 | Timberlane (N.H.) | 1501.7 |
+| 121 | Darien (Conn.) | 1501.7 |
 | 122 | Dartmouth | 1500.0 |
 | 123 | Rockland | 1496.5 |
 | 124 | Waltham | 1495.8 |
@@ -174,8 +174,8 @@ Generated: 2026-11-22 14:49
 | 156 | Scarborough (Maine) | 1444.6 |
 | 157 | St. Paul’s | 1442.5 |
 | 158 | Stanstead (Canada) | 1440.3 |
-| 159 | La Salle (R.I.) | 1440.3 |
-| 160 | Loomis Chaffee (Conn.) | 1440.3 |
+| 159 | Loomis Chaffee (Conn.) | 1440.3 |
+| 160 | La Salle (R.I.) | 1440.3 |
 | 161 | North Andover | 1436.1 |
 | 162 | Academie Saint-Louis (Que.) | 1430.4 |
 | 163 | Nobles | 1429.3 |
@@ -512,8 +512,8 @@ Non-MIAA opponents and teams without a known division.
 | Canterbury | 1528.1 | 111 | non-member |
 | Deerfield | 1525.0 | 112 | non-member |
 | Fairfield Prep (Conn.) | 1502.1 | 119 | non-member |
-| Darien (Conn.) | 1501.7 | 120 | non-member |
-| Timberlane (N.H.) | 1501.7 | 121 | non-member |
+| Timberlane (N.H.) | 1501.7 | 120 | non-member |
+| Darien (Conn.) | 1501.7 | 121 | non-member |
 | Berwick | 1489.8 | 127 | non-member |
 | Brunswick | 1484.9 | 129 | non-member |
 | Nichols (N.Y.) | 1481.9 | 130 | non-member |
@@ -535,8 +535,8 @@ Non-MIAA opponents and teams without a known division.
 | Scarborough (Maine) | 1444.6 | 156 | non-member |
 | St. Paul’s | 1442.5 | 157 | non-member |
 | Stanstead (Canada) | 1440.3 | 158 | non-member |
-| La Salle (R.I.) | 1440.3 | 159 | non-member |
-| Loomis Chaffee (Conn.) | 1440.3 | 160 | non-member |
+| Loomis Chaffee (Conn.) | 1440.3 | 159 | non-member |
+| La Salle (R.I.) | 1440.3 | 160 | non-member |
 | Academie Saint-Louis (Que.) | 1430.4 | 162 | non-member |
 | Nobles | 1429.3 | 163 | non-member |
 | Harvey (N.Y.) | 1428.3 | 166 | non-member |

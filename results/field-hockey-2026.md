@@ -1,19 +1,19 @@
 # Field Hockey - 2026 Season
 
-Generated: 2026-11-22 14:49
+Generated: 2026-11-23 18:40
 
 ## Upcoming Games
 
-| Date | Time | Home Team | Away Team | Home Win % | Predicted Spread |
-|------|------|-----------|-----------|------------|------------------|
-| 2026-11-22 | 1:30 P.M. | Phillips Andover | Deerfield | 91.1% | +2.9 |
-| 2026-11-22 | 10:00 A.M. | Berkshire | Middlesex | 15.8% | -2.1 |
-| 2026-11-22 | 11:45 P.M. | King (Conn.) | New Hampton | 27.4% | -1.2 |
+*No upcoming games scheduled*
+
 
 ## Recent Games
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
+| 2026-11-22 | King (Conn.) | 0 | New Hampton | 1 | -1.2 | -1.0 |
+| 2026-11-22 | Berkshire | 1 | Middlesex | 2 | -2.1 | -1.0 |
+| 2026-11-22 | Phillips Andover | 4 | Deerfield | 0 | +2.9 | +4.0 |
 | 2026-11-21 | Portsmouth Abbey | 2 | New Hampton | 3 | -0.2 | -1.0 |
 | 2026-11-21 | King (Conn.) | 1 | Frederick Gunn (Conn.) | 0 | +0.5 | +1.0 |
 | 2026-11-21 | Middlesex | 4 | Brooks | 1 | +1.6 | +3.0 |
@@ -24,11 +24,11 @@ Generated: 2026-11-22 14:49
 | 2026-11-21 | Uxbridge | 3 | Watertown | 1 | +1.7 | +2.0 |
 | 2026-11-21 | Somerset Berkley | 5 | Nashoba | 4 | +0.8 | +1.0 |
 | 2026-11-21 | Lincoln-Sudbury | 2 | Franklin | 3 | +0.8 | -1.0 |
-| 2026-11-18 | Middlesex | 6 | Greens Farms | 2 | +1.6 | +4.0 |
+| 2026-11-18 | Montrose | 1 | Frederick Gunn (Conn.) | 5 | +0.7 | -4.0 |
 | 2026-11-18 | Portsmouth Abbey | 11 | Rocky Hill Country Day | 0 | +0.6 | +11.0 |
 | 2026-11-18 | New Hampton | 2 | Holderness | 1 | +2.2 | +1.0 |
-| 2026-11-18 | Montrose | 1 | Frederick Gunn (Conn.) | 5 | +0.7 | -4.0 |
 | 2026-11-18 | King (Conn.) | 8 | Kents Hill | 0 | +2.1 | +8.0 |
+| 2026-11-18 | Middlesex | 6 | Greens Farms | 2 | +1.6 | +4.0 |
 | 2026-11-18 | Williston Northampton | 1 | Brooks | 2 | +2.0 | -1.0 |
 | 2026-11-18 | Governor’s Academy | 4 | Rivers | 0 | -0.1 | +4.0 |
 | 2026-11-18 | Berkshire | 3 | Pingree | 0 | -3.1 | +3.0 |
@@ -41,11 +41,9 @@ Generated: 2026-11-22 14:49
 | 2026-11-18 | Canton | 1 | Somerset Berkley | 3 | +0.1 | -2.0 |
 | 2026-11-18 | Lincoln-Sudbury | 3 | Acton-Boxborough | 1 | +0.2 | +2.0 |
 | 2026-11-18 | Franklin | 1 | Belmont | 0 | -0.1 | +1.0 |
-| 2026-11-17 | Sandwich | 0 | Watertown | 1 | +1.4 | -1.0 |
 | 2026-11-17 | Uxbridge | 3 | Dover-Sherborn | 1 | +2.8 | +2.0 |
+| 2026-11-17 | Sandwich | 0 | Watertown | 1 | +1.4 | -1.0 |
 | 2026-11-17 | Nashoba | 2 | Westwood | 0 | +2.0 | +2.0 |
-| 2026-11-15 | Frontier | 2 | Quabbin | 0 | +0.7 | +2.0 |
-| 2026-11-15 | Monomoy | 1 | Hopedale | 2 | -0.6 | -1.0 |
 
 ## Current Elo Ratings
 
@@ -68,9 +66,9 @@ Generated: 2026-11-22 14:49
 | 15 | East Longmeadow | 2131.3 |
 | 16 | Andover | 2130.5 |
 | 17 | Hopedale | 2125.0 |
-| 18 | Hingham | 2107.7 |
-| 19 | Frontier | 2104.7 |
-| 20 | Phillips Andover | 2100.8 |
+| 18 | Phillips Andover | 2118.0 |
+| 19 | Hingham | 2107.7 |
+| 20 | Frontier | 2104.7 |
 | 21 | Gloucester | 2085.7 |
 | 22 | King Philip | 2079.3 |
 | 23 | Moses Brown (R.I.) | 2016.9 |
@@ -97,11 +95,11 @@ Generated: 2026-11-22 14:49
 | 44 | Medfield | 1869.8 |
 | 45 | Concord-Carlisle | 1849.2 |
 | 46 | Narragansett | 1846.3 |
-| 47 | Middlesex | 1815.6 |
-| 48 | South Hadley | 1812.1 |
-| 49 | Beverly | 1806.5 |
-| 50 | Belchertown | 1803.9 |
-| 51 | New Hampton | 1798.6 |
+| 47 | Middlesex | 1828.8 |
+| 48 | New Hampton | 1821.4 |
+| 49 | South Hadley | 1812.1 |
+| 50 | Beverly | 1806.5 |
+| 51 | Belchertown | 1803.9 |
 | 52 | Waltham | 1798.3 |
 | 53 | Marlborough | 1794.9 |
 | 54 | Dedham | 1792.5 |
@@ -117,10 +115,10 @@ Generated: 2026-11-22 14:49
 | 64 | St. Bernard’s | 1705.7 |
 | 65 | Williston Northampton | 1705.1 |
 | 66 | Greenwich Academy (Conn.) | 1697.5 |
-| 67 | Deerfield | 1696.0 |
-| 68 | Lynnfield | 1692.3 |
-| 69 | Nipmuc | 1684.8 |
-| 70 | Westport | 1679.3 |
+| 67 | Lynnfield | 1692.3 |
+| 68 | Nipmuc | 1684.8 |
+| 69 | Westport | 1679.3 |
+| 70 | Deerfield | 1678.9 |
 | 71 | Governor’s Academy | 1672.6 |
 | 72 | Lexington | 1672.3 |
 | 73 | Nobles | 1666.9 |
@@ -136,18 +134,18 @@ Generated: 2026-11-22 14:49
 | 83 | Thayer | 1631.5 |
 | 84 | Mansfield | 1629.8 |
 | 85 | Minnechaug | 1629.6 |
-| 86 | King (Conn.) | 1629.5 |
-| 87 | Ashland | 1628.9 |
-| 88 | Nantucket | 1627.6 |
-| 89 | Danvers | 1626.5 |
-| 90 | Sacred Heart (Conn.) | 1625.3 |
-| 91 | Lowell | 1624.5 |
-| 92 | West Springfield | 1623.0 |
-| 93 | Hopkinton | 1619.4 |
-| 94 | BB&N | 1609.5 |
-| 95 | Ursuline | 1608.6 |
-| 96 | Shrewsbury | 1607.5 |
-| 97 | Oakmont | 1607.3 |
+| 86 | Ashland | 1628.9 |
+| 87 | Nantucket | 1627.6 |
+| 88 | Danvers | 1626.5 |
+| 89 | Sacred Heart (Conn.) | 1625.3 |
+| 90 | Lowell | 1624.5 |
+| 91 | West Springfield | 1623.0 |
+| 92 | Hopkinton | 1619.4 |
+| 93 | BB&N | 1609.5 |
+| 94 | Ursuline | 1608.6 |
+| 95 | Shrewsbury | 1607.5 |
+| 96 | Oakmont | 1607.3 |
+| 97 | King (Conn.) | 1606.7 |
 | 98 | Rivers | 1605.0 |
 | 99 | Wachusett | 1603.9 |
 | 100 | St. Paul | 1601.0 |
@@ -173,9 +171,9 @@ Generated: 2026-11-22 14:49
 | 120 | Frederick Gunn (Conn.) | 1547.5 |
 | 121 | Concord Academy | 1533.8 |
 | 122 | Newton Country Day | 1533.5 |
-| 123 | Berkshire | 1525.5 |
-| 124 | Greens Farms | 1523.2 |
-| 125 | Woburn | 1518.7 |
+| 123 | Greens Farms | 1523.2 |
+| 124 | Woburn | 1518.7 |
+| 125 | Berkshire | 1512.3 |
 | 126 | Choate | 1509.5 |
 | 127 | Lawrence | 1506.7 |
 | 128 | Tyngsborough/Dracut | 1506.1 |
@@ -183,8 +181,8 @@ Generated: 2026-11-22 14:49
 | 130 | Marshfield | 1503.1 |
 | 131 | Westfield | 1502.4 |
 | 132 | Tahanto | 1501.8 |
-| 133 | Hamden Hall Country Day | 1501.0 |
-| 134 | Ciciro-North Syracuse (N.Y.) | 1501.0 |
+| 133 | Ciciro-North Syracuse (N.Y.) | 1501.0 |
+| 134 | Hamden Hall Country Day | 1501.0 |
 | 135 | Tabor | 1500.8 |
 | 136 | Marblehead | 1499.7 |
 | 137 | Beaver Country Day | 1498.9 |
@@ -358,19 +356,19 @@ Generated: 2026-11-22 14:49
 | 9 | Wellesley | 1899.2 | 39 |
 | 10 | Attleboro | 1897.3 | 40 |
 | 11 | Concord-Carlisle | 1849.2 | 45 |
-| 12 | Beverly | 1806.5 | 49 |
+| 12 | Beverly | 1806.5 | 50 |
 | 13 | Waltham | 1798.3 | 52 |
 | 14 | Bishop Feehan | 1728.4 | 59 |
 | 15 | Lexington | 1672.3 | 72 |
 | 16 | Algonquin | 1662.3 | 75 |
-| 17 | Lowell | 1624.5 | 91 |
-| 18 | Hopkinton | 1619.4 | 93 |
-| 19 | Shrewsbury | 1607.5 | 96 |
+| 17 | Lowell | 1624.5 | 90 |
+| 18 | Hopkinton | 1619.4 | 92 |
+| 19 | Shrewsbury | 1607.5 | 95 |
 | 20 | Wachusett | 1603.9 | 99 |
 | 21 | Chelmsford | 1588.8 | 104 |
 | 22 | Brookline | 1587.8 | 105 |
 | 23 | North Andover | 1569.6 | 112 |
-| 24 | Woburn | 1518.7 | 125 |
+| 24 | Woburn | 1518.7 | 124 |
 | 25 | Central Catholic | 1474.9 | 148 |
 | 26 | Braintree | 1468.9 | 152 |
 | 27 | Methuen | 1381.9 | 189 |
@@ -398,7 +396,7 @@ Generated: 2026-11-22 14:49
 | 1 | Somerset Berkley | 2435.5 | 3 |
 | 2 | Canton | 2287.1 | 8 |
 | 3 | Nashoba | 2267.4 | 10 |
-| 4 | Hingham | 2107.7 | 18 |
+| 4 | Hingham | 2107.7 | 19 |
 | 5 | King Philip | 2079.3 | 22 |
 | 6 | Milton | 1982.7 | 25 |
 | 7 | Westwood | 1977.5 | 26 |
@@ -415,8 +413,8 @@ Generated: 2026-11-22 14:49
 | 18 | Dartmouth | 1653.6 | 77 |
 | 19 | Mansfield | 1629.8 | 84 |
 | 20 | Minnechaug | 1629.6 | 85 |
-| 21 | Ashland | 1628.9 | 87 |
-| 22 | West Springfield | 1623.0 | 92 |
+| 21 | Ashland | 1628.9 | 86 |
+| 22 | West Springfield | 1623.0 | 91 |
 | 23 | Bedford | 1562.5 | 115 |
 | 24 | Masconomet | 1558.0 | 116 |
 | 25 | Marshfield | 1503.1 | 130 |
@@ -466,20 +464,20 @@ Generated: 2026-11-22 14:49
 | 8 | Medway | 1912.2 | 37 |
 | 9 | St. Mary’s | 1874.0 | 42 |
 | 10 | Medfield | 1869.8 | 44 |
-| 11 | Belchertown | 1803.9 | 50 |
+| 11 | Belchertown | 1803.9 | 51 |
 | 12 | Dedham | 1792.5 | 54 |
 | 13 | Scituate | 1789.3 | 55 |
 | 14 | Falmouth | 1736.4 | 58 |
 | 15 | St. Bernard’s | 1705.7 | 64 |
-| 16 | Lynnfield | 1692.3 | 68 |
+| 16 | Lynnfield | 1692.3 | 67 |
 | 17 | Weston | 1656.6 | 76 |
 | 18 | Blackstone Valley | 1647.7 | 79 |
 | 19 | Apponequet | 1632.9 | 81 |
 | 20 | Notre Dame (Worcester) | 1632.4 | 82 |
-| 21 | Nantucket | 1627.6 | 88 |
-| 22 | Danvers | 1626.5 | 89 |
-| 23 | Ursuline | 1608.6 | 95 |
-| 24 | Oakmont | 1607.3 | 97 |
+| 21 | Nantucket | 1627.6 | 87 |
+| 22 | Danvers | 1626.5 | 88 |
+| 23 | Ursuline | 1608.6 | 94 |
+| 24 | Oakmont | 1607.3 | 96 |
 | 25 | Bishop Fenwick | 1577.6 | 109 |
 | 26 | Tantasqua | 1565.7 | 113 |
 | 27 | Nauset | 1563.8 | 114 |
@@ -521,7 +519,7 @@ Generated: 2026-11-22 14:49
 | 1 | Cohasset | 2336.3 | 7 |
 | 2 | Dennis-Yarmouth | 2223.7 | 13 |
 | 3 | Hopedale | 2125.0 | 17 |
-| 4 | Frontier | 2104.7 | 19 |
+| 4 | Frontier | 2104.7 | 20 |
 | 5 | Quabbin | 1998.1 | 24 |
 | 6 | Monomoy | 1974.7 | 27 |
 | 7 | Sutton | 1954.8 | 30 |
@@ -529,10 +527,10 @@ Generated: 2026-11-22 14:49
 | 9 | West Bridgewater | 1933.5 | 33 |
 | 10 | Ipswich | 1871.3 | 43 |
 | 11 | Narragansett | 1846.3 | 46 |
-| 12 | South Hadley | 1812.1 | 48 |
+| 12 | South Hadley | 1812.1 | 49 |
 | 13 | Northbridge | 1712.6 | 63 |
-| 14 | Nipmuc | 1684.8 | 69 |
-| 15 | Westport | 1679.3 | 70 |
+| 14 | Nipmuc | 1684.8 | 68 |
+| 15 | Westport | 1679.3 | 69 |
 | 16 | Lunenburg | 1652.6 | 78 |
 | 17 | St. Paul | 1601.0 | 100 |
 | 18 | East Bridgewater | 1555.7 | 118 |
@@ -577,22 +575,22 @@ Non-MIAA opponents and teams without a known division.
 
 | Team | Elo Rating | Overall Rank | Status |
 |------|------------|--------------|--------|
-| Phillips Andover | 2100.8 | 20 | non-member |
+| Phillips Andover | 2118.0 | 18 | non-member |
 | Moses Brown (R.I.) | 2016.9 | 23 | non-member |
-| Middlesex | 1815.6 | 47 | non-member |
-| New Hampton | 1798.6 | 51 | non-member |
+| Middlesex | 1828.8 | 47 | non-member |
+| New Hampton | 1821.4 | 48 | non-member |
 | Cushing | 1750.5 | 57 | non-member |
 | Williston Northampton | 1705.1 | 65 | non-member |
 | Greenwich Academy (Conn.) | 1697.5 | 66 | non-member |
-| Deerfield | 1696.0 | 67 | non-member |
+| Deerfield | 1678.9 | 70 | non-member |
 | Governor’s Academy | 1672.6 | 71 | non-member |
 | Nobles | 1666.9 | 73 | non-member |
 | Hotchkiss | 1665.9 | 74 | non-member |
 | Portsmouth Abbey | 1638.3 | 80 | non-member |
 | Thayer | 1631.5 | 83 | non-member |
-| King (Conn.) | 1629.5 | 86 | non-member |
-| Sacred Heart (Conn.) | 1625.3 | 90 | non-member |
-| BB&N | 1609.5 | 94 | non-member |
+| Sacred Heart (Conn.) | 1625.3 | 89 | non-member |
+| BB&N | 1609.5 | 93 | non-member |
+| King (Conn.) | 1606.7 | 97 | non-member |
 | Rivers | 1605.0 | 98 | non-member |
 | Taft | 1595.5 | 101 | non-member |
 | Glastonbury (Conn.) | 1595.2 | 102 | non-member |
@@ -607,13 +605,13 @@ Non-MIAA opponents and teams without a known division.
 | Frederick Gunn (Conn.) | 1547.5 | 120 | non-member |
 | Concord Academy | 1533.8 | 121 | non-member |
 | Newton Country Day | 1533.5 | 122 | non-member |
-| Berkshire | 1525.5 | 123 | non-member |
-| Greens Farms | 1523.2 | 124 | non-member |
+| Greens Farms | 1523.2 | 123 | non-member |
+| Berkshire | 1512.3 | 125 | non-member |
 | Choate | 1509.5 | 126 | non-member |
 | Lawrence | 1506.7 | 127 | unknown |
 | Loomis Chaffee (Conn.) | 1503.8 | 129 | non-member |
-| Hamden Hall Country Day | 1501.0 | 133 | non-member |
-| Ciciro-North Syracuse (N.Y.) | 1501.0 | 134 | non-member |
+| Ciciro-North Syracuse (N.Y.) | 1501.0 | 133 | non-member |
+| Hamden Hall Country Day | 1501.0 | 134 | non-member |
 | Tabor | 1500.8 | 135 | non-member |
 | Beaver Country Day | 1498.9 | 137 | non-member |
 | Milton Academy | 1498.4 | 138 | non-member |
