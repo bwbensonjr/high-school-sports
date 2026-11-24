@@ -1,6 +1,6 @@
 # Softball - 2026 Season
 
-Generated: 2026-11-23 18:41
+Generated: 2026-11-24 18:10
 
 ## Upcoming Games
 
@@ -183,11 +183,11 @@ Generated: 2026-11-23 18:41
 | 165 | Austin Prep | 1507.3 |
 | 166 | Whitman-Hanson | 1506.1 |
 | 167 | Westfield Tech/St. Mary (Westfield) | 1502.7 |
-| 168 | Dover-Sherborn | 1500.0 |
-| 169 | Woodward | 1500.0 |
-| 170 | St. John Paul II | 1500.0 |
-| 171 | Tiverton (R.I.) | 1500.0 |
-| 172 | Prospect Hill | 1500.0 |
+| 168 | St. John Paul II | 1500.0 |
+| 169 | Prospect Hill | 1500.0 |
+| 170 | Tiverton (R.I.) | 1500.0 |
+| 171 | Dover-Sherborn | 1500.0 |
+| 172 | Woodward | 1500.0 |
 | 173 | Mt. Greylock | 1499.1 |
 | 174 | Smith/PV Chinese | 1498.5 |
 | 175 | Ayer Shirley | 1498.5 |
@@ -539,7 +539,7 @@ Generated: 2026-11-23 18:41
 | 32 | Medfield | 1535.8 | 140 |
 | 33 | Nipmuc | 1532.9 | 141 |
 | 34 | Belchertown | 1516.6 | 152 |
-| 35 | Dover-Sherborn | 1500.0 | 168 |
+| 35 | Dover-Sherborn | 1500.0 | 171 |
 | 36 | Groton-Dunstable | 1496.3 | 177 |
 | 37 | Notre Dame Academy-Worcester | 1495.5 | 180 |
 | 38 | Lynnfield | 1486.2 | 191 |
@@ -614,7 +614,7 @@ Generated: 2026-11-23 18:41
 | 26 | St. Bernard’s | 1513.7 | 157 |
 | 27 | Easthampton | 1511.8 | 160 |
 | 28 | Sturgis | 1510.3 | 161 |
-| 29 | St. John Paul II | 1500.0 | 170 |
+| 29 | St. John Paul II | 1500.0 | 168 |
 | 30 | Mt. Greylock | 1499.1 | 173 |
 | 31 | Ayer Shirley | 1498.5 | 175 |
 | 32 | Ipswich | 1495.9 | 178 |
@@ -739,9 +739,9 @@ Non-MIAA opponents and teams without a known division.
 | St. Paul’s | 1515.4 | 155 | non-member |
 | Londonderry (N.H.) | 1513.6 | 158 | non-member |
 | Austin Prep | 1507.3 | 165 | non-member |
-| Woodward | 1500.0 | 169 | non-member |
-| Tiverton (R.I.) | 1500.0 | 171 | non-member |
-| Prospect Hill | 1500.0 | 172 | unknown |
+| Prospect Hill | 1500.0 | 169 | unknown |
+| Tiverton (R.I.) | 1500.0 | 170 | non-member |
+| Woodward | 1500.0 | 172 | non-member |
 | Choate | 1491.8 | 183 | non-member |
 | Mount St. Charles (R.I.) | 1489.0 | 187 | non-member |
 | Mount Anthony (Vt.) | 1488.6 | 188 | non-member |

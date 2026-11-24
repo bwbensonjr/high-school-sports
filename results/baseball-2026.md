@@ -1,6 +1,6 @@
 # Baseball - 2026 Season
 
-Generated: 2026-11-23 18:40
+Generated: 2026-11-24 18:09
 
 ## Upcoming Games
 
@@ -197,13 +197,13 @@ Generated: 2026-11-23 18:40
 | 179 | Maimonides | 1502.7 |
 | 180 | Norton | 1500.7 |
 | 181 | North Andover | 1500.4 |
-| 182 | Cape Cod Academy | 1500.0 |
-| 183 | Cristo Rey | 1500.0 |
-| 184 | Sturgis East | 1500.0 |
-| 185 | KIPP | 1500.0 |
-| 186 | Portsmouth (R.I.) | 1500.0 |
+| 182 | Portsmouth (R.I.) | 1500.0 |
+| 183 | Sturgis East | 1500.0 |
+| 184 | Cristo Rey | 1500.0 |
+| 185 | South Shore Christian | 1500.0 |
+| 186 | KIPP | 1500.0 |
 | 187 | Londonderry (N.H.) | 1500.0 |
-| 188 | South Shore Christian | 1500.0 |
+| 188 | Cape Cod Academy | 1500.0 |
 | 189 | Upper Cape | 1500.0 |
 | 190 | Pembroke | 1498.2 |
 | 191 | Canton | 1497.5 |
@@ -630,7 +630,7 @@ Generated: 2026-11-23 18:40
 | 28 | Sutton | 1509.0 | 175 |
 | 29 | Hampshire | 1505.8 | 178 |
 | 30 | Maimonides | 1502.7 | 179 |
-| 31 | Cape Cod Academy | 1500.0 | 182 |
+| 31 | Cape Cod Academy | 1500.0 | 188 |
 | 32 | Upper Cape | 1500.0 | 189 |
 | 33 | Quabbin | 1495.0 | 192 |
 | 34 | Springfield Sci-Tech | 1489.6 | 200 |
@@ -765,12 +765,12 @@ Non-MIAA opponents and teams without a known division.
 | Rivers | 1510.4 | 172 | non-member |
 | Bancroft | 1509.6 | 173 | non-member |
 | Archbishop Stepinac (N.Y.) | 1508.7 | 176 | non-member |
-| Cristo Rey | 1500.0 | 183 | unknown |
-| Sturgis East | 1500.0 | 184 | unknown |
-| KIPP | 1500.0 | 185 | unknown |
-| Portsmouth (R.I.) | 1500.0 | 186 | non-member |
+| Portsmouth (R.I.) | 1500.0 | 182 | non-member |
+| Sturgis East | 1500.0 | 183 | unknown |
+| Cristo Rey | 1500.0 | 184 | unknown |
+| South Shore Christian | 1500.0 | 185 | non-member |
+| KIPP | 1500.0 | 186 | unknown |
 | Londonderry (N.H.) | 1500.0 | 187 | non-member |
-| South Shore Christian | 1500.0 | 188 | non-member |
 | Beaver Country Day | 1494.4 | 193 | non-member |
 | Millbrook (N.Y.) | 1491.1 | 198 | non-member |
 | Landmark | 1489.6 | 199 | non-member |
