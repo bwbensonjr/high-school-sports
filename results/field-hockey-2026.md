@@ -1,6 +1,6 @@
 # Field Hockey - 2026 Season
 
-Generated: 2026-11-24 18:09
+Generated: 2026-11-25 17:32
 
 ## Upcoming Games
 
@@ -24,9 +24,10 @@ Generated: 2026-11-24 18:09
 | 2026-11-21 | Uxbridge | 3 | Watertown | 1 | +1.7 | +2.0 |
 | 2026-11-21 | Somerset Berkley | 5 | Nashoba | 4 | +0.8 | +1.0 |
 | 2026-11-21 | Lincoln-Sudbury | 2 | Franklin | 3 | +0.8 | -1.0 |
-| 2026-11-18 | Montrose | 1 | Frederick Gunn (Conn.) | 5 | +0.7 | -4.0 |
+| 2026-11-18 | Lincoln-Sudbury | 3 | Acton-Boxborough | 1 | +0.2 | +2.0 |
 | 2026-11-18 | Portsmouth Abbey | 11 | Rocky Hill Country Day | 0 | +0.6 | +11.0 |
-| 2026-11-18 | New Hampton | 2 | Holderness | 1 | +2.2 | +1.0 |
+| 2026-11-18 | Franklin | 1 | Belmont | 0 | -0.1 | +1.0 |
+| 2026-11-18 | Montrose | 1 | Frederick Gunn (Conn.) | 5 | +0.7 | -4.0 |
 | 2026-11-18 | King (Conn.) | 8 | Kents Hill | 0 | +2.1 | +8.0 |
 | 2026-11-18 | Middlesex | 6 | Greens Farms | 2 | +1.6 | +4.0 |
 | 2026-11-18 | Williston Northampton | 1 | Brooks | 2 | +2.0 | -1.0 |
@@ -39,11 +40,7 @@ Generated: 2026-11-24 18:09
 | 2026-11-18 | Cohasset | 3 | Hopedale | 1 | +0.5 | +2.0 |
 | 2026-11-18 | Dennis-Yarmouth | 3 | Frontier | 2 | +0.7 | +1.0 |
 | 2026-11-18 | Canton | 1 | Somerset Berkley | 3 | +0.1 | -2.0 |
-| 2026-11-18 | Lincoln-Sudbury | 3 | Acton-Boxborough | 1 | +0.2 | +2.0 |
-| 2026-11-18 | Franklin | 1 | Belmont | 0 | -0.1 | +1.0 |
-| 2026-11-17 | Uxbridge | 3 | Dover-Sherborn | 1 | +2.8 | +2.0 |
-| 2026-11-17 | Sandwich | 0 | Watertown | 1 | +1.4 | -1.0 |
-| 2026-11-17 | Nashoba | 2 | Westwood | 0 | +2.0 | +2.0 |
+| 2026-11-18 | New Hampton | 2 | Holderness | 1 | +2.2 | +1.0 |
 
 ## Current Elo Ratings
 

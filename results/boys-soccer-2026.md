@@ -1,6 +1,6 @@
 # Boys Soccer - 2026 Season
 
-Generated: 2026-11-24 18:09
+Generated: 2026-11-25 17:32
 
 ## Upcoming Games
 
@@ -16,48 +16,40 @@ Generated: 2026-11-24 18:09
 | 2026-11-22 | Middlesex | 3 | Thayer | 1 | +0.8 | +2.0 |
 | 2026-11-22 | Belmont Hill | 0 | Hotchkiss | 5 | +0.9 | -5.0 |
 | 2026-11-22 | Loomis Chaffee (Conn.) | 2 | Brooks | 1 | -0.5 | +1.0 |
-| 2026-11-21 | Taft | 0 | Brooks | 2 | +1.0 | -2.0 |
-| 2026-11-21 | Wellesley | 1 | Newton South | 2 | +0.3 | -1.0 |
-| 2026-11-21 | Oliver Ames | 1 | Wayland | 3 | +0.4 | -2.0 |
+| 2026-11-21 | Loomis Chaffee (Conn.) | 2 | Suffield Academy | 1 | +0.2 | +1.0 |
 | 2026-11-21 | Cohasset | 3 | Littleton | 2 | +0.6 | +1.0 |
 | 2026-11-21 | Hopedale | 2 | Keefe Tech | 1 | +0.8 | +1.0 |
 | 2026-11-21 | Thayer | 2 | Mount St. Charles (R.I.) | 0 | +0.9 | +2.0 |
 | 2026-11-21 | Lexington Christian | 2 | Hyde | 1 | -0.8 | +1.0 |
-| 2026-11-21 | Belmont Hill | 6 | Avon Old Farms | 3 | +1.4 | +3.0 |
-| 2026-11-21 | Loomis Chaffee (Conn.) | 2 | Suffield Academy | 1 | +0.2 | +1.0 |
-| 2026-11-21 | Phillips Andover | 1 | Hotchkiss | 2 | +1.4 | -1.0 |
+| 2026-11-21 | Taft | 0 | Brooks | 2 | +1.0 | -2.0 |
 | 2026-11-21 | Middlesex | 3 | Lawrence Academy | 0 | +2.4 | +3.0 |
+| 2026-11-21 | Belmont Hill | 6 | Avon Old Farms | 3 | +1.4 | +3.0 |
+| 2026-11-21 | Phillips Andover | 1 | Hotchkiss | 2 | +1.4 | -1.0 |
+| 2026-11-21 | Wellesley | 1 | Newton South | 2 | +0.3 | -1.0 |
 | 2026-11-21 | Berwick | 0 | Tilton | 1 | +0.7 | -1.0 |
 | 2026-11-21 | MacDuffie | 2 | Wheeler (R.I.) | 3 | +0.1 | -1.0 |
 | 2026-11-21 | Christian Heritage | 1 | Brimmer & May | 0 | -0.1 | +1.0 |
+| 2026-11-21 | Oliver Ames | 1 | Wayland | 3 | +0.4 | -2.0 |
 | 2026-11-20 | Medfield | 5 | Pope Francis | 2 | +0.9 | +3.0 |
-| 2026-11-18 | Lexington Christian | 3 | BU Academy | 1 | +0.1 | +2.0 |
-| 2026-11-18 | Landmark | 0 | Brimmer & May | 1 | +0.2 | -1.0 |
-| 2026-11-18 | Hyde | 3 | Waring | 1 | +1.5 | +2.0 |
-| 2026-11-18 | MacDuffie | 2 | Millbrook (N.Y.) | 1 | -0.4 | +1.0 |
-| 2026-11-18 | Belmont Hill | 1 | Dexter Southfield | 0 | +1.5 | +1.0 |
-| 2026-11-18 | Phillips Andover | 2 | BB&N | 1 | +2.4 | +1.0 |
-| 2026-11-18 | Taft | 4 | Vermont Academy | 0 | +1.3 | +4.0 |
 | 2026-11-18 | Choate | 0 | Brooks | 1 | -0.2 | -1.0 |
+| 2026-11-18 | Lawrence Academy | 3 | St. George’s | 1 | +0.6 | +2.0 |
 | 2026-11-18 | Milton Academy | 0 | Suffield Academy | 1 | +0.2 | -1.0 |
 | 2026-11-18 | Loomis Chaffee (Conn.) | 1 | Northfield Mt. Hermon | 0 | +0.9 | +1.0 |
-| 2026-11-18 | Wheeler (R.I.) | 4 | Portsmouth Abbey | 1 | -0.2 | +3.0 |
+| 2026-11-18 | Belmont Hill | 1 | Dexter Southfield | 0 | +1.5 | +1.0 |
 | 2026-11-18 | Avon Old Farms | 3 | Worcester Academy | 0 | +0.2 | +3.0 |
 | 2026-11-18 | Hotchkiss | 3 | Berkshire | 2 | +0.5 | +1.0 |
+| 2026-11-18 | Phillips Andover | 2 | BB&N | 1 | +2.4 | +1.0 |
 | 2026-11-18 | Middlesex | 2 | Williston Northampton | 1 | +2.3 | +1.0 |
-| 2026-11-18 | Lawrence Academy | 3 | St. George’s | 1 | +0.6 | +2.0 |
 | 2026-11-18 | Mount St. Charles (R.I.) | 3 | St. Luke’s | 1 | +1.4 | +2.0 |
+| 2026-11-18 | Landmark | 0 | Brimmer & May | 1 | +0.2 | -1.0 |
 | 2026-11-18 | Thayer | 1 | Westminster | 0 | +1.9 | +1.0 |
 | 2026-11-18 | Berwick | 5 | St. Andrew’s | 1 | +1.5 | +4.0 |
 | 2026-11-18 | Tilton | 8 | Greens Farms | 1 | +0.1 | +7.0 |
-| 2026-11-17 | Pope Francis | 4 | Norwell | 1 | -0.4 | +3.0 |
-| 2026-11-17 | Wayland | 2 | Northampton | 1 | -0.4 | +1.0 |
-| 2026-11-17 | Oliver Ames | 3 | Milford | 1 | +1.3 | +2.0 |
-| 2026-11-17 | Wellesley | 2 | Arlington | 1 | -0.3 | +1.0 |
-| 2026-11-17 | Medfield | 1 | Pembroke | 0 | +1.0 | +1.0 |
-| 2026-11-17 | Keefe Tech | 5 | Collegiate Charter | 4 | +1.1 | +1.0 |
-| 2026-11-17 | Hopedale | 5 | Brighton | 2 | +1.6 | +3.0 |
-| 2026-11-17 | Newton South | 1 | Catholic Memorial | 0 | -1.2 | +1.0 |
+| 2026-11-18 | Wheeler (R.I.) | 4 | Portsmouth Abbey | 1 | -0.2 | +3.0 |
+| 2026-11-18 | MacDuffie | 2 | Millbrook (N.Y.) | 1 | -0.4 | +1.0 |
+| 2026-11-18 | Lexington Christian | 3 | BU Academy | 1 | +0.1 | +2.0 |
+| 2026-11-18 | Hyde | 3 | Waring | 1 | +1.5 | +2.0 |
+| 2026-11-18 | Taft | 4 | Vermont Academy | 0 | +1.3 | +4.0 |
 
 ## Current Elo Ratings
 

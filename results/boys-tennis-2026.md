@@ -1,6 +1,6 @@
 # Boys Tennis - 2026 Season
 
-Generated: 2026-11-24 18:09
+Generated: 2026-11-25 17:32
 
 ## Upcoming Games
 
@@ -133,8 +133,8 @@ Generated: 2026-11-24 18:09
 | 115 | Worcester Academy | 1507.8 |
 | 116 | Pioneer Valley Christian | 1507.0 |
 | 117 | Chicopee | 1503.1 |
-| 118 | Pittsfield | 1500.0 |
-| 119 | Greater Lawrence | 1500.0 |
+| 118 | Greater Lawrence | 1500.0 |
+| 119 | Pittsfield | 1500.0 |
 | 120 | Fellowship Christian | 1500.0 |
 | 121 | Greater Lowell | 1500.0 |
 | 122 | Diman | 1488.7 |
@@ -292,7 +292,7 @@ Generated: 2026-11-24 18:09
 | 28 | Brookline | 1534.8 | 106 |
 | 29 | Wachusett | 1517.3 | 112 |
 | 30 | Beverly | 1508.8 | 113 |
-| 31 | Greater Lawrence | 1500.0 | 119 |
+| 31 | Greater Lawrence | 1500.0 | 118 |
 | 32 | Diman | 1488.7 | 122 |
 | 33 | Franklin | 1469.5 | 126 |
 | 34 | Plymouth North | 1426.1 | 146 |
@@ -410,7 +410,7 @@ Generated: 2026-11-24 18:09
 | 30 | Medway | 1518.4 | 110 |
 | 31 | Pioneer Valley Christian | 1507.0 | 116 |
 | 32 | Chicopee | 1503.1 | 117 |
-| 33 | Pittsfield | 1500.0 | 118 |
+| 33 | Pittsfield | 1500.0 | 119 |
 | 34 | Holliston | 1466.9 | 128 |
 | 35 | Lynnfield | 1458.4 | 131 |
 | 36 | Amherst-Pelham | 1447.3 | 138 |

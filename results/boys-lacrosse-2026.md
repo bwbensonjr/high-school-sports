@@ -1,6 +1,6 @@
 # Boys Lacrosse - 2026 Season
 
-Generated: 2026-11-24 18:09
+Generated: 2026-11-25 17:32
 
 ## Upcoming Games
 
@@ -160,11 +160,11 @@ Generated: 2026-11-24 18:09
 | 142 | Whittier | 1509.2 |
 | 143 | Melrose | 1508.7 |
 | 144 | Xaverian | 1501.7 |
-| 145 | Bourne | 1500.0 |
-| 146 | Mashpee | 1500.0 |
-| 147 | St. Anthony’s (N.Y.) | 1500.0 |
-| 148 | Latin Academy | 1500.0 |
-| 149 | Everett | 1500.0 |
+| 145 | Mashpee | 1500.0 |
+| 146 | Everett | 1500.0 |
+| 147 | Latin Academy | 1500.0 |
+| 148 | St. Anthony’s (N.Y.) | 1500.0 |
+| 149 | Bourne | 1500.0 |
 | 150 | Bancroft | 1499.6 |
 | 151 | Wilmington | 1497.2 |
 | 152 | Arlington | 1493.4 |
@@ -505,8 +505,8 @@ Generated: 2026-11-24 18:09
 | 14 | Hoosac Valley | 1567.5 | 111 |
 | 15 | Sandwich | 1559.0 | 119 |
 | 16 | Monson | 1557.7 | 120 |
-| 17 | Bourne | 1500.0 | 145 |
-| 18 | Mashpee | 1500.0 | 146 |
+| 17 | Mashpee | 1500.0 | 145 |
+| 18 | Bourne | 1500.0 | 149 |
 | 19 | Nipmuc | 1492.8 | 153 |
 | 20 | South Hadley | 1463.1 | 166 |
 | 21 | Dennis-Yarmouth | 1462.3 | 168 |
@@ -582,9 +582,9 @@ Non-MIAA opponents and teams without a known division.
 | Bishop Guertin (N.H.) | 1526.2 | 135 | non-member |
 | Tilton | 1523.0 | 137 | non-member |
 | Providence Country Day | 1520.8 | 138 | non-member |
-| St. Anthony’s (N.Y.) | 1500.0 | 147 | non-member |
-| Latin Academy | 1500.0 | 148 | unknown |
-| Everett | 1500.0 | 149 | unknown |
+| Everett | 1500.0 | 146 | unknown |
+| Latin Academy | 1500.0 | 147 | unknown |
+| St. Anthony’s (N.Y.) | 1500.0 | 148 | non-member |
 | Bancroft | 1499.6 | 150 | non-member |
 | Ward Melville (N.Y.) | 1489.2 | 154 | non-member |
 | Glastonbury (Conn.) | 1483.4 | 156 | non-member |
