@@ -1,6 +1,6 @@
 # Field Hockey - 2026 Season
 
-Generated: 2026-11-25 17:32
+Generated: 2026-11-26 17:14
 
 ## Upcoming Games
 
@@ -11,36 +11,19 @@ Generated: 2026-11-25 17:32
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-11-22 | King (Conn.) | 0 | New Hampton | 1 | -1.2 | -1.0 |
-| 2026-11-22 | Berkshire | 1 | Middlesex | 2 | -2.1 | -1.0 |
 | 2026-11-22 | Phillips Andover | 4 | Deerfield | 0 | +2.9 | +4.0 |
-| 2026-11-21 | Portsmouth Abbey | 2 | New Hampton | 3 | -0.2 | -1.0 |
-| 2026-11-21 | King (Conn.) | 1 | Frederick Gunn (Conn.) | 0 | +0.5 | +1.0 |
-| 2026-11-21 | Middlesex | 4 | Brooks | 1 | +1.6 | +3.0 |
-| 2026-11-21 | Sacred Heart (Conn.) | 2 | Deerfield | 3 | +0.6 | -1.0 |
-| 2026-11-21 | Phillips Andover | 5 | Milton Academy | 2 | +4.7 | +3.0 |
-| 2026-11-21 | Berkshire | 1 | Governor’s Academy | 0 | -1.6 | +1.0 |
-| 2026-11-21 | Cohasset | 2 | Dennis-Yarmouth | 1 | +0.3 | +1.0 |
-| 2026-11-21 | Uxbridge | 3 | Watertown | 1 | +1.7 | +2.0 |
-| 2026-11-21 | Somerset Berkley | 5 | Nashoba | 4 | +0.8 | +1.0 |
+| 2026-11-22 | Berkshire | 1 | Middlesex | 2 | -2.1 | -1.0 |
+| 2026-11-22 | King (Conn.) | 0 | New Hampton | 1 | -1.2 | -1.0 |
 | 2026-11-21 | Lincoln-Sudbury | 2 | Franklin | 3 | +0.8 | -1.0 |
-| 2026-11-18 | Lincoln-Sudbury | 3 | Acton-Boxborough | 1 | +0.2 | +2.0 |
-| 2026-11-18 | Portsmouth Abbey | 11 | Rocky Hill Country Day | 0 | +0.6 | +11.0 |
-| 2026-11-18 | Franklin | 1 | Belmont | 0 | -0.1 | +1.0 |
-| 2026-11-18 | Montrose | 1 | Frederick Gunn (Conn.) | 5 | +0.7 | -4.0 |
-| 2026-11-18 | King (Conn.) | 8 | Kents Hill | 0 | +2.1 | +8.0 |
-| 2026-11-18 | Middlesex | 6 | Greens Farms | 2 | +1.6 | +4.0 |
-| 2026-11-18 | Williston Northampton | 1 | Brooks | 2 | +2.0 | -1.0 |
-| 2026-11-18 | Governor’s Academy | 4 | Rivers | 0 | -0.1 | +4.0 |
-| 2026-11-18 | Berkshire | 3 | Pingree | 0 | -3.1 | +3.0 |
-| 2026-11-18 | Sacred Heart (Conn.) | 2 | Tabor | 0 | +0.5 | +2.0 |
-| 2026-11-18 | Deerfield | 3 | Greenwich Academy (Conn.) | 0 | -2.0 | +3.0 |
-| 2026-11-18 | Milton Academy | 1 | Taft | 0 | -1.2 | +1.0 |
-| 2026-11-18 | Phillips Andover | 8 | Hotchkiss | 0 | +2.7 | +8.0 |
-| 2026-11-18 | Cohasset | 3 | Hopedale | 1 | +0.5 | +2.0 |
-| 2026-11-18 | Dennis-Yarmouth | 3 | Frontier | 2 | +0.7 | +1.0 |
-| 2026-11-18 | Canton | 1 | Somerset Berkley | 3 | +0.1 | -2.0 |
-| 2026-11-18 | New Hampton | 2 | Holderness | 1 | +2.2 | +1.0 |
+| 2026-11-21 | Somerset Berkley | 5 | Nashoba | 4 | +0.8 | +1.0 |
+| 2026-11-21 | Uxbridge | 3 | Watertown | 1 | +1.7 | +2.0 |
+| 2026-11-21 | Cohasset | 2 | Dennis-Yarmouth | 1 | +0.3 | +1.0 |
+| 2026-11-21 | Berkshire | 1 | Governor’s Academy | 0 | -1.6 | +1.0 |
+| 2026-11-21 | Phillips Andover | 5 | Milton Academy | 2 | +4.7 | +3.0 |
+| 2026-11-21 | Sacred Heart (Conn.) | 2 | Deerfield | 3 | +0.6 | -1.0 |
+| 2026-11-21 | Middlesex | 4 | Brooks | 1 | +1.6 | +3.0 |
+| 2026-11-21 | King (Conn.) | 1 | Frederick Gunn (Conn.) | 0 | +0.5 | +1.0 |
+| 2026-11-21 | Portsmouth Abbey | 2 | New Hampton | 3 | -0.2 | -1.0 |
 
 ## Current Elo Ratings
 

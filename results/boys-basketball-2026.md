@@ -1,6 +1,6 @@
 # Boys Basketball - 2026 Season
 
-Generated: 2026-11-25 17:32
+Generated: 2026-11-26 17:14
 
 ## Upcoming Games
 
@@ -240,10 +240,10 @@ Generated: 2026-11-25 17:32
 | 222 | N.Y. Military Academy | 1502.5 |
 | 223 | Frederick Gunn (Conn.) | 1502.1 |
 | 224 | Waring | 1501.7 |
-| 225 | Ruth Batson Academy | 1501.7 |
-| 226 | Marie Philip | 1501.7 |
-| 227 | Bishop Connolly | 1501.7 |
-| 228 | International School | 1501.7 |
+| 225 | Bishop Connolly | 1501.7 |
+| 226 | International School | 1501.7 |
+| 227 | Marie Philip | 1501.7 |
+| 228 | Ruth Batson Academy | 1501.7 |
 | 229 | Athol | 1501.6 |
 | 230 | Pelham (N.H.) | 1501.3 |
 | 231 | Mt. Hope (R.I.) | 1500.8 |
@@ -754,7 +754,7 @@ Generated: 2026-11-25 17:32
 | 31 | Blackstone-Millville | 1516.3 | 208 |
 | 32 | Monument Mtn. | 1506.5 | 214 |
 | 33 | Mashpee | 1504.0 | 219 |
-| 34 | Ruth Batson Academy | 1501.7 | 225 |
+| 34 | Ruth Batson Academy | 1501.7 | 228 |
 | 35 | South Shore Voc-Tech | 1497.5 | 234 |
 | 36 | Uxbridge | 1493.8 | 240 |
 | 37 | Smith Voc. | 1483.3 | 259 |
@@ -934,9 +934,9 @@ Non-MIAA opponents and teams without a known division.
 | N.Y. Military Academy | 1502.5 | 222 | non-member |
 | Frederick Gunn (Conn.) | 1502.1 | 223 | non-member |
 | Waring | 1501.7 | 224 | non-member |
-| Marie Philip | 1501.7 | 226 | non-member |
-| Bishop Connolly | 1501.7 | 227 | non-member |
-| International School | 1501.7 | 228 | non-member |
+| Bishop Connolly | 1501.7 | 225 | non-member |
+| International School | 1501.7 | 226 | non-member |
+| Marie Philip | 1501.7 | 227 | non-member |
 | Pelham (N.H.) | 1501.3 | 230 | non-member |
 | Mt. Hope (R.I.) | 1500.8 | 231 | non-member |
 | Kimball Union | 1497.3 | 235 | non-member |

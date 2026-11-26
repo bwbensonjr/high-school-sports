@@ -1,6 +1,6 @@
 # Girls Hockey - 2026 Season
 
-Generated: 2026-11-25 17:32
+Generated: 2026-11-26 17:14
 
 ## Upcoming Games
 
@@ -82,9 +82,9 @@ Generated: 2026-11-25 17:32
 | 64 | Framingham | 1514.4 |
 | 65 | Taft | 1514.2 |
 | 66 | Deerfield | 1508.0 |
-| 67 | Northfield Mt. Hermon | 1501.7 |
-| 68 | Vermont Academy | 1501.7 |
-| 69 | Millbrook (N.Y.) | 1501.7 |
+| 67 | Vermont Academy | 1501.7 |
+| 68 | Millbrook (N.Y.) | 1501.7 |
+| 69 | Northfield Mt. Hermon | 1501.7 |
 | 70 | Wakefield | 1475.5 |
 | 71 | Dexter Southfield | 1475.1 |
 | 72 | Glens Falls (N.Y.) | 1474.2 |
@@ -286,9 +286,9 @@ Non-MIAA opponents and teams without a known division.
 | Tabor | 1520.7 | 63 | non-member |
 | Taft | 1514.2 | 65 | non-member |
 | Deerfield | 1508.0 | 66 | non-member |
-| Northfield Mt. Hermon | 1501.7 | 67 | non-member |
-| Vermont Academy | 1501.7 | 68 | non-member |
-| Millbrook (N.Y.) | 1501.7 | 69 | non-member |
+| Vermont Academy | 1501.7 | 67 | non-member |
+| Millbrook (N.Y.) | 1501.7 | 68 | non-member |
+| Northfield Mt. Hermon | 1501.7 | 69 | non-member |
 | Dexter Southfield | 1475.1 | 71 | non-member |
 | Glens Falls (N.Y.) | 1474.2 | 72 | non-member |
 | Kents Hill | 1469.5 | 74 | non-member |

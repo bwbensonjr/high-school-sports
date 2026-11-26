@@ -1925,8 +1925,8 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-14,156399,FINAL,Uxbridge,4398,7,1,Medway,4243,1,0,CMAC,Tri-Valley,2:00 P.M.,,0,MIAA Division 3,Quarterfinals,,
 2026-11-14,156402,FINAL,Dover-Sherborn,4118,2,1,Gloucester,4150,0,0,Tri-Valley,Northeastern,2:00 P.M.,,0,MIAA Division 3,Quarterfinals,,
 2026-11-14,156507,FINAL,Cohasset,4094,8,1,Manchester Essex,4229,0,0,South Shore,Cape Ann,1:00 P.M.,,0,MIAA Division 4,Quarterfinals,,
-2026-11-15,156498,FINAL,Monomoy,4706,1.0,0.0,Hopedale,4507,2.0,1.0,Cape & Islands,CMAC,4:00 P.M.,2.0,0,MIAA Division 4,Quarterfinals,,
-2026-11-15,156504,FINAL,Frontier,4146,2.0,1.0,Quabbin,4325,0.0,0.0,Suburban,Mid-Wach,2:00 P.M.,,0,MIAA Division 4,Quarterfinals,,
+2026-11-15,156498,FINAL,Monomoy,4706,1,0,Hopedale,4507,2,1,Cape & Islands,CMAC,4:00 P.M.,2.0,0,MIAA Division 4,Quarterfinals,,
+2026-11-15,156504,FINAL,Frontier,4146,2,1,Quabbin,4325,0,0,Suburban,Mid-Wach,2:00 P.M.,,0,MIAA Division 4,Quarterfinals,,
 2026-11-17,156288,FINAL,Nashoba,4267,2.0,1.0,Westwood,4424,0.0,0.0,Mid-Wach,Tri-Valley,5:00 P.M.,,0,MIAA Division 2,Semifinals,"Burlington High School, Burlington","Burlington High School, Burlington"
 2026-11-17,156390,FINAL,Uxbridge,4398,3.0,1.0,Dover-Sherborn,4118,1.0,0.0,CMAC,Tri-Valley,5:00 P.M.,,0,MIAA Division 3,Semifinals,"Bridgewater-Raynham, Bridgewater","Bridgewater-Raynham, Bridgewater"
 2026-11-17,156393,FINAL,Sandwich,4340,0.0,0.0,Watertown,4409,1.0,1.0,Cape & Islands,Middlesex,7:00 P.M.,,0,MIAA Division 3,Semifinals,"Bridgewater-Raynham, Bridgewater","Bridgewater-Raynham, Bridgewater"
