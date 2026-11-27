@@ -1,6 +1,6 @@
 # Boys Hockey - 2026 Season
 
-Generated: 2026-11-26 17:14
+Generated: 2026-11-27 16:55
 
 ## Upcoming Games
 
@@ -174,8 +174,8 @@ Generated: 2026-11-26 17:14
 | 156 | Scarborough (Maine) | 1444.6 |
 | 157 | St. Paul’s | 1442.5 |
 | 158 | Stanstead (Canada) | 1440.3 |
-| 159 | Loomis Chaffee (Conn.) | 1440.3 |
-| 160 | La Salle (R.I.) | 1440.3 |
+| 159 | La Salle (R.I.) | 1440.3 |
+| 160 | Loomis Chaffee (Conn.) | 1440.3 |
 | 161 | North Andover | 1436.1 |
 | 162 | Academie Saint-Louis (Que.) | 1430.4 |
 | 163 | Nobles | 1429.3 |
@@ -535,8 +535,8 @@ Non-MIAA opponents and teams without a known division.
 | Scarborough (Maine) | 1444.6 | 156 | non-member |
 | St. Paul’s | 1442.5 | 157 | non-member |
 | Stanstead (Canada) | 1440.3 | 158 | non-member |
-| Loomis Chaffee (Conn.) | 1440.3 | 159 | non-member |
-| La Salle (R.I.) | 1440.3 | 160 | non-member |
+| La Salle (R.I.) | 1440.3 | 159 | non-member |
+| Loomis Chaffee (Conn.) | 1440.3 | 160 | non-member |
 | Academie Saint-Louis (Que.) | 1430.4 | 162 | non-member |
 | Nobles | 1429.3 | 163 | non-member |
 | Harvey (N.Y.) | 1428.3 | 166 | non-member |

@@ -1,6 +1,6 @@
 # Field Hockey - 2026 Season
 
-Generated: 2026-11-26 17:14
+Generated: 2026-11-27 16:55
 
 ## Upcoming Games
 
@@ -161,8 +161,8 @@ Generated: 2026-11-26 17:14
 | 130 | Marshfield | 1503.1 |
 | 131 | Westfield | 1502.4 |
 | 132 | Tahanto | 1501.8 |
-| 133 | Hamden Hall Country Day | 1501.0 |
-| 134 | Ciciro-North Syracuse (N.Y.) | 1501.0 |
+| 133 | Ciciro-North Syracuse (N.Y.) | 1501.0 |
+| 134 | Hamden Hall Country Day | 1501.0 |
 | 135 | Tabor | 1500.8 |
 | 136 | Marblehead | 1499.7 |
 | 137 | Beaver Country Day | 1498.9 |
@@ -590,8 +590,8 @@ Non-MIAA opponents and teams without a known division.
 | Choate | 1509.5 | 126 | non-member |
 | Lawrence | 1506.7 | 127 | unknown |
 | Loomis Chaffee (Conn.) | 1503.8 | 129 | non-member |
-| Hamden Hall Country Day | 1501.0 | 133 | non-member |
-| Ciciro-North Syracuse (N.Y.) | 1501.0 | 134 | non-member |
+| Ciciro-North Syracuse (N.Y.) | 1501.0 | 133 | non-member |
+| Hamden Hall Country Day | 1501.0 | 134 | non-member |
 | Tabor | 1500.8 | 135 | non-member |
 | Beaver Country Day | 1498.9 | 137 | non-member |
 | Milton Academy | 1498.4 | 138 | non-member |

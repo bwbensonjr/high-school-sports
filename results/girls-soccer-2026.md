@@ -1,6 +1,6 @@
 # Girls Soccer - 2026 Season
 
-Generated: 2026-11-26 17:14
+Generated: 2026-11-27 16:55
 
 ## Upcoming Games
 
@@ -234,20 +234,20 @@ Generated: 2026-11-26 17:14
 | 199 | Monty Tech | 1506.8 |
 | 200 | Berwick | 1503.9 |
 | 201 | Nashoba Valley Tech | 1503.7 |
-| 202 | South Shore Christian | 1501.7 |
-| 203 | Newman School | 1501.7 |
-| 204 | Kingswood-Oxford | 1501.7 |
-| 205 | Kent | 1501.7 |
-| 206 | Housatonic Regional (Conn.) | 1501.7 |
-| 207 | Barrington (R.I.) | 1501.7 |
-| 208 | Miss Hall’s | 1501.7 |
-| 209 | La Salle (R.I.) | 1501.7 |
-| 210 | Bridgton Academy | 1501.7 |
-| 211 | Poughkeepsie Day (N.Y.) | 1501.7 |
-| 212 | Neighborhood House Charter | 1501.7 |
-| 213 | King (Conn.) | 1501.7 |
-| 214 | Boston Prep | 1501.7 |
-| 215 | Pioneer Valley Chinese Immersion | 1501.7 |
+| 202 | Miss Hall’s | 1501.7 |
+| 203 | Kent | 1501.7 |
+| 204 | South Shore Christian | 1501.7 |
+| 205 | Pioneer Valley Chinese Immersion | 1501.7 |
+| 206 | Barrington (R.I.) | 1501.7 |
+| 207 | Kingswood-Oxford | 1501.7 |
+| 208 | Bridgton Academy | 1501.7 |
+| 209 | Boston Prep | 1501.7 |
+| 210 | Poughkeepsie Day (N.Y.) | 1501.7 |
+| 211 | Neighborhood House Charter | 1501.7 |
+| 212 | La Salle (R.I.) | 1501.7 |
+| 213 | Newman School | 1501.7 |
+| 214 | Housatonic Regional (Conn.) | 1501.7 |
+| 215 | King (Conn.) | 1501.7 |
 | 216 | Millis | 1501.5 |
 | 217 | Tantasqua | 1500.2 |
 | 218 | Agnes Irwin (Pa.) | 1498.6 |
@@ -777,9 +777,9 @@ Generated: 2026-11-26 17:14
 | 14 | Pioneer Valley Regional | 1513.1 | 192 |
 | 15 | Drury | 1507.4 | 198 |
 | 16 | Nashoba Valley Tech | 1503.7 | 201 |
-| 17 | Neighborhood House Charter | 1501.7 | 212 |
-| 18 | Boston Prep | 1501.7 | 214 |
-| 19 | Pioneer Valley Chinese Immersion | 1501.7 | 215 |
+| 17 | Pioneer Valley Chinese Immersion | 1501.7 | 205 |
+| 18 | Boston Prep | 1501.7 | 209 |
+| 19 | Neighborhood House Charter | 1501.7 | 211 |
 | 20 | Rising Tide Charter | 1481.0 | 235 |
 | 21 | Mahar | 1465.8 | 237 |
 | 22 | Gateway | 1458.9 | 241 |
@@ -872,17 +872,17 @@ Non-MIAA opponents and teams without a known division.
 | Beaver Country Day | 1508.6 | 196 | non-member |
 | Holland (Burke) | 1507.6 | 197 | unknown |
 | Berwick | 1503.9 | 200 | non-member |
-| South Shore Christian | 1501.7 | 202 | non-member |
-| Newman School | 1501.7 | 203 | non-member |
-| Kingswood-Oxford | 1501.7 | 204 | non-member |
-| Kent | 1501.7 | 205 | non-member |
-| Housatonic Regional (Conn.) | 1501.7 | 206 | non-member |
-| Barrington (R.I.) | 1501.7 | 207 | non-member |
-| Miss Hall’s | 1501.7 | 208 | unknown |
-| La Salle (R.I.) | 1501.7 | 209 | non-member |
-| Bridgton Academy | 1501.7 | 210 | non-member |
-| Poughkeepsie Day (N.Y.) | 1501.7 | 211 | non-member |
-| King (Conn.) | 1501.7 | 213 | non-member |
+| Miss Hall’s | 1501.7 | 202 | unknown |
+| Kent | 1501.7 | 203 | non-member |
+| South Shore Christian | 1501.7 | 204 | non-member |
+| Barrington (R.I.) | 1501.7 | 206 | non-member |
+| Kingswood-Oxford | 1501.7 | 207 | non-member |
+| Bridgton Academy | 1501.7 | 208 | non-member |
+| Poughkeepsie Day (N.Y.) | 1501.7 | 210 | non-member |
+| La Salle (R.I.) | 1501.7 | 212 | non-member |
+| Newman School | 1501.7 | 213 | non-member |
+| Housatonic Regional (Conn.) | 1501.7 | 214 | non-member |
+| King (Conn.) | 1501.7 | 215 | non-member |
 | Agnes Irwin (Pa.) | 1498.6 | 218 | unknown |
 | Hope (R.I.) | 1498.2 | 219 | non-member |
 | Bishop Guertin (N.H.) | 1497.7 | 220 | non-member |
