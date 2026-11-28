@@ -1,6 +1,6 @@
 # Boys Soccer - 2026 Season
 
-Generated: 2026-11-27 16:55
+Generated: 2026-11-28 15:46
 
 ## Upcoming Games
 
@@ -16,12 +16,12 @@ Generated: 2026-11-27 16:55
 | 2026-11-22 | Middlesex | 3 | Thayer | 1 | +0.8 | +2.0 |
 | 2026-11-22 | Belmont Hill | 0 | Hotchkiss | 5 | +0.9 | -5.0 |
 | 2026-11-22 | Loomis Chaffee (Conn.) | 2 | Brooks | 1 | -0.5 | +1.0 |
-| 2026-11-21 | Wellesley | 1 | Newton South | 2 | +0.3 | -1.0 |
+| 2026-11-21 | Middlesex | 3 | Lawrence Academy | 0 | +2.4 | +3.0 |
 | 2026-11-21 | Christian Heritage | 1 | Brimmer & May | 0 | -0.1 | +1.0 |
 | 2026-11-21 | MacDuffie | 2 | Wheeler (R.I.) | 3 | +0.1 | -1.0 |
 | 2026-11-21 | Berwick | 0 | Tilton | 1 | +0.7 | -1.0 |
-| 2026-11-21 | Middlesex | 3 | Lawrence Academy | 0 | +2.4 | +3.0 |
-| 2026-11-21 | Phillips Andover | 1 | Hotchkiss | 2 | +1.4 | -1.0 |
+| 2026-11-21 | Wellesley | 1 | Newton South | 2 | +0.3 | -1.0 |
+| 2026-11-21 | Oliver Ames | 1 | Wayland | 3 | +0.4 | -2.0 |
 | 2026-11-21 | Belmont Hill | 6 | Avon Old Farms | 3 | +1.4 | +3.0 |
 | 2026-11-21 | Loomis Chaffee (Conn.) | 2 | Suffield Academy | 1 | +0.2 | +1.0 |
 | 2026-11-21 | Taft | 0 | Brooks | 2 | +1.0 | -2.0 |
@@ -29,8 +29,7 @@ Generated: 2026-11-27 16:55
 | 2026-11-21 | Thayer | 2 | Mount St. Charles (R.I.) | 0 | +0.9 | +2.0 |
 | 2026-11-21 | Hopedale | 2 | Keefe Tech | 1 | +0.8 | +1.0 |
 | 2026-11-21 | Cohasset | 3 | Littleton | 2 | +0.6 | +1.0 |
-| 2026-11-21 | Oliver Ames | 1 | Wayland | 3 | +0.4 | -2.0 |
-| 2026-11-20 | Medfield | 5 | Pope Francis | 2 | +0.9 | +3.0 |
+| 2026-11-21 | Phillips Andover | 1 | Hotchkiss | 2 | +1.4 | -1.0 |
 
 ## Current Elo Ratings
 
@@ -249,9 +248,9 @@ Generated: 2026-11-27 16:55
 | 211 | Belchertown | 1503.7 |
 | 212 | Hull | 1503.3 |
 | 213 | Avon Old Farms | 1503.1 |
-| 214 | South Shore Christian | 1502.8 |
+| 214 | Newton Country Day | 1502.8 |
 | 215 | Xavier (Conn.) | 1502.8 |
-| 216 | Newton Country Day | 1502.8 |
+| 216 | South Shore Christian | 1502.8 |
 | 217 | Rivers | 1501.1 |
 | 218 | Nashoba | 1500.6 |
 | 219 | South Shore Charter | 1500.5 |
@@ -888,9 +887,9 @@ Non-MIAA opponents and teams without a known division.
 | Roxbury Latin | 1504.6 | 209 | non-member |
 | Phillips Exeter | 1504.1 | 210 | non-member |
 | Avon Old Farms | 1503.1 | 213 | non-member |
-| South Shore Christian | 1502.8 | 214 | non-member |
+| Newton Country Day | 1502.8 | 214 | non-member |
 | Xavier (Conn.) | 1502.8 | 215 | non-member |
-| Newton Country Day | 1502.8 | 216 | non-member |
+| South Shore Christian | 1502.8 | 216 | non-member |
 | Rivers | 1501.1 | 217 | non-member |
 | St. Sebastian’s | 1499.2 | 221 | non-member |
 | Holland (Burke) | 1496.5 | 224 | unknown |

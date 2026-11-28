@@ -1,6 +1,6 @@
 # Girls Soccer - 2026 Season
 
-Generated: 2026-11-27 16:55
+Generated: 2026-11-28 15:46
 
 ## Upcoming Games
 
@@ -11,23 +11,22 @@ Generated: 2026-11-27 16:55
 
 | Date | Home Team | Score | Away Team | Score | Predicted Spread | Actual Spread |
 |------|-----------|-------|-----------|-------|------------------|---------------|
-| 2026-11-22 | Austin Prep | 1 | Worcester Academy | 0 | +1.3 | +1.0 |
-| 2026-11-22 | Dexter Southfield | 3 | Lawrence Academy | 1 | +0.7 | +2.0 |
-| 2026-11-22 | Greens Farms | 3 | Brewster Academy | 0 | +0.5 | +3.0 |
 | 2026-11-22 | St. Andrew’s | 3 | Tilton | 0 | +1.1 | +3.0 |
-| 2026-11-21 | Lawrence Academy | 1 | Suffield Academy | 0 | +2.6 | +1.0 |
-| 2026-11-21 | Tilton | 2 | Christian Heritage | 1 | +0.6 | +1.0 |
-| 2026-11-21 | St. Andrew’s | 6 | Landmark | 0 | +1.0 | +6.0 |
-| 2026-11-21 | Greens Farms | 3 | New Hampton | 2 | +1.1 | +1.0 |
-| 2026-11-21 | Dexter Southfield | 6 | Pingree | 0 | -0.5 | +6.0 |
+| 2026-11-22 | Greens Farms | 3 | Brewster Academy | 0 | +0.5 | +3.0 |
+| 2026-11-22 | Dexter Southfield | 3 | Lawrence Academy | 1 | +0.7 | +2.0 |
+| 2026-11-22 | Austin Prep | 1 | Worcester Academy | 0 | +1.3 | +1.0 |
 | 2026-11-21 | Bishop Feehan | 1 | Needham | 0 | +0.2 | +1.0 |
-| 2026-11-21 | Worcester Academy | 3 | Taft | 4 | +2.8 | -1.0 |
-| 2026-11-21 | Austin Prep | 1 | Loomis Chaffee (Conn.) | 0 | +0.9 | +1.0 |
-| 2026-11-21 | Brewster Academy | 2 | Holderness | 0 | +0.7 | +2.0 |
-| 2026-11-21 | Granby | 2 | Hull | 1 | +0.4 | +1.0 |
-| 2026-11-21 | Cohasset | 2 | Douglas | 0 | +0.2 | +2.0 |
 | 2026-11-21 | Duxbury | 1 | Hingham | 0 | +1.1 | +1.0 |
-| 2026-11-20 | Medfield | 3 | Norwell | 2 | +0.9 | +1.0 |
+| 2026-11-21 | Cohasset | 2 | Douglas | 0 | +0.2 | +2.0 |
+| 2026-11-21 | Granby | 2 | Hull | 1 | +0.4 | +1.0 |
+| 2026-11-21 | Brewster Academy | 2 | Holderness | 0 | +0.7 | +2.0 |
+| 2026-11-21 | Austin Prep | 1 | Loomis Chaffee (Conn.) | 0 | +0.9 | +1.0 |
+| 2026-11-21 | Worcester Academy | 3 | Taft | 4 | +2.8 | -1.0 |
+| 2026-11-21 | Dexter Southfield | 6 | Pingree | 0 | -0.5 | +6.0 |
+| 2026-11-21 | Lawrence Academy | 1 | Suffield Academy | 0 | +2.6 | +1.0 |
+| 2026-11-21 | Greens Farms | 3 | New Hampton | 2 | +1.1 | +1.0 |
+| 2026-11-21 | St. Andrew’s | 6 | Landmark | 0 | +1.0 | +6.0 |
+| 2026-11-21 | Tilton | 2 | Christian Heritage | 1 | +0.6 | +1.0 |
 
 ## Current Elo Ratings
 
@@ -235,19 +234,19 @@ Generated: 2026-11-27 16:55
 | 200 | Berwick | 1503.9 |
 | 201 | Nashoba Valley Tech | 1503.7 |
 | 202 | Miss Hall’s | 1501.7 |
-| 203 | Kent | 1501.7 |
-| 204 | South Shore Christian | 1501.7 |
-| 205 | Pioneer Valley Chinese Immersion | 1501.7 |
-| 206 | Barrington (R.I.) | 1501.7 |
+| 203 | South Shore Christian | 1501.7 |
+| 204 | Boston Prep | 1501.7 |
+| 205 | La Salle (R.I.) | 1501.7 |
+| 206 | Kent | 1501.7 |
 | 207 | Kingswood-Oxford | 1501.7 |
-| 208 | Bridgton Academy | 1501.7 |
-| 209 | Boston Prep | 1501.7 |
-| 210 | Poughkeepsie Day (N.Y.) | 1501.7 |
-| 211 | Neighborhood House Charter | 1501.7 |
-| 212 | La Salle (R.I.) | 1501.7 |
-| 213 | Newman School | 1501.7 |
-| 214 | Housatonic Regional (Conn.) | 1501.7 |
-| 215 | King (Conn.) | 1501.7 |
+| 208 | Barrington (R.I.) | 1501.7 |
+| 209 | Pioneer Valley Chinese Immersion | 1501.7 |
+| 210 | Housatonic Regional (Conn.) | 1501.7 |
+| 211 | Bridgton Academy | 1501.7 |
+| 212 | Poughkeepsie Day (N.Y.) | 1501.7 |
+| 213 | Neighborhood House Charter | 1501.7 |
+| 214 | King (Conn.) | 1501.7 |
+| 215 | Newman School | 1501.7 |
 | 216 | Millis | 1501.5 |
 | 217 | Tantasqua | 1500.2 |
 | 218 | Agnes Irwin (Pa.) | 1498.6 |
@@ -777,9 +776,9 @@ Generated: 2026-11-27 16:55
 | 14 | Pioneer Valley Regional | 1513.1 | 192 |
 | 15 | Drury | 1507.4 | 198 |
 | 16 | Nashoba Valley Tech | 1503.7 | 201 |
-| 17 | Pioneer Valley Chinese Immersion | 1501.7 | 205 |
-| 18 | Boston Prep | 1501.7 | 209 |
-| 19 | Neighborhood House Charter | 1501.7 | 211 |
+| 17 | Boston Prep | 1501.7 | 204 |
+| 18 | Pioneer Valley Chinese Immersion | 1501.7 | 209 |
+| 19 | Neighborhood House Charter | 1501.7 | 213 |
 | 20 | Rising Tide Charter | 1481.0 | 235 |
 | 21 | Mahar | 1465.8 | 237 |
 | 22 | Gateway | 1458.9 | 241 |
@@ -873,16 +872,16 @@ Non-MIAA opponents and teams without a known division.
 | Holland (Burke) | 1507.6 | 197 | unknown |
 | Berwick | 1503.9 | 200 | non-member |
 | Miss Hall’s | 1501.7 | 202 | unknown |
-| Kent | 1501.7 | 203 | non-member |
-| South Shore Christian | 1501.7 | 204 | non-member |
-| Barrington (R.I.) | 1501.7 | 206 | non-member |
+| South Shore Christian | 1501.7 | 203 | non-member |
+| La Salle (R.I.) | 1501.7 | 205 | non-member |
+| Kent | 1501.7 | 206 | non-member |
 | Kingswood-Oxford | 1501.7 | 207 | non-member |
-| Bridgton Academy | 1501.7 | 208 | non-member |
-| Poughkeepsie Day (N.Y.) | 1501.7 | 210 | non-member |
-| La Salle (R.I.) | 1501.7 | 212 | non-member |
-| Newman School | 1501.7 | 213 | non-member |
-| Housatonic Regional (Conn.) | 1501.7 | 214 | non-member |
-| King (Conn.) | 1501.7 | 215 | non-member |
+| Barrington (R.I.) | 1501.7 | 208 | non-member |
+| Housatonic Regional (Conn.) | 1501.7 | 210 | non-member |
+| Bridgton Academy | 1501.7 | 211 | non-member |
+| Poughkeepsie Day (N.Y.) | 1501.7 | 212 | non-member |
+| King (Conn.) | 1501.7 | 214 | non-member |
+| Newman School | 1501.7 | 215 | non-member |
 | Agnes Irwin (Pa.) | 1498.6 | 218 | unknown |
 | Hope (R.I.) | 1498.2 | 219 | non-member |
 | Bishop Guertin (N.H.) | 1497.7 | 220 | non-member |

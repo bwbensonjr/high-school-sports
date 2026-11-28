@@ -1698,12 +1698,12 @@ date,game_id,status,home_team,home_team_id,home_score,home_outcome,visitor_team,
 2026-11-26,152606,FINAL,Boston Latin,4049,13.0,0.0,English High,4048,19.0,1.0,Dual County,Boston City,10:00 A.M.,,0,,,,
 2026-11-26,153960,FINAL,Seekonk,4344,35.0,1.0,Dighton-Rehoboth/Bristol Aggie,4114,24.0,0.0,South Coast,South Coast,10:00 A.M.,,0,,,,
 2026-11-26,154198,FINAL,Sandwich,4340,23.0,1.0,Mashpee,4237,20.0,0.0,Cape & Islands,South Shore,10:00 A.M.,,0,,,,
-2026-11-27,128482,UPCOMING,Bedford,4031,,,Burlington,4065,,,Dual County,Middlesex,12:00 P.M.,,0,,,,
+2026-11-27,128482,FINAL,Bedford,4031,42.0,1.0,Burlington,4065,8.0,0.0,Dual County,Middlesex,12:00 P.M.,,0,,,,
 2026-12-04,155422,UPCOMING,Rockland,4331,,,Amesbury,4007,,,South Shore,Cape Ann,7:00 P.M.,,0,MIAA Division 7,Final,"Merrimack College, North Andover","Merrimack College, North Andover"
 2026-12-04,155596,UPCOMING,Lee,4206,,,Nashoba Valley Tech,4268,,,Intercounty,Commonwealth,7:00 P.M.,,0,MIAA Division 8,Final,"Worcester State University, Worcester","Worcester State University, Worcester"
 2026-12-05,155287,UPCOMING,St. John’s Prep,4369,,,St. John’s (Shrewsbury),4368,,,Catholic Conference,Catholic Conference,11:30 A.M.,,0,MIAA Division 1,Final,"Boston College, Chestnut Hill","Boston College, Chestnut Hill"
+2026-12-05,155332,UPCOMING,Mansfield,4230,,,Marshfield,4234,,,Hockomock,Patriot,3:00 P.M.,,0,MIAA Division 3,Final,"Boston College, Chestnut Hill","Boston College, Chestnut Hill"
 2026-12-05,155377,UPCOMING,Shawsheen,4346,,,Foxborough,4142,,,Commonwealth,Hockomock,11:00 A.M.,,0,MIAA Division 5,Final,"Veterans Stadium, Quincy","Veterans Stadium, Quincy"
 2026-12-05,155551,UPCOMING,Norwell,4296,,,Abington,4002,,,South Shore,South Shore,3:00 P.M.,,0,MIAA Division 6,Final,"Veterans Stadium, Quincy","Veterans Stadium, Quincy"
-2026-12-06,155332,UPCOMING,Mansfield,4230,,,Marshfield,4234,,,Hockomock,Patriot,3:00 P.M.,,0,MIAA Division 3,Final,"Boston College, Chestnut Hill","Boston College, Chestnut Hill"
 2026-12-06,155467,UPCOMING,Catholic Memorial,4080,,,Billerica,4040,,,Catholic Conference,Merrimack Valley,11:30 A.M.,,0,MIAA Division 2,Final,"Boston College, Chestnut Hill","Boston College, Chestnut Hill"
 2026-12-06,155506,UPCOMING,Tewksbury,4389,,,Walpole,4404,,,Merrimack Valley,Bay State,3:00 P.M.,,0,MIAA Division 4,Final,"Boston College, Chestnut Hill","Boston College, Chestnut Hill"

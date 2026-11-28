@@ -1,6 +1,6 @@
 # Boys Golf - 2026 Season
 
-Generated: 2026-11-27 16:55
+Generated: 2026-11-28 15:46
 
 ## Upcoming Games
 
@@ -152,8 +152,8 @@ Generated: 2026-11-27 16:55
 | 134 | Pittsfield | 1509.5 |
 | 135 | Lowell Catholic | 1507.6 |
 | 136 | Westwood | 1501.4 |
-| 137 | Greenfield | 1501.0 |
-| 138 | St. Paul’s | 1501.0 |
+| 137 | St. Paul’s | 1501.0 |
+| 138 | Greenfield | 1501.0 |
 | 139 | Grafton | 1497.4 |
 | 140 | Bristol-Plymouth | 1488.1 |
 | 141 | Seekonk | 1486.6 |
@@ -633,8 +633,8 @@ Non-MIAA opponents and teams without a known division.
 | Beaver Country Day | 1532.2 | 125 | non-member |
 | Winchendon | 1532.0 | 127 | non-member |
 | Pittsfield | 1509.5 | 134 | unknown |
-| Greenfield | 1501.0 | 137 | unknown |
-| St. Paul’s | 1501.0 | 138 | non-member |
+| St. Paul’s | 1501.0 | 137 | non-member |
+| Greenfield | 1501.0 | 138 | unknown |
 | Watkinson | 1481.7 | 143 | non-member |
 | Kents Hill | 1470.1 | 155 | non-member |
 | Marianapolis | 1455.7 | 164 | non-member |
